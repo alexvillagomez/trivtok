@@ -563,23 +563,23 @@
   {
     "text": "What procedure could challenge a law as unconstitutional?",
     "choices": [
-      "Graphe nomon me epitedeion theinai",
       "Ostracism",
       "Dokimasia",
-      "Apagoge"
+      "Apagoge",
+      "Graphe nomon me epitedeion theinai"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.78
   },
   {
     "text": "What did an Assembly decree (psephisma) ordinarily concern?",
     "choices": [
-      "A homicide verdict",
       "A particular policy decision",
+      "A homicide verdict",
       "The permanent law code only",
       "A deme marriage"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "difficulty": 0.79
   },
   {
@@ -729,11 +729,11 @@
     "text": "What was the boule’s annual oath concerned with?",
     "choices": [
       "Judging homicide",
-      "Advising according to the laws",
       "Commanding foreign armies",
+      "Advising according to the laws",
       "Collecting tribute"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "difficulty": 0.76
   },
   {
@@ -773,22 +773,22 @@
     "text": "Who could move a motion in the Assembly?",
     "choices": [
       "Only the archon basileus",
-      "A citizen speaker recognized by the presiding officials",
       "Any metic",
+      "A citizen speaker recognized by the presiding officials",
       "A foreign ambassador"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "difficulty": 0.8
   },
   {
     "text": "What was proedria?",
     "choices": [
       "A tax class",
-      "The privilege of front-row seating",
       "A deme register",
-      "A jury oath"
+      "A jury oath",
+      "The privilege of front-row seating"
     ],
-    "correctIndex": 1,
+    "correctIndex": 3,
     "difficulty": 0.81
   },
   {
@@ -806,22 +806,22 @@
     "text": "What did the law of Demophantus target?",
     "choices": [
       "Market weights",
-      "Inheritance disputes",
       "Tyranny and attempts to overthrow democracy",
+      "Inheritance disputes",
       "Foreign marriage"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "difficulty": 0.83
   },
   {
     "text": "Why did an Athenian decree declare Arthmius of Zeleia atimos and an enemy?",
     "choices": [
       "Ostracism procedure",
-      "He brought Persian gold into the Peloponnese",
       "Jury pay",
+      "He brought Persian gold into the Peloponnese",
       "Naval taxes"
     ],
-    "correctIndex": 1,
+    "correctIndex": 2,
     "difficulty": 0.84
   },
   {
@@ -829,32 +829,32 @@
     "choices": [
       "The boule",
       "The Assembly itself",
-      "A dikasterion",
-      "The Areopagus only"
+      "The Areopagus only",
+      "A dikasterion"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.85
   },
   {
     "text": "What risk did a prosecutor face if a graphe paranomon won fewer than one-fifth of the jurors' votes?",
     "choices": [
+      "A 1,000-drachma fine and loss of the right to bring similar public actions",
       "Immediate exile for ten years",
       "Confiscation of all deme land",
-      "Military conscription",
-      "A 1,000-drachma fine and loss of the right to bring similar public actions"
+      "Military conscription"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "difficulty": 0.86
   },
   {
     "text": "What was an apagoge?",
     "choices": [
       "A jury lottery",
+      "Summary arrest of certain alleged offenders",
       "A law proposal",
-      "A tribal sacrifice",
-      "Summary arrest of certain alleged offenders"
+      "A tribal sacrifice"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "difficulty": 0.87
   },
   {
@@ -862,10 +862,10 @@
     "choices": [
       "The sacred treasury",
       "The navy",
-      "Assembly agendas",
-      "Prisons and certain executions"
+      "Prisons and certain executions",
+      "Assembly agendas"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "difficulty": 0.88
   },
   {
@@ -873,32 +873,32 @@
     "choices": [
       "Boule presidents",
       "Foreign arbitrators",
-      "Local judges in demes",
-      "Ten tribal generals"
+      "Ten tribal generals",
+      "Local judges in demes"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.89
   },
   {
     "text": "Which magistrates handled weights and measures?",
     "choices": [
+      "Metronomoi",
       "Agoranomoi",
       "Logistai",
-      "Prytaneis",
-      "Metronomoi"
+      "Prytaneis"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "difficulty": 0.9
   },
   {
     "text": "How were the ten agoranomoi divided between the urban center and the port in the fourth-century account?",
     "choices": [
       "All ten served only in the Piraeus",
+      "Five served in Athens and five in the Piraeus",
       "Six served in Athens and four in the Piraeus",
-      "One served for each tribe without a fixed location",
-      "Five served in Athens and five in the Piraeus"
+      "One served for each tribe without a fixed location"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "difficulty": 0.91
   },
   {
@@ -917,32 +917,32 @@
     "choices": [
       "Register demes",
       "Preside over ostracism",
-      "Administer sacred funds",
-      "Lead juries"
+      "Lead juries",
+      "Administer sacred funds"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.9299999999999999
   },
   {
     "text": "What was the theorikon?",
     "choices": [
+      "A fund supporting citizens’ festival attendance",
       "A jury fine",
       "A naval tax",
-      "A deme census",
-      "A fund supporting citizens’ festival attendance"
+      "A deme census"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "difficulty": 0.74
   },
   {
     "text": "Which festival fund became politically controversial in the fourth century?",
     "choices": [
       "The eisphora",
+      "The theorikon",
       "The metoikion",
-      "The misthos bouleutikos",
-      "The theorikon"
+      "The misthos bouleutikos"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "difficulty": 0.75
   },
   {
@@ -950,10 +950,10 @@
     "choices": [
       "A deme could secede",
       "A general could veto a decree",
-      "A juror could appeal",
-      "A wealthy citizen could challenge another to exchange property"
+      "A wealthy citizen could challenge another to exchange property",
+      "A juror could appeal"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "difficulty": 0.76
   },
   {
@@ -961,32 +961,32 @@
     "choices": [
       "A boule election",
       "An ostracism",
-      "A sponsor’s victory funding a chorus",
-      "A homicide verdict"
+      "A homicide verdict",
+      "A sponsor’s victory funding a chorus"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.77
   },
   {
     "text": "Which office supervised the sacred Eleusinian procession?",
     "choices": [
+      "The archon basileus",
       "The polemarch",
       "The eponymous archon",
-      "The demarch",
-      "The archon basileus"
+      "The demarch"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "difficulty": 0.78
   },
   {
     "text": "What combination of duties belonged to the classical Athenian polemarch?",
     "choices": [
       "Sacred mysteries alone",
+      "Metic lawsuits and certain war-related cult observances",
       "Jury allotment",
-      "The Assembly agenda",
-      "Metic lawsuits and certain war-related cult observances"
+      "The Assembly agenda"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "difficulty": 0.79
   },
   {
@@ -994,10 +994,10 @@
     "choices": [
       "The jury oath",
       "The naval fleet",
-      "The ten tribes",
-      "The civic year"
+      "The civic year",
+      "The ten tribes"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "difficulty": 0.8
   },
   {
@@ -1005,32 +1005,32 @@
     "choices": [
       "The archon basileus",
       "The strategos",
-      "The eponymous archon",
-      "The polemarch"
+      "The polemarch",
+      "The eponymous archon"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.81
   },
   {
     "text": "What was the Areopagus’ traditional meeting place?",
     "choices": [
+      "The Hill of Ares",
       "The Pnyx",
       "The Agora law court",
-      "The Acropolis theater",
-      "The Hill of Ares"
+      "The Acropolis theater"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "difficulty": 0.82
   },
   {
     "text": "Which reform transferred many Areopagus powers to popular bodies?",
     "choices": [
       "Solon’s seisachtheia",
+      "Ephialtes’ reform",
       "Draco’s code",
-      "Pericles’ citizenship law",
-      "Ephialtes’ reform"
+      "Pericles’ citizenship law"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "difficulty": 0.83
   },
   {
@@ -1038,10 +1038,10 @@
     "choices": [
       "Tribal divisions",
       "Foreign tribute",
-      "Jury pay",
-      "Debt burdens and debt bondage"
+      "Debt burdens and debt bondage",
+      "Jury pay"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "difficulty": 0.84
   },
   {
@@ -1049,32 +1049,32 @@
     "choices": [
       "Appeal from a deme to Sparta",
       "Appeal from generals to the Areopagus",
-      "Appeal from a magistrate to the people",
-      "Appeal from a jury to Persia"
+      "Appeal from a jury to Persia",
+      "Appeal from a magistrate to the people"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.85
   },
   {
     "text": "What did Cleisthenes’ ostracism innovation aim to prevent?",
     "choices": [
+      "Concentration of personal political power",
       "Foreign trade",
       "Jury bribery only",
-      "Loss of sacred land",
-      "Concentration of personal political power"
+      "Loss of sacred land"
     ],
-    "correctIndex": 3,
+    "correctIndex": 0,
     "difficulty": 0.86
   },
   {
     "text": "Which source describes Athenian constitutional development in narrative form?",
     "choices": [
       "Homer’s Iliad",
+      "Aristotle’s Athenaion Politeia",
       "Thucydides’ Sicilian speech",
-      "Herodotus’ Egyptian logos",
-      "Aristotle’s Athenaion Politeia"
+      "Herodotus’ Egyptian logos"
     ],
-    "correctIndex": 3,
+    "correctIndex": 1,
     "difficulty": 0.87
   },
   {
@@ -1082,10 +1082,10 @@
     "choices": [
       "The Areopagus",
       "The ekklesia",
-      "The heliaia",
-      "The boule"
+      "The boule",
+      "The heliaia"
     ],
-    "correctIndex": 3,
+    "correctIndex": 2,
     "difficulty": 0.88
   },
   {
@@ -1093,10 +1093,10 @@
     "choices": [
       "Assembly quorum check",
       "Ostracism tally",
-      "Pre-office scrutiny of archons",
-      "Postwar trial of generals"
+      "Postwar trial of generals",
+      "Pre-office scrutiny of archons"
     ],
-    "correctIndex": 2,
+    "correctIndex": 3,
     "difficulty": 0.89
   }
 ]

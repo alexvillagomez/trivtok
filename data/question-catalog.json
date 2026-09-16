@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "generatedOn": "2026-09-07",
+  "generatedOn": "2026-09-16",
   "sourceDirectory": "data/generated",
   "totals": {
-    "files": 248,
-    "questions": 14054,
+    "files": 256,
+    "questions": 15259,
     "duplicateQuestionGroups": 0,
     "errors": 0,
-    "warnings": 109
+    "warnings": 108
   },
   "topicFamilies": [
     {
@@ -17,10 +17,63 @@
       "files": [
         "data/generated/sports-world-football.json",
         "data/generated/world-football-pop-culture.json",
-        "data/generated/world-football-club-competitions.json"
+        "data/generated/world-football-club-competitions.json",
+        "data/generated/world-football-tactics-and-formations.json"
       ],
-      "questions": 233,
-      "hardQuestions": 76,
+      "questions": 333,
+      "easierQuestions": 207,
+      "hardQuestions": 126,
+      "targetMet": true
+    },
+    {
+      "id": "sports.world-football.tactics-formations",
+      "topic": "World football tactics and formations",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/world-football-tactics-and-formations.json"
+      ],
+      "questions": 100,
+      "easierQuestions": 50,
+      "hardQuestions": 50,
+      "targetMet": true
+    },
+    {
+      "id": "science.biology.cardiovascular-circulation",
+      "topic": "Cardiovascular anatomy and circulation",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/cardiovascular-anatomy-and-circulation.json"
+      ],
+      "questions": 100,
+      "easierQuestions": 50,
+      "hardQuestions": 50,
+      "targetMet": true
+    },
+    {
+      "id": "history.ancient-egypt.old-kingdom-pyramids",
+      "topic": "Old Kingdom pyramids and tombs",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json"
+      ],
+      "questions": 100,
+      "easierQuestions": 50,
+      "hardQuestions": 50,
       "targetMet": true
     },
     {
@@ -33,6 +86,7 @@
         "data/generated/genetics-mendelian-ratios-and-linkage.json"
       ],
       "questions": 100,
+      "easierQuestions": 20,
       "hardQuestions": 80,
       "targetMet": true
     },
@@ -46,6 +100,7 @@
         "data/generated/oceanography-thermohaline-circulation.json"
       ],
       "questions": 100,
+      "easierQuestions": 20,
       "hardQuestions": 80,
       "targetMet": true
     },
@@ -59,6 +114,7 @@
         "data/generated/french-revolution-committees-and-revolutionary-government.json"
       ],
       "questions": 100,
+      "easierQuestions": 37,
       "hardQuestions": 63,
       "targetMet": true
     },
@@ -72,6 +128,7 @@
         "data/generated/ancient-greece-athenian-democratic-institutions.json"
       ],
       "questions": 100,
+      "easierQuestions": 19,
       "hardQuestions": 81,
       "targetMet": true
     },
@@ -85,6 +142,7 @@
         "data/generated/shakespeare-textual-history-and-quartos.json"
       ],
       "questions": 100,
+      "easierQuestions": 0,
       "hardQuestions": 100,
       "targetMet": true
     },
@@ -98,6 +156,7 @@
         "data/generated/renaissance-painting-iconography-and-commissions.json"
       ],
       "questions": 100,
+      "easierQuestions": 0,
       "hardQuestions": 100,
       "targetMet": true
     }
@@ -136,6 +195,22 @@
       "sha256": "06f862e8cee28a17b3dc59c0a8e350e9ac1a650555c7a3d0701ccdae7afa89c6"
     },
     {
+      "file": "data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.94,
+        "hardAtOrAbove070": 50
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "05dff17813a74906931ce1b5ea81cc85994d3d5a2e71a5f2f59ad41394001fa8"
+    },
+    {
       "file": "data/generated/ancient-greece-athenian-democratic-institutions.json",
       "questions": 100,
       "difficulty": {
@@ -149,7 +224,7 @@
         25,
         25
       ],
-      "sha256": "e20f5bf285f7958b912636b3d7ed4d6c9e5efeeb6de8fb54af28c318734fd64c"
+      "sha256": "df4fc3745759faaf7481c36f02c519899800407a532c7bd5b66bdc0bf700e845"
     },
     {
       "file": "data/generated/animated-tv-and-cartoons.json",
@@ -680,6 +755,22 @@
       "sha256": "737634edd0a3b75a82eb090b8f5444753c87692709e8ca802eee7c9b2c61aed8"
     },
     {
+      "file": "data/generated/cardiovascular-anatomy-and-circulation.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.9,
+        "hardAtOrAbove070": 50
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "0aaf283d6288bf459e0a8e12c4f2ff531bdee045cb06b8a61d6db9c172b2e0a1"
+    },
+    {
       "file": "data/generated/celebrity-scandals-and-tabloid-culture.json",
       "questions": 41,
       "difficulty": {
@@ -997,7 +1088,7 @@
         25,
         25
       ],
-      "sha256": "f453954a95fd26fd0986e5538f3ed494f496409ad65654dd6e5ad7a89e60f468"
+      "sha256": "f2c900b25f2f71bfd2f18f1abb94395814a0d866ee7142990e60df30d5e56749"
     },
     {
       "file": "data/generated/game-shows-and-quiz-shows.json",
@@ -3080,6 +3171,22 @@
       "sha256": "65ea06ebc8ce8a081db3e78ce6aa669b4ff576c9944c64ea76bd6d0a0108953e"
     },
     {
+      "file": "data/generated/pokemon-games-deep.json",
+      "questions": 254,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.88,
+        "hardAtOrAbove070": 60
+      },
+      "correctIndexDistribution": [
+        64,
+        64,
+        63,
+        63
+      ],
+      "sha256": "40d181107b5a53a26a6f9b4b97df55a34ee9e298b8ffbb624cfe58d180e9745b"
+    },
+    {
       "file": "data/generated/pompey-the-great.json",
       "questions": 96,
       "difficulty": {
@@ -3173,7 +3280,7 @@
         25,
         25
       ],
-      "sha256": "e9f777bbc07f2c4276062b9311d9137007c8cc2375f1605f73c980aeb0b31471"
+      "sha256": "88cd20ebfd5c7cfd0a4b89b9baf0ecc4a91823b7195b0fdd5b482fa1ddbb5ad9"
     },
     {
       "file": "data/generated/rock-pop-history.json",
@@ -3541,7 +3648,7 @@
         25,
         25
       ],
-      "sha256": "36ee0f90c297f1e53323ac74f59cc6f1b2df1c7e2d6121848f8550ce2efef6e6"
+      "sha256": "5ab4b365a29a44c5ef6dee9198f734af02f2d49998d44cf435cd2a6d8faee635"
     },
     {
       "file": "data/generated/shonen-jump-classics.json",
@@ -3832,6 +3939,22 @@
       "sha256": "a961465c012c1de203cd4beac6155286f75aa19fd9e41faea96c2d10740dce62"
     },
     {
+      "file": "data/generated/star-wars-saga-deep.json",
+      "questions": 160,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        40,
+        40,
+        40,
+        40
+      ],
+      "sha256": "37e43be4a02db8cdf8cdd145a11be2b646b9dbcaa7ce6090683ed5eb8bc93238"
+    },
+    {
       "file": "data/generated/statistical-mechanics-deep.json",
       "questions": 90,
       "difficulty": {
@@ -3960,6 +4083,22 @@
       "sha256": "81e663caefba916d31a1e41f24a2376252227aabf53bd9abd88cadf339cef6c0"
     },
     {
+      "file": "data/generated/tolkien-middle-earth-deep.json",
+      "questions": 172,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        43,
+        43,
+        43,
+        43
+      ],
+      "sha256": "0361cb4b42a692e931fcccecd3d7a054c48a1ecb3d356e6befeba7da126dd9b3"
+    },
+    {
       "file": "data/generated/transportation-trains-and-railways.json",
       "questions": 48,
       "difficulty": {
@@ -3976,6 +4115,22 @@
       "sha256": "e30de1a35229de30e35e1ea04fdd1209f0772f8a6cd3ce8c251a44d256e683b0"
     },
     {
+      "file": "data/generated/tv-seinfeld-deep.json",
+      "questions": 139,
+      "difficulty": {
+        "min": 0.09,
+        "max": 0.72,
+        "hardAtOrAbove070": 18
+      },
+      "correctIndexDistribution": [
+        35,
+        35,
+        35,
+        34
+      ],
+      "sha256": "7218dd6aa8a8604dfb5576cf7a764c8289f947a196b3256296c9bd68435e2347"
+    },
+    {
       "file": "data/generated/tv-shows-sitcoms.json",
       "questions": 88,
       "difficulty": {
@@ -3990,6 +4145,22 @@
         0
       ],
       "sha256": "bbb2d08626c6a2d026086c563d06e736ea6751d80f5c8d9a85e0487be8f4097d"
+    },
+    {
+      "file": "data/generated/tv-simpsons-classic-era.json",
+      "questions": 180,
+      "difficulty": {
+        "min": 0.11,
+        "max": 0.78,
+        "hardAtOrAbove070": 22
+      },
+      "correctIndexDistribution": [
+        45,
+        45,
+        45,
+        45
+      ],
+      "sha256": "55fb7f49eff5dd46fc10e8f2419543aaeffabe9e52ab701c442f45782582b8e1"
     },
     {
       "file": "data/generated/us-government-constitution.json",
@@ -4054,6 +4225,22 @@
         0
       ],
       "sha256": "5bf89edbb489becadd11de9b16ecbcdbd53ebb986c6cc092c829019465e58dd8"
+    },
+    {
+      "file": "data/generated/world-football-tactics-and-formations.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.91,
+        "hardAtOrAbove070": 50
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "b7d12c70f1db01a6f862a353d872925ce7905af204b0e8a9e5ebadcfae1d422c"
     },
     {
       "file": "data/generated/world-religions-basics.json",

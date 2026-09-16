@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What kind of tomb is a mastaba?",
+    "choices": [
+      "A rectangular tomb with a flat-roofed superstructure",
+      "A circular stone tower",
+      "A cliff-cut gallery tomb",
+      "A freestanding obelisk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Where is the ancient cemetery of Saqqara located?",
+    "choices": [
+      "On an island at Aswan",
+      "On the west bank near Memphis",
+      "In the eastern Delta",
+      "In the Sinai highlands"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which dynasty is associated with the Step Pyramid complex at Saqqara?",
+    "choices": [
+      "The First Dynasty",
+      "The Eighteenth Dynasty",
+      "The Third Dynasty",
+      "The Twenty-sixth Dynasty"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who is traditionally credited with designing Djoser's Step Pyramid complex?",
+    "choices": [
+      "Hemiunu",
+      "Ptahshepses",
+      "Mereruka",
+      "Imhotep"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What geometric form distinguishes Djoser's pyramid?",
+    "choices": [
+      "A series of receding steps",
+      "A single smooth cone",
+      "A circular dome",
+      "A long underground corridor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What made Djoser's funerary complex especially significant in Egyptian architecture?",
+    "choices": [
+      "Its use of fired-brick vaults",
+      "Its extensive use of cut stone",
+      "Its location inside a natural cave",
+      "Its construction entirely from wood"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In a standard Old Kingdom royal complex, along which broad axis were the main elements arranged?",
+    "choices": [
+      "Northwest to southeast",
+      "North to south only",
+      "East to west",
+      "In a circular ring"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which structure normally marked the king's burial place in an Old Kingdom pyramid complex?",
+    "choices": [
+      "The valley temple",
+      "The workers' barracks",
+      "The causeway entrance",
+      "The pyramid itself"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Where was the pyramid temple normally placed?",
+    "choices": [
+      "Against the pyramid's east side",
+      "At the far end of the causeway in the fields",
+      "Inside the pyramid's apex",
+      "Beneath the valley temple"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What was the usual position of a valley temple?",
+    "choices": [
+      "On the summit of the pyramid",
+      "At the eastern edge of cultivation",
+      "Inside the royal burial chamber",
+      "In the middle of the desert cemetery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What did the causeway connect in a royal pyramid complex?",
+    "choices": [
+      "The burial chamber and sarcophagus",
+      "Two neighboring pyramids",
+      "The valley temple and pyramid temple",
+      "The palace and a military fort"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is a pyramidion?",
+    "choices": [
+      "A priest who served the pyramid cult",
+      "A subterranean storage room",
+      "A type of funerary boat",
+      "The small capstone at a pyramid's top"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which stone was commonly used for the main bulk of Old Kingdom pyramids?",
+    "choices": [
+      "Limestone",
+      "Basalt",
+      "Alabaster",
+      "Quartzite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Why was granite especially valued in Old Kingdom monuments?",
+    "choices": [
+      "It floated easily on the Nile",
+      "It was hard and durable",
+      "It was softer than mud brick",
+      "It could be grown in temple gardens"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which quarry region was especially known for fine limestone used in pyramid casing?",
+    "choices": [
+      "Dakhla Oasis",
+      "The Faiyum",
+      "Tura",
+      "Elephantine Island"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "From which southern region did much of the granite used in royal monuments come?",
+    "choices": [
+      "Alexandria",
+      "The Delta marshes",
+      "The Western Desert near Siwa",
+      "Aswan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Dahshur lies in which general direction from central Cairo?",
+    "choices": [
+      "South",
+      "North",
+      "East across the Sinai",
+      "West beyond the Libyan border"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which ruler is associated with both the Bent Pyramid and the Red Pyramid at Dahshur?",
+    "choices": [
+      "Khafre",
+      "Sneferu",
+      "Unas",
+      "Pepi II"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the defining exterior feature of the Bent Pyramid?",
+    "choices": [
+      "It has a completely circular plan",
+      "It is carved into a cliff",
+      "Its slope changes partway up",
+      "It has no stone casing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which pyramid is generally regarded as the first successful smooth-sided true pyramid?",
+    "choices": [
+      "The Step Pyramid",
+      "The Pyramid of Teti",
+      "The Pyramid of Unas",
+      "The Red Pyramid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "The pyramid at Meidum is most closely associated with which king's building program?",
+    "choices": [
+      "Sneferu",
+      "Sahure",
+      "Djoser",
+      "Merenre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Giza pyramid is the southernmost of the three great royal pyramids?",
+    "choices": [
+      "Khufu's",
+      "Menkaure's",
+      "Khafre's",
+      "Djedefre's"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which visible remnant is distinctive on Khafre's pyramid?",
+    "choices": [
+      "A bronze capstone",
+      "A ring of standing obelisks",
+      "A surviving band of casing near the summit",
+      "A wooden staircase around the exterior"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Compared with the other two great Giza pyramids, Menkaure's pyramid is notably what?",
+    "choices": [
+      "The oldest",
+      "The only one with a bent profile",
+      "The only one at Saqqara",
+      "The smallest"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Abusir became a major royal cemetery especially during which dynasty?",
+    "choices": [
+      "The Fifth Dynasty",
+      "The Second Dynasty",
+      "The Twelfth Dynasty",
+      "The Nineteenth Dynasty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which king built a major pyramid complex at Abusir?",
+    "choices": [
+      "Khufu",
+      "Sahure",
+      "Djoser",
+      "Pepi II"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What was the principal religious focus of a Fifth Dynasty sun temple?",
+    "choices": [
+      "The embalming of provincial governors",
+      "The storage of grain taxes",
+      "The worship of the sun god",
+      "The training of chariot horses"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What did a pyramid town primarily support?",
+    "choices": [
+      "A permanent foreign army",
+      "A market for imported silk",
+      "A school for scribes from Greece",
+      "The personnel and offerings of the royal funerary cult"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was the symbolic purpose of a false door in a private tomb?",
+    "choices": [
+      "It provided an imagined passage for the deceased",
+      "It concealed a real staircase to the palace",
+      "It marked the boundary of a quarry",
+      "It served as a movable siege gate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What happened in the offering chapel of a mastaba?",
+    "choices": [
+      "The king's coronation was reenacted for visitors",
+      "Ritual offerings were presented to the deceased",
+      "Stone blocks were shaped for the pyramid",
+      "Foreign ambassadors were imprisoned"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What was a serdab in an Old Kingdom tomb?",
+    "choices": [
+      "An open-air harbor",
+      "A ramp for hauling blocks",
+      "A chamber for a statue of the deceased",
+      "A chamber where priests slept"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Egyptian funerary belief, what did the ka most closely represent?",
+    "choices": [
+      "A written royal decree",
+      "The embalmer's toolkit",
+      "A geographical province",
+      "A person's vital life force"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In broad terms, what was the ba?",
+    "choices": [
+      "A mobile aspect of a person's identity or spirit",
+      "A stone casing layer",
+      "A tax paid by pyramid workers",
+      "A type of boat used at Aswan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What did the term akh refer to after a successful transformation of the dead?",
+    "choices": [
+      "A royal building crew",
+      "An effective, transfigured spirit",
+      "A limestone quarry",
+      "A ceremonial crown"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which office was generally the highest civilian administrative position under the king?",
+    "choices": [
+      "Charioteer",
+      "Sandal bearer",
+      "Vizier",
+      "Herald of the frontier"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was a central task of a royal scribe?",
+    "choices": [
+      "Carving only granite sarcophagi",
+      "Leading every military battle",
+      "Performing as a temple musician exclusively",
+      "Recording and managing administrative information"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What material commonly formed the superstructure of many non-royal mastabas?",
+    "choices": [
+      "Mud brick",
+      "Bamboo",
+      "Iron plate",
+      "Glazed tile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where was the burial chamber of a typical mastaba often located?",
+    "choices": [
+      "On the roof beneath an obelisk",
+      "Below ground at the bottom of a shaft",
+      "Inside the offering table",
+      "Above the false door in a balcony"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why were scenes of farming and food preparation carved in many tombs?",
+    "choices": [
+      "They recorded the exact annual tax rate",
+      "They served as maps of the Nile's source",
+      "They were believed to help provide for the deceased",
+      "They advertised imported pottery"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Hemiunu is especially associated with which responsibility?",
+    "choices": [
+      "Inventing hieroglyphic writing",
+      "Serving as a New Kingdom admiral",
+      "Founding the city of Alexandria",
+      "Overseeing royal building works"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does the diary of Merer chiefly illuminate?",
+    "choices": [
+      "The transport of limestone for Khufu's pyramid project",
+      "The conquest of Nubia by Pepi II",
+      "The decoration of Tutankhamun's tomb",
+      "The invention of the shaduf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Where was the harbor complex at Wadi al-Jarf located relative to the Nile Valley?",
+    "choices": [
+      "In the western Delta",
+      "On the Red Sea coast",
+      "Beside the Faiyum lake",
+      "At the foot of the Giza plateau"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What basic supplies had to be organized daily for a large pyramid workforce?",
+    "choices": [
+      "Only ritual masks",
+      "Imported silk and spices",
+      "Food, water, and shelter",
+      "War chariots"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which archaeologist is strongly associated with long-running excavations at Djoser's complex?",
+    "choices": [
+      "Howard Carter",
+      "Arthur Evans",
+      "Kathleen Kenyon",
+      "Jean-Philippe Lauer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which archaeologist led the Harvard–Boston expedition's major work at Giza in the early twentieth century?",
+    "choices": [
+      "George Reisner",
+      "Auguste Mariette",
+      "Flinders Petrie",
+      "James Breasted"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "How were the sides of most Old Kingdom pyramids deliberately aligned?",
+    "choices": [
+      "Toward the nearest provincial capital",
+      "Close to the four cardinal directions",
+      "Along the path of the prevailing wind only",
+      "At random to avoid symmetry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Where is the normal entrance to an Old Kingdom pyramid located?",
+    "choices": [
+      "At the highest point of its southern face",
+      "Under the eastern valley temple",
+      "On or near its northern side",
+      "In a shaft outside the cemetery"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a satellite pyramid in an Old Kingdom royal complex?",
+    "choices": [
+      "A pyramid built on a distant island",
+      "A stepped mastaba for a provincial governor",
+      "A temporary ramp made of limestone",
+      "A smaller auxiliary pyramid near the main pyramid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the principal purpose of an Old Kingdom royal funerary cult?",
+    "choices": [
+      "To maintain offerings and rituals for the deceased king",
+      "To train the living king's bodyguard",
+      "To house foreign merchants",
+      "To manufacture weapons for the army"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the Arabic word behind the modern term mastaba often said to mean?",
+    "choices": [
+      "Crown",
+      "Bench",
+      "Sun disk",
+      "River bend"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "How many construction stages are generally recognized in the final Step Pyramid at Saqqara?",
+    "choices": [
+      "Two",
+      "Four",
+      "Six",
+      "Ten"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What lies beneath much of Djoser's Step Pyramid?",
+    "choices": [
+      "A filled-in natural volcanic crater",
+      "A Roman amphitheater",
+      "A water-powered lifting machine",
+      "An extensive network of galleries and chambers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What was the Heb-Sed court in Djoser's complex intended to evoke?",
+    "choices": [
+      "The king's jubilee and renewal rituals",
+      "A tribunal for pyramid workers",
+      "A market for foreign merchants",
+      "A school for medical apprentices"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the South Tomb at Djoser's complex generally understood as?",
+    "choices": [
+      "The actual tomb of Imhotep",
+      "A symbolic counterpart to the king's northern burial",
+      "A granary for the pyramid town",
+      "A New Kingdom royal palace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What did the sealed serdab in Djoser's complex contain?",
+    "choices": [
+      "A fleet of wooden cargo boats",
+      "A cache of royal tax records",
+      "A statue intended to embody the king's ka",
+      "A chamber of live sacred animals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which title is associated with Imhotep in later Egyptian tradition and inscriptions?",
+    "choices": [
+      "Overseer of foreign chariots",
+      "King of the Fifth Dynasty",
+      "Governor of Nubia under Ramesses",
+      "High Priest of Heliopolis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "How many major pyramids are attributed to Sneferu's building program at Meidum and Dahshur?",
+    "choices": [
+      "Three",
+      "One",
+      "Five",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What engineering problem is most visibly expressed by the Bent Pyramid's change of angle?",
+    "choices": [
+      "A later conversion into a stepped pyramid",
+      "A redesign of the intended slope during construction",
+      "A deliberate plan for a circular roof",
+      "A collapse caused by Nile flooding"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does the Red Pyramid's form demonstrate in pyramid history?",
+    "choices": [
+      "The Egyptians had abandoned stone for brick",
+      "The king's tomb was moved to a river island",
+      "A stable smooth-sided pyramid design had been achieved",
+      "The pyramid was built as a solar temple only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which description best fits the Meidum monument in its final known form?",
+    "choices": [
+      "A completely intact black-granite pyramid",
+      "A subterranean tomb without any superstructure",
+      "A natural hill covered by a temple",
+      "A truncated-looking core surrounded by collapsed casing debris"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is distinctive about the two Fourth Dynasty pyramids at Dahshur?",
+    "choices": [
+      "Both were built for Sneferu",
+      "Both were built for Khafre",
+      "Both contain the earliest Pyramid Texts",
+      "Both are queen pyramids at Giza"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was the approximate original height of Khufu's Great Pyramid?",
+    "choices": [
+      "About 47 meters",
+      "About 147 meters",
+      "About 247 meters",
+      "About 17 meters"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the approximate length of one side of Khufu's original square base?",
+    "choices": [
+      "About 80 meters",
+      "About 430 meters",
+      "About 230 meters",
+      "About 23 meters"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which material was used for the walls of Khufu's King's Chamber?",
+    "choices": [
+      "Whitewashed mud brick",
+      "Basalt rubble only",
+      "Wooden planks",
+      "Red granite"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What structural technique is associated with the roof of Khufu's Grand Gallery?",
+    "choices": [
+      "Corbeling, with courses projecting inward",
+      "A single woven-reed membrane",
+      "A Roman concrete vault",
+      "A timber truss covered in tiles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "How many relieving chambers are conventionally counted above Khufu's King's Chamber?",
+    "choices": [
+      "One",
+      "Five",
+      "Three",
+      "Nine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What destination is repeatedly connected with the limestone cargo in Merer's surviving diary?",
+    "choices": [
+      "The temple of Karnak",
+      "The island of Philae",
+      "Akhet-Khufu, the Great Pyramid project",
+      "The tomb of Tutankhamun"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What was Merer's recorded cargo chiefly made of?",
+    "choices": [
+      "Granite obelisks from Aswan",
+      "Copper ingots from Cyprus",
+      "Papyrus rolls from the Delta",
+      "Fine limestone blocks from Tura"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What form do many Wadi al-Jarf documents take?",
+    "choices": [
+      "Dated administrative accounts and work logs",
+      "Decorated royal sarcophagi",
+      "Roman legal tablets",
+      "Private Greek philosophical essays"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Queen Hetepheres I's famous Giza burial is designated by which excavation label?",
+    "choices": [
+      "G 4000 A",
+      "G 7000 X",
+      "S 300 B",
+      "D 12 West"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Hetepheres I was especially important in Fourth Dynasty genealogy as whose mother?",
+    "choices": [
+      "Unas",
+      "Sahure",
+      "Khufu",
+      "Menkaure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which official's tomb is numbered G 4000 at Giza?",
+    "choices": [
+      "Meresankh III",
+      "Seneb",
+      "Kawab",
+      "Hemiunu"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a notable feature of Hemiunu's surviving Giza statue?",
+    "choices": [
+      "It portrays the official seated and came from his mastaba",
+      "It depicts him as a New Kingdom warrior",
+      "It is a colossal sphinx from the valley temple",
+      "It is a painted wooden coffin from Saqqara"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the Sphinx at Giza physically carved from?",
+    "choices": [
+      "A stack of imported granite blocks",
+      "The living limestone bedrock of the plateau",
+      "A fired-brick core with bronze skin",
+      "A natural basalt boulder transported from Aswan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What stone was used prominently in the lower casing of Menkaure's pyramid?",
+    "choices": [
+      "Alabaster only",
+      "Quartz sand",
+      "Granite",
+      "Baked clay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Where are Menkaure's three subsidiary pyramids positioned in relation to his main pyramid?",
+    "choices": [
+      "To its north inside Khufu's enclosure",
+      "On the opposite bank of the Nile",
+      "Beneath Khafre's causeway",
+      "To its south"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which sequence correctly names a group of Fifth Dynasty rulers whose pyramid complexes are at Abusir?",
+    "choices": [
+      "Sahure, Neferirkare, Neferefre, and Nyuserre",
+      "Khufu, Khafre, Menkaure, and Pepi II",
+      "Djoser, Sneferu, Teti, and Ramesses II",
+      "Unas, Mentuhotep II, Senusret III, and Ahmose I"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What kind of archive was found in connection with Neferirkare's pyramid temple at Abusir?",
+    "choices": [
+      "A library of Greek tragedies",
+      "Papyri documenting temple administration",
+      "A Roman military payroll",
+      "A cache of New Kingdom royal mummies"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Where is Nyuserre's surviving sun temple generally identified?",
+    "choices": [
+      "Inside the Great Pyramid",
+      "On Elephantine Island",
+      "Abu Ghurob near Abusir",
+      "At Deir el-Bahari"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What feature distinguishes the solar monuments of several early Fifth Dynasty kings from pyramid complexes?",
+    "choices": [
+      "They replaced every royal burial with a private mastaba",
+      "They were military forts on the Delta frontier",
+      "They were underground galleries for animal mummies",
+      "They were additional temples devoted especially to the sun cult"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why did Fifth and Sixth Dynasty royal monuments often emphasize temple decoration more than pyramid size?",
+    "choices": [
+      "Resources and religious emphasis shifted toward the cult institutions and their reliefs",
+      "Egypt had forgotten how to quarry limestone",
+      "The kings were forbidden to build above ground",
+      "Pyramids had become illegal after Sneferu"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which combination of religious references is especially visible in Unas's Pyramid Texts?",
+    "choices": [
+      "Christian, Buddhist, and Roman references",
+      "Solar, stellar, and Osirian references",
+      "Only agricultural and tax references",
+      "Only military and diplomatic references"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Where was Unas's pyramid complex built?",
+    "choices": [
+      "At Giza",
+      "At Abu Simbel",
+      "At Saqqara",
+      "At Deir el-Medina"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Where are Pyramid Texts in an Old Kingdom royal pyramid principally located?",
+    "choices": [
+      "Only on the exterior casing stones",
+      "In a detached workers' village",
+      "On the banks of the Nile outside the complex",
+      "On the walls of the subterranean funerary apartments"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which king's pyramid complex is located at South Saqqara and belongs to the early Sixth Dynasty?",
+    "choices": [
+      "Pepi I",
+      "Khafre",
+      "Sahure",
+      "Sneferu"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which ruler's pyramid is conventionally identified as the principal royal monument at North Saqqara in the Sixth Dynasty?",
+    "choices": [
+      "Menkaure",
+      "Teti",
+      "Neferirkare",
+      "Djoser"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which private tomb at Saqqara is famous for being an exceptionally large mastaba with extensive reliefs?",
+    "choices": [
+      "The tomb of Hetepheres I",
+      "The pyramid of Khufu",
+      "The mastaba of Mereruka",
+      "The serdab of Djoser"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What subject is especially prominent in the relief program of Ti's mastaba at Saqqara?",
+    "choices": [
+      "Naval battles against Rome",
+      "Christian pilgrimage routes",
+      "Portraits of Ptolemaic queens",
+      "Scenes of agriculture, crafts, and estate life"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why is the tomb of Seneb at Giza notable to historians of Old Kingdom society?",
+    "choices": [
+      "Its owner was a high official depicted with his family despite having dwarfism",
+      "It is the only royal pyramid with a surviving intact mummy",
+      "It contains the earliest known sun temple",
+      "It was excavated beneath the Sphinx in the New Kingdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Where was the large mastaba of Ptahshepses built?",
+    "choices": [
+      "At Meidum",
+      "At Abusir",
+      "Inside Khufu's burial chamber",
+      "At the Valley of the Kings"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does the palace-façade pattern on some mastabas imitate?",
+    "choices": [
+      "The carved hull of a funerary boat",
+      "A map of the Nile's cataracts",
+      "The paneled exterior of an early royal palace",
+      "The stepped profile of a pyramid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does the offering formula often transliterated hetep-di-nesu mean in broad sense?",
+    "choices": [
+      "The king's house of eternal stone",
+      "The crew has reached the quarry",
+      "The sun rises over the pyramid",
+      "An offering that the king gives"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a dromos in the context of ancient Egyptian monumental architecture?",
+    "choices": [
+      "A processional approach or passage leading toward a monument",
+      "A triangular capstone",
+      "A type of priestly title",
+      "A storage jar for natron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does the eastward placement of a pyramid temple most directly facilitate?",
+    "choices": [
+      "Access to Mediterranean harbors",
+      "Connection with the rising sun and the processional route from cultivation",
+      "A view toward the western desert oases only",
+      "A defensive wall against Libyan raids"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does the presence of multiple statues in an Old Kingdom private tomb most plausibly reflect?",
+    "choices": [
+      "The tomb was a public sculpture museum",
+      "Each statue represented a different reigning king",
+      "Different images could provide durable embodiments of the deceased",
+      "Statues were used as building scaffolding"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is the best-supported conclusion from the Giza workers' settlement evidence?",
+    "choices": [
+      "Every worker was an enslaved foreign prisoner",
+      "The pyramids were built by a small hereditary priesthood alone",
+      "The settlement was occupied only in the Roman period",
+      "The project relied on organized provisioning and a substantial labor administration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why is the Wadi al-Jarf archive especially valuable compared with later literary descriptions of pyramid building?",
+    "choices": [
+      "It is near-contemporary administrative documentation from the Fourth Dynasty",
+      "It is a medieval traveler’s eyewitness account",
+      "It gives a complete architectural blueprint of every pyramid",
+      "It was written by Herodotus during the Old Kingdom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does the variation among Old Kingdom pyramid interiors caution archaeologists against assuming?",
+    "choices": [
+      "That kings used any funerary architecture",
+      "That every pyramid followed one fixed internal plan",
+      "That stone was used in royal buildings",
+      "That temples had ritual functions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which interpretation best explains why a false door is placed in a tomb chapel rather than at the actual burial shaft?",
+    "choices": [
+      "It hid the only route for grave robbers",
+      "It served as a ventilation opening for the burial chamber",
+      "It created a ritual interface for the deceased's spirit without being a real entrance",
+      "It marked where the king's palace began"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does the combination of a pyramid, valley temple, causeway, and pyramid temple represent?",
+    "choices": [
+      "A sequence of unrelated provincial shrines",
+      "A military fortification system",
+      "A network of residential houses",
+      "A coordinated royal funerary complex rather than an isolated tomb"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  }
+]

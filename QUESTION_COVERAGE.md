@@ -1,6 +1,6 @@
 # Question Coverage Map
 
-Last updated: 2026-09-07
+Last updated: 2026-09-15
 
 > Scope note: this hand-maintained ledger records the focused authored series and
 > its niche notes. The complete machine-generated inventory of every JSON batch is
@@ -21,12 +21,12 @@ they have not yet been inserted into Supabase.
 
 | Lane | Domain | Narrow niche | Batch file | Authored | Difficulty >= 0.70 | Status |
 | --- | --- | --- | --- | ---: | ---: | --- |
-| Science | Genetics | Mendelian ratios, linkage, pedigrees, and epistasis | `data/generated/genetics-mendelian-ratios-and-linkage.json` | 45 | 25 | Authored; not inserted |
-| Science | Oceanography | Thermohaline circulation, water masses, tracers, and mixing | `data/generated/oceanography-thermohaline-circulation.json` | 45 | 25 | Authored; not inserted |
-| History | French Revolution | Committees and revolutionary government, 1792–1795 | `data/generated/french-revolution-committees-and-revolutionary-government.json` | 45 | 29 | Authored; not inserted |
-| History | Ancient Greece | Athenian democratic institutions and procedure | `data/generated/ancient-greece-athenian-democratic-institutions.json` | 45 | 27 | Authored; not inserted |
-| Humanities | Shakespeare | Textual history, quartos, folios, and transmission | `data/generated/shakespeare-textual-history-and-quartos.json` | 45 | 36 | Authored; not inserted |
-| Humanities | Renaissance painting | Iconography, commissions, workshops, and technical evidence | `data/generated/renaissance-painting-iconography-and-commissions.json` | 45 | 31 | Authored; not inserted |
+| Science | Genetics | Mendelian ratios, linkage, pedigrees, and epistasis | `data/generated/genetics-mendelian-ratios-and-linkage.json` | 100 | 80 | Authored; not inserted |
+| Science | Oceanography | Thermohaline circulation, water masses, tracers, and mixing | `data/generated/oceanography-thermohaline-circulation.json` | 100 | 80 | Authored; not inserted |
+| History | French Revolution | Committees and revolutionary government, 1792–1795 | `data/generated/french-revolution-committees-and-revolutionary-government.json` | 100 | 63 | Authored; not inserted |
+| History | Ancient Greece | Athenian democratic institutions and procedure | `data/generated/ancient-greece-athenian-democratic-institutions.json` | 100 | 81 | Authored; not inserted |
+| Humanities | Shakespeare | Textual history, quartos, folios, and transmission | `data/generated/shakespeare-textual-history-and-quartos.json` | 100 | 100 | Authored; not inserted |
+| Humanities | Renaissance painting | Iconography, commissions, workshops, and technical evidence | `data/generated/renaissance-painting-iconography-and-commissions.json` | 100 | 100 | Authored; not inserted |
 
 Lane boundaries for future work:
 
@@ -44,6 +44,19 @@ This separate football lane stays focused on club competitions, trophies, finals
 | Lane | Domain | Narrow niche | Batch file | Authored | Difficulty >= 0.70 | Status |
 | --- | --- | --- | --- | ---: | ---: | --- |
 | Sports | World Football | Club competitions, European trophies, and FIFA club finals | `data/generated/world-football-club-competitions.json` | 100 | 66 | Authored; not inserted |
+
+## Balanced-difficulty expansion — 2026-09-15
+
+These long-scroll batches deliberately split their question spectrum 50/50:
+50 approachable questions below difficulty `0.70`, followed by 50 niche or
+technical questions at or above `0.70`. The order is an authoring convenience;
+IRT remains responsible for serving the right level to each user.
+
+| Lane | Domain | Narrow niche | Batch file | Easier | Harder | Status |
+| --- | --- | --- | --- | ---: | ---: | --- |
+| Sports | World Football | Tactics, formations, pressing, buildup, and set pieces | `data/generated/world-football-tactics-and-formations.json` | 50 | 50 | Authored; not inserted |
+| Science | Biology | Cardiovascular anatomy and circulation | `data/generated/cardiovascular-anatomy-and-circulation.json` | 50 | 50 | Authored; not inserted |
+| History | Ancient Egypt | Old Kingdom pyramids, tombs, complexes, and administration | `data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json` | 50 | 50 | Authored; not inserted |
 
 ## Fandom rabbit-hole wave — 2026-09-06
 
@@ -1123,7 +1136,10 @@ Good adjacent niches for later batches:
    interested user can remain in that lane for a long session. Smaller batches
    are acceptable only when the subject is genuinely narrow; record the reason.
 3. Spread questions across recall, chronology, causation, comparison, interpretation, and technical detail.
-4. Cover the full difficulty range from introductory recognition to expert distinctions.
+4. Cover the full difficulty range. For a 100-question topic, default to 50
+   questions below difficulty `0.70` and 50 at or above it so IRT has both a
+   welcoming on-ramp and a deep expert tail. Depart from 50/50 only when the
+   niche genuinely demands it, and record that choice in `data/topic-families.json`.
 5. Before insertion, exclude exact normalized question-text matches already present in the database or the new batch.
 6. Give each batch a stable filename and add it to this ledger immediately after insertion.
 7. Put related-but-distinct material in the adjacent-niches list instead of quietly mixing it into the current niche.

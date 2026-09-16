@@ -13,56 +13,56 @@
   {
     "text": "How many deputies composed the stable 'Great Committee' of Public Safety from September 1793?",
     "choices": [
-      "12",
       "9",
+      "12",
       "18",
       "24"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "difficulty": 0.78
   },
   {
     "text": "The Committee of General Security primarily supervised which function?",
     "choices": [
-      "Police and internal surveillance",
       "Tax collection",
       "Foreign diplomacy",
+      "Police and internal surveillance",
       "War procurement"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.71
   },
   {
     "text": "What did representatives-on-mission possess in the provinces?",
     "choices": [
-      "Broad powers to enforce Convention measures",
       "A hereditary mandate",
       "Authority to negotiate with Austria",
-      "Only ceremonial authority"
+      "Only ceremonial authority",
+      "Broad powers to enforce Convention measures"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.69
   },
   {
     "text": "Which decree first made the levee en masse a national mobilization policy?",
     "choices": [
-      "Decree of 20 June 1792",
       "Decree of 23 August 1793",
+      "Decree of 20 June 1792",
       "Law of 22 Prairial",
       "Decree of 9 Thermidor"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "difficulty": 0.75
   },
   {
     "text": "The Law of Suspects was enacted on which date in 1793?",
     "choices": [
-      "17 September",
       "10 August",
+      "17 September",
       "5 October",
       "14 Frimaire"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "difficulty": 0.82
   },
   {
@@ -79,12 +79,12 @@
   {
     "text": "Which Convention decree declared that France's provisional government would be revolutionary until peace?",
     "choices": [
-      "Decree of 10 October 1793",
       "Decree of 14 Frimaire Year II",
       "Law of 22 Prairial Year II",
-      "Constitution of Year III"
+      "Constitution of Year III",
+      "Decree of 10 October 1793"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.84
   },
   {
@@ -101,34 +101,34 @@
   {
     "text": "Why was the Constitution of Year I never implemented?",
     "choices": [
-      "The Convention suspended it during wartime emergency",
       "The king vetoed it",
+      "The Convention suspended it during wartime emergency",
       "The Senate rejected it",
       "France lost its sovereignty"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "difficulty": 0.67
   },
   {
     "text": "Which faction sat highest in the Convention’s upper benches?",
     "choices": [
-      "Montagnards",
       "Plain",
       "Girondins",
+      "Montagnards",
       "Feuillants"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.61
   },
   {
     "text": "The term ‘Plain’ (Marais) referred to Convention deputies who were generally what?",
     "choices": [
-      "Centrists without a fixed faction",
       "Provincial priests",
       "Jacobins from Lyon",
-      "Royalist émigrés"
+      "Royalist émigrés",
+      "Centrists without a fixed faction"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.68
   },
   {
@@ -156,34 +156,34 @@
   {
     "text": "Which political club was associated especially with Cordeliers and popular direct action?",
     "choices": [
-      "Club des Cordeliers",
       "Clichy Club",
       "Club des Feuillants",
+      "Club des Cordeliers",
       "Monarchiens"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.7
   },
   {
     "text": "Who presented the report that led to the Law of 22 Prairial?",
     "choices": [
-      "Georges Couthon",
       "Danton",
       "Cambacérès",
-      "Saint-Just"
+      "Saint-Just",
+      "Georges Couthon"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.86
   },
   {
     "text": "The Law of 22 Prairial most directly curtailed what procedural safeguard?",
     "choices": [
-      "The right to appeal taxation",
       "Defense counsel and evidentiary procedures before the Revolutionary Tribunal",
+      "The right to appeal taxation",
       "The right to vote",
       "Jury selection in civil cases"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "difficulty": 0.88
   },
   {
@@ -200,23 +200,23 @@
   {
     "text": "The Revolutionary Tribunal was created in March 1793 primarily to try what?",
     "choices": [
-      "Counter-revolutionary crimes",
       "Ordinary theft",
       "Emigré property disputes",
+      "Counter-revolutionary crimes",
       "Colonial shipping cases"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.72
   },
   {
     "text": "What did a certificat de civisme certify?",
     "choices": [
-      "Civic reliability and revolutionary credentials",
       "Proof of noble birth",
       "Payment of church tithes",
-      "Military rank"
+      "Military rank",
+      "Civic reliability and revolutionary credentials"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.77
   },
   {
@@ -244,12 +244,12 @@
   {
     "text": "Which grain was central to revolutionary maximum regulations?",
     "choices": [
-      "Wheat",
       "Maize",
       "Rice",
+      "Wheat",
       "Barley only"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.48
   },
   {
@@ -288,23 +288,23 @@
   {
     "text": "The Hébertists were associated with which tendency?",
     "choices": [
-      "Radical dechristianizing and popular militancy",
       "Abolition of assignats",
       "Royalist restoration",
+      "Radical dechristianizing and popular militancy",
       "Federalist autonomy"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.76
   },
   {
     "text": "What happened to the Hébertists in Germinal Year II?",
     "choices": [
-      "They were executed after a political trial",
       "They won the Vendée",
       "They became constitutional monarchists",
-      "They entered the Directory"
+      "They entered the Directory",
+      "They were executed after a political trial"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.74
   },
   {
@@ -321,34 +321,34 @@
   {
     "text": "Robespierre’s Cult of the Supreme Being was inaugurated on what date?",
     "choices": [
-      "20 Prairial Year II",
       "14 July 1790",
+      "20 Prairial Year II",
       "10 August 1792",
       "9 Thermidor Year II"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "difficulty": 0.82
   },
   {
     "text": "The Festival of the Supreme Being was designed chiefly by whom?",
     "choices": [
-      "Jacques-Louis David",
       "Carnot",
       "Olympe de Gouges",
+      "Jacques-Louis David",
       "Fouché"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.78
   },
   {
     "text": "In the Revolutionary Calendar, Year II began on which Gregorian date?",
     "choices": [
-      "22 September 1793",
       "21 January 1794",
       "14 July 1793",
-      "5 October 1793"
+      "5 October 1793",
+      "22 September 1793"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.75
   },
   {
@@ -366,22 +366,22 @@
     "text": "A décade in the Revolutionary Calendar contained how many days?",
     "choices": [
       "7",
-      "8",
       "10",
+      "8",
       "12"
     ],
-    "correctIndex": 2,
+    "correctIndex": 1,
     "difficulty": 0.42
   },
   {
     "text": "Which month name literally evokes fog?",
     "choices": [
-      "Brumaire",
       "Messidor",
       "Floréal",
+      "Brumaire",
       "Thermidor"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.63
   },
   {
@@ -398,67 +398,67 @@
   {
     "text": "The coup of 9 Thermidor Year II resulted immediately in the arrest of whom?",
     "choices": [
-      "Lafayette and Bailly",
       "Robespierre and his allies",
+      "Lafayette and Bailly",
       "The Girondins",
       "The royal family"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "difficulty": 0.49
   },
   {
     "text": "Where did Robespierre and his allies make their final stand before arrest?",
     "choices": [
-      "The Hôtel de Ville",
       "The Bastille",
+      "The Hôtel de Ville",
       "The Palais-Royal",
       "The Luxembourg Gardens"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "difficulty": 0.69
   },
   {
     "text": "What constitutional body replaced the Committee of Public Safety as executive authority in 1795?",
     "choices": [
-      "The Directory",
       "The Council of Elders",
       "The Consulate",
+      "The Directory",
       "The Commune"
     ],
-    "correctIndex": 0,
+    "correctIndex": 2,
     "difficulty": 0.47
   },
   {
     "text": "The Constitution of Year III established which bicameral legislature?",
     "choices": [
-      "Council of Five Hundred and Council of Ancients",
       "Chamber of Peers and Commons",
       "National Assembly and Senate",
-      "Senate and Tribunate"
+      "Senate and Tribunate",
+      "Council of Five Hundred and Council of Ancients"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.68
   },
   {
     "text": "Under the Constitution of Year III, how were Directors selected?",
     "choices": [
-      "The popular primary assemblies",
       "The Council of Ancients chose them from a list submitted by the Council of Five Hundred",
+      "The popular primary assemblies",
       "The Committee of Public Safety",
       "The army"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "difficulty": 0.83
   },
   {
     "text": "Which representative-on-mission joined Joseph Fouché in directing repression at Lyon after its federalist revolt?",
     "choices": [
-      "Collot d’Herbois",
       "Barère",
+      "Collot d’Herbois",
       "Tallien",
       "Barras"
     ],
-    "correctIndex": 0,
+    "correctIndex": 1,
     "difficulty": 0.89
   },
   {
@@ -475,23 +475,23 @@
   {
     "text": "The decree of 14 Frimaire Year II sought to do what to local revolutionary authorities?",
     "choices": [
-      "Centralize and rationalize their administration",
       "Give them diplomatic immunity",
       "Transfer them to the Church",
-      "Make them hereditary"
+      "Make them hereditary",
+      "Centralize and rationalize their administration"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "difficulty": 0.79
   },
   {
     "text": "Which Convention committee oversaw political policing and the arrest machinery directed at suspects?",
     "choices": [
-      "Committee of Public Instruction",
       "Committee of General Security",
+      "Committee of Public Instruction",
       "Committee of Agriculture",
       "Committee of Finance"
     ],
-    "correctIndex": 1,
+    "correctIndex": 0,
     "difficulty": 0.72
   },
   {

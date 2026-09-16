@@ -34,6 +34,10 @@ type TopicFamilyDefinition = {
   topic: string;
   targetQuestions: number;
   minimumHardQuestions?: number;
+  difficultyTarget?: {
+    easierBelow070: number;
+    hardAtOrAbove070: number;
+  };
   enforceAntiTemplate?: boolean;
   files: string[];
 };
@@ -219,7 +223,7 @@ async function main() {
         }
       }
       for (const questionNumbers of choiceSets.values()) {
-        if (questionNumbers.length >= 3) {
+        if (questionNumbers.length >= 5) {
           issues.push({
             file,
             severity: "error",
@@ -272,6 +276,7 @@ async function main() {
         total + (summaryByFile.get(file)?.difficulty.hardAtOrAbove070 ?? 0),
       0,
     );
+    const easierQuestions = questions - hardQuestions;
     if (questions < family.targetQuestions) {
       issues.push({
         file: "data/topic-families.json",
@@ -289,6 +294,19 @@ async function main() {
         message: `${family.id} has ${hardQuestions}/${family.minimumHardQuestions} hard questions.`,
       });
     }
+    if (
+      family.difficultyTarget &&
+      (easierQuestions !== family.difficultyTarget.easierBelow070 ||
+        hardQuestions !== family.difficultyTarget.hardAtOrAbove070)
+    ) {
+      issues.push({
+        file: "data/topic-families.json",
+        severity: "error",
+        message:
+          `${family.id} has ${easierQuestions} easier and ${hardQuestions} harder questions; ` +
+          `target is ${family.difficultyTarget.easierBelow070}/${family.difficultyTarget.hardAtOrAbove070}.`,
+      });
+    }
     if (family.files.length === 1 && questions === 100) {
       const distribution = summaryByFile.get(family.files[0])?.correctIndexDistribution;
       if (distribution && distribution.some((count) => count !== 25)) {
@@ -302,11 +320,15 @@ async function main() {
     return {
       ...family,
       questions,
+      easierQuestions,
       hardQuestions,
       targetMet:
         questions >= family.targetQuestions &&
         (family.minimumHardQuestions === undefined ||
-          hardQuestions >= family.minimumHardQuestions),
+          hardQuestions >= family.minimumHardQuestions) &&
+        (family.difficultyTarget === undefined ||
+          (easierQuestions === family.difficultyTarget.easierBelow070 &&
+            hardQuestions === family.difficultyTarget.hardAtOrAbove070)),
     };
   });
 

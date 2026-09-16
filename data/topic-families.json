@@ -9,7 +9,47 @@
       "files": [
         "data/generated/sports-world-football.json",
         "data/generated/world-football-pop-culture.json",
-        "data/generated/world-football-club-competitions.json"
+        "data/generated/world-football-club-competitions.json",
+        "data/generated/world-football-tactics-and-formations.json"
+      ]
+    },
+    {
+      "id": "sports.world-football.tactics-formations",
+      "topic": "World football tactics and formations",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/world-football-tactics-and-formations.json"
+      ]
+    },
+    {
+      "id": "science.biology.cardiovascular-circulation",
+      "topic": "Cardiovascular anatomy and circulation",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/cardiovascular-anatomy-and-circulation.json"
+      ]
+    },
+    {
+      "id": "history.ancient-egypt.old-kingdom-pyramids",
+      "topic": "Old Kingdom pyramids and tombs",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json"
       ]
     },
     {
