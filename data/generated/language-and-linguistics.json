@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the smallest unit of sound that distinguishes meaning in a language called?",
+    "choices": ["Phoneme", "Morpheme", "Grapheme", "Allophone"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which direction does Arabic typically flow when written?",
+    "choices": ["Right to left", "Left to right", "Top to bottom", "Bottom to top"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "How many tones does Mandarin Chinese have in the standard system?",
+    "choices": ["4", "5", "7", "9"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the term for a word part that cannot stand alone but modifies meaning?",
+    "choices": ["Affix", "Root", "Stem", "Lexeme"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "How many official languages does India recognize in its constitution?",
+    "choices": ["22", "18", "15", "28"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What language family does English belong to?",
+    "choices": ["Indo-European", "Sino-Tibetan", "Altaic", "Dravidian"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which ancient people are credited with inventing the first alphabet?",
+    "choices": ["Phoenicians", "Egyptians", "Babylonians", "Greeks"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the study of word origins and their history called?",
+    "choices": ["Etymology", "Morphology", "Semantics", "Phonetics"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many letters does the Greek alphabet contain?",
+    "choices": ["24", "26", "22", "28"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which writing system uses thousands of characters called kanji?",
+    "choices": ["Japanese", "Chinese", "Korean", "Vietnamese"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the process of adding word elements like prefixes or suffixes called?",
+    "choices": ["Affixation", "Compounding", "Blending", "Derivation"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which language family includes Finnish and Hungarian?",
+    "choices": ["Uralic", "Altaic", "Indo-European", "Caucasian"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Approximately what percentage of English vocabulary comes from Old Norse?",
+    "choices": ["10", "25", "40", "55"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is a two-vowel sound pronounced as one syllable called?",
+    "choices": ["Consonant blend", "Diphthong", "Monophthong", "Glide"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which language uses click consonants as meaningful sounds?",
+    "choices": ["Xhosa", "Hausa", "Swahili", "Zulu"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What term describes irregular verb forms that don't follow standard patterns?",
+    "choices": ["Weak verbs", "Ablaut verbs", "Strong verbs", "Regular verbs"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The word 'sandwich' comes from which place name?",
+    "choices": ["A town in Germany", "The Earl of Sandwich", "A region in France", "A Greek island"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many Romance languages are currently spoken worldwide?",
+    "choices": ["Around 8", "Around 12", "Around 20", "Around 45"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the term for the process of rearranging sounds within a word?",
+    "choices": ["Epenthesis", "Metathesis", "Elision", "Assimilation"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which language family does Swahili belong to?",
+    "choices": ["Sino-Tibetan", "Bantu", "Afro-Asiatic", "Khoisan"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How many distinct phonemes does the Hawaiian language contain?",
+    "choices": ["About 8", "About 13", "About 24", "About 35"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the term for a meaningful unit of language that cannot be divided?",
+    "choices": ["Phoneme", "Grapheme", "Morpheme", "Lexeme"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The word 'petrichor' refers to what?",
+    "choices": ["A medical condition", "The smell of rain on dry ground", "A type of flower", "A musical instrument"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which language has the most grammatical cases among major world languages?",
+    "choices": ["German", "Russian", "Icelandic", "Finnish"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the study of meaning in language and linguistics called?",
+    "choices": ["Pragmatics", "Semantics", "Syntax", "Phonology"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many Sino-Tibetan languages are spoken in China and surrounding regions?",
+    "choices": ["About 50", "About 200", "About 500", "About 1000"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What writing system was used by the Ancient Egyptians?",
+    "choices": ["Cuneiform", "Hieroglyphics", "Kharoshthi", "Linear A"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The word 'algorithm' comes from the name of which mathematician?",
+    "choices": ["Euclid", "Al-Khwarizmi", "Pythagoras", "Archimedes"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is a phoneme that distinguishes tone called in tonal languages?",
+    "choices": ["Toneme", "Suprasegmental", "Prosody marker", "Register phoneme"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Germanic language is most closely related to Modern English?",
+    "choices": ["Dutch", "German", "Swedish", "Danish"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What percentage of English words have Latin or Romance roots?",
+    "choices": ["About 25%", "About 40%", "About 60%", "About 85%"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Sapir-Whorf hypothesis proposes what relationship?",
+    "choices": ["Between grammar and language evolution", "Between language and thought", "Between pronunciation and spelling", "Between ancient and modern languages"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How many branches does the Indo-European language family have?",
+    "choices": ["About 8", "About 12", "About 20", "About 30"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the Great Vowel Shift?",
+    "choices": ["A linguistic change in 20th century English", "A medieval change in English vowel pronunciation", "A modern phenomenon in American dialects", "A feature of Middle English poetry"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Sino-Tibetan language is known for having the most tonal distinctions?",
+    "choices": ["Cantonese", "Standard Mandarin", "Shanghainese", "Hakka"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is allophony in linguistic terms?",
+    "choices": ["The study of dialects", "Variation in pronunciation of a phoneme that doesn't change meaning", "A change in word meaning over time", "The use of multiple alphabets"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What language family does Basque belong to?",
+    "choices": ["Indo-European", "Altaic", "Isolate", "Caucasian"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How many noun cases does Russian have in its grammatical system?",
+    "choices": ["4", "6", "8", "10"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a creole language?",
+    "choices": ["A mother language of a region", "A language created from pidgin with native speakers", "An archaic form of a modern language", "A sacred ceremonial language"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which language has the largest inventory of distinct phonemes?",
+    "choices": ["English", "Taa (or !Xóõ)", "Mandarin Chinese", "French"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the term for a letter or character representing a single sound?",
+    "choices": ["Logogram", "Phonogram", "Ideogram", "Pictograph"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many vowel phonemes does English typically have?",
+    "choices": ["12-15", "5", "8-10", "20-24"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the primary function of morphology in linguistics?",
+    "choices": ["Study of sound patterns", "Study of sentence structure", "Study of word structure and formation", "Study of language families"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which language is not a Semitic language?",
+    "choices": ["Hebrew", "Arabic", "Amharic", "Hungarian"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does the term 'cognate' refer to in linguistics?",
+    "choices": ["Words that sound similar today", "Words in different languages from the same origin", "Words that changed meaning over time", "Words borrowed from other languages"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  }
+]

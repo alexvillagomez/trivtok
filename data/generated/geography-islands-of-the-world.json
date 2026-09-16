@@ -1,0 +1,290 @@
+[
+  {
+    "text": "What is the world's largest island by area?",
+    "choices": ["Greenland", "Australia", "Borneo", "Madagascar"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which island nation is located in the Indian Ocean east of Africa?",
+    "choices": ["Mauritius", "Seychelles", "Comoros", "Maldives"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Indonesia comprises over 17,000 islands. What is its capital city located on?",
+    "choices": ["Java", "Sumatra", "Borneo", "Sulawesi"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which island is the largest in the Mediterranean Sea?",
+    "choices": ["Sicily", "Sardinia", "Cyprus", "Crete"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "New Zealand's two main landmasses are the North Island and what?",
+    "choices": ["South Island", "West Island", "East Island", "Stewart Island"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The Philippines archipelago has approximately how many islands?",
+    "choices": ["7,641", "5,000", "10,000", "3,500"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which volcanic island is part of New Zealand's South Island?",
+    "choices": ["Tongariro", "Taranaki", "Ruapehu", "Ngauruhoe"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Japan's main islands are Honshu, Hokkaido, Kyushu, and which other?",
+    "choices": ["Shikoku", "Izu", "Okinawa", "Rishiri"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Caribbean island nation was the first European colony in the Americas?",
+    "choices": ["Haiti", "Dominican Republic", "Jamaica", "Cuba"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Sri Lanka was formerly known as what?",
+    "choices": ["Ceylon", "Taprobane", "Serendip", "Lanka"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which North Atlantic island sits roughly midway between Europe and North America?",
+    "choices": ["Iceland", "Greenland", "Azores", "Faroe Islands"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Solomon Islands archipelago is located in which ocean?",
+    "choices": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which island is the third-largest in the world by area?",
+    "choices": ["Borneo", "Madagascar", "Baffin Island", "Sumatra"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Fiji is an independent island nation in the South Pacific. Its capital is?",
+    "choices": ["Suva", "Nadi", "Lautoka", "Labasa"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Cyprus is located in which sea?",
+    "choices": ["Mediterranean Sea", "Aegean Sea", "Black Sea", "Red Sea"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The island of Crete belongs to which country?",
+    "choices": ["Greece", "Turkey", "Italy", "Cyprus"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Sardinia is an autonomous region of which European nation?",
+    "choices": ["Italy", "Spain", "France", "Portugal"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Trinidad and Tobago is located off the coast of which continent?",
+    "choices": ["South America", "North America", "Africa", "Europe"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which East African island nation is known for its lemurs?",
+    "choices": ["Madagascar", "Mauritius", "Seychelles", "Comoros"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Bahamas archipelago contains how many islands and cays?",
+    "choices": ["700+", "300", "500", "400"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Malta's strategic location has made it contested between which two regions?",
+    "choices": ["Europe and Africa", "Europe and Asia", "Africa and Asia", "North and South"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Corsica, a Mediterranean island, belongs to which country?",
+    "choices": ["France", "Italy", "Spain", "Greece"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Galápagos Islands are located in the Pacific off the coast of which nation?",
+    "choices": ["Ecuador", "Peru", "Chile", "Colombia"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Jamaica lies in the Caribbean Sea. What major fault line runs through it?",
+    "choices": ["Enriquillo-Plantain Garden", "San Andreas", "Alpine", "North Anatolian"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Maldives is an archipelago in which ocean?",
+    "choices": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which volcanic island nation lies off the northwest coast of Scotland?",
+    "choices": ["Hebrides", "Orkney", "Shetland", "Man"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Bali is a famous resort island in which country?",
+    "choices": ["Indonesia", "Malaysia", "Philippines", "Thailand"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The island of Hispaniola is shared by Haiti and which other nation?",
+    "choices": ["Dominican Republic", "Jamaica", "Cuba", "Puerto Rico"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Svalbard is an Arctic archipelago that belongs to which Scandinavian country?",
+    "choices": ["Norway", "Sweden", "Finland", "Denmark"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Caribbean island is the most mountainous?",
+    "choices": ["Dominica", "Jamaica", "Trinidad", "Puerto Rico"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Taiwan is located off the eastern coast of which major Asian country?",
+    "choices": ["China", "Japan", "South Korea", "Vietnam"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Channel Islands are located between the UK and which country?",
+    "choices": ["France", "Ireland", "Netherlands", "Germany"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Brunei is a small nation on the island of which Southeast Asian landmass?",
+    "choices": ["Borneo", "Sumatra", "Java", "Luzon"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which British Overseas Territory is the world's southernmost inhabited island?",
+    "choices": ["South Georgia", "Tristan da Cunha", "Pitcairn", "South Sandwich Islands"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Azores archipelago belongs to which European nation?",
+    "choices": ["Portugal", "Spain", "France", "Italy"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Príncep belongs to a small island nation in the Gulf of Guinea. What is the other main island?",
+    "choices": ["São Tomé", "Annobon", "Bioko", "Fernando Po"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Faroe Islands lie between Iceland and which country?",
+    "choices": ["Norway", "Denmark", "Sweden", "United Kingdom"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Mauritius is an island nation in the Indian Ocean off the coast of which continent?",
+    "choices": ["Africa", "Asia", "Australia", "South America"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Seychelles archipelago contains approximately how many islands?",
+    "choices": ["115", "87", "150", "200"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Singapore sits at the southern tip of the Malay Peninsula and is considered part of which region?",
+    "choices": ["Southeast Asia", "East Asia", "South Asia", "Central Asia"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Canary Islands belong to which European nation?",
+    "choices": ["Spain", "Portugal", "Morocco", "Italy"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Easter Island, famous for its moai statues, is part of which country?",
+    "choices": ["Chile", "Peru", "Ecuador", "Colombia"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The island of Palau is a small island nation in which ocean?",
+    "choices": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Arctic Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Samoa gained independence from which colonial power in 1962?",
+    "choices": ["New Zealand", "Germany", "United States", "Australia"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Marshall Islands were a former trusteeship territory of which nation?",
+    "choices": ["United States", "Japan", "Germany", "United Kingdom"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Vanuatu is an island nation in the South Pacific that gained independence from which two powers?",
+    "choices": ["France and Britain", "France and Australia", "Britain and Australia", "France and Netherlands"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Nauru is the world's smallest independent island nation by area. In which ocean does it sit?",
+    "choices": ["Pacific Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Tonga, a Pacific island kingdom, is known for which marine phenomenon off its coast?",
+    "choices": ["Underwater volcano eruptions", "Bioluminescent waters", "Coral bleaching", "Whale migrations"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  }
+]

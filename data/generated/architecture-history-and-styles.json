@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which architectural style features pointed arches and flying buttresses?",
+    "choices": ["Baroque", "Gothic", "Renaissance", "Romanesque"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Frank Lloyd Wright designed which iconic building in Pennsylvania that cantilevers over a waterfall?",
+    "choices": ["Fallingwater", "Guggenheim Museum", "Robie House", "Johnson Wax Headquarters"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which architect is most famous for the Sagrada Familia basilica in Barcelona?",
+    "choices": ["Le Corbusier", "Mies van der Rohe", "Antoni Gaudí", "Adolf Loos"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Romanesque architecture typically features which type of arch?",
+    "choices": ["Pointed", "Rounded or semi-circular", "Corbelled", "Elliptical"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is a flying buttress used for in Gothic cathedrals?",
+    "choices": ["Decorative elements", "To support the main walls from outside", "Weather vanes", "Bell towers"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which design principle did Le Corbusier develop based on human body proportions?",
+    "choices": ["The Fibonacci Sequence", "The Modular", "The Golden Ratio", "Vitruvian Analysis"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Parthenon in Athens exemplifies which architectural tradition?",
+    "choices": ["Roman", "Classical Greek", "Byzantine", "Hellenistic"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which style emphasizes ornate decoration, dramatic curves, and emotional intensity?",
+    "choices": ["Modernism", "Baroque", "Minimalism", "Brutalism"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a ribbed vault in Gothic architecture?",
+    "choices": ["A flat ceiling with painted ribs", "A vault where curved ribs transfer weight to supporting columns", "A decorative wooden framework", "A dome covered in ribbed patterns"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Norman Foster is known for designing which iconic modern buildings?",
+    "choices": ["High-tech sustainable structures", "Ornate neoclassical palaces", "Brutalist concrete forms", "Art Deco skyscrapers"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which architectural principle did Mies van der Rohe famously state as 'Less is more'?",
+    "choices": ["Maximalism", "Ornamentation", "Minimalism", "Symmetry"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Guggenheim Museum in New York features which distinctive form designed by Frank Lloyd Wright?",
+    "choices": ["A rectangular prism", "A spiral", "A pyramid", "Intersecting cylinders"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the primary structural function of a keystone in an arch?",
+    "choices": ["Weather protection", "Decorative element", "The central wedge that locks the arch together", "Sound dampening"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which term describes a series of arches supported by columns?",
+    "choices": ["Colonnade", "Cloister", "Arcade", "Atrium"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Zaha Hadid pioneered architecture characterized by which design approach?",
+    "choices": ["Strict symmetry", "Flowing, curved, parametric forms", "Brutalist concrete", "Neo-Gothic revival"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Le Corbusier designed which modernist residential building in France that has become a symbol of the movement?",
+    "choices": ["Cité Radieuse", "Villa Savoye", "Barcelona Pavilion", "Falling Water"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Islamic architecture, what is a muqarnas?",
+    "choices": ["A massive dome", "Decorative honeycomb vaulting", "A fortified tower", "A courtyard fountain"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which movement rejected ornament and embraced functional, industrial forms?",
+    "choices": ["Art Nouveau", "Baroque", "Modernism", "Romanticism"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is an abacus in classical column architecture?",
+    "choices": ["A decorative frieze", "The upper part of the capital", "A vaulted ceiling", "A carved stone base"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Barcelona Pavilion, designed by Mies van der Rohe, exemplifies which architectural principle?",
+    "choices": ["Gothic revivalism", "Open-plan design and honest material expression", "Baroque ornamentation", "Medieval fortification"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Egyptian monument is a massive stone structure with a square base and four triangular sides?",
+    "choices": ["Temple", "Obelisk", "Mastaba", "Pyramid"],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the primary innovation of Roman concrete that allowed larger architectural spans?",
+    "choices": ["Steel reinforcement", "Pozzolanic cement mixture", "Thicker stone walls", "Wooden structural frames"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which style combines classical symmetry with ornamental excess and theatrical effects?",
+    "choices": ["Modernist", "Rococo", "Gothic", "Minimalist"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Postmodernism rejected which core principle of Modernist architecture?",
+    "choices": ["Sustainability", "Ornament as unnecessary", "Craftsmanship", "Durability"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is a corbel in architectural structure?",
+    "choices": ["A type of circular window", "A projecting stone block that supports weight above", "A decorative molding", "A vaulted ceiling support"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Bauhaus school in Germany influenced which design and architectural movement?",
+    "choices": ["Art Deco", "Deconstructivism", "Modernism", "Romanticism"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which architectural term describes the triangular space between the arch and the rectangular frame above a doorway?",
+    "choices": ["Pediment", "Voussoir", "Spandrel", "Tympanum"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Antoni Gaudí's work primarily took place in which city?",
+    "choices": ["Valencia", "Madrid", "Barcelona", "Seville"],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Frank Lloyd Wright's design philosophy emphasized the relationship between buildings and their natural surroundings. What was this principle called?",
+    "choices": ["Structural Honesty", "Organic Architecture", "Environmental Design", "Naturalism"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "The Chrysler Building in New York exemplifies which early 20th-century architectural style?",
+    "choices": ["Brutalism", "Art Deco", "Postmodernism", "Neoclassicism"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which architectural innovation allowed Gothic cathedrals to achieve unprecedented heights?",
+    "choices": ["Thicker stone walls", "Steel reinforcement", "Flying buttresses and ribbed vaults", "Wider foundations"],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What does the term intrados refer to in arch construction?",
+    "choices": ["The outer curved edge", "The inner curved surface of an arch", "The wedge-shaped stone", "The supporting wall"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Mies van der Rohe's principle 'truth in materials' emphasized which architectural practice?",
+    "choices": ["Using expensive materials only", "Honest expression of a material's properties and structural role", "Hiding structural elements", "Mimicking natural forms"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which Portuguese architect is celebrated for contemporary works incorporating ceramic tiles and modernist principles?",
+    "choices": ["Paulo Mendes da Rocha", "Álvaro Siza", "Sérgio Rodrigues", "Raúl Lino"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The Pantheon in Rome's dome was constructed primarily from which material?",
+    "choices": ["Marble slabs", "Concrete", "Stone masonry", "Terracotta"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Gothic architecture, what is a gargoyle's primary structural purpose beyond decoration?",
+    "choices": ["To ward off evil spirits", "To direct water away from the wall surface", "To provide ventilation", "To house bells"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which term describes a row of columns supporting a structure?",
+    "choices": ["Pilaster", "Colonnade", "Portico", "Peristyle"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Romanesque architecture emerged and flourished during which historical period in Europe?",
+    "choices": ["Early Medieval (5th-7th centuries)", "High Medieval (6th-12th centuries)", "Late Medieval (12th-16th centuries)", "Renaissance (14th-17th centuries)"],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Le Corbusier's 'Five Points of Architecture' emphasized which design approaches?",
+    "choices": ["Ornament, symmetry, monumentality, solidity, enclosure", "Pilotis, free floor plan, free facade, continuous windows, roof garden", "Curves, color, texture, craftsmanship, decoration", "Symmetry, proportion, harmony, balance, unity"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is a voussoir in arch construction?",
+    "choices": ["The entire curved structure", "A wedge-shaped stone forming part of an arch", "The decorative trim around an arch", "The wall supporting the arch"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which architectural movement rejected both ornamentation and excessive function in favor of raw materials and bold forms?",
+    "choices": ["Art Nouveau", "Brutalism", "Classicism", "Rococo"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does the term 'cantilever' mean in architectural design?",
+    "choices": ["A circular roofing structure", "A beam or structure extending beyond its support", "A type of decorative wall pattern", "A curved architectural element"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Eiffel Tower's iron lattice structure represents which construction and design era?",
+    "choices": ["Medieval", "Industrial age iron construction", "Art Deco", "Postmodern"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which famous architect championed high-tech architecture and sustainability through innovative structural systems?",
+    "choices": ["Richard Meier", "Norman Foster", "Zaha Hadid", "Michael Graves"],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In Islamic architecture, what is the purpose of a muezzin tower or minaret?",
+    "choices": ["To store treasures", "For the muezzin to call people to prayer", "To provide structural support", "To serve as a defensive fortification"],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which architect designed the modernist masterpiece Villa Savoye in France?",
+    "choices": ["Alvar Aalto", "Le Corbusier", "Gerrit Rietveld", "Max Bill"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  }
+]

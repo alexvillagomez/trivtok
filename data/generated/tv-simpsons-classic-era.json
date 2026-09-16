@@ -1,0 +1,1982 @@
+[
+  {
+    "text": "What is Homer Simpson's middle name?",
+    "choices": [
+      "Jay",
+      "Joseph",
+      "Jerome",
+      "Julius"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is Marge Simpson's maiden name?",
+    "choices": [
+      "Bruckner",
+      "Bouvier",
+      "Branson",
+      "Buchanan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is Bart Simpson's middle name?",
+    "choices": [
+      "James",
+      "Jackson",
+      "Jojo",
+      "Jasper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What color is Homer Simpson's hair?",
+    "choices": [
+      "Black",
+      "Dark brown",
+      "Reddish",
+      "Brown"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many fingers does Homer have on each hand?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What musical instrument does Lisa Simpson play?",
+    "choices": [
+      "Trumpet",
+      "Saxophone",
+      "Piano",
+      "Clarinet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is Santa's Little Helper?",
+    "choices": [
+      "A cat",
+      "A parrot",
+      "A dog",
+      "A hamster"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What breed is the Simpson family's original cat?",
+    "choices": [
+      "Tabby",
+      "Persian",
+      "Siamese",
+      "Calico"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Maggie Simpson's pacifier color?",
+    "choices": [
+      "Red",
+      "Pink",
+      "Purple",
+      "Blue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where did Homer and Marge get married?",
+    "choices": [
+      "Shelbyville Church",
+      "The Shotgun Wedding Chapel",
+      "Springfield Cathedral",
+      "Town Hall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who is Grampa Simpson's wife (Bart and Lisa's grandmother)?",
+    "choices": [
+      "Marge",
+      "Mabel",
+      "Mona",
+      "Madeline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What are the names of Marge's twin sisters?",
+    "choices": [
+      "Patsy and Sally",
+      "Paula and Sandra",
+      "Penny and Sarah",
+      "Patty and Selma"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many children do Homer and Marge have?",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is Grampa Simpson's first name?",
+    "choices": [
+      "Albert",
+      "Abraham",
+      "Alfred",
+      "Arthur"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What job did Homer have before working at the power plant?",
+    "choices": [
+      "Ball player",
+      "Truck driver",
+      "Shoe salesman",
+      "Security guard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is Homer's favorite beer brand?",
+    "choices": [
+      "Bud",
+      "Miller",
+      "Schlitz",
+      "Duff"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does Bart do to Homer as a running gag?",
+    "choices": [
+      "Prank calls to Moe's Tavern",
+      "Steals his donuts",
+      "Locks him out of the house",
+      "Erases his TV recordings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is Marge's iconic hairstyle sometimes referred to as?",
+    "choices": [
+      "A mohawk",
+      "A beehive",
+      "A bun",
+      "A fade"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "How tall is Homer Simpson (as a running visual gag)?",
+    "choices": [
+      "5'9\"",
+      "6'2\"",
+      "5'1\"",
+      "6'0\""
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is Maggie Simpson's full name?",
+    "choices": [
+      "Magnolia Mae Simpson",
+      "Melissa May Simpson",
+      "Madeline Marie Simpson",
+      "Margaret Mary Simpson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What year was The Simpsons series set in during the classic era?",
+    "choices": [
+      "Present day (rolling)",
+      "1989",
+      "1993",
+      "Always changing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How many people live in the Simpson household?",
+    "choices": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is Patty and Selma's shared occupation?",
+    "choices": [
+      "Nurses",
+      "Teachers",
+      "DMV workers",
+      "Police officers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who is Grampa Simpson known to have had a wartime romance with?",
+    "choices": [
+      "Gracie",
+      "Gloria",
+      "Gertrude",
+      "Gertie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the name of Homer's brother?",
+    "choices": [
+      "Herbert Powell",
+      "Henry Powell",
+      "Howard Powell",
+      "Harold Powell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What state does the Simpson family live in?",
+    "choices": [
+      "Ohio",
+      "Always unknown",
+      "California",
+      "Illinois"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who is Marge's mother?",
+    "choices": [
+      "Janet Bouvier",
+      "Judith Bouvier",
+      "Jacqueline Bouvier",
+      "Jennifer Bouvier"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What holiday-themed baby did Marge give birth to?",
+    "choices": [
+      "A Halloween baby",
+      "A Thanksgiving baby",
+      "A New Year's baby",
+      "A Christmas baby (Maggie)"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who is Homer's supervisor at the Nuclear Power Plant?",
+    "choices": [
+      "Mr. Burns",
+      "Smithers",
+      "Lenny",
+      "Carl"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the name of Homer's best friend?",
+    "choices": [
+      "Lenny",
+      "Barney",
+      "Carl",
+      "Moe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What color are Bart Simpson's shorts?",
+    "choices": [
+      "Red",
+      "Yellow",
+      "Orange",
+      "Brown"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What color are Lisa Simpson's pearls?",
+    "choices": [
+      "White",
+      "Pink",
+      "Purple",
+      "Red"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of Grampa's old flame that he reconnects with?",
+    "choices": [
+      "Evelyn",
+      "Ethel",
+      "Edith",
+      "Eleanor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is Homer's shoe size (when it becomes a plot point)?",
+    "choices": [
+      "Size 10",
+      "Size 12",
+      "Size 14",
+      "Size 11"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who is Lisa's best friend throughout most of the series?",
+    "choices": [
+      "Jessica Powell",
+      "Jennifer Powell",
+      "Janey Powell",
+      "Julie Powell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What military rank did Grampa Simpson achieve?",
+    "choices": [
+      "Lieutenant",
+      "Captain",
+      "Private",
+      "Sergeant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is Marge's deodorant brand in a classic episode?",
+    "choices": [
+      "Cleft",
+      "Secret",
+      "Degree",
+      "Dove"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How many times is Homer shown to have died or nearly died permanently?",
+    "choices": [
+      "Once",
+      "Multiple times (never permanent)",
+      "Twice",
+      "He never does"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of Homer's half-brother that appears later?",
+    "choices": [
+      "Henry",
+      "Herb",
+      "Herbert",
+      "Hugo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is Milhouse's full name?",
+    "choices": [
+      "Milhouse Van Hauser",
+      "Milhouse Von Hooten",
+      "Milhouse Van Housen",
+      "Milhouse Van Houten"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Simpson family member has been shown to work multiple jobs?",
+    "choices": [
+      "Homer",
+      "Marge",
+      "Bart",
+      "Lisa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is Homer Simpson's house number?",
+    "choices": [
+      "742 Maple Street",
+      "742 Evergreen Terrace",
+      "742 Oak Avenue",
+      "742 Pine Road"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "How did Barney meet Homer?",
+    "choices": [
+      "At Moe's Tavern",
+      "Work",
+      "High school classmate",
+      "Neighborhood"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What disease does Lisa contract in the opening of a famous episode?",
+    "choices": [
+      "Chicken pox",
+      "Mumps",
+      "Whooping cough",
+      "Measles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the primary setting of Homer's workplace?",
+    "choices": [
+      "Nuclear Power Plant",
+      "Donut factory",
+      "Power station",
+      "Generator facility"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is Bart's best friend named?",
+    "choices": [
+      "Nelson",
+      "Milhouse",
+      "Ralph",
+      "Martin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "How many pairs of shoes does Homer typically wear?",
+    "choices": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the name of Homer and Marge's first apartment?",
+    "choices": [
+      "The Simpsons Lofts",
+      "Evergreen",
+      "Sunset",
+      "Not clearly named"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who is Marge's mother's boyfriend (in one storyline)?",
+    "choices": [
+      "No one major",
+      "Grampa Simpson",
+      "A random man",
+      "Homer's father"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What color are Marge's gloves typically?",
+    "choices": [
+      "Red",
+      "Pearls/white",
+      "Pink",
+      "Yellow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does Homer always say when frustrated?",
+    "choices": [
+      "Argh!",
+      "Ugh!",
+      "D'oh!",
+      "Hmm!"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.11
+  },
+  {
+    "text": "What is Bart's most famous catchphrase?",
+    "choices": [
+      "Ay caramba",
+      "Woo-hoo!",
+      "Cowabunga",
+      "Eat my shorts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is Nelson's signature laugh?",
+    "choices": [
+      "Ha-ha!",
+      "Hee-haw!",
+      "Ho-ho!",
+      "Ha-hee!"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does Ralph Wiggum often say that makes people laugh?",
+    "choices": [
+      "I'm in danger",
+      "I'm learnding",
+      "Hi, Mom!",
+      "Pepperoni"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is Comic Book Guy's go-to critical phrase?",
+    "choices": [
+      "Totally lame",
+      "Worst thing ever",
+      "Worst. ___ . Ever.",
+      "Super bad"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "How does Mr. Burns typically express approval?",
+    "choices": [
+      "Great!",
+      "Splendid!",
+      "Outstanding!",
+      "Excellent!"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What do Patty and Selma often call Marge?",
+    "choices": [
+      "Marge-aroo",
+      "Sister",
+      "Marge-o",
+      "Maggie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Smithers' first name?",
+    "choices": [
+      "Walter",
+      "Waylon",
+      "William",
+      "Wesley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is Krusty the Clown's real name?",
+    "choices": [
+      "Herman Smith",
+      "Krusty Johnson",
+      "Herschel Shmoikel Pinchas Yerucham Krustofsky",
+      "Kirby Sanders"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who says 'Okily-dokily, neighbor'?",
+    "choices": [
+      "Reverend Lovejoy",
+      "Groundskeeper Willie",
+      "Principal Skinner",
+      "Ned Flanders"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is Sideshow Bob's full name?",
+    "choices": [
+      "Robert Underdunk Terwilliger",
+      "Robert Theodore Terwilliger",
+      "Robert Tom Terwilliger",
+      "Ronald Theodore Terwilliger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is Apu's full name?",
+    "choices": [
+      "Apu Narasimhadevara",
+      "Apu Nahasapeemapetilon",
+      "Apu Nakamura",
+      "Apu Nadia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is Kent Brockman's role in Springfield?",
+    "choices": [
+      "Mayor's assistant",
+      "Reporter",
+      "News anchor",
+      "TV host"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is Moe's signature greeting?",
+    "choices": [
+      "Hey there, buddy",
+      "What's up",
+      "Howdy",
+      "Hiya, pal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What does Groundskeeper Willie primarily tend to?",
+    "choices": [
+      "The school grounds",
+      "Parks",
+      "Cemetery",
+      "Gardens"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is Principal Skinner's first name?",
+    "choices": [
+      "Samuel",
+      "Seymour",
+      "Simon",
+      "Stanley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does Superintendent Chalmers often exclaim?",
+    "choices": [
+      "Good grief!",
+      "What the—",
+      "Skinner!",
+      "Good Lord!"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is Chief Wiggum's relationship to Ralph?",
+    "choices": [
+      "Uncle",
+      "Brother",
+      "Grandfather",
+      "Father"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is Barney Gumble's primary addiction?",
+    "choices": [
+      "Alcohol/beer",
+      "Donuts",
+      "Gambling",
+      "Gambling and alcohol"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is Troy McClure famous for saying?",
+    "choices": [
+      "That was my movie",
+      "You may remember me from...",
+      "I've been in everything",
+      "You've probably seen me"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Dr. Nick's full name?",
+    "choices": [
+      "Dr. Nick Rivera",
+      "Dr. Nick Roberts",
+      "Dr. Nick Riviera",
+      "Dr. Nicholas Rivers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Sideshow Bob's most famous method of attempted murder?",
+    "choices": [
+      "Explosives",
+      "Poison",
+      "Shooting",
+      "Stepping on rakes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is Otto's job?",
+    "choices": [
+      "School bus driver",
+      "Taxi driver",
+      "Truck driver",
+      "Car mechanic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is Dr. Hibbert's specialty?",
+    "choices": [
+      "Surgery",
+      "General medicine",
+      "Pediatrics",
+      "Cardiology"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Reverend Lovejoy's church affiliation?",
+    "choices": [
+      "Community Church",
+      "Springfield Cathedral",
+      "First Church of Springfield",
+      "Divine Grace"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is Disco Stu's defining characteristic?",
+    "choices": [
+      "A disco music producer",
+      "A club owner",
+      "A dancer",
+      "Obsessed with 1970s disco culture"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is Fat Tony?",
+    "choices": [
+      "A crime boss",
+      "An overweight businessman",
+      "A restaurant owner",
+      "A loan shark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does Duffman represent?",
+    "choices": [
+      "A real person",
+      "A superhero mascot for Duff beer",
+      "Homer's alter ego",
+      "A cartoon character"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is Hans Moleman best known for?",
+    "choices": [
+      "Being Homer's friend",
+      "Working at the power plant",
+      "Constantly having bad luck and accidents",
+      "Being a town official"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is Lionel Hutz's profession?",
+    "choices": [
+      "Car salesman",
+      "Insurance agent",
+      "Private investigator",
+      "Ambulance-chasing lawyer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is Martin Prince's defining trait?",
+    "choices": [
+      "Being a teacher's pet/overachiever",
+      "Being Bart's friend",
+      "Being rich",
+      "Being athletic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is Nelson Muntz famous for doing besides laughing?",
+    "choices": [
+      "Being funny",
+      "Bullying other kids",
+      "Being popular",
+      "Playing sports"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What famous rivalry exists between Springfield and another town?",
+    "choices": [
+      "Capital City",
+      "Cletus's farm",
+      "Shelbyville",
+      "Nuclear plant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Where is Moe's Tavern located in Springfield?",
+    "choices": [
+      "Near the power plant",
+      "On Evergreen Terrace",
+      "By the school",
+      "Downtown"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What institution educates most of Springfield's children?",
+    "choices": [
+      "Springfield Elementary School",
+      "Springfield Middle School",
+      "Springfield High School",
+      "St. Augustine's"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is Krusty Burger?",
+    "choices": [
+      "A local diner",
+      "A fast-food chain run by Krusty the Clown",
+      "A BBQ joint",
+      "A hotdog stand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Where does Homer work at the Nuclear Power Plant?",
+    "choices": [
+      "Control Room",
+      "Containment",
+      "Sector 7G",
+      "Engineering"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What company does Mr. Burns own?",
+    "choices": [
+      "A steel mill",
+      "A brewery",
+      "A department store",
+      "The Nuclear Power Plant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the name of the Simpson family's usual couch gag location?",
+    "choices": [
+      "Living room",
+      "Basement",
+      "Hallway",
+      "Kitchen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What famous landmark is in Springfield?",
+    "choices": [
+      "A big clock tower",
+      "The town's nuclear power plant",
+      "A famous statue",
+      "A large monument"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the animation school that Lisa briefly attends?",
+    "choices": [
+      "Springfield Art Institute",
+      "Animation Academy",
+      "No major animation school",
+      "Springfield College of Arts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is Kamp Krusty?",
+    "choices": [
+      "An amusement park",
+      "A resort",
+      "A theme park",
+      "A summer camp run by Krusty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What TV network does Krusty work for?",
+    "choices": [
+      "KBBL",
+      "WNYX",
+      "WKRP",
+      "KRTY"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Who is the voice of Marge Simpson?",
+    "choices": [
+      "Nancy Cartwright",
+      "Julie Kavner",
+      "Yeardley Smith",
+      "Tress MacNeille"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is the voice of Bart Simpson?",
+    "choices": [
+      "Yeardley Smith",
+      "Julie Kavner",
+      "Nancy Cartwright",
+      "Dan Castellaneta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who is the voice of Lisa Simpson?",
+    "choices": [
+      "Nancy Cartwright",
+      "Julie Kavner",
+      "Tress MacNeille",
+      "Yeardley Smith"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who is the voice of Homer Simpson?",
+    "choices": [
+      "Dan Castellaneta",
+      "Hank Azaria",
+      "Harry Shearer",
+      "Phil Hartman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who voices multiple male characters including Moe and Barney?",
+    "choices": [
+      "Dan Castellaneta",
+      "Hank Azaria",
+      "Harry Shearer",
+      "Phil Hartman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Who voices Grampa Simpson?",
+    "choices": [
+      "Hank Azaria",
+      "Harry Shearer",
+      "Dan Castellaneta",
+      "Phil Hartman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who created The Simpsons?",
+    "choices": [
+      "James L. Brooks",
+      "David Mirkin",
+      "Al Jean",
+      "Matt Groening"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "On what network did The Simpsons debut?",
+    "choices": [
+      "Fox",
+      "NBC",
+      "ABC",
+      "CBS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What year did The Simpsons first air?",
+    "choices": [
+      "1987",
+      "1989",
+      "1991",
+      "1985"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who originally developed The Simpsons for television?",
+    "choices": [
+      "Only Matt Groening",
+      "Only James L. Brooks",
+      "James L. Brooks, Matt Groening, and Sam Simon",
+      "A network committee"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the famous opening couch gag most known as?",
+    "choices": [
+      "A musical number",
+      "A parody of a famous film",
+      "A celebrity cameo",
+      "The family rushing to sit on the couch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What grade does Bart Simpson attend in the classic era?",
+    "choices": [
+      "4th grade",
+      "5th grade",
+      "3rd grade",
+      "6th grade"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What grade does Lisa Simpson attend in the classic era?",
+    "choices": [
+      "1st grade",
+      "2nd grade",
+      "3rd grade",
+      "4th grade"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the name of the chalkboard gag in the opening?",
+    "choices": [
+      "Chalkboard punishment gag",
+      "School gag",
+      "Bart writes something different each episode",
+      "Writing punishment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What musical number plays as Lisa performs in one famous episode?",
+    "choices": [
+      "See My Vest",
+      "We Put the Spring in Springfield",
+      "The Monorail Song",
+      "Dr. Zaius"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is the 'See My Vest' song from?",
+    "choices": [
+      "Mr. Burns' attempt to convince people to do something",
+      "A Sideshow Bob musical",
+      "A Krusty the Clown bit",
+      "A school talent show"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What famous song is sung to introduce a monorail project?",
+    "choices": [
+      "'Monorail' (by Bill Oakley/Josh Weinstein)",
+      "'Build It', 'The Monorail Song'",
+      "'A New Town Initiative'",
+      "'The Springfield Way'"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the theme song of the Simpsons called?",
+    "choices": [
+      "The Simpsons Theme",
+      "The Theme",
+      "The Simpsons Main Theme",
+      "Simpsons Title Theme"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who composed The Simpsons theme song?",
+    "choices": [
+      "Hans Zimmer",
+      "John Williams",
+      "Michael Jackson",
+      "Danny Elfman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What song parodies 'Bad Boys' in an episode?",
+    "choices": [
+      "'Be Nice to Nerds'",
+      "No direct parody",
+      "'Bad Dad'",
+      "'Jailhouse Rock'"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is 'Baby on Board'?",
+    "choices": [
+      "A song/lullaby in one episode",
+      "A car bumper sticker",
+      "Maggie's theme",
+      "A nursery rhyme"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What famous opera is Lisa interested in?",
+    "choices": [
+      "La Traviata",
+      "The Magic Flute",
+      "General interest in opera",
+      "Carmen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What TV show does Homer particularly enjoy watching?",
+    "choices": [
+      "Krusty the Clown",
+      "The Tracey Ullman Show parody",
+      "News",
+      "Itchy & Scratchy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is the plot of 'Marge vs. the Monorail'?",
+    "choices": [
+      "A fast-talking salesman convinces Springfield to build a monorail",
+      "Marge protests a power plant expansion",
+      "Marge runs for mayor",
+      "Marge fights town corruption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who is the salesman who sells Springfield on the monorail?",
+    "choices": [
+      "Lanley Lyle",
+      "Lyle Lanley",
+      "Larry Langley",
+      "Lester Lanley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the plot of 'Cape Feare'?",
+    "choices": [
+      "Bart becomes a superhero",
+      "Homer becomes a superhero",
+      "Sideshow Bob pursues Bart after being released from prison",
+      "A new villain terrorizes Springfield"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is 'Bart Sells His Soul' primarily about?",
+    "choices": [
+      "Bart becomes possessed",
+      "Bart joins a cult",
+      "Bart makes a deal with the devil",
+      "Bart trades his soul to Milhouse for five dollars"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is significant about the 'Who Shot Mr. Burns?' episode?",
+    "choices": [
+      "A season finale/cliffhanger mystery",
+      "A murder mystery within Springfield",
+      "A two-part episode",
+      "A real shooting occurs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In 'Homer at the Bat,' what is happening?",
+    "choices": [
+      "Homer becomes a baseball player",
+      "Homer plays for the Springfield nuclear plant softball team with famous baseball ringers",
+      "Springfield hosts a baseball tournament",
+      "Homer learns to play baseball"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What episode features Homer working as a plow driver?",
+    "choices": [
+      "'Homer's Job'",
+      "'Winter Woes'",
+      "'Mr. Plow'",
+      "'Snow Business'"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is 'You Only Move Twice' notable for?",
+    "choices": [
+      "A James Bond parody episode",
+      "Smithers becomes Homer's boss",
+      "Homer becomes a secret agent",
+      "Homer gets a new job working for a mysterious businessman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the name of the evil businessman Homer works for in 'You Only Move Twice'?",
+    "choices": [
+      "Hank Scorpio",
+      "Hank Sheffield",
+      "Hans Schmidt",
+      "Harry Sinclair"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is 'Last Exit to Springfield' primarily about?",
+    "choices": [
+      "Homer finding a new job",
+      "A labor strike at the power plant",
+      "A road trip episode",
+      "Strikes in general"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is 'Rosebud' primarily about?",
+    "choices": [
+      "Homer's childhood",
+      "A rose garden",
+      "Mr. Burns recalling his beloved Bobo teddy bear",
+      "A love story"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is 'A Streetcar Named Marge' notable for?",
+    "choices": [
+      "Marge takes a streetcar trip",
+      "Marge moves to a new street",
+      "Marge becomes an actress",
+      "Marge appears in a community theater production of 'A Streetcar Named Desire'"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is 'Deep Space Homer' about?",
+    "choices": [
+      "Homer becomes an astronaut",
+      "Homer dreams about space",
+      "Homer watches a space documentary",
+      "Homer works at NASA"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "In what year was the 'Treehouse of Horror' first shown?",
+    "choices": [
+      "1989",
+      "1990",
+      "1991",
+      "1992"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What characterizes the 'Treehouse of Horror' episodes?",
+    "choices": [
+      "A single horror story",
+      "A continuous narrative",
+      "Three horror/parody segments loosely connected",
+      "A haunted house setting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In which 'Treehouse of Horror' does the 'Flanders as Satan' segment appear?",
+    "choices": [
+      "Treehouse of Horror I",
+      "Treehouse of Horror III",
+      "Treehouse of Horror IV",
+      "Treehouse of Horror V"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is 'The Simpsons Movie' storyline (if we count the pre-movie era)?",
+    "choices": [
+      "Not from classic era",
+      "Springfield is trapped in a dome",
+      "Homer goes to space",
+      "A terrorist attack"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What famous guest star appears in 'Mr. Plow'?",
+    "choices": [
+      "George Foreman",
+      "Phil Hartman",
+      "Bette Midler",
+      "Michael Jackson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is 'Itchy & Scratchy' the show within the show?",
+    "choices": [
+      "A children's show",
+      "A news program",
+      "A violent cartoon featuring cat and mouse",
+      "A game show"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the running joke about the couch gag?",
+    "choices": [
+      "Same gag repeated",
+      "Always the same",
+      "Random variations",
+      "Unique opening each episode with the family on the couch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What notable event occurs in the 'Who Shot Mr. Burns?' mystery finale?",
+    "choices": [
+      "It's revealed to be Maggie (accidentally)",
+      "Mr. Burns dies",
+      "Homer shoots him",
+      "A new villain emerges"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What award does Krusty try to win in 'Trash of the Titans'?",
+    "choices": [
+      "No, but he becomes Mayor",
+      "An Emmy",
+      "A Peabody",
+      "A Golden Globe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What episode features Homer getting a new brain?",
+    "choices": [
+      "'Brain Transplant'",
+      "'Homer's Operation'",
+      "'So It's Come to This' (not exactly a new brain)",
+      "'The Big Brain'"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the name of the nuclear power plant where Homer works?",
+    "choices": [
+      "Nuclear Power Station",
+      "Atomic Energy Plant",
+      "Fission Station",
+      "Springfield Nuclear Power Plant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is Ralph's most famous line about danger?",
+    "choices": [
+      "I'm in danger",
+      "I have no idea what's going on",
+      "That's me peeking",
+      "I'm learnding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does Chief Wiggum often say when confused or embarrassed?",
+    "choices": [
+      "What the—",
+      "D'oh (often)",
+      "Uh...",
+      "Lou, Eddie, Grant—oh wait"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is Groundskeeper Willie's accent/nationality?",
+    "choices": [
+      "Irish",
+      "English",
+      "Scottish",
+      "Welsh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What country is Apu from (in the show)?",
+    "choices": [
+      "Pakistan",
+      "Bangladesh",
+      "Nepal",
+      "India"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is Ned Flanders' catchphrase suffix?",
+    "choices": [
+      "-diddly",
+      "-diddly-doo",
+      "-iddly",
+      "-doodly"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does Comic Book Guy sell at the Android's Dungeon?",
+    "choices": [
+      "Video games",
+      "Comic books and collectibles",
+      "Trading cards",
+      "Action figures"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What two sports does Homer try to do professionally?",
+    "choices": [
+      "Baseball and boxing",
+      "Football and basketball",
+      "Baseball and football",
+      "Baseball and plow driving"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is Lenny's last name?",
+    "choices": [
+      "Leonid",
+      "Leonardo",
+      "Leontius",
+      "Leonard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is Carl's last name?",
+    "choices": [
+      "Carlson",
+      "Carlisle",
+      "Carlyle",
+      "Carlton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is Smithers' unrequited crush?",
+    "choices": [
+      "Homer",
+      "Mr. Burns",
+      "Barney",
+      "Krusty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is Sideshow Bob's punishment that becomes his signature gag?",
+    "choices": [
+      "Electric shocks",
+      "Slipping on banana peels",
+      "Stepping on rakes",
+      "Falling down stairs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What instrument does Sideshow Bob play?",
+    "choices": [
+      "Piano",
+      "Trumpet",
+      "Violin",
+      "Organ"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "How many children do Patty and Selma have?",
+    "choices": [
+      "None (they're single)",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Martin Prince's father's profession?",
+    "choices": [
+      "Lawyer",
+      "Dentist",
+      "Doctor",
+      "Businessman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What animal is Chief Wiggum often seen with?",
+    "choices": [
+      "Ralph (his son)",
+      "A cat",
+      "A dog",
+      "No particular animal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Lisa Simpson's typical stance on important issues?",
+    "choices": [
+      "Conservative",
+      "Apathetic",
+      "Moderate",
+      "Liberal activist/idealistic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What musical talent does Barney possess?",
+    "choices": [
+      "Singing (he was in a band)",
+      "Playing drums",
+      "Guitar",
+      "Piano"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does Homer do when he realizes something?",
+    "choices": [
+      "Nods slowly",
+      "Slaps his forehead",
+      "Scratches his head",
+      "Pounds the table"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is Homer's favorite food besides donuts and beer?",
+    "choices": [
+      "Steak",
+      "Chicken",
+      "Pork chops",
+      "Pizza"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What brand of donut does Homer prefer?",
+    "choices": [
+      "Krispy Kreme",
+      "Dunkin'",
+      "Lard Lad",
+      "No specific brand mentioned"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What magazine does Homer read regularly?",
+    "choices": [
+      "Ooh la la magazine",
+      "Playboy",
+      "Sports Illustrated",
+      "National Geographic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What was Homer's job before the power plant?",
+    "choices": [
+      "Baseball player",
+      "Shoe salesman",
+      "Plumber",
+      "Car mechanic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How did Homer get his job at the power plant?",
+    "choices": [
+      "Applied for the job",
+      "His father got it for him",
+      "Hired by Mr. Burns directly",
+      "Nepotism through a friend"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is Nelson Muntz's mother's profession?",
+    "choices": [
+      "Teacher",
+      "Nurse",
+      "Lawyer",
+      "Not clearly established"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does Milhouse Van Houten have a crush on?",
+    "choices": [
+      "Lisa Simpson",
+      "Bart Simpson",
+      "Maggie Simpson",
+      "Ralph Wiggum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is Barney's full name?",
+    "choices": [
+      "Barnaby Gumble",
+      "Barney Gumble",
+      "Bernard Gumble",
+      "Barry Gumble"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does Barney do after getting out of prison?",
+    "choices": [
+      "Becomes a lawyer",
+      "Joins Homer at the plant",
+      "Various jobs",
+      "Stays unemployed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is Krusty's relationship to Sideshow Bob?",
+    "choices": [
+      "Rival",
+      "Brother",
+      "Father and son",
+      "Former partner/boss"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Why does Sideshow Bob have a vendetta against Bart?",
+    "choices": [
+      "Bart exposed his crimes on TV",
+      "Bart stole his job",
+      "Personal grudge",
+      "Bart bullied him"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is Krusty known for saying after jokes?",
+    "choices": [
+      "That's a good one!",
+      "*laughs and slaps knee*",
+      "Heh heh",
+      "Get it?"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What does Krusty often smoke?",
+    "choices": [
+      "Cigarettes",
+      "A pipe",
+      "Cigars",
+      "Joints"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is Lard Lad Donuts a parody of?",
+    "choices": [
+      "A local chain",
+      "A fictional chain",
+      "All donut shops",
+      "Krispy Kreme/Dunkin' Donuts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does Otto (the bus driver) frequently consume?",
+    "choices": [
+      "Alcohol",
+      "Donuts",
+      "Cigarettes",
+      "Coffee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is the Simpson family's car?",
+    "choices": [
+      "Chevrolet",
+      "Plymouth Sedan",
+      "Ford",
+      "Honda"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What color is the Simpson family's car?",
+    "choices": [
+      "Light blue",
+      "Sky blue",
+      "Powder blue",
+      "Turquoise"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is Lisa's favorite instrument?",
+    "choices": [
+      "Soprano saxophone",
+      "Alto saxophone",
+      "Baritone saxophone",
+      "Tenor saxophone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is Homer's email address (when mentioned)?",
+    "choices": [
+      "chunkylover53",
+      "homersimpson",
+      "homer@nuclear",
+      "duff_lover"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is Marge's fear introduced early in the series?",
+    "choices": [
+      "Heights",
+      "Germs/contamination",
+      "Spiders",
+      "Crowds"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What school does Ralph Wiggum attend?",
+    "choices": [
+      "Springfield Middle School",
+      "Private school",
+      "Springfield Elementary",
+      "Home schooled"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is Ralph's father's job?",
+    "choices": [
+      "Mayor",
+      "Principal",
+      "Police officer",
+      "Chief of Police"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  }
+]

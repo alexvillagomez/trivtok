@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the horizontal reference line at 0° latitude called?",
+    "choices": ["Prime Meridian", "International Date Line", "Equator", "Tropic of Cancer"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which device uses Earth's magnetic field to help determine direction?",
+    "choices": ["Astrolabe", "Compass", "Sextant", "Theodolite"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What does GPS stand for?",
+    "choices": ["Geographic Position System", "Global Positioning System", "Global Postal Service", "Geographic Planning Service"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The vertical reference line at 0° longitude is called the ___?",
+    "choices": ["Equator", "Tropic of Cancer", "Prime Meridian", "International Date Line"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In which direction do latitude lines run?",
+    "choices": ["North to south", "East to west", "Diagonally", "In circles"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The craft and science of making maps is called ___?",
+    "choices": ["Geography", "Cartography", "Geodesy", "Topography"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which line divides Earth into Northern and Southern hemispheres?",
+    "choices": ["Prime Meridian", "International Date Line", "Equator", "Arctic Circle"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many minutes of arc are in one degree of latitude?",
+    "choices": ["30", "45", "60", "90"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A compass rose on a map typically shows which direction?",
+    "choices": ["Magnetic north only", "True north only", "True north and cardinal directions", "The location of treasure"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Longitude lines running north-south are also called ___?",
+    "choices": ["Parallels", "Meridians", "Isohyets", "Isobars"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the direction exactly opposite to north?",
+    "choices": ["West", "South", "East", "Southwest"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "A map's scale indicates the relationship between ___?",
+    "choices": ["Colors and elevation", "Distance on map and actual distance", "Latitude and longitude", "Continents and oceans"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which map projection is most famous for preserving angles and is commonly used for navigation?",
+    "choices": ["Equal-area projection", "Azimuthal projection", "Mercator projection", "Sinusoidal projection"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The International Date Line is located near which meridian?",
+    "choices": ["0°", "90°", "180°", "45°"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which ancient Greek geographer is credited with calculating Earth's circumference?",
+    "choices": ["Ptolemy", "Eratosthenes", "Strabo", "Hipparchus"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the angular difference between true north and magnetic north called?",
+    "choices": ["Declination", "Deviation", "Variation", "Bearing"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Tropic of Cancer is located at approximately what latitude?",
+    "choices": ["0°", "23.5°N", "45°N", "66.5°N"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Flemish cartographer developed the projection still widely used in maritime charts?",
+    "choices": ["Gerard Mercator", "Abraham Ortelius", "Martin Waldseemüller", "Gerhardus Dou"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What type of map line connects points of equal elevation?",
+    "choices": ["Isotherm", "Contour line", "Isobar", "Isohyet"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which map projection shows Earth as a circle with concentric rings?",
+    "choices": ["Conic projection", "Azimuthal equidistant projection", "Cylindrical projection", "Polyconic projection"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Arctic Circle is located at approximately what latitude?",
+    "choices": ["45°N", "55°N", "66.5°N", "75°N"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In map projections, what does 'conformal' mean?",
+    "choices": ["Preserves area", "Preserves angles and shapes", "Preserves distances", "Preserves political boundaries"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Babylonian civilization created some of the earliest known maps?",
+    "choices": ["Assyrians", "Akkadians", "Sumerians", "Hittites"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the study of Earth's shape, size, and gravitational field called?",
+    "choices": ["Cartography", "Geodesy", "Topography", "Surveying"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The Robinson projection was designed to serve as what kind of compromise?",
+    "choices": ["Between accuracy and aesthetics", "Between ancient and modern maps", "Between navigation and science", "Between continents"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How many standard time zones are there on Earth?",
+    "choices": ["12", "24", "48", "30"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which direction is used as the reference point for measuring longitude?",
+    "choices": ["East", "South", "The Prime Meridian at Greenwich", "The Tropic of Cancer"],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "The polar regions are divided from temperate regions by which circles?",
+    "choices": ["Prime Meridians", "Arctic and Antarctic Circles", "Tropics of Cancer and Capricorn", "Equatorial zones"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which projection type is best for showing true area relationships?",
+    "choices": ["Conformal", "Equidistant", "Equal-area", "Azimuthal"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What ancient navigation tool used star positions to determine direction and latitude?",
+    "choices": ["Compass", "Astrolabe", "Sextant", "Chronometer"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which map projection appears flat and is used for large-scale maps?",
+    "choices": ["Conic", "Cylindrical", "Mercator", "Polyconic"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Cassini projection was historically developed for surveying which nation?",
+    "choices": ["Great Britain", "France", "Spain", "The Netherlands"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What mathematical property do all points on a latitude line share?",
+    "choices": ["Same elevation", "Same distance from Prime Meridian", "Same distance from equator", "Same magnetic declination"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which projection is primarily used for representing polar regions without extreme distortion?",
+    "choices": ["Mercator", "Transverse Mercator", "Stereographic polar", "Mollweide"],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is the mathematical principle that allows conformal projections to preserve angles?",
+    "choices": ["Spherical trigonometry", "Holomorphic functions", "Logarithmic scaling", "Riemann curvature"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The sinusoidal projection is primarily used for thematic mapping of what?",
+    "choices": ["World political boundaries", "Ocean currents", "Entire world data at small scale", "Polar regions"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What geodetic datum did the original GPS system use?",
+    "choices": ["WGS72", "WGS84", "NAD27", "European Datum 1950"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In traditional surveying, how many control points are minimum for basic triangulation?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The Goode's interrupted homolographic projection was designed to minimize distortion of what?",
+    "choices": ["Polar regions", "Landmasses", "Ocean areas", "Time zones"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Lambert conic projection type is most commonly used for aeronautical charts?",
+    "choices": ["Lambert Conformal Conic with one standard parallel", "Lambert Conformal Conic with two standard parallels", "Lambert Azimuthal Equal-Area", "Lambert Equal-Area Conic"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the fundamental principle of an equidistant projection?",
+    "choices": ["Preserves angles", "Preserves distances from center point in all directions", "Preserves area", "Preserves political boundaries"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which cartographer's 1507 world map was the first to label the Americas?",
+    "choices": ["Abraham Ortelius", "Martin Waldseemüller", "Gerard Mercator", "Claudius Ptolemy"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the transverse Mercator projection primarily used for?",
+    "choices": ["Navigation near poles", "Large-scale regional mapping along a meridian", "World political maps", "Time zone boundaries"],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the Mollweide projection, what cartographic property is preserved?",
+    "choices": ["Angles", "Distances from center", "Equal area", "Straight meridians"],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What was the primary innovation of the Chamberlin Trimetric projection?",
+    "choices": ["Eliminated all distortion", "Used three standard points to minimize distortion", "First digital projection method", "Applied spherical harmonics"],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  }
+]

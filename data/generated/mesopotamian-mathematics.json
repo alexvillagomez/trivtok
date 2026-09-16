@@ -1,0 +1,614 @@
+[
+  {
+    "text": "Which base is most famously associated with Mesopotamian place-value notation?",
+    "choices": ["10", "12", "60", "100"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In standard descriptions of Babylonian numerals, a single small wedge commonly represents what value?",
+    "choices": ["1", "5", "10", "60"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In standard descriptions of Babylonian numerals, a corner wedge commonly represents what value within a place?",
+    "choices": ["2", "6", "10", "30"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many different unit values can a single ordinary sexagesimal place express before carrying to the next place?",
+    "choices": ["9", "10", "59", "60"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the value of one sexagesimal place immediately to the left of the units place?",
+    "choices": ["6", "10", "60", "600"],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "A numeral written as 1,0 in sexagesimal notation is normally read as what number in decimal notation?",
+    "choices": ["10", "60", "100", "600"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "A numeral written as 2,30 in sexagesimal notation equals which decimal value?",
+    "choices": ["90", "120", "150", "230"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A numeral written as 0,30 in sexagesimal notation corresponds to what decimal fraction?",
+    "choices": ["1/2", "1/3", "3/5", "3/4"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "A numeral written as 0,20 in sexagesimal notation corresponds to which decimal fraction?",
+    "choices": ["1/2", "1/3", "2/5", "1/5"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "A numeral written as 0,15 in sexagesimal notation is equal to what decimal fraction?",
+    "choices": ["1/5", "1/4", "3/10", "2/5"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Why are finite reciprocals especially common in Babylonian computation?",
+    "choices": ["They avoided all multiplication", "Base 60 has many divisors", "They used only prime denominators", "Every number had a one-sign reciprocal"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In Old Babylonian mathematics, a 'regular number' is one whose reciprocal terminates in sexagesimal because its prime factors divide what number?",
+    "choices": ["24", "36", "60", "72"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which of these numbers is regular in the Babylonian sense?",
+    "choices": ["7", "11", "25", "49"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which of these numbers is irregular in the Babylonian sense because its reciprocal does not terminate in base 60?",
+    "choices": ["8", "9", "12", "7"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was the main practical use of reciprocal tables on many Babylonian school tablets?",
+    "choices": ["Replacing subtraction with addition", "Turning division into multiplication", "Encoding royal dates", "Converting words into numbers"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The Sumerian term 'igi-n' in mathematical texts is commonly used for what concept?",
+    "choices": ["Square root", "Reciprocal", "Perimeter", "Survey line"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Babylonian numerical procedure texts, multiplication is often framed as what kind of operation?",
+    "choices": ["Repeated halving", "Making appear or carrying", "Lifting to a power", "Balancing a ratio"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The expression 'a-ra-kar' in Babylonian mathematics is associated most closely with what process?",
+    "choices": ["Successive doubling", "Extracting square roots", "Reducing fractions", "Measuring capacity"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The paired operation that reverses repeated doubling in some Babylonian texts is repeated what?",
+    "choices": ["Addition", "Tripling", "Halving", "Squaring"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which statement best describes Babylonian place-value notation in many early periods?",
+    "choices": ["It always used a written zero", "It was positional but often context-dependent", "It marked negative numbers explicitly", "It separated whole numbers from fractions with a dot"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A major ambiguity in Babylonian numerals before later placeholder usage was the lack of a fixed sign for what?",
+    "choices": ["One", "Ten", "Zero", "Sixty"],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "When later Babylonian scribes used an internal placeholder, what problem did it mainly help solve?",
+    "choices": ["Marking units of weight", "Indicating an empty middle place", "Distinguishing odd from even numbers", "Showing the end of a line"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Even when a placeholder appeared inside a numeral, Babylonian notation usually still lacked what at the far right?",
+    "choices": ["A terminal zero sign", "A sign for 59", "A sign for fractions", "A sign for multiplication"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Why does context matter so much when interpreting many Babylonian numerals?",
+    "choices": ["They changed value with moon phases", "Place units and metrological systems were often unstated", "Every tablet mixed three languages", "Numbers were encrypted"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which scholarly setting is most closely associated with many surviving Old Babylonian math exercises?",
+    "choices": ["Naval arsenals", "Scribal schools", "Royal tombs", "Temple choirs"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "A tablet that gives a problem and then a worked sequence of operations is best described as what kind of mathematical source?",
+    "choices": ["A king list", "A procedure text", "A hymn tablet", "A lexical omen"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Many Old Babylonian mathematics tablets are especially associated with which broad period?",
+    "choices": ["Late first millennium BCE", "Early second millennium BCE", "Hellenistic era", "Neo-Assyrian imperial peak"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which city is especially famous for yielding large numbers of Old Babylonian school tablets, including mathematical texts?",
+    "choices": ["Nippur", "Tyre", "Persepolis", "Amarna"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the most common modern label for the notable Babylonian tablet that approximates the diagonal of a square with high accuracy?",
+    "choices": ["BM 15285", "YBC 7289", "VAT 4956", "CBS 10996"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "YBC 7289 is best known for giving a strong approximation to what quantity?",
+    "choices": ["pi", "sqrt(2)", "sqrt(3)", "e"],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "On YBC 7289, the mathematically significant figure is drawn on what geometric shape?",
+    "choices": ["Triangle", "Rectangle", "Square", "Circle"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which famous tablet is frequently discussed in connection with lists of integer triples related to right triangles?",
+    "choices": ["Rosetta Stone", "Plimpton 322", "Venus Tablet of Ammisaduqa", "Cyrus Cylinder"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Plimpton 322 is usually connected with which branch of mathematics?",
+    "choices": ["Combinatorics", "Right-triangle relations", "Conic sections", "Probability"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The numbers on Plimpton 322 are most often interpreted as being organized around what idea?",
+    "choices": ["Prime factor tables", "Pythagorean-type triples", "Calendar intercalations", "Tax quotas"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which approximation to pi is especially common in simpler Mesopotamian area problems for circles?",
+    "choices": ["3", "22/7", "25/8", "256/81"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "A more accurate Mesopotamian approximation to pi that appears in some texts is which value?",
+    "choices": ["3 1/8", "3 1/3", "3 1/2", "4"],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In many Babylonian geometry texts, area and length problems are solved primarily through what style of reasoning?",
+    "choices": ["Formal axiomatic proofs", "Algorithmic procedures", "Symbolic algebra with letters", "Compass-and-straightedge constructions only"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Modern historians often describe many Babylonian equation problems as 'algebraic' chiefly because they involve what?",
+    "choices": ["Unknown magnitudes found by prescribed operations", "Greek-style proof chains", "Negative coefficients in symbolic notation", "Coordinate graphs"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A classic Babylonian problem type asks for the sides of a rectangle from its area and what other quantity?",
+    "choices": ["Its color", "Its diagonal sign", "Its sum or difference of sides", "Its volume"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which modern phrase is commonly used for the Babylonian method behind many quadratic problem solutions?",
+    "choices": ["Method of exhaustion", "Completing the square", "Gaussian elimination", "Synthetic division"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Babylonian problem texts normally express unknowns as abstract letters like x and y?",
+    "choices": ["Yes, regularly", "Only in astronomy", "No, they use ordinary words for quantities", "Only on boundary stones"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which term is widely used by historians for Babylonian tables listing fixed factors for standard figures and operations?",
+    "choices": ["Coefficient lists", "Logarithm sheets", "Abacus boards", "Canal ledgers"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A coefficient list would most likely help a scribe do what?",
+    "choices": ["Memorize royal names", "Apply standard constants in computations", "Translate Sumerian hymns", "Predict eclipses from omens"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What kind of quantity did Mesopotamian metrology most directly standardize for mathematics and administration alike?",
+    "choices": ["Only temperature", "Lengths, areas, capacities, and weights", "Musical pitches only", "Coin portraits"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which unit is especially associated with land area in Mesopotamian metrology?",
+    "choices": ["Iku", "Sila", "Gin", "Mina"],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which unit is especially associated with liquid or grain capacity in Mesopotamian metrology?",
+    "choices": ["Nindan", "Sar", "Sila", "Kus"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which unit belongs primarily to a weight system rather than a length or capacity system?",
+    "choices": ["Mina", "Iku", "Nindan", "Sar"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The unit 'gin' in Mesopotamian texts is most commonly a subdivision of what larger weight unit?",
+    "choices": ["Talent", "Mina", "Iku", "Gur"],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which large unit is commonly associated with capacity in cuneiform administrative and mathematical texts?",
+    "choices": ["Gur", "Kus", "Sar", "Ubanu"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The unit 'nindan' is primarily used for measuring what?",
+    "choices": ["Length", "Weight", "Time", "Silver purity"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which statement best captures the relationship between numeration and metrology in Mesopotamia?",
+    "choices": ["They were entirely separate systems", "The same numeral forms could be interpreted through different unit systems", "Metrology replaced numerals after Akkad", "Only astronomy used place value"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Why can the same written numeral represent different magnitudes on different tablets?",
+    "choices": ["Scribes guessed values freely", "Its scale depends on the implied unit or place", "Every city used a different base", "Only kings could read numbers"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What kind of practical task lies behind many Mesopotamian geometry exercises?",
+    "choices": ["Naval gunnery", "Field measurement", "Coin minting portraits", "Road paving with concrete"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A scribe computing the area of a rectangular field would need which pair most directly?",
+    "choices": ["Diameter and circumference", "Length and width", "Arc and chord", "Volume and weight"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "In many Babylonian school problems, subtraction from a known total and reconstruction of parts is closest to solving what kind of modern problem?",
+    "choices": ["A linear equation", "A derivative", "A matrix inverse", "A trigonometric identity"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which operation was often supported by memorized multiplication tables in scribal training?",
+    "choices": ["Cube roots", "Ordinary products", "Logarithms", "Angle bisection"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A standard multiplication table tablet would most likely list what?",
+    "choices": ["Successive multiples of a number", "Royal accessions", "Temple hymns by meter", "Names of constellations"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Tables of squares and square roots on Babylonian tablets were especially useful for solving what kinds of problems?",
+    "choices": ["Land and algebraic problems", "Only lunar omens", "Only legal inheritances", "Only currency exchange"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which of these would be most at home on a Babylonian mathematical tablet?",
+    "choices": ["A table of reciprocals", "A trigonometric sine table", "A decimal logarithm chart", "A calculus proof"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the main reason reciprocals of 2, 3, and 5 are especially convenient in base 60?",
+    "choices": ["They create terminating sexagesimal fractions", "They equal whole powers of 10", "They require no place value", "They remove the need for units"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which decimal value is represented by the sexagesimal number 1,12?",
+    "choices": ["62", "72", "82", "112"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which decimal value is represented by the sexagesimal number 3,45?",
+    "choices": ["185", "205", "225", "245"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What decimal number corresponds to the sexagesimal fraction 0,12?",
+    "choices": ["0.12", "0.2", "0.25", "0.3"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What decimal number corresponds to the sexagesimal fraction 0,45?",
+    "choices": ["0.45", "0.6", "0.75", "0.8"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "If a Babylonian calculator needed to divide by 8, which reciprocal would be especially relevant?",
+    "choices": ["0,5", "0,10", "0,7,30", "0,30"],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The sexagesimal reciprocal of 3 is which of the following?",
+    "choices": ["0,10", "0,15", "0,20", "0,30"],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The sexagesimal reciprocal of 4 is which of the following?",
+    "choices": ["0,12", "0,15", "0,20", "0,24"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The sexagesimal reciprocal of 5 is which of the following?",
+    "choices": ["0,10", "0,12", "0,15", "0,30"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The sexagesimal reciprocal of 16 terminates because 16 factors entirely into which prime?",
+    "choices": ["2", "3", "5", "7"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which number would have a finite reciprocal in base 60?",
+    "choices": ["14", "18", "21", "27"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which number would not have a finite reciprocal in base 60?",
+    "choices": ["15", "20", "24", "28"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A Babylonian scribe multiplying by a reciprocal was usually performing the equivalent of what modern operation?",
+    "choices": ["Exponentiation", "Division", "Differentiation", "Interpolation only"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Why do historians often say Babylonian mathematics was strongly algorithmic?",
+    "choices": ["It relied on named step-by-step procedures", "It rejected all tables", "It prohibited approximation", "It used only geometric drawings without words"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What best describes the role of diagrams on many Babylonian mathematical tablets?",
+    "choices": ["They are always absent", "They sometimes support the text but do not replace the procedure", "They prove theorems in Euclid's style", "They are decorative borders only"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A problem about a rectangle's length, width, and diagonal would most naturally connect to what relation in modern terms?",
+    "choices": ["An exponential law", "A right-triangle relation", "A modular congruence", "A logarithmic identity"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which combination of prime factors characterizes all Babylonian regular numbers?",
+    "choices": ["Only 2s, 3s, and 5s", "Only 2s and 7s", "Only 3s and 11s", "Any pair of distinct primes"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which of these is regular because it factors into 2s, 3s, and 5s only?",
+    "choices": ["45", "49", "77", "91"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which of these is irregular because it includes a prime factor outside 2, 3, and 5?",
+    "choices": ["30", "40", "42", "54"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does a table of successive doubling chiefly support in Babylonian work?",
+    "choices": ["Prime testing", "Generating multiples efficiently", "Writing fractions as decimals", "Dating reign lengths"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What does a table of successive halving chiefly support when paired with doubling methods?",
+    "choices": ["Undoing a scaling process", "Calculating eclipses", "Naming geometric figures", "Converting Sumerian to Akkadian"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In practical terms, why was base 60 so useful beyond pure theory?",
+    "choices": ["It has many divisors for fractions and tables", "It is the smallest possible base", "It matches the alphabet", "It eliminates ambiguity in all contexts"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which of these modern time measures most clearly preserves a sexagesimal legacy?",
+    "choices": ["24 hours in a day", "60 minutes in an hour", "7 days in a week", "12 months in a year"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which modern angle measure most clearly preserves a sexagesimal legacy?",
+    "choices": ["100 grads in a right angle", "90 degrees in a right angle", "2 radians in a straight angle", "10 mils in a degree"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "If one degree is divided in the old sexagesimal style, what is its first standard subdivision?",
+    "choices": ["Minute", "Second", "Third", "Mil"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the history of science, later astronomical sexagesimal fractions are most directly indebted to which earlier tradition?",
+    "choices": ["Babylonian numeration", "Roman accountancy", "Chinese rod numerals", "Mayan vigesimal notation"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which branch of first-millennium BCE scholarship made especially heavy later use of sexagesimal place-value numeration?",
+    "choices": ["Babylonian astronomy", "Royal epic poetry", "Extispicy alone", "Legal formularies"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Why are astronomical tablets often important for the history of Babylonian mathematics?",
+    "choices": ["They show mature place-value computation in action", "They are the only tablets with numbers", "They avoid fractions completely", "They use alphabetic symbols for unknowns"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In many mathematical tablets, what language often appears in the technical wording of the problems and procedures?",
+    "choices": ["Classical Greek", "Old Babylonian Akkadian with Sumerian elements", "Aramaic only", "Old Persian"],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which statement best characterizes the surviving evidence for Mesopotamian mathematics?",
+    "choices": ["It comes mostly from paper codices", "It survives largely on clay tablets", "It is known only from later Greek reports", "It survives mainly on stone temples"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "A student copying a reciprocal table in an edubba would most likely be training for what broader role?",
+    "choices": ["Temple singer", "Professional scribe", "Chariot officer", "Metal caster"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which kind of problem would be least characteristic of known Old Babylonian mathematics texts?",
+    "choices": ["Finding a field's area", "Solving for a missing side", "Using reciprocal tables", "Proving infinitely many primes"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "When historians say a Babylonian tablet is 'metrological,' they usually mean it deals with what?",
+    "choices": ["Mythic chronology", "Systems of measurement", "Temple music", "Dynastic succession"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which of these would most likely require a coefficient in a Babylonian list?",
+    "choices": ["A standard geometric or capacity computation", "A king's titulary", "A lexical sign value", "A diplomatic greeting"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A Babylonian problem that asks you to 'tear out' a quantity is most likely using language for what kind of action?",
+    "choices": ["Subtraction or removal", "Square rooting", "Rotation of a figure", "Firing a tablet"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Many reconstructed Babylonian quadratic procedures begin by taking half of a sum and then doing what?",
+    "choices": ["Cubing it immediately", "Squaring it", "Converting it to decimal", "Taking a logarithm"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What makes Mesopotamian mathematics especially attractive to historians of education?",
+    "choices": ["It preserves classroom exercises and training tablets", "It banned student copying", "It survives only in elite royal inscriptions", "It contains no routine calculation"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which phrase best fits the relationship between computation and administration in Mesopotamia?",
+    "choices": ["They were tightly connected", "They developed in total isolation", "Administration avoided numbers", "Computation appeared only after coinage"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is the main modern obstacle to interpreting many isolated Babylonian numerals correctly?",
+    "choices": ["The clay dissolves on sight", "The implied unit and place value may not be written", "The signs are alphabetical abbreviations", "Every tablet is intentionally cryptographic"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which description best fits much of the surviving Old Babylonian mathematical corpus?",
+    "choices": ["Purely recreational riddles without method", "Practical and school-oriented computation with sophisticated procedures", "Formal deductive geometry in book form", "Astral omens with no numbers"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "If a Mesopotamian tablet gives the area of a square and asks for its side, the required operation is closest to what?",
+    "choices": ["Finding a reciprocal", "Taking a square root", "Differentiating", "Factoring a polynomial symbolically"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The mathematical sophistication of tablets like YBC 7289 and Plimpton 322 most strongly challenges which outdated assumption?",
+    "choices": ["That cuneiform was used on clay", "That Mesopotamian math was only crude bookkeeping", "That scribes employed tables", "That astronomy used numbers"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which area of modern scholarship studies Mesopotamian mathematical tablets in their language, context, and procedures?",
+    "choices": ["Assyriology", "Numismatics", "Papyrology", "Sigillography"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  }
+]

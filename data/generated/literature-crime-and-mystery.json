@@ -1,0 +1,308 @@
+[
+  {
+    "text": "Who created the Belgian detective Hercule Poirot?",
+    "choices": ["Agatha Christie", "Raymond Chandler", "Arthur Conan Doyle", "Dashiell Hammett"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "In which English village does Miss Jane Marple primarily solve mysteries?",
+    "choices": ["St. Mary Mead", "Midsomer", "Cabot Cove", "Chipping Campden"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the profession of Philip Marlowe, Raymond Chandler's most famous character?",
+    "choices": ["Private detective", "Police inspector", "Lawyer", "Journalist"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which author created Sherlock Holmes?",
+    "choices": ["Arthur Conan Doyle", "Wilkie Collins", "Thomas Hardy", "Charles Dickens"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many Hercule Poirot detective novels did Agatha Christie write?",
+    "choices": ["39", "31", "45", "27"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who is Sherlock Holmes' closest friend and chronicler?",
+    "choices": ["Dr. John Watson", "Inspector Lestrade", "Mycroft Holmes", "Mrs. Hudson"],
+    "correctIndex": 0,
+    "difficulty": 0.09
+  },
+  {
+    "text": "What city is Philip Marlowe's home base?",
+    "choices": ["Los Angeles", "San Francisco", "New York", "Chicago"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which detective is known for her knitting while solving crimes?",
+    "choices": ["Miss Jane Marple", "Trixie Beldon", "Nancy Drew", "Veronica Mars"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is Hercule Poirot's signature catchphrase about his detective method?",
+    "choices": ["The little grey cells", "Elementary", "The game is afoot", "All in the mind"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In Arthur Conan Doyle's stories, what drug does Holmes frequently use?",
+    "choices": ["Cocaine", "Morphine", "Laudanum", "Opium"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Agatha Christie novel features the most controversial ending in mystery fiction?",
+    "choices": ["Murder on the Orient Express", "And Then There Were None", "The Murder of Roger Ackroyd", "Death on the Nile"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of Sherlock Holmes' nemesis, the 'Napoleon of Crime'?",
+    "choices": ["Professor Moriarty", "Colonel Moran", "Dr. Grimesby", "The Spider"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who created the hard-boiled detective Sam Spade?",
+    "choices": ["Dashiell Hammett", "Raymond Chandler", "Ross Macdonald", "Chester Himes"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In which famous Sherlock Holmes story does a giant hound feature prominently?",
+    "choices": ["The Hound of the Baskervilles", "The Sign of Four", "A Scandal in Bohemia", "The Red-Headed League"],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is the setting for most of Agatha Christie's Miss Marple mysteries?",
+    "choices": ["A small English village", "London's West End", "The British countryside estates", "A seaside resort"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In 'And Then There Were None,' how many people are invited to the island?",
+    "choices": ["Ten", "Twelve", "Eight", "Fifteen"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which detective novel by Raymond Chandler opens with the line about money?",
+    "choices": ["The Big Sleep", "Farewell My Lovely", "The Long Goodbye", "Little Sister"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the full name of the character known as the 'world's greatest detective'?",
+    "choices": ["Sherlock Holmes", "Hercule Poirot", "Nero Wolfe", "Philo Vance"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Who wrote the Nero Wolfe series of detective novels?",
+    "choices": ["Rex Stout", "Erle Stanley Gardner", "S.S. Van Dine", "John Dickson Carr"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Agatha Christie's 'The ABC Murders,' what pattern does the killer follow?",
+    "choices": ["Alphabetical targeting", "Random selection", "Geographic spread", "Personal vendetta"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Miss Marple's first name?",
+    "choices": ["Jane", "Margaret", "Mary", "Joan"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who created Perry Mason, the legendary defense attorney detective?",
+    "choices": ["Erle Stanley Gardner", "Earl Derr Biggers", "Frances Noyes Hart", "George Harmon Coxe"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "In 'The Sign of Four,' from which country does the treasure originate?",
+    "choices": ["India", "Afghanistan", "Burma", "Egypt"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Agatha Christie play has become the world's longest-running theatrical production?",
+    "choices": ["The Mousetrap", "Witness for the Prosecution", "And Then There Were None", "Spider's Web"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What profession does Lord Peter Wimsey have alongside detective work?",
+    "choices": ["Nobleman/aristocrat", "Policeman", "Barrister", "Journalist"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In 'The Maltese Falcon,' what is the profession of the detective protagonist?",
+    "choices": ["Private investigator", "Police detective", "Insurance investigator", "Reporter"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Who is the villain revealed in 'The Hound of the Baskervilles'?",
+    "choices": ["Stapleton", "Dr. Mortimer", "Sir Henry Baskerville", "Holmes' brother"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In Raymond Chandler novels, what is Philip Marlowe's drink of choice?",
+    "choices": ["Whiskey", "Gin", "Brandy", "Scotch"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which early detective novel is considered a landmark work by Wilkie Collins?",
+    "choices": ["The Moonstone", "The Woman in White", "No Name", "The Law and the Lady"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In 'And Then There Were None,' what is the profession of Justice Wargrave?",
+    "choices": ["A judge", "A solicitor", "A police officer", "A doctor"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the source of Poirot's fame within the Agatha Christie universe?",
+    "choices": ["His detective work in Belgium", "His work with Scotland Yard", "His newspaper columns", "His university lectures"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In 'The Adventure of the Blue Carbuncle,' what precious item is stolen?",
+    "choices": ["A gemstone", "A crown jewel", "A famous necklace", "A royal seal"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who wrote the Ellery Queen detective stories, originally as a pseudonym?",
+    "choices": ["Manfred B. Lee and Frederic Dannay", "S.S. Van Dine", "John Dickson Carr", "Melville Davisson Post"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In 'Murder on the Orient Express,' who is revealed to be complicit in the crime?",
+    "choices": ["Multiple conspirators", "Only the conductor", "A single passenger", "An outside orchestrator"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the original British title of 'And Then There Were None'?",
+    "choices": ["Ten Little Soldiers", "Ten Little Indians", "Ten Little Niggers", "Ten Little Strangers"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Sherlock Holmes tale introduces the concept of 'the game is afoot'?",
+    "choices": ["The Final Problem", "The Reichenbach Fall", "The Adventure of the Noble Bachelor", "The Red-Headed League"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In 'The Murder of Roger Ackroyd,' why is the ending considered controversial?",
+    "choices": ["The narrator is the murderer", "Holmes fails to solve it", "An innocent is hanged", "Multiple solutions exist"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Raymond Chandler novel features the character Velma Valento?",
+    "choices": ["Farewell, My Lovely", "The Big Sleep", "The Long Goodbye", "The Little Sister"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the name of Poirot's police inspector ally in many adventures?",
+    "choices": ["Japp", "Lestrade", "Kemp", "Sharpe"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "In 'The Sign of Four,' what is the connection between the four men?",
+    "choices": ["They served together in India", "They were business partners", "They were childhood friends", "They were convicts"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who is the author of the Trent detective series?",
+    "choices": ["E.C. Bentley", "Agatha Christie", "Arthur Conan Doyle", "Erle Stanley Gardner"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In Dashiell Hammett's 'The Maltese Falcon,' what year was it published?",
+    "choices": ["1930", "1925", "1935", "1928"],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What psychological disorder does Sherlock Holmes famously suffer from according to Watson?",
+    "choices": ["Monomania", "Paranoia", "Melancholia", "Schizophrenia"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In 'Death on the Nile,' which character is actually the killer?",
+    "choices": ["Jacqueline de Bellefort", "Simon Doyle", "Linnet Ridgeway", "Andrew Pennington"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the real identity of the killer in 'The Mousetrap'?",
+    "choices": ["The seemingly innocent guest", "The landlord", "The radio operator", "The police officer"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In 'The Red-Headed League,' what is the actual purpose of the employment scheme?",
+    "choices": ["A cover for a bank robbery", "A legitimate business venture", "A test of Watson's deductions", "An extortion plot"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Sherlock Holmes story features the encounter with the opera singer Irene Adler?",
+    "choices": ["A Scandal in Bohemia", "The Adventure of the Illustrious Client", "The Disappearance of Lady Frances Carfax", "Charles Augustus Milverton"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In 'The Thin Man,' who is the detective couple's dog named?",
+    "choices": ["Asta", "Fido", "Schnook", "Nicky Jr."],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What literary innovation did Agatha Christie introduce with 'The Murder of Roger Ackroyd'?",
+    "choices": ["The unreliable narrator reveal", "The locked room mystery", "The detective in disguise", "The multiple endings format"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Raymond Chandler's world, what term is used to describe the Los Angeles setting and atmosphere?",
+    "choices": ["The mean streets", "The dark city", "The noir underworld", "The criminal underside"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Agatha Christie novel is set primarily on a train with an international passenger list?",
+    "choices": ["Murder on the Orient Express", "Death on the Nile", "Evil Under the Sun", "A Murder is Announced"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  }
+]

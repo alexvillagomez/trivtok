@@ -1,0 +1,284 @@
+[
+  {
+    "text": "This flag has horizontal stripes of red, white, and blue from top to bottom. Which country is it?",
+    "choices": ["France", "Netherlands", "Russia", "Luxembourg"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "The national flag features a white maple leaf centered on a red background. Which nation does this represent?",
+    "choices": ["Australia", "Chile", "Denmark", "Canada"],
+    "correctIndex": 3,
+    "difficulty": 0.10
+  },
+  {
+    "text": "White and blue horizontal stripes with a circle in the center characterize this flag. What is the country?",
+    "choices": ["Israel", "Greece", "Somalia", "Palestine"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "A solid green background with a golden crescent and star appears on this nation's flag. Which is it?",
+    "choices": ["Saudi Arabia", "Pakistan", "Turkey", "Libya"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Red background with a white cross that extends to all edges defines this Alpine nation's flag. Name it.",
+    "choices": ["Denmark", "Sweden", "Switzerland", "Norway"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Three vertical stripes of green, white, and orange represent this nation's independence movement. Which country?",
+    "choices": ["India", "Côte d'Ivoire", "Ireland", "Cameroon"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A simple red circle on a white background is the minimalist design of this East Asian nation's flag. Which is it?",
+    "choices": ["South Korea", "Vietnam", "Japan", "China"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Yellow cross on blue background with Nordic design features this Nordic nation's flag. Name it.",
+    "choices": ["Norway", "Finland", "Sweden", "Denmark"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Black, red, and gold horizontal stripes represent the national flag of which Central European country?",
+    "choices": ["Poland", "Germany", "Austria", "Czech Republic"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Three horizontal stripes in orange, white, and green with a blue wheel in the center. Which Asian nation is this?",
+    "choices": ["Pakistan", "Bangladesh", "India", "Sri Lanka"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "A green field with a yellow diamond containing a curved band represents this South American nation. Which is it?",
+    "choices": ["Colombia", "Brazil", "Venezuela", "Bolivia"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Bright green with a golden springbok antelope leaping symbolizes this southern African nation's flag. Name it.",
+    "choices": ["Zimbabwe", "Botswana", "South Africa", "Namibia"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Red background with a yellow-crowned lion facing left is the traditional design of this island nation. Which is it?",
+    "choices": ["Mauritius", "Seychelles", "Sri Lanka", "Madagascar"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Blue field with a Southern Cross constellation and stars is recognizable as which Commonwealth nation?",
+    "choices": ["New Zealand", "Australia", "Fiji", "Solomon Islands"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A silver fern leaf on a blue field represents this South Pacific nation's identity. Name it.",
+    "choices": ["Australia", "Samoa", "Tonga", "New Zealand"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Red background with a green cedar tree in white symbolizes this Mediterranean nation's flag. Which is it?",
+    "choices": ["Tunisia", "Syria", "Lebanon", "Palestine"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Black, red, and white stripes with an eagle spread across the center identifies which North African nation?",
+    "choices": ["Sudan", "Egypt", "Libya", "Algeria"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Blue, yellow, and red vertical stripes represent this South American nation. Which country is this?",
+    "choices": ["Peru", "Ecuador", "Bolivia", "Venezuela"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Red background with a yellow sun positioned centrally is the flag of which South American nation?",
+    "choices": ["Colombia", "Argentina", "Peru", "Bolivia"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Red background with white elephant holding a parasol represents this Southeast Asian nation. Name it.",
+    "choices": ["Myanmar", "Laos", "Thailand", "Cambodia"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "White, blue, and white horizontal stripes mark this Middle Eastern nation's flag. Which is it?",
+    "choices": ["Jordan", "Palestine", "Israel", "Lebanon"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Red with a yellow cross extending to the edges characterizes this Nordic nation's flag. Name it.",
+    "choices": ["Norway", "Iceland", "Denmark", "Faroe Islands"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Solid green background with a white crescent and star is the flag of which West African nation?",
+    "choices": ["Mauritania", "Nigeria", "Guinea", "Senegal"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Three horizontal stripes in red, white, and black with a centered eagle characterizes which African nation?",
+    "choices": ["Libya", "Tunisia", "Morocco", "Egypt"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Red and gold in specific patterns with a dragon symbolizes this East Asian nation's heritage. Which is it?",
+    "choices": ["Vietnam", "China", "Mongolia", "Bhutan"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Tricolor with vertical green, yellow, and red stripes is the flag of which West African nation?",
+    "choices": ["Guinea-Bissau", "Senegal", "Mali", "Cameroon"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Blue, white, and red vertical stripes represent this Western European nation. Name it.",
+    "choices": ["Belgium", "France", "Netherlands", "Luxembourg"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Green, white, and orange vertical stripes with a harp symbol in the center is which island nation?",
+    "choices": ["Scotland", "Wales", "Ireland", "Northern Ireland"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Red with a white cross bordered by gold or yellow is the flag of which Scandinavian nation?",
+    "choices": ["Sweden", "Finland", "Norway", "Denmark"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Three horizontal stripes in green, white, and saffron with a blue wheel is whose flag?",
+    "choices": ["Bangladesh", "Pakistan", "Sri Lanka", "India"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Purple circle on red background with intricate patterns represents which Pacific island nation?",
+    "choices": ["Vanuatu", "Tuvalu", "Palau", "Nauru"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Blue field with gold stars arranged in three groups represents which West African coastal nation?",
+    "choices": ["Nigeria", "Ghana", "Côte d'Ivoire", "Liberia"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Tricolor in green, white, and red vertical arrangement with specific insignia is which European nation?",
+    "choices": ["San Marino", "Hungary", "Italy", "Austria"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Red and white with a specific bird and shield design represents which Central American nation?",
+    "choices": ["Honduras", "El Salvador", "Nicaragua", "Guatemala"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Orange, white, and green horizontal stripes with a spinning wheel in blue center is which South Asian nation?",
+    "choices": ["Sri Lanka", "Bangladesh", "Nepal", "India"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Black, red, and gold with a two-headed eagle represents which Eastern European nation?",
+    "choices": ["Serbia", "Bulgaria", "Albania", "Bosnia"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Green and red with a specific geometric pattern and crescent represents which Islamic nation?",
+    "choices": ["Qatar", "Bahrain", "Kuwait", "Saudi Arabia"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Red with white cross bordered in blue represents which Alpine landlocked nation?",
+    "choices": ["Liechtenstein", "Austria", "Switzerland", "Slovenia"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Three vertical stripes with specific symbols and a 12-pointed star represents which Mediterranean nation?",
+    "choices": ["Cyprus", "Malta", "Greece", "Croatia"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Horizontal red and white stripes with a specific emblem and crown represents which Central European nation?",
+    "choices": ["Poland", "Slovakia", "Hungary", "Croatia"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Blue and white with a specific geometric lozenge pattern represents which Southern African nation?",
+    "choices": ["Lesotho", "Eswatini", "Botswana", "Zambia"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Gold and green with a specific animal and crescent moon represents which Central African nation?",
+    "choices": ["Cameroon", "Gabon", "Chad", "Equatorial Guinea"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Vertical blue, yellow, and red with a specific coat of arms represents which South American nation?",
+    "choices": ["Ecuador", "Colombia", "Guyana", "Suriname"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Red with a specific wreath and emblem pattern represents which Oceanic island nation?",
+    "choices": ["Tonga", "Samoa", "Kiribati", "Mauritius"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Green and white with specific geometric patterns and symbols represents which West African nation?",
+    "choices": ["Benin", "Togo", "Burundi", "Rwanda"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Blue, white, and orange with specific national symbols represents which Southern African nation?",
+    "choices": ["Botswana", "Namibia", "Lesotho", "Eswatini"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "White and blue horizontal stripes with specific star patterns and symbols represents which Mediterranean nation?",
+    "choices": ["Greece", "Israel", "Cyprus", "Malta"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  }
+]

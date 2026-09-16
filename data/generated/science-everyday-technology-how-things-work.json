@@ -1,0 +1,284 @@
+[
+  {
+    "text": "What is the primary function of the alternator in a car?",
+    "choices": ["Starts the engine when you turn the key", "Produces electrical current to power the car and recharge the battery", "Controls the flow of fuel to the engine", "Regulates the engine temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Why does a LED light bulb consume less energy than an incandescent bulb?",
+    "choices": ["It uses a different color of light", "It converts electricity into light more efficiently, with less heat loss", "It draws power at a different voltage", "It has a smaller filament"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "How does a microwave oven heat food?",
+    "choices": ["By heating the air inside the oven", "By using electromagnetic radiation at a specific frequency to excite water molecules", "By using a heating coil like a traditional oven", "By creating friction between food particles"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the main principle that allows a refrigerator to keep food cold?",
+    "choices": ["It freezes the air and circulates it", "It uses a refrigerant that cycles between evaporation and condensation to remove heat", "It reflects cold from the outside environment inward", "It uses extremely low pressure to slow molecular movement"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How does GPS determine your location?",
+    "choices": ["By measuring radio waves from cell towers", "By triangulating signals from multiple satellites orbiting Earth", "By using magnetic field readings from underground sensors", "By measuring the device's battery voltage"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does the spark plug do in a gasoline engine?",
+    "choices": ["Pumps fuel into the cylinder", "Ignites the fuel and air mixture to create the combustion that drives the piston", "Cools the engine after combustion", "Measures engine temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "How does a touchscreen sense your finger?",
+    "choices": ["It detects the heat from your skin", "It senses the electrical capacitance of your finger through the screen layer", "It uses tiny cameras beneath the surface", "It responds to changes in light reflection"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the primary source of power in a battery?",
+    "choices": ["Stored magnetic energy", "A chemical reaction that produces electrical current between two different materials", "Compressed gas expanding", "Vibrating electrons"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How does Wi-Fi transmit data wirelessly?",
+    "choices": ["Through underground fiber optic cables", "By using electromagnetic radio waves at frequencies around 2.4 or 5 GHz", "By bouncing sound waves off satellites", "Through the Earth's magnetic field"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does an electric motor's magnetic field do?",
+    "choices": ["Stores the electricity for later use", "Interacts with current-carrying wires to create rotational force", "Cools the motor windings", "Converts mechanical energy into electricity"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "How does a diesel engine ignite fuel differently than a gasoline engine?",
+    "choices": ["It uses a flame thrower to ignite the fuel", "It relies on the high heat from compressing air to ignite the injected fuel", "It uses a chemical catalyst mixed into the fuel", "It triggers ignition with electrical pulses at lower temperatures"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the purpose of the catalytic converter in a car's exhaust system?",
+    "choices": ["To reduce exhaust noise", "To convert harmful pollutants like carbon monoxide into less harmful substances", "To increase engine power output", "To heat the exhaust for better gas mileage"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How does regenerative braking work in electric vehicles?",
+    "choices": ["It applies brake fluid to slow the wheels faster", "It uses the energy from braking to spin the motor as a generator and recharge the battery", "It creates friction between brake pads and rotors", "It releases a parachute to slow the vehicle"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does OLED stand for in display technology?",
+    "choices": ["Optical Light Emitting Device", "Organic Light Emitting Diode", "Oscillating Light Element Display", "Output Level Emission Display"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How does wireless charging transfer energy to a device?",
+    "choices": ["Through visible light waves", "Through electromagnetic induction between a coil in the charger and one in the device", "Through thermal radiation", "Through direct electrical contact via air molecules"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the main function of an engine's compression ratio?",
+    "choices": ["It determines how loud the engine is", "It measures how much the air-fuel mixture is compressed before ignition, affecting efficiency", "It controls the speed of the pistons", "It regulates fuel consumption"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "How does active noise-cancelling technology work?",
+    "choices": ["It makes speakers louder to drown out noise", "It generates sound waves that are out of phase with incoming noise to destructively interfere and cancel it", "It uses special foam to absorb sound", "It separates frequencies to remove specific tones"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What does LIDAR measure in self-driving cars?",
+    "choices": ["Wind speed around the vehicle", "Distances and create 3D maps using laser light pulses", "Engine RPM and transmission status", "Fuel consumption rates"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How does a Hall effect sensor detect motion?",
+    "choices": ["By measuring temperature changes", "By sensing changes in a magnetic field as a magnet moves", "By counting vibrations in the air", "By detecting light reflection"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What principle allows infrared remote controls to work?",
+    "choices": ["Radio frequency transmission", "Visible light pulses", "Infrared light pulses invisible to the human eye", "Ultrasonic sound waves"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How does a capacitive touchscreen differ from a resistive one?",
+    "choices": ["Capacitive screens use multiple pressure-sensitive layers that deform on touch", "Capacitive screens detect electrical properties of your finger, while resistive requires physical pressure on layers", "Resistive screens work with any object, capacitive only with fingers", "They work identically but use different materials"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is thermal imaging based on?",
+    "choices": ["Detecting visible light wavelengths", "Measuring infrared radiation emitted by objects based on their temperature", "Using ultraviolet sensors", "Creating visible light through electrical stimulation"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How does a thermostat control heating systems?",
+    "choices": ["It manually opens and closes valves in the pipes", "It measures temperature and automatically switches heating on or off to maintain a setpoint", "It burns fuel to create heat directly", "It reflects heat from the outside"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What principle does Bluetooth use to avoid interfering with other wireless devices?",
+    "choices": ["It operates at a lower frequency than all other devices", "It rapidly hops between many frequencies on the 2.4 GHz band to avoid collisions", "It uses a completely different technology than other wireless methods", "It communicates only with paired devices in one fixed frequency"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How does the Doppler effect apply to radar speed guns?",
+    "choices": ["They measure the angle between two radar points", "They detect changes in wave frequency as objects move toward or away, revealing speed", "They count the number of waves hitting the target", "They use radio signals to directly measure distance traveled"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What does a car's automatic transmission do to optimize fuel efficiency?",
+    "choices": ["It reduces the size of the engine", "It adjusts gear ratios automatically to keep the engine operating in its most efficient RPM range", "It stops the engine when the car is coasting", "It prevents the driver from accelerating too quickly"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How does a brushless motor control rotation without physical brushes?",
+    "choices": ["It uses friction between moving parts", "Electronic circuits time the switching of current to the coils to create continuous rotation", "It relies on magnetic repulsion alone", "It uses water flow to create momentum"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the Faraday cage effect used to protect?",
+    "choices": ["Against physical impact", "Against electromagnetic interference by surrounding sensitive equipment with conductive material", "Against heat damage", "Against moisture and corrosion"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How does anti-lock braking (ABS) prevent wheel lockup?",
+    "choices": ["It reduces brake force permanently", "It rapidly pulses brake pressure to maintain wheel rotation while slowing the vehicle", "It uses stronger brake fluid", "It distributes braking force only to front wheels"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What enables a supercapacitor to store significant charge?",
+    "choices": ["Chemical reactions like a battery", "A double electrical layer at the electrode-electrolyte interface storing charge electrostatically", "Compressed air inside the device", "Trapped magnetic energy"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How does impedance matching improve antenna efficiency?",
+    "choices": ["It increases the number of radio frequencies received", "It minimizes signal reflection and loss by matching the antenna's impedance to the transmission line", "It prevents electromagnetic radiation completely", "It allows antennas to work without power"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is dithering in digital audio processing?",
+    "choices": ["Adding vibrato to sound recordings", "Adding low-level noise strategically to improve apparent resolution and reduce quantization distortion", "Compressing audio files", "Mixing multiple frequencies together"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How does a heat pipe transfer thermal energy?",
+    "choices": ["By conduction through solid metal", "Through evaporation and condensation of an internal fluid that rapidly cycles to move heat", "By magnetic field induction", "Through radiation into the surrounding air"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the principle behind how solid-state drives (SSDs) store data?",
+    "choices": ["Spinning magnetic platters at high speed", "Electronic charges trapped in floating-gate transistors that persist without power", "Mechanical springs holding data", "Optical reflections in layers"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How does a phase-locked loop synchronize to a reference frequency?",
+    "choices": ["By measuring visible light frequency", "By comparing the phase of the oscillator's output to a reference and adjusting frequency to maintain lock", "By mechanically locking gears together", "By using only capacitors and resistors"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What principle allows a magnetic levitation train to float above its track?",
+    "choices": ["The wheels are coated with a slippery material", "Powerful magnets create repulsive forces that lift and suspend the train", "Air cushions pump beneath the train", "The track is coated with a low-friction oil"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How does cross-modulation distortion occur in RF amplifiers?",
+    "choices": ["From temperature fluctuations", "When multiple frequency signals interact nonlinearly, creating unwanted frequency components", "From loose connectors", "From using the wrong type of wire"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What does the Q factor represent in resonant circuits?",
+    "choices": ["Quality of electrical connections", "The ratio of energy stored to energy dissipated per cycle, indicating sharpness of resonance", "The quantization level of digital signals", "The quantity of charge stored"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How does a phased array radar electronically steer its beam?",
+    "choices": ["By rotating the entire antenna dish", "By adjusting the phase of signals sent to different antenna elements to create interference patterns", "By changing the radar frequency continuously", "By using mechanical mirrors"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the Miller effect in electronic amplifier circuits?",
+    "choices": ["The tendency of circuits to get hot", "The apparent multiplication of capacitance due to feedback between input and output", "The degradation of signal quality over time", "The effect of electromagnetic shielding"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How does predictive maintenance use vibration analysis?",
+    "choices": ["By measuring how loud a machine sounds", "By analyzing frequency content of vibrations to detect early signs of bearing wear and component failure", "By counting how many times a machine shakes", "By measuring vibration in only one direction"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does the Nyquist frequency determine in signal sampling?",
+    "choices": ["How loud a signal can be amplified", "The minimum sampling rate required to accurately represent a signal without aliasing", "How fast data can be transmitted", "The impedance of a transmission line"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "How do waveguides confine electromagnetic waves in microwave ovens?",
+    "choices": ["With absorptive foam padding", "Through metal walls that create standing wave patterns and keep waves from radiating outward", "With special insulation materials", "By using extremely high air pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is Shannon's channel capacity theorem in communication systems?",
+    "choices": ["The number of wires in a cable determines speed", "It defines the maximum rate at which information can be reliably transmitted over a noisy channel", "All channels carry the same amount of data", "Noise doesn't affect data transmission"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How does error correction code (ECC) memory detect and fix bit errors?",
+    "choices": ["By restarting the computer", "By adding redundant bits that allow detection and correction of single-bit errors without requiring retransmission", "By slowing down data access", "By using larger memory chips"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the Carnot cycle's theoretical limit on heat engine efficiency?",
+    "choices": ["50% for all engines", "Efficiency equals 1 minus the ratio of absolute cold temperature to absolute hot temperature", "It depends only on engine size", "No limit exists with modern technology"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How does a stack effect in buildings influence air movement?",
+    "choices": ["From opening windows", "Warm air naturally rises and creates pressure differences that drive air circulation through openings", "From air conditioning systems alone", "From the weight of the building pushing down on air"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  }
+]

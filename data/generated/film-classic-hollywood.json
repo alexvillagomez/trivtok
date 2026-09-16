@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Who directed 'Casablanca' (1942)?",
+    "choices": ["Michael Curtiz", "Billy Wilder", "John Ford", "Alfred Hitchcock"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which film features the famous line 'Here's looking at you, kid'?",
+    "choices": ["The Big Sleep", "Casablanca", "The Maltese Falcon", "Sunrise"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In what year was 'The Wizard of Oz' released?",
+    "choices": ["1937", "1939", "1941", "1943"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which actress starred in 'Breakfast at Tiffany's' (1961)?",
+    "choices": ["Grace Kelly", "Ingrid Bergman", "Audrey Hepburn", "Vivien Leigh"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who directed 'Citizen Kane'?",
+    "choices": ["John Ford", "Fritz Lang", "Orson Welles", "William Wyler"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Hollywood studio was historically known for gangster films in the 1930s-40s?",
+    "choices": ["MGM", "Paramount", "Warner Bros", "RKO"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many Academy Awards did 'Ben-Hur' win at the 1960 ceremony?",
+    "choices": ["8", "11", "13", "9"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who starred opposite Ingrid Bergman in 'Notorious' (1946)?",
+    "choices": ["Cary Grant", "Gregory Peck", "Laurence Olivier", "Henry Fonda"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was Alfred Hitchcock's primary profession?",
+    "choices": ["Playwright", "Film director", "Composer", "Theater actor"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which actress won Best Actress for 'Roman Holiday' (1953)?",
+    "choices": ["Elizabeth Taylor", "Grace Kelly", "Audrey Hepburn", "Ava Gardner"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the name of the fictional town in 'It's a Wonderful Life'?",
+    "choices": ["Mayberry", "Smallville", "Pine Valley", "Bedford Falls"],
+    "correctIndex": 3,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who played the Cowardly Lion in 'The Wizard of Oz'?",
+    "choices": ["Bert Lahr", "Ray Bolger", "Jack Haley", "Margaret Hamilton"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which directors jointly helmed 'Singin' in the Rain' (1952)?",
+    "choices": ["Vincente Minnelli", "Gene Kelly and Stanley Donen", "Busby Berkeley", "William Powell"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What was Humphrey Bogart's final film?",
+    "choices": ["The African Queen", "The Big Sleep", "The Harder They Fall", "In a Lonely Place"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the central plot device in 'It Happened One Night' (1934)?",
+    "choices": ["A wedding heist", "A cross-country journey", "A wartime romance", "A murder investigation"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who played Scarlett O'Hara in 'Gone with the Wind'?",
+    "choices": ["Bette Davis", "Joan Crawford", "Vivien Leigh", "Olivia de Havilland"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What industry is portrayed in 'Sunset Boulevard' (1950)?",
+    "choices": ["Theater production", "Publishing", "The film industry", "Fashion design"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the literary source for 'The Big Sleep' (1946)?",
+    "choices": ["Short story collection", "Autobiography", "A Raymond Chandler novel", "Original screenplay"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which actor was frequently cast by director John Ford?",
+    "choices": ["Gary Cooper", "James Stewart", "Henry Fonda", "John Wayne"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the ship featured in 'Mutiny on the Bounty' (1935)?",
+    "choices": ["USS Enterprise", "HMS Victory", "HMS Bounty", "La Pérouse"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Who won the Academy Award for Best Director for 'All About Eve' (1950)?",
+    "choices": ["Billy Wilder", "Joseph L. Mankiewicz", "William Wyler", "John Huston"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In 'North by Northwest' (1959), what type of crop is featured in the famous aerial chase scene?",
+    "choices": ["Wheat field", "Barley field", "Corn field", "Oat field"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which film won the Academy Award for Best Picture in 1952?",
+    "choices": ["A Streetcar Named Desire", "A Place in the Sun", "An American in Paris", "Billy Budd"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What studio produced most of Bette Davis' major films?",
+    "choices": ["MGM", "RKO", "Warner Bros", "Paramount"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "In 'The Maltese Falcon' (1941), what object drives the central plot?",
+    "choices": ["A golden idol", "A diamond necklace", "A black bird statue", "A secret map"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who directed 'Rope' (1948)?",
+    "choices": ["Billy Wilder", "Carol Reed", "Alfred Hitchcock", "Michael Powell"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What was Marilyn Monroe's birth name?",
+    "choices": ["Betty Jean Baker", "Gloria Dimond", "Norma Jeane Mortenson", "Margarita Cánsino"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which film won Best Picture at the 1959 Academy Awards?",
+    "choices": ["The Nun's Story", "Room at the Top", "Gigi", "Anatomy of a Murder"],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Who directed 'The Philadelphia Story' (1940)?",
+    "choices": ["William Wyler", "Billy Wilder", "George Cukor", "Frank Borzage"],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Who played Elwood P. Dodd in 'Harvey' (1950)?",
+    "choices": ["Cary Grant", "Henry Fonda", "James Stewart", "Don Ameche"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What obsession drives John Wayne's character in 'The Searchers' (1956)?",
+    "choices": ["Finding buried treasure", "Recovering stolen horses", "Pursuing a fugitive", "Avenging his family's murder"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which British author wrote the original story adapted into 'The Third Man' (1949)?",
+    "choices": ["Noël Coward", "George Bernard Shaw", "Graham Greene", "W. H. Auden"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the primary inspiration for the title 'Sunset Boulevard'?",
+    "choices": ["Billy Wilder's childhood home", "A Gershwin song", "The famous Hollywood street", "An old Broadway play"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who played the villain's butler Max in 'Sunset Boulevard' (1950)?",
+    "choices": ["Emil Jannings", "Conrad Veidt", "Erich von Stroheim", "Otto Preminger"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What cinematographic technique did Orson Welles pioneer in 'Citizen Kane'?",
+    "choices": ["Handheld camera work", "Split-screen cinematography", "Deep focus photography", "Reverse motion"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In 'Notorious' (1946), what deadly substance does the villain plot to use?",
+    "choices": ["Plutonium", "Ricin", "Uranium", "Cyanide"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What Soviet filmmaking technique, pioneered by Sergei Eisenstein, greatly influenced Hollywood directors?",
+    "choices": ["Synchronized sound", "Color cinematography", "Deep focus", "Montage editing"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who directed the original 'Dracula' (1931)?",
+    "choices": ["James Whale", "George Melford", "Lon Chaney Sr.", "Tod Browning"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the name of the Phantom character in 'The Phantom of the Opera' (1925)?",
+    "choices": ["Raoul", "Philippe", "Louis", "Erik"],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In 'A Streetcar Named Desire' (1951), what does Blanche DuBois rely upon as her emotional escape?",
+    "choices": ["Her sister's charity", "Stanley's protection", "A hidden job opportunity", "Deception about her past"],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How many of the five major Oscar categories did 'It Happened One Night' (1934) sweep?",
+    "choices": ["Four", "Three", "Two", "All five"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What was 'Rear Window' (1954) originally titled as a story?",
+    "choices": ["The Window", "Voyeur", "It Had to Be Murder", "Peeping Tom"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Who directed 'The Killing' (1956)?",
+    "choices": ["Otto Preminger", "Robert Aldrich", "Jules Dassin", "Stanley Kubrick"],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the climactic setting in 'Vertigo' (1958)?",
+    "choices": ["A train station", "A rooftop", "A mansion", "A bell tower"],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the primary subject of Robert Flaherty's 'Nanook of the North' (1922)?",
+    "choices": ["A remote tribe's customs", "An Arctic expedition", "Native American traditions", "An Inuit hunter's life"],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who was the star and primary creative force behind the 'Tramp' character in silent cinema?",
+    "choices": ["Buster Keaton", "Harold Lloyd", "Charlie Chaplin", "Lon Chaney"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What 1946 film starring Bing Crosby and Fred Astaire is known for 'White Christmas'?",
+    "choices": ["Holiday Inn", "Blue Skies", "Easter Parade", "Holiday Affair"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "text": "How many branches of the federal government are established by the Constitution?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which amendment guarantees freedom of speech, religion, and press?",
+    "choices": ["Second", "First", "Fourth", "Tenth"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the primary role of the legislative branch?",
+    "choices": ["Enforce laws", "Make laws", "Interpret laws", "Appoint judges"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many senators does each state have?",
+    "choices": ["One", "Three", "Two", "Five"],
+    "correctIndex": 2,
+    "difficulty": 0.09
+  },
+  {
+    "text": "Which branch can veto legislation?",
+    "choices": ["Senate", "House of Representatives", "Executive", "Supreme Court"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the Bill of Rights?",
+    "choices": ["Trade agreement", "First ten amendments", "Supreme Court ruling", "Treaty with Britain"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many members are in the House of Representatives?",
+    "choices": ["100", "435", "270", "360"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who serves as President of the Senate?",
+    "choices": ["Speaker of the House", "Secretary of State", "Vice President", "Chief Justice"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which amendment protects the right to bear arms?",
+    "choices": ["First", "Third", "Second", "Fourth"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What document did the Framers create to replace the Articles of Confederation?",
+    "choices": ["Declaration of Independence", "Constitution", "Federalist Papers", "Magna Carta"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "How many times can a President be elected?",
+    "choices": ["Once", "Unlimited", "Three times", "Twice"],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which amendment abolished slavery?",
+    "choices": ["Thirteenth", "Fifteenth", "Fourteenth", "Nineteenth"],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is required for a bill to become law without the President's signature?",
+    "choices": ["Senate approval", "House vote", "Congressional veto override", "State ratification"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Supreme Court case established judicial review?",
+    "choices": ["McCulloch v. Maryland", "Marbury v. Madison", "Gibbons v. Ogden", "Fletcher v. Peck"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The Great Compromise at the Constitutional Convention resolved what conflict?",
+    "choices": ["Slavery", "Taxation power", "State vs. national representation", "Executive power"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which amendment granted women the right to vote?",
+    "choices": ["Fifteenth", "Nineteenth", "Twenty-third", "Twenty-sixth"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does the Fifth Amendment's due process clause require?",
+    "choices": ["Free legal counsel", "Fair procedures before government action", "Public trial", "Jury verdict"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In what year was the Constitution ratified?",
+    "choices": ["1776", "1789", "1791", "1801"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which branch appoints federal judges?",
+    "choices": ["Senate alone", "House of Representatives", "President with Senate confirmation", "Congress"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the Electoral College?",
+    "choices": ["University", "System of voters choosing the President", "Congressional committee", "Supreme Court division"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In the Supreme Court case Brown v. Board of Education, what was ruled unconstitutional?",
+    "choices": ["Segregation in private schools", "Segregation in public schools", "Desegregation laws", "Integration"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Fourth Amendment protects against what?",
+    "choices": ["Self-incrimination", "Unreasonable searches and seizures", "Cruel punishment", "Double jeopardy"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which amendment repealed Prohibition?",
+    "choices": ["Eighteenth", "Twenty-first", "Twentieth", "Nineteenth"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the minimum age to serve as President?",
+    "choices": ["30", "35", "40", "45"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "How many votes are needed to override a presidential veto?",
+    "choices": ["Simple majority", "Three-fifths majority", "Two-thirds majority", "Unanimous"],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In Miranda v. Arizona, what were police required to inform suspects of?",
+    "choices": ["Their attorney", "Their charges", "Their constitutional rights", "The bail amount"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does the Tenth Amendment do?",
+    "choices": ["Grants power to federal government", "Reserves powers to states and people", "Protects property", "Establishes courts"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which case gave Congress broad power to regulate interstate commerce?",
+    "choices": ["Marbury v. Madison", "McCulloch v. Maryland", "Gibbons v. Ogden", "Lochner v. New York"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How many states must ratify an amendment for it to become part of the Constitution?",
+    "choices": ["20", "30", "32", "Three-fourths"],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the primary duty of the Chief Justice?",
+    "choices": ["Appoint judges", "Preside over the Supreme Court", "Enforce laws", "Veto legislation"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "In Plessy v. Ferguson, the Supreme Court upheld the doctrine of...",
+    "choices": ["Desegregation", "Affirmative action", "Separate but equal", "Integration"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What type of court has jurisdiction over federal crimes?",
+    "choices": ["State district courts", "Municipal courts", "Federal district courts", "Traffic courts"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which amendment abolished poll taxes?",
+    "choices": ["Twenty-fourth", "Nineteenth", "Fifteenth", "Twenty-sixth"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the term length for a federal judge?",
+    "choices": ["4 years", "6 years", "Life", "8 years"],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "In McCulloch v. Maryland, the Court ruled on what power?",
+    "choices": ["Voting rights", "Implied powers of Congress", "State taxation authority", "Individual liberties"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does the supremacy clause establish?",
+    "choices": ["State law priority", "Federal law priority over state law", "Judicial supremacy", "Executive supremacy"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which amendment extended voting rights to 18-year-olds?",
+    "choices": ["Twenty-fourth", "Twenty-sixth", "Twenty-second", "Fifteenth"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the primary role of the Speaker of the House?",
+    "choices": ["Write legislation", "Lead the House", "Appoint judges", "Represent states"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In Roe v. Wade, what constitutional right was recognized?",
+    "choices": ["Marriage equality", "Reproductive privacy", "Equal protection", "Free speech"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the primary purpose of the Electoral College?",
+    "choices": ["Educate voters", "Balance state power in presidential elections", "Abolish popular vote", "Elect Congress"],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which case established that the president is not above the law?",
+    "choices": ["Marbury v. Madison", "United States v. Nixon", "Gideon v. Wainwright", "Ex parte Milligan"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What doctrine did McCulloch v. Maryland establish for federal powers?",
+    "choices": ["Enumerated powers only", "Implied powers", "Reserved powers", "Concurrent powers"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Gideon v. Wainwright, the Court ruled that...",
+    "choices": ["States cannot have laws", "Defendants have right to counsel", "Trials must be public", "Juries are optional"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What does the 14th Amendment's equal protection clause prohibit?",
+    "choices": ["Free speech", "Government discrimination based on protected classes", "Privacy", "Search warrants"],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "In Lochner v. New York, which interest won: worker safety or economic liberty?",
+    "choices": ["Worker safety clearly", "Economic liberty", "They were equally protected", "Neither was protected"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the doctrine of judicial review?",
+    "choices": ["Congress reviews court decisions", "Courts review laws for constitutionality", "States review federal laws", "President reviews judges"],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In Marbury v. Madison, who was denied the sought position?",
+    "choices": ["President", "Senator", "Marbury (as justice of the peace)", "Federal judge"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which branch interprets the Constitution?",
+    "choices": ["Legislative", "Executive", "Judicial", "Presidential"],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  }
+]

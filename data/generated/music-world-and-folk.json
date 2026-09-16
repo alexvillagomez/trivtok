@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which percussion instrument is central to West African griot traditions and has a goblet shape with a single head?",
+    "choices": ["Talking drum", "Djembe", "Ashiko", "Bougarabou"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the traditional Spanish guitar style featuring rapid fingerpicking and originated in Andalusia?",
+    "choices": ["Rumba", "Flamenco", "Sevillana", "Copla"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The sitar is a plucked string instrument fundamental to which classical music tradition?",
+    "choices": ["Arabic", "Indian", "Persian", "Turkish"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which Irish drum, played with double-headed sticks called cipín, creates the heartbeat of Celtic music?",
+    "choices": ["Bodhrán", "Bodhran", "Bhodran", "Bodhrain"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Samba rhythms originated in which country, blending African percussion with European influences?",
+    "choices": ["Cuba", "Haiti", "Brazil", "Jamaica"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The tabla is a paired hand drum used primarily in which musical tradition?",
+    "choices": ["Persian music", "North Indian classical", "Turkish classical", "Arab classical"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the stringed instrument with sympathetic strings that vibrates to enhance resonance in Indian music?",
+    "choices": ["Veena", "Sarod", "Sarangi", "Sitar"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Reggae music developed in Jamaica during which decade?",
+    "choices": ["1950s", "1960s", "1970s", "1980s"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The blues scale in African American folk traditions emphasizes which interval?",
+    "choices": ["Minor third", "Flattened fifth", "Major seventh", "Tritone"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Chinese instrument features a curved bow and is held vertically, producing hauntingly high tones?",
+    "choices": ["Erhu", "Pipa", "Guzheng", "Yangqin"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The oud is a fretless stringed instrument fundamental to which region's musical traditions?",
+    "choices": ["Southeast Asia", "East Africa", "Middle East", "Scandinavia"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What plucked zither with 13 strings is the national instrument of Japan?",
+    "choices": ["Koto", "Shamisen", "Biwa", "Tsugaru"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Flamenco originated among which ethnic group in southern Spain?",
+    "choices": ["Basques", "Catalans", "Gitanos", "Andalusians"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The capoeira rhythm known as samba no pé originated alongside which martial art form in Brazil?",
+    "choices": ["Muay Thai fusion", "Angolan dance-combat", "Capoeira Angola", "Samba fighting"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How many sympathetic strings does a sarangi typically have beneath its main playing strings?",
+    "choices": ["15-20", "30-40", "40-60", "20-30"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The mariachi ensemble traditionally uses which instruments as its foundation?",
+    "choices": ["Violin, harp, trumpet", "Guitar, vihuela, guitarrón", "Violin, cello, guitar", "Mandolin, violin, bass"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What African talking drum uses pitch changes created by hand pressure on the strings?",
+    "choices": ["Djembe", "Ashiko", "Bougarabou", "Dundun"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Raga in Indian classical music refers to which organizational element?",
+    "choices": ["A drum pattern", "A melodic framework with notes and mood", "A type of dance", "A lyrical poem"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The harmonica became central to Delta blues because of which practical advantage?",
+    "choices": ["Ease of mass production", "Affordability and portability", "Superior sound quality", "Ease of learning"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Scottish bagpipe melody pattern sets the rhythmic structure of traditional dance music?",
+    "choices": ["Piobaireachd", "Strathspey", "Jig meter", "Reel timing"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The ney, an ancient flute, has been used in which musical tradition for over 4,500 years?",
+    "choices": ["Indian", "Egyptian", "Chinese", "Japanese"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Bossa nova emerged in Brazil as a fusion of samba and which other genre?",
+    "choices": ["Jazz harmony", "Rock rhythm", "Classical technique", "European waltz"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the stringed instrument used in Turkish classical music that resembles a dulcimer but is plucked?",
+    "choices": ["Oud", "Kanun", "Ney", "Kemençe"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The djembe originated in which West African country and empire?",
+    "choices": ["Mali Empire", "Songhai Empire", "Oyo Empire", "Ashanti Kingdom"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which folk tradition features the use of blue notes to express melancholy and struggle?",
+    "choices": ["Celtic ballads", "African American blues", "Russian folk", "Appalachian ballads"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The qanun is a trapezoid-shaped instrument that produces sound through which method?",
+    "choices": ["Bowing", "Plucking with fingers", "Plucking with plectra", "Striking with mallets"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In traditional Irish music, what is the name for rapid ornamental note passages?",
+    "choices": ["Cuts", "Rolls", "Triplets", "Ornaments"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Fado music originated in which European country as a expression of nostalgia and fate?",
+    "choices": ["Spain", "Portugal", "Greece", "Italy"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The erhu, a Chinese bowed string instrument, has how many main playing strings?",
+    "choices": ["Two", "Three", "Four", "Six"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What West African rhythm pattern uses cross-rhythms and complex polyrhythmic structures?",
+    "choices": ["Highlife", "Polyrhythm", "Call-and-response", "Griot pattern"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The pipa, a four-stringed Chinese lute, is played using which technique?",
+    "choices": ["Bowing", "Finger plucking with nails", "Flat plectrum", "Striking with mallets"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which percussion instrument made from clay produces the foundational rhythm in Brazilian samba?",
+    "choices": ["Tamborim", "Cuíca", "Surdo", "Pandeiro"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The shamisen is a three-stringed Japanese instrument traditionally used in which theater form?",
+    "choices": ["No", "Kabuki", "Noh", "Butoh"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What Ethiopian stringed instrument features ten strings and is played with a plectrum?",
+    "choices": ["Lyre", "Azmari", "Masinko", "Krar"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In flamenco music, castanets create which rhythmic and tonal effects?",
+    "choices": ["Melodic accompaniment", "Percussive clicks and rhythm", "Harmonic resonance", "Bass foundation"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The balalaika is a triangular stringed instrument from which country's folk tradition?",
+    "choices": ["Poland", "Russia", "Ukraine", "Belarus"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many tones are in a traditional Indian raga scale system?",
+    "choices": ["Five", "Seven", "Twelve", "Twenty"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The bouzouki, a paired-string instrument, is fundamental to music from which Mediterranean country?",
+    "choices": ["Spain", "Greece", "Turkey", "Croatia"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What work-song tradition of enslaved African Americans developed into blues music?",
+    "choices": ["Sea shanties", "Field hollers", "Gospel hymns", "Spiritual chants"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The didgeridoo was developed by Aboriginal peoples of which country?",
+    "choices": ["New Zealand", "Australia", "Papua New Guinea", "Fiji"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Balkan folk music, the asymmetrical meter of 7 beats is called by which term?",
+    "choices": ["Septuple", "Odd meter", "Bulgar rhythm", "Seven-beat"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The saz is a long-necked lute fundamental to which region's musical traditions?",
+    "choices": ["North Africa", "Central Asia", "Anatolia and the Levant", "South Asia"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What rhythmic layering technique in West African drum circles ensures each drummer plays a different pattern?",
+    "choices": ["Syncopation", "Polyrhythm", "Offbeat", "Call-and-response"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The vihuela, a precursor to the modern guitar, originated in which country?",
+    "choices": ["Italy", "Portugal", "Spain", "France"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Javanese gamelan orchestras, which metal percussion instrument sets the timeline of the ensemble?",
+    "choices": ["Bonang", "Gong", "Kempyang", "Saron"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The panpipe, made from bamboo or wood tubes, originated in which ancient Andean civilization?",
+    "choices": ["Aztec", "Maya", "Inca", "Olmec"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  }
+]

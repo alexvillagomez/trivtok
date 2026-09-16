@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which legendary slugger broke Babe Ruth's all-time home run record in 1974?",
+    "choices": ["Willie Mays", "Hank Aaron", "Ted Williams", "Mickey Mantle"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the maximum number of strikes a batter can receive before an out is called?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Which team won the World Series in 1927 and is often considered the greatest baseball team ever?",
+    "choices": ["Boston Red Sox", "New York Yankees", "St. Louis Cardinals", "Philadelphia Athletics"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In what year did Jackie Robinson break baseball's color barrier?",
+    "choices": ["1945", "1947", "1950", "1952"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "How many consecutive games did Cal Ripken Jr. play, breaking Lou Gehrig's record?",
+    "choices": ["2,130", "2,362", "2,215", "2,581"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does ERA stand for in baseball statistics?",
+    "choices": ["Earned Run Average", "Error Rate Achievement", "Effective Runs Allowed", "Expected Runs Achieved"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which player was known as the 'Say Hey Kid'?",
+    "choices": ["Stan Musial", "Willie Mays", "Hank Aaron", "Joe DiMaggio"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In which season was the designated hitter first introduced to the American League?",
+    "choices": ["1969", "1971", "1973", "1975"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who holds the record for most strikeouts pitched in MLB history?",
+    "choices": ["Walter Johnson", "Gaylord Perry", "Roger Clemens", "Nolan Ryan"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a batting average of .300 or higher typically considered in baseball?",
+    "choices": ["Below average", "Excellent", "Average", "Poor"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many World Series championships did the New York Yankees win in the 1990s?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Hall of Famer was nicknamed 'Stan the Man'?",
+    "choices": ["Stan Musial", "Stan Coveleski", "Stan Williams", "Stan Bahnsen"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In what year was the American League established?",
+    "choices": ["1876", "1887", "1901", "1903"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who was the first player to hit 500 home runs in MLB history?",
+    "choices": ["Ty Cobb", "Babe Ruth", "Rogers Hornsby", "Honus Wagner"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the distance between home plate and first base?",
+    "choices": ["80 feet", "85 feet", "90 feet", "95 feet"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which pitcher holds the record for most Cy Young Awards?",
+    "choices": ["Whitey Ford", "Roger Clemens", "Bob Feller", "Christy Mathewson"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In what decade did the Boston Red Sox win their first World Series title since 1918?",
+    "choices": ["1980s", "1990s", "2000s", "2010s"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many teams currently compete in Major League Baseball?",
+    "choices": ["28", "30", "32", "24"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the infield fly rule primarily designed to prevent?",
+    "choices": ["Illegal fielding positions", "Cheap pop-up hits", "Throwing errors", "Balk calls"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which team relocated from Baltimore to Los Angeles in 1961?",
+    "choices": ["Kansas City Athletics", "Washington Senators", "Milwaukee Braves", "St. Louis Browns"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who was the first player to win both the Triple Crown and MVP in the same season?",
+    "choices": ["Mickey Mantle", "Frank Robinson", "Ted Williams", "Stan Musial"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the most World Series titles won by a single franchise?",
+    "choices": ["26", "28", "32", "27"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In baseball, what does RBI stand for?",
+    "choices": ["Runs Batted In", "Running Base Indicator", "Run Base Index", "Ranking Batting Index"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which player famously hit 73 home runs in a single season?",
+    "choices": ["Barry Bonds", "Mark McGwire", "Roger Maris", "Sammy Sosa"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many innings does a standard MLB game last?",
+    "choices": ["7", "8", "9", "10"],
+    "correctIndex": 2,
+    "difficulty": 0.06
+  },
+  {
+    "text": "Which Hall of Famer was known for his record 56-game hitting streak?",
+    "choices": ["Lou Gehrig", "Ted Williams", "Joe DiMaggio", "Ty Cobb"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In what year did the New York Mets win their first World Series?",
+    "choices": ["1965", "1967", "1969", "1971"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does a perfect game require in baseball?",
+    "choices": ["27 strikeouts", "No hits allowed", "No runs or errors", "27 batters retired without error"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which team won the first World Series in 1903?",
+    "choices": ["New York Giants", "Philadelphia Athletics", "Boston Americans", "Pittsburgh Pirates"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How many strikes constitute a strikeout after the batter fails to hit?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "difficulty": 0.07
+  },
+  {
+    "text": "Which legendary player is associated with the Chicago White Sox scandal of 1919?",
+    "choices": ["Shoeless Joe Jackson", "Ty Cobb", "Babe Ruth", "Rogers Hornsby"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How many feet is the distance of a home run for an official record?",
+    "choices": ["Any distance", "250 feet", "300 feet", "No minimum distance"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which pitcher threw a no-hitter in Game 5 of the 1956 World Series?",
+    "choices": ["Whitey Ford", "Don Larsen", "Sal Maglie", "Bob Turley"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the height of the pitcher's mound from the ground?",
+    "choices": ["8 inches", "10 inches", "12 inches", "15 inches"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which team has won the most World Series titles since 2000?",
+    "choices": ["New York Yankees", "Boston Red Sox", "San Francisco Giants", "St. Louis Cardinals"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many Hall of Famers did the 2004 Boston Red Sox have on their roster when they won the World Series?",
+    "choices": ["0", "1", "2", "3"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the maximum number of players allowed on an MLB roster during the regular season?",
+    "choices": ["24", "25", "26", "28"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which player won the first-ever National League MVP award?",
+    "choices": ["Christy Mathewson", "Honus Wagner", "Frank Chance", "Nap Lajoie"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In baseball, what is a 'cycle' by a batter?",
+    "choices": ["3 consecutive hits", "Hitting a home run every at-bat", "Single, double, triple, and home run", "4 hits in one game"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which legendary first baseman holds the record for consecutive games played?",
+    "choices": ["Stan Musial", "Lou Gehrig", "Eddie Murray", "Cal Ripken Jr."],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How many home runs did Babe Ruth hit during his career in MLB?",
+    "choices": ["680", "708", "714", "755"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What year was the World Series first played?",
+    "choices": ["1900", "1901", "1903", "1905"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which team held the longest winning streak in MLB regular season history?",
+    "choices": ["1935 Chicago Cubs", "1984 Detroit Tigers", "2017 Cleveland Indians", "1916 New York Giants"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does the abbreviation 'OPS' measure in baseball statistics?",
+    "choices": ["On-base Plus Slugging", "Offensive Player Score", "Overall Performance Stats", "Offensive Power System"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In what year did the color barrier in MLB officially end?",
+    "choices": ["1945", "1947", "1949", "1951"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  }
+]

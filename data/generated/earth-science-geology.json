@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which mineral is the hardest naturally occurring substance on Earth?",
+    "choices": ["Corundum", "Diamond", "Quartz", "Feldspar"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What type of rock forms when magma cools and solidifies?",
+    "choices": ["Sedimentary", "Metamorphic", "Igneous", "Fossiliferous"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which layer of Earth is the thickest by volume?",
+    "choices": ["Crust", "Mantle", "Inner core", "Outer core"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What causes the ground to shake during an earthquake?",
+    "choices": ["Wind patterns", "Sudden plate movement", "Volcanic ash", "Ocean waves"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the process where organisms become preserved in rock?",
+    "choices": ["Erosion", "Fossilization", "Weathering", "Tectonics"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which type of rock forms from compacted and cemented sediment?",
+    "choices": ["Igneous", "Metamorphic", "Sedimentary", "Volcanic"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What scale is used to measure the magnitude of earthquakes?",
+    "choices": ["Richter scale", "Mohs scale", "Beaufort scale", "pH scale"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which metal-rich compound is most commonly mined from ore deposits?",
+    "choices": ["Copper ore", "Iron ore", "Aluminum ore", "Lead ore"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the process where rock changes form due to heat and pressure deep underground?",
+    "choices": ["Crystallization", "Metamorphism", "Sedimentation", "Fusion"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which volcano type is characterized by steep sides and explosive eruptions?",
+    "choices": ["Shield volcano", "Composite volcano", "Cinder cone", "Lava dome"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What are the three main categories of rocks based on formation?",
+    "choices": ["Hard, soft, and brittle", "Igneous, sedimentary, and metamorphic", "Old, young, and ancient", "Mineral, organic, and synthetic"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which weathering process physically breaks rocks into smaller pieces without chemical change?",
+    "choices": ["Chemical weathering", "Organic weathering", "Mechanical weathering", "Thermal weathering"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Obsidian forms when lava cools rapidly. What causes its glassy appearance?",
+    "choices": ["Mineral crystallization", "Rapid cooling without crystallization", "Iron oxide content", "Silica saturation"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which type of plate boundary is most likely to produce the strongest earthquakes?",
+    "choices": ["Divergent boundary", "Convergent boundary", "Transform boundary", "Hotspot"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the average rate at which oceanic plates separate at mid-ocean ridges?",
+    "choices": ["1-2 mm per year", "1-10 cm per year", "1-2 meters per year", "1-10 km per year"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which mineral makes up the majority of Earth's continental crust?",
+    "choices": ["Quartz", "Feldspar", "Mica", "Pyroxene"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In metamorphic rocks, what two factors combine to transform the original rock?",
+    "choices": ["Pressure and time", "Heat and pressure", "Weathering and erosion", "Water and temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is formed when magma solidifies within a rock fissure without reaching the surface?",
+    "choices": ["Volcanic cone", "Lava flow", "Igneous dike", "Crater"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "On the Mohs hardness scale, what number represents the hardness of quartz?",
+    "choices": ["5", "7", "9", "10"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which type of fossil is an external imprint of an organism left in sediment?",
+    "choices": ["Cast fossil", "Mold fossil", "Trace fossil", "Permineralized fossil"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Approximately how many years ago did the last mass extinction event occur that killed the dinosaurs?",
+    "choices": ["30 million years", "66 million years", "100 million years", "200 million years"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of the continuous process by which rocks form, break down, and reform?",
+    "choices": ["Plate tectonics", "Rock cycle", "Weathering cycle", "Erosion process"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which type of lava has low viscosity and flows freely, creating gentle slopes?",
+    "choices": ["Andesitic lava", "Rhyolitic lava", "Basaltic lava", "Komatiitic lava"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What theory explains the movement and interaction of Earth's crustal plates?",
+    "choices": ["Continental drift", "Plate tectonics", "Seafloor spreading", "Subduction zones"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which crystalline form of carbon is used in industrial cutting and drilling?",
+    "choices": ["Graphite", "Diamond", "Charcoal", "Coal"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the deepest layer of Earth, composed primarily of solid iron and nickel?",
+    "choices": ["Mantle", "Outer core", "Inner core", "Asthenosphere"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Marble and slate are examples of which rock type formed under extreme conditions?",
+    "choices": ["Igneous", "Sedimentary", "Metamorphic", "Volcanic"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is a thin layer of solidified lava that has cooled on Earth's surface?",
+    "choices": ["Magma chamber", "Pyroclastic flow", "Lava flow", "Tuff layer"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which type of fossil is preserved in fossilized tree resin that has hardened over millions of years?",
+    "choices": ["Imprint fossil", "Amber fossil", "Silicified fossil", "Original fossil"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "At what approximate depth is the Mohorovičić discontinuity, the boundary between crust and mantle?",
+    "choices": ["5-10 km", "30-50 km", "100-200 km", "500+ km"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "To which family of minerals does quartz belong, the most abundant group in Earth's crust?",
+    "choices": ["Carbonate minerals", "Silicate minerals", "Oxide minerals", "Sulfide minerals"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which mechanism drives the motion of tectonic plates across Earth's surface?",
+    "choices": ["Magnetic fields", "Convection currents in the mantle", "Tidal forces", "Wind patterns"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which volcanic gas makes up the largest volume percentage in typical eruptions?",
+    "choices": ["Carbon dioxide", "Sulfur dioxide", "Water vapor", "Hydrogen sulfide"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What property of minerals describes the pattern in which they naturally break along planes?",
+    "choices": ["Fracture", "Luster", "Cleavage", "Streak"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which geological time period immediately preceded the Paleozoic Era?",
+    "choices": ["Archean Eon", "Proterozoic Eon", "Mesozoic Era", "Cenozoic Era"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the geothermal gradient, the rate at which temperature increases with depth in Earth?",
+    "choices": ["Temperature stays constant", "Temperature decreases with depth", "Temperature increases about 25-30°C per kilometer", "Temperature increases 1°C per kilometer"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which type of metamorphism occurs near magma intrusions without significant pressure change?",
+    "choices": ["Regional metamorphism", "Contact metamorphism", "Shock metamorphism", "Burial metamorphism"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What type of plate boundary is characterized by horizontal sliding with little vertical movement?",
+    "choices": ["Divergent boundary", "Convergent boundary", "Transform boundary", "Subduction zone"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which extinct group of marine organisms is most commonly used as an index fossil for dating rocks?",
+    "choices": ["Ammonites", "Trilobites", "Belemnites", "Nautiloids"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What phenomenon occurs when a stationary hotspot burns through a moving plate, creating a chain of volcanoes?",
+    "choices": ["Subduction volcanism", "Hotspot volcanism", "Arc volcanism", "Rift volcanism"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which rock type crystallizes from evaporating seawater and includes halite and gypsum?",
+    "choices": ["Clastic sedimentary", "Biochemical sedimentary", "Evaporite", "Organic sedimentary"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What principle states that undisturbed rock layers are older from bottom to top?",
+    "choices": ["Principle of uniformitarianism", "Law of superposition", "Principle of cross-cutting relationships", "Principle of inclusions"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which mineral exhibits piezoelectricity, generating an electric charge when subjected to pressure?",
+    "choices": ["Feldspar", "Quartz", "Mica", "Calcite"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What are pyroclastic flows, and what causes their extremely rapid descent down volcanic slopes?",
+    "choices": ["Slow lava streams", "Hot mixtures of gas and rock fragments moving rapidly", "Rainfall erosion", "Glacial meltwater"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which geologic time boundary, marked by a global iridium layer, separates the Cretaceous and Paleogene periods?",
+    "choices": ["Triassic-Jurassic boundary", "Cretaceous-Paleogene boundary", "Permian-Triassic boundary", "Ordovician-Silurian boundary"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What viscosity difference between lava types determines whether eruptions are explosive or effusive?",
+    "choices": ["Silica content and dissolved gases", "Mineral composition alone", "Temperature alone", "Eruption depth"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which process, characterized by descending plates at convergent margins, generates most of Earth's largest earthquakes?",
+    "choices": ["Spreading", "Hotspot activity", "Subduction", "Transform faulting"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What concept describes the recycling of crustal material back into the mantle through subduction zones?",
+    "choices": ["Seafloor spreading", "Plate convergence", "Geological recycling", "Crustal delamination"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which mineral variety shows asterism, a star-like optical effect when light reflects through crystals?",
+    "choices": ["Ruby", "Star sapphire", "Tourmaline", "Topaz"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the name for fractured rock that has slipped relative to adjacent rock along a fault plane?",
+    "choices": ["Shear zone", "Fault block", "Gouge", "Slickenside"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  }
+]

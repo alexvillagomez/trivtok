@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "defaultLongScrollTarget": 100,
+  "families": [
+    {
+      "id": "sports.world-football",
+      "topic": "World football",
+      "targetQuestions": 100,
+      "files": [
+        "data/generated/sports-world-football.json",
+        "data/generated/world-football-pop-culture.json",
+        "data/generated/world-football-club-competitions.json"
+      ]
+    },
+    {
+      "id": "science.genetics.mendelian-linkage",
+      "topic": "Mendelian ratios and linkage",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/genetics-mendelian-ratios-and-linkage.json"
+      ]
+    },
+    {
+      "id": "science.oceanography.thermohaline-circulation",
+      "topic": "Thermohaline circulation",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/oceanography-thermohaline-circulation.json"
+      ]
+    },
+    {
+      "id": "history.french-revolution.revolutionary-government",
+      "topic": "French revolutionary government, 1792–1795",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/french-revolution-committees-and-revolutionary-government.json"
+      ]
+    },
+    {
+      "id": "history.ancient-greece.athenian-democracy",
+      "topic": "Athenian democratic institutions",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/ancient-greece-athenian-democratic-institutions.json"
+      ]
+    },
+    {
+      "id": "humanities.shakespeare.textual-history",
+      "topic": "Shakespeare textual history",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/shakespeare-textual-history-and-quartos.json"
+      ]
+    },
+    {
+      "id": "humanities.renaissance-painting.commissions",
+      "topic": "Renaissance painting iconography and commissions",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/renaissance-painting-iconography-and-commissions.json"
+      ]
+    }
+  ]
+}

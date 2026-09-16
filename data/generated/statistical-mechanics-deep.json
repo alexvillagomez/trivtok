@@ -1,0 +1,542 @@
+[
+  {
+    "text": "In statistical mechanics, a macrostate is specified by what kind of information?",
+    "choices": ["Detailed positions and momenta of every particle", "A small set of bulk variables like energy and volume", "The exact collision history of the system", "The quantum phase of each molecule"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "A microstate of a many-particle system corresponds most closely to:",
+    "choices": ["One particular detailed configuration consistent with the laws of motion", "The average temperature of the sample", "The most probable pressure only", "A list of thermodynamic potentials"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Boltzmann's famous entropy relation for a macrostate with multiplicity W is:",
+    "choices": ["S = kB ln W", "S = W ln kB", "S = kB/W", "S = W/kB"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which ensemble describes an isolated system with fixed energy, volume, and particle number?",
+    "choices": ["Canonical ensemble", "Grand canonical ensemble", "Microcanonical ensemble", "Isothermal-isobaric ensemble"],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which ensemble describes a system in contact with a heat bath at fixed temperature?",
+    "choices": ["Canonical ensemble", "Microcanonical ensemble", "Grand microcanonical ensemble", "Adiabatic ensemble"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "The grand canonical ensemble allows fluctuations in which quantity beyond energy?",
+    "choices": ["Volume only", "Particle number", "Entropy only", "Boltzmann constant"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "The canonical partition function is usually written as:",
+    "choices": ["Z = sum_i e^(-beta Ei)", "Z = sum_i beta Ei", "Z = product_i Ei", "Z = sum_i ln(Ei)"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the factor e^(-beta E), beta is equal to:",
+    "choices": ["kB T", "1/(kB T)", "T/kB", "kB/T^2"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "In the canonical ensemble, the probability of microstate i is proportional to:",
+    "choices": ["Ei", "1/Ei", "e^(-beta Ei)", "ln Ei"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What normalizes the Boltzmann probabilities in the canonical ensemble?",
+    "choices": ["The Helmholtz free energy directly", "The partition function Z", "The chemical potential", "The multiplicity at zero energy"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "For a canonical system, the Helmholtz free energy F is related to Z by:",
+    "choices": ["F = kB T ln Z", "F = -kB T ln Z", "F = -ln Z/(kB T)", "F = T ln(kB Z)"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The internal energy in the canonical ensemble can be obtained from Z through which expression?",
+    "choices": ["U = -partial ln Z / partial beta", "U = partial Z / partial T", "U = ln Z / beta", "U = -beta Z"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "In a discrete microcanonical description, all accessible microstates with the fixed energy are usually assigned:",
+    "choices": ["Probabilities proportional to energy", "Equal probability", "Probability zero unless degenerate", "Alternating signs"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The symbol Omega in elementary statistical mechanics most often denotes:",
+    "choices": ["The angular frequency of every particle", "The multiplicity or number of accessible microstates", "The grand potential", "The volume of phase space divided by pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "A macrostate with larger multiplicity is more likely because it can be realized by:",
+    "choices": ["Fewer microscopic arrangements", "More microscopic arrangements", "Only lower-energy states", "Only symmetric states"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "For two weakly interacting subsystems A and B, the total multiplicity is typically:",
+    "choices": ["Omega_A + Omega_B", "Omega_A Omega_B", "Omega_A / Omega_B", "ln(Omega_A + Omega_B)"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Because multiplicities multiply, entropies for weakly coupled subsystems tend to be:",
+    "choices": ["Additive", "Multiplicative", "Always zero", "Undefined"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Thermodynamic equilibrium between two systems that can exchange energy is associated with equality of:",
+    "choices": ["Pressure", "Temperature", "Volume", "Heat capacity"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In microcanonical reasoning, temperature is introduced through which entropy derivative?",
+    "choices": ["1/T = partial S / partial E at fixed V,N", "T = partial S / partial V at fixed E,N", "1/T = partial E / partial S at fixed P,N only", "T = S/E"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The most probable macrostate of an isolated composite system is the one that maximizes:",
+    "choices": ["Total multiplicity", "Heat capacity", "Free energy", "Chemical potential"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "When deriving the canonical ensemble from a small system in contact with a large reservoir, the reservoir is assumed to have:",
+    "choices": ["Negligible heat capacity", "A temperature unchanged by small energy exchanges", "Fixed particle number but no energy", "Negative entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The Boltzmann factor for a subsystem emerges by expanding the reservoir entropy in powers of the subsystem's:",
+    "choices": ["Volume", "Energy", "Pressure", "Degeneracy only"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "In the canonical ensemble, the probability ratio of two states i and j is:",
+    "choices": ["Ei/Ej", "e^(-beta(Ei-Ej))", "beta(Ei-Ej)", "ln(Ei/Ej)"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A state with degeneracy g and energy E contributes to the partition function as:",
+    "choices": ["g e^(-beta E)", "g + beta E", "e^(-gE)", "g/E"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "For a system with only one accessible microstate, Boltzmann entropy is:",
+    "choices": ["kB", "0", "Infinite", "Undefined"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The canonical partition function encodes equilibrium thermodynamics because many observables can be generated from its:",
+    "choices": ["Prime factors", "Logarithm and derivatives", "Sign changes", "Integer part only"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The heat capacity at constant volume in the canonical ensemble is tied to fluctuations of:",
+    "choices": ["Volume", "Energy", "Particle mass", "Spin label only"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "For a canonical ensemble, energy fluctuations become relatively small in macroscopic systems because they typically scale like:",
+    "choices": ["N^0 relative to mean energy", "1/sqrt(N) relative to mean energy", "N relative to mean energy", "e^N relative to mean energy"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In the thermodynamic limit, predictions of the microcanonical and canonical ensembles usually become:",
+    "choices": ["Mutually contradictory", "Equivalent for many bulk observables", "Independent of interactions", "Valid only in one dimension"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The grand partition function Xi is commonly written as a sum over N weighted by:",
+    "choices": ["e^(beta mu N) Z_N", "N! Z_N only", "mu^N / Z_N", "e^(-mu N) without temperature"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In the grand canonical ensemble, the chemical potential controls the tendency of a system to exchange:",
+    "choices": ["Volume", "Particles", "Entropy", "Microstate labels"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The grand potential is most commonly denoted by:",
+    "choices": ["H", "Phi_G or -pV for homogeneous systems", "S", "L"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "For a homogeneous system in the grand canonical ensemble, the grand potential equals:",
+    "choices": ["+pV", "-pV", "TS", "U+pV"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In the isothermal-isobaric ensemble, the natural partition function sums over states weighted by factors involving energy and:",
+    "choices": ["Volume", "Angular momentum only", "Charge parity", "Frequency squared"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The natural thermodynamic potential for the canonical ensemble is:",
+    "choices": ["Gibbs free energy", "Helmholtz free energy", "Enthalpy", "Grand potential"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The natural thermodynamic potential for fixed temperature and pressure is:",
+    "choices": ["Helmholtz free energy", "Internal energy", "Gibbs free energy", "Massieu function only"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "A partition function for independent subsystems tends to:",
+    "choices": ["Add", "Multiply", "Vanish", "Become temperature independent"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "For an ideal gas of distinguishable noninteracting particles, the naive partition function scales like:",
+    "choices": ["z^N", "N + z", "ln z", "1/z^N"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Gibbs paradox is resolved in classical statistical mechanics by accounting for particle:",
+    "choices": ["Color", "Indistinguishability", "Charge neutrality", "Rigidity"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "To avoid overcounting identical classical particles, one divides the ideal-gas partition function by:",
+    "choices": ["N", "N!", "ln N", "kB N"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The Sackur-Tetrode equation is an entropy formula for which system?",
+    "choices": ["Classical monatomic ideal gas", "Blackbody radiation only", "One harmonic oscillator", "Ferromagnetic Ising chain at zero field"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In a two-level system with energies 0 and epsilon, the lower-temperature equilibrium population favors:",
+    "choices": ["The higher level", "The lower level", "Exactly equal occupation", "Only states of odd degeneracy"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "For a two-level system, increasing temperature tends to make level populations:",
+    "choices": ["More unequal", "More nearly equal", "Exactly zero", "Dependent only on volume"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "A Schottky anomaly refers to a characteristic peak in which quantity for systems with a small number of levels?",
+    "choices": ["Entropy at zero temperature", "Heat capacity", "Pressure", "Chemical potential"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "For a harmonic oscillator with levels equally spaced by hbar omega, the partition function contains a geometric series because the energies are:",
+    "choices": ["Randomly distributed", "Linearly spaced in the quantum number", "All identical", "Quadratic in temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "At very low temperature, the partition function of a system with a nondegenerate ground state is dominated by:",
+    "choices": ["The highest-energy state", "The ground state", "All states equally", "Only continuum states"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "At very high temperature, many discrete energy levels contribute because the Boltzmann factor becomes:",
+    "choices": ["More strongly suppressive", "Less selective among energies", "Negative", "Independent of beta"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In the canonical ensemble, entropy can be written as S = kB(ln Z + beta U). This shows entropy depends on:",
+    "choices": ["The partition function and mean energy", "Only the number of particles", "Only the most probable state", "Only the degeneracy of the ground state"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The free energy difference between two states determines equilibrium preference because lower free energy corresponds to:",
+    "choices": ["Higher equilibrium weight", "Lower multiplicity always", "Lower temperature only", "No relation to probability"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "The density of states g(E) is used in continuous systems to represent:",
+    "choices": ["The number of states per unit energy range", "The pressure per particle", "The entropy per unit volume only", "The temperature derivative of the partition function"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "For continuous energies, the partition function is often written as an integral over energy weighted by g(E) times:",
+    "choices": ["beta E", "e^(-beta E)", "ln E", "E^beta only"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "In phase-space formulations of classical statistical mechanics, Liouville's theorem states that Hamiltonian flow preserves:",
+    "choices": ["Phase-space volume", "Temperature exactly", "Potential energy only", "The number of constraints"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Why is a coarse-grained description useful in statistical mechanics?",
+    "choices": ["It replaces dynamics with quantum field theory", "It groups many microstates into the same observable macrostate", "It guarantees exact recurrence times", "It removes the need for probability"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "The equal a priori probabilities postulate is most directly associated with which ensemble?",
+    "choices": ["Microcanonical", "Canonical", "Grand canonical", "Isothermal-isobaric"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "A negative temperature in statistical mechanics can occur only in systems with:",
+    "choices": ["Unbounded kinetic energy", "An upper bound to the energy spectrum", "Zero entropy at all energies", "Infinite particle number"],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A negative absolute temperature is considered hotter than positive temperatures because adding energy then:",
+    "choices": ["Decreases entropy", "Increases entropy without bound", "Lowers all state populations equally", "Eliminates the partition function"],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "For a paramagnet of noninteracting spins in a magnetic field, the single-spin partition function involves:",
+    "choices": ["A sum over the two Zeeman energies", "Only the zero-field entropy", "An integral over volume", "The Gibbs factor 1/N!"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Magnetization in equilibrium can be obtained from the partition function by differentiating with respect to:",
+    "choices": ["Temperature only", "The external magnetic field", "Particle number only", "Planck's constant"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In lattice spin models, spontaneous symmetry breaking is associated with the thermodynamic limit because finite systems generally have:",
+    "choices": ["Strictly singular free energies", "Analytic partition functions without true singularities", "No entropy", "No magnetic response"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A phase transition in equilibrium statistical mechanics is tied to nonanalytic behavior in which quantity?",
+    "choices": ["A thermodynamic potential such as free energy", "The microscopic Hamiltonian coefficients only", "The Boltzmann constant", "The label of the most probable microstate"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "First-order phase transitions are characterized by discontinuities in first derivatives of the free energy such as:",
+    "choices": ["Entropy or volume", "The partition function itself becoming negative", "The number of dimensions", "The Boltzmann factor"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Continuous phase transitions are often associated with diverging:",
+    "choices": ["Latent heat only", "Correlation length", "Ground-state degeneracy only", "Chemical formula"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In the one-dimensional Ising model with nearest-neighbor interactions and zero field, there is at finite temperature:",
+    "choices": ["A ferromagnetic phase transition", "No phase transition", "A first-order liquid-gas transition", "A negative heat capacity singularity"],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "For the two-dimensional square-lattice Ising model at zero field, the exact finite-temperature transition was famously solved by:",
+    "choices": ["Onsager", "Boltzmann", "Planck", "Debye"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The transfer-matrix method is especially useful for evaluating partition functions of:",
+    "choices": ["Certain low-dimensional lattice models", "Only ideal gases in three dimensions", "Black holes", "Any system with no interactions"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In the thermodynamic identity dU = T dS - P dV + mu dN, the statistical interpretation of T and mu comes from entropy derivatives with respect to:",
+    "choices": ["Energy and particle number", "Pressure and volume", "Volume and time", "Charge and magnetization only"],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "The Maxwell-Boltzmann distribution applies most naturally to particles that are:",
+    "choices": ["Classical and dilute", "Strongly degenerate fermions only", "Ideal bosons below condensation", "Anyons in two dimensions only"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Bose-Einstein statistics differs from Maxwell-Boltzmann statistics primarily because bosons are:",
+    "choices": ["Distinguishable", "Indistinguishable and not subject to Pauli exclusion", "Classical rigid spheres", "Restricted to one energy level"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Fermi-Dirac statistics incorporates the fact that fermions obey:",
+    "choices": ["Equipartition exactly at all temperatures", "The Pauli exclusion principle", "Only classical counting", "A fixed volume law"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "The fugacity z in quantum statistical mechanics is defined as:",
+    "choices": ["e^(beta mu)", "mu/(kB T)", "e^(-beta E0)", "1/(beta p)"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In the classical dilute limit, both Bose-Einstein and Fermi-Dirac distributions reduce approximately to:",
+    "choices": ["A uniform distribution", "The Maxwell-Boltzmann form", "A delta function at the chemical potential", "A step function at zero momentum"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Bose-Einstein condensation in an ideal gas is associated with macroscopic occupation of:",
+    "choices": ["The highest excited state", "The ground state", "All states equally", "Only states with odd parity"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "At zero temperature, the occupation of an ideal Fermi gas is characterized by a sharp boundary at the:",
+    "choices": ["Debye cutoff", "Fermi energy", "Bohr radius", "Landau pole"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The equipartition theorem assigns an average energy of kB T/2 to each:",
+    "choices": ["Independent quadratic degree of freedom in the classical regime", "Particle regardless of Hamiltonian", "Quantum level exactly", "Microstate in the canonical ensemble"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Equipartition can fail badly when:",
+    "choices": ["Degrees of freedom are quantum frozen out", "The gas is ideal", "The entropy is extensive", "Temperature is measured in kelvin"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "The Dulong-Petit law for solids reflects the high-temperature classical limit of which quantity?",
+    "choices": ["Heat capacity", "Pressure", "Magnetization", "Compressibility"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Einstein's model of a solid improved on equipartition at low temperature by treating lattice vibrations as:",
+    "choices": ["Continuously variable classical waves only", "Quantized oscillators", "Noninteracting free particles", "Rigid translations of the whole crystal"],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Debye's model predicts that the low-temperature heat capacity of a three-dimensional crystal scales approximately as:",
+    "choices": ["T", "T^2", "T^3", "e^T"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The fluctuation-dissipation idea links spontaneous equilibrium fluctuations to:",
+    "choices": ["Response coefficients", "Exact trajectories of all particles", "The impossibility of coarse graining", "Only zero-temperature properties"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The compressibility of a fluid can be related in equilibrium statistical mechanics to fluctuations in:",
+    "choices": ["Energy in the canonical ensemble", "Volume or particle number depending on ensemble", "Planck's constant", "Spin parity only"],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "For a canonical ensemble, the variance of energy is proportional to:",
+    "choices": ["kB T^2 Cv", "T/Cv only", "Cv/kB T^2 with a minus sign", "The pressure squared regardless of system"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A Legendre transform in thermodynamics is used to:",
+    "choices": ["Switch natural variables of a thermodynamic potential", "Count microstates directly", "Quantize the Hamiltonian", "Remove all fluctuations"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Transforming U(S,V,N) to F(T,V,N) replaces entropy S with its conjugate variable:",
+    "choices": ["Pressure", "Temperature", "Chemical potential", "Volume"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Transforming U(S,V,N) to G(T,P,N) effectively trades S and V for:",
+    "choices": ["T and P", "mu and N", "E and t", "W and Q"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The entropy is extensive for ordinary short-range systems, meaning that when system size is doubled at fixed intensive variables, entropy roughly:",
+    "choices": ["Halves", "Doubles", "Stays constant", "Becomes negative"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Temperature and pressure are called intensive variables because they typically:",
+    "choices": ["Scale with system size", "Do not scale with system size", "Are always zero in equilibrium", "Exist only in quantum systems"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The most probable value and the ensemble average are often extremely close for macroscopic observables because of:",
+    "choices": ["Self-averaging and sharply peaked distributions", "Negative temperatures only", "Exact periodic motion", "The absence of interactions"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In large-deviation language, equilibrium selects macrostates that minimize an appropriate rate function or equivalently:",
+    "choices": ["Maximize entropy under the constraints", "Minimize particle number without bound", "Eliminate all degeneracy", "Force equipartition in quantum systems"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The distinction between accessible and inaccessible microstates in an isolated system is imposed mainly by:",
+    "choices": ["Conservation laws and constraints", "The observer's mood", "Whether the states are low entropy", "The choice of units for temperature"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "For a classical ideal gas, the single-particle translational partition function in volume V is proportional to:",
+    "choices": ["V", "1/V", "ln V", "e^V"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  }
+]

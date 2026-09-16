@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which European city is home to the Eiffel Tower?",
+    "choices": ["London", "Paris", "Rome", "Berlin"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The iconic tower in Pisa, Italy leans due to which structural issue?",
+    "choices": ["Uneven foundation settling", "Poor construction materials", "Deliberate design", "War damage"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Statue of Liberty stands in which US city?",
+    "choices": ["Boston", "New York", "Philadelphia", "Washington DC"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Big Ben is a famous clock tower located where?",
+    "choices": ["London", "Manchester", "Dublin", "Edinburgh"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The ancient Colosseum is an iconic structure in which city?",
+    "choices": ["Rome", "Athens", "Istanbul", "Cairo"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which country is home to the Taj Mahal?",
+    "choices": ["India", "Pakistan", "Bangladesh", "Nepal"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Mount Rushmore features the carved faces of four presidents. In which state is it located?",
+    "choices": ["Colorado", "North Dakota", "South Dakota", "Wyoming"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Great Wall stretches across which Asian nation?",
+    "choices": ["Japan", "China", "Korea", "Vietnam"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The Sagrada Familia basilica, an architectural masterpiece, is located in which Spanish city?",
+    "choices": ["Madrid", "Valencia", "Barcelona", "Seville"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The pyramids of Giza are located in which country?",
+    "choices": ["Sudan", "Egypt", "Libya", "Jordan"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Machu Picchu is an ancient Incan site in which country?",
+    "choices": ["Bolivia", "Peru", "Ecuador", "Chile"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Eiffel Tower was built for which 1889 international event?",
+    "choices": ["Olympic Games", "Paris Exposition", "World's Fair", "Trade Summit"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The statue in New York Harbor was gifted by which European nation?",
+    "choices": ["Germany", "France", "Britain", "Italy"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Christ the Redeemer statue overlooks which South American city?",
+    "choices": ["São Paulo", "Salvador", "Rio de Janeiro", "Brasília"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Tower Bridge spans which river in London?",
+    "choices": ["Thames", "Severn", "Avon", "Medway"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Alhambra fortress is situated in which Spanish city?",
+    "choices": ["Madrid", "Valencia", "Seville", "Granada"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Angkor Wat temple complex is located in which Southeast Asian country?",
+    "choices": ["Thailand", "Vietnam", "Laos", "Cambodia"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Acropolis overlooks which ancient Greek city?",
+    "choices": ["Sparta", "Corinth", "Athens", "Thebes"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In which century was Machu Picchu built by the Inca civilization?",
+    "choices": ["13th", "14th", "15th", "16th"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Blue Mosque with its distinctive blue tiles is located in which city?",
+    "choices": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Leaning Tower of Pisa is located in which Italian city?",
+    "choices": ["Florence", "Venice", "Genoa", "Pisa"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which ancient wonder of the world still stands today?",
+    "choices": ["Hanging Gardens of Babylon", "Mausoleum at Halicarnassus", "Great Pyramid of Giza", "Lighthouse of Alexandria"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Pantheon in Rome features how many columns on its front porch?",
+    "choices": ["6", "8", "16", "20"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Forbidden City served as the imperial palace for which Chinese dynasties?",
+    "choices": ["Han and Tang", "Ming and Qing", "Song and Yuan", "Zhou and Shang"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Neuschwanstein Castle, which inspired Disney's iconic castle design, is located in which country?",
+    "choices": ["Austria", "Switzerland", "Germany", "Czech Republic"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Faisal Mosque, one of the world's largest, is located in which city?",
+    "choices": ["Cairo", "Baghdad", "Islamabad", "Amman"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How tall is the Christ the Redeemer statue from its base to the top of the crown?",
+    "choices": ["20 meters", "30 meters", "38 meters", "45 meters"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Potala Palace served as the winter residence of which Tibetan religious leader?",
+    "choices": ["Dalai Lama", "Karmapa", "Panchen Lama", "Sakya Trizin"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Sacré-Cœur basilica is located atop which hill in a European city?",
+    "choices": ["Montmartre in Paris", "Montjuïc in Barcelona", "Monte Cassino in Rome", "Mont-Saint-Michel in Normandy"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Taj Mahal was commissioned by which Mughal emperor?",
+    "choices": ["Aurangzeb", "Shah Jahan", "Akbar", "Jahangir"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Great Wall of China was primarily built to defend against invasions from which direction?",
+    "choices": ["West", "North", "East", "South"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Colosseum in Rome could originally hold approximately how many spectators?",
+    "choices": ["25,000", "50,000", "75,000", "100,000"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Notre-Dame Cathedral's iconic rose windows are located in which city?",
+    "choices": ["Lyon", "Marseille", "Paris", "Strasbourg"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Sphinx at Giza was carved during which ancient Egyptian dynasty?",
+    "choices": ["3rd Dynasty", "4th Dynasty", "5th Dynasty", "6th Dynasty"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How many steps lead up to the Sacré-Cœur basilica from the base?",
+    "choices": ["222", "333", "444", "555"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Sydney Opera House's distinctive shell-shaped roof sections are covered with how many tiles?",
+    "choices": ["10,000", "1 million", "1.2 million", "2.5 million"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Gateway of India arch monument was built to commemorate which visit?",
+    "choices": ["Queen Victoria's visit to India", "King George V's visit to India", "British conquest of India", "Indian independence"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Tower of London has served various purposes including which historical role?",
+    "choices": ["Royal mint", "Royal residence", "Prison and fortress", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Statue of Liberty's torch holds which symbolic meaning?",
+    "choices": ["Freedom and democracy", "Victory in war", "Maritime navigation", "Industrial progress"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "St. Basil's Cathedral with its colorful onion domes is located in which city?",
+    "choices": ["St. Petersburg", "Moscow", "Novgorod", "Vladivostok"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The Pena Palace, a romantic-style castle, is located in which European country?",
+    "choices": ["Spain", "Portugal", "Italy", "France"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Hagia Sophia in Istanbul was originally built as which type of structure?",
+    "choices": ["Mosque", "Christian cathedral", "Palace", "Library"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Mont Saint-Michel is a fortress abbey situated on an island off which country's coast?",
+    "choices": ["Spain", "France", "Germany", "Belgium"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Petronas Twin Towers are located in which Asian capital?",
+    "choices": ["Bangkok", "Singapore", "Kuala Lumpur", "Jakarta"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Buckingham Palace serves as the official London residence of which person?",
+    "choices": ["Prime Minister", "Lord Mayor", "Monarch", "Archbishop"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Great Pyramid of Giza took approximately how many years to construct?",
+    "choices": ["5 years", "10 years", "20 years", "30 years"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  }
+]

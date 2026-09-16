@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which land animal has the greatest mass?",
+    "choices": ["Hippopotamus", "African bush elephant", "Giraffe", "White rhinoceros"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "How many legs does a typical insect possess?",
+    "choices": ["Four", "Six", "Eight", "Ten"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is a young dog commonly called?",
+    "choices": ["Cub", "Pup", "Fawn", "Kit"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Which structure do most birds use primarily for flight?",
+    "choices": ["Tail feathers", "Wings", "Hind limbs", "Body weight"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which mammal is known for laying eggs rather than giving live birth?",
+    "choices": ["Koala", "Platypus", "Sloth", "Seahorse"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is a juvenile cat typically called?",
+    "choices": ["Pup", "Kitten", "Cub", "Fawn"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Which animal achieves the fastest diving speed?",
+    "choices": ["Golden eagle", "Sailfish", "Peregrine falcon", "Cheetah"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many fins do most standard fish species possess?",
+    "choices": ["Two", "Three", "Five", "Seven"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the primary food source for emperor penguins?",
+    "choices": ["Seaweed", "Krill and small fish", "Algae", "Squid only"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which reptile famously sheds its entire skin periodically?",
+    "choices": ["Turtle", "Snake", "Alligator", "Lizard"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is typically the longest part of a giraffe's body?",
+    "choices": ["Legs", "Tail", "Neck", "Spine"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which bird species has notably long, thin legs proportional to body size?",
+    "choices": ["Ostrich", "Heron", "Flamingo", "Stork"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many chambers are in a typical mammalian heart?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the gestation period for an African bush elephant?",
+    "choices": ["12 months", "18 months", "22 months", "26 months"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Approximately how many species of bears currently exist?",
+    "choices": ["5", "7", "8", "11"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which sense do dolphins primarily use to navigate their environment?",
+    "choices": ["Sight", "Echolocation", "Smell", "Electromagnetic detection"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which whale species is the largest animal known to have ever existed?",
+    "choices": ["Sperm whale", "Humpback whale", "Blue whale", "Fin whale"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What comprises the vast majority of a giant panda's diet?",
+    "choices": ["Bamboo", "Fish", "Insects", "Fruit"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Approximately how many extant penguin species have been identified?",
+    "choices": ["10", "15", "18", "24"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which flying bird possesses the largest wingspan of any living species?",
+    "choices": ["Condor", "Wandering albatross", "Golden eagle", "Marabou stork"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a typical lifespan for a captive parrot?",
+    "choices": ["10 years", "20 years", "50 years", "100 years"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How many eyes do most spider species possess?",
+    "choices": ["2", "4", "8", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which reptile is famous for its ability to rapidly alter skin color?",
+    "choices": ["Iguana", "Chameleon", "Monitor lizard", "Anaconda"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the primary food source for anteaters?",
+    "choices": ["Termites", "Grasshoppers", "Beetles", "Worms"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is the typical lifespan of a saltwater crocodile?",
+    "choices": ["30 years", "50 years", "70 years", "100 years"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which animal is known to deliver the most powerful bite force of any living creature?",
+    "choices": ["Polar bear", "Hippopotamus", "Great white shark", "Saltwater crocodile"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Approximately how many frog species have been scientifically described?",
+    "choices": ["2,000", "4,000", "6,000", "8,000"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In what type of habitat do koalas spend most of their lives?",
+    "choices": ["Grassland", "Eucalyptus forest", "Desert", "Mountain range"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which insect species can carry approximately 50 times its own body weight?",
+    "choices": ["Ant", "Beetle", "Grasshopper", "Butterfly"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How many functional stomachs does a ruminant cow have?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the approximate gestation period for a giraffe?",
+    "choices": ["10 months", "13 months", "15 months", "18 months"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which marine creature can evert its stomach through its mouth for feeding?",
+    "choices": ["Jellyfish", "Octopus", "Sea urchin", "Sea star"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Approximately how many replacement teeth does a shark produce in its lifetime?",
+    "choices": ["200", "1,000", "20,000", "40,000"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which large animal is notably unable to perform a vertical jump?",
+    "choices": ["Hippopotamus", "Elephant", "Marine mammal", "Rhinoceros"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which bird species can move its wings fast enough to fly in reverse?",
+    "choices": ["Swift", "Sparrow", "Hummingbird", "Kiwi"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Do birds generally have more or fewer bones than humans?",
+    "choices": ["More bones", "Fewer bones", "Equal numbers", "Varies by species"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "At what decibel level can the howler monkey's call be heard?",
+    "choices": ["80 decibels", "100 decibels", "120 decibels", "140 decibels"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which snake species holds the record for greatest length?",
+    "choices": ["King cobra", "Burmese python", "Green anaconda", "Reticulated python"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "At approximately what speed does a peregrine falcon reach during a dive?",
+    "choices": ["150 mph", "200 mph", "240 mph", "300 mph"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the typical adult lifespan of a mayfly after emergence?",
+    "choices": ["One day", "One week", "One month", "One year"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which animal maintains the highest blood pressure among terrestrial creatures?",
+    "choices": ["Giraffe", "Blue whale", "Ostrich", "Elephant"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "How many hearts does an octopus possess?",
+    "choices": ["One", "Two", "Three", "Four"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the world's smallest bird species by length?",
+    "choices": ["Hummingbird", "Bee-eater", "Goldcrest", "Bee-hummingbird"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which group of marine animals are notably lacking a brain entirely?",
+    "choices": ["Starfish", "Jellyfish", "Sea cucumber", "Sponge"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Approximately how long is the heart of a blue whale?",
+    "choices": ["3 feet", "4.5 feet", "6 feet", "8 feet"],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "How many times per second can a hummingbird's wings beat?",
+    "choices": ["20 times", "50 times", "80 times", "150 times"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which reptile is the only one known to actively nurse its young?",
+    "choices": ["Python", "Skink", "Cobra", "Iguana"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  }
+]

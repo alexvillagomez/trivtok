@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which empire is most famous for Mansa Musa's legendary pilgrimage to Mecca in 1324?",
+    "choices": ["Mali", "Songhai", "Ghana", "Great Zimbabwe"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Timbuktu became a renowned center of Islamic learning under the rule of which West African power?",
+    "choices": ["Songhai", "Mali", "Ghana", "Kush"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which empire controlled vast stretches of the Niger River region after Mali's decline in the 15th century?",
+    "choices": ["Ethiopia", "Benin", "Songhai", "Great Zimbabwe"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Ghana Empire grew wealthy through control of gold deposits in the south and what resource from the north?",
+    "choices": ["Iron", "Copper", "Slaves", "Salt"],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Sundiata Keita is credited with establishing which empire in West Africa during the 13th century?",
+    "choices": ["Mali", "Songhai", "Ghana", "Benin"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Ghana Empire began its decline during the 11th century partly due to invasions from which group?",
+    "choices": ["Berbers", "Almoravids", "Arabs", "Tuareg"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Gao served as the capital city of which empire during the 15th and 16th centuries?",
+    "choices": ["Mali", "Ghana", "Songhai", "Great Zimbabwe"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Aksumite Kingdom in the Horn of Africa adopted which world religion as a state religion in the 4th century?",
+    "choices": ["Islam", "Judaism", "Christianity", "Buddhism"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Great Zimbabwe's impressive stone structures were built by which southern African people?",
+    "choices": ["Shona", "Zulu", "Sotho", "Xhosa"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which metal was the foundation of Mali's economic power and international trade during the 14th century?",
+    "choices": ["Iron", "Copper", "Gold", "Bronze"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which desert lies directly north of the Songhai Empire's territorial heartland?",
+    "choices": ["Kalahari", "Atacama", "Sahara", "Arabian"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Benin Kingdom's location in West Africa isolated it from which major trade network?",
+    "choices": ["Maritime trade", "River trade", "Saharan trade routes", "Silk Road"],
+    "correctIndex": 3,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Sundiata Keita unified Mali's core territories and established a powerful administrative system around 1235. What was his primary method?",
+    "choices": ["Military conquest", "Religious conversion", "Diplomatic marriages", "Trade monopolies"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Great Zimbabwe's economy was primarily based on which activity?",
+    "choices": ["Agriculture", "Long-distance Indian Ocean trade", "Mining exclusively", "Slave trading"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Aksumite Empire's power was built partly on control of ports on which sea?",
+    "choices": ["Mediterranean", "Persian Gulf", "Red Sea", "Caspian"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Sonni Ali expanded Songhai's territories primarily by conquering lands previously controlled by which declining empire?",
+    "choices": ["Ghana", "Mali", "Ethiopia", "Great Zimbabwe"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Kingdom of Benin, located in present-day Nigeria, achieved fame for its skilled artisans working primarily in which medium?",
+    "choices": ["Stone sculpture", "Bronze and brass", "Textile weaving", "Ivory carving"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Mansa Musa's pilgrimage to Mecca created what unintended economic problem for Mali?",
+    "choices": ["Loss of gold reserves", "Market inflation from circulating gold", "Trade route collapse", "Religious conflict"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Askia Muhammad consolidated power in Songhai and is best known for implementing what major reform?",
+    "choices": ["Banning Islam", "Establishing orthodox Islamic administration", "Adopting Christianity", "Merging traditional and Islamic practices equally"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Aksumite Empire's issuance of coins bearing inscriptions signified its role as what kind of power?",
+    "choices": ["Agricultural superpower", "Major international trader and diplomat", "Religious theocracy", "Military conqueror"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Benin's famous brass plaques served primarily as historical records of what?",
+    "choices": ["Trade transactions", "Military campaigns", "Royal court life and lineage", "Religious ceremonies"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Great Zimbabwe maintained trade connections with merchant networks from which distant region?",
+    "choices": ["Western Europe", "Persia", "Arabia and India", "East Asia exclusively"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Mali's incorporation of Timbuktu and Jenné in the 14th century occurred through which process?",
+    "choices": ["Gradual migration", "Military conquest", "Peaceful trade agreement", "Religious conversion campaign"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Kushite kingdom produced powerful female rulers known by what title?",
+    "choices": ["Queens regnant", "Kandakes", "Empresses", "Regent mothers"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The griot tradition in Mali served what essential function in pre-literate African societies?",
+    "choices": ["Entertainment at royal courts", "Preservation and oral transmission of history and genealogy", "Religious priesthood", "Military command structure"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "King Lalibela's remarkable rock-cut churches were constructed as a symbolic replica of which holy city?",
+    "choices": ["Rome", "Constantinople", "Jerusalem", "Mecca"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Askia Muhammad's intellectual patronage in Timbuktu rivaled which famous Islamic center of learning in Cairo?",
+    "choices": ["Madrasa Fatimiyya", "Al-Azhar University", "House of Wisdom", "Dar al-Hikma"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Benin's elite military organization, the leopard societies, were commanded by whom?",
+    "choices": ["War councils", "The Oba (king)", "Merchant guilds", "The Dey"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Mali Empire's trans-Saharan trade routes relied heavily on which animal for desert transport?",
+    "choices": ["Horses", "Camels", "Elephants", "Donkeys"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Great Zimbabwe's stone ruins were constructed without the use of what modern building material?",
+    "choices": ["Granite blocks", "Mortar or cement", "Wood beams", "Iron reinforcement"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Aksumite Empire controlled which body of water, making it a major maritime power?",
+    "choices": ["Mediterranean", "Persian Gulf", "Red Sea", "Indian Ocean"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Timbuktu's importance to Mali was partly due to its location on which major river?",
+    "choices": ["Senegal", "Gambia", "Niger", "Volta"],
+    "correctIndex": 3,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Mali Empire faced decline in the 16th century partly due to invasions from which North African kingdom?",
+    "choices": ["Ottoman Empire", "Moroccan Saadi dynasty", "Libyan tribes", "Berber confederacy"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Archaeological evidence suggests Great Zimbabwe was abandoned around the 15th century, possibly due to what environmental factor?",
+    "choices": ["Volcanic eruptions", "Prolonged droughts", "Overpopulation exclusively", "Plague epidemics"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Ge'ez language, developed in the Aksumite Empire, remains in use today primarily in which context?",
+    "choices": ["Ethiopian commerce", "Ethiopian Orthodox Church liturgy", "Academic scholarship", "Military communications"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Battle of Tondibi in 1591 resulted in Songhai's defeat by which invading force?",
+    "choices": ["Ottoman Janissaries", "Portuguese mercenaries", "Moroccan army with firearms", "Libyan cavalry"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The University of Sankore in Timbuktu attracted scholars to study which subjects?",
+    "choices": ["Only Islamic theology", "Mathematics, astronomy, medicine, and theology", "Trade and commerce exclusively", "Military strategy alone"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The later Kushite civilization at Meroë developed a unique writing system known as what?",
+    "choices": ["Demotic", "Meroitic", "Coptic", "Nsibidi"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Sonni Ali's reign consolidated Songhai power but his successor Askia Muhammad displaced him by what means?",
+    "choices": ["Military coup", "Forced abdication", "Pilgrimage-enabled legitimacy claim", "Popular uprising"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Great Zimbabwe's architecture and artifacts suggest it was a center for which type of elite activity?",
+    "choices": ["Religious pilgrimage", "Military training", "Ritual and ceremonial practice", "Scholarly research"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Mali Empire's control of the Bambuk goldfield region gave it a monopoly on the production of which export commodity?",
+    "choices": ["Ivory", "Kola nuts", "West African gold", "Copper ingots"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Aksumite coins bore inscriptions in Greek and other languages, demonstrating its participation in which network?",
+    "choices": ["European feudal system", "Islamic caliphate", "Mediterranean and Indian Ocean trade", "Silk Road exclusively"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Benin's early engagement with European traders in the 15th century was primarily motivated by access to what resource?",
+    "choices": ["Spices from Asia", "European metalwork and firearms", "Salt", "Luxury textiles"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Mali Empire's manuscript collections in Timbuktu contained Islamic scholarship on which disciplines?",
+    "choices": ["Poetry exclusively", "Mathematics, astronomy, medicine, and theology", "Theology alone", "Grammar and linguistics"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "King Lalibela's 12th-century rock churches were constructed specifically to commemorate which religious event or place?",
+    "choices": ["The birth of Muhammad", "Pilgrimage to Jerusalem", "The Hijra from Mecca", "The Council of Nicaea"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Songhai Empire's reliance on the Niger River for trade and agriculture made it vulnerable to what external threat?",
+    "choices": ["River piracy", "Drought and climate change", "Desert invasions from the north", "Coastal naval attacks"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  }
+]

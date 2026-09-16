@@ -1,0 +1,296 @@
+[
+  {
+    "text": "What is the largest city by population in the United States?",
+    "choices": ["Los Angeles", "New York City", "Chicago", "Houston"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which city is known as 'The City of Angels'?",
+    "choices": ["San Diego", "Los Angeles", "San Francisco", "Las Vegas"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the capital and largest city of Texas?",
+    "choices": ["Houston", "Dallas", "Austin", "San Antonio"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which city is nicknamed 'The Windy City'?",
+    "choices": ["Detroit", "Chicago", "Denver", "Kansas City"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the largest city in Arizona?",
+    "choices": ["Tucson", "Mesa", "Scottsdale", "Phoenix"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which of these cities is located in Florida?",
+    "choices": ["Tampa", "Tallahassee", "Jacksonville", "All are in Florida"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the nickname for Seattle, Washington?",
+    "choices": ["The Rain City", "The Emerald City", "The Coffee City", "The Cloud City"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which major city is the capital of California?",
+    "choices": ["San Francisco", "Los Angeles", "Sacramento", "San Diego"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Las Vegas located in?",
+    "choices": ["Arizona", "California", "Nevada", "Utah"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which city is known as 'The Music City'?",
+    "choices": ["Nashville", "Memphis", "New Orleans", "Austin"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What state is Denver, the Mile High City, located in?",
+    "choices": ["Wyoming", "New Mexico", "Colorado", "Utah"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which city serves as the center of the Hollywood film industry?",
+    "choices": ["San Francisco", "Los Angeles", "San Diego", "Oakland"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is Boston's regional nickname referring to its sports teams?",
+    "choices": ["The Yankees", "New England", "The Red Sox Region", "The Patriots"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which city is known as 'The Rust Belt' capital?",
+    "choices": ["Pittsburgh", "Detroit", "Cleveland", "Buffalo"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the largest city in Oregon?",
+    "choices": ["Eugene", "Salem", "Portland", "Bend"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which city in Georgia is known as 'The Peach City'?",
+    "choices": ["Atlanta", "Augusta", "Savannah", "Macon"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the second-largest city in Texas by population?",
+    "choices": ["Houston", "Dallas", "San Antonio", "Austin"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which city is nicknamed 'The Big Easy'?",
+    "choices": ["Miami", "New Orleans", "Memphis", "Atlanta"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the largest city in Pennsylvania?",
+    "choices": ["Pittsburgh", "Philadelphia", "Erie", "Allentown"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which city is known as the gambling capital of the world?",
+    "choices": ["Atlantic City", "Las Vegas", "Reno", "Tunica"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What nickname refers to the economic region centered on San Francisco and Silicon Valley?",
+    "choices": ["Tech Valley", "Innovation Hub", "Silicon Valley", "Bay Area Tech"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which city is the largest in Minnesota?",
+    "choices": ["Rochester", "Saint Paul", "Minneapolis", "Duluth"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Miami known as 'The Magic City' for in Florida?",
+    "choices": ["Its theme parks", "Its tourism and growth", "Its beaches", "Its nightlife"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which city is nicknamed 'The Gateway to the West'?",
+    "choices": ["Denver", "St. Louis", "Kansas City", "Dallas"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the largest city in the Pacific Northwest by population?",
+    "choices": ["Portland, Oregon", "Seattle, Washington", "Vancouver, BC", "Eugene, Oregon"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which city in California is known for its Gold Rush history?",
+    "choices": ["Los Angeles", "Sacramento", "San Francisco", "Fresno"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What regional area includes New York, New Jersey, and Connecticut?",
+    "choices": ["Northeast", "Mid-Atlantic", "Tri-State Area", "New England"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which city is the center of country music in the South?",
+    "choices": ["Austin", "Memphis", "Nashville", "Atlanta"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the capital of Florida?",
+    "choices": ["Miami", "Tampa", "Tallahassee", "Orlando"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which city is known as the tech hub of Texas?",
+    "choices": ["Dallas", "Houston", "Austin", "San Antonio"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What city is nicknamed 'The Bourbon City' for its historic whiskey production?",
+    "choices": ["Nashville", "Memphis", "Louisville", "Atlanta"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which city serves as the center of Wall Street's financial district?",
+    "choices": ["Los Angeles", "Chicago", "New York City", "Boston"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the largest metropolitan area by population east of the Mississippi River?",
+    "choices": ["Chicago", "Boston", "Atlanta", "New York City"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which city is the home of the Liberty Bell and Independence Hall?",
+    "choices": ["New York City", "Philadelphia", "Boston", "Washington DC"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What nickname describes the sun belt cities of the South?",
+    "choices": ["The Cotton Belt", "The Sun Belt", "The Deep South", "The Reconstruction South"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which city in California is home to major aerospace and defense industries?",
+    "choices": ["Los Angeles", "San Jose", "Oakland", "Long Beach"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What region of the US does 'Appalachia' primarily refer to?",
+    "choices": ["The Midwest", "The Southeast and Mid-Atlantic", "The Northeast", "The South"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which city is known as 'Sin City'?",
+    "choices": ["Reno", "Las Vegas", "Atlantic City", "Tunica"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the largest city in New Mexico?",
+    "choices": ["Santa Fe", "Las Cruces", "Albuquerque", "Rio Rancho"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which city in Florida is known for spring break tourism?",
+    "choices": ["Miami", "Daytona Beach", "Fort Lauderdale", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What nickname describes the industrial corridor along the Great Lakes?",
+    "choices": ["The Steel Belt", "The Rust Belt", "The Factory Belt", "The Industrial North"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which city was the first capital of the United States?",
+    "choices": ["Washington DC", "New York City", "Philadelphia", "Boston"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the largest city in Kentucky?",
+    "choices": ["Bowling Green", "Frankfort", "Louisville", "Lexington"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which city is home to the headquarters of major tech companies like Amazon and Microsoft?",
+    "choices": ["San Francisco", "Seattle", "Austin", "San Jose"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What regional term describes the wealthy suburbs of major northeastern cities?",
+    "choices": ["The Hamptons", "Exurbia", "Suburbia", "The Commuter Belt"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which city is known as 'The City That Never Sleeps'?",
+    "choices": ["Los Angeles", "Chicago", "New York City", "Miami"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the largest city in South Carolina?",
+    "choices": ["Greenville", "Charleston", "Columbia", "Spartanburg"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which city in Arizona is known as the 'Winter Capital' for snowbird retirees?",
+    "choices": ["Phoenix", "Scottsdale", "Sedona", "Tucson"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What region of the US is often called the 'Grain Belt' for agricultural production?",
+    "choices": ["The Plains States and Midwest", "The Pacific Northwest", "The South", "New England"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  }
+]

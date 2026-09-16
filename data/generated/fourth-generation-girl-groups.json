@@ -1,0 +1,548 @@
+[
+  {
+    "text": "Which group released 'Attention' and 'Super Shy'?",
+    "choices": ["NewJeans", "IVE", "ITZY", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which group released 'LOVE DIVE' and 'I AM'?",
+    "choices": ["IVE", "LE SSERAFIM", "NMIXX", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which group released 'Next Level' and 'Supernova'?",
+    "choices": ["ITZY", "aespa", "NewJeans", "STAYC"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which group released 'Fearless' and 'ANTIFRAGILE'?",
+    "choices": ["LE SSERAFIM", "IVE", "Kep1er", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which group released 'Dalla Dalla' as their debut song?",
+    "choices": ["ITZY", "NMIXX", "aespa", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which group released 'O.O' as their debut song?",
+    "choices": ["NMIXX", "IVE", "STAYC", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which group released 'ASAP' and 'RUN2U'?",
+    "choices": ["STAYC", "Kep1er", "ITZY", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which group debuted with 'WA DA DA'?",
+    "choices": ["Kep1er", "IVE", "LE SSERAFIM", "ILLIT"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which company is most closely associated with debuting NewJeans?",
+    "choices": ["SM Entertainment", "ADOR", "JYP Entertainment", "Cube Entertainment"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which company is most closely associated with debuting IVE?",
+    "choices": ["Starship Entertainment", "HYBE", "SM Entertainment", "YG Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which company is most closely associated with debuting aespa?",
+    "choices": ["SM Entertainment", "JYP Entertainment", "ADOR", "Pledis Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which company is most closely associated with debuting LE SSERAFIM?",
+    "choices": ["Cube Entertainment", "HYBE", "Starship Entertainment", "SM Entertainment"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group features members Karina, Giselle, Winter, and Ningning?",
+    "choices": ["aespa", "LE SSERAFIM", "IVE", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group features members Yujin, Gaeul, Rei, Wonyoung, Liz, and Leeseo?",
+    "choices": ["NewJeans", "IVE", "Kep1er", "STAYC"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group features members Yuna, Ryujin, Chaeryeong, and Yeji?",
+    "choices": ["ITZY", "NMIXX", "Kep1er", "LE SSERAFIM"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group features members Sakura, Kim Chaewon, Huh Yunjin, Kazuha, and Hong Eunchae?",
+    "choices": ["LE SSERAFIM", "NewJeans", "IVE", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group features members Hanni, Minji, Danielle, Haerin, and Hyein?",
+    "choices": ["NewJeans", "STAYC", "BABYMONSTER", "ILLIT"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group features members Haram, Ahyeon, Ruka, Pharita, Asa, Chiquita, and Rami?",
+    "choices": ["BABYMONSTER", "Kep1er", "ITZY", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which group is associated with the fandom name MY?",
+    "choices": ["aespa", "IVE", "STAYC", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which group is associated with the fandom name DIVE?",
+    "choices": ["IVE", "LE SSERAFIM", "Kep1er", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which group is associated with the fandom name MIDZY?",
+    "choices": ["ITZY", "NMIXX", "aespa", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which group is associated with the fandom name FEARNOT?",
+    "choices": ["LE SSERAFIM", "IVE", "STAYC", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which group is associated with the fandom name Bunnies?",
+    "choices": ["NewJeans", "BABYMONSTER", "IVE", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which group released 'Hype Boy'?",
+    "choices": ["NewJeans", "IVE", "LE SSERAFIM", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which group released 'Baddie'?",
+    "choices": ["IVE", "ITZY", "aespa", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which group released 'UNFORGIVEN'?",
+    "choices": ["LE SSERAFIM", "NewJeans", "STAYC", "ILLIT"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which group released 'Spicy'?",
+    "choices": ["aespa", "IVE", "ITZY", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which group released 'HEYA'?",
+    "choices": ["IVE", "NewJeans", "LE SSERAFIM", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which group was formed through the show Girls Planet 999?",
+    "choices": ["Kep1er", "IVE", "STAYC", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which group was formed through the survival show My Teenage Girl?",
+    "choices": ["CLASS:y", "IVE", "LE SSERAFIM", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which group was formed through the survival show R U Next?",
+    "choices": ["ILLIT", "BABYMONSTER", "Kep1er", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which group was formed through the show The Debut: Dream Academy?",
+    "choices": ["KATSEYE", "IVE", "NewJeans", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which group released 'Magnetic' as a breakout debut single?",
+    "choices": ["ILLIT", "BABYMONSTER", "STAYC", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which group released 'My Heart Skip a Beat'?",
+    "choices": ["Purple Kiss", "STAYC", "Kep1er", "IVE"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which group released 'Stereotype'?",
+    "choices": ["STAYC", "NewJeans", "IVE", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which group released 'Girls' Capitalism'?",
+    "choices": ["tripleS", "NewJeans", "IVE", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which group released 'Oh My God' and 'Nxde'?",
+    "choices": ["(G)I-DLE", "aespa", "IVE", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which group released 'Invincible'?",
+    "choices": ["tripleS", "IVE", "LE SSERAFIM", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which group released 'ASAP'?",
+    "choices": ["STAYC", "Kep1er", "NMIXX", "IVE"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which group released 'After LIKE'?",
+    "choices": ["IVE", "aespa", "LE SSERAFIM", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which group released 'Impurities'?",
+    "choices": ["LE SSERAFIM", "IVE", "STAYC", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'Poppy' and 'RUN2U'?",
+    "choices": ["STAYC", "IVE", "LE SSERAFIM", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'Armageddon'?",
+    "choices": ["aespa", "IVE", "LE SSERAFIM", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'Dice'?",
+    "choices": ["NMIXX", "ITZY", "Kep1er", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'Cake'?",
+    "choices": ["ITZY", "NewJeans", "IVE", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'Blue Flame'?",
+    "choices": ["LE SSERAFIM", "IVE", "STAYC", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which group released 'Beautiful Monster'?",
+    "choices": ["STAYC", "IVE", "NewJeans", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which group released 'Queencard'?",
+    "choices": ["(G)I-DLE", "IVE", "NewJeans", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which group released 'Girls'?",
+    "choices": ["aespa", "LE SSERAFIM", "IVE", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which group released 'Ditto'?",
+    "choices": ["NewJeans", "IVE", "STAYC", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which group released 'Hurt' and 'OMG'?",
+    "choices": ["NewJeans", "IVE", "Kep1er", "LE SSERAFIM"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which group released 'Batter Up'?",
+    "choices": ["BABYMONSTER", "aespa", "IVE", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which group released 'Swan Song' and 'Eve, Psyche & The Bluebeard's Wife'?",
+    "choices": ["LE SSERAFIM", "IVE", "NewJeans", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which group released 'INVU' if the answer is a soloist rather than a group?",
+    "choices": ["Taeyeon", "IU", "Chungha", "Sunmi"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which group released 'Cheshire'?",
+    "choices": ["ITZY", "IVE", "LE SSERAFIM", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which group released 'Drama'?",
+    "choices": ["aespa", "IVE", "NewJeans", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which group released 'Cupid'?",
+    "choices": ["FIFTY FIFTY", "Kep1er", "IVE", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which group released 'Young, Dumb, Stupid'?",
+    "choices": ["NMIXX", "IVE", "LE SSERAFIM", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which group released 'Teddy Bear'?",
+    "choices": ["STAYC", "IVE", "Kep1er", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which group released 'Run for Roses'?",
+    "choices": ["NMIXX", "aespa", "IVE", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which group released 'Unforgiven' in a title track that sampled a well-known Western guitar theme?",
+    "choices": ["LE SSERAFIM", "IVE", "aespa", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which group released 'Kitsch'?",
+    "choices": ["IVE", "NewJeans", "LE SSERAFIM", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which group released 'Bubble'?",
+    "choices": ["STAYC", "IVE", "NMIXX", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which group released 'Sheesh'?",
+    "choices": ["BABYMONSTER", "aespa", "STAYC", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which group released 'Welcome to MY World'?",
+    "choices": ["aespa", "IVE", "LE SSERAFIM", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which group released 'Royal'?",
+    "choices": ["IVE", "NewJeans", "STAYC", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which group released 'Smart'?",
+    "choices": ["LE SSERAFIM", "IVE", "aespa", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which group released 'Super Lady'?",
+    "choices": ["(G)I-DLE", "IVE", "LE SSERAFIM", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which group released 'Bubble Gum'?",
+    "choices": ["NewJeans", "IVE", "STAYC", "BABYMONSTER"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which group released 'Cherish (My Love)'?",
+    "choices": ["ILLIT", "Kep1er", "IVE", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which group released 'Maniac' as a B-side that later became a fan favorite?",
+    "choices": ["NewJeans", "IVE", "LE SSERAFIM", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which group released 'Hot' as a fiery performance track?",
+    "choices": ["LE SSERAFIM", "IVE", "aespa", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which group released 'Accendio'?",
+    "choices": ["IVE", "LE SSERAFIM", "aespa", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which group released 'Rising'?",
+    "choices": ["tripleS", "Kep1er", "NewJeans", "IVE"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which group released 'My Satisfaction'?",
+    "choices": ["IVE", "aespa", "LE SSERAFIM", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which group released 'Savage'?",
+    "choices": ["aespa", "IVE", "NewJeans", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which group released 'Tomboy' if the goal is the group identity rather than the song title?",
+    "choices": ["(G)I-DLE", "IVE", "LE SSERAFIM", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which group released 'Pinball'?",
+    "choices": ["Kep1er", "IVE", "NewJeans", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which group released 'GingaMingaYo'?",
+    "choices": ["Billlie", "IVE", "NewJeans", "LE SSERAFIM"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which group is associated with the fandom name DIVE and the member Wonyoung?",
+    "choices": ["IVE", "NewJeans", "aespa", "LE SSERAFIM"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which group is associated with the fandom name FEARNOT and member Kazuha?",
+    "choices": ["LE SSERAFIM", "IVE", "Kep1er", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which group is associated with the fandom name MY and the members Karina and Winter?",
+    "choices": ["aespa", "IVE", "NewJeans", "NMIXX"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which group is associated with the fandom name Bunnies and the song 'Ditto'?",
+    "choices": ["NewJeans", "IVE", "ITZY", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which group is associated with the fandom name MIDZY and the song 'Wannabe'?",
+    "choices": ["ITZY", "NMIXX", "IVE", "LE SSERAFIM"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which group is associated with the fandom name NSWER?",
+    "choices": ["NMIXX", "IVE", "aespa", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which group is associated with the fandom name My and the title track 'Supernova'?",
+    "choices": ["aespa", "IVE", "STAYC", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which group is associated with the song 'Girls' and the concept of an avatar counterpart?",
+    "choices": ["aespa", "IVE", "NewJeans", "LE SSERAFIM"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which group is associated with the song 'RUN2U' and a sleek retro-pop image?",
+    "choices": ["STAYC", "IVE", "Kep1er", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which group released 'Rose Blossom'?",
+    "choices": ["H1-KEY", "IVE", "aespa", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which group released 'After School'?",
+    "choices": ["Weeekly", "STAYC", "IVE", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which group released 'RUB-A-DUM'?",
+    "choices": ["TRI.BE", "IVE", "NewJeans", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  }
+]

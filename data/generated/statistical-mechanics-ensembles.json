@@ -1,0 +1,554 @@
+[
+  {
+    "text": "Which ensemble fixes energy, volume, and particle number?",
+    "choices": ["Canonical", "Grand canonical", "Microcanonical", "Isothermal-isobaric"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which ensemble fixes temperature, volume, and particle number?",
+    "choices": ["Canonical", "Microcanonical", "Grand canonical", "Generalized Gibbs"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which ensemble allows particle exchange with a reservoir at fixed temperature and chemical potential?",
+    "choices": ["Grand canonical", "Microcanonical", "Canonical", "Adiabatic"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The canonical probability of microstate i is proportional to:",
+    "choices": ["Ei", "e^(-beta Ei)", "ln Ei", "1 + beta Ei"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In statistical mechanics, beta is shorthand for:",
+    "choices": ["kB T", "T/kB", "1/(kB T)", "1/T"],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "The canonical partition function is usually denoted:",
+    "choices": ["Omega", "Xi", "Z", "Gamma"],
+    "correctIndex": 2,
+    "difficulty": 0.11
+  },
+  {
+    "text": "For the canonical ensemble, Helmholtz free energy satisfies:",
+    "choices": ["F = kB T ln Z", "F = -kB T ln Z", "F = -ln Z / T", "F = Z / beta"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "In the microcanonical ensemble, accessible microstates at the chosen energy are assigned:",
+    "choices": ["Weights proportional to energy", "Equal probability", "Weights proportional to temperature", "Alternating signs"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Boltzmann's entropy formula for multiplicity W is:",
+    "choices": ["S = W ln kB", "S = kB ln W", "S = kB/W", "S = ln(W/kB)"],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "The grand partition function is most commonly written as:",
+    "choices": ["Omega", "Xi", "Y", "Q"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A term in the grand partition function carries which fugacity factor?",
+    "choices": ["e^(-beta mu N)", "e^(beta mu N)", "mu^(-N)", "N!/mu"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "For a homogeneous system, the grand potential equals:",
+    "choices": ["+pV", "-pV", "TS", "U + pV"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "The natural potential for the canonical ensemble is:",
+    "choices": ["Gibbs free energy", "Helmholtz free energy", "Enthalpy", "Grand potential"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The natural potential for the isothermal-isobaric ensemble is:",
+    "choices": ["Helmholtz free energy", "Internal energy", "Gibbs free energy", "Massieu potential"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The partition function for independent subsystems factorizes into a:",
+    "choices": ["Sum", "Difference", "Product", "Determinant"],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "The internal energy in the canonical ensemble is given by:",
+    "choices": ["U = partial Z / partial beta", "U = -partial ln Z / partial beta", "U = ln Z / beta", "U = beta Z"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The entropy in the canonical ensemble can be written as:",
+    "choices": ["S = -partial F / partial T", "S = partial F / partial V", "S = -partial U / partial T", "S = beta F"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Energy fluctuations in the canonical ensemble are controlled by:",
+    "choices": ["The compressibility", "The heat capacity", "The chemical potential alone", "The virial coefficient only"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The variance of energy in the canonical ensemble is:",
+    "choices": ["kB T^2 Cv", "kB T Cp", "Cv / T^2", "kB Cv / T"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Relative energy fluctuations in many extensive systems usually scale as:",
+    "choices": ["N", "e^N", "1/sqrt(N)", "1/N^2 for the variance itself"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The derivation of the canonical ensemble from a reservoir starts by expanding the reservoir entropy in the subsystem's:",
+    "choices": ["Volume", "Energy", "Particle label", "Degeneracy"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "The microcanonical definition of temperature is based on:",
+    "choices": ["1/T = (partial S / partial E) at fixed V,N", "T = (partial S / partial V) at fixed E,N", "1/T = partial E / partial V", "T = S/E"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The microcanonical definition of pressure is based on:",
+    "choices": ["p/T = (partial S / partial V) at fixed E,N", "p = (partial S / partial V) at fixed T,N", "p/T = (partial E / partial V) at fixed S,N", "p = S/V"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The microcanonical definition of chemical potential is:",
+    "choices": ["mu/T = (partial S / partial N) at fixed E,V", "-mu/T = (partial S / partial N) at fixed E,V", "mu = (partial S / partial N) at fixed T,V", "-mu = T (partial E / partial N)"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "For two weakly coupled subsystems, total multiplicity is typically:",
+    "choices": ["OmegaA + OmegaB", "OmegaA OmegaB", "OmegaA / OmegaB", "ln(OmegaA OmegaB)"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Because multiplicities multiply for weakly coupled systems, entropy tends to be:",
+    "choices": ["Additive", "Multiplicative", "Always zero", "Frame dependent"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "The most probable macrostate of an isolated composite system maximizes:",
+    "choices": ["Total entropy", "Helmholtz free energy", "Chemical potential", "Enthalpy"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In a canonical ensemble, the ratio Pi/Pj equals:",
+    "choices": ["Ei/Ej", "e^(-beta(Ei-Ej))", "beta(Ei-Ej)", "ln(Ei/Ej)"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "A level with degeneracy g and energy E contributes to Z as:",
+    "choices": ["g e^(-beta E)", "g + beta E", "e^(-gE)", "g/E"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The Gibbs paradox in classical theory is resolved by accounting for particle:",
+    "choices": ["Rigidity", "Indistinguishability", "Magnetization", "Spin-orbit coupling"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The canonical entropy written directly from probabilities is:",
+    "choices": ["S = kB sum pi", "S = -kB sum pi ln pi", "S = -sum ln pi", "S = kB ln(sum pi)"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which transform takes entropy S(E,V,N) to Helmholtz free energy F(T,V,N)?",
+    "choices": ["Fourier transform", "Legendre transform in E", "Laplace transform in V", "Mellin transform in N"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The canonical partition function is the Laplace transform of the density of states with respect to:",
+    "choices": ["Volume", "Energy", "Particle number", "Pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The quantity g(E) in Z = integral dE g(E)e^(-beta E) is the:",
+    "choices": ["Density of states", "Fugacity", "Activity coefficient", "Heat kernel trace only at zero temperature"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In the thermodynamic limit, microcanonical and canonical ensembles are often equivalent for:",
+    "choices": ["Finite-size fluctuations", "Bulk observables away from anomalous regions", "Every mesoscopic histogram", "All nonequilibrium paths"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "A standard warning sign for possible nonequivalence of ensembles is:",
+    "choices": ["Positive heat capacity in the canonical ensemble", "Long-range interactions or nonconcave entropy", "Short-range mixing only", "A single conserved quantity"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The Massieu function in the canonical ensemble is commonly taken as:",
+    "choices": ["ln Z", "-ln Z", "Z/beta", "beta Z"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A derivative of ln Z with respect to beta generates:",
+    "choices": ["Energy cumulants", "Only entropy", "Only pressure", "Particle-number parity"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "The second derivative of ln Z with respect to beta gives access to:",
+    "choices": ["Energy variance", "Volume directly", "Entropy at zero temperature only", "Chemical activity alone"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In the grand canonical ensemble, average particle number is obtained from ln Xi by differentiating with respect to:",
+    "choices": ["beta p", "beta mu", "1/V", "ln T"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Particle-number fluctuations in the grand canonical ensemble are linked to:",
+    "choices": ["Isothermal compressibility", "Shear modulus", "Thermal conductivity", "Surface tension only"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The isothermal compressibility can be expressed through fluctuations of:",
+    "choices": ["Energy in the canonical ensemble", "Particle number in the grand canonical ensemble", "Angular momentum in the microcanonical ensemble", "Entropy in the adiabatic ensemble"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A canonical partition function for a classical system contains phase-space integration divided by h^(3N) mainly to make it:",
+    "choices": ["Gauge invariant", "Dimensionless", "Independent of mass", "Zero at T = 0"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "For a classical Hamiltonian H = K(p) + U(q), the partition function factorizes when:",
+    "choices": ["K and U depend on the same coordinate only", "Momentum and coordinate parts separate", "The system is quantum", "N is not fixed"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "For an ideal classical gas, the one-particle translational partition function scales with volume as:",
+    "choices": ["V^0", "V", "1/V", "ln V"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In the canonical ensemble, pressure can be obtained from F through:",
+    "choices": ["p = -(partial F / partial V)T,N", "p = (partial F / partial T)V,N", "p = -(partial U / partial S)V,N", "p = F/V^2"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "In the grand canonical ensemble, the fugacity z is defined by:",
+    "choices": ["z = e^(beta mu)", "z = e^(-beta mu)", "z = beta/mu", "z = mu/T"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "At fixed T and V, increasing the chemical potential generally causes the mean particle number to:",
+    "choices": ["Decrease", "Increase", "Remain exactly fixed", "Become purely imaginary"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "For noninteracting distinguishable subsystems, cumulants of additive conserved quantities are generated by the logarithm of the:",
+    "choices": ["Density matrix trace only at infinite temperature", "Partition function", "Hamiltonian spectrum spacing", "Equation of state directly"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The canonical ensemble can be seen as a maximum-entropy distribution subject to fixed normalization and fixed mean:",
+    "choices": ["Volume", "Energy", "Particle charge", "Pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "The grand canonical ensemble is the maximum-entropy distribution with fixed mean energy and fixed mean:",
+    "choices": ["Volume", "Pressure", "Particle number", "Entropy production"],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In Jaynes-style derivations, the multipliers enforcing average-energy and average-particle-number constraints become:",
+    "choices": ["beta and -beta mu", "T and p", "S and V", "Cp and Cv"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A negative microcanonical heat capacity is most naturally discussed in which ensemble?",
+    "choices": ["Microcanonical", "Canonical", "Isobaric", "Grand isothermal"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A first-order transition in a finite canonical system often shows up as which feature in the energy histogram?",
+    "choices": ["A strict delta function", "A bimodal distribution", "A Cauchy tail only", "Exact equipartition"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In the thermodynamic limit, the dominant contribution to Z is often estimated using:",
+    "choices": ["Stationary phase or saddle-point methods", "Only partial fractions", "A nearest-neighbor graph search", "No approximation is ever possible"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "The saddle point in the Laplace representation of Z corresponds physically to the energy that:",
+    "choices": ["Maximizes E alone", "Maximizes S(E)/kB - beta E", "Minimizes entropy at fixed beta", "Makes density of states vanish"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A Legendre-Fenchel transform is needed instead of an ordinary Legendre transform when entropy is not globally:",
+    "choices": ["Differentiable or concave", "Dimensionless", "Extensive in momentum", "Defined on integers only"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "For short-range systems at coexistence, the canonical free-energy density remains:",
+    "choices": ["Nonconvex", "Convex after thermodynamic limiting procedures", "Complex-valued", "Independent of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The concave envelope of microcanonical entropy is the object effectively sampled by the canonical ensemble in regions of:",
+    "choices": ["No fluctuations", "Ensemble nonequivalence", "Free diffusion", "Exact ideality"],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the isothermal-isobaric ensemble, microstates are weighted by factors of the form:",
+    "choices": ["e^(-beta(E + pV))", "e^(-beta(E - pV))", "e^(beta(E + pV))", "e^(-E/pV)"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The partition function of the isothermal-isobaric ensemble is often denoted:",
+    "choices": ["Delta", "Lambda", "Xi", "Omega"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The thermodynamic potential associated with fixed T, p, and N is minimized at equilibrium and equals:",
+    "choices": ["Enthalpy", "Gibbs free energy", "Grand potential", "Entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Volume fluctuations in the isothermal-isobaric ensemble are tied to:",
+    "choices": ["Adiabatic index only", "Isothermal compressibility", "Shear viscosity", "Chemical reactivity"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Einstein fluctuation formula near equilibrium expresses probabilities in terms of entropy changes that are approximately:",
+    "choices": ["Linear in the deviation", "Quadratic in the deviation", "Independent of the deviation", "Periodic in the deviation"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "For a Gaussian fluctuation of an extensive variable, the covariance matrix is related to the inverse Hessian of:",
+    "choices": ["The entropy or appropriate thermodynamic potential", "The particle trajectory", "The virial series only", "The microscopic time step"],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In canonical equilibrium, heat capacity must be nonnegative because it is proportional to:",
+    "choices": ["A variance", "A skewness with fixed sign", "The entropy itself", "A contour integral"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A generalized Gibbs ensemble in integrable systems adds constraints associated with:",
+    "choices": ["Only the Hamiltonian", "Many conserved quantities", "Only boundary area", "Only total magnetization parity"],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "The density operator of a generalized Gibbs ensemble has the form exponential of minus a linear combination of conserved quantities with corresponding:",
+    "choices": ["Fugacities", "Lagrange multipliers", "Virial coefficients", "Renormalization scales"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Gibbs entropy of a classical continuous distribution rho in phase space is proportional to:",
+    "choices": ["-integral rho ln rho", "integral ln rho", "integral rho^2", "ln integral rho^2"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Liouville's theorem implies that fine-grained Gibbs entropy under Hamiltonian evolution is:",
+    "choices": ["Strictly increasing", "Strictly decreasing", "Constant", "Periodic with fixed period 2pi"],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A coarse-grained entropy can increase in practice because coarse graining discards microscopic:",
+    "choices": ["Normalization", "Information", "Momentum conservation", "Symplectic structure"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The equivalence between canonical typicality and reduced states of small subsystems relies on the environment being:",
+    "choices": ["Tiny and perfectly periodic", "Large compared with the subsystem", "At zero volume", "Classically distinguishable only"],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In a two-level system with energies 0 and epsilon, the canonical partition function is:",
+    "choices": ["1 + e^(-beta epsilon)", "1 - e^(-beta epsilon)", "e^(beta epsilon) - 1", "beta epsilon"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "For that two-level system, the excited-state probability is:",
+    "choices": ["e^(-beta epsilon)/(1 + e^(-beta epsilon))", "1/(beta epsilon)", "1 + e^(-beta epsilon)", "e^(beta epsilon)/(1 + e^(-beta epsilon))"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "As temperature goes to infinity in a finite-state canonical system, state probabilities approach:",
+    "choices": ["A delta peak on the ground state", "Equal weights", "Negative values", "A power law in energy"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "As temperature goes to zero in a nondegenerate canonical system, probability concentrates on the:",
+    "choices": ["Highest-energy state", "Ground state", "State with largest volume", "State with zero entropy production"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "A residual entropy at zero temperature typically signals:",
+    "choices": ["A negative partition function", "Ground-state degeneracy", "Infinite pressure", "Failure of normalization"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "For a harmonic mode of frequency omega, the quantum single-mode partition function is:",
+    "choices": ["1/(1 - e^(-beta hbar omega)) up to zero-point conventions", "1 - e^(-beta hbar omega)", "e^(-beta hbar omega^2)", "beta hbar omega / 2"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In the classical limit, equipartition is recovered when quantum level spacing is:",
+    "choices": ["Large compared with kB T", "Small compared with kB T", "Exactly equal to kB", "Independent of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The relation dS = beta dU + beta p dV - beta mu dN is most naturally written in terms of:",
+    "choices": ["Entropy representation", "Helmholtz representation", "Enthalpy representation", "Grand-potential representation"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The relation d(beta F) = U d(beta) - p beta dV + beta mu dN is an example of using:",
+    "choices": ["Dimensionless thermodynamic potentials", "Only adiabatic invariants", "No Legendre structure", "A purely mechanical identity unrelated to ensembles"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In finite systems, nonanalytic thermodynamic behavior is replaced by:",
+    "choices": ["Exact singularities", "Smooth but sharpened crossovers", "No temperature dependence", "Only integer jumps in entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The fluctuation-dissipation connection states that equilibrium fluctuations determine linear-response coefficients such as:",
+    "choices": ["Heat capacities and compressibilities", "Only particle masses", "Only lattice constants", "Only topological invariants"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "For magnetic systems in a field, the canonical weight typically includes a term involving:",
+    "choices": ["E - HM", "E + HM inside e^(+beta ...)", "Only M with no beta", "Entropy minus volume"],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Susceptibility in a magnetic ensemble is related to fluctuations of:",
+    "choices": ["Energy only", "Magnetization", "Volume only", "Particle mass"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "For blackbody radiation, the chemical potential of photons in equilibrium is:",
+    "choices": ["Positive", "Negative and large", "Zero", "Exactly kB T"],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Because photon number is not conserved in equilibrium radiation, the most natural ensemble treats particle number as:",
+    "choices": ["Strictly fixed", "Fixed modulo 2", "Variable with mu = 0", "Undefined so no ensemble exists"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The density matrix rho proportional to e^(-beta(H - mu N)) describes which equilibrium ensemble?",
+    "choices": ["Canonical", "Grand canonical", "Microcanonical", "Generalized microcanonical"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The quantum canonical density matrix is normalized by:",
+    "choices": ["The trace of e^(-beta H)", "The determinant of H", "The largest eigenvalue of H", "The von Neumann entropy"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The von Neumann entropy of a quantum state rho is:",
+    "choices": ["-kB Tr(rho ln rho)", "kB Tr(rho^2)", "Tr ln rho", "kB ln Tr rho"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "For extensive systems, why does ln Z scale with system size?",
+    "choices": ["Because probabilities are negative", "Because free energy is extensive", "Because beta is dimensionless", "Because entropy must vanish"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "If the user of an ensemble fixes the wrong control variables for the physical setup, the main risk is obtaining the wrong:",
+    "choices": ["Microscopic laws of motion", "Equilibrium fluctuations and response relations", "Definition of kB", "Meaning of probability normalization"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "North Atlantic Deep Water forms mainly when surface water becomes...",
+    "choices": [
+      "Cold and salty",
+      "Warm and fresh",
+      "Warm and salty",
+      "Cold and fresh"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Antarctic Bottom Water is densified especially on the Antarctic continental shelf by...",
+    "choices": [
+      "River flooding",
+      "Sea-ice formation and brine rejection",
+      "Tropical evaporation only",
+      "Solar heating"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "AABW occupies much of the global ocean's...",
+    "choices": [
+      "Surface microlayer",
+      "Thermocline only",
+      "Deepest basins",
+      "Intertidal zone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The densest major intermediate water mass is commonly identified as...",
+    "choices": [
+      "Antarctic Intermediate Water",
+      "Mediterranean Water",
+      "Subtropical Surface Water",
+      "Red Sea Water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Mediterranean Water enters the Atlantic through the...",
+    "choices": [
+      "Strait of Gibraltar",
+      "Bering Strait",
+      "Drake Passage",
+      "Lombok Strait"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Mediterranean outflow is relatively warm and salty, so it spreads as...",
+    "choices": [
+      "Fresh surface runoff",
+      "A deep or intermediate gravity current",
+      "Sea ice",
+      "A wind wave"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Labrador Sea Water is formed primarily by...",
+    "choices": [
+      "Equatorial upwelling",
+      "River discharge in the Baltic",
+      "Winter convection in the Labrador and Irminger seas",
+      "Tidal mixing in the Java Sea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Southern Ocean is crucial to overturning because it connects...",
+    "choices": [
+      "Only the Arctic and Pacific",
+      "Only marginal seas",
+      "Two isolated lakes",
+      "All major ocean basins around Antarctica"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Thermohaline circulation is driven by global gradients in...",
+    "choices": [
+      "Density caused by temperature and salinity",
+      "Wave height and tides only",
+      "Nitrate and phosphate",
+      "Moonlight and wind color"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The equation of state for seawater predicts density generally rises as...",
+    "choices": [
+      "Temperature rises and salinity falls",
+      "Temperature falls and salinity rises",
+      "Both temperature and salinity fall",
+      "Pressure disappears"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A potential temperature is the temperature a parcel would have after...",
+    "choices": [
+      "Mixing with freshwater",
+      "Freezing at the surface",
+      "Adiabatic movement to a reference pressure",
+      "Removal of all salt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Potential density referenced to 2000 dbar is denoted approximately...",
+    "choices": [
+      "σ0",
+      "σt",
+      "pH2",
+      "σ2"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "A T–S diagram is especially useful for identifying...",
+    "choices": [
+      "Water-mass signatures",
+      "Seafloor age only",
+      "Wave direction",
+      "Chlorophyll species"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A straight mixing line on a conservative T–S diagram represents...",
+    "choices": [
+      "A new tectonic plate",
+      "Mixtures of two source waters",
+      "Only biological uptake",
+      "A tidal harmonic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A water mass is best defined by a characteristic combination of...",
+    "choices": [
+      "Wave period and wind speed",
+      "Depth and latitude alone",
+      "Temperature and salinity acquired at formation",
+      "Nutrients only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Atlantic meridional overturning circulation carries relatively warm surface water...",
+    "choices": [
+      "Southward only",
+      "Only eastward at the equator",
+      "Into the atmosphere",
+      "Northward"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Upwelling returns deep water toward the surface, often supplying...",
+    "choices": [
+      "Nutrients",
+      "Brine only",
+      "No dissolved gases",
+      "Freshwater ice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Ekman pumping can help ventilate the ocean interior in regions of...",
+    "choices": [
+      "Zero wind stress everywhere",
+      "Ekman convergence and downwelling",
+      "Permanent sea ice only",
+      "River estuaries only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The abyssal Pacific is generally older than the deep North Atlantic because it is...",
+    "choices": [
+      "The main formation site",
+      "Less salty at the surface only",
+      "Farther downstream of deep-water sources",
+      "Shallower than the Atlantic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "CFC-11 and CFC-12 trace water ventilation because they are...",
+    "choices": [
+      "Natural radioactive isotopes",
+      "Sediment grains",
+      "Nutrients produced by whales",
+      "Transient anthropogenic dissolved tracers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Radiocarbon age of deep water is inferred from its reduced...",
+    "choices": [
+      "Carbon-14 activity",
+      "Oxygen-16 abundance",
+      "Chloride concentration",
+      "Pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Tritium–helium dating is useful because tritium decays to...",
+    "choices": [
+      "Carbon-14",
+      "Helium-3",
+      "Argon-40",
+      "Oxygen-18"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Dissolved oxygen is often highest in newly ventilated deep water because it...",
+    "choices": [
+      "Has undergone centuries of respiration",
+      "Came from hydrothermal vents",
+      "Recently contacted the atmosphere",
+      "Contains no microbes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Apparent oxygen utilization is calculated relative to oxygen saturation to estimate...",
+    "choices": [
+      "Sea level rise",
+      "Salt rejected by ice",
+      "Tidal energy",
+      "Oxygen consumed since last ventilation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "SF6 has been used as an ocean tracer because it is...",
+    "choices": [
+      "A deliberately released transient gas",
+      "A major natural nutrient",
+      "A mineral in basalt",
+      "A biological pigment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "An Argo float estimates subsurface temperature and salinity using a...",
+    "choices": [
+      "Secchi disk only",
+      "CTD sensor package",
+      "Satellite camera",
+      "Plankton net"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "CTD stands for conductivity, temperature, and...",
+    "choices": [
+      "Density",
+      "Dissolved carbon",
+      "Depth",
+      "Diffusion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Conductivity in a CTD is converted with temperature and pressure to estimate...",
+    "choices": [
+      "Nitrate directly",
+      "Current speed only",
+      "Carbon age",
+      "Salinity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A lowered ADCP measures water velocity using...",
+    "choices": [
+      "Doppler shifts of acoustic backscatter",
+      "Radioactive decay",
+      "Electrical conductivity",
+      "Laser fluorescence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Deep-ocean moorings commonly use current meters to record...",
+    "choices": [
+      "Only sea-surface color",
+      "Velocity over time at fixed locations",
+      "Genetic diversity",
+      "Seafloor age"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The RAPID array at about 26.5°N is designed to monitor...",
+    "choices": [
+      "Pacific tsunami height",
+      "Arctic sea-ice thickness only",
+      "Atlantic overturning transport",
+      "Coral spawning"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A Sverdrup is a unit of ocean volume transport equal to...",
+    "choices": [
+      "10^3 m³ s⁻¹",
+      "10^9 m³ s⁻¹",
+      "1 m³ s⁻¹",
+      "10^6 m³ s⁻¹"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Geostrophic transport is inferred from horizontal density gradients through...",
+    "choices": [
+      "Hydrographic sections and dynamic height",
+      "Beach sand color",
+      "Wave crests alone",
+      "Salinity at one point"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The thermal wind relation links vertical shear of geostrophic flow to...",
+    "choices": [
+      "Rainfall rate only",
+      "Horizontal density gradients",
+      "Tidal period",
+      "Dissolved oxygen saturation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Neutral density surfaces are designed to approximately follow...",
+    "choices": [
+      "Lines of constant longitude",
+      "The sea floor exactly",
+      "Surfaces along which water parcels move with little buoyancy change",
+      "Atmospheric fronts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Diapycnal mixing crosses density surfaces and is commonly parameterized with...",
+    "choices": [
+      "A longitude grid",
+      "A pigment ratio",
+      "A wave crest count",
+      "A vertical diffusivity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Isopycnal mixing occurs primarily...",
+    "choices": [
+      "Along density surfaces",
+      "Across the seafloor",
+      "Only in rivers",
+      "Through the atmosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Double diffusion can arise when temperature and salinity gradients have...",
+    "choices": [
+      "Identical diffusivities only",
+      "Different molecular diffusivities",
+      "No density effect",
+      "No vertical gradient"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Salt fingering is favored when warm salty water overlies...",
+    "choices": [
+      "Warmer fresher water",
+      "Cold saltier water",
+      "Cooler fresher water",
+      "Sea ice only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Mediterranean outflow can generate salt fingers because salinity diffuses...",
+    "choices": [
+      "More quickly than heat",
+      "At exactly the same rate",
+      "Only in ice",
+      "More slowly than heat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Brine rejection during sea-ice growth increases nearby seawater...",
+    "choices": [
+      "Salinity and density",
+      "Freshwater content",
+      "Temperature only",
+      "Dissolved nitrogen only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Cabbeling is densification caused when two waters mix to produce water...",
+    "choices": [
+      "Less salty than both parents",
+      "Denser than either parent at the same pressure",
+      "With no temperature",
+      "That cannot sink"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "The δ18O of seawater can help trace freshwater sources because it records...",
+    "choices": [
+      "Current velocity directly",
+      "Only pressure",
+      "Isotopic composition of water inputs and phase changes",
+      "Nitrate uptake"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Noble-gas concentrations in water can constrain the conditions of...",
+    "choices": [
+      "Deep-sea sediment age only",
+      "Tidal mixing alone",
+      "Chlorophyll production",
+      "Last air–sea equilibration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "A neutrally buoyant float is intended to follow...",
+    "choices": [
+      "A chosen density surface",
+      "The sea surface wind",
+      "A ship wake",
+      "A fixed longitude"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which water mass is formed by deep winter convection in the Labrador Sea?",
+    "choices": [
+      "Labrador Sea Water",
+      "Antarctic Intermediate Water",
+      "North Pacific Intermediate Water",
+      "Mediterranean Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which dense overflow water exits the Nordic Seas through Denmark Strait?",
+    "choices": [
+      "Iceland-Scotland Overflow Water",
+      "Denmark Strait Overflow Water",
+      "Mediterranean Water",
+      "Red Sea Water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which observing system monitors the Atlantic overturning circulation near 26.5N?",
+    "choices": [
+      "OSNAP array",
+      "MOVE array",
+      "RAPID 26.5N array",
+      "SAMBA array"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which chlorofluorocarbon tracer was widely used before production bans and is still a classic ventilation marker?",
+    "choices": [
+      "CFC-12",
+      "tritium",
+      "SF6",
+      "CFC-11"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which overflow water spills across the Iceland-Scotland Ridge and through Faroe Bank Channel?",
+    "choices": [
+      "Iceland-Scotland Overflow Water",
+      "Denmark Strait Overflow Water",
+      "North Atlantic Subtropical Mode Water",
+      "Labrador Sea Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which shipboard instrument estimates velocity profiles by Doppler shifts from acoustic returns beneath the ship?",
+    "choices": [
+      "CTD rosette",
+      "lowered ADCP",
+      "Niskin bottle",
+      "Argo float"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which OSNAP leg runs from the southeastern tip of Greenland to Scotland?",
+    "choices": [
+      "OSNAP West",
+      "RAPID 26.5N array",
+      "OSNAP East",
+      "MOVE array"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which age-dating method exploits the decay of tritium to helium-3 in young water?",
+    "choices": [
+      "radiocarbon dating",
+      "CFC-11 age dating",
+      "neodymium provenance analysis",
+      "tritium-helium dating"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which salty intermediate water lens enters the Atlantic through the Strait of Gibraltar?",
+    "choices": [
+      "Mediterranean Water",
+      "Red Sea Water",
+      "Labrador Sea Water",
+      "Weddell Sea Bottom Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What parking depth is the standard target for core Argo floats?",
+    "choices": [
+      "2000 dbar",
+      "1000 dbar",
+      "3000 dbar",
+      "500 dbar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which bottom water is produced mainly from dense Antarctic shelf waters and fills the abyssal ocean?",
+    "choices": [
+      "Circumpolar Deep Water",
+      "Antarctic Intermediate Water",
+      "Antarctic Bottom Water",
+      "North Pacific Intermediate Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which OSNAP leg crosses the Labrador Basin toward the southwestern tip of Greenland?",
+    "choices": [
+      "OSNAP East",
+      "RAPID 26.5N array",
+      "SAMBA array",
+      "OSNAP West"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which injected gas is used as a transient ocean tracer in deliberate release and ventilation studies?",
+    "choices": [
+      "SF6",
+      "CFC-11",
+      "helium-3",
+      "radiocarbon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which potential-density label refers to density referenced to 2000 dbar?",
+    "choices": [
+      "sigma0",
+      "sigma2",
+      "sigma4",
+      "sigma1"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which outflow water originates in the Red Sea and spreads into the Arabian Sea and beyond?",
+    "choices": [
+      "Mediterranean Water",
+      "Antarctic Bottom Water",
+      "Red Sea Water",
+      "Labrador Sea Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which sampling frame carries multiple water bottles and a conductivity-temperature-depth package on a hydrographic cast?",
+    "choices": [
+      "Niskin bottle",
+      "moored current meter",
+      "lowered ADCP",
+      "CTD rosette"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which diagnostic estimates how much oxygen has been consumed since the water last contacted the atmosphere?",
+    "choices": [
+      "Apparent Oxygen Utilization",
+      "dynamic height",
+      "neutral density",
+      "Ekman pumping"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which surface is designed to follow water parcels with minimal buoyancy change?",
+    "choices": [
+      "isopycnal surface",
+      "neutral density surface",
+      "sigma2 surface",
+      "sea-surface height surface"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which intermediate water forms near the Antarctic Polar Front and spreads northward into the subtropics?",
+    "choices": [
+      "North Pacific Intermediate Water",
+      "Antarctic Bottom Water",
+      "Antarctic Intermediate Water",
+      "Mediterranean Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which device is used to capture discrete seawater samples at selected depths?",
+    "choices": [
+      "CTD sensor",
+      "Argo parking depth",
+      "Niskin bottle",
+      "submarine cable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which age estimate is inferred from depleted carbon-14 activity in seawater?",
+    "choices": [
+      "radiocarbon age",
+      "cabbeling index",
+      "Thorpe scale",
+      "Ekman age"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which relation links vertical geostrophic shear to horizontal density gradients?",
+    "choices": [
+      "thermal wind relation",
+      "Sandstrom theorem",
+      "Osborn relation",
+      "Sverdrup balance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which low-potential-vorticity water mass is formed in the subantarctic frontal zone?",
+    "choices": [
+      "Antarctic Intermediate Water",
+      "North Atlantic Subtropical Mode Water",
+      "Subantarctic Mode Water",
+      "Labrador Sea Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which float program is designed to profile well below the upper-2000 dbar core-Argo range?",
+    "choices": [
+      "Core Argo",
+      "OSNAP floats",
+      "Deep Argo",
+      "SOCCOM floats"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which tracer is often used to fingerprint water-mass provenance and boundary exchange?",
+    "choices": [
+      "neodymium isotopes",
+      "chlorophyll fluorescence",
+      "d18O of seawater",
+      "tritium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which mixing law estimates vertical diffusivity from dissipation rate and buoyancy frequency when a mixing efficiency is assumed?",
+    "choices": [
+      "Thorpe scale",
+      "Osborn relation",
+      "Sandstrom theorem",
+      "Stommel box model"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which dense Antarctic source water is especially associated with the Weddell Sea sector?",
+    "choices": [
+      "Ross Sea Bottom Water",
+      "Upper North Atlantic Deep Water",
+      "Weddell Sea Bottom Water",
+      "Mediterranean Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which fixed-in-place sensor records current velocity over long deployments at one depth?",
+    "choices": [
+      "lowered ADCP",
+      "shipboard CTD",
+      "moored current meter",
+      "Niskin bottle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which isotopic composition is commonly used to trace freshwater input and phase-change history in the ocean?",
+    "choices": [
+      "d18O of seawater",
+      "dissolved silica",
+      "chlorophyll a",
+      "carbon-14"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which process makes a mixture denser than both parent water masses at the same pressure?",
+    "choices": [
+      "salt fingering",
+      "cabbeling",
+      "Ekman pumping",
+      "radiocarbon decay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which dense Antarctic source water is especially associated with the Ross Sea sector?",
+    "choices": [
+      "Weddell Sea Bottom Water",
+      "Red Sea Water",
+      "Ross Sea Bottom Water",
+      "North Pacific Intermediate Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which measurement method is used to determine Florida Current transport in the RAPID system?",
+    "choices": [
+      "moored current meter",
+      "CTD rosette",
+      "Argo float",
+      "submarine cable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which water mass is the upper component commonly distinguished within North Atlantic Deep Water?",
+    "choices": [
+      "Lower North Atlantic Deep Water",
+      "Antarctic Intermediate Water",
+      "Upper North Atlantic Deep Water",
+      "Mediterranean Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which component of the Atlantic overturning transport budget is estimated from surface wind stress?",
+    "choices": [
+      "geostrophic transport",
+      "Ekman transport",
+      "freshwater transport",
+      "abyssal mixing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which North Pacific water mass is marked by an intermediate-depth salinity minimum?",
+    "choices": [
+      "Subantarctic Mode Water",
+      "North Pacific Intermediate Water",
+      "Labrador Sea Water",
+      "Antarctic Bottom Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which large-scale circulation carries warm upper-ocean water northward and returns deep water southward in the Atlantic?",
+    "choices": [
+      "Antarctic Circumpolar Current",
+      "Atlantic meridional overturning circulation",
+      "Pacific gyre circulation",
+      "Indonesian Throughflow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which principle says a fluid heated and cooled at the same level cannot sustain a thermally direct overturning cell?",
+    "choices": [
+      "Sandstrom theorem",
+      "Sverdrup balance",
+      "Osborn relation",
+      "Delaney theorem"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which technique solves for unknown ocean transports by fitting mass, heat, and salt budgets across boxes or sections?",
+    "choices": [
+      "dynamic height method",
+      "inverse box model",
+      "CFC age model",
+      "neutral surface mapping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which near-shelf water type forms from intense cooling and brine rejection on Antarctic continental shelves before cascading downslope?",
+    "choices": [
+      "Antarctic Intermediate Water",
+      "Lower North Atlantic Deep Water",
+      "Dense Shelf Water",
+      "Pacific Deep Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What transport unit equals one million cubic meters per second?",
+    "choices": [
+      "Kelvin",
+      "Pascal",
+      "Sverdrup",
+      "Watt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the vertical motion induced when wind-stress curl drives surface divergence or convergence?",
+    "choices": [
+      "Ekman pumping",
+      "geostrophic shear",
+      "cabbeling",
+      "radiocarbon ventilation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which hydrographic quantity is used to derive geostrophic flow from pressure differences along a section?",
+    "choices": [
+      "dynamic height",
+      "sigma0",
+      "CFC age",
+      "neutral buoyancy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which mixing coefficient describes exchange across density surfaces?",
+    "choices": [
+      "isopycnal diffusivity",
+      "diapycnal diffusivity",
+      "meridional transport",
+      "vertical temperature gradient"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which mixing process acts primarily along surfaces of constant density?",
+    "choices": [
+      "cabbeling",
+      "isopycnal mixing",
+      "salt fingering",
+      "Ekman pumping"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which double-diffusive mode is favored when warm salty water overlies cooler fresher water?",
+    "choices": [
+      "salt fingering",
+      "diffusive convection",
+      "cabbeling",
+      "neutral density compensation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which scale estimates the size of overturns after reordering a statically unstable density profile?",
+    "choices": [
+      "Osborn relation",
+      "Thorpe scale",
+      "Munk abyssal recipe",
+      "Sverdrup scale"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which double-diffusive regime is favored when cold fresh water overlies warm salty water?",
+    "choices": [
+      "salt fingering",
+      "cabbeling",
+      "diffusive convection",
+      "Ekman transport"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which observing system uses moorings, hydrography, and floats to monitor overturning in the subpolar North Atlantic?",
+    "choices": [
+      "RAPID array",
+      "MOVE array",
+      "SAMBA array",
+      "OSNAP array"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which observing system monitors overturning variability near 16N in the tropical North Atlantic?",
+    "choices": [
+      "MOVE array",
+      "RAPID array",
+      "OSNAP array",
+      "GO-SHIP A16 line"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which observing system measures South Atlantic overturning near 34.5S?",
+    "choices": [
+      "MOVE array",
+      "SAMBA array",
+      "RAPID array",
+      "GO-SHIP A12 line"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which chlorofluorocarbon tracer is often paired with the earlier banned compound in ventilation studies?",
+    "choices": [
+      "CFC-11",
+      "SF6",
+      "CFC-12",
+      "tritium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which radioactive tracer decays to helium-3 and is useful for very young water?",
+    "choices": [
+      "helium-3",
+      "radiocarbon",
+      "tritium",
+      "neon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which property tends to be highest in water that was recently ventilated at the surface?",
+    "choices": [
+      "salinity",
+      "dissolved oxygen concentration",
+      "phosphate",
+      "silica"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which subtropical mode water forms in the Sargasso Sea and has very low potential vorticity?",
+    "choices": [
+      "Labrador Sea Water",
+      "Antarctic Intermediate Water",
+      "North Atlantic Subtropical Mode Water",
+      "Red Sea Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What target cycle time do core Argo floats aim for?",
+    "choices": [
+      "20 days",
+      "5 days",
+      "30 days",
+      "10 days"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  }
+]

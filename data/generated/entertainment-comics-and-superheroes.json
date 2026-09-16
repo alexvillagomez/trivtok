@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Peter Parker gains his superhuman abilities from a bite by which arachnid?",
+    "choices": ["radioactive cockroach", "radioactive spider", "radioactive ant", "radioactive beetle"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Superman's greatest vulnerability is exposure to which glowing mineral from his home world?",
+    "choices": ["Plutonium", "Kryptonite", "Adamantium", "Vibranium"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Batman's loyal butler and confidant in Gotham City is known by which name?",
+    "choices": ["Bruce", "Harvey", "Alfred", "Thomas"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Wonder Woman's weapon compels complete honesty from anyone bound by it. What is it called?",
+    "choices": ["Rope of Power", "Lasso of Truth", "Chain of Oaths", "Cord of Light"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The original X-Men team created by Stan Lee and Jack Kirby consisted of how many core mutants?",
+    "choices": ["Five", "Six", "Four", "Seven"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Batman's secret underground facility beneath Wayne Manor is famously called?",
+    "choices": ["The Fortress", "The Batcave", "Wayne Cavern", "The Arkham Vault"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Captain America's iconic shield is forged from which rare fictional metal?",
+    "choices": ["Adamantium", "Vibranium", "Mithril", "Orichalcum"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Thor's magical hammer is called __?",
+    "choices": ["Gungnir", "Mjolnir", "Stormbreaker", "Heimdall"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Hulk is created when physicist Bruce Banner is exposed to which type of radiation?",
+    "choices": ["Alpha radiation", "Beta radiation", "Gamma radiation", "Delta radiation"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Black Panther rules over the technologically advanced fictional nation of __?",
+    "choices": ["Genosha", "Wakanda", "Latveria", "Atlantis"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Green Lantern's incredible power source originates from a magical construct of what?",
+    "choices": ["A wand", "A ring", "A staff", "An amulet"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which legendary comic book pioneers co-created Spider-Man in 1962?",
+    "choices": ["Jack Kirby and Joe Simon", "Stan Lee and Steve Ditko", "Bob Kane and Bill Finger", "Will Eisner and Jerry Iger"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In X-Men comics, the mutant-hunting robots designed to capture or kill mutants are called __?",
+    "choices": ["Cyborgs", "Sentinels", "Purifiers", "Reavers"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The supercomputer used by Professor Xavier to locate mutants worldwide is named __?",
+    "choices": ["Alcyone", "Cerebro", "Omega", "Genesis"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Clark Kent works as a reporter for which major newspaper in DC Comics?",
+    "choices": ["The Gotham Gazette", "The Metropolis Star", "The Daily Planet", "The Central City News"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Tony Stark's Iron Man armor is powered by a miniature energy device in his chest called a(n) __?",
+    "choices": ["Palladium core", "Arc reactor", "Fusion cell", "Quantum battery"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In the Fantastic Four, Reed Richards, the leader, is known for his ability to __?",
+    "choices": ["Control fire", "Stretch his body", "Generate force fields", "Become invisible"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Matt Murdock, the blind vigilante Daredevil, gained his powers from exposure to __?",
+    "choices": ["Cosmic radiation", "Radioactive waste", "Mutant serum", "Alien technology"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The Joker is best known as the arch-nemesis of which DC superhero?",
+    "choices": ["Superman", "Wonder Woman", "Batman", "The Flash"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Spider-Man's primary love interest in Marvel Comics is __?",
+    "choices": ["Gwen Stacy", "Mary Jane Watson", "Betty Brant", "Black Cat"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Superman's birth name, given to him by his Kryptonian parents, is __?",
+    "choices": ["Kar-El", "Kal-El", "Kal-Em", "Kar-Eth"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Professor Charles Xavier founded which team of superhumans to protect a world that fears them?",
+    "choices": ["The Avengers", "The Guardians", "The X-Men", "The Defenders"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Silver Surfer serves as the herald of which cosmic entity that devours planets?",
+    "choices": ["Darkseid", "Galactus", "Apocalypse", "The Celestials"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Thanos, the Mad Titan, is primarily known for his obsession with which infinity stone concept?",
+    "choices": ["Power", "Knowledge", "Death", "Space"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Diana Prince is the civilian identity of which Amazon warrior from DC Comics?",
+    "choices": ["Zatanna", "Hawkgirl", "Wonder Woman", "Black Canary"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Barry Allen is the secret identity of which speedster hero in DC Comics?",
+    "choices": ["Superman", "Green Lantern", "The Flash", "Aquaman"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Krypton is the fictional alien home planet of which superhero?",
+    "choices": ["Wonder Woman", "Superman", "Starfire", "Green Lantern"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Natasha Romanoff is the civilian name of which Marvel assassin-turned-hero?",
+    "choices": ["Elektra", "Black Widow", "Agent Coulson", "Mockingbird"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Frank Miller's famous graphic novel featuring an aging Batman is titled __?",
+    "choices": ["The Last Knight", "Gotham's Reckoning", "The Dark Knight Returns", "Batman Reborn"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Green Goblin, Spider-Man's notorious villain, is the alter ego of __?",
+    "choices": ["Otto Octavius", "Norman Osborn", "Harry Osborn", "Roderick Kingsley"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Magneto's real name in Marvel Comics is __?",
+    "choices": ["Max Eisenhardt", "Erik Lehnsherr", "Ian McKellen", "Sebastian Shaw"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Watchmen, an acclaimed graphic novel by Alan Moore, is set in an alternate version of which year?",
+    "choices": ["1984", "2001", "1985", "1999"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Lex Luthor is Superman's arch-nemesis and is primarily depicted as a genius __?",
+    "choices": ["Scientist", "Businessman", "Sorcerer", "Athlete"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Wonder Woman was created by psychologist William Moulton Marston and first appeared in which comic?",
+    "choices": ["Wonder Comics", "All Star Comics", "Action Comics", "Detective Comics"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Marvel Comics, Loki is the adopted brother of which Asgardian prince?",
+    "choices": ["Sif", "Thor", "Heimdall", "Balder"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Stan Lee and Jack Kirby are legendary creators known for pioneering which comic book era?",
+    "choices": ["The Golden Age", "The Silver Age", "The Modern Age", "The Bronze Age"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The New Gods concept and character Darkseid were created by which legendary comic artist?",
+    "choices": ["George Pérez", "John Romita", "Jack Kirby", "Neal Adams"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Sandman, a gothic fantasy series by Neil Gaiman, centers on which character's realm?",
+    "choices": ["The Nightmare King", "Morpheus", "The Dream Walker", "The Sleep Guardian"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In X-Men lore, what specific type of mutant is Wolverine, given his healing abilities?",
+    "choices": ["An elemental mutant", "A telepath", "A mutant with heightened durability", "A time-manipulator"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Batman was created by artist Bob Kane and writer Bill Finger in which year?",
+    "choices": ["1935", "1939", "1942", "1945"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In DC Comics, Barry Allen acquired his super speed from exposure to which type of accident?",
+    "choices": ["Lightning strike", "Chemical bath struck by lightning", "Radiation exposure", "Alien encounter"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Anti-Monitor, a cosmic threat in DC Comics, was created during which major storyline?",
+    "choices": ["Infinite Crisis", "Crisis on Infinite Earths", "Flashpoint", "Blackest Night"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "In Marvel Comics, the Infinity Gems are six powerful objects. How many are there in total?",
+    "choices": ["Four", "Five", "Six", "Seven"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Harley Quinn was first introduced in DC Comics through which medium before comic publication?",
+    "choices": ["A video game", "A trading card series", "A comic storyline", "Batman: The Animated Series"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Grant Morrison's meta-fictional series Animal Man explores the relationship between characters and which force?",
+    "choices": ["The Speedforce", "The Red", "Reality itself", "The Multiverse"],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Vertigo Comics, Preacher follows a minister seeking which biblical figure?",
+    "choices": ["Moses", "Jesus", "God", "Gabriel"],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Akira, the iconic manga series by Katsuhiro Otomo, is set in the year __?",
+    "choices": ["2019", "2020", "2026", "2030"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In comics, the term 'retcon' means retroactive __?",
+    "choices": ["Retelling", "Revision", "Continuity", "Rendering"],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  }
+]

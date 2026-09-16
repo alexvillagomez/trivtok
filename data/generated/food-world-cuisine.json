@@ -1,0 +1,278 @@
+[
+  {
+    "text": "What is the traditional Japanese soup base made from fermented soybeans?",
+    "choices": ["Dashi", "Miso", "Tamari", "Shoyu"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Italian pasta shape is named for its resemblance to little ribbons?",
+    "choices": ["Farfalle", "Fettuccine", "Ravioli", "Penne"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the primary ingredient in traditional Thai tom yum soup?",
+    "choices": ["Lemongrass", "Coconut milk", "Fish sauce", "Tamarind"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which spice gives saffron its distinctive yellow color?",
+    "choices": ["Turmeric", "Cumin", "Crocin", "Paprika"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What French cooking technique involves cooking food slowly in its own fat?",
+    "choices": ["Braising", "Confit", "Poaching", "Blanching"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which country is the largest producer of vanilla in the world?",
+    "choices": ["Madagascar", "Tahiti", "Mexico", "Indonesia"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the name of the fermented cabbage dish from Korea?",
+    "choices": ["Banchan", "Kimchi", "Gochugaru", "Doenjang"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which of these is a traditional Spanish cold soup from Andalusia?",
+    "choices": ["Gazpacho", "Paella", "Pulpo a la gallega", "Croquetas"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the main ingredient in Japanese miso paste other than soybeans?",
+    "choices": ["Salt", "Rice koji", "Dashi", "Sake"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which technique is used to make champagne fizzy?",
+    "choices": ["Malolactic fermentation", "Secondary fermentation in bottle", "Carbonation injection", "Pasteurization"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary grain used in risotto?",
+    "choices": ["Barley", "Arborio rice", "Farro", "Bulgur"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Indian spice blend translates to 'five spices'?",
+    "choices": ["Garam masala", "Panch phoron", "Tikka masala", "Chaat masala"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the traditional binding agent in French béarnaise sauce?",
+    "choices": ["Egg yolk", "Cream", "Flour", "Cornstarch"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which country is famous for producing Parmigiano-Reggiano cheese?",
+    "choices": ["France", "Switzerland", "Italy", "Netherlands"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the Spanish term for small appetizers or snacks?",
+    "choices": ["Entree", "Tapas", "Cazuela", "Empanada"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Middle Eastern paste is made from ground sesame seeds?",
+    "choices": ["Hummus", "Tahini", "Za'atar", "Dukkah"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the traditional Mexican hot chocolate made with?",
+    "choices": ["Coffee beans", "Cinnamon and chocolate", "Vanilla extract", "Chili powder only"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which fish is traditionally used in British fish and chips?",
+    "choices": ["Salmon", "Cod", "Halibut", "Haddock"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the Japanese rice seasoning that combines salt, sugar, and vinegar?",
+    "choices": ["Ponzu", "Amzu", "Sushizu", "Wafu"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Asian noodle is made from buckwheat flour?",
+    "choices": ["Ramen", "Soba", "Udon", "Rice vermicelli"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary vegetable in traditional Thai green curry?",
+    "choices": ["Basil", "Thai eggplant", "Long bean", "Green chili"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which spice is derived from the bark of a cinnamon tree?",
+    "choices": ["Nutmeg", "Cinnamon", "Clove", "Cardamom"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the French term for a clear soup or broth?",
+    "choices": ["Bisque", "Consommé", "Velouté", "Potage"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which country produces the majority of the world's cocoa?",
+    "choices": ["Brazil", "Côte d'Ivoire", "Ghana", "Ecuador"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the traditional bread from India that is cooked in a tandoor?",
+    "choices": ["Chapati", "Naan", "Paratha", "Dosa"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Italian rice dish is cooked with broth and white wine?",
+    "choices": ["Polenta", "Risotto", "Osso buco", "Arancini"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the main ingredient in Greek tzatziki sauce?",
+    "choices": ["Feta cheese", "Yogurt", "Olive oil", "Garlic"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which cooking method involves cooking food submerged in oil at a low temperature?",
+    "choices": ["Deep frying", "Sous vide", "Confit", "Braising"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the traditional Scandinavian cured salmon dish?",
+    "choices": ["Gravlax", "Lutefisk", "Herring", "Smoked salmon"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which French sauce is made with brown butter and lemon juice?",
+    "choices": ["Hollandaise", "Beurre noisette", "Béarnaise", "Espagnole"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary ingredient in Italian pesto sauce?",
+    "choices": ["Basil", "Parmesan", "Garlic", "Pine nut"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which Mexican ingredient is a staple corn preparation using alkali treatment?",
+    "choices": ["Polenta", "Masa", "Tortilla chip", "Cornmeal"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of the Japanese fermented soy product used as a condiment?",
+    "choices": ["Wasabi", "Shichimi", "Miso", "Shoyu"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which country is credited with inventing croissants originally?",
+    "choices": ["France", "Austria", "Denmark", "Germany"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the main ingredient in Lebanese kibbeh?",
+    "choices": ["Lamb", "Bulghur wheat", "Chickpea", "Eggplant"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Asian cooking technique uses a round-bottomed pan called a wok?",
+    "choices": ["Steaming", "Stir-frying", "Deep frying", "Boiling"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the primary legume in Indian dal?",
+    "choices": ["Kidney bean", "Lentil", "Chickpea", "Black bean"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which French culinary term means to quickly sear meat in high heat?",
+    "choices": ["Braiser", "Sauté", "Sear", "Poêler"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the traditional Thai fish sauce called?",
+    "choices": ["Nuoc cham", "Nam pla", "Patis", "Bagoong"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which spice is most expensive by weight in the world?",
+    "choices": ["Saffron", "Vanilla", "Cardamom", "Truffle"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary grain in Spanish paella?",
+    "choices": ["Arborio rice", "Short-grain rice", "Bomba rice", "Jasmine rice"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Italian cheese is stretched and kneaded to create its texture?",
+    "choices": ["Ricotta", "Mozzarella", "Pecorino", "Provolone"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the traditional Greek pastry made with phyllo dough and honey?",
+    "choices": ["Baklava", "Galette", "Samosa", "Borek"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which cooking method involves wrapping food in a clay or paper casing?",
+    "choices": ["En papillote", "En croûte", "En terrine", "En cocotte"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the fermented drink made from rice popular in East Asia?",
+    "choices": ["Sake", "Soju", "Baijiu", "Huangjiu"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Middle Eastern spice blend is used in fattoush salad?",
+    "choices": ["Sumac", "Ras el hanout", "Baharat", "Seven spice"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  }
+]

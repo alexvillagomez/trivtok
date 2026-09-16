@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Who is widely credited with coining the term 'Artificial Intelligence' at the 1956 Dartmouth Conference?",
+    "choices": ["John McCarthy", "Alan Turing", "Marvin Minsky", "Grace Hopper"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In what year did Alan Turing propose the famous test for machine intelligence?",
+    "choices": ["1945", "1950", "1956", "1965"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Deep Blue, a computer system that made headlines, defeated a world champion in which game?",
+    "choices": ["Checkers", "Go", "Chess", "Shogi"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What does the acronym AI primarily stand for?",
+    "choices": ["Advanced Internet", "Algorithmic Innovation", "Artificial Intelligence", "Automated Interface"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "AlphaGo famously defeated professional player Lee Sedol in which ancient board game?",
+    "choices": ["Shogi", "Go", "Chess", "Xiangqi"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which of these individuals is renowned for pioneering work in deep learning and neural networks?",
+    "choices": ["Gordon Ramsay", "Yann LeCun", "Steve Jobs", "Richard Stallman"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Machine learning is best described as a subset of AI that does what?",
+    "choices": ["Requires constant human programming", "Learns patterns from data without explicit instructions", "Only works with images", "Needs internet connection to function"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Unimate, the first industrial robot, was installed in a factory in what year?",
+    "choices": ["1956", "1971", "1961", "1975"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who formulated the famous thought experiment known as the Turing Test?",
+    "choices": ["Alan Turing", "John Von Neumann", "Ada Lovelace", "Charles Babbage"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is another name for the Turing Test, as Turing originally called it?",
+    "choices": ["The Intelligence Exam", "The Imitation Game", "The Thinking Machine", "The Cognition Challenge"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which major technology company developed Deep Blue, the chess-playing computer?",
+    "choices": ["Microsoft", "Apple", "IBM", "AT&T"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A chatbot is primarily designed to do what?",
+    "choices": ["Play chess", "Engage in natural language conversation", "Control robots", "Process images"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The Dartmouth Summer Research Project, often called the birth of AI as an academic field, took place in which year?",
+    "choices": ["1950", "1956", "1974", "1966"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "ELIZA, one of the first chatbots, was designed to simulate the responses of a particular professional role. Which one?",
+    "choices": ["Teacher", "Doctor", "Psychotherapist", "Lawyer"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The period roughly between 1974 and 1980 when AI research funding dried up is historically known as what?",
+    "choices": ["The Great Pause", "The First AI Winter", "The Silicon Valley Slump", "The Tech Recession"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Backpropagation is a key algorithm in machine learning. What is it primarily used for?",
+    "choices": ["Storing large datasets", "Undoing computational errors", "Training neural networks by adjusting weights", "Compressing images"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who invented the perceptron, a foundational early neural network model?",
+    "choices": ["Frank Rosenblatt", "Geoffrey Hinton", "Yann LeCun", "Bengio Yoshua"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In what year did IBM's Deep Blue defeat world chess champion Garry Kasparov?",
+    "choices": ["1995", "1996", "1997", "1998"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Supervised learning is characterized by training AI systems using what?",
+    "choices": ["Unlabeled data", "Only visual information", "Labeled training data", "Real-time robot feedback"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary goal of artificial intelligence research?",
+    "choices": ["Building robots that look human", "Replacing all human workers", "Creating machines that can perform intelligent tasks", "Developing faster computers"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The 'Computational Theory of Mind' is most associated with which researcher's work?",
+    "choices": ["Marvin Minsky", "John Searle", "Daniel Dennett", "Jerry Fodor"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Reinforcement learning trains AI by providing what kind of feedback?",
+    "choices": ["Only correct answers", "Rewards and penalties for actions", "Visual images", "Natural language instructions"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does NLP stand for in the context of artificial intelligence?",
+    "choices": ["Network Logic Program", "Neural Language Protocol", "Natural Language Processing", "Neuro-Linguistic Programming"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The 'Chinese Room' is a famous thought experiment questioning whether machines can do what?",
+    "choices": ["Translate languages perfectly", "Truly understand meaning or just manipulate symbols", "Beat humans at games", "See images clearly"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who formulated the 'Chinese Room' argument?",
+    "choices": ["Daniel Dennett", "John Searle", "Hubert Dreyfus", "Tony Atkinson"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Convolutional Neural Networks (CNNs) are particularly well-suited for which type of task?",
+    "choices": ["Translation", "Image processing and recognition", "Music composition", "Game playing"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which company created AlphaGo, the system that defeated Lee Sedol at Go?",
+    "choices": ["Facebook AI Research", "DeepMind", "OpenAI", "Microsoft Research"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Artificial neurons are mathematically modeled after what biological structure?",
+    "choices": ["Muscle fibers", "Biological neurons in the brain", "DNA strands", "Liver cells"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In what year did DeepMind's AlphaGo defeat world Go champion Lee Sedol?",
+    "choices": ["2015", "2016", "2017", "2018"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The 'Symbol Manipulation Hypothesis' in AI proposes that cognition fundamentally involves what?",
+    "choices": ["Physical movement", "Manipulating abstract symbols", "Visual perception only", "Emotional processing"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The interdisciplinary field combining robotics with artificial intelligence is called what?",
+    "choices": ["Mechanical Intelligence", "Embodied AI", "Robotic Computation", "Machine Dynamics"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In AI philosophy, the 'frame problem' refers to what challenge?",
+    "choices": ["Storing information in memory", "Representing relevant knowledge for reasoning and decision-making", "Processing video frames", "Building robot joints"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the 'symbol grounding problem' in artificial intelligence?",
+    "choices": ["Fixing robot feet to the ground", "How symbols acquire real-world meaning", "Storing symbols in databases", "Translating symbols between languages"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Moravec's Paradox suggests what counterintuitive fact about AI?",
+    "choices": ["AI is always slower than humans", "Tasks humans find easy are often hardest for computers", "Robots should always mimic human movement", "AI improves exponentially with data"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who is primarily credited with proposing the 'Good Old Fashioned AI' (GOFAI) paradigm?",
+    "choices": ["John McCarthy", "John Haugeland", "Marvin Minsky", "Herbert Simon"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Transfer learning in deep learning involves doing what?",
+    "choices": ["Moving data between servers", "Using knowledge from one task to improve performance on another", "Transferring robots to new factories", "Combining multiple databases"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the core objective of the Turing Test?",
+    "choices": ["Measure a machine's speed", "Determine if a machine can exhibit intelligent behavior indistinguishable from a human", "Test mathematical abilities", "Verify a computer's memory capacity"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The 'knowledge representation' problem in AI concerns how to do what?",
+    "choices": ["Build faster processors", "Encode knowledge in forms that enable systems to reason effectively", "Store photos", "Connect to the internet"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The 'AI Alignment' problem is fundamentally about ensuring what?",
+    "choices": ["Robots walk in straight lines", "AI systems pursue goals that match human intentions", "Computers stay cool", "Software updates automatically"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The 'Lighthill Report,' which marked the beginning of the first major AI winter, was published in what year?",
+    "choices": ["1970", "1973", "1976", "1980"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is 'common sense reasoning' in the context of AI?",
+    "choices": ["Using only mathematical logic", "Applying everyday knowledge to situations without requiring explicit programmed rules", "Following strict algorithms", "Statistical analysis only"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A Boltzmann machine is a type of what computational model?",
+    "choices": ["Mechanical engine", "Recurrent neural network", "Sorting algorithm", "Steam-powered calculator"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Who developed the 'Society of Mind' theory, proposing that intelligence arises from many simple processes?",
+    "choices": ["Geoffrey Hinton", "Marvin Minsky", "Yann LeCun", "Demis Hassabis"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is 'neural architecture search' (NAS) in machine learning?",
+    "choices": ["Manually programming neural networks", "Automatically designing neural network structures using optimization", "Searching for errors in networks", "Building robots with neural designs"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What distinction does Searle make between 'strong' and 'weak' AI?",
+    "choices": ["Strong AI is faster than weak AI", "Strong AI truly understands; weak AI only simulates intelligent behavior", "Weak AI requires more data", "They are identical terms"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In the science fiction film, which famous robot expressed the desire to become human?",
+    "choices": ["HAL 9000", "Data from Star Trek", "C-3PO", "The Terminator"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Turing Test was designed to address a philosophical question about what?",
+    "choices": ["Computer speed", "Whether machines can truly think or exhibit human-like intelligence", "Data storage capacity", "Robot locomotion"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  }
+]

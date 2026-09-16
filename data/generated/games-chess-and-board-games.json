@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In chess, how many pieces does each player start with?",
+    "choices": ["16", "14", "18", "20"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Which chess piece moves diagonally?",
+    "choices": ["Bishop", "Knight", "Rook", "Queen"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What piece in chess must not be captured or you lose?",
+    "choices": ["King", "Queen", "Rook", "Bishop"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In Monopoly, which property costs the most to purchase?",
+    "choices": ["Boardwalk", "Park Place", "Marvin Gardens", "Pennsylvania Avenue"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In backgammon, how many checkers does each player begin with?",
+    "choices": ["15", "12", "18", "20"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the main goal when playing Go?",
+    "choices": ["Control more territory than your opponent", "Capture all opponent pieces", "Reach the center first", "Make a straight line"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many intersection points are on a standard Go board?",
+    "choices": ["361", "256", "400", "441"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In Monopoly, what amount does each player receive at the start?",
+    "choices": ["$2000", "$1000", "$1500", "$2500"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What ancient Indian game is the ancestor of chess?",
+    "choices": ["Chaturanga", "Shogi", "Tafl", "Stratego"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Scrabble, which two letters have a value of zero?",
+    "choices": ["E and A", "Z and Q", "X and Q", "X and Z"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In Monopoly, which space is famously known as 'Free Parking'?",
+    "choices": ["A space with no action", "A rest corner", "A property you own", "A place to pay"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What term in chess describes sacrificing material for positional advantage?",
+    "choices": ["Gambit", "Tempo", "Zugzwang", "Fianchetto"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In Catan, what must you do when a seven is rolled?",
+    "choices": ["Activate the robber", "Move resources", "Lose a card", "Build free"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In Scrabble, what bonus does the center square provide?",
+    "choices": ["Double word", "Double letter", "Triple letter", "Triple word"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is castling in chess?",
+    "choices": ["A special move with king and rook", "Attacking the back rank", "Promoting a pawn", "Moving backward"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In backgammon, what do you get when rolling doubles?",
+    "choices": ["Move four times the dice total", "One extra move", "Roll again only", "No advantage"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In chess, what is a 'pin'?",
+    "choices": ["A piece that cannot move without exposing a more valuable piece", "Attacking any piece", "Checkmate", "A strong attack"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does 'doubling' mean in backgammon?",
+    "choices": ["Using the cube to increase stakes", "Rolling two dice", "Two simultaneous games", "Two pieces at once"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In chess notation, what square does 'e4' indicate?",
+    "choices": ["The e-file, 4th rank", "Four on the e-file", "A piece name", "A mate pattern"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is en passant in chess?",
+    "choices": ["A special pawn capture after opponent advances twice", "Pawn advance move", "Pawn promotion", "Rook castling"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In chess, what is the first move of the Sicilian Defense by White?",
+    "choices": ["1.e4", "1.d4", "1.c4", "1.Nf3"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Catan, what is the target victory point count to win?",
+    "choices": ["10", "8", "9", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is stalemate in chess?",
+    "choices": ["No legal moves available without check", "The king is mated", "Players agree", "Illegal position"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Go, what is 'atari'?",
+    "choices": ["A group with only one liberty remaining", "A type of piece", "Capturing", "Winning"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which program defeated Garry Kasparov in 1997?",
+    "choices": ["Deep Blue", "AlphaGo", "Rybka", "Stockfish"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Scrabble, the highest single tile value is?",
+    "choices": ["10", "5", "8", "15"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In chess, what is 'fianchetto'?",
+    "choices": ["Developing bishop after pawn advance", "Checkmate type", "Queenside castle", "En passant"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In the Ruy Lopez opening, what is White's third move after 1.e4 e5 2.Nf3 Nc6?",
+    "choices": ["3.Bb5", "3.d4", "3.Nc3", "3.f4"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Go, what is a 'ko' situation?",
+    "choices": ["Recapture creates the same board state", "Winning setup", "Losing pieces", "Territory line"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who was the first world chess champion to exceed a 2800 rating?",
+    "choices": ["Magnus Carlsen", "Kasparov", "Fischer", "Karpov"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is 'opposition' in chess endgames?",
+    "choices": ["Kings opposite with one square between", "Attacking position", "Losing spot", "Sacrifice move"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the Smith-Morra Gambit in chess?",
+    "choices": ["Two pawn sacrifice in Sicilian", "King and rook endgame", "Defensive plan", "Queen sacrifice"],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is 'zugzwang' in chess?",
+    "choices": ["Any move worsens position", "Strong attack", "Checkmate", "Opening type"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which 1851 game is known as chess's 'Immortal Game'?",
+    "choices": ["Anderssen game", "Fischer vs. Spassky", "Kasparov vs. Karpov", "First Championship"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is 'zwischenzug' in chess?",
+    "choices": ["Intermediate move creating counter-threat", "Castle type", "Pawn upgrade", "Losing sacrifice"],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "How old was Magnus Carlsen when he became world chess champion?",
+    "choices": ["19", "22", "25", "28"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In backgammon, the 'home board' is which section?",
+    "choices": ["Last six points for removal", "Starting position", "Middle area", "Opponent start"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the maximum number of first-move options in chess?",
+    "choices": ["20", "8", "16", "32"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Scrabble, which Q-word needs no U?",
+    "choices": ["QI", "QUA", "QUAD", "QUIP"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What does the term 'checkmate' originate from?",
+    "choices": ["Persian 'Shah mat'", "German origins", "French roots", "English tactics"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In backgammon, where do captured pieces enter when returning?",
+    "choices": ["The bar", "Home board", "Starting corner", "Opponent home"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In Monopoly, how much does a player pay to leave jail?",
+    "choices": ["$50", "$25", "Free after turn", "$75"],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What strategic concept in Go balances area and positioning?",
+    "choices": ["Influence and territory", "Territory", "Life forms", "Capture method"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In chess, what does the concept of 'tempo' mean?",
+    "choices": ["Gaining time or initiative", "Game speed", "Pawn structure", "Mate pattern"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the robber's purpose in Catan when activated?",
+    "choices": ["Steal a card from a player", "Block production", "Move resources", "Award points"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  }
+]

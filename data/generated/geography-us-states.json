@@ -1,0 +1,266 @@
+[
+  {
+    "text": "What is the capital of Texas?",
+    "choices": ["Houston", "Dallas", "Austin", "San Antonio"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which state is known as the Sunshine State?",
+    "choices": ["California", "Arizona", "Florida", "Hawaii"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the capital of California?",
+    "choices": ["Los Angeles", "San Francisco", "Sacramento", "San Diego"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which state is the most populous in the US?",
+    "choices": ["Texas", "Florida", "California", "New York"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the capital of New York?",
+    "choices": ["Buffalo", "New York City", "Albany", "Rochester"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which state is the largest by area?",
+    "choices": ["Montana", "California", "Alaska", "Texas"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the smallest state by area?",
+    "choices": ["Vermont", "Connecticut", "Delaware", "Rhode Island"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which state is known as the Lone Star State?",
+    "choices": ["Montana", "Wyoming", "Texas", "Oklahoma"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the capital of Ohio?",
+    "choices": ["Cincinnati", "Cleveland", "Columbus", "Dayton"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which state is known as the Golden State?",
+    "choices": ["Nevada", "Colorado", "California", "Utah"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the capital of Pennsylvania?",
+    "choices": ["Philadelphia", "Pittsburgh", "Harrisburg", "Erie"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which state was the first to ratify the Constitution?",
+    "choices": ["Pennsylvania", "Georgia", "Delaware", "New Jersey"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Georgia?",
+    "choices": ["Savannah", "Augusta", "Atlanta", "Macon"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which state is home to Yellowstone National Park?",
+    "choices": ["Montana", "Idaho", "Wyoming", "Colorado"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the capital of Colorado?",
+    "choices": ["Boulder", "Fort Collins", "Denver", "Colorado Springs"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which state borders both the Atlantic and Pacific Oceans?",
+    "choices": ["Hawaii", "Alaska", "California", "Washington"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the capital of Illinois?",
+    "choices": ["Chicago", "Springfield", "Peoria", "Rockford"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which state is known as the Peach State?",
+    "choices": ["South Carolina", "Georgia", "Florida", "North Carolina"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Michigan?",
+    "choices": ["Detroit", "Lansing", "Grand Rapids", "Ann Arbor"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which state is home to Mount Rushmore?",
+    "choices": ["Montana", "Wyoming", "South Dakota", "North Dakota"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the capital of Arizona?",
+    "choices": ["Tucson", "Phoenix", "Mesa", "Tempe"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which state was the last to join the Union in the lower 48?",
+    "choices": ["Arizona", "New Mexico", "Oklahoma", "Alaska"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the capital of Washington?",
+    "choices": ["Seattle", "Olympia", "Tacoma", "Spokane"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which state is known as the Granite State?",
+    "choices": ["Vermont", "Maine", "New Hampshire", "Massachusetts"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the capital of Nevada?",
+    "choices": ["Las Vegas", "Reno", "Carson City", "Henderson"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which state borders Canada and has the most northern mainland US point?",
+    "choices": ["Alaska", "Montana", "North Dakota", "Minnesota"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the capital of Massachusetts?",
+    "choices": ["Boston", "Worcester", "Springfield", "Cambridge"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which state is home to the Grand Canyon?",
+    "choices": ["Utah", "Arizona", "Nevada", "Colorado"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the capital of Tennessee?",
+    "choices": ["Nashville", "Memphis", "Knoxville", "Chattanooga"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which state is the birthplace of jazz?",
+    "choices": ["Texas", "Louisiana", "Mississippi", "Georgia"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the capital of North Carolina?",
+    "choices": ["Charlotte", "Greensboro", "Raleigh", "Winston-Salem"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which state has the most islands?",
+    "choices": ["Washington", "Alaska", "Florida", "Maine"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the capital of Oregon?",
+    "choices": ["Portland", "Salem", "Eugene", "Bend"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which state is home to Niagara Falls?",
+    "choices": ["Pennsylvania", "New York", "Ohio", "Michigan"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Vermont?",
+    "choices": ["Burlington", "Montpelier", "Rutland", "Bennington"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which state was admitted to the Union second?",
+    "choices": ["Pennsylvania", "Georgia", "New Jersey", "Massachusetts"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the capital of New Mexico?",
+    "choices": ["Las Cruces", "Santa Fe", "Albuquerque", "Rio Rancho"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which state borders the most other states?",
+    "choices": ["Colorado", "New Mexico", "Kentucky", "Tennessee"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the capital of Alabama?",
+    "choices": ["Montgomery", "Birmingham", "Mobile", "Huntsville"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which state is home to the Everglades?",
+    "choices": ["Louisiana", "Georgia", "South Carolina", "Florida"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Connecticut?",
+    "choices": ["Bridgeport", "New Haven", "Hartford", "Stamford"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which state was the 13th to ratify the Constitution, making it official?",
+    "choices": ["New Hampshire", "Rhode Island", "North Carolina", "Massachusetts"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the capital of South Carolina?",
+    "choices": ["Charleston", "Columbia", "Greenville", "Myrtle Beach"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which state has the lowest point in North America?",
+    "choices": ["California", "Nevada", "Utah", "Arizona"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  }
+]

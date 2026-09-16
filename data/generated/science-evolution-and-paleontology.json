@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Who published 'On the Origin of Species' in 1859?",
+    "choices": ["Charles Darwin", "Alfred Russel Wallace", "Jean-Baptiste Lamarck", "Thomas Huxley"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What does natural selection favor in a population?",
+    "choices": ["Traits that help organisms survive and reproduce", "The largest organisms", "The oldest organisms", "Traits that make life harder"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which period is known as the 'Age of Dinosaurs'?",
+    "choices": ["Mesozoic Era", "Paleozoic Era", "Cenozoic Era", "Precambrian"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What are fossils formed from?",
+    "choices": ["Remains of ancient organisms", "Rocks only", "Soil deposits", "Modern bone fragments"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How do scientists determine the age of fossils using radioactive decay?",
+    "choices": ["Radiometric dating", "Visual inspection", "Measuring fossil size", "Counting tree rings"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which mass extinction killed approximately 76% of all species about 66 million years ago?",
+    "choices": ["K-Pg extinction", "Permian extinction", "Triassic extinction", "Ordovician extinction"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What theory explains how giraffes developed long necks over millions of years?",
+    "choices": ["Evolution by natural selection", "Inheritance of acquired traits", "Spontaneous generation", "Divine creation"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which dinosaur is known for its three horns and bony frill?",
+    "choices": ["Triceratops", "Stegosaurus", "Ankylosaurus", "Parasaurolophus"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the study of extinct species called?",
+    "choices": ["Paleontology", "Archaeology", "Anthropology", "Entomology"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Approximately how long ago did the first humans evolve?",
+    "choices": ["2-3 million years", "500,000 years", "10,000 years", "100,000 years"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which hominin species had an upright gait but smaller brain than modern humans?",
+    "choices": ["Australopithecus", "Homo erectus", "Neanderthal", "Homo sapiens"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What evidence supports the theory that birds descended from dinosaurs?",
+    "choices": ["Fossil records showing feathered dinosaurs", "DNA sequences", "Geographic distribution", "Behavioral patterns"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How does an organism acquire genetic mutations during evolution?",
+    "choices": ["Random changes in DNA during replication", "Environmental stress", "Use and disuse of organs", "Conscious effort"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the geologic time period immediately before the Mesozoic Era?",
+    "choices": ["Paleozoic Era", "Cenozoic Era", "Precambrian", "Holocene"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which phenomenon occurs when unrelated species develop similar traits independently?",
+    "choices": ["Convergent evolution", "Divergent evolution", "Coevolution", "Speciation"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does the fossil record show about species change over time?",
+    "choices": ["Gradual transformation and branching patterns", "No change at all", "Sudden appearance of new forms", "Random unrelated variations"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which early hominin is famous for the 'Lucy' fossil found in Ethiopia?",
+    "choices": ["Homo habilis", "Australopithecus afarensis", "Homo erectus", "Australopithecus africanus"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does a cladogram represent in evolutionary biology?",
+    "choices": ["A type of fossil", "Evolutionary relationships and branching patterns", "Rock layers in geology", "Types of dinosaurs"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which non-avian dinosaur likely had the largest brain relative to body size?",
+    "choices": ["Brachiosaurus", "Troodon", "Diplodocus", "Stegosaurus"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the most likely cause of the K-Pg mass extinction 66 million years ago?",
+    "choices": ["Increased volcanic activity alone", "Asteroid impact and its aftermath", "Climate change from natural causes", "Dinosaur overpopulation"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which adaptation helped early humans develop tool-making skills?",
+    "choices": ["Increased bipedalism", "Increased brain size and manual dexterity", "Improved vision", "Faster running speed"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How do paleontologists use comparative anatomy to study evolution?",
+    "choices": ["By studying rock formations", "By comparing bone structures across species", "By analyzing DNA only", "By observing modern animals"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What was the primary food source for early hominins in Africa?",
+    "choices": ["Hunted megafauna exclusively", "Plants, insects, and scavenged meat", "Fish and aquatic organisms", "Seeds and nuts only"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which geologic period saw the emergence of flowering plants?",
+    "choices": ["Triassic Period", "Cretaceous Period", "Jurassic Period", "Paleocene Period"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does the theory of punctuated equilibrium propose?",
+    "choices": ["Evolution never happens", "Species remain stable then change rapidly in brief intervals", "Change is always gradual", "Extinction is instantaneous"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which hominin species was the first to use fire?",
+    "choices": ["Australopithecus", "Homo habilis", "Homo erectus", "Homo neanderthalensis"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What term describes when a population becomes isolated and evolves differently?",
+    "choices": ["Mutation", "Speciation", "Adaptation", "Extinction"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which feature distinguishes Lucy's skeleton from other apes?",
+    "choices": ["Wing-like appendages", "Upright walking bipedalism", "Opposable big toes", "Opposable thumbs only"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What geological evidence suggests Pangaea existed?",
+    "choices": ["Magnetic anomalies on ocean floor", "Fossil distribution and continental fit", "Meteor crater alignments", "Ocean current patterns"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Cambrian creature is often called a 'living fossil' because its design seems highly optimized?",
+    "choices": ["Trilobites", "Anomalocaris", "Opabinia", "Hallucigenia"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How did Alfred Russel Wallace's work relate to Darwin's theory?",
+    "choices": ["He opposed it completely", "He independently developed similar ideas on natural selection", "He only studied plants", "He focused on classification"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does 'molecular clock' estimate in evolutionary studies?",
+    "choices": ["How fast rocks form", "The time since two species diverged based on genetic differences", "Age of fossils in years", "Speed of fossilization"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which feature of the Galapagos finches' beaks demonstrated adaptation?",
+    "choices": ["All beaks were identical", "Beak shape varied by island and food availability", "Beaks never changed", "Beaks changed within one generation"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the significance of the Tiktaalik fossil in human evolution?",
+    "choices": ["It was a early human", "It shows the transition between fish and tetrapods", "It was a dinosaur", "It predates all life"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How many mass extinction events are recognized in Earth's history?",
+    "choices": ["Two", "Five major events", "Ten", "Twenty"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which hominin species coexisted with early modern humans for thousands of years?",
+    "choices": ["Homo habilis", "Homo erectus", "Homo neanderthalensis", "Homo floresiensis"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What role did genetic drift play in evolution?",
+    "choices": ["It always strengthens populations", "Random changes in allele frequencies, especially in small populations", "It only occurs in large populations", "It prevents evolution"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which period experienced the 'Cambrian Explosion' of new body forms?",
+    "choices": ["Ordovician", "Cambrian Period", "Silurian", "Devonian"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What anatomical feature did Archaeopteryx possess that linked dinosaurs to birds?",
+    "choices": ["Fur", "Feathers and reptilian teeth", "Mammalian jaw", "Warm blood"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which mechanism explains how antibiotic resistance spreads in bacteria populations?",
+    "choices": ["Lamarckian inheritance", "Natural selection acting on random mutations", "Conscious adaptation", "Environmental willpower"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How did Homo sapiens first migrate out of Africa?",
+    "choices": ["By boat across oceans", "Land routes through the Middle East and Asia", "Flying", "They never left Africa"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does 'homologous structure' indicate in comparative anatomy?",
+    "choices": ["Structures that serve opposite functions", "Similar structures from common ancestry", "Structures with identical names", "Random similarities"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which theory about human origins emphasizes recent dispersal from Africa?",
+    "choices": ["Multiregional evolution", "Out of Africa hypothesis", "Local divergence theory", "Spontaneous generation"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How does the extinction of one species affect the evolution of others?",
+    "choices": ["No effect", "Opens ecological niches for adaptive radiation", "Slows all evolution", "Stops evolution completely"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does the molecular evidence reveal about the relationship between humans and chimpanzees?",
+    "choices": ["No common ancestor", "Shared a common ancestor 6-7 million years ago", "Humans are unchanged from chimpanzees", "Completely unrelated species"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  }
+]

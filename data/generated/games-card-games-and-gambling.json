@@ -1,0 +1,284 @@
+[
+  {
+    "text": "How many cards are in a standard playing deck?",
+    "choices": ["48", "52", "54", "56"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the highest-ranking hand in five-card poker?",
+    "choices": ["Straight flush", "Royal flush", "Four of a kind", "Full house"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In blackjack, what point value does a King have?",
+    "choices": ["10", "11", "12", "13"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many players are typically seated at a bridge table?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which hand beats a flush in standard poker rankings?",
+    "choices": ["Three of a kind", "Straight", "Full house", "Two pair"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many suits exist in a standard card deck?",
+    "choices": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the lowest possible hand in five-card poker?",
+    "choices": ["High card", "One pair", "Flush", "Straight"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Getting 21 with exactly two cards in blackjack is called a...",
+    "choices": ["Bust", "Push", "Natural", "Standoff"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Texas Hold'em, how many private cards does each player receive?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What card-game term describes betting money put in before cards are dealt?",
+    "choices": ["Check", "Ante", "Blind", "Raise"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which symbol represents hearts in a standard deck?",
+    "choices": ["♠", "♦", "♥", "♣"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many ranks are present in a standard deck?",
+    "choices": ["10", "12", "13", "14"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In poker, what does the term 'fold' mean?",
+    "choices": ["Double your bet", "Withdraw from the hand", "Call the bet", "Check"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the approximate probability of being dealt a pair in five-card poker?",
+    "choices": ["~25%", "~42%", "~50%", "~65%"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In bridge bidding, the goal is primarily to determine which...",
+    "choices": ["Players go first", "Suit becomes trump and the contract level", "Direction is dealer", "Player keeps score"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What advantage does the house retain in European roulette?",
+    "choices": ["2.7%", "5.4%", "7.1%", "10%"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The strategy of dividing identical cards into separate hands in blackjack is called...",
+    "choices": ["Doubling down", "Splitting", "Surrendering", "Standing"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is a 'burn card' in card-game terminology?",
+    "choices": ["A card worth negative points", "A card placed aside before dealing", "A card that is damaged", "A card revealed by accident"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In the card game baccarat, what is the highest possible hand value?",
+    "choices": ["18", "19", "20", "21"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which card game requires bidding contracts in groups of 13 tricks?",
+    "choices": ["Poker", "Bridge", "Piquet", "Rummy"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In poker, what term describes four cards needing one specific rank to complete a straight?",
+    "choices": ["Gutshot", "Open-ended", "Inside draw", "Flush draw"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What percentage of hands should you stand on hard 17 in optimal blackjack?",
+    "choices": ["100%", "80%", "50%", "0%"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In casino craps, the first roll is called the...",
+    "choices": ["Opener", "Come-out roll", "Shooter's chance", "Point roll"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the exact probability of drawing a royal flush in five-card poker?",
+    "choices": ["1 in 100,000", "1 in 649,740", "1 in 2.6 million", "1 in 5 million"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In bridge, what is a 'Yarborough'?",
+    "choices": ["A bid of no trumps", "A hand containing no card higher than 9", "A penalty for revoking", "The dealer's first call"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What mathematical theory helps poker players decide optimal bet sizes?",
+    "choices": ["Kelly Criterion", "Law of large numbers", "Bayes' theorem", "Central limit theorem"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "If both the player and banker reach 9 in baccarat, the outcome is...",
+    "choices": ["Banker wins", "Player wins", "A tie; no one wins", "A push; bets are returned"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In the 18th century, which card game dominated European aristocratic circles?",
+    "choices": ["Whist", "Ombre", "Piquet", "Basset"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The 'Gambler's Fallacy' is the mistaken belief that...",
+    "choices": ["Card games are always fair", "Past results influence future odds", "Doubling bets recovers losses", "House always wins"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In blackjack, a 'soft hand' is one where an Ace is valued as...",
+    "choices": ["1", "11", "Both 1 and 11", "0"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In high-low poker, the hand that wins the 'low' pot must contain...",
+    "choices": ["Cards of different suits", "No pair", "The lowest qualifying hand", "An Ace-high straight"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does 'outs' refer to in poker terminology?",
+    "choices": ["Cards that improve your hand", "The number of players who folded", "Bets placed outside the pot", "Hands you've already played"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In bridge, which suit is conventionally ranked highest?",
+    "choices": ["Hearts", "Diamonds", "Spades", "Clubs"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a 'Grand Slam' in bridge?",
+    "choices": ["Winning all four suits", "Bidding and making all 13 tricks", "A partnership scoring 1000 points", "Going out without a single loss"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In baccarat, the house commission on winning banker bets is typically...",
+    "choices": ["2%", "5%", "10%", "15%"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What fundamental difference exists between straight poker and draw poker?",
+    "choices": ["Draw allows card replacement", "Straight requires betting only once", "Draw uses fewer cards", "Straight is played with 5 cards only"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Why is doubling down in blackjack mathematically justified in certain situations?",
+    "choices": ["The odds favor the player", "You recover previous losses", "It increases house confidence", "Casinos encourage it"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In five-card stud poker, players receive their fifth card...",
+    "choices": ["Face down", "Face up", "Burned before dealing", "After a betting round"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The principle of 'pot odds' in poker helps players decide whether to...",
+    "choices": ["Shuffle the deck", "Call or fold based on expected value", "Raise immediately", "Bet all their chips"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which European region claims to have invented playing cards?",
+    "choices": ["England", "Italy", "Germany", "France"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In blackjack, the dealer must typically hit on a total of 16 or less and stand on...",
+    "choices": ["17 or more", "18 or more", "19 or more", "20 or more"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the primary objective of 'basic strategy' in blackjack?",
+    "choices": ["To guarantee a win", "To minimize house edge over time", "To memorize all card sequences", "To cheat the casino"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Texas Hold'em, the three communal cards revealed together are called the...",
+    "choices": ["Turn", "River", "Flop", "Board"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the historical origin of the term 'card sharp'?",
+    "choices": ["Someone skilled at cards", "A cheater using sharp techniques", "A card that bends sharply", "A player who raises sharply"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In roulette, betting on red or black provides which mathematical advantage?",
+    "choices": ["Exactly even odds", "Slightly favors the player", "Favors the house by 2.7%", "Guarantees a win every 37 spins"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does 'variance' measure in poker statistics?",
+    "choices": ["The average hand strength", "The fluctuation of results around expected value", "The number of betting rounds", "The player's starting position"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In the history of card games, baccarat became popular among...",
+    "choices": ["Peasants", "Italian merchants", "European nobility", "Medieval monks"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  }
+]

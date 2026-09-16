@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which famous pirate's real name was Edward Teach?",
+    "choices": ["Blackbeard", "Captain Kidd", "Henry Morgan", "Calico Jack"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the primary flag of Blackbeard's ship, the Queen Anne's Revenge?",
+    "choices": ["A red cross on black", "A skull with two cutlasses", "A skeleton holding an hourglass", "A black flag with no markings"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In what year was Blackbeard executed in North Carolina?",
+    "choices": ["1718", "1708", "1728", "1715"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which pirate captain was known for his code of laws governing pirate behavior?",
+    "choices": ["Bartholomew Roberts", "Anne Bonny", "Henry Morgan", "William Dampier"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What type of sailing vessel was most favored by Caribbean pirates in the 17th century?",
+    "choices": ["Galleon", "Sloop", "Carrack", "Cog"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which woman pirate sailed with Calico Jack Rackham?",
+    "choices": ["Mary Read and Anne Bonny", "Grace O'Malley", "Ann Darnell", "Margaret Davis"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What was the primary base of operations for Caribbean pirates during the Golden Age?",
+    "choices": ["Hispaniola", "Port Royal, Jamaica", "Tortuga", "The Bahamas"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Captain Henry Morgan raided which Spanish-held city in 1671?",
+    "choices": ["Cartagena", "Panama City", "Santiago", "Havana"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was a 'letter of marque'?",
+    "choices": ["A warning flag used by pirates", "Government authorization to attack enemy ships", "A contract between pirates", "A supply order for ship provisions"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which pirate was famous for his trial in Boston and subsequent execution in 1701?",
+    "choices": ["Captain Kidd", "Blackbeard", "Calico Jack", "Anne Bonny"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What disease was most deadly to pirate crews in the Caribbean?",
+    "choices": ["Typhoid", "Yellow fever", "Dysentery", "Scurvy"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which monarch granted privateering commissions to English sea captains?",
+    "choices": ["King George III", "Queen Elizabeth I", "King Charles II", "King James I"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In what ocean region did the 'Barbary pirates' primarily operate?",
+    "choices": ["Caribbean Sea", "Mediterranean Sea", "Indian Ocean", "Atlantic Ocean"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who sailed the ship 'The Flying Dutchman'?",
+    "choices": ["Hendrik van Decken (legendary)", "Bartholomew Roberts", "Captain Avery", "Edward Low"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What rank did Anne Bonny hold aboard Calico Jack's vessel?",
+    "choices": ["First mate", "Crew member", "Quartermaster", "Bosun"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Dutch explorer and pirate is credited with circumnavigating the world?",
+    "choices": ["Willem Janszoon", "William Dampier", "Jan van Riebeeck", "Cornelis de Houtman"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the 'Pirate Round,' a term used in the late 1600s?",
+    "choices": ["A daily meeting of pirate crews", "The common route between pirate havens", "A voyage route around Africa to the Indian Ocean", "A circle formation used in naval battles"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In what city was Port Royal, a major pirate haven, destroyed by earthquake?",
+    "choices": ["Kingston, Jamaica", "Port Royal, Jamaica", "San Juan, Puerto Rico", "Santo Domingo"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which treaty officially ended privateering in Europe in 1856?",
+    "choices": ["Treaty of Paris", "Paris Declaration Respecting Maritime Law", "Treaty of Utrecht", "Treaty of Westphalia"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What year did Port Royal sink into the sea?",
+    "choices": ["1687", "1692", "1705", "1715"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Who was the most feared Barbary pirate of the 16th century?",
+    "choices": ["Khair ad-Din Barbarossa", "Selim the Sly", "Mustafa the Red", "Hassan the Bold"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What nationality was the pirate 'Captain Avery'?",
+    "choices": ["English", "Scottish", "Dutch", "French"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which ship did Blackbeard capture and rename the Queen Anne's Revenge?",
+    "choices": ["The Royal Fortune", "The Concord", "The Whydah", "The Margaret"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the primary purpose of the Royal Navy during the Age of Piracy?",
+    "choices": ["Exploration", "Suppressing piracy and protecting merchant ships", "Establishing colonies", "Scientific research"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which pirate is credited with sinking over 400 merchant vessels?",
+    "choices": ["Blackbeard", "Bartholomew Roberts", "Captain Kidd", "Henry Morgan"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What commodity was the main target of Indian Ocean pirates?",
+    "choices": ["Cotton", "Spices", "Sugar", "Tea"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In what century did privateering reach its peak in European warfare?",
+    "choices": ["16th", "17th", "18th", "19th"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which pirate captain founded a pirate republic in Madagascar?",
+    "choices": ["James Plantain", "Henry Every", "Thomas Tew", "Adam Baldridge"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What did pirates use a 'Jolly Roger' flag to signal?",
+    "choices": ["Surrender terms", "Position to other pirates", "Intention to attack", "A festive celebration"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which sea dog privateer served under Queen Elizabeth I?",
+    "choices": ["Henry Morgan", "Sir Francis Drake", "William Kidd", "John Hawkins"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What was the likely cause of the mutiny on the HMS Bounty in 1789?",
+    "choices": ["Harsh discipline and poor food", "Low pay and unfair labor", "Disagreement over route", "Crew member's illness"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Caribbean island was known for tobacco and sugar production, attracting pirate attacks?",
+    "choices": ["Barbados", "Hispaniola", "Puerto Rico", "Trinidad"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who was the most prolific pirate of the Golden Age, capturing over 470 ships?",
+    "choices": ["Henry Morgan", "Bartholomew Roberts", "Blackbeard", "Captain Avery"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the 'Articles of Piracy' document that governed pirate crews?",
+    "choices": ["A list of ship inventory items", "Rules of conduct agreed by crew members", "A government proclamation", "A naval strategy guide"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which European nation offered the most lucrative privateering commissions?",
+    "choices": ["France", "Spain", "England", "the Dutch Republic"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What rank held the most authority after the captain on a pirate ship?",
+    "choices": ["Bosun", "Quartermaster", "Master Gunner", "First Mate"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In what region did the pirate Henry Morgan primarily operate?",
+    "choices": ["Indian Ocean", "Mediterranean Sea", "Caribbean", "Atlantic coast of Africa"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which pirate captain is associated with the ship 'The Royal Fortune'?",
+    "choices": ["Bartholomew Roberts", "Blackbeard", "Captain Avery", "Henry Morgan"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What was the primary advantage of sloops over larger ships for pirates?",
+    "choices": ["Greater cargo capacity", "Speed and maneuverability", "More powerful cannons", "Better living quarters"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which pirate was executed by being hanged in irons at Execution Dock in London?",
+    "choices": ["Captain Kidd", "Blackbeard", "Calico Jack", "Henry Morgan"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was 'careening' in naval and pirate terminology?",
+    "choices": ["The practice of steering quickly", "Cleaning and repairing a ship's hull", "A method of signaling distress", "Training new sailors"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which female pirate is known to have fought alongside male crew members in combat?",
+    "choices": ["Grace O'Malley", "Anne Bonny", "Mary Read", "Elizabeth Mainwaring"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What year did the Golden Age of Piracy effectively end?",
+    "choices": ["1750", "1722", "1740", "1735"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which naval power primarily hunted and captured pirates in the Caribbean?",
+    "choices": ["Spanish Royal Navy", "British Royal Navy", "French Navy", "Dutch Navy"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What was the fate of most pirate crews captured by naval authorities?",
+    "choices": ["Imprisonment", "Execution", "Exile to remote islands", "Forced service in the navy"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which famous pirate stronghold in the Indian Ocean was on the island of Anguilla?",
+    "choices": ["Tortuga", "New Providence", "Port Royal", "Morgan's Port"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  }
+]

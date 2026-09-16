@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which is the longest river in the world by total length?",
+    "choices": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the name of the tallest mountain on Earth?",
+    "choices": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "The Amazon River flows primarily through which continent?",
+    "choices": ["Asia", "South America", "Africa", "North America"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which desert is the largest hot desert in the world?",
+    "choices": ["Arabian Desert", "Kalahari Desert", "Sahara Desert", "Gobi Desert"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Rocky Mountains are primarily located in which country?",
+    "choices": ["Canada and the United States", "Mexico and Central America", "Russia and Central Asia", "Scandinavia"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the longest river on the African continent?",
+    "choices": ["Niger River", "Congo River", "Nile River", "Zambezi River"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which mountain peak is located in the Himalayas and is the second tallest in the world?",
+    "choices": ["Kangchenjunga", "K2", "Lhotse", "Makalu"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Grand Canyon is located in which U.S. state?",
+    "choices": ["Utah", "Nevada", "Arizona", "Colorado"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Death Valley, one of the hottest places on Earth, is found in which U.S. state?",
+    "choices": ["Arizona", "Nevada", "California", "Utah"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which of these is the largest freshwater lake system in the world?",
+    "choices": ["Lake Victoria", "Lake Baikal", "The Great Lakes", "Lake Tanganyika"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Mount Kilimanjaro is located in which African country?",
+    "choices": ["Kenya", "Tanzania", "Uganda", "Ethiopia"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The Andes Mountains form the longest mountain range on which continent?",
+    "choices": ["Africa", "Asia", "Europe", "South America"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Congo River, the deepest river in the world, primarily flows through which African country?",
+    "choices": ["Nigeria", "Democratic Republic of the Congo", "Angola", "South Sudan"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which mountain range forms a natural border between France and Italy?",
+    "choices": ["Pyrenees", "Alps", "Carpathians", "Caucasus"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Atacama Desert, one of the driest places on Earth, is located in which country?",
+    "choices": ["Peru", "Argentina", "Chile", "Bolivia"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which river is the longest in Asia?",
+    "choices": ["Yangtze River", "Mekong River", "Brahmaputra River", "Amur River"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Kalahari is a semi-arid sandy savanna located primarily in which African country?",
+    "choices": ["South Africa", "Namibia", "Botswana", "Zimbabwe"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Mount Denali, the tallest peak in North America, is located in which U.S. state?",
+    "choices": ["Colorado", "Washington", "Alaska", "Montana"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Danube is one of Europe's most important rivers. Through how many countries does it flow?",
+    "choices": ["8", "10", "12", "15"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Lake Baikal in Russia is notable for being the world's deepest freshwater lake. Approximately how deep is it?",
+    "choices": ["890 meters", "1,642 meters", "2,200 meters", "3,000 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Tigris and Euphrates rivers flow through which modern-day country to their confluence?",
+    "choices": ["Syria", "Turkey", "Iraq", "Iran"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which of these mountain ranges is located in Central Asia and contains many of the world's highest peaks?",
+    "choices": ["Hindu Kush", "Tian Shan", "Himalayas", "Pamir Mountains"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Patagonian glaciers and fjords are located at the southern end of which mountain range?",
+    "choices": ["Andes Mountains", "Sierra Madre", "Appalachian Mountains", "Cascade Range"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Victoria Falls, one of the world's largest waterfalls, is located on the border between which two African countries?",
+    "choices": ["Kenya and Tanzania", "Zambia and Zimbabwe", "South Africa and Botswana", "Ethiopia and Sudan"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Mekong River flows primarily through Southeast Asia. Which country does it NOT flow through?",
+    "choices": ["Thailand", "Vietnam", "Malaysia", "Cambodia"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Mount Fuji, an iconic volcano, is located in which Asian country?",
+    "choices": ["South Korea", "China", "Japan", "Philippines"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Colorado River creates a natural border between Arizona and which other U.S. state?",
+    "choices": ["Utah", "Colorado", "California", "Nevada"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which is the longest river in Australia?",
+    "choices": ["Murray River", "Darling River", "Lachlan River", "Murrumbidgee River"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Carpathian Mountains form an arc through which European region?",
+    "choices": ["Balkans", "Central and Eastern Europe", "Scandinavia", "Mediterranean"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which of these is the deepest ocean trench in the world?",
+    "choices": ["Mariana Trench", "Tonga Trench", "Kuril-Kamchatka Trench", "Philippine Trench"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Gobi Desert spans much of Mongolia and parts of which other Asian country?",
+    "choices": ["Russia", "China", "Kazakhstan", "North Korea"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Approximately how long is the Great Wall of China's main wall line?",
+    "choices": ["5,500 km", "8,850 km", "13,170 km", "21,196 km"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which mountain peak is the highest in Australia?",
+    "choices": ["Mount Kosciuszko", "Mount Townsend", "Mount Bogong", "Mount Orroral"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Serengeti ecosystem spans the border between Tanzania and which other African country?",
+    "choices": ["Mozambique", "Kenya", "Uganda", "Rwanda"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which is the longest mountain range in the world?",
+    "choices": ["Rocky Mountains", "Appalachian Mountains", "Mid-Ocean Ridge", "Andes Mountains"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Lake Tanganyika is one of Africa's deepest lakes. In which countries is it located?",
+    "choices": ["Ethiopia and Djibouti", "Tanzania, Democratic Republic of the Congo, Burundi, and Zambia", "Malawi and Mozambique", "South Africa and Botswana"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Niger River, Africa's third-longest river, forms which distinctive geographical feature in its middle course?",
+    "choices": ["A vast delta", "A sharp bend", "Underground channels", "Multiple waterfalls"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which volcanic island in Indonesia was almost completely destroyed by an eruption in 1883?",
+    "choices": ["Sumatra", "Java", "Krakatoa", "Bali"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Zambezi River forms which famous waterfall as it descends into a gorge on the Zimbabwe-Zambia border?",
+    "choices": ["Niagara Falls", "Victoria Falls", "Angel Falls", "Iguazu Falls"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Approximately what is the area of the Sahara Desert in square kilometers?",
+    "choices": ["4.6 million km²", "6.7 million km²", "8.5 million km²", "9.2 million km²"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which African country contains the majority of the Kalahari Desert's territory?",
+    "choices": ["Namibia", "Botswana", "South Africa", "Zimbabwe"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Appalachian Mountains span approximately how many kilometers in length?",
+    "choices": ["1,500 km", "2,500 km", "3,500 km", "4,500 km"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Asian mountain pass connects Pakistan and China and is one of the world's highest border crossings?",
+    "choices": ["Khyber Pass", "Karakoram Pass", "Spiti Pass", "Pangong Pass"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Orinoco River, the world's eighth-longest river, is primarily located in which country?",
+    "choices": ["Brazil", "Colombia", "Venezuela", "Guyana"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Mount Elbrus, Europe's tallest peak, is located in the Caucasus Mountains in which country?",
+    "choices": ["Georgia", "Russia", "Azerbaijan", "Armenia"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Namib Desert, one of the oldest deserts on Earth, is primarily located in which country?",
+    "choices": ["South Africa", "Botswana", "Namibia", "Angola"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which Asian mountain range contains K2, the second-highest mountain in the world?",
+    "choices": ["Hindu Kush", "Tian Shan", "Karakoram", "Himalayas"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  }
+]

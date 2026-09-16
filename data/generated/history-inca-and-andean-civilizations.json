@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which emperor is credited with transforming the Inca state into a vast empire?",
+    "choices": ["Manco Capac", "Pachacuti", "Huayna Capac", "Atahualpa"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was Machu Picchu primarily used for?",
+    "choices": ["A military fortress", "A royal residence", "A storage facility", "A religious shrine"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which city served as the capital of the Inca Empire?",
+    "choices": ["Arequipa", "Cusco", "Nazca", "Lima"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In which country is Machu Picchu located?",
+    "choices": ["Bolivia", "Peru", "Ecuador", "Chile"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What system of knotted strings did the Inca use to record information?",
+    "choices": ["Hieroglyphics", "Cuneiform", "Quipus", "Abjad"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who led the Spanish conquest of the Inca Empire?",
+    "choices": ["Francisco Pizarro", "Hernán Cortés", "Diego de Almagro", "Pedro de Valdivia"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was an ayllu in Inca society?",
+    "choices": ["A noble class", "A kinship community unit", "A type of temple", "A military division"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The extensive Inca road network was known by what name?",
+    "choices": ["Camino Real", "Qhapaq Ñan", "Vía Inca", "Choquequirao"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which staple crop was central to Inca agriculture and society?",
+    "choices": ["Wheat", "Maize", "Rice", "Beans"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Inca emperor was executed by Francisco Pizarro?",
+    "choices": ["Manco Capac", "Pachacuti", "Atahualpa", "Huayna Capac"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What was the primary system of taxation in the Inca state?",
+    "choices": ["Monetary tribute", "The mit'a labor obligation", "Trade tariffs", "Agricultural tithes"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In which mountain range did the Inca civilization develop?",
+    "choices": ["The Rockies", "The Andes", "The Atlas", "The Himalayas"],
+    "correctIndex": 1,
+    "difficulty": 0.06
+  },
+  {
+    "text": "Who was Atahualpa's rival during the Inca civil war?",
+    "choices": ["Túpac Amaru", "Huáscar", "Manco Inca", "Titu Cusi"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Moche civilization was known for its exceptional skill in what?",
+    "choices": ["Textiles", "Pottery and portrait vessels", "Stone carving", "Gold working"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which pre-Inca culture created the famous Nazca Lines geoglyphs?",
+    "choices": ["Moche", "Tiwanaku", "Nazca", "Chavín"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was Pachacuti's birth name?",
+    "choices": ["Cusi Yupanqui", "Inti Yupanqui", "Thupa Yupanqui", "Illapa Yupanqui"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Approximately how long was the Qhapaq Ñan road system?",
+    "choices": ["About 15,000 km", "About 40,000 km", "About 60,000 km", "About 25,000 km"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What material formed the foundation of Inca architectural construction?",
+    "choices": ["Adobe bricks", "Cut stone blocks", "Mud and clay", "Timber and thatch"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The ancient city of Tiwanaku was built by which pre-Inca civilization?",
+    "choices": ["Tiwanaku", "Chavín", "Moche", "Nazca"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the primary purpose of the Inca quipu recording system?",
+    "choices": ["Religious records", "Census and accounting", "Calendar tracking", "Military records"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In what year did Francisco Pizarro arrive in Peru?",
+    "choices": ["1492", "1519", "1532", "1550"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Approximately what percentage of South America did Pachacuti's empire control?",
+    "choices": ["About 25%", "About 50%", "About 75%", "Nearly 100%"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which language was the lingua franca of the Inca Empire?",
+    "choices": ["Aymara", "Quechua", "Moche", "Nazca"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Inca emperor claimed descent from which deity?",
+    "choices": ["Viracocha", "Mama Quilla", "Inti the sun god", "Illapa the thunder god"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was a tambo in the Inca road system network?",
+    "choices": ["A sacred temple", "A resting station for travelers", "A market town", "A military garrison"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which Inca emperor introduced comprehensive census-taking with quipus?",
+    "choices": ["Manco Capac", "Pachacuti", "Túpac Yupanqui", "Atahualpa"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How were large stone blocks fitted together in Inca walls?",
+    "choices": ["With lime mortar", "Without mortar or adhesive", "With clay paste", "With copper rivets"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which ancient civilization most directly influenced the Inca culturally?",
+    "choices": ["Chavín", "Moche", "Nazca", "Tiwanaku"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Inca cosmology, what was Cusco considered to be?",
+    "choices": ["The gateway to the afterlife", "The center of the world", "The throne of the sun god", "The navel of the world"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "During whose reign was Machu Picchu constructed?",
+    "choices": ["Manco Capac", "Pachacuti", "Túpac Yupanqui", "Atahualpa"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What agricultural technique did the Inca develop to farm steep mountainous slopes?",
+    "choices": ["Terracing", "Irrigation canals", "Raised bed gardens", "Hydroponics"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Chavín civilization was particularly renowned for what art form?",
+    "choices": ["Ceramic pottery", "Stone carving and relief work", "Textiles", "Metalwork"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In which region of present-day South America did the Moche civilization flourish?",
+    "choices": ["The altiplano", "Northern Peru", "Southern Peru", "Central Peru"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What materials were used primarily in Inca textile production?",
+    "choices": ["Silk and cotton", "Cotton and llama wool", "Hemp and flax", "Alpaca exclusively"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the Inca practice of ritual human sacrifice called?",
+    "choices": ["Capac Cocha", "Inti Raymi", "Qhapaq Ushnu", "Aymoray"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Inca society, what did the mit'a system require of common people?",
+    "choices": ["Military service only", "Agricultural labor obligation", "Religious fasting", "Tribute payments"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How did the Inca preserve potatoes and other crops long-term?",
+    "choices": ["Smoking over fires", "Fermenting in clay vessels", "Freeze-drying into ch'uño", "Salting and drying"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which emperor first unified the fragmented Andean kingdoms into the Inca state?",
+    "choices": ["Manco Capac", "Sinchi Roca", "Pachacuti", "Huayna Capac"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the Inca concept of reciprocal obligation and labor exchange called?",
+    "choices": ["Ayllu", "Ayni", "Mit'a", "Pachacuti"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Into how many provincial sections was the Inca Empire divided?",
+    "choices": ["Two halves", "Four suyos", "Six regions", "Ten provinces"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which major religious ceremony honored the Inca sun god Inti?",
+    "choices": ["Inti Raymi", "Qhapaq Ushnu", "Capac Cocha", "Aymoray"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What social disruption weakened the Inca Empire before Spanish conquest?",
+    "choices": ["A massive plague", "Civil war between heirs", "A devastating drought", "Widespread rebellion"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Inca emperor expanded the empire to its greatest territorial extent?",
+    "choices": ["Túpac Yupanqui", "Pachacuti", "Huayna Capac", "Atahualpa"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the Inca system of recording numbers and data using knotted cords called?",
+    "choices": ["Codex", "Quipu", "Tally marks", "Accounting board"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Inca believed their empire was located at the center of the cosmos, which they called?",
+    "choices": ["Tahuantinsuyu", "Tawantinsuyu", "Cusco", "Qhapaq Nan"],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  }
+]

@@ -1,0 +1,497 @@
+[
+  {
+    "text": "Who rules as the king of the Olympian gods?",
+    "choices": [
+      "Poseidon",
+      "Zeus",
+      "Hades",
+      "Apollo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which goddess is known for wisdom and warfare strategy?",
+    "choices": [
+      "Hera",
+      "Athena",
+      "Aphrodite",
+      "Artemis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who controls the seas in Greek mythology?",
+    "choices": [
+      "Ares",
+      "Poseidon",
+      "Apollo",
+      "Hades"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the primary weapon that the king of gods wields?",
+    "choices": [
+      "Trident",
+      "Thunderbolt",
+      "Sword",
+      "Bow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which goddess is the wife of the king of gods?",
+    "choices": [
+      "Aphrodite",
+      "Hera",
+      "Artemis",
+      "Demeter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is the god of love and beauty?",
+    "choices": [
+      "Artemis",
+      "Hestia",
+      "Aphrodite",
+      "Demeter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What creature guards the entrance to the underworld?",
+    "choices": [
+      "Chimera",
+      "Hydra",
+      "Cerberus",
+      "Phoenix"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which hero slew the Gorgon Medusa?",
+    "choices": [
+      "Theseus",
+      "Heracles",
+      "Perseus",
+      "Achilles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is Medusa's most distinctive feature?",
+    "choices": [
+      "Wings of fire",
+      "Snakes for hair",
+      "Stone hands",
+      "Golden scales"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Who performed twelve legendary labors?",
+    "choices": [
+      "Theseus",
+      "Heracles",
+      "Jason",
+      "Perseus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What famous horse was given to the Trojan city?",
+    "choices": [
+      "Pegasus",
+      "Trojan Horse",
+      "The bronze steed",
+      "Xanthos"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which god is the messenger of the gods?",
+    "choices": [
+      "Ares",
+      "Hermes",
+      "Poseidon",
+      "Hephaestus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the name of the hero who killed the Nemean Lion?",
+    "choices": [
+      "Theseus",
+      "Jason",
+      "Heracles",
+      "Bellerophon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which serpent was defeated by Heracles as one of his labors?",
+    "choices": [
+      "Medusa",
+      "Hydra",
+      "Basilisk",
+      "Python"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who was the father of the Titans?",
+    "choices": [
+      "Zeus",
+      "Cronus",
+      "Uranus",
+      "Oceanus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the name of the underworld god?",
+    "choices": [
+      "Tartarus",
+      "Hades",
+      "Styx",
+      "Charon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which hero went on a quest for the Golden Fleece?",
+    "choices": [
+      "Theseus",
+      "Jason",
+      "Perseus",
+      "Bellerophon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who is the goddess of agriculture and grain?",
+    "choices": [
+      "Hera",
+      "Demeter",
+      "Hestia",
+      "Artemis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the greatest warrior in the Trojan War?",
+    "choices": [
+      "Hector",
+      "Achilles",
+      "Ajax",
+      "Agamemnon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Titan was forced to hold up the sky as punishment?",
+    "choices": [
+      "Hyperion",
+      "Themis",
+      "Atlas",
+      "Coeus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who was the hero that defeated the Minotaur?",
+    "choices": [
+      "Heracles",
+      "Theseus",
+      "Perseus",
+      "Bellerophon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What connects the mortal world to Mount Olympus?",
+    "choices": [
+      "The Styx",
+      "The Rainbow Bridge",
+      "A golden chain",
+      "The World Tree"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which god is the patron of the sun and music?",
+    "choices": [
+      "Hermes",
+      "Apollo",
+      "Helios",
+      "Phoebus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What was the name of the fire stolen for humanity?",
+    "choices": [
+      "Ambition",
+      "Fire",
+      "Knowledge",
+      "Prometheus's gift"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who kidnapped Persephone and took her to the underworld?",
+    "choices": [
+      "Cronus",
+      "Hades",
+      "Poseidon",
+      "Ares"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which of Heracles' labors involved capturing a golden hind?",
+    "choices": [
+      "Third labor",
+      "Fourth labor",
+      "Fifth labor",
+      "Sixth labor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the fated consequence of Achilles' heel in the Trojan War?",
+    "choices": [
+      "Blindness",
+      "Immortality loss",
+      "Death from a wound",
+      "Eternal imprisonment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who was the mother of Achilles?",
+    "choices": [
+      "Thetis",
+      "Hera",
+      "Eos",
+      "Metis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the River of Forgetfulness in the underworld called?",
+    "choices": [
+      "Phlegethon",
+      "Lethe",
+      "Acheron",
+      "Styx"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which monster had a lion's head, goat's body, and serpent's tail?",
+    "choices": [
+      "Basilisk",
+      "Chimera",
+      "Manticore",
+      "Sphinx"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who won the Apple of Discord contest among the goddesses?",
+    "choices": [
+      "Athena",
+      "Hera",
+      "Aphrodite",
+      "Artemis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was Pandora's Box said to contain?",
+    "choices": [
+      "Treasures",
+      "All evils of mankind",
+      "Divine weapons",
+      "Forbidden knowledge"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which hero used a sword made by Hephaestus to fight monsters?",
+    "choices": [
+      "Heracles",
+      "Theseus",
+      "Perseus",
+      "Bellerophon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the name of the winged horse born from Medusa?",
+    "choices": [
+      "Xanthos",
+      "Pegasus",
+      "Arion",
+      "Sleipnir"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "How many Olympian gods were there in total?",
+    "choices": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who was the wife of Hephaestus, god of the forge?",
+    "choices": [
+      "Demeter",
+      "Aphrodite",
+      "Hestia",
+      "Artemis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the name of the Trojan prince who fought Achilles?",
+    "choices": [
+      "Hector",
+      "Paris",
+      "Aeneas",
+      "Patroclus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who was the goddess of the hunt and the moon?",
+    "choices": [
+      "Hera",
+      "Artemis",
+      "Selene",
+      "Hecate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the artifact that Perseus used to avoid Medusa's gaze?",
+    "choices": [
+      "Mirror shield",
+      "Golden helmet",
+      "Adamantine sickle",
+      "Winged sandals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which hero is famous for his strength and his connection to a lion?",
+    "choices": [
+      "Theseus",
+      "Heracles",
+      "Achilles",
+      "Bellerophon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is Tartarus in Greek mythology?",
+    "choices": [
+      "A mountain",
+      "A river",
+      "The deepest part of the underworld",
+      "A city"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who was the son of Poseidon and Amphitrite?",
+    "choices": [
+      "Triton",
+      "Nereus",
+      "Proteus",
+      "Oceanus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What curse did Prometheus face for giving fire to humans?",
+    "choices": [
+      "Eternal darkness",
+      "An eagle eating his liver daily",
+      "Transformation to stone",
+      "Drowning in Styx"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which hero sailed on the Argo with Jason?",
+    "choices": [
+      "Heracles",
+      "Theseus",
+      "Achilles",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the name of the creature half-human, half-bull that lived in a labyrinth?",
+    "choices": [
+      "Centaur",
+      "Minotaur",
+      "Satyr",
+      "Cyclops"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  }
+]

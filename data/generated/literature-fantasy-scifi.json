@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In Tolkien's Middle-earth, what is the Elvish name for 'cool rain'?",
+    "choices": ["Eärendil", "Nimbrethil", "Taurë", "Celegorm"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Isaac Asimov robot novel features Detective Baley and his robot partner?",
+    "choices": ["The Bicentennial Man", "The Naked Sun", "I, Robot", "Foundation"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Frank Herbert's Dune, what is the desert of Arrakis called by its inhabitants?",
+    "choices": ["The Shielded Land", "The Golden Sands", "Shai-Hulud's Realm", "The Dunes"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What species rules the Imperium in Ursula K. Le Guin's Hainish Cycle?",
+    "choices": ["The Ekumen", "Humans", "The Gethenians", "The Orsinians"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who wrote 'Good Omens' with Neil Gaiman?",
+    "choices": ["Douglas Adams", "Terry Pratchett", "Stephen King", "Christopher Moore"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In George R.R. Martin's A Song of Ice and Fire, what does the Night's Watch oath begin with?",
+    "choices": ["Night gathers", "Darkness falls", "Winter comes", "The long night"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the primary food source for spice addiction in Dune?",
+    "choices": ["Sandworm extract", "Melange", "Shield generators", "Mentats"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Terry Pratchett's Disc World sits atop which four creatures?",
+    "choices": ["Turtles", "Elephants", "Dragons", "Leviathans"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Le Guin's The Left Hand of Darkness, the inhabitants of Gethen are primarily:",
+    "choices": ["Telekinetic", "Ambisexual", "Nocturnal", "Aquatic"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the One Ring made of in The Lord of the Rings?",
+    "choices": ["Mithril", "Gold", "Admantine", "Sauron's essence"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which of Asimov's Three Laws of Robotics is the first?",
+    "choices": ["Obey orders", "Preserve self", "Protect humans", "Prioritize logic"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In Dune, Paul Atreides is called Usul by the Fremen. What does this mean?",
+    "choices": ["Desert prophet", "Golden path", "Base of pillar", "Water giver"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Terry Pratchett's Death speaks in which manner?",
+    "choices": ["Whispers", "Riddles", "ALL CAPITALS", "Poetry"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the Shire's primary export in The Hobbit?",
+    "choices": ["Pipeweed", "Mithril", "Lembas", "Starlight"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Foundation, what is the pseudo-science that predicts history?",
+    "choices": ["Psychohistory", "Futurism", "Temporal mechanics", "Predictomancy"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which dragon-rider in Game of Thrones commands the largest dragon Drogon?",
+    "choices": ["Tyrion Lannister", "Missandei", "Daenerys Targaryen", "Jon Snow"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Pratchett's Discworld, what is the name of the main library's librarian?",
+    "choices": ["The Archivist", "Ponder Stibbons", "The Librarian", "Archchancellor"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What technology allows humans to escape the Elysium in Le Guin's Hainish universe?",
+    "choices": ["Faster-than-light drives", "The ansible", "Quantum tunneling", "Shield generators"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In The Hobbit, what does Smaug guard obsessively?",
+    "choices": ["The Arkenstone", "Elven weapons", "Dwarven gold", "His hoard"],
+    "correctIndex": 3,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What colour are Fremen eyes in Dune after years of spice addiction?",
+    "choices": ["Amber", "Blue-within-blue", "Golden", "White"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Asimov's Foundation, who is the Prime Radiant?",
+    "choices": ["Hari Seldon", "The First Foundation", "Trantor", "A holographic archive"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What surname does Frodo Baggins use when hiding from the Nazgûl?",
+    "choices": ["Brandybuck", "Underhill", "Took", "Goodchild"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Game of Thrones, what house sigil is a wolf?",
+    "choices": ["House Stark", "House Baratheon", "House Targaryen", "House Lannister"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What does the phrase 'So it is written' most commonly refer to in Dune?",
+    "choices": ["The Golden Path", "Fremen prophecy", "Paul's teachings", "Imperial law"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Pratchett's Small Gods, what does Brutha become?",
+    "choices": ["A tyrant", "The Prophet", "A scholar", "A torturer"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which ship does Captain Kirk command in Star Trek (Asimov-adjacent)?",
+    "choices": ["Voyager", "Enterprise", "Defiant", "Prometheus"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the name of Tolkien's first published fantasy novel?",
+    "choices": ["The Hobbit", "The Fellowship", "The Silmarillion", "The Prose Edda"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Le Guin's The Lathe of Heaven, what is George Orr's ability?",
+    "choices": ["Telekinesis", "Precognition", "Effective dreaming", "Mind control"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What metal is mithril in The Lord of the Rings?",
+    "choices": ["Silver", "Gold", "Platinum", "Adamant"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In A Clash of Kings, who sits on the Iron Throne after Robert Baratheon?",
+    "choices": ["Stannis", "Joffrey", "Renly", "Daenerys"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What power do Mentats possess in Dune?",
+    "choices": ["Precognition", "Human computers", "Telekinesis", "Spice immunity"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Pratchett's Discworld, what is unusual about the speed of light?",
+    "choices": ["It is slower than sound", "It has multiple speeds", "It varies by location", "It travels backward"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the primary setting of Ursula K. Le Guin's Earthsea series?",
+    "choices": ["A planet", "An archipelago", "A continent", "A parallel universe"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In I, Robot, what is Susan Calvin's profession?",
+    "choices": ["Engineer", "Psychologist", "Robot programmer", "Mathematician"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the Gom Jabbar test in Dune designed to determine?",
+    "choices": ["Spice tolerance", "Human vs machine", "Noble bloodline", "Magical ability"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Pratchett's Hogfather, Death replaces which character?",
+    "choices": ["The Tooth Fairy", "Santa Claus", "Father Christmas", "The Easter Bunny"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the name of the wizard in The Hobbit?",
+    "choices": ["Sauron", "Gandalf", "Elrond", "Beorn"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "In Le Guin's The Dispossessed, what are the two planets?",
+    "choices": ["Gaia and Kether", "Anarres and Urras", "Dune and Caladan", "Terminus and Trantor"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Targaryen ruled before Robert's Rebellion in Game of Thrones?",
+    "choices": ["Rhaegar", "Aerys II", "Baelor", "Daeron"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Dune, what is the water of life?",
+    "choices": ["Spice extract", "Sandworm venom", "Melange secretion", "Imperial elixir"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What does Ged seek to defeat in Le Guin's A Wizard of Earthsea?",
+    "choices": ["A dragon", "A shadow", "A wizard", "A demon"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In Asimov's Foundation series, what is Terminus' secret?",
+    "choices": ["Spaceships", "Atomic power", "The Second Foundation", "Psychohistorical vault"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What colour are the Eyes of Sauron in The Lord of the Rings?",
+    "choices": ["Red", "Gold", "Black", "Green"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Pratchett's Jingo, which two countries go to war?",
+    "choices": ["Sto Lat and Sto Helit", "Ankh-Morpork and Überwald", "Lancre and Llamedos", "Ankh-Morpork and Klatch"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the true name of Celadon in Le Guin's Earthsea?",
+    "choices": ["It is forbidden to speak", "Cevulchild", "Seg", "Unknown even to him"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  }
+]

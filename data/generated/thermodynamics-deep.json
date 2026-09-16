@@ -1,0 +1,536 @@
+[
+  {
+    "text": "What physical quantity is equal for two systems in thermal equilibrium by the zeroth law?",
+    "choices": ["Pressure", "Temperature", "Volume", "Entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Heat is best described as what?",
+    "choices": ["Energy transferred because of a temperature difference", "Internal energy stored in a body", "A state function of matter", "A measure of molecular size"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In SI units, the joule is the standard unit of which thermodynamic quantity?",
+    "choices": ["Temperature", "Pressure", "Energy", "Molar mass"],
+    "correctIndex": 2,
+    "difficulty": 0.11
+  },
+  {
+    "text": "For an ideal gas, which variable is proportional to average molecular kinetic energy?",
+    "choices": ["Volume", "Density", "Pressure", "Absolute temperature"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which temperature scale has absolute zero at 0?",
+    "choices": ["Kelvin", "Celsius", "Fahrenheit", "Rankine only for liquids"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which of the following is a state function?",
+    "choices": ["Work", "Heat", "Path length", "Internal energy"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the chemistry sign convention, when a system does work on the surroundings, w is usually:",
+    "choices": ["Positive", "Negative", "Zero", "Undefined"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The first law of thermodynamics is fundamentally a statement of conservation of what?",
+    "choices": ["Mass", "Momentum", "Energy", "Entropy"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "At constant volume, pressure-volume work for a closed system is:",
+    "choices": ["Always positive", "Always negative", "Always zero", "Equal to heat"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the ideal-gas equation of state for n moles?",
+    "choices": ["PV = nRT", "P/T = nRV", "PT = nRV", "PV/T = R/n"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "For an ideal gas, internal energy depends primarily on which variable?",
+    "choices": ["Temperature", "Pressure", "Volume", "Container shape"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Enthalpy is defined as:",
+    "choices": ["U - PV", "U + PV", "TS - U", "G + TS"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "In a constant-pressure process with only PV work, the heat transferred equals the change in:",
+    "choices": ["Entropy", "Gibbs energy", "Enthalpy", "Helmholtz energy"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which process occurs at constant temperature?",
+    "choices": ["Adiabatic", "Isochoric", "Isobaric", "Isothermal"],
+    "correctIndex": 3,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which process occurs with no heat transfer?",
+    "choices": ["Adiabatic", "Isothermal", "Isobaric", "Polytropic only"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "For a reversible isothermal expansion of an ideal gas, the internal-energy change is:",
+    "choices": ["Positive", "Zero", "Negative", "Path dependent"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which heat capacity is larger for an ideal gas?",
+    "choices": ["Cv", "Cp", "They are equal", "Neither is defined"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "For an ideal gas, Cp - Cv equals:",
+    "choices": ["kB", "0", "R", "RT"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The ratio gamma = Cp/Cv appears most directly in formulas for which kind of ideal-gas process?",
+    "choices": ["Reversible adiabatic", "Free expansion", "Throttling", "Phase change"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "For a reversible adiabatic expansion of an ideal gas, the gas temperature typically:",
+    "choices": ["Stays constant", "Increases", "Decreases", "Becomes undefined"],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "A free expansion of an ideal gas into vacuum does what PV work?",
+    "choices": ["Positive work", "Negative work", "Zero work", "Infinite work"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which law rules out a heat engine that converts all absorbed heat into work in a cycle?",
+    "choices": ["Zeroth law", "First law", "Second law", "Third law"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Entropy of an isolated system in a spontaneous process tends to:",
+    "choices": ["Decrease", "Remain exactly zero", "Increase", "Match enthalpy"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "For a reversible transfer of heat dq_rev at temperature T, the entropy change is:",
+    "choices": ["dS = T dq_rev", "dS = dq_rev/T", "dS = dq_rev + T", "dS = 0"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The Carnot efficiency for reservoirs at Th and Tc is:",
+    "choices": ["1 - Tc/Th", "1 - Th/Tc", "Tc/Th", "Th - Tc"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "No real heat engine operating between the same two thermal reservoirs can be more efficient than a:",
+    "choices": ["Rankine engine", "Carnot engine", "Diesel engine", "Otto engine"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "A refrigerator's coefficient of performance is usually defined as desired cooling divided by:",
+    "choices": ["Heat rejected", "Entropy generated", "Work input", "Cold-reservoir temperature"],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "The third law implies that as temperature approaches 0 K, the entropy of a perfect crystal approaches:",
+    "choices": ["Infinity", "The gas constant", "Zero", "Its enthalpy"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Absolute zero cannot be reached in a finite number of idealized thermodynamic steps according to the:",
+    "choices": ["Unattainability principle", "Boyle law", "Gibbs phase rule", "Virial theorem"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which quantity is minimized at constant temperature and volume for a system approaching equilibrium?",
+    "choices": ["Enthalpy", "Helmholtz free energy", "Internal energy", "Pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which quantity is minimized at constant temperature and pressure for a closed system at equilibrium?",
+    "choices": ["Gibbs free energy", "Internal energy", "Enthalpy", "Heat capacity"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Gibbs free energy is defined as:",
+    "choices": ["H - TS", "U + TS", "PV - TS", "H + TS"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Helmholtz free energy is defined as:",
+    "choices": ["U + TS", "H - TS", "U - TS", "G + PV"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "For a spontaneous process at constant T and P, the Gibbs free energy change is typically:",
+    "choices": ["Positive", "Zero only", "Negative", "Equal to entropy"],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The chemical potential of a pure substance is equal to its molar:",
+    "choices": ["Entropy", "Enthalpy", "Volume", "Gibbs free energy"],
+    "correctIndex": 3,
+    "difficulty": 0.41
+  },
+  {
+    "text": "At phase equilibrium between two phases of the same pure substance, which quantity is equal in both phases?",
+    "choices": ["Chemical potential", "Heat capacity", "Entropy", "Density"],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "The Clapeyron equation relates the slope of a coexistence curve to changes in:",
+    "choices": ["Entropy and volume", "Temperature and pressure only by sign", "Heat capacity and compressibility", "Gibbs energy and enthalpy"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Clausius-Clapeyron equation is commonly used as an approximation for which transition?",
+    "choices": ["Vaporization", "Magnetic alignment", "Elastic deformation", "Nuclear decay"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "On a phase diagram, the critical point marks the end of the liquid-vapor coexistence curve where the two phases become:",
+    "choices": ["Metastable", "Indistinguishable", "Perfectly crystalline", "Chemically reactive"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The triple point of a pure substance is the unique condition where how many phases coexist in equilibrium?",
+    "choices": ["Two", "Three", "Four", "An unlimited number"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "At the boiling point of a liquid at fixed external pressure, the vapor pressure of the liquid is:",
+    "choices": ["Less than the external pressure", "Equal to the external pressure", "Greater than the critical pressure", "Zero"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The van der Waals equation introduces parameters a and b to account roughly for:",
+    "choices": ["Quantum spin and charge", "Attractive forces and finite molecular size", "Viscosity and conductivity", "Entropy and enthalpy"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The compressibility factor Z for a gas is defined as:",
+    "choices": ["PV/(nRT)", "nRT/PV", "Cp/Cv", "dP/dV"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "For an ideal gas, the compressibility factor Z is:",
+    "choices": ["0", "1", "R", "gamma"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The virial expansion expresses departures from ideal-gas behavior as a series in powers of:",
+    "choices": ["Entropy", "Pressure or inverse volume", "Temperature squared only", "Molar mass"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which response function measures fractional volume change with pressure at constant temperature?",
+    "choices": ["Isothermal compressibility", "Thermal expansion coefficient", "Heat capacity ratio", "Fugacity coefficient"],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which response function measures fractional volume change with temperature at constant pressure?",
+    "choices": ["Bulk modulus", "Thermal expansion coefficient", "Joule-Thomson coefficient", "Activity coefficient"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Joule-Thomson coefficient describes how temperature changes with pressure during which process?",
+    "choices": ["Reversible adiabatic compression", "Throttling at constant enthalpy", "Isochoric heating", "Phase equilibrium"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Maxwell relation follows from dU = T dS - P dV?",
+    "choices": ["(dT/dV)_S = -(dP/dS)_V", "(dS/dP)_T = (dV/dT)_P", "(dG/dT)_P = V", "(dA/dV)_T = S"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which natural variables belong to the Gibbs free energy G?",
+    "choices": ["S and V", "T and P", "T and V", "P and S"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which natural variables belong to the Helmholtz free energy A?",
+    "choices": ["T and V", "T and P", "S and P", "U and V"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The fundamental relation dG = -S dT + V dP for a simple closed system implies that at constant temperature, (dG/dP)_T equals:",
+    "choices": ["-S", "U", "V", "H"],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "For a pure ideal gas, mixing two samples at the same T and P increases entropy mainly because the accessible microstates:",
+    "choices": ["Decrease sharply", "Remain unchanged", "Become more numerous", "Collapse to one macrostate"],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "The Gibbs paradox is resolved in statistical mechanics by recognizing that identical particles are:",
+    "choices": ["Classically distinguishable", "Indistinguishable", "Always ionized", "Noninteracting only"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In an ideal solution, Raoult's law states that a component's partial vapor pressure equals its mole fraction times its:",
+    "choices": ["Critical pressure", "Pure-component vapor pressure", "Activity coefficient", "Chemical potential"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "For an ideal gas mixture, Dalton's law states that total pressure equals the:",
+    "choices": ["Product of mole fractions", "Difference of partial pressures", "Sum of partial pressures", "Average molecular pressure"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which cycle is the standard idealized model for spark-ignition internal combustion engines?",
+    "choices": ["Diesel cycle", "Brayton cycle", "Otto cycle", "Rankine cycle"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which cycle is the standard idealized model for compression-ignition engines?",
+    "choices": ["Otto cycle", "Diesel cycle", "Carnot cycle", "Ericsson cycle"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which power cycle is most closely associated with steam power plants?",
+    "choices": ["Rankine cycle", "Otto cycle", "Diesel cycle", "Stirling cycle"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which ideal gas-turbine cycle features heat addition at roughly constant pressure?",
+    "choices": ["Brayton cycle", "Otto cycle", "Rankine cycle", "Carnot cycle"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In the ideal Otto cycle, heat addition is modeled as occurring at constant:",
+    "choices": ["Pressure", "Volume", "Temperature", "Entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In the ideal Diesel cycle, heat addition is modeled as occurring at constant:",
+    "choices": ["Volume", "Entropy", "Pressure", "Temperature"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Regeneration in a Rankine cycle is mainly used to improve efficiency by:",
+    "choices": ["Reducing boiler feedwater irreversibility", "Eliminating the turbine", "Keeping condenser pressure highest", "Making the pump adiabatic"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Superheating steam before turbine entry in a Rankine cycle generally helps by reducing:",
+    "choices": ["Boiler pressure", "Turbine exhaust moisture", "Condenser duty to zero", "Pump work sign"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The coefficient of performance of a heat pump is desired heating delivered divided by:",
+    "choices": ["Heat drawn from outdoors", "Work input", "Heat rejected at the condenser", "Entropy produced"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "A throttling valve in a vapor-compression refrigerator is ideally modeled as approximately:",
+    "choices": ["Isentropic", "Isochoric", "Isenthalpic", "Isothermal"],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which quantity stays constant across an ideal throttling process for a single-stream device?",
+    "choices": ["Temperature", "Entropy", "Enthalpy", "Pressure"],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "In a T-S diagram, the area under a reversible process curve corresponds to:",
+    "choices": ["Work", "Heat transfer", "Pressure drop", "Enthalpy"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In a P-V diagram for a quasi-static process, the area under the curve corresponds to:",
+    "choices": ["Heat transfer", "Entropy generation", "Boundary work", "Temperature rise"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The Boltzmann relation S = k ln W connects entropy to the number of:",
+    "choices": ["Chemical reactions", "Accessible microstates", "Phases present", "Conserved charges"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The canonical ensemble is most appropriate for a system in contact with a heat bath at fixed:",
+    "choices": ["N, V, T", "N, P, T", "mu, V, T", "S, V, N"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The grand canonical ensemble allows fluctuations in particle number while fixing:",
+    "choices": ["S, P, N", "T, V, mu", "H, P, T", "U, V, N"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The microcanonical ensemble describes an isolated system with fixed:",
+    "choices": ["T, V, N", "P, V, N", "E, V, N", "mu, T, V"],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The partition function in statistical mechanics is valuable because many thermodynamic properties can be obtained from its:",
+    "choices": ["Color", "Dimension alone", "Logarithm", "Derivative with respect to volume only"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "For the canonical ensemble, the Helmholtz free energy A is related to the partition function Z by:",
+    "choices": ["A = -kT ln Z", "A = kT Z", "A = ln Z / kT", "A = -RT Z"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "As the size of a system grows very large, relative equilibrium fluctuations usually:",
+    "choices": ["Grow without bound", "Stay exactly constant", "Become smaller", "Change sign"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which statement best captures local equilibrium in irreversible thermodynamics?",
+    "choices": ["Every point is in global equilibrium", "Small regions can be treated as if equilibrium relations hold locally", "Entropy production is forbidden", "Only ideal gases qualify"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Entropy production inside a system is zero only for:",
+    "choices": ["Any spontaneous process", "Reversible processes", "Free expansions", "Chemical reactions"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Fourier's law relates heat flux to the gradient of:",
+    "choices": ["Pressure", "Chemical potential", "Temperature", "Entropy"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Fick's law relates diffusive flux most directly to the gradient of:",
+    "choices": ["Velocity", "Concentration", "Enthalpy", "Heat capacity"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Onsager reciprocal relations concern symmetry between certain coupled flux-force coefficients near:",
+    "choices": ["Critical points only", "Chemical explosions", "Equilibrium", "Absolute zero only"],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which scientist is most directly associated with the statement S = k ln W?",
+    "choices": ["Carnot", "Boltzmann", "Joule", "Clausius"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who is closely associated with establishing the mechanical equivalent of heat through paddle-wheel experiments?",
+    "choices": ["James Joule", "Sadi Carnot", "Josiah Gibbs", "Walther Nernst"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which scientist introduced the concept that no engine can surpass the efficiency of a reversible engine between two reservoirs?",
+    "choices": ["Kelvin", "Carnot", "Planck", "van der Waals"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The term entropy was introduced by:",
+    "choices": ["Clausius", "Maxwell", "Boyle", "Helmholtz"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which scientist gave the famous thought experiment later called Maxwell's demon?",
+    "choices": ["Boltzmann", "Maxwell", "Gibbs", "Thomson"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Maxwell's demon is mainly discussed because it appears to challenge which law?",
+    "choices": ["Zeroth law", "First law", "Second law", "Third law"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A common conceptual trap is to say that cold flows into a room from outside. More precisely, thermodynamics says:",
+    "choices": ["Cold is a conserved substance", "Heat flows from higher temperature to lower temperature", "Cold does work on the room", "Temperature flows like a fluid"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Another conceptual trap is confusing heat and temperature. Temperature measures tendency for thermal energy exchange, while heat is:",
+    "choices": ["A material property stored in kilograms", "Energy in transit", "Always equal to internal energy", "The same as entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "text": "What is the primary function of the diaphragm in respiration?",
+    "choices": ["To filter blood", "To contract and expand the lungs", "To produce mucus", "To destroy pathogens"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Where does gas exchange primarily occur in the lungs?",
+    "choices": ["In the bronchi", "In the trachea", "In the alveoli", "In the larynx"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which structure connects the kidney to the bladder?",
+    "choices": ["Nephron", "Ureter", "Urethra", "Renal artery"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What do the kidneys filter from the blood?",
+    "choices": ["Proteins only", "Red blood cells only", "Waste products and excess water", "Hemoglobin only"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The trachea divides into two tubes called what?",
+    "choices": ["Alveoli", "Bronchi", "Bronchioles", "Capillaries"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the functional unit of the kidney?",
+    "choices": ["Glomerulus", "Nephron", "Loop of Henle", "Collecting duct"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which gas do we inhale and use for cellular respiration?",
+    "choices": ["Nitrogen", "Carbon dioxide", "Oxygen", "Argon"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Where is urine temporarily stored before elimination?",
+    "choices": ["Kidney", "Ureter", "Bladder", "Urethra"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The larynx is commonly known as the voice box. What else does it do?",
+    "choices": ["Filter urine", "Protect the airway during swallowing", "Produce hemoglobin", "Store oxygen"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which part of the nephron filters small molecules from the blood?",
+    "choices": ["Collecting duct", "Loop of Henle", "Glomerulus", "Distal tubule"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What do we exhale that our cells produce during metabolism?",
+    "choices": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The pleural membrane surrounds which organs?",
+    "choices": ["Kidneys", "Heart", "Lungs", "Liver"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the primary site of water and glucose reabsorption in the nephron?",
+    "choices": ["Loop of Henle", "Glomerulus", "Proximal convoluted tubule", "Collecting duct"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many kidneys does a healthy human typically have?",
+    "choices": ["One", "Two", "Three", "Four"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Which hormone regulates water reabsorption in the collecting duct?",
+    "choices": ["Insulin", "Antidiuretic hormone", "Epinephrine", "Glucagon"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The bronchioles eventually lead to structures where gas exchange occurs. What are they?",
+    "choices": ["Bronchi", "Alveoli", "Capillaries", "Arteries"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In the kidney, what is the cup-like structure that collects filtrate called?",
+    "choices": ["Glomerulus", "Bowman's capsule", "Loop of Henle", "Proximal tubule"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What percentage of the body's filtration occurs in healthy kidneys?",
+    "choices": ["Approximately 25%", "Approximately 50%", "Approximately 99%", "Approximately 75%"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which structure prevents backflow of urine from the bladder to the ureters?",
+    "choices": ["Sphincter", "Valve", "Ureterovesical valve", "Pyloric valve"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The epithelial lining of the trachea contains hair-like structures. What are they?",
+    "choices": ["Flagella", "Pili", "Cilia", "Microvilli"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many nephrons does each kidney contain?",
+    "choices": ["About 100,000", "About 500,000", "About 1 million", "About 5 million"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the term for the microscopic blood vessels in the glomerulus?",
+    "choices": ["Venules", "Capillaries", "Arterioles", "Lymph vessels"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Loop of Henle creates a concentration gradient that enables water reabsorption. Which section is permeable to water?",
+    "choices": ["Ascending limb", "Descending limb", "Distal tubule", "Proximal tubule"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which respiratory structure is lined with cartilage rings to keep it open?",
+    "choices": ["Alveoli", "Bronchioles", "Trachea", "Larynx"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the name of the fluid filtered from the blood into Bowman's capsule?",
+    "choices": ["Blood plasma", "Glomerular filtrate", "Urine", "Lymph"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In the lungs, oxygen diffuses into the blood primarily through which structure?",
+    "choices": ["Bronchi", "Trachea", "Alveolar walls", "Pleura"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "How much urine does the kidneys typically produce per day in a healthy adult?",
+    "choices": ["Approximately 0.5 liters", "Approximately 1-2 liters", "Approximately 5 liters", "Approximately 10 liters"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The renal medulla contains structures involved in urine concentration. What are these pyramid-shaped regions called?",
+    "choices": ["Renal cortices", "Renal pyramids", "Renal calyces", "Renal columns"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which part of the nephron is primarily responsible for selective reabsorption of useful substances?",
+    "choices": ["Distal convoluted tubule", "Proximal convoluted tubule", "Collecting duct", "Loop of Henle"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the term for the movement of useful substances back into the blood from the filtrate?",
+    "choices": ["Filtration", "Secretion", "Reabsorption", "Excretion"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In forced expiration, which muscles contract to push air out of the lungs?",
+    "choices": ["Intercostal muscles", "Abdominal muscles", "Scalene muscles", "Sternocleidomastoid muscles"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The glomerular filtration barrier includes three layers. Which is NOT one of them?",
+    "choices": ["Endothelial cells", "Basement membrane", "Epithelial cells", "Muscle layer"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the osmolarity of urine compared to blood plasma in a dehydrated state?",
+    "choices": ["Hypotonic", "Isotonic", "Hypertonic", "Equal"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which branch of the renal artery delivers blood to the glomerulus?",
+    "choices": ["Segmental artery", "Interlobular artery", "Afferent arteriole", "Efferent arteriole"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The countercurrent multiplier mechanism in the Loop of Henle operates between which regions?",
+    "choices": ["Proximal and distal tubules", "Ascending and descending limbs", "Cortex and medulla", "Glomerulus and capsule"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What percentage of filtered glucose is normally reabsorbed in the proximal tubule?",
+    "choices": ["50%", "75%", "99-100%", "25%"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "During inspiration, intrapleural pressure becomes more negative. This occurs because the diaphragm does what?",
+    "choices": ["Relaxes and rises", "Contracts and descends", "Contracts and rises", "Relaxes and descends"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In respiratory physiology, what does the term 'dead space' refer to?",
+    "choices": ["Non-functional lung tissue", "Airways that do not participate in gas exchange", "Areas of the lung with no blood flow", "Collapsed alveoli"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The juxtaglomerular apparatus produces renin in response to what signal?",
+    "choices": ["High blood pressure", "Low sodium concentration", "Low blood pressure", "High osmolarity"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which of the following is reabsorbed by active transport in the proximal convoluted tubule?",
+    "choices": ["Urea", "Creatinine", "Ions and glucose", "Water only"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The peritubular capillaries surrounding the renal tubules receive blood from which vessel?",
+    "choices": ["Renal artery", "Afferent arteriole", "Efferent arteriole", "Interlobar artery"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "During hypoventilation, CO2 levels in blood increase, leading to what effect on pH?",
+    "choices": ["Alkalosis", "No change", "Acidosis", "Neutrality"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is the primary driving force for glomerular filtration?",
+    "choices": ["Osmotic pressure", "Hydrostatic pressure gradient", "Active transport", "Diffusion gradient"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In the collecting duct, aquaporins allow water passage. What triggers their insertion into the cell membrane?",
+    "choices": ["Aldosterone", "Antidiuretic hormone", "Atrial natriuretic peptide", "Renin"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The arteriovenous oxygen content difference across the lungs represents what physiological parameter?",
+    "choices": ["Vital capacity", "Oxygen extraction ratio", "Alveolar-arterial gradient", "Oxygen uptake"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which ion is primarily responsible for maintaining the osmotic gradient in the renal medulla?",
+    "choices": ["Potassium", "Sodium chloride", "Calcium", "Bicarbonate"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "During anaerobic metabolism, tissues produce lactate. How does the kidney handle lactate filtration?",
+    "choices": ["Completely reabsorbed", "Partially reabsorbed and excreted", "Completely excreted", "Secreted into urine"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the theoretical maximum concentration gradient the Loop of Henle can create?",
+    "choices": ["2-fold", "5-fold", "100-200 fold", "1000-fold"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "In response to chronic hypoxia, the kidney increases production of which hormone?",
+    "choices": ["Calcitriol", "Erythropoietin", "Thrombopoietin", "Rennin"],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The Starling forces governing filtration at the glomerulus are most accurately described by which equation?",
+    "choices": ["Net filtration = Kf (Pgc - Pc)", "Net filtration = Kf (Pgc - Pc - πgc + πc)", "Net filtration = Pgc - Pc", "Net filtration = πgc / πc"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "During water deprivation, the osmolarity of urine increases primarily due to enhanced function in which segment?",
+    "choices": ["Proximal tubule", "Distal tubule and collecting duct", "Glomerulus", "Bowman's capsule"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  }
+]

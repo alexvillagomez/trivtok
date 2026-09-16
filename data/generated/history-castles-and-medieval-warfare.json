@@ -1,0 +1,290 @@
+[
+  {
+    "text": "What is the deep trench dug around a castle for defense?",
+    "choices": ["Moat", "Ditch", "Fosse", "Ravine"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which tall tower is the strongest part of a medieval castle?",
+    "choices": ["Tower", "Donjon", "Turret", "Battlement"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the movable bridge across a castle's moat?",
+    "choices": ["Footbridge", "Drawbridge", "Swing bridge", "Bascule"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is a heavy suit of protective metal worn by knights?",
+    "choices": ["Mail", "Cuirass", "Plate armor", "Brigandine"],
+    "correctIndex": 3,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which long pole weapon with a pointed tip was used by infantry?",
+    "choices": ["Lance", "Pike", "Spear", "Halberd"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What medieval siege weapon used a sling to hurl rocks?",
+    "choices": ["Catapult", "Trebuchet", "Ballista", "Mangonel"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which defensive structure has openings for archers to shoot?",
+    "choices": ["Palisade", "Battlement", "Rampart", "Parapet"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the central stronghold within castle walls?",
+    "choices": ["Citadel", "Keep", "Fortress", "Donjon"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which heavy polearm weapon was used by medieval foot soldiers?",
+    "choices": ["Falchion", "Halberd", "Mattock", "Cleaver"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the code of honor followed by medieval knights?",
+    "choices": ["Feudalism", "Heraldry", "Chivalry", "Knighthood"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the outer courtyard or defensive ring of a castle?",
+    "choices": ["Ward", "Curtain", "Bailey", "Barbican"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which medieval fortress type is built on an artificial mound?",
+    "choices": ["Ringwork", "Palisade", "Motte-and-bailey", "Dun"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What ranged weapon did medieval archers use in battle?",
+    "choices": ["Crossbow", "Bow and arrow", "Javelin", "Dart"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which heavy metal pieces protected a knight's lower body?",
+    "choices": ["Greaves", "Cuisses", "Sabatons", "Sollerets"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the narrow vertical opening in a castle wall for shooting?",
+    "choices": ["Embrasure", "Loophole", "Arrow slit", "Murder hole"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which medieval fortification has concentric circular defensive walls?",
+    "choices": ["Shell castle", "Concentric castle", "Norman castle", "Motte castle"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the fortified tower above a castle gate?",
+    "choices": ["Gatehouse", "Barbican", "Turret", "Donjon"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which English king famously built Windsor Castle?",
+    "choices": ["Henry III", "William II", "Edward I", "Richard I"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the covered passage connecting towers in a castle?",
+    "choices": ["Crenellation", "Gallery", "Hoarding", "Corridor"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which combat form involved armored knights on horseback with lances?",
+    "choices": ["Duel", "Joust", "Melee", "Tournament"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the sloped stone wall on the outside of a castle?",
+    "choices": ["Glacis", "Scarp", "Talus", "Counterscarp"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which heavy melee weapon had a curved blade on a long handle?",
+    "choices": ["Halberd", "Glaive", "Falchion", "Poleaxe"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What protective metal mesh armor was worn under plate mail?",
+    "choices": ["Scale mail", "Chainmail", "Lamellar", "Brigandine"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Welsh castle was built by Edward I as a conquest fortress?",
+    "choices": ["Cardiff Castle", "Beaumaris Castle", "Conwy Castle", "Caernarfon Castle"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What wooden defensive structure extended from castle walls?",
+    "choices": ["Palisade", "Hoarding", "Barbican", "Outwork"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which siege weapon used a counterweight to launch projectiles?",
+    "choices": ["Ballista", "Trebuchet", "Catapult", "Mangonel"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the outer defensive wall surrounding a castle?",
+    "choices": ["Palisade", "Curtain wall", "Rampart", "Barbican"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which medieval fortification has a distinctive star-shaped design?",
+    "choices": ["Vauban fortress", "Artillery fort", "Bastion fort", "Star fort"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What opening in castle walls allowed defenders to pour boiling liquids?",
+    "choices": ["Loophole", "Machicolation", "Murder hole", "Chemise"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which famous English castle held medieval political prisoners?",
+    "choices": ["Tower of London", "Windsor Castle", "Westminster", "Dover"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the technique of surrounding a castle to starve its garrison?",
+    "choices": ["Bombardment", "Blockade", "Assault", "Siege"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which famous Crusader fortress fell to Saladin in 1187?",
+    "choices": ["Krak des Chevaliers", "Acre", "Antioch", "Jerusalem"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What metal was primarily used to forge medieval swords?",
+    "choices": ["Iron", "Steel", "Bronze", "Wrought iron"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which famous Syrian fortress resisted numerous Crusader sieges?",
+    "choices": ["Saone Castle", "Qalaat al-Marqab", "Krak des Chevaliers", "Qalaat Saladin"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What armor consisted of overlapping scales sewn to cloth?",
+    "choices": ["Brigandine", "Scale armor", "Lamellar armor", "Plate mail"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which siege weapon resembled a large mechanical seesaw?",
+    "choices": ["Springald", "Mangonel", "Trebuchet", "Ballista"],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is the narrow passage between two castle defensive walls?",
+    "choices": ["Curtain", "Chemise", "Barbican", "Glacis"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which famous medieval castle in France stands on an island?",
+    "choices": ["Chambord", "Mont Saint-Michel", "Fontainebleau", "Versailles"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the crenellated platform at the top of castle walls?",
+    "choices": ["Turret", "Battlement", "Rampart", "Gallery"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which medieval castle is famous for hosting royal tournaments?",
+    "choices": ["Nottingham", "Caerlaverock", "Warwick", "Leeds"],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What polearm combined a spear with an axe or hook blade?",
+    "choices": ["Pike", "Glaive", "Halberd", "Poleaxe"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which medieval castle has multiple layers of concentric walls?",
+    "choices": ["Ring fortress", "Concentric castle", "Layered keep", "Multi-wall citadel"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What protective metal covering protected a knight's face and head?",
+    "choices": ["Bascinet", "Great helm", "Visor", "Coif"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Crusader stronghold in Syria has distinctive concentric towers?",
+    "choices": ["Saone", "Margat", "Krak des Chevaliers", "Qalaat al-Marqab"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What tool used a screw mechanism to load a siege crossbow?",
+    "choices": ["Windlass", "Ratchet", "Pulley", "Lever"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which medieval castle in Wales was built in a concentric design?",
+    "choices": ["Flint", "Beaumaris", "Rhuddlan", "Conway"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What narrow horizontal opening allowed castle defenders to observe enemies?",
+    "choices": ["Loop", "Embrasure", "Arrow slit", "Observation port"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which legendary knight is said to have defended Krak des Chevaliers?",
+    "choices": ["Robert of Normandy", "Baldwin II", "Renaud de Chatillon", "Aimery de Limoges"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  }
+]

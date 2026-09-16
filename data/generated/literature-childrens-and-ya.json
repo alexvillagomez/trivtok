@@ -1,0 +1,278 @@
+[
+  {
+    "text": "In which Hogwarts house is Hermione Granger sorted?",
+    "choices": ["Gryffindor", "Slytherin", "Hufflepuff", "Ravenclaw"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the name of Percy Jackson's godly parent?",
+    "choices": ["Ares", "Poseidon", "Zeus", "Hades"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who wrote 'The Cat in the Hat'?",
+    "choices": ["Roald Dahl", "Dr. Seuss", "Maurice Sendak", "Arnold Lobel"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In 'The Hunger Games,' which nation do the tributes come from?",
+    "choices": ["Oceania", "Panem", "Atlantis", "Europia"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who is the author of the 'Chronicles of Narnia' series?",
+    "choices": ["C.S. Lewis", "J.K. Rowling", "Philip Pullman", "Anthony Horowitz"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In 'Charlie and the Chocolate Factory,' what does Charlie find in his chocolate bar?",
+    "choices": ["A love note", "A photograph", "A Golden Ticket", "A map"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What magical item allows Harry Potter to become invisible?",
+    "choices": ["Pensieve", "Sorting Hat", "Invisibility Cloak", "Marauder's Map"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who wrote 'Matilda'?",
+    "choices": ["Beatrix Potter", "Eric Carle", "Shel Silverstein", "Roald Dahl"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which house is Harry Potter sorted into at Hogwarts?",
+    "choices": ["Gryffindor", "Slytherin", "Hufflepuff", "Ravenclaw"],
+    "correctIndex": 0,
+    "difficulty": 0.03
+  },
+  {
+    "text": "In 'The Lion, the Witch and the Wardrobe,' what is the name of the great lion?",
+    "choices": ["Aragorn", "Aslan", "Smaug", "Mufasa"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What species is Percy Jackson at the beginning of his series?",
+    "choices": ["Wizard", "Demigod", "Vampire", "Werewolf"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who created the 'Winnie-the-Pooh' stories?",
+    "choices": ["A.A. Milne", "Lewis Carroll", "Kenneth Grahame", "Beatrix Potter"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the name of Harry Potter's godfather?",
+    "choices": ["Sirius Black", "Remus Lupin", "Peter Pettigrew", "Rubeus Hagrid"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In 'The Hunger Games,' who is Katniss's hunting partner and friend?",
+    "choices": ["Haymitch", "Gale", "Cinna", "Rue"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What magical object does Harry find in his father's will at Gringotts?",
+    "choices": ["A Pensieve", "A Snitch", "A Marauder's Map", "A Mirror of Erised"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Percy Jackson, what is the currency of the gods?",
+    "choices": ["Denarii", "Gold coins", "Celestial coins", "Drachmas"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does BFG stand for in Roald Dahl's book title?",
+    "choices": ["Big Friendly Giant", "Big Fast Guard", "Big Fantasy Giant", "Bold Funny Guy"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In 'Harry Potter and the Philosopher's Stone,' what is hidden in the Mirror of Erised?",
+    "choices": ["A love potion", "The Sorcerer's Stone", "A horcrux", "Phoenix feathers"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the name of Katniss's younger sister in 'The Hunger Games'?",
+    "choices": ["Rose", "Lucy", "Prim", "Cinna"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which vehicle transports Harry and his friends to Hogwarts for the first time?",
+    "choices": ["Hippogriff", "Thestrals", "Flying Ford Anglia", "Hogwarts Express"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What instrument does the device called the Marauder's Map reveal in Harry Potter?",
+    "choices": ["Locations of all people", "Secret passages", "Hogsmeade secrets", "Hidden gold"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In 'The Hunger Games,' what animal symbol does Katniss become known as?",
+    "choices": ["Phoenix", "Panther", "Mockingjay", "Hummingbird"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What species of bird is Dumbledore's constant companion in Harry Potter?",
+    "choices": ["Raven", "Eagle", "Owl", "Phoenix"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which camp does Percy Jackson attend to train as a demigod?",
+    "choices": ["Camp Half-Blood", "Camp Jupiter", "Camp Godly", "Camp Halfax"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Haymitch's primary role in relation to the tributes in 'The Hunger Games'?",
+    "choices": ["Peacekeeper", "Mentor", "Gamemaker", "Capitol official"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In 'Narnia,' what does Lucy encounter when she first enters the wardrobe's winter world?",
+    "choices": ["A lamp post", "Aslan", "Mr. Tumnus", "The White Witch"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the primary occupation of Katniss's father before his death in 'The Hunger Games'?",
+    "choices": ["Peacekeeper", "Coal miner", "Gamemaker", "Capitol official"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What position does Ron Weasley play on Hogwarts' Quidditch team?",
+    "choices": ["Chaser", "Seeker", "Keeper", "Beater"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the title of the first book in the Percy Jackson series?",
+    "choices": ["The Sea of Monsters", "The Lightning Thief", "The Last Olympian", "The Son of Neptune"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In 'Charlotte's Web,' what is the name of the pig?",
+    "choices": ["Wilbur", "Babe", "Porker", "Chester"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which author wrote 'Where the Wild Things Are'?",
+    "choices": ["Maurice Sendak", "Bill Martin Jr.", "Robert McCloskey", "Tomi Ungerer"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In 'Harry Potter and the Prisoner of Azkaban,' what animal can Sirius Black transform into?",
+    "choices": ["Cat", "Rat", "Dog", "Deer"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What item does Cinna give Katniss as her token in 'The Hunger Games'?",
+    "choices": ["A locket", "A leather bracelet", "A mockingbird pin", "A silver compass"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which sibling does the White Witch particularly manipulate with Turkish Delight in Narnia?",
+    "choices": ["Lucy", "Edmund", "Peter", "Susan"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the name of the school Matilda attends in Roald Dahl's novel?",
+    "choices": ["Crunchem Hall", "Wormwood Academy", "Trunchbull School", "Lavender House"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In 'The Hunger Games: Catching Fire,' which arena contains a clock-like design?",
+    "choices": ["Beach with tropical jungle", "Snow-covered wasteland", "Poisonous fog arena", "Cornucopia arena"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the name of Percy Jackson's summer camp director?",
+    "choices": ["Chiron", "Grover", "Annabeth", "Luke"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In 'Harry Potter,' what plant grows in Professor Sprout's greenhouse?",
+    "choices": ["Devil's Snare", "Mandrake", "Gillyweed", "Devil's Ivy"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the name of Katniss's prep team leader in 'The Hunger Games'?",
+    "choices": ["Effie Trinket", "Portia", "Cinna", "Caesar Flickerman"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In 'Narnia,' what supernatural event causes the eternal winter?",
+    "choices": ["A curse by Aslan", "The White Witch's spell", "A magical prophecy", "Ancient magic"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the forbidden fruit in 'The Magician's Nephew' (Narnia prequel)?",
+    "choices": ["An apple from the garden", "A golden fruit", "A silver plum", "A magical berry"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Percy Jackson, what is the name of the half-sister Percy discovers later in the series?",
+    "choices": ["Thalia", "Hazel", "Annabeth", "Clarisse"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the inscription on the One Ring in 'The Lord of the Rings' (edge of YA border)?",
+    "choices": ["One ring to rule them all", "A secret inscription", "Power and darkness", "The darkness rises"],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "In 'Charlie and the Chocolate Factory,' how many Golden Tickets are hidden?",
+    "choices": ["Three", "Five", "Seven", "Ten"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the house of the evil headmistress in 'Matilda' by Roald Dahl?",
+    "choices": ["Trunchbull Manor", "The Red House", "Crunchem Hall", "Wormwood Estate"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In 'Winnie-the-Pooh,' what is Pooh's favorite food?",
+    "choices": ["Acorns", "Berries", "Honey", "Seeds"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which country is the world's largest producer of coffee by volume?",
+    "choices": ["Brazil", "Vietnam", "Colombia", "Indonesia"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the primary ingredient that gives Champagne its bubbles?",
+    "choices": ["Added CO2", "Natural fermentation yeast", "Carbonation machine", "Sugar crystals"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which tea type undergoes the most oxidation during processing?",
+    "choices": ["White tea", "Green tea", "Black tea", "Oolong tea"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What grain is primarily used to make Scotch whisky?",
+    "choices": ["Corn", "Rye", "Barley", "Wheat"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Margarita cocktail traditionally requires tequila, lime juice, and which other ingredient?",
+    "choices": ["Simple syrup", "Cointreau or triple sec", "Grenadine", "Bitters"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which region of France is famous for producing Bordeaux wine?",
+    "choices": ["Burgundy", "Alsace", "Gironde", "Loire Valley"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What plant are hops harvested from in beer brewing?",
+    "choices": ["A tree", "A climbing vine", "A shrub", "A grass"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which spirit is used as the base for a Moscow Mule?",
+    "choices": ["Rum", "Vodka", "Gin", "Tequila"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the main type of sugar cane liquor produced in the Caribbean?",
+    "choices": ["Tequila", "Cachaça", "Rum", "Aguardiente"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In wine terminology, what does 'tannin' refer to?",
+    "choices": ["Color pigment", "A drying compound from grape skins", "Alcohol content", "Residual sugar"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which country produces the most tea globally?",
+    "choices": ["Japan", "India", "Kenya", "China"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does 'espresso' literally mean in Italian?",
+    "choices": ["Strong coffee", "Pressed out", "Dark roast", "Quick brew"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which type of beer is typically light in color and has low hop bitterness?",
+    "choices": ["IPA", "Pilsner", "Stout", "Porter"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary source of flavor in gin?",
+    "choices": ["Barley", "Juniper berries", "Corn", "Rice"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In champagne production, what is the 'dosage'?",
+    "choices": ["Fermentation time", "A final sugar addition", "Bottle seal type", "Aging duration"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which island nation is famous for producing dark, full-bodied rum?",
+    "choices": ["Jamaica", "Barbados", "Trinidad", "Grenada"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What percentage of alcohol content defines a spirit?",
+    "choices": ["Minimum 15%", "Minimum 20%", "Minimum 40%", "Minimum 50%"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Pina Colada cocktail is the national drink of which Caribbean island?",
+    "choices": ["Cuba", "Dominican Republic", "Puerto Rico", "Haiti"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is sake traditionally made from?",
+    "choices": ["Barley", "Rice", "Millet", "Buckwheat"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which wine region in Italy is known for Chianti?",
+    "choices": ["Veneto", "Tuscany", "Piedmont", "Sicily"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What ingredient distinguishes a Bloody Mary from other cocktails?",
+    "choices": ["Ginger beer", "Tomato juice", "Cranberry juice", "Orange juice"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Oolong tea originates primarily from which country?",
+    "choices": ["Vietnam", "Taiwan", "Japan", "Korea"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the traditional brewing method for Turkish coffee?",
+    "choices": ["Percolation", "Turkish cezve heating", "Pour-over", "Immersion"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which grain forms the base of most Irish whiskey?",
+    "choices": ["Wheat", "Rye", "A mix including unmalted barley", "Corn"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What fruit is Chambord liqueur primarily flavored with?",
+    "choices": ["Raspberry", "Blackberry", "Strawberry", "Blueberry"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In beer production, what is the purpose of malting?",
+    "choices": ["Flavor enhancement", "Converting starches to fermentable sugars", "Color development", "Foam stabilization"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which country did the espresso machine originate from?",
+    "choices": ["France", "Austria", "Italy", "Switzerland"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the Spanish brandy produced in the Jerez region called?",
+    "choices": ["Cognac", "Armagnac", "Sherry", "Grappa"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Vermouth is a fortified wine flavored primarily with which?",
+    "choices": ["Fruit juices", "Herbs and spices", "Oak bark", "Honey"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which fermented tea beverage originated in East Asia?",
+    "choices": ["Kefir", "Kombucha", "Rejuvelac", "Water kefir"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does 'vintage' on a wine label typically indicate?",
+    "choices": ["Quality level", "The year the grapes were harvested", "Bottle size", "Producer name"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which spirit is the base of a Daiquiri cocktail?",
+    "choices": ["Vodka", "Gin", "Rum", "Tequila"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the minimum time required for tequila to be aged to qualify as 'reposado'?",
+    "choices": ["3 months", "6 months", "1 year", "3 years"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In coffee terminology, what does 'crema' refer to?",
+    "choices": ["Added cream", "The golden foam layer on espresso", "Milk foam", "Sugary syrup"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which country produces Ouzo, an anise-flavored spirit?",
+    "choices": ["Turkey", "Greece", "Serbia", "Bulgaria"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What gives Himalayan salt its pinkish color in some water bottles?",
+    "choices": ["Minerals including iron oxide", "Algae", "Added dye", "Copper compounds"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which variety of hop plant provides the most bitterness in beer?",
+    "choices": ["Cascade", "Saaz", "Magnum", "Fuggle"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary flavor compound in anise-flavored spirits?",
+    "choices": ["Cinnamaldehyde", "Anethole", "Eugenol", "Carvacrol"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which wine-producing region in Spain is famous for Rioja?",
+    "choices": ["Catalonia", "Andalusia", "The Basque Country", "La Rioja"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the traditional way to serve Absinthe in France?",
+    "choices": ["Neat in a shot glass", "With sugar and water, dripped through a slotted spoon", "Mixed in a cocktail", "With ice and soda"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Pisco, a grape brandy, originates from which two South American countries?",
+    "choices": ["Argentina and Chile", "Peru and Bolivia", "Peru and Chile", "Brazil and Colombia"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the minimum alcohol content for a wine to be labeled as such?",
+    "choices": ["8%", "10%", "12%", "15%"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In traditional Japanese tea ceremony, which type of tea is whisked into a froth?",
+    "choices": ["Sencha", "Matcha", "Gyokuro", "Bancha"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the primary botanical ingredient in a London Dry Gin beyond juniper?",
+    "choices": ["Cardamom and cinnamon", "Coriander seed", "Licorice root", "Ginger"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which region produces Riesling wine characterized by floral and fruity notes?",
+    "choices": ["Tuscany", "Alsace", "The Rhine Valley in Germany", "Bordeaux"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  }
+]

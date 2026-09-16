@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Which city served as the capital and intellectual center of the Abbasid Caliphate?",
+    "choices": ["Damascus", "Baghdad", "Cairo", "Cordoba"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Al-Khwarizmi's name gave rise to which mathematical term used today?",
+    "choices": ["Algorithm", "Calculus", "Geometry", "Trigonometry"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Ibn Sina's most influential medical work is known as:",
+    "choices": ["The Book of Optics", "The Canon of Medicine", "The Treatise on Anatomy", "The Medical Compendium"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Islamic Golden Age primarily flourished during which time period?",
+    "choices": ["5th–7th centuries", "8th–14th centuries", "15th–17th centuries", "2nd–5th centuries"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Abbasid Revolution of 750 CE shifted power from the Umayyad to which ruling house?",
+    "choices": ["The Abbasid dynasty", "The Mamluk sultanate", "The Fatimid caliphate", "The Ottoman empire"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Al-Kindi earned renown for his work in which disciplines?",
+    "choices": ["Poetry and literature", "Philosophy and science", "Military strategy", "Architecture and engineering"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which mathematical discipline was systematized by Islamic scholars like Al-Khwarizmi?",
+    "choices": ["Algebra", "Calculus", "Topology", "Set theory"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Cordoba, the jewel of Al-Andalus, was primarily known for:",
+    "choices": ["Military domination", "Learning and intellectual culture", "Agricultural production", "Naval power"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The House of Wisdom was established by which Abbasid caliph?",
+    "choices": ["Al-Mansur", "Harun al-Rashid", "Al-Mamun", "Al-Mustaism"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A primary mission of the House of Wisdom involved:",
+    "choices": ["Military planning", "Translating and preserving knowledge", "Producing weapons", "Tax collection"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Ibn Rushd (Averroes) was celebrated for reconciling which two domains?",
+    "choices": ["Science and medicine", "Philosophy and religion", "Math and poetry", "Trade and agriculture"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Islamic astronomers made remarkable observations and compiled tables called:",
+    "choices": ["Ephemerides", "Zij", "Ptolemaic charts", "Celestial maps"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Al-Biruni, the polymathic scholar, undertook extensive research into:",
+    "choices": ["European folklore", "Indian civilization and mathematics", "African trade routes", "Arctic exploration"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Al-Razi, the renowned physician, described a disease distinct from smallpox as:",
+    "choices": ["Cholera", "Measles", "Plague", "Leprosy"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Jabir ibn Hayyan is credited with pioneering methods in which scientific field?",
+    "choices": ["Astronomy", "Chemistry", "Botany", "Geology"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Fatimid Caliphate, a rival center of power, established an intellectual institution in:",
+    "choices": ["Damascus", "Cordoba", "Cairo", "Aleppo"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Al-Khwarizmi's arithmetic treatise, translated into Latin, was titled:",
+    "choices": ["Liber Arithmetice", "Algoritmi de numero Indorum", "Euclid's Elements", "The Book of Calculation"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which cultural and intellectual traditions were actively translated at the House of Wisdom?",
+    "choices": ["Chinese and Indian", "Greek, Persian, and Indian", "Japanese and Korean", "African and Australian"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Silk Road trade routes enriched Islamic civilization primarily through:",
+    "choices": ["Military conquest", "Exchange of goods and ideas", "Religious conversion alone", "Political alliances only"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Hunayn ibn Ishaq made pioneering discoveries in:",
+    "choices": ["Metallurgy", "Ophthalmology", "Botany", "Hydraulics"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Al-Ghazali attempted to reconcile reason with:",
+    "choices": ["Empirical science", "Faith and religious tradition", "Political power", "Economic theory"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Islamic geometric and arabesque patterns reflect:",
+    "choices": ["Religious prohibition on figural art", "Lack of artistic skill", "Preference for European styles", "Military symbolism"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The decimal system and zero, transmitted to Europe, originated from:",
+    "choices": ["Arabic mathematicians", "Indian mathematicians adopted by Islamic scholars", "Roman numerals", "Persian astronomers"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Al-Farabi, known as the 'Second Teacher,' primarily excelled in:",
+    "choices": ["Military leadership", "Philosophy and logic", "Poetry", "Culinary arts"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The astrolabe, an astronomical instrument, was refined and widely used by:",
+    "choices": ["Roman engineers", "Islamic astronomers and navigators", "Chinese scholars", "European monks"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Al-Kindi's influence declined partly due to conflict with:",
+    "choices": ["Christian scholars", "Orthodox theologians of his time", "Greek philosophers", "Indian mathematicians"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The House of Wisdom's translation work preserved texts that might otherwise have been:",
+    "choices": ["Published widely", "Lost to history", "Translated into Chinese", "Rejected by scholars"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Ibn Sina's medical classification included a systematic categorization of:",
+    "choices": ["Trade goods", "Medicinal compounds and diseases", "Poetry meters", "Architectural styles"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Islamic advances in mathematics were reflected in improvements to:",
+    "choices": ["Horse breeding", "Navigation and engineering", "Agriculture alone", "Textile production"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Al-Biruni's calculation of Earth's circumference demonstrated:",
+    "choices": ["Religious dogma", "Sophisticated mathematical and observational methods", "Simple guesswork", "Reliance on ancient authorities"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The decline of the House of Wisdom coincided with political instability and:",
+    "choices": ["The rise of libraries", "Economic prosperity", "Mongol invasions and internal conflict", "Peace treaties"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Jabir ibn Hayyan is often regarded as the founder of:",
+    "choices": ["Algebra", "Alchemy and experimental chemistry", "Cartography", "Rhetoric"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Al-Khwarizmi's work was transmitted to Europe primarily through:",
+    "choices": ["Direct travel to Italy", "Spanish translations in Al-Andalus", "Byzantine intermediaries", "Arabic printing presses"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Ibn Sina's Canon of Medicine remained an authoritative medical text in Europe until the:",
+    "choices": ["12th century", "16th–17th centuries", "9th century", "20th century"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Al-Razi's differentiation of measles from smallpox was based on:",
+    "choices": ["Religious revelation", "Careful clinical observation", "Ancient texts alone", "Astronomical calculations"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Bayt al-Hikma (House of Wisdom) was established under the reign of:",
+    "choices": ["Al-Rashid", "Al-Muqtafi", "Al-Mamun", "Al-Mutasim"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Al-Kindi was exiled during the reign of which caliph due to theological disputes?",
+    "choices": ["Al-Mamun", "Al-Mutawakkil", "Al-Mansur", "Al-Rashid"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Islamic cartography was particularly advanced in mapping:",
+    "choices": ["Arctic regions", "The Mediterranean, Indian Ocean, and African coasts", "The Americas", "South Pole exploration"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Al-Biruni's extensive studies included research into the civilization of:",
+    "choices": ["Ancient Egypt", "Ancient India", "Pre-Columbian Americas", "Scandinavia"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Abbasid Revolution shifted power from:",
+    "choices": ["Umayyad to Abbasid authority", "Fatimid to Umayyad rule", "Byzantine to Umayyad control", "Sassanid to Abbasid rule"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Al-Ghazali's most influential philosophical work critiqued:",
+    "choices": ["Christian theology", "Islamic law", "Greek rational philosophy", "Sufism"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Hunayn ibn Ishaq compiled one of the first detailed treatises on:",
+    "choices": ["Metallurgy", "Anatomy and eye diseases", "Agricultural techniques", "Military engineering"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "The transition from Islamic Golden Age intellectual dominance was influenced by:",
+    "choices": ["Technological stagnation", "Mongol invasions and political fragmentation", "Religious uniformity", "Loss of all libraries"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Islamic physicians developed the concept of the hospital with specialized wards and:",
+    "choices": ["Prisons", "Clinical observation and patient records", "Military barracks", "Farming facilities"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  }
+]

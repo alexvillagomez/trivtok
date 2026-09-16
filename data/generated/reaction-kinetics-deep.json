@@ -1,0 +1,614 @@
+[
+  {
+    "text": "For a reaction that is zero order in A, how does the rate depend on [A]?",
+    "choices": ["It is independent of [A]", "It is proportional to [A]", "It is proportional to [A]^2", "It is inversely proportional to [A]"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which plot is linear for a first-order reaction?",
+    "choices": ["[A] versus t", "ln[A] versus t", "1/[A] versus t", "rate versus 1/[A]"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The units of a first-order rate constant are:",
+    "choices": ["M s^-1", "s^-1", "M^-1 s^-1", "M^2 s^-1"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "For a second-order reaction in a single reactant A, which quantity varies linearly with time?",
+    "choices": ["[A]", "ln[A]", "1/[A]", "[A]^2"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "If doubling [A] causes the rate to quadruple while other concentrations stay fixed, the reaction is what order in A?",
+    "choices": ["Zero order", "First order", "Second order", "Third order"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In the rate law rate = k[A]^1[B]^2, the overall order is:",
+    "choices": ["1", "2", "3", "4"],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What does the Arrhenius equation relate the rate constant to most directly?",
+    "choices": ["Pressure only", "Temperature", "Reaction stoichiometric coefficients", "Equilibrium constant only"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the Arrhenius expression k = Ae^(-Ea/RT), Ea denotes:",
+    "choices": ["Average bond energy", "Activation energy", "Reaction enthalpy", "Collision frequency only"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "A catalyst typically speeds up a reaction by:",
+    "choices": ["Increasing delta G of reaction", "Lowering the activation energy", "Changing the reaction stoichiometry", "Raising the equilibrium constant"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "For a first-order process, the half-life is:",
+    "choices": ["Independent of initial concentration", "Directly proportional to initial concentration", "Inversely proportional to the square of initial concentration", "Equal to 1/k only for zero-order reactions"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which integrated law matches a zero-order reaction?",
+    "choices": ["ln([A]t/[A]0) = -kt", "[A]t = [A]0 - kt", "1/[A]t = 1/[A]0 - kt", "[A]t = [A]0e^(kt)"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "For a second-order reaction in A, the half-life behaves how as [A]0 increases?",
+    "choices": ["It increases", "It decreases", "It stays constant", "It becomes zero"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is the slope of a plot of ln k versus 1/T in the Arrhenius form?",
+    "choices": ["Ea/R", "-Ea/R", "R/Ea", "-R/Ea"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The intercept of an Arrhenius plot of ln k versus 1/T is:",
+    "choices": ["ln A", "Ea/R", "1/A", "delta H double dagger"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "For an elementary unimolecular step A -> products, the rate law is expected to be:",
+    "choices": ["k", "k[A]", "k[A]^2", "k/[A]"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "For an elementary bimolecular step A + B -> products, the rate law is expected to be:",
+    "choices": ["k[A][B]", "k[A+B]", "k[A]/[B]", "k[A]^2[B]^2"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why can the stoichiometric equation of an overall reaction fail to reveal its experimental rate law?",
+    "choices": ["Overall equations never conserve atoms", "Only elementary steps map directly onto molecularity", "Rate laws depend only on products", "The rate law is fixed by equilibrium thermodynamics"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "An intermediate in a reaction mechanism is best described as a species that:",
+    "choices": ["Appears in the overall balanced equation", "Is produced in one step and consumed in another", "Must be a catalyst", "Never affects the rate"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "A catalyst differs from an intermediate because the catalyst is:",
+    "choices": ["Consumed overall", "Regenerated and appears as a reactant in an early step", "Always a gas", "Absent from every mechanistic step"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The molecularity of an elementary step refers to:",
+    "choices": ["The sum of coefficients in the overall reaction", "The number of species colliding or decomposing in that step", "The charge on the activated complex", "The equilibrium constant of the step"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Termolecular elementary steps are comparatively rare mainly because:",
+    "choices": ["They violate conservation of energy", "Simultaneous three-body collisions are unlikely", "They can only occur in liquids", "They always have zero activation energy"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "If a mechanism has a slow first step followed by a fast second step, the observed rate law is often governed primarily by:",
+    "choices": ["The fast step", "The slow step", "The overall stoichiometric coefficients", "The products only"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "The rate-determining step is usually the step with:",
+    "choices": ["The lowest activation energy", "The largest rate constant", "The smallest Gibbs energy change", "The greatest kinetic barrier"],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "For a first-order decay, after two half-lives the fraction of reactant remaining is:",
+    "choices": ["1/2", "1/3", "1/4", "1/8"],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "For a first-order reaction, the time required for [A] to fall from [A]0 to [A]0/8 is:",
+    "choices": ["t1/2", "2t1/2", "3t1/2", "8t1/2"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "In the method of initial rates, reaction orders are inferred by comparing experiments that differ mainly in:",
+    "choices": ["Temperature", "Initial concentrations", "Catalyst color", "Total reaction time"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "If tripling [B] causes the initial rate to increase by a factor of 27, the order in B is:",
+    "choices": ["1", "2", "3", "27"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A pseudo-first-order approximation is most useful when:",
+    "choices": ["All reactants are present in equal concentration", "One reactant is in large excess so its concentration is nearly constant", "The reaction has no intermediate", "Temperature is extremely low"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "For the bimolecular reaction A + B -> products run with [B] in large excess, the observed rate law often becomes:",
+    "choices": ["rate = k[A][B]", "rate = kobs[A]", "rate = kobs[B]", "rate = k/[A]"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The collision theory factor that accounts for the proper relative orientation of reactants is the:",
+    "choices": ["Steric factor", "Compression factor", "van 't Hoff factor", "Activity coefficient"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "According to collision theory, increasing temperature generally raises reaction rate partly because collisions become:",
+    "choices": ["Less frequent but more selective", "More energetic on average", "Independent of activation energy", "Perfectly elastic only"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Transition state theory identifies the activated complex as:",
+    "choices": ["A stable intermediate at minimum energy", "A high-energy configuration near the barrier top", "The final product distribution", "A catalyst resting state only"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "A potential energy diagram's highest point along the reaction coordinate usually corresponds to the:",
+    "choices": ["Reactants", "Activated complex", "Catalyst", "Equilibrium constant"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "For a multistep mechanism, the activation energy controlling the observed rate is most closely tied to:",
+    "choices": ["The fastest elementary step", "The highest relevant barrier from the resting state", "The reaction enthalpy only", "The product stability alone"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "In a zero-order reaction, the concentration-time graph of [A] versus t is:",
+    "choices": ["An upward curve", "A horizontal line", "A straight line with negative slope", "A straight line with positive slope"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The half-life for a zero-order reaction is given by:",
+    "choices": ["0.693/k", "1/(k[A]0)", "[A]0/(2k)", "2/(k[A]0^2)"],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which statement about first-order kinetics is correct?",
+    "choices": ["Its half-life decreases as [A]0 increases", "Its half-life is constant for a given k", "A plot of [A] versus t is linear with slope -k", "The units of k are M^-1 s^-1"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "For a second-order reaction in A, the units of k are:",
+    "choices": ["s^-1", "M s^-1", "M^-1 s^-1", "M^-2 s^-1"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "If a reaction is first order, reducing reactant concentration to one-third changes the instantaneous rate by what factor?",
+    "choices": ["1/9", "1/3", "3", "9"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the significance of a negative slope on an Arrhenius plot?",
+    "choices": ["The activation energy is negative by definition", "k decreases as T increases", "ln k decreases as 1/T increases", "The reaction must be zero order"],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The pre-exponential factor A in the Arrhenius equation is often associated with:",
+    "choices": ["Collision frequency and orientation effects", "Reaction enthalpy alone", "Product yield only", "Equilibrium conversion only"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "If two reactions have the same A but different Ea, at the same temperature the faster reaction is the one with:",
+    "choices": ["Larger Ea", "Smaller Ea", "Larger delta H", "Smaller molecularity"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "A reaction coordinate diagram for a catalyzed pathway compared with an uncatalyzed one usually shows:",
+    "choices": ["A lower barrier and unchanged reactant-product energy difference", "A higher barrier and lower product energy", "No change in barrier but lower reactant energy", "A different overall stoichiometry"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Homogeneous catalysis means the catalyst and reactants are typically in:",
+    "choices": ["Different phases", "The same phase", "A plasma only", "Separate containers"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Heterogeneous catalysis often involves reaction at:",
+    "choices": ["The gas bulk only", "The catalyst surface", "The solvent vapor", "The container wall regardless of catalyst"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "When a catalyst surface is saturated with reactant, the observed rate can become approximately:",
+    "choices": ["Second order in reactant", "First order in reactant", "Zero order in reactant", "Inverse first order in reactant"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A chain reaction propagation step is one that:",
+    "choices": ["Consumes radicals without replacing them", "Produces radicals that continue the chain", "Creates only stable final products", "Must be the slowest step"],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A chain termination step typically:",
+    "choices": ["Forms radicals from stable molecules", "Removes reactive chain carriers", "Occurs only before initiation", "Raises the equilibrium constant"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Steady-state treatment of an intermediate usually assumes its concentration:",
+    "choices": ["Is exactly zero", "Remains approximately constant because its rate of formation and consumption nearly balance", "Equals the catalyst concentration", "Always increases linearly with time"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The pre-equilibrium approximation is most appropriate when:",
+    "choices": ["A slow step is preceded by a fast reversible step", "Every step is irreversible", "The first step is always rate determining and irreversible", "Products are absent"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "If a mechanism begins with fast A + B equilibrium to form I, followed by slow I -> products, the rate law often contains:",
+    "choices": ["Only product concentrations", "The equilibrium expression from the first step multiplied into the slow-step rate", "No dependence on A or B", "Only the stoichiometric sum A + B"],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which observation most strongly suggests that a proposed one-step mechanism is inconsistent with experiment?",
+    "choices": ["The overall reaction is balanced", "The measured rate law disagrees with the molecularity predicted for that elementary step", "The products are thermodynamically favored", "The reaction is exothermic"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "For the elementary reaction 2A -> products, the molecularity is:",
+    "choices": ["1", "2", "3", "It is undefined for elementary steps"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "For the elementary reaction 2A -> products, the expected rate law is:",
+    "choices": ["k[A]", "k[A]^2", "2k[A]", "k/[A]"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What happens to the half-life of a second-order reaction in A when the initial concentration is doubled?",
+    "choices": ["It doubles", "It halves", "It stays the same", "It becomes four times larger"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The differential rate law expresses rate as a function of:",
+    "choices": ["Time-integrated concentration changes only", "Instantaneous concentrations", "Only the equilibrium constant", "Molecular masses"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "The integrated rate law is especially useful for determining:",
+    "choices": ["How concentration changes over finite time intervals", "Only the product identities", "Whether a catalyst is present from stoichiometry", "The bond dissociation energy directly"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "A linear plot of 1/[A] versus t with positive slope indicates what kinetics in A?",
+    "choices": ["Zero order", "First order", "Second order", "Third order"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "If ln[A] versus t is linear and slopes downward, the slope equals:",
+    "choices": ["k", "-k", "1/k", "-1/k"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "For a first-order reaction, the time to reach 25% of the initial concentration is:",
+    "choices": ["One half-life", "Two half-lives", "Three half-lives", "Four half-lives"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "If increasing temperature from T1 to T2 increases k substantially, the reaction likely has:",
+    "choices": ["A nonzero activation barrier", "No collisions", "Negative absolute temperature", "Zero molecularity"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "A larger activation energy generally makes a rate constant more sensitive to temperature because:",
+    "choices": ["The slope magnitude in ln k versus 1/T becomes larger", "The pre-exponential factor must vanish", "The reaction order increases automatically", "The equilibrium constant becomes independent of T"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which quantity is not changed by adding a catalyst?",
+    "choices": ["Activation energy of the catalyzed path", "Mechanistic pathway", "Forward and reverse rates at a given nonequilibrium state", "Equilibrium constant"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "An inhibitor decreases reaction rate most directly by:",
+    "choices": ["Lowering the barrier or blocking active pathways less effectively than a catalyst", "Interfering with the mechanism or active sites", "Changing atom conservation", "Making the reaction impossible thermodynamically"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "For consecutive first-order reactions A -> B -> C, species B often shows what time profile?",
+    "choices": ["It stays exactly constant", "It rises to a maximum and then falls", "It decreases monotonically from t = 0", "It is absent at all times"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In a multistep mechanism, a detectable intermediate corresponds on an energy diagram to:",
+    "choices": ["A local minimum between two maxima", "The final maximum only", "The lowest-energy reactant conformer", "The slope of the Arrhenius plot"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "If the slow step is A + I -> products and I is an intermediate produced in a fast first step, eliminating I from the rate law usually requires:",
+    "choices": ["A mechanistic approximation such as steady state or pre-equilibrium", "Changing the units of k", "Ignoring the slow step", "Setting all concentrations equal"],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Reaction order is determined from:",
+    "choices": ["The balanced overall equation only", "Experimental rate behavior", "The sign of delta G only", "The molecular formula of the catalyst"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Molecularity is defined only for:",
+    "choices": ["Overall reactions", "Elementary steps", "Catalyzed reactions", "Equilibrium mixtures"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "If an overall reaction is A + 2B -> products, which statement must be true?",
+    "choices": ["The rate law is k[A][B]^2", "The mechanism contains a termolecular elementary step", "Nothing about the rate law follows without mechanistic information", "The reaction is third order overall"],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The ratio k2/k1 for the same reaction at two temperatures is described by an Arrhenius relation involving:",
+    "choices": ["Only the reaction order", "Ea and the two temperatures", "Only the stoichiometric coefficients", "The equilibrium constant alone"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A negative reaction order in one species most often indicates:",
+    "choices": ["The species acts as an inhibitor or participates in a more complex mechanism", "The rate law violates dimensional analysis", "The species must be a product only", "The mechanism is necessarily elementary"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "When a reactant adsorbs strongly on a catalyst surface, increasing its concentration further may fail to increase the rate because:",
+    "choices": ["The catalyst can become surface-saturated", "The equilibrium constant becomes zero", "Activation energy must become infinite", "The reaction order becomes fixed at two"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A plot of concentration versus time that curves downward but does not form a straight line rules out which order if [A] is plotted directly?",
+    "choices": ["Zero order", "First order", "Second order", "It rules out none of them"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "For an elementary reversible step A + B <-> C, the forward rate is typically written as:",
+    "choices": ["kf[A][B]", "kr[C]", "K[A][B]/[C]", "kf[C]"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In the steady-state derivation for a reactive intermediate I, one commonly sets:",
+    "choices": ["d[I]/dt approximately equal to 0", "[I] exactly equal to [A]0", "rate equal to equilibrium constant", "Ea equal to 0"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A mechanistic proposal is strengthened if it correctly predicts:",
+    "choices": ["Only the sign of delta H", "The experimental rate law and any observed intermediates", "That products are more stable than reactants", "Only the balanced equation"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "The Eyring form of rate theory most directly introduces which activation quantity beyond Ea-like behavior?",
+    "choices": ["Activation entropy", "Molar volume of products only", "Heat capacity ratio", "Catalyst density"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A large positive activation entropy generally suggests a transition state that is:",
+    "choices": ["More disordered relative to reactants", "Lower in energy than products", "Always associated with zero-order kinetics", "Independent of molecularity"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "For diffusion-controlled reactions in solution, the rate can be limited mainly by:",
+    "choices": ["How quickly reactants encounter one another", "The equilibrium constant only", "The product vapor pressure", "The heat capacity of the solvent"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A kinetic isotope effect is most commonly used to infer:",
+    "choices": ["Whether a bond to the isotopically labeled atom is involved in the rate-limiting transition state", "The sign of the equilibrium constant", "The exact solvent viscosity", "The stoichiometric coefficient of the catalyst"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "If replacing H with D substantially slows a reaction, that often indicates:",
+    "choices": ["A primary kinetic isotope effect", "A zero-order mechanism", "No bond to H is involved", "The catalyst has decomposed"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In a Lindemann-type unimolecular mechanism, the role of collisions is to:",
+    "choices": ["Directly change products into reactants", "Energize a molecule before it decomposes", "Eliminate the need for intermediates", "Force the reaction to be second order at all pressures"],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A hallmark of pressure-dependent unimolecular kinetics is that the observed order can change because:",
+    "choices": ["Collisional activation and deactivation compete with decomposition", "Stoichiometry changes with pressure", "Equilibrium constants cease to exist", "The Arrhenius equation fails dimensionally"],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Michaelis-Menten form for enzyme kinetics shows rate saturation at high substrate concentration because:",
+    "choices": ["All enzyme active sites approach occupancy", "The equilibrium constant becomes negative", "Substrate stops colliding with enzyme", "The reaction becomes uncatalyzed"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In Michaelis-Menten kinetics, when [S] is much smaller than KM, the rate is approximately:",
+    "choices": ["Zero order in substrate", "First order in substrate", "Second order in substrate only", "Independent of enzyme concentration"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "When [S] is much larger than KM in Michaelis-Menten kinetics, the rate is approximately:",
+    "choices": ["First order in substrate", "Second order in substrate", "Zero order in substrate", "Inverse first order in substrate"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A Lineweaver-Burk plot linearizes Michaelis-Menten data by plotting:",
+    "choices": ["v versus [S]", "1/v versus 1/[S]", "ln v versus t", "v/[S] versus [S]^2"],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Competitive inhibition in classic enzyme kinetics is characterized by inhibitor binding primarily to:",
+    "choices": ["The free enzyme active site", "The ES complex only", "The product only", "The solvent shell"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "The induction period sometimes observed in autocatalytic reactions occurs because:",
+    "choices": ["A product that catalyzes the reaction must build up first", "Activation energy is undefined at t = 0", "Autocatalysis always begins at equilibrium", "Rate laws cannot describe such systems"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In autocatalysis, one product species often:",
+    "choices": ["Suppresses the forward rate", "Catalyzes its own formation pathway", "Eliminates intermediates from the mechanism", "Forces zero-order behavior at all times"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does it mean if the experimentally determined rate law is fractional order in a reactant?",
+    "choices": ["The data are necessarily wrong", "The mechanism is complex and not representable by a single elementary step in that species", "The reaction must occur in the gas phase", "The catalyst is consumed overall"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The Bronsted relation in acid-base catalysis connects changes in rate with changes in:",
+    "choices": ["Acid strength of the catalyst", "Molecular weight of the solvent", "Total pressure only", "Product optical rotation"],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "General acid catalysis differs from specific acid catalysis because in general acid catalysis the rate depends on:",
+    "choices": ["Only hydronium concentration", "Any proton donor present", "Only solvent dielectric constant", "Product concentration only"],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "A Hammett correlation in kinetics is mainly used to analyze how substituents affect:",
+    "choices": ["Reaction rate through electronic effects", "Only molecularity", "Only solvent boiling point", "Integrated rate law linearity"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "When a reaction mechanism changes with temperature, an Arrhenius plot may become:",
+    "choices": ["Exactly horizontal", "Nonlinear over the full range", "Independent of k", "Undefined because ln k cannot be plotted"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A curved Arrhenius plot can indicate:",
+    "choices": ["A single elementary mechanism with constant activation parameters only", "Mechanism changes or non-Arrhenius behavior", "That temperature was held perfectly constant", "That the reaction is definitely zero order"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "For a reversible first-order isomerization A <-> B approaching equilibrium, the concentration of A typically:",
+    "choices": ["Falls to zero exactly", "Approaches its equilibrium value exponentially", "Changes linearly forever", "Oscillates necessarily"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Relaxation methods in kinetics are especially useful for studying:",
+    "choices": ["Very fast reactions returning to equilibrium after a perturbation", "Only zero-order decomposition", "Only irreversible surface catalysis", "Slow gravimetric processes"],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In stopped-flow experiments, the main advantage is the ability to observe:",
+    "choices": ["Slow crystallization over days", "Rapid concentration changes shortly after mixing", "Only gaseous detonations", "Equilibrium constants without any rate data"],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A burst phase in pre-steady-state enzyme kinetics most often signals:",
+    "choices": ["Fast initial chemistry followed by slower turnover-limiting regeneration steps", "Immediate substrate depletion to zero", "The absence of any intermediate", "That Michaelis-Menten assumptions cannot ever apply"],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "If a catalyst lowers both forward and reverse activation barriers, what happens to equilibrium?",
+    "choices": ["It shifts toward products", "It shifts toward reactants", "It is unchanged, but equilibrium is reached faster", "It disappears because both rates increase"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  }
+]

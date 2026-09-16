@@ -1,0 +1,650 @@
+[
+  {
+    "text": "Which Augustan poet wrote the Aeneid?",
+    "choices": ["Virgil", "Horace", "Ovid", "Propertius"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who composed the Odes that became central to Augustan lyric poetry?",
+    "choices": ["Livy", "Horace", "Tibullus", "Gallus"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which writer of the Augustan age is best known for the Metamorphoses?",
+    "choices": ["Virgil", "Livy", "Ovid", "Varius Rufus"],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which author wrote the massive history Ab Urbe Condita?",
+    "choices": ["Horace", "Propertius", "Ovid", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the title of Virgil's poem about Aeneas's journey to Italy?",
+    "choices": ["Aeneid", "Fasti", "Satires", "Elegies"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which poet was closely associated with Maecenas and wrote lyric poems in multiple Greek-inspired meters?",
+    "choices": ["Tibullus", "Horace", "Manilius", "Cornelius Nepos"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Augustan poet was exiled to Tomis on the Black Sea?",
+    "choices": ["Propertius", "Virgil", "Ovid", "Tibullus"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which prose author from Padua became Rome's great Augustan historian?",
+    "choices": ["Asinius Pollio", "Sallust", "Velleius Paterculus", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Virgil's Eclogues belong primarily to which genre?",
+    "choices": ["Pastoral", "Epic", "Satire", "Historiography"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Horatian collection includes the phrase often paraphrased as 'seize the day'?",
+    "choices": ["Epodes", "Odes", "Ars Poetica", "Sermones"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The heroine Dido appears most prominently in which Augustan work?",
+    "choices": ["Heroides", "Ab Urbe Condita", "Aeneid", "Amores"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Augustan poet is the author of the love elegy collection centered on Cynthia?",
+    "choices": ["Tibullus", "Horace", "Gallus", "Propertius"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the title of Virgil's didactic poem on farming?",
+    "choices": ["Georgics", "Fasti", "Metamorphoses", "Epistles"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which poet wrote the Carmen Saeculare for the Secular Games of 17 BCE?",
+    "choices": ["Virgil", "Horace", "Propertius", "Ovid"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Augustan poem retells myth after myth through transformations across fifteen books?",
+    "choices": ["Aeneid", "Tristia", "Metamorphoses", "Georgics"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which author is especially known for moralized narratives about early Rome such as Lucretia and Horatius Cocles?",
+    "choices": ["Virgil", "Ovid", "Horace", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which book of the Aeneid sends Aeneas into the Underworld?",
+    "choices": ["Book 6", "Book 2", "Book 9", "Book 12"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Horace's Ars Poetica is framed as a poem addressed to whom?",
+    "choices": ["Maecenas", "The Pisos", "Augustus alone", "Messalla"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Ovidian work organizes the Roman calendar month by month?",
+    "choices": ["Remedia Amoris", "Ibis", "Fasti", "Medicamina Faciei"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which elegiac poet is most closely linked with the patron Messalla Corvinus rather than Maecenas?",
+    "choices": ["Horace", "Virgil", "Propertius", "Tibullus"],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Virgilian work opens with shepherds rather than warriors?",
+    "choices": ["Eclogues", "Aeneid", "Georgics", "Appendix Vergiliana"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Horatian book presents many poems as verse letters rather than songs?",
+    "choices": ["Epodes", "Epistles", "Odes", "Carmen Saeculare"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Augustan poet claimed exile came from 'a poem and a mistake'?",
+    "choices": ["Virgil", "Livy", "Ovid", "Propertius"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which historian's surviving books include the famous preface on Rome's moral decline and greatness?",
+    "choices": ["Tacitus", "Caesar", "Sallust", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What meter is used for the main narrative of Virgil's Aeneid?",
+    "choices": ["Dactylic hexameter", "Elegiac couplets", "Sapphic stanzas", "Iambic trimeter"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Horatian collection is also known by the title Sermones?",
+    "choices": ["Epistles", "Satires", "Epodes", "Odes"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Ovidian collection presents letters in the voices of mythological heroines?",
+    "choices": ["Tristia", "Amores", "Heroides", "Fasti"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Augustan elegist made Delia and Nemesis key poetic figures?",
+    "choices": ["Propertius", "Gallus", "Catullus", "Tibullus"],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Virgilian poem contains the famous fourth eclogue?",
+    "choices": ["Eclogues", "Georgics", "Aeneid", "Culex"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Horace's self-presentation, what modest Sabine retreat is repeatedly important?",
+    "choices": ["A villa at Baiae", "His Sabine farm", "A house on the Palatine", "An estate in Egypt"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Ovidian work gives witty advice on seduction and courtship?",
+    "choices": ["Epistulae ex Ponto", "Tristia", "Ars Amatoria", "Ibis"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which historian's account is our chief literary source for the rape of Lucretia leading to the fall of the kings?",
+    "choices": ["Dionysius of Halicarnassus", "Suetonius", "Plutarch", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Aeneid book recounts the fall of Troy in Aeneas's own voice?",
+    "choices": ["Book 2", "Book 4", "Book 8", "Book 11"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Horatian collection most directly experiments with aggressive iambic invective?",
+    "choices": ["Odes", "Epodes", "Epistles", "Ars Poetica"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Ovidian exile work is written as a series of sorrowful poems from the Black Sea?",
+    "choices": ["Amores", "Heroides", "Tristia", "Fasti"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which prose writer of the Augustan age said he would trace Roman history 'from the founding of the city'?",
+    "choices": ["Virgil", "Horace", "Ovid", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Whose patronage most famously linked Virgil, Horace, and the cultural politics of Augustus?",
+    "choices": ["Maecenas", "Messalla Corvinus", "Asinius Pollio", "Agrippa"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Horatian phrase describes poetry as creating a monument more lasting than bronze?",
+    "choices": ["Dulce et decorum est", "Exegi monumentum", "Integer vitae", "Nunc est bibendum"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which poet of Sulmo made playful love elegy a major Augustan form before turning to epic myth?",
+    "choices": ["Propertius", "Virgil", "Ovid", "Gallus"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which author is not primarily a poet but a historian among these Augustan names?",
+    "choices": ["Virgil", "Horace", "Propertius", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which Virgilian work is most focused on labor, seasons, vines, cattle, and bees?",
+    "choices": ["Georgics", "Eclogues", "Aeneid", "Ciris"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Horatian collection opens with an address to Maecenas as its first word?",
+    "choices": ["Epistles", "Odes Book 1", "Ars Poetica", "Carmen Saeculare"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Ovidian poem offers a cure after the lessons of love in Ars Amatoria?",
+    "choices": ["Amores", "Epistulae ex Ponto", "Remedia Amoris", "Tristia"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which author narrates early Roman exempla partly to instruct moral character in the present?",
+    "choices": ["Tibullus", "Gallus", "Manilius", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who is the Italian rival whom Aeneas kills at the end of the Aeneid?",
+    "choices": ["Turnus", "Pallas", "Latinus", "Ascanius"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Horatian poem collection is most explicitly indebted to Lucilian satire?",
+    "choices": ["Epodes", "Satires", "Odes", "Carmen Saeculare"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Ovidian collection is largely centered on the poet's affair with Corinna?",
+    "choices": ["Heroides", "Tristia", "Amores", "Fasti"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Augustan elegist's first book was sometimes circulated under the title Monobiblos?",
+    "choices": ["Tibullus", "Gallus", "Domitius Marsus", "Propertius"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Virgil's pastoral world, what sort of speakers dominate the Eclogues?",
+    "choices": ["Shepherds", "Generals", "Lawyers", "Gladiators"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which Horatian work is usually mined for compact advice about decorum and poetic craft?",
+    "choices": ["Epistles Book 1", "Ars Poetica", "Epodes", "Satires Book 2"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Ovidian exile collection takes the form of verse letters to friends and patrons?",
+    "choices": ["Ibis", "Metamorphoses", "Epistulae ex Ponto", "Amores"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Augustan historian survives only in part, with large portions of his work lost?",
+    "choices": ["Sallust", "Tacitus", "Caesar", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which Virgilian passage stages a pageant of future Roman heroes shown to Aeneas?",
+    "choices": ["Anchises in the Underworld", "Nisus and Euryalus at night", "The shield of Aeneas", "Dido's curse"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which Horatian ideal is captured by the phrase aurea mediocritas?",
+    "choices": ["Public glory at any cost", "The golden mean", "Militant patriotism", "Total poetic originality"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Augustan poet wrote both the Metamorphoses and the Fasti?",
+    "choices": ["Horace", "Propertius", "Ovid", "Tibullus"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which author explicitly aligns Rome's rise with memorable character exempla such as Cincinnatus and Camillus?",
+    "choices": ["Virgil", "Gallus", "Manilius", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Virgil was born near which northern Italian city traditionally linked with Mantua?",
+    "choices": ["Mantua", "Tarentum", "Sulmo", "Patavium"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Horatian genre most often uses Alcaic and Sapphic stanza forms?",
+    "choices": ["Satires", "Odes", "Epistles", "Epodes"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Ovidian poem was left unfinished at the time of the poet's exile and death?",
+    "choices": ["Ars Amatoria", "Heroides", "Fasti", "Amores"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which city was Livy's birthplace, giving him the byname Patavinus?",
+    "choices": ["Rome", "Naples", "Verona", "Patavium"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which of Virgil's works is shortest in overall scale?",
+    "choices": ["Eclogues", "Georgics", "Aeneid", "All are the same length"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Horatian work contains the famous fable of the town mouse and the country mouse?",
+    "choices": ["Odes", "Satires", "Epistles", "Epodes"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Ovidian collection is written in elegiac couplets but ranges across myth rather than personal love complaint alone?",
+    "choices": ["Ars Poetica", "Ab Urbe Condita", "Heroides", "Georgics"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which author's style became a school model for concise Latin prose periods in historical narrative?",
+    "choices": ["Horace", "Virgil", "Ovid", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In the Aeneid, whose death at Turnus's hands finally drives Aeneas to kill Turnus?",
+    "choices": ["Pallas", "Anchises", "Evander", "Lausus"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Horatian collection most strongly develops the persona of a reflective moral correspondent?",
+    "choices": ["Epodes", "Epistles", "Odes", "Satires Book 1"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which poet's bantering treatment of erotic strategy likely clashed with Augustan moral legislation?",
+    "choices": ["Livy", "Virgil", "Ovid", "Varius Rufus"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which historian preserves the tale of Hannibal swearing hostility to Rome as a child?",
+    "choices": ["Caesar", "Nepos", "Silius Italicus", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which divine mother of Aeneas is central to Virgil's epic?",
+    "choices": ["Venus", "Juno", "Diana", "Minerva"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which Horatian poem collection includes the Cleopatra ode ending with 'now is the time to drink'?",
+    "choices": ["Epistles", "Odes", "Satires", "Ars Poetica"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Ovidian work opens with a cosmogony before moving through mythic history to Julius Caesar's apotheosis?",
+    "choices": ["Fasti", "Amores", "Metamorphoses", "Tristia"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Augustan prose author is most often contrasted with the poets as a near-contemporary in a different genre?",
+    "choices": ["Propertius", "Tibullus", "Gallus", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Virgilian figure founds the line that will lead to Rome through Ascanius?",
+    "choices": ["Aeneas", "Turnus", "Latinus", "Drances"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Horatian work closes with a literary epistle often treated as a companion to the Ars Poetica tradition?",
+    "choices": ["Odes Book 4", "Epistles Book 2", "Epodes", "Satires Book 1"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which poet styled himself as transformed from love elegist into bard of universal myth on a much larger canvas?",
+    "choices": ["Tibullus", "Gallus", "Ovid", "Horace"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which historian's first pentad covers the regal period and early Republic?",
+    "choices": ["Tacitus", "Polybius", "Diodorus Siculus", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Virgil's shield of Aeneas is modeled in part on whose shield in earlier Greek epic?",
+    "choices": ["Achilles", "Odysseus", "Ajax", "Diomedes"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Horatian stance often tempers ambition with self-knowledge and limits?",
+    "choices": ["Furor bellicus", "Measure and moderation", "Epic cataloguing", "Elegiac servitium amoris"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Ovidian collection most directly reworks the single-heroine complaint into a multi-voice mythic epistolary form?",
+    "choices": ["Amores", "Fasti", "Heroides", "Ibis"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which author wrote history, not elegy or lyric, while still participating in Augustan cultural life?",
+    "choices": ["Propertius", "Horace", "Tibullus", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the opening word of the Aeneid, signaling its fusion of warfare and wandering?",
+    "choices": ["Arma", "Roma", "Virum", "Troiae"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Horatian work most fully theorizes unity, decorum, and the fitting relation between genre and subject?",
+    "choices": ["Satires", "Ars Poetica", "Epodes", "Odes Book 3"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which poet's exile corpus repeatedly asks Roman friends to advocate for recall?",
+    "choices": ["Virgil's", "Livy's", "Ovid's", "Propertius's"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which historian structures his project annalistically enough that books could be grouped into decades and pentads later on?",
+    "choices": ["Sallust", "Caesar", "Velleius", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Virgilian work most obviously engages Hesiodic didactic precedent?",
+    "choices": ["Georgics", "Aeneid", "Eclogues", "Copa"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Horatian phrase is commonly used for the mingling of pleasure and usefulness in poetry?",
+    "choices": ["Labor omnia vincit", "Omne tulit punctum", "Forsan et haec olim", "Sunt lacrimae rerum"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Ovidian work is the best answer if asked for an Augustan epic that is not national but mythological in scope?",
+    "choices": ["Aeneid", "Ab Urbe Condita", "Metamorphoses", "Satires"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which author's prefaces and speeches often reveal a strong interest in exemplarity rather than antiquarian detail alone?",
+    "choices": ["Virgil", "Ovid", "Horace", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Augustan poet reportedly wished the Aeneid destroyed if left unrevised?",
+    "choices": ["Virgil", "Horace", "Ovid", "Propertius"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Horatian collection was published late and includes poems to Augustus more directly than the original first three books?",
+    "choices": ["Epistles Book 1", "Odes Book 4", "Epodes", "Satires Book 2"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Ovidian speaker often turns mythic suffering into polished rhetorical performance rather than simple lament?",
+    "choices": ["Horatian satires", "Livian speeches", "Heroides heroines", "Virgilian shepherds"],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Augustan historian most influenced later perceptions of early Rome despite the legendary quality of much of the material?",
+    "choices": ["Sallust", "Caesar", "Nepos", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which phrase names the duty-bound quality central to Aeneas's characterization?",
+    "choices": ["Pietas", "Otium", "Fides publica", "Libertas"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Horatian poem type most often addresses named friends in a conversational moral register without being strict prose letters?",
+    "choices": ["Epodes", "Satires", "Odes", "Invectives"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Ovidian work was composed in elegiac couplets yet offered a quasi-etiological tour through Roman sacred time?",
+    "choices": ["Amores", "Remedia Amoris", "Fasti", "Ibis"],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which prose author of Augustus's age is indispensable for episodes like the Battle of Lake Regillus and the secession of the plebs?",
+    "choices": ["Virgil", "Propertius", "Horace", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Virgilian line of descent links Troy to Rome through Iulus?",
+    "choices": ["Julian", "Claudian", "Flavian", "Antonine"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Horatian collection is least about public song and most about reflective withdrawal from ambition?",
+    "choices": ["Odes Book 3", "Epistles", "Carmen Saeculare", "Epodes"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Ovidian text would you choose for a chain of myths including Phaethon, Daphne, Narcissus, and Orpheus?",
+    "choices": ["Heroides", "Tristia", "Metamorphoses", "Fasti"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which historian's narrative of the Second Punic War survives in especially influential later summaries and epitomes because the whole work is not intact?",
+    "choices": ["Sallust's", "Tacitus's", "Caesar's", "Livy's"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Virgilian work ends not with pastoral song or cosmic change but with a sudden battlefield killing?",
+    "choices": ["Aeneid", "Eclogues", "Georgics", "Moretum"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Horatian ideal most clearly resists both political frenzy and unlimited desire?",
+    "choices": ["Fama", "Modus", "Furor", "Dolor"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Ovidian corpus is most indispensable for reconstructing the poet's own version of his banishment experience?",
+    "choices": ["Amores", "Heroides", "Tristia and Epistulae ex Ponto", "Ars Amatoria alone"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which author among the major Augustans was not chiefly writing in verse at all?",
+    "choices": ["Virgil", "Horace", "Ovid", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which poet stands at the center of Augustan national epic?",
+    "choices": ["Virgil", "Tibullus", "Propertius", "Gallus"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which lyric poet of the Augustan period most consciously adapted Alcaeus and Sappho into Latin?",
+    "choices": ["Ovid", "Horace", "Livy", "Manilius"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Augustan author is the surest choice for playful myth, erotic wit, and exile pathos in one career?",
+    "choices": ["Livy", "Propertius", "Ovid", "Tibullus"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which historian closes the central Augustan literary quartet by representing prose narrative rather than epic, lyric, or elegy?",
+    "choices": ["Virgil", "Horace", "Ovid", "Livy"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  }
+]

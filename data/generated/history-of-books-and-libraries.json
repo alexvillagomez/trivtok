@@ -1,0 +1,266 @@
+[
+  {
+    "text": "In what year did Johannes Gutenberg invent the movable type printing press?",
+    "choices": ["1440", "1395", "1489", "1512"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What animal skin was traditionally used to create vellum for premium book bindings?",
+    "choices": ["sheep", "calf", "goat", "deer"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which religious community was primarily responsible for creating illuminated manuscripts in medieval Europe?",
+    "choices": ["bishops", "monks", "scholars", "kings"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Library of Alexandria was located in which modern-day country?",
+    "choices": ["Greece", "Turkey", "Egypt", "Lebanon"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What metal alloy did Johannes Gutenberg use for his movable type pieces?",
+    "choices": ["bronze-copper", "lead-tin-copper", "iron-zinc", "silver-gold"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In bookbinding, what is the term for the process of sewing pages together before binding?",
+    "choices": ["collating", "gathering", "pressing", "casing"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which famous illuminated manuscript is housed in Trinity College Library, Dublin?",
+    "choices": ["Lindisfarne Gospels", "Book of Kells", "Beowulf manuscript", "Canterbury Tales"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does the term 'illuminate' refer to in medieval manuscript creation?",
+    "choices": ["to organize pages", "to add light sources", "to decorate with gold leaf and colors", "to bind the covers"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who developed the Dewey Decimal Classification system for organizing libraries?",
+    "choices": ["Ranganathan", "Melvil Dewey", "Cassiodorus", "Panizzi"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In what year was the Dewey Decimal System first published?",
+    "choices": ["1856", "1876", "1896", "1916"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Amazon's Kindle e-reader was first released in which year?",
+    "choices": ["2005", "2007", "2009", "2011"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does EPUB stand for in the context of digital books?",
+    "choices": ["Electronic Page Utilities", "Electronic Publication", "Enhanced Publishing Platform", "Electronic Prefix Unit"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Before the printing press, what was the primary method of copying books?",
+    "choices": ["hand binding", "hand copying by scribes", "stone carving", "wax tablet stamping"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What pigment was prized for creating ultramarine blue in illuminated manuscripts?",
+    "choices": ["indigo plant", "lapis lazuli", "malachite", "azurite"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Lindisfarne Gospels were created in which century?",
+    "choices": ["5th century", "7th century", "9th century", "11th century"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In which country did Gutenberg establish his first printing press?",
+    "choices": ["Italy", "France", "Germany", "Netherlands"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Approximately how many copies of the Gutenberg Bible were produced?",
+    "choices": ["48 copies", "180 copies", "500 copies", "1200 copies"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which ancient Greek ruler is credited with establishing the Library of Alexandria?",
+    "choices": ["Alexander the Great", "Ptolemy II", "Cleopatra VII", "Soter"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What tool did medieval manuscript scribes primarily use for creating fine details?",
+    "choices": ["brush", "quill pen", "stylus", "reed pen"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Dewey Decimal System divides all knowledge into how many main classes?",
+    "choices": ["5", "10", "20", "50"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What number range covers 'Technology' in the Dewey Decimal System?",
+    "choices": ["400-499", "500-599", "600-699", "700-799"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What type of institutions primarily use the Dewey Decimal System today?",
+    "choices": ["university libraries", "public libraries", "government archives", "corporate libraries"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Cloth boards were first introduced to book binding in which century?",
+    "choices": ["17th century", "18th century", "19th century", "20th century"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the protective paper covering that wraps around a book in addition to the cover called?",
+    "choices": ["wrapper", "jacket", "sleeve", "casing"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Medieval monks typically used which material for book covers?",
+    "choices": ["wood", "leather", "cloth", "papyrus"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the backbone or central support structure of a bound book called?",
+    "choices": ["binding", "spine", "hinge", "case"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "When did the first e-reader device, the Rocket eBook, become available?",
+    "choices": ["1992", "1998", "2004", "2008"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "E-readers typically use which display technology for reading comfort?",
+    "choices": ["LCD screens", "electronic ink", "OLED panels", "LED backlighting"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was the ISBN system introduced to accomplish for the publishing industry?",
+    "choices": ["track author royalties", "standardize book identification", "monitor sales", "regulate prices"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In which decade was the ISBN system introduced?",
+    "choices": ["1960s", "1970s", "1980s", "1990s"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What major advantage does electronic ink have over LCD screens for extended reading?",
+    "choices": ["brighter display", "reduced eye strain", "faster refresh rate", "color capability"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Self-publishing became widely accessible to authors with the rise of what technology?",
+    "choices": ["digital downloads", "print-on-demand", "cloud storage", "online retailers"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which printer is credited with being the first to use roman typeface instead of Gothic?",
+    "choices": ["William Caxton", "Aldus Manutius", "John Gutenberg", "Peter Schöffer"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Library of Congress Classification system was created as an alternative to which earlier system?",
+    "choices": ["Alphabetical ordering", "Dewey Decimal System", "Alphabetic-Classed Arrangement", "Chronological arrangement"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Approximately how many scrolls did the Library of Alexandria contain at its height?",
+    "choices": ["100,000", "300,000", "500,000", "800,000"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the name of the oldest surviving library building still in active use today?",
+    "choices": ["Bodleian Library", "Al-Quaraouiyine Library", "Casanatense Library", "Morgan Library"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Woodblock printing originated in which region before spreading to Europe?",
+    "choices": ["Middle East", "India", "China", "Japan"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What purpose do the decimals serve in the Dewey Decimal Classification system?",
+    "choices": ["indicate publication date", "allow further subdivision of knowledge", "show book cost", "rank importance"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "First editions of books by famous authors are valuable to collectors primarily because they are what?",
+    "choices": ["easier to read", "collectible and historically significant", "printed on better paper", "signed by publishers"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What certification did medieval books receive to verify their authenticity and origin?",
+    "choices": ["government seal", "author signature", "monastic seal or colophon", "royal approval mark"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "To which region did printing press technology spread from Germany first?",
+    "choices": ["France", "Spain", "Italy", "England"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the first major book printed using Gutenberg's movable type press?",
+    "choices": ["Bible translation", "Gutenberg Bible", "Dictionary of Latin", "Philosophical texts"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The British Museum's historic reading room is famous for having what distinctive architectural feature?",
+    "choices": ["marble columns", "circular glass roof", "stained glass windows", "arched ceiling"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the primary occupation of the early craftspeople who operated printing presses?",
+    "choices": ["scholars", "artisans or craftsmen", "clergy", "merchants"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  }
+]

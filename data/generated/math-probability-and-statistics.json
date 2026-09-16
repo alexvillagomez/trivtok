@@ -1,0 +1,284 @@
+[
+  {
+    "text": "A fair coin is flipped once. What is the probability of getting heads?",
+    "choices": ["0.25", "0.5", "0.75", "1.0"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the median of the dataset: 3, 7, 5, 9, 1?",
+    "choices": ["3", "5", "6", "7"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "A standard six-sided die is rolled. What is the probability of getting a number greater than 4?",
+    "choices": ["1/6", "1/3", "1/2", "2/3"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the mode of the dataset: 2, 4, 4, 6, 8, 4?",
+    "choices": ["2", "4", "6", "8"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Calculate the mean of: 10, 20, 30, 40",
+    "choices": ["20", "25", "30", "35"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "If you flip two fair coins, what is the probability of getting two heads?",
+    "choices": ["1/8", "1/4", "1/3", "1/2"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the range of the dataset: 5, 12, 3, 18, 7?",
+    "choices": ["12", "15", "18", "20"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "A bag contains 3 red balls and 2 blue balls. What is the probability of drawing a red ball?",
+    "choices": ["2/5", "3/5", "1/2", "1/5"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the mean of: 5, 5, 5, 5?",
+    "choices": ["1", "4", "5", "20"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "If P(A) = 0.3 and P(B) = 0.4, and A and B are independent, what is P(A and B)?",
+    "choices": ["0.12", "0.7", "0.34", "0.67"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A card is drawn from a standard 52-card deck. What is the probability it is a heart?",
+    "choices": ["1/13", "1/4", "1/2", "4/13"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the probability of rolling a 7 with two standard dice?",
+    "choices": ["1/6", "1/12", "1/18", "7/36"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Three coins are flipped. What is the probability of getting at least one heads?",
+    "choices": ["1/8", "3/8", "5/8", "7/8"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A bag contains 5 marbles: 2 red, 2 blue, 1 green. You draw one marble without replacement, then another. What is P(both red)?",
+    "choices": ["2/25", "4/25", "1/10", "2/5"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In a class of 30 students, 18 like math. What is the probability a randomly selected student does NOT like math?",
+    "choices": ["0.4", "0.6", "0.18", "0.3"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What does the standard normal distribution have a mean of?",
+    "choices": ["0", "0.5", "1", "varies"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many ways can you arrange 3 distinct objects?",
+    "choices": ["3", "6", "9", "12"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "If a test is 80% accurate, and a disease affects 1% of the population, what is the probability someone has the disease given a positive test?",
+    "choices": ["approximately 4%", "approximately 50%", "approximately 80%", "approximately 99%"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In the Monty Hall problem, if you initially pick a door with a prize, what is your probability of winning if you switch?",
+    "choices": ["1/2", "1/3", "2/3", "1"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the expected value of rolling a fair six-sided die?",
+    "choices": ["2.5", "3", "3.5", "4"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Two events A and B are mutually exclusive. P(A) = 0.2, P(B) = 0.3. What is P(A or B)?",
+    "choices": ["0.06", "0.5", "0.44", "0.65"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "A spinner has 8 equal sections numbered 1-8. What is the probability of landing on an even number?",
+    "choices": ["1/8", "1/4", "1/2", "3/8"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "If you draw 2 cards from a standard deck without replacement, what is the probability both are aces?",
+    "choices": ["1/169", "1/221", "4/2704", "16/2704"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the variance of a dataset?",
+    "choices": ["the average of squared deviations from the mean", "the square root of standard deviation", "the middle value", "the most frequent value"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A bag has 4 red, 3 blue, 2 green balls. You draw one without replacement, then another. What is P(first red, second blue)?",
+    "choices": ["12/90", "12/81", "4/9", "1/2"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In a binomial distribution with n=5 and p=0.5, what is the probability of exactly 3 successes?",
+    "choices": ["5/32", "10/32", "15/32", "20/32"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the z-score of a value exactly one standard deviation above the mean?",
+    "choices": ["0", "1", "2", "0.68"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A researcher finds a correlation coefficient of -0.9 between two variables. What does this indicate?",
+    "choices": ["weak positive relationship", "strong negative relationship", "no relationship", "weak negative relationship"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many combinations of 3 items can be chosen from 5 distinct items?",
+    "choices": ["5", "10", "15", "20"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "If two events are independent and P(A) = 0.6, P(B) = 0.4, what is P(not A and B)?",
+    "choices": ["0.16", "0.24", "0.4", "0.6"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the probability of getting a sum of 10 or more when rolling two dice?",
+    "choices": ["1/6", "5/36", "6/36", "7/36"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In conditional probability, P(A|B) means:",
+    "choices": ["probability of A and B", "probability of A given B", "probability of B given A", "probability of not A or B"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A dataset has mean 50 and standard deviation 10. What percentage of data falls within one standard deviation (approximately)?",
+    "choices": ["68%", "75%", "95%", "99.7%"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the formula for combinations C(n,k)?",
+    "choices": ["n!/(k!(n-k)!)", "n!/(n-k)!", "n*k", "n+k"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A fair coin is flipped 4 times. What is the probability of getting exactly 2 heads?",
+    "choices": ["6/16", "4/16", "8/16", "10/16"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "If P(A|B) = 0.8 and P(B) = 0.25, what is P(A and B)?",
+    "choices": ["0.16", "0.2", "0.25", "0.8"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The birthday problem asks: in a room of 23 people, what is the probability two share a birthday?",
+    "choices": ["approximately 25%", "approximately 50%", "approximately 75%", "approximately 99%"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the median of a standard normal distribution?",
+    "choices": ["0", "0.5", "varies", "undefined"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many permutations of 4 distinct objects are there?",
+    "choices": ["4", "16", "24", "64"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "A biased coin has P(heads) = 0.7. You flip it twice. What is P(at least one heads)?",
+    "choices": ["0.7", "0.84", "0.91", "0.98"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Bayes' theorem, P(A|B) = P(B|A) * P(A) / P(B). What is P(B|A)?",
+    "choices": ["posterior", "prior", "likelihood", "evidence"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A red die and blue die are rolled. What is the probability the sum is even?",
+    "choices": ["1/4", "1/3", "1/2", "2/3"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the inter-quartile range (IQR)?",
+    "choices": ["Q3 - Q1", "Q2 - Q1", "the middle 50% of data", "the range of all data"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "If you randomly select a number from 1 to 100, what is the probability it is divisible by both 3 and 5?",
+    "choices": ["0.06", "0.07", "0.08", "0.09"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In a hypergeometric distribution, what is being sampled?",
+    "choices": ["with replacement from a finite population", "without replacement from a finite population", "with replacement from an infinite population", "without replacement from a normal distribution"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A Poisson distribution models events occurring at a constant rate. What is NOT a requirement?",
+    "choices": ["events are independent", "events must occur at random times", "events must be uniformly distributed in space", "the average rate is constant"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the relationship between correlation and causation?",
+    "choices": ["correlation implies causation", "correlation does not imply causation", "causation does not imply correlation", "they are the same thing"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  }
+]

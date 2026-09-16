@@ -1,0 +1,266 @@
+[
+  {
+    "text": "What is the primary effect when greenhouse gases like CO2 absorb infrared radiation?",
+    "choices": ["Heat is trapped in the atmosphere", "UV rays are reflected to space", "Ozone layer is replenished", "Ocean temperatures decrease"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which gas contributes the most to the enhanced greenhouse effect due to human activities?",
+    "choices": ["Methane", "Nitrous oxide", "Carbon dioxide", "Chlorofluorocarbon"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What term describes the ability of ecosystems to provide resources like clean water and air?",
+    "choices": ["Environmental feedback", "Ecological succession", "Ecosystem services", "Biodiversity indices"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which renewable energy source directly harnesses the sun's electromagnetic radiation?",
+    "choices": ["Geothermal", "Solar photovoltaic", "Wind turbines", "Hydroelectric dams"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "El Niño is characterized by unusual warming of which ocean region?",
+    "choices": ["North Atlantic", "Indian Ocean", "Eastern and central Pacific", "Southern Ocean"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the main pollutant released by burning fossil fuels that contributes to acid rain?",
+    "choices": ["Lead compounds", "Sulfur dioxide", "Arsenic", "Uranium"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which international agreement established binding emissions reduction targets for industrialized nations?",
+    "choices": ["Paris Agreement", "Montreal Protocol", "Kyoto Protocol", "Rio Declaration"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What process do plants use to remove CO2 from the atmosphere during growth?",
+    "choices": ["Respiration", "Photosynthesis", "Transpiration", "Decomposition"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Renewable energy from Earth's internal heat is called what?",
+    "choices": ["Biomass energy", "Geothermal energy", "Tidal energy", "Solar energy"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which human activity is the largest source of methane emissions globally?",
+    "choices": ["Coal mining", "Landfills", "Agricultural livestock", "Natural gas production"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What does a carbon footprint measure?",
+    "choices": ["Weight of CO2 released into soil", "Fossil fuel reserves remaining", "Total greenhouse gas emissions caused by an activity", "Depth of permafrost layers"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Stratospheric ozone is primarily destroyed by which human-made compounds?",
+    "choices": ["Sulfates", "Chlorofluorocarbons", "Particulates", "Nitrogen oxides"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of the layer of atmosphere where most weather occurs?",
+    "choices": ["Stratosphere", "Troposphere", "Mesosphere", "Thermosphere"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which renewable source harnesses kinetic energy from moving water in rivers and dams?",
+    "choices": ["Tidal power", "Wave energy", "Hydroelectric power", "Thermal power"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What mechanism do hurricanes use to gain and maintain their destructive power?",
+    "choices": ["Jet stream deflection", "Warm ocean water evaporation", "Polar cold front collision", "Atmospheric pressure waves"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which conservation practice involves leaving forest areas undisturbed to preserve biodiversity?",
+    "choices": ["Selective logging", "Old-growth protection", "Slash-and-burn rotation", "Monoculture forestry"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is eutrophication in aquatic ecosystems?",
+    "choices": ["Loss of all aquatic life", "Excessive nutrient enrichment causing algae blooms", "Cooling of water due to snow melt", "Salinity increase from evaporation"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which gas in the atmosphere is responsible for causing the 'hole' over Antarctica?",
+    "choices": ["Argon", "Carbon dioxide", "Ozone depletion from CFCs", "Hydrogen sulfide"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary source of ocean acidification?",
+    "choices": ["Industrial waste dumping", "Volcanic submarine vents", "CO2 absorption by seawater", "Phosphate mining runoff"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which renewable energy technology uses the Coriolis effect to generate electricity?",
+    "choices": ["Solar farms", "Wind turbines", "Geothermal vents", "Tidal generators"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What term describes the forced displacement of communities due to environmental degradation?",
+    "choices": ["Migration drift", "Climate refugees", "Environmental migration", "Resettlement"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How do wetlands provide ecosystem services related to flooding?",
+    "choices": ["They evaporate water", "They increase water runoff", "They absorb and store floodwaters", "They redirect water to mountains"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which atmospheric layer contains the ozone that protects Earth from UV radiation?",
+    "choices": ["Troposphere", "Stratosphere", "Mesosphere", "Exosphere"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the albedo effect in climate systems?",
+    "choices": ["Heat absorption by ice", "Reflection of solar radiation by surfaces", "Absorption by dark objects", "Conduction through atmosphere"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which pollutant is a primary component of photochemical smog in urban areas?",
+    "choices": ["Sulfur dioxide", "Ozone at ground level", "Lead aerosols", "Asbestos dust"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does the Paris Agreement's target of 1.5°C refer to?",
+    "choices": ["Depth of permafrost thaw", "Ocean temperature rise limit", "Global average warming limit above pre-industrial levels", "Reduction in atmospheric pressure"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which practice restores degraded land to its natural state through planting and management?",
+    "choices": ["Deforestation", "Land reclamation", "Ecological restoration", "Strip mining"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is a biomass energy source commonly used for power generation?",
+    "choices": ["Uranium", "Agricultural waste and wood", "Hydrogen gas", "Natural sand"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How do tropical rainforests contribute to global climate regulation?",
+    "choices": ["By increasing atmospheric CO2", "By absorbing CO2 and releasing oxygen", "By reflecting all sunlight to space", "By producing methane gas"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which renewable energy source relies on geologic hotspots and steam underground?",
+    "choices": ["Biomass", "Wind", "Geothermal", "Tidal"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the most abundant anthropogenic greenhouse gas by mass in the atmosphere?",
+    "choices": ["Methane", "Carbon dioxide", "Nitrous oxide", "Ozone"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which ocean current is known for moderating Europe's climate and transporting warm water north?",
+    "choices": ["Canary Current", "Humboldt Current", "Gulf Stream", "Kuroshio Current"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is conservation agriculture primarily designed to reduce?",
+    "choices": ["Crop yields", "Soil erosion and degradation", "Nitrogen in plants", "Rainfall patterns"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which factor is the primary driver of the recent intensification of Atlantic hurricanes?",
+    "choices": ["Increased atmospheric pressure", "Rising sea surface temperatures", "Decreased wind shear", "Lower solar activity"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does microplastics pollution primarily harm?",
+    "choices": ["Atmospheric composition", "Marine life and food chains", "Mineral deposits", "Groundwater depth"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which climate tipping point refers to rapid melting of Greenland's ice sheet?",
+    "choices": ["Amazon dieback", "Permafrost collapse", "Ice sheet destabilization", "Monsoon shift"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary mechanism by which deforestation contributes to climate change?",
+    "choices": ["Increased oxygen release", "Loss of carbon sinks and CO2 release from soil", "Creation of methane pockets", "Reflection of more sunlight"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which international treaty phased out CFCs to protect the ozone layer?",
+    "choices": ["Kyoto Protocol", "Montreal Protocol", "Basel Convention", "CITES"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What do marine protected areas primarily aim to preserve?",
+    "choices": ["Oil reserves", "Fishing industry profits", "Biodiversity and ecosystem function", "Navigation routes"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How do aerosols in the atmosphere affect global temperatures?",
+    "choices": ["They always warm the planet", "They cool the planet by reflecting sunlight", "They have variable effects depending on composition", "They increase humidity only"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the primary cause of water pollution in agricultural regions?",
+    "choices": ["Road salt", "Pesticide and fertilizer runoff", "Industrial emissions", "Household detergents"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which renewable resource is most consistent and predictable for continuous power generation?",
+    "choices": ["Wind", "Geothermal", "Solar", "Tidal"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is permafrost and why is its thawing a climate concern?",
+    "choices": ["Frozen groundwater; no concern", "Permanently frozen soil; releases stored carbon", "Mountain ice; affects skiing", "Ocean ice; reflects radiation"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How do mangrove forests provide coastal protection?",
+    "choices": ["By absorbing fresh water", "By blocking sunlight", "By damping wave energy and reducing storm surge", "By increasing wind speed"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  }
+]

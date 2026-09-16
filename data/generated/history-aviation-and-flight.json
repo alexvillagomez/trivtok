@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In what year did the Wright brothers make their first powered flight?",
+    "choices": ["1901", "1903", "1905", "1908"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which aviation pioneer is known for the famous solo transatlantic flight?",
+    "choices": ["Amelia Earhart", "Charles Lindbergh", "Igor Sikorsky", "Juan de la Cierva"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What was the name of Charles Lindbergh's aircraft?",
+    "choices": ["Spirit of St. Louis", "Lockheed 10 Electra", "Douglas DC-3", "Fokker F.VII"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Amelia Earhart disappeared over which body of water?",
+    "choices": ["Atlantic Ocean", "Caribbean Sea", "Pacific Ocean", "Indian Ocean"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who designed the first airplane to fly faster than sound?",
+    "choices": ["Chuck Yeager", "Bell Aircraft engineers", "Geoffrey de Havilland", "Igor Sikorsky"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Douglas DC-3 was revolutionary for what reason?",
+    "choices": ["First jet airliner", "Most efficient cargo plane ever built", "First reliable commercial airliner", "First pressurized cabin aircraft"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was Chuck Yeager's major aviation achievement in 1947?",
+    "choices": ["Set speed record to California", "Flew faster than sound", "Broke altitude record", "First solo transatlantic flight"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which aircraft was the first to cross the Atlantic nonstop?",
+    "choices": ["Fokker F.VII", "Spirit of St. Louis", "Consolidated PBY Catalina", "De Havilland Comet"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Concorde was developed as a joint venture between which two countries?",
+    "choices": ["United States and Soviet Union", "Britain and France", "Germany and Italy", "Sweden and Switzerland"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What speed did the Bell X-1 achieve when first breaking the sound barrier?",
+    "choices": ["Mach 1.07", "Mach 1.5", "Mach 2.0", "Mach 2.5"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which pilot flew the Enola Gay during World War II?",
+    "choices": ["Jimmy Doolittle", "Paul Tibbets", "Curtis LeMay", "Ira Baker"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Boeing 747 is known by what nickname?",
+    "choices": ["The Giant", "The Jumbo", "The Queen of the Skies", "The Whale"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "When was the first commercial jet airliner service inaugurated?",
+    "choices": ["1949", "1952", "1958", "1962"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What nationality was Georges Guynemer, the famous WWI pilot?",
+    "choices": ["German", "French", "Austrian", "Italian"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Martin Luther King Jr.'s daughter Yolanda King was known in aviation for what?",
+    "choices": ["First African American female pilot", "Hostess on first commercial jet", "Chief flight attendant trainer", "None - she had no aviation connection"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which aircraft manufacturer produced the famous P-51 Mustang?",
+    "choices": ["Lockheed", "North American Aviation", "Vought", "Curtiss"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was unique about the de Havilland Comet's design?",
+    "choices": ["First fighter jet", "First commercial jet airliner", "First supersonic transport", "First helicopters"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Igor Sikorsky is credited with developing what aviation technology?",
+    "choices": ["Jet engine", "Helicopter", "Parachute", "Autopilot"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many engines did the Avro Lancaster bomber have?",
+    "choices": ["2", "3", "4", "6"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Red Baron's real name was Manfred von Richthofen from which country?",
+    "choices": ["Austria", "Prussia/Germany", "Poland", "Hungary"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was the primary purpose of the X-15 rocket plane?",
+    "choices": ["Spy reconnaissance", "Hypersonic research", "Cargo transport", "Fighter training"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which airline operated the first scheduled transatlantic passenger service?",
+    "choices": ["Imperial Airways", "Lufthansa", "Pan American Airways", "British Overseas Airways"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Spruce Goose was designed by which aviation pioneer?",
+    "choices": ["Glenn Curtiss", "Howard Hughes", "Donald Douglas", "William Boeing"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was Wilbur Wright's nationality?",
+    "choices": ["British", "American", "French", "German"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "The Me 262 was famous as what type of aircraft?",
+    "choices": ["First helicopter", "First jet fighter", "First supersonic jet", "First long-range bomber"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which aviator completed the first solo flight around the world?",
+    "choices": ["Howard Hughes", "Wiley Post", "Steve Fossett", "Bertrand Piccard"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Lockheed SR-71 Blackbird holds what aviation record?",
+    "choices": ["Longest flight distance", "Most powerful engines", "Fastest manned aircraft", "Most expensive plane"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many fatalities were in the Tenerife airport disaster of 1977?",
+    "choices": ["283", "363", "583", "623"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Airbus A380 is known for what distinction?",
+    "choices": ["Fastest commercial jet", "Highest altitude capability", "Largest passenger airliner", "Most efficient fuel consumption"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which country designed the Supermarine Spitfire?",
+    "choices": ["Germany", "United States", "Britain", "Soviet Union"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the maximum speed of the Concorde in miles per hour?",
+    "choices": ["1,350", "1,550", "2,150", "2,700"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Wright Flyer had an engine of approximately how many horsepower?",
+    "choices": ["5", "10", "12", "25"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which pilot was the first to win both a Medal of Honor and an Oscar?",
+    "choices": ["Audie Murphy", "James Stewart", "Charlton Heston", "Gary Cooper"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Tupolev Tu-144 was the Soviet competitor to which aircraft?",
+    "choices": ["Boeing 707", "Airbus A300", "Concorde", "Boeing 747"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the primary advantage of the pressurized cabin?",
+    "choices": ["Faster speeds", "Ability to fly at higher altitudes", "Reduced fuel consumption", "Quieter operation"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which African American pilot broke the color barrier in military aviation?",
+    "choices": ["Benjamin O. Davis Jr.", "Robert Lawrence", "Ronald McNair", "Guion Bluford"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Hindenburg disaster occurred in what year?",
+    "choices": ["1935", "1936", "1937", "1939"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was revolutionary about the jet engine concept?",
+    "choices": ["Could fly backwards", "No propeller required", "Used rocket fuel only", "Did not need landing gear"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The Fokker Triplane was flown by which famous World War I pilot?",
+    "choices": ["Georges Guynemer", "Eddie Rickenbacker", "Manfred von Richthofen", "Albert Ball"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What was the range limitation that ended Amelia Earhart's final flight?",
+    "choices": ["Engine failure", "Fuel depletion", "Navigation error combined with fuel limits", "Structural failure"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which aircraft was the fastest bomber of World War II?",
+    "choices": ["B-17 Flying Fortress", "B-29 Superfortress", "Mosquito", "Lancaster"],
+    "correctIndex": 2,
+    "difficulty": 0.63
+  },
+  {
+    "text": "The Boeing 737 is the most produced what type of aircraft?",
+    "choices": ["Bomber", "Fighter jet", "Commercial airliner", "Transport plane"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In what year did the first supersonic passenger flight occur on the Concorde?",
+    "choices": ["1967", "1969", "1973", "1976"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which nation developed the first operational turbine-powered helicopter?",
+    "choices": ["Soviet Union", "France", "Germany", "United States"],
+    "correctIndex": 2,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What was the Enola Gay's target on August 6, 1945?",
+    "choices": ["Tokyo", "Hiroshima", "Nagasaki", "Kyoto"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  }
+]

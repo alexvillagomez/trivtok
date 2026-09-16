@@ -1,0 +1,290 @@
+[
+  {
+    "text": "In Japanese mythology, who is the supreme goddess of the sun and highest deity in the Shinto pantheon?",
+    "choices": ["Amaterasu", "Inari", "Tsukuyomi", "Susanoo"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which kami is known as the storm deity and slayer of the eight-headed serpent Yamata no Orochi?",
+    "choices": ["Amaterasu", "Susanoo", "Tsukuyomi", "Inari"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In the Shinto creation myth, which primordial pair churned the sea with a jeweled spear to create the islands of Japan?",
+    "choices": ["Amaterasu and Tsukuyomi", "Susanoo and Amaterasu", "Izanagi and Izanami", "Inari and Raijin"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the name of the traditional gate that marks the entrance to a Shinto shrine, symbolizing the sacred boundary?",
+    "choices": ["Ofuda", "Kaiden", "Shimenawa", "Torii"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Shinto practice, what is the term for the sacred twisted rope displayed at shrines to mark sacred spaces?",
+    "choices": ["Shimenawa", "Ofuda", "Noren", "Matsuribayashi"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What does the term 'kami' primarily refer to in Shintoism?",
+    "choices": ["Ancestral spirits", "Spirits and deities inhabiting all things", "Prophets and seers", "Divine stones"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Japanese folklore, what animal form do kitsune typically assume?",
+    "choices": ["Badgers", "Foxes with multiple tails", "Raccoons", "Wolves"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "According to Japanese folklore, what are tanuki primarily known for in their interactions with humans?",
+    "choices": ["Trickery and illusion", "Protecting rice crops", "Guarding mountain shrines", "Bringing illness"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which sacred mountain is revered in Japanese mythology as the eternal home of a major kami?",
+    "choices": ["Mount Fuji", "Mount Takao", "Mount Koya", "Mount Yoshino"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Shinto mythology, Yomi is the name for what realm?",
+    "choices": ["The realm of heaven", "The land of the dead and decay", "The human world", "The spirit realm of foxes"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the primary purpose of ritual purification (misogi or temizu) in Shinto worship?",
+    "choices": ["To gain magical powers", "To wash away spiritual impurity before religious acts", "To celebrate seasonal changes", "To communicate with ancestors"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Inari, one of the most widely worshipped kami, is primarily associated with which domain?",
+    "choices": ["War and conquest", "Rice, agriculture, and prosperity", "The ocean and voyages", "Sickness and plague"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In Japanese mythology, what is the name of the eight-headed serpent that Susanoo defeated?",
+    "choices": ["Yamata no Orochi", "Naga no Daija", "Serpent King Koryou", "the Leviathan of the East"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which celestial object is represented in the Imperial Regalia of Japan alongside the sword and mirror?",
+    "choices": ["The sun", "A jeweled magatama necklace", "A golden lotus", "A sacred pearl"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the goddess who rules the night and is the sibling of Amaterasu in Shinto mythology?",
+    "choices": ["Tsukuyomi", "Hinome", "Kurayama", "Yumemi"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In the Shinto pantheon, which kami is venerated as the god of fertility and sexuality?",
+    "choices": ["Raijin", "Kami no Nakamichi", "Sarutahiko", "Izanagi"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What ancient practice in Shintoism involves the offering of sacred sake and food to the kami?",
+    "choices": ["Hatsumode", "Matsuri", "Shinsen", "Norito"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Japanese folklore, how many tails does a kitsune typically possess when at full power?",
+    "choices": ["Three", "Five", "Seven or nine", "Twelve"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the underworld into which Izanami descended after being burned by the birth of fire?",
+    "choices": ["Yomi", "Jigoku", "Yama Loka", "Hades"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which kami is typically depicted with foxes at their shrines and is honored by merchants and traders?",
+    "choices": ["Amaterasu", "Inari", "Susanoo", "Raijin"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Shinto tradition, what do ofuda talismans represent and what are they used for?",
+    "choices": ["Decorations for festivals", "Amulets for protection and blessing from the kami", "Records of births", "Offerings to the dead"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the term for the annual festival held at Shinto shrines where kami are celebrated and honored?",
+    "choices": ["Rei", "Matsuri", "Kensei", "Mikado"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In Japanese folklore, what is the primary purpose of the tanuki's most famous supernatural ability?",
+    "choices": ["Prediction of the future", "Creating illusions and shapeshifting to deceive people", "Healing wounds", "Controlling weather"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which legendary artifact is said to contain the essence of the sun goddess and is part of the Imperial Regalia?",
+    "choices": ["The Kusanagi sword", "The Yata no Kagami mirror", "The Magatama jewel", "The Sacred Crown"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the significance of the color red in Shinto shrines and rituals?",
+    "choices": ["It represents the kami's anger", "It represents purification and protection from evil spirits", "It honors the deceased", "It marks forbidden areas"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Shinto, what does the concept of 'kannagara' mean?",
+    "choices": ["Divine punishment", "Living in accordance with the will of the kami", "Rejection of modern technology", "A type of prayer ritual"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which kami is believed to control thunder and lightning in Japanese mythology?",
+    "choices": ["Raijin", "Fujin", "Amaterasu", "Yama"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What ancient myth explains why the sun disappears at night in Shinto mythology?",
+    "choices": ["Amaterasu is pursued by demons", "Tsukuyomi steals the light", "The sun enters the underworld", "A celestial storm hides it"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Japanese folklore, what are the nine-tailed kitsune believed to achieve after centuries of spiritual cultivation?",
+    "choices": ["Immortality and godhood", "The ability to become human permanently", "Control over entire kingdoms", "Transformation into divine foxes of legend"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is Susanoo's primary weapon when he battles the serpent in mythology?",
+    "choices": ["A sacred sword forged by the kami", "The Kusanagi sword", "Lightning and thunder", "A jeweled spear"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In the Shinto creation narrative, what unusual punishment falls upon Izanagi when he tries to retrieve Izanami from Yomi?",
+    "choices": ["He is cursed to wander the earth", "He sees her corrupted form and flees in horror", "He loses his divinity", "He is trapped in the underworld"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which kami is known as the 'guide of the people' and often appears at shrine entrances with a fearsome expression?",
+    "choices": ["Raijin", "Sarutahiko Okami", "Fujin", "Inari"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What mythological event caused Amaterasu to hide in the heavenly rock cave, bringing darkness to the world?",
+    "choices": ["An insult from Susanoo", "The rebellion of the lesser kami", "A battle over the Kusanagi sword", "Tsukuyomi's jealousy"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In Shinto belief, what is the term for the temporary dwelling where kami reside during the Obo-sama festival?",
+    "choices": ["Haiden", "Honden", "Saisen-sha", "Goshintai"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "How many mirrors comprise the divine mirror used to lure Amaterasu from the rock cave in the sacred narrative?",
+    "choices": ["One", "Two", "Eight", "An infinite number"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the mythological origin of the Kusanagi sword according to Shinto tradition?",
+    "choices": ["It was forged by Izanagi for warfare", "Susanoo found it in the body of the eight-headed serpent he slew", "It was gifted by the moon kami", "It emerged from the sea when Izanami created the islands"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Japanese mythology, which type of supernatural being guards the boundaries between the human world and the spirit realm?",
+    "choices": ["Inugami", "Tengu or yokai gatekeepers", "Dragon kami", "Heavenly messengers"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What is the significance of the mirror (Yata no Kagami) in relation to Amaterasu's emergence from hiding?",
+    "choices": ["It reflects her power back to the world", "It serves as a beacon to call her out of the cave", "It traps malevolent spirits", "It reveals the true nature of all kami"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Shinto cosmology, what role does Ame-no-Uzume play in the myth of Amaterasu's concealment?",
+    "choices": ["She guards the entrance to Yomi", "She performs a dance to lure Amaterasu from the rock cave", "She creates the first humans", "She negotiates with Susanoo"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which ancient Japanese ritual involves the systematic purification of individuals through ablution in sacred waters?",
+    "choices": ["Shio-maki", "Norito", "Misogi", "Harei"],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "According to Shinto tradition, from which god's body are the islands of Japan said to originate?",
+    "choices": ["Amaterasu's body", "The corpse of a defeated demon", "Izanagi after his descent to Yomi", "The body of Susanoo"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the religious significance of the torii gate's design of vertical posts with a horizontal crossbeam?",
+    "choices": ["It represents a branch for birds to perch on", "It symbolizes a gateway between the earthly and divine realms", "It mimics the shape of ancient shrines", "It is purely decorative with no spiritual meaning"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Japanese folklore, what transformation does a tanuki attempt in the famous 'Bunbuku Chagama' tale?",
+    "choices": ["Becoming a geisha to seduce nobility", "Becoming a tea kettle and fooling a monk", "Becoming a merchant prince", "Becoming a bridge to trap travelers"],
+    "correctIndex": 2,
+    "difficulty": 0.90
+  },
+  {
+    "text": "Which concept in Shintoism reflects the belief that kami exist in a state of coexistence with humans in the natural world?",
+    "choices": ["Shogun-kyo", "Wa-shintoism", "Yaoyorozu no Kami", "Pantheistic kami theory"],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What myth explains how the three sacred treasures of Japan came into existence according to Shinto tradition?",
+    "choices": ["Created by Izanagi from sea foam", "Born from different gods in the creation narrative", "Forged by the kami of metalworking", "Gifted by celestial beings to the first emperor"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Shinto mythology, which kami is revered as the protector of the nation and is enshrined at Ise Grand Shrine?",
+    "choices": ["Susanoo", "Tsukuyomi", "Amaterasu", "Inari"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What supernatural phenomena do tengu cause in Japanese folklore that distinguishes them from other yokai?",
+    "choices": ["They cause sudden illnesses", "They abduct people and create portals between worlds", "They corrupt sacred texts", "They drain the life from crops"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "According to Shinto belief, in what way does the concept of 'makoto' relate to one's relationship with the kami?",
+    "choices": ["It means offering tribute", "It represents sincerity and truth in one's interactions with divine will", "It is a type of forbidden ritual", "It describes the seasonal cycle"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  }
+]

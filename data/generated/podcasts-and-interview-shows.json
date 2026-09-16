@@ -1,0 +1,431 @@
+[
+  {
+    "text": "Which podcast began as a long-running radio show hosted by Sarah Koenig and became a true-crime phenomenon in 2014?",
+    "choices": [
+      "Serial",
+      "Reply All",
+      "This American Life",
+      "Radiolab"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which podcast is hosted by Ira Glass and is known for essay-like storytelling segments from public radio?",
+    "choices": [
+      "This American Life",
+      "Radiolab",
+      "The Moth",
+      "Fresh Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which podcast hosted by Marc Maron became one of the defining interview shows of the medium?",
+    "choices": [
+      "WTF with Marc Maron",
+      "Conan O'Brien Needs a Friend",
+      "Armchair Expert",
+      "The Joe Rogan Experience"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which interview podcast features Conan O'Brien in long-form conversations after his late-night career?",
+    "choices": [
+      "Conan O'Brien Needs a Friend",
+      "SmartLess",
+      "Armchair Expert",
+      "Fresh Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which podcast hosted by Dax Shepard focuses on candid celebrity and personal conversations?",
+    "choices": [
+      "Armchair Expert",
+      "SmartLess",
+      "The Daily",
+      "How I Built This"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which podcast is co-hosted by Jason Bateman, Sean Hayes, and Will Arnett?",
+    "choices": [
+      "SmartLess",
+      "WTF with Marc Maron",
+      "Pod Save America",
+      "The Last Podcast on the Left"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which podcast became famous for deep-dive reporting on tech stories like the Crypto Episode and the Gawker hack?",
+    "choices": [
+      "Reply All",
+      "Radiolab",
+      "99% Invisible",
+      "Up First"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which public-radio show became well known for explaining science and society with sound design and narrative reporting?",
+    "choices": [
+      "Radiolab",
+      "The Daily",
+      "The Moth",
+      "Office Ladies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which podcast hosted by Roman Mars often explains the design history of everyday objects and environments?",
+    "choices": [
+      "99% Invisible",
+      "Criminal",
+      "Lore",
+      "Heavyweight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which podcast hosted by Phoebe Judge focuses on true-crime and unusual human stories?",
+    "choices": [
+      "Criminal",
+      "Serial",
+      "My Favorite Murder",
+      "The Moth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which podcast hosted by Karen Kilgariff and Georgia Hardstark helped define the true-crime comedy format?",
+    "choices": [
+      "My Favorite Murder",
+      "Crime Junkie",
+      "Sword and Scale",
+      "Casefile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which podcast hosted by Aaron Mahnke focuses on folklore, myths, and eerie historical tales?",
+    "choices": [
+      "Lore",
+      "Ologies",
+      "Stuff You Should Know",
+      "The Dollop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which podcast hosted by Alie Ward is built around interviews with scientists and specialists on specific topics?",
+    "choices": [
+      "Ologies",
+      "The Moth",
+      "This American Life",
+      "Up First"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which NPR interview show is hosted by Terry Gross?",
+    "choices": [
+      "Fresh Air",
+      "Up First",
+      "The Daily",
+      "All Things Considered"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which podcast became a major political-media show from hosts Jon Favreau, Jon Lovett, Dan Pfeiffer, and Tommy Vietor?",
+    "choices": [
+      "Pod Save America",
+      "The Bulwark Podcast",
+      "The Daily",
+      "The Ezra Klein Show"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which New York Times podcast is known for one big story each weekday and often headlines current events?",
+    "choices": [
+      "The Daily",
+      "Up First",
+      "Today, Explained",
+      "The Journal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which podcast is hosted by Guy Raz and interviews founders about the stories behind their companies?",
+    "choices": [
+      "How I Built This",
+      "The Journal",
+      "Planet Money",
+      "Masters of Scale"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Malcolm Gladwell is known for long-form explanations and reported history?",
+    "choices": [
+      "Revisionist History",
+      "Radiolab",
+      "The Moth",
+      "Conan O'Brien Needs a Friend"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Bill Simmons often combines sports, entertainment, and long interviews?",
+    "choices": [
+      "The Bill Simmons Podcast",
+      "Pardon My Take",
+      "The Herd",
+      "60 Minutes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which sports-comedy podcast is hosted by Dan Katz and PFT Commenter?",
+    "choices": [
+      "Pardon My Take",
+      "The Dan Le Batard Show",
+      "The Pat McAfee Show",
+      "Around the NFL"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast featured Glennon Doyle, Abby Wambach, and Amanda Doyle as hosts in a modern celebrity self-help format?",
+    "choices": [
+      "We Can Do Hard Things",
+      "Armchair Expert",
+      "SmartLess",
+      "The Moth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which investigative podcast by Wondery helped popularize bingeable documentary-style podcast storytelling before the current true-crime boom matured?",
+    "choices": [
+      "Dr. Death",
+      "Serial",
+      "Reply All",
+      "The Daily"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast is hosted by David Chang and often uses food as the entry point for broader cultural conversations?",
+    "choices": [
+      "The Dave Chang Show",
+      "Gastropod",
+      "The Splendid Table",
+      "How I Built This"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast from the Gimlet era was famous for a host calling in to help people resolve personal grievances or unfinished business?",
+    "choices": [
+      "Heavyweight",
+      "Reply All",
+      "Criminal",
+      "The Moth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Radiotopia podcast hosted by Jody Avirgan used a game-show format built around trivia and obscure facts?",
+    "choices": [
+      "The 10-Point",
+      "The Big Listen",
+      "No Such Thing as a Fish",
+      "The Moth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which British panel-style podcast features the QI researchers and is known for obscure trivia and comic banter?",
+    "choices": [
+      "No Such Thing as a Fish",
+      "The Moth",
+      "Serial",
+      "This American Life"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Dan Savage became one of the best-known advice shows in the medium?",
+    "choices": [
+      "Savage Lovecast",
+      "Call Her Daddy",
+      "Armchair Expert",
+      "Fresh Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Alex Cooper became a major conversation point in celebrity and relationship media?",
+    "choices": [
+      "Call Her Daddy",
+      "SmartLess",
+      "The Rewatchables",
+      "The Joe Rogan Experience"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast is hosted by Joe Rogan and is known for long-form, freewheeling conversations across comedy, politics, and science?",
+    "choices": [
+      "The Joe Rogan Experience",
+      "WTF with Marc Maron",
+      "Conan O'Brien Needs a Friend",
+      "The Daily"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which show from the podcast world often uses the phrase 'interview show' to describe a format where the guest drives the conversation more than the host?",
+    "choices": [
+      "Long-form interview podcast",
+      "Daily news brief",
+      "Narrative documentary series",
+      "Panel discussion show"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast from Gimlet Media focused on internet culture and often dissected online communities and platform drama?",
+    "choices": [
+      "Reply All",
+      "Heavyweight",
+      "Criminal",
+      "Radiolab"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosts comedians Paul Scheer, June Diane Raphael, and Jason Mantzoukas revisiting films in a friendly, heavily digressive format?",
+    "choices": [
+      "How Did This Get Made?",
+      "The Rewatchables",
+      "Blank Check",
+      "You Must Remember This"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast by Bill Simmons often reexamines classic movies and pop-culture staples with rotating guests?",
+    "choices": [
+      "The Rewatchables",
+      "The Big Picture",
+      "Blank Check",
+      "How Did This Get Made?"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Emily Bazelon, John Dickerson, and David Plotz covers politics and public affairs from a journalist-heavy perspective?",
+    "choices": [
+      "Political Gabfest",
+      "Pod Save America",
+      "The Daily",
+      "Up First"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Chris Gethard is known for intimate calls, listener stories, and a deliberately chaotic emotional tone?",
+    "choices": [
+      "Beautiful/Anonymous",
+      "Heavyweight",
+      "The Moth",
+      "WTF with Marc Maron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast branded itself around irreverent pop culture commentary from comedians and journalists while often drawing on internet news?",
+    "choices": [
+      "The Read",
+      "Office Ladies",
+      "SmartLess",
+      "Fresh Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast is closely associated with a former TV star and a rotating guest list that often includes actors and musicians?",
+    "choices": [
+      "Armchair Expert",
+      "Pardon My Take",
+      "Pod Save America",
+      "The Daily"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Anna Faris is known for candid celebrity interviews with a playful, personal tone?",
+    "choices": [
+      "Office Ladies",
+      "Pod Save America",
+      "The Rewatchables",
+      "The Office Deep Dive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which podcast hosted by Ana Faris is known for candid celebrity interviews with a playful, personal tone?",
+    "choices": [
+      "Anna Faris Is Unqualified",
+      "Call Her Daddy",
+      "The Moth",
+      "Fresh Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  }
+]

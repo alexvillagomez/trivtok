@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which Dickens novel opens with 'It was the best of times, it was the worst of times'?",
+    "choices": ["A Tale of Two Cities", "Great Expectations", "Bleak House", "David Copperfield"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In Jane Austen's 'Pride and Prejudice,' what is Elizabeth Bennet's primary objection to Mr. Darcy at their first meeting?",
+    "choices": ["His pride and apparent disdain", "His wealth", "His family connections", "His age"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is the orphan protagonist that Oliver Twist encounters after fleeing the workhouse?",
+    "choices": ["The Artful Dodger", "Bill Sikes", "Bumble", "Nancy"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In Tolstoy's 'War and Peace,' Pierre Bezukhov is an illegitimate son who unexpectedly inherits what?",
+    "choices": ["A vast fortune", "An estate in Moscow", "The title of count", "A military commission"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the name of Rochester's mysterious wife in Brontë's 'Jane Eyre'?",
+    "choices": ["Bertha Mason", "Grace Poole", "Mrs. Fairfax", "Adèle Varens"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Dickens' 'A Christmas Carol,' how many ghosts visit Scrooge?",
+    "choices": ["Three", "Four", "Five", "Two"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which Austen novel concludes with the heroine realizing she was wrong about nearly everything?",
+    "choices": ["Emma", "Pride and Prejudice", "Sense and Sensibility", "Northanger Abbey"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is Raskolnikov's primary motivation for committing murder in Dostoevsky's 'Crime and Punishment'?",
+    "choices": ["To test his theory about extraordinary men", "Poverty and desperation", "Revenge", "Mental illness"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In Melville's 'Moby-Dick,' Captain Ahab is obsessed with hunting which creature?",
+    "choices": ["A white whale", "A giant squid", "A sea serpent", "A great shark"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who is Heathcliff's primary rival for affection in Brontë's 'Wuthering Heights'?",
+    "choices": ["Cathy's cousin Linton", "Cathy's husband Edgar", "Cathy's brother Hindley", "The landlord of Thrushcross Grange"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In Hugo's 'Les Misérables,' Jean Valjean is imprisoned for stealing what?",
+    "choices": ["A loaf of bread", "Silver candlesticks", "Money from the church", "A horse"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What social issue is central to the plot of Dickens' 'Hard Times'?",
+    "choices": ["Industrialization and education", "Poverty", "Crime", "Political corruption"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In Austen's 'Persuasion,' why did Anne Elliot reject her suitor eight years before the novel begins?",
+    "choices": ["Lady Russell advised against the engagement", "He was too poor and had no prospects", "His family opposed it", "She fell in love with someone else"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who is the narrator of Melville's 'Moby-Dick'?",
+    "choices": ["Ishmael", "Starbuck", "Ahab", "Tashtego"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Dickens' 'Great Expectations,' what is Pip's great expectation?",
+    "choices": ["Inheriting a fortune from a mystery benefactor", "Becoming a gentleman of leisure", "Marrying Estella", "Becoming a lawyer"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is Anna Karenina's tragic end in Tolstoy's novel?",
+    "choices": ["She throws herself under a train", "She dies in childbirth", "She poisons herself", "She drowns"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which character is 'The Hunchback' in Hugo's 'The Hunchback of Notre-Dame'?",
+    "choices": ["Quasimodo", "Claude Frollo", "Pierre Gringoire", "Phoebus de Châteaupers"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Twain's 'Adventures of Huckleberry Finn,' with whom does Huck travel down the Mississippi River?",
+    "choices": ["Jim, an escaped slave", "Tom Sawyer", "An old riverboat captain", "A Native American guide"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What false belief do the inhabitants of the town hold in Dostoevsky's 'Demons'?",
+    "choices": ["That a socialist utopia is being established", "That the devil walks among them", "That a foreign invasion is imminent", "That the dead are rising"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In Brontë's 'The Tenant of Wildfell Hall,' what does the protagonist do to escape her marriage?",
+    "choices": ["She leaves her husband and lives under an assumed name", "She divorces him openly", "She fakes her death", "She enters a convent"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the primary profession of Pip's benefactor in Dickens' 'Great Expectations'?",
+    "choices": ["Convict and criminal", "Gentleman farmer", "Merchant", "Lawyer"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Austen's 'Mansfield Park,' why is Fanny Price sent to live with her wealthy relatives?",
+    "choices": ["Her family is too poor to support her", "She was orphaned", "She ran away from home", "She was promised a good marriage"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who suffers from a mental breakdown due to grief in Dickens' 'Bleak House'?",
+    "choices": ["Lady Dedlock", "Esther Summerson", "Mr. Jarndyce", "Harold Skimpole"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Rochester's secret in Brontë's 'Jane Eyre' beyond his wife's confinement?",
+    "choices": ["He has a child with another woman", "He is hiding stolen treasure", "He is in debt to criminals", "He has another wife in France"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In Tolstoy's 'Anna Karenina,' what is Levin's philosophical quest about?",
+    "choices": ["Finding meaning and happiness in life and work", "Accumulating wealth", "Gaining political power", "Mastering revolutionary ideology"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What animal symbolizes the fundamental nature of human cruelty in Dostoevsky's 'The Brothers Karamazov'?",
+    "choices": ["A horse being beaten", "A dog", "A wolf", "A raven"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Twain's 'The Prince and the Pauper,' how are the two title characters similar?",
+    "choices": ["They are identical twins separated at birth", "They look remarkably alike", "They share the same parents", "They were switched at the christening"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the underlying conflict in Melville's 'Billy Budd'?",
+    "choices": ["Innocence versus naval discipline and false accusation", "A mutiny against a tyrant captain", "A love triangle aboard ship", "A treasure hunt in the tropics"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Dickens' 'The Old Curiosity Shop,' what business does the protagonist's grandfather own?",
+    "choices": ["An antique shop", "A pawnbroker's shop", "A tea house", "A bookstore"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary reason Raskolnikov confesses his crime in Dostoevsky's novel?",
+    "choices": ["Spiritual redemption through confession to Sonya", "Fear of arrest", "Pressure from police investigation", "A desire to be punished"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "In Hugo's 'Les Misérables,' who is the detective pursuing Jean Valjean throughout the novel?",
+    "choices": ["Inspector Javert", "Monsieur Thénardier", "Monsieur Scaufflaire", "The Bishop of Digne"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the central moral question posed by Ivan Karamazov in Dostoevsky's epic?",
+    "choices": ["Can God exist given the suffering of innocents?", "Is murder ever justified?", "Can happiness be achieved?", "Is faith or reason superior?"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In Austen's 'Northanger Abbey,' what genre does Catherine Morland's imagination distort her perception of?",
+    "choices": ["Gothic novels", "Romantic poetry", "Philosophical texts", "Travel narratives"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who is Magwitch in Dickens' 'Great Expectations'?",
+    "choices": ["Pip's secret benefactor, a convict", "Pip's old schoolmaster", "A rival gentleman", "A criminal inspector"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is Fiona's role in Brontë's 'Agnes Grey'?",
+    "choices": ["She is a fellow governess and friend", "She is Fiona's employer", "She is a rival for the clergyman's attention", "She is an imaginary companion"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Melville's 'Moby-Dick,' what is the significance of the white whale's color?",
+    "choices": ["It represents the inscrutability and malice of nature", "It signifies purity", "It indicates the whale is old and wise", "It is merely a physical description"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What specific philosophical crime does Raskolnikov theorize in Dostoevsky's novel?",
+    "choices": ["That extraordinary individuals may transcend conventional morality", "That all crime is justified by poverty", "That murder purifies the soul", "That society created criminality"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Tolstoy's 'War and Peace,' what historical event anchors the narrative?",
+    "choices": ["Napoleon's invasion of Russia", "The Russian Revolution", "The Crimean War", "The Russo-Turkish War"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What pseudonym does Nicodemus use in Dostoevsky's 'Demons'?",
+    "choices": ["Peter Verkhovensky", "Pyotr Verkhovensky", "Mikhail Shatov", "Alexei Kirillov"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In Twain's 'Adventures of Huckleberry Finn,' what moral struggle drives Huck's internal conflict?",
+    "choices": ["Helping Jim escape slavery while feeling socially condemned", "Choosing between two romantic interests", "Deciding whether to return home or explore", "Believing he is damned for helping a slave"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What supernatural phenomenon terrifies Scrooge in Dickens' 'A Christmas Carol'?",
+    "choices": ["Three ghostly visions of his past, present, and future", "A ghostly hand writing on a wall", "A phantom carriage", "An angelic choir"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Brontë's 'Jane Eyre,' what does Rochester ask Jane to do before the revelation of his wife?",
+    "choices": ["Marry him", "Leave Thornfield Hall", "Become his mistress", "Join him in France"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is Estella's role in shaping Pip's expectations in Dickens' novel?",
+    "choices": ["His romantic ideal and symbol of unattainable gentility", "His financial advisor", "His moral conscience", "His rival in business"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Hugo's 'The Hunchback of Notre-Dame,' why does Quasimodo ultimately leave Notre-Dame?",
+    "choices": ["Driven away by the crowd's cruelty and Esméralda's death", "He is fired by the archdeacon", "He runs away with Esméralda", "He becomes a priest"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What philosophical movement deeply influences the characters in Dostoevsky's 'Demons'?",
+    "choices": ["Russian nihilism and socialist ideology", "German idealism", "French rationalism", "British empiricism"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Tolstoy's 'Anna Karenina,' what is the symbolic significance of the railroad?",
+    "choices": ["It represents modernity, fate, and Anna's ultimate destruction", "It symbolizes progress and human achievement", "It is merely a setting for scenes", "It represents romantic escape"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  }
+]

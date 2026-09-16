@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which taste sensation is primarily associated with foods containing glutamates like aged cheese or mushrooms?",
+    "choices": ["Umami", "Sweet", "Sour", "Bitter"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Approximately how many taste buds does an average adult human have on their tongue?",
+    "choices": ["5,000 to 10,000", "100 to 500", "50,000 to 100,000", "1,000 to 2,000"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Meissner's corpuscles in the skin are specialized for detecting which type of sensation?",
+    "choices": ["Light touch", "Deep pressure", "Pain", "Temperature"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In optical illusions like the Müller-Lyer illusion, our brain interprets line length partly based on context clues and...",
+    "choices": ["Previous experience with perspective", "The size of the pupil", "The age of the observer", "Blood vessel density"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Why do you eventually stop noticing the smell of your own perfume even though the scent is still present?",
+    "choices": ["Olfactory adaptation reduces receptor sensitivity to constant stimuli", "Your nasal cavities dry out", "The perfume actually evaporates faster than expected", "Smell receptors are damaged by exposure"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Ishihara color blindness test uses patterns of colored dots that form numbers visible to people with normal color vision but appear as...",
+    "choices": ["Random dots to colorblind individuals", "Uniform color to colorblind individuals", "Blurry patterns to colorblind individuals", "Alternating flashes to colorblind individuals"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The perception of motion from a series of static images shown in rapid succession is called the...",
+    "choices": ["Phi phenomenon", "Motion after-effect", "Stroboscopic effect", "Apparent motion illusion"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Necker cube optical illusion demonstrates the brain's tendency to interpret ambiguous images by...",
+    "choices": ["Reversing the perceived 3D orientation spontaneously", "Enhancing edges and contrast", "Increasing color saturation", "Focusing only on one edge"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The 'impossible triangle' (Penrose triangle) optical illusion exploits our brain's assumption that...",
+    "choices": ["2D images follow 3D perspective rules", "All triangles are equilateral", "Depth increases linearly", "Motion creates illusion"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Synesthesia is a neurological condition where stimulation of one sense involuntarily triggers...",
+    "choices": ["Sensations in multiple other senses", "Pain receptors", "The same sense intensified", "Temporary blindness"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Olfactory sensory neurons in the nasal epithelium are unique among neurons because they...",
+    "choices": ["Regularly regenerate and replace themselves throughout life", "Never connect to the brain", "Change color with age", "Do not produce neurotransmitters"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary function of the lens inside the human eye?",
+    "choices": ["Detects light and color", "Focuses light onto the retina", "Controls pupil size and light entry", "Produces tears for lubrication"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many types of cone cells in the retina enable humans to see color?",
+    "choices": ["Two types", "Three types", "Four types", "Five types"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The three tiny bones in the middle ear that transmit sound vibrations are collectively called the...",
+    "choices": ["Cochlea", "Ossicles or ossicular chain", "Eustachian tubes", "Tympanum"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which structure in the inner ear converts vibrations into electrical nerve signals for hearing?",
+    "choices": ["Semicircular canal", "Cochlea", "Vestibule", "Eustachian tube"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The sense of balance and body orientation is controlled by which sensory system in the inner ear?",
+    "choices": ["Cochlear system", "Vestibular system", "Tympanic system", "Ossicular system"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the name of the pigmented muscle that surrounds the pupil and controls how much light enters the eye?",
+    "choices": ["Ciliary body", "Iris", "Retina", "Sclera"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The semicircular canals in the inner ear are primarily responsible for detecting...",
+    "choices": ["Sound volume", "Head movements and rotation", "Sound frequency", "Taste perception"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Rod cells in the retina are specialized for which visual function?",
+    "choices": ["Color vision in bright light", "Seeing in low-light or dark conditions", "Detecting rapid motion", "Processing depth information"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What percentage of the eye's focusing power comes from the cornea?",
+    "choices": ["30%", "70%", "50%", "90%"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Olfactory receptor cells are located in a specialized tissue in the nasal cavity called the...",
+    "choices": ["Olfactory bulb", "Olfactory epithelium", "Nasal septum", "Vomeronasal organ"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Sound localization—the ability to determine where a sound originates—primarily depends on comparing...",
+    "choices": ["Sound frequency in each ear", "Arrival time and intensity differences between ears", "The volume of each sound", "Ear size between individuals"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The vestibulo-ocular reflex keeps your eyes stable during head movement by...",
+    "choices": ["Dilating your pupils", "Moving your eyes opposite to your head rotation", "Stiffening your neck muscles", "Releasing lubricating fluid"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The innermost light-detecting layer at the back of the eye is called the...",
+    "choices": ["Cornea", "Choroid", "Retina", "Vitreous humor"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which structure in the retina contains the highest density of cone cells for sharpest central vision?",
+    "choices": ["Blind spot", "Peripheral regions", "Fovea", "Optic disk"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The accommodation reflex allows the eye to change focus from distant to near objects by adjusting the shape of the...",
+    "choices": ["Pupil", "Iris", "Lens", "Cornea"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Presbyopia, difficulty focusing on near objects that worsens with age, is primarily caused by changes to the...",
+    "choices": ["Cornea", "Iris", "Lens", "Retina"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Pacinian corpuscles are mechanoreceptors in deep skin layers that primarily detect...",
+    "choices": ["Fine touch and texture", "Vibration and deep pressure", "Cold temperatures", "Sharp pain"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Weber's law in sensory perception relates the just noticeable difference to the...",
+    "choices": ["Observer's age", "Intensity of the original stimulus", "Time of day", "Temperature of the environment"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Gestalt perceptual principles like grouping and figure-ground organization help the brain...",
+    "choices": ["Enhance color perception", "Organize visual elements into meaningful wholes", "Measure distance accurately", "Detect motion faster"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Binocular disparity, the slight difference between images seen by each eye, is primarily used to judge...",
+    "choices": ["Color accuracy", "Motion speed", "Depth", "Brightness"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Otoliths are calcium carbonate crystals in the inner ear that detect...",
+    "choices": ["Sound frequency", "Linear acceleration and gravity", "Rotational movement only", "Electromagnetic changes"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The phenomenon where the visual cortex continues to perceive motion after a moving stimulus stops is called the...",
+    "choices": ["Motion persistence", "Optical residue", "Motion after-effect", "Stroboscopic rebound"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Lateral inhibition in the retina serves primarily to...",
+    "choices": ["Increase overall light sensitivity", "Enhance contrast and sharpen edges", "Prevent glare", "Slow down signal transmission"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Young-Helmholtz trichromatic theory of color vision proposes that color perception depends on how many types of color receptors?",
+    "choices": ["Two types", "Three types", "Four types", "Six types"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Sensory adaptation explains why constant stimuli like background noise eventually seem to disappear even though they are still present, because...",
+    "choices": ["The brain physically removes the sensory neurons", "Receptors become less sensitive to unchanging stimuli", "The stimulus actually reduces over time", "Attention shifts to other senses"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The blind spot in your visual field occurs where there are no photoreceptor cells because...",
+    "choices": ["Blood vessels block the area", "The optic nerve attaches at that point", "The lens focuses poorly there", "The pupil is too small"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Taste receptor cells are organized within small structures on the tongue called...",
+    "choices": ["Cilia", "Fimbriae", "Taste buds", "Microvilli"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Signals from the retina travel to the brain via the optic nerve, which connects to the...",
+    "choices": ["Temporal lobe", "Parietal lobe", "Cerebellum", "Occipital lobe"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The human olfactory system contains approximately how many different types of olfactory receptors?",
+    "choices": ["About 10 types", "About 100 types", "About 400 types", "About 10,000 types"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which sensation is NOT considered one of the five basic tastes recognized by humans?",
+    "choices": ["Salty", "Astringent", "Bitter", "Sour"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The pinna, the external visible part of the ear, primarily helps with sound localization by...",
+    "choices": ["Amplifying all frequencies equally", "Creating delays in sound arrival", "Filtering certain frequencies", "Enhancing high-frequency directional cues"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Proprioception, our sense of body position and movement without looking, relies primarily on receptors in...",
+    "choices": ["The retina", "Hair follicles", "The cerebellum only", "Muscles, tendons, and joints"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Red-green color blindness most commonly results from a deficiency in cone cell photopigments encoded by genes on the...",
+    "choices": ["Autosomal chromosome", "Mitochondrial DNA", "Y chromosome", "X chromosome"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which sensory receptor type in the skin is most responsible for detecting vibrations?",
+    "choices": ["Free nerve endings", "Merkel cells", "Meissner corpuscles", "Pacinian corpuscles"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which escape artist died on Halloween 1926 after performing the Chinese Water Torture Cell?",
+    "choices": ["Doug Henning", "Harry Houdini", "Lance Burton", "David Blaine"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In the classic illusion where an assistant appears bisected, what is the trick called?",
+    "choices": ["The Cross Cut", "The Divided Lady", "The Separation", "The Illusion of Bisection"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was P.T. Barnum's role in circus history?",
+    "choices": ["Ringmaster of Ringling Bros.", "Founder of The Greatest Show on Earth", "Inventor of the flying trapeze", "Creator of the big top tent"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which principle is essential to most stage illusions?",
+    "choices": ["Gravitational anomalies", "Misdirection of attention", "Holograms and projections", "Hypnotic suggestion"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Penn and Teller are known for what approach to revealing magic?",
+    "choices": ["Refusing to ever explain tricks", "Explaining mechanics while performing", "Using only digital technology", "Performing mentalism exclusively"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Siegfried and Roy performed with which big cats at The Mirage?",
+    "choices": ["Lions and panthers", "White tigers and lions", "Bengal tigers only", "Black leopards"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is 'cold reading' in mentalism?",
+    "choices": ["Reading minds at low temperatures", "Technique to appear psychic using observation", "Memorizing information beforehand", "Reading written statements"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which magician made the Statue of Liberty appear to vanish?",
+    "choices": ["Doug Henning", "David Copperfield", "Criss Angel", "Lance Burton"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In sleight of hand, what is 'palming'?",
+    "choices": ["Waving your hand over an object", "Holding object hidden in the hand", "Using palm leaves as props", "Slapping the table rhythmically"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is a 'production' in stage magic?",
+    "choices": ["Arranging spotlights on stage", "Making an object materialize from nothing", "A theatrical presentation", "Setting up props"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Houdini's most famous escape involved chains, locks, and what confinement?",
+    "choices": ["A wooden box", "A coffin", "A milk can", "A steel cage"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In circus, what does 'risley' refer to?",
+    "choices": ["A type of clown makeup", "Acrobatic foot-juggling act", "A trained animal performance", "An aerial silk apparatus"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is a 'double lift' in card magic?",
+    "choices": ["Lifting two cards simultaneously as one", "Performing with two decks", "Doubling the height of the stage", "Using two assistants"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "David Blaine popularized which style of magic performance?",
+    "choices": ["Grand stage illusions", "Street magic on television", "Card manipulation", "Mentalism acts"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In circus terminology, what is a 'static trapeze'?",
+    "choices": ["A trapeze that moves slowly", "A stationary trapeze for ground tricks", "An electric apparatus", "A portable trapeze"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary purpose of 'flash paper' in magic?",
+    "choices": ["Creating brightly colored smoke effects", "Producing a sudden burst of flame", "Illuminating the stage", "Creating paper flowers"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Lance Burton was famous for performing with what bird?",
+    "choices": ["Pigeons and doves", "White doves and peacocks", "Doves in elaborate illusions", "Ravens and crows"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What ancient circus act involves walking on a rope or wire?",
+    "choices": ["The risley", "Tightrope walking", "Contortion", "Aerial silks"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In magic, 'force' means to make a spectator appear to freely choose what?",
+    "choices": ["A number the magician selected", "A card the magician controls", "A person from the audience", "A location on stage"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which magician performed the 'Metamorphosis' illusion involving a trunk and cabinet?",
+    "choices": ["Doug Henning", "Harry Houdini", "Criss Angel", "David Copperfield"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the 'three-shell game' or 'shells and pea' trick?",
+    "choices": ["A card memorization trick", "Sleight of hand with hidden object under shells", "A juggling routine", "A mathematical prediction"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In the 'Chinese Water Torture Cell', the escape involves being locked where?",
+    "choices": ["In a metal tank filled with water", "In stocks with feet in water", "In a sealed wooden box underwater", "Suspended over water"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Prestidigitation is another term for what type of magic?",
+    "choices": ["Large stage illusions", "Sleight of hand with small objects", "Card manipulation only", "Mentalism and mind reading"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is a 'false shuffle' in card magic?",
+    "choices": ["Accidentally dropping cards", "Appearing to shuffle while preserving order", "Shuffling too quickly", "Shuffling only one half of the deck"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In circus, what is a 'teeter board'?",
+    "choices": ["A seesaw-like acrobatic apparatus", "A wobbly platform prop", "A juggling stand", "A flexible springboard"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Criss Angel is primarily known for performing which format of magic?",
+    "choices": ["Large-scale stage illusions", "Street and close-up magic", "Underwater escapes", "Mentalism acts"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What early magical principle involves drawing attention to one place while manipulating another?",
+    "choices": ["Distraction", "Misdirection", "Deflection", "Sleight of mind"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In the 'Cups and Balls' trick, what object is typically hidden and moved?",
+    "choices": ["A marble", "A ball or pea", "A coin", "A thimble"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the term for an acrobat or performer who specializes in rolling and tumbling?",
+    "choices": ["A contortionist", "A tumbler", "A gymnast", "An aerialist"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Doug Henning is credited with reviving which medium of magic in the 1970s?",
+    "choices": ["Street magic", "Stage magic on television", "Large-scale stage illusions", "Close-up card magic"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In circus terminology, what is a 'web' or silk apparatus?",
+    "choices": ["A net for safety", "Aerial silk for acrobatic performance", "A rope structure", "A decorative backdrop"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What fundamental principle allows the 'coin vanish' illusion to work?",
+    "choices": ["Physics and magnetism", "Sleight of hand and misdirection", "Hidden compartments", "Quick substitution with a duplicate"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Jules Léotard became famous for inventing which circus apparatus?",
+    "choices": ["The tightrope", "The flying trapeze", "The static trapeze", "The aerial silks"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In magic terminology, what does 'jib' or 'gib' refer to?",
+    "choices": ["A type of card shuffle", "Stage rigging and apparatus", "A misdirection technique", "A psychological principle"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What prop did Houdini use to perform suspended escape acts?",
+    "choices": ["Chains", "Straightjackets", "Locks and padlocks", "Water chambers"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In circus, a 'perch pole' act involves balancing on what?",
+    "choices": ["A long flexible pole held by partners", "A precarious high platform", "A spinning vertical apparatus", "A thin rope"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What magician famously performed 'The Impossible Prediction' using sealed envelopes?",
+    "choices": ["Derren Brown", "David Copperfield", "Criss Angel", "Penn Jillette"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In card magic, what is 'painting the deck'?",
+    "choices": ["Coating cards with paint", "Marking cards subtly for identification", "Arranging cards in a specific order", "Shuffling with artistic flair"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which famous magician performed 'The Wall' illusion passing through a solid brick wall?",
+    "choices": ["Doug Henning", "David Copperfield", "Criss Angel", "Lance Burton"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the fundamental principle behind the 'Floating Lady' or 'Asrah' illusion?",
+    "choices": ["Mirrors and reflection", "Hidden support structure", "Projection and shadows", "Audience hypnosis"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In magic, what is a 'gimmick' or 'gaff'?",
+    "choices": ["A comedic joke or punchline", "A secret device or preparation", "A type of flourish with cards", "A stage entrance or exit"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Blondin was famous for performing what circus act?",
+    "choices": ["The flying trapeze", "Tightrope walking over Niagara Falls", "Elephant training", "Clown performances"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In card magic, what is an 'overhand shuffle'?",
+    "choices": ["Shuffling with one hand above the deck", "A specific card shuffling technique", "Throwing cards into the air", "Shuffling overturned cards"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What principle of magic involves making something appear where it wasn't before?",
+    "choices": ["Vanishing", "Production", "Transformation", "Transposition"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In circus, what is a 'contortionist'?",
+    "choices": ["A performer who tumbles", "A performer who bends joints abnormally", "A wirewalker", "A juggling specialist"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  }
+]

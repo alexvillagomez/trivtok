@@ -1,0 +1,992 @@
+[
+  {
+    "text": "What is the name of SpongeBob SquarePants' pet snail?",
+    "choices": [
+      "Larry",
+      "Gary",
+      "Shelly",
+      "Bubbles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In The Simpsons, what is the first name of the Flanders family patriarch?",
+    "choices": [
+      "Rod",
+      "Ned",
+      "Todd",
+      "Maude"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which cartoon duo consists of a blue jay and a raccoon who work at a park?",
+    "choices": [
+      "Mordecai and Rigby",
+      "Finn and Jake",
+      "Pinky and the Brain",
+      "Yakko and Wakko"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Avatar: The Last Airbender begins with Aang being discovered trapped in what?",
+    "choices": [
+      "A crystal cave",
+      "A whirlpool",
+      "An iceberg",
+      "A volcano"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "On Futurama, what century does Fry wake up in after being cryogenically frozen?",
+    "choices": [
+      "29th",
+      "30th",
+      "31st",
+      "32nd"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Disney Channel animated series follows the adventures of stepbrothers building elaborate inventions each summer day?",
+    "choices": [
+      "Kim Possible",
+      "Recess",
+      "Phineas and Ferb",
+      "The Proud Family"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which long-running adult animated sitcom is set in the fictional Colorado town of South Park?",
+    "choices": [
+      "Family Guy",
+      "South Park",
+      "American Dad!",
+      "The Cleveland Show"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the name of the magical dog in Adventure Time?",
+    "choices": [
+      "Max",
+      "Jake",
+      "BMO",
+      "Peppermint"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Bluey, what breed of dog is Bluey herself?",
+    "choices": [
+      "Border Collie",
+      "Australian Cattle Dog",
+      "Jack Russell Terrier",
+      "Australian Shepherd"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Nickelodeon cartoon features Tommy Pickles, Chuckie Finster, and Angelica Pickles?",
+    "choices": [
+      "Doug",
+      "Rugrats",
+      "Hey Arnold!",
+      "Rocket Power"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which classic Hanna-Barbera cartoon family lives in Orbit City?",
+    "choices": [
+      "The Flintstones",
+      "The Jetsons",
+      "Top Cat",
+      "The Smurfs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Disney Afternoon series centers on Scrooge McDuck and Huey, Dewey, and Louie?",
+    "choices": [
+      "TaleSpin",
+      "Darkwing Duck",
+      "DuckTales",
+      "Quack Pack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the name of Kim Possible's best friend and sidekick?",
+    "choices": [
+      "Wade",
+      "Monique",
+      "Ron Stoppable",
+      "Drakken"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Bob's Burgers, which Belcher child is the eldest?",
+    "choices": [
+      "Gene",
+      "Louise",
+      "Tina",
+      "Regular-Sized Rudy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "On Rick and Morty, what relationship is Morty to Rick?",
+    "choices": [
+      "Nephew",
+      "Grandson",
+      "Son",
+      "Brother"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which classic cartoon cat and mouse duo are usually locked in pursuit of each other?",
+    "choices": [
+      "Sylvester and Tweety",
+      "Tom and Jerry",
+      "Felix and Poindexter",
+      "Heathcliff and Marmaduke"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Batman: The Animated Series, what is the civilian name of Two-Face before his transformation?",
+    "choices": [
+      "Harvey Dent",
+      "Harvey Bullock",
+      "Roman Sionis",
+      "Gil Mason"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which cartoon news anchor regularly appears on The Simpsons delivering Springfield updates?",
+    "choices": [
+      "Kent Brockman",
+      "Troy McClure",
+      "Lionel Hutz",
+      "Arnie Pye"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In King of the Hill, what is Hank Hill's job title at Strickland Propane for most of the series?",
+    "choices": [
+      "Regional distributor",
+      "Assistant manager",
+      "Store owner",
+      "Service technician"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which 1990s cartoon group includes Yakko, Wakko, and Dot?",
+    "choices": [
+      "Tiny Toons",
+      "The Warners",
+      "The Rescue Rangers",
+      "The Chipmunks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is the name of the ruler of the Candy Kingdom in Adventure Time?",
+    "choices": [
+      "Flame Princess",
+      "Princess Bubblegum",
+      "Lumpy Space Princess",
+      "Marceline"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which animated superhero series prominently used the intro line 'Previously, on X-Men' in its 1990s run?",
+    "choices": [
+      "Spider-Man",
+      "Batman Beyond",
+      "X-Men: The Animated Series",
+      "The Tick"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is the surname of Dipper and Mabel in Gravity Falls?",
+    "choices": [
+      "Mystery",
+      "Pines",
+      "Falls",
+      "Gleeful"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Steven Universe, which Gem is Greg's former partner and Steven's mother?",
+    "choices": [
+      "Pearl",
+      "Garnet",
+      "Rose Quartz",
+      "Amethyst"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Looney Tunes character is known for the catchphrase 'You're dethpicable'?",
+    "choices": [
+      "Porky Pig",
+      "Sylvester",
+      "Daffy Duck",
+      "Elmer Fudd"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is the name of the school attended by T.J. Detweiler and his friends in Recess?",
+    "choices": [
+      "Third Street School",
+      "Fourth Avenue School",
+      "P.S. 118",
+      "Wagstaff School"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Hey Arnold!, where does Arnold primarily live?",
+    "choices": [
+      "An apartment tower",
+      "A boarding house run by his grandparents",
+      "A school dormitory",
+      "A suburban duplex"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Doug, what is the name of Doug Funnie's best friend?",
+    "choices": [
+      "Roger Klotz",
+      "Skeeter Valentine",
+      "Patti Mayonnaise",
+      "Al Banga"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which series follows a samurai sent to a dystopian future by the shape-shifting demon Aku?",
+    "choices": [
+      "Afro Samurai",
+      "Samurai Jack",
+      "Ronin Warriors",
+      "Blue Eye Samurai"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In The Venture Bros., what is Dr. Venture's common first name?",
+    "choices": [
+      "Thaddeus",
+      "Malcolm",
+      "Jonas",
+      "Rusty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which cartoon's opening theme begins with the line 'Life is like a hurricane'?",
+    "choices": [
+      "Chip 'n Dale: Rescue Rangers",
+      "DuckTales",
+      "Darkwing Duck",
+      "TaleSpin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is Arnold's surname in Hey Arnold!?",
+    "choices": [
+      "Johanssen",
+      "Shortman",
+      "Pataki",
+      "Berman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Avatar: The Last Airbender, what kind of creature is Appa?",
+    "choices": [
+      "Sky bison",
+      "Winged lemur",
+      "Dragon-goat",
+      "Badgermole"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "On Beavis and Butt-Head, what channel's music videos were central to the original format?",
+    "choices": [
+      "VH1",
+      "MTV",
+      "Fuse",
+      "BET"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Nickelodeon series stars a green-skinned Irken invader pretending to be a human child?",
+    "choices": [
+      "Danny Phantom",
+      "Invader Zim",
+      "Rocket Power",
+      "CatDog"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Batman Beyond, Terry McGinnis becomes Batman under the guidance of which older mentor?",
+    "choices": [
+      "Commissioner Gordon",
+      "Lucius Fox",
+      "Bruce Wayne",
+      "Dick Grayson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which 1980s cartoon villain shouts 'I'll get you next time, Gadget!'?",
+    "choices": [
+      "Megavolt",
+      "Dr. Claw",
+      "Shredder",
+      "Mumm-Ra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In The Powerpuff Girls, which girl wears green and is often portrayed as the toughest fighter?",
+    "choices": [
+      "Blossom",
+      "Bubbles",
+      "Buttercup",
+      "Belladonna"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which animated sitcom centers on the Smith family and the alien Roger?",
+    "choices": [
+      "Family Guy",
+      "American Dad!",
+      "Solar Opposites",
+      "The Oblongs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Gargoyles, what city do Goliath and his clan protect after awakening in the modern era?",
+    "choices": [
+      "Chicago",
+      "New York City",
+      "Boston",
+      "San Francisco"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which cartoon features a trio of bears named Grizz, Panda, and Ice Bear?",
+    "choices": [
+      "Brother Bear",
+      "The Berenstain Bears",
+      "We Bare Bears",
+      "Masha and the Bear"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Star Wars: The Clone Wars, what is the name of Anakin Skywalker's Padawan learner?",
+    "choices": [
+      "Barriss Offee",
+      "Ahsoka Tano",
+      "Asajj Ventress",
+      "Bo-Katan Kryze"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "On The Owl House, what is the name of the realm where Luz studies magic?",
+    "choices": [
+      "The Broken Isles",
+      "The Boiling Isles",
+      "The Demon Sea",
+      "The Titan Realm"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In BoJack Horseman, what was the name of BoJack's cheesy 1990s family sitcom?",
+    "choices": [
+      "Mr. Peanutbutter's House",
+      "Horsin' Around",
+      "Around the Stable",
+      "Back in the Saddle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the name of the luchador-style villain in Dexter's Laboratory?",
+    "choices": [
+      "Mandark",
+      "Koosalagoopagoop",
+      "Major Glory",
+      "Melee-Loco"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Rocko's Modern Life, what kind of animal is Rocko?",
+    "choices": [
+      "Wallaby",
+      "Wombat",
+      "Kangaroo",
+      "Koala"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1990s series features the crime-fighting mallard Drake Mallard as its hero?",
+    "choices": [
+      "DuckTales",
+      "Darkwing Duck",
+      "Quack Pack",
+      "Mighty Ducks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Nickelodeon cartoon is set largely in the suburban town of Dimmsdale?",
+    "choices": [
+      "Danny Phantom",
+      "The Fairly OddParents",
+      "Jimmy Neutron",
+      "My Life as a Teenage Robot"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the name of the grumpy old farmer who owns Courage's home in Courage the Cowardly Dog?",
+    "choices": [
+      "Eustace Bagge",
+      "Katz Bagge",
+      "Muriel Bagge",
+      "Horst Bagge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which limited fantasy cartoon by Patrick McHale follows Wirt and Greg through a woodland called the Unknown?",
+    "choices": [
+      "Hilda",
+      "Infinity Train",
+      "Over the Garden Wall",
+      "The Hollow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Legend of Korra, what city serves as the main urban setting in Book One?",
+    "choices": [
+      "Republic City",
+      "Ba Sing Se",
+      "Omashu",
+      "Zaofu"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Loren Bouchard sitcom centers on the Tobin family in Alaska?",
+    "choices": [
+      "Central Park",
+      "Bless the Harts",
+      "The Great North",
+      "Home Movies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Steven Universe, Garnet is eventually revealed to be what?",
+    "choices": [
+      "A Rose Quartz shard",
+      "A fusion of Ruby and Sapphire",
+      "A disguised Homeworld commander",
+      "Steven's future form"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which adult animated series began as a parody of Johnny Quest-style adventure cartoons and features Hank and Dean Venture?",
+    "choices": [
+      "Harvey Birdman, Attorney at Law",
+      "The Venture Bros.",
+      "Metalocalypse",
+      "Sealab 2021"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1980s cartoon team includes Lion-O, Cheetara, Panthro, and Tygra?",
+    "choices": [
+      "SilverHawks",
+      "ThunderCats",
+      "Voltron Force",
+      "The Centurions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Daria, what is the name of the suburban town where Daria Morgendorffer attends high school?",
+    "choices": [
+      "Lawndale",
+      "Lawnview",
+      "Larkdale",
+      "Lakeside"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "On Phineas and Ferb, what is Perry the Platypus's secret-agent codename?",
+    "choices": [
+      "Agent P",
+      "Agent Plat",
+      "Operation Perry",
+      "The Platypus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which fantasy reboot follows Adora after she discovers a magic sword and becomes She-Ra?",
+    "choices": [
+      "Kipo and the Age of Wonderbeasts",
+      "She-Ra and the Princesses of Power",
+      "Voltron: Legendary Defender",
+      "The Dragon Prince"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Animaniacs, what is Dot Warner's full first name as revealed in the series?",
+    "choices": [
+      "Dorothy",
+      "Dottie",
+      "Princess Angelina Contessa Louisa Francesca Banana Fanna Bo Besca III",
+      "Deanna"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the name of the recurring purple cat con artist in Courage the Cowardly Dog?",
+    "choices": [
+      "Le Quack",
+      "Katz",
+      "Freaky Fred",
+      "Dr. Vindaloo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Cartoon Network series stars Tulip in its first season as she travels across a surreal train of self-contained worlds?",
+    "choices": [
+      "Infinity Train",
+      "Craig of the Creek",
+      "The Hollow",
+      "Summer Camp Island"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Batman: The Animated Series, which villain's alter ego is former psychiatrist Dr. Harleen Quinzel?",
+    "choices": [
+      "Poison Ivy",
+      "Catwoman",
+      "Harley Quinn",
+      "Baby-Doll"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What kind of fish is Blinky, the three-eyed mutant found near the nuclear plant on The Simpsons?",
+    "choices": [
+      "Salmon",
+      "Trout",
+      "Pike",
+      "Catfish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which animated series takes place in the town of Amity Park and stars a teen ghost hunter?",
+    "choices": [
+      "American Dragon: Jake Long",
+      "Danny Phantom",
+      "Static Shock",
+      "Generator Rex"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In BoJack Horseman, Princess Carolyn works primarily as what in Hollywoo?",
+    "choices": [
+      "Publicist and manager",
+      "Screenwriter",
+      "Studio executive",
+      "Sitcom director"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Disney animated series follows Anne Boonchuy after she is transported to a world of talking frogs?",
+    "choices": [
+      "Amphibia",
+      "The Owl House",
+      "Star vs. the Forces of Evil",
+      "Hilda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Invader Zim, what is the name of Zim's robot companion disguised as a dog?",
+    "choices": [
+      "MINI-MOOSE",
+      "Tak",
+      "GIR",
+      "SIR"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "On Gravity Falls, what is the first name of the six-fingered author of Journal 3?",
+    "choices": [
+      "Stanley",
+      "Ford",
+      "Fiddleford",
+      "Soos"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1990s superhero cartoon starred Tony Stark as part of Marvel Action Hour?",
+    "choices": [
+      "Fantastic Four",
+      "The Incredible Hulk",
+      "Iron Man",
+      "Silver Surfer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the name of Arnold's best friend in Hey Arnold!, known for his tall hair and storytelling?",
+    "choices": [
+      "Sid",
+      "Stinky",
+      "Gerald",
+      "Harold"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Steven Universe, what is the name of Steven's home town?",
+    "choices": [
+      "Beach City",
+      "Boardwalk Bay",
+      "Crystal Cove",
+      "Ocean Town"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Netflix-animated adaptation follows siblings Vi and Jinx in Piltover and Zaun?",
+    "choices": [
+      "Blue Eye Samurai",
+      "Arcane",
+      "DOTA: Dragon's Blood",
+      "Castlevania"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Simpsons, what is the name of Krusty the Clown's television sidekick with the tall blue hair?",
+    "choices": [
+      "Sideshow Bob",
+      "Sideshow Mel",
+      "Tingly Ted",
+      "Professor Frink"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which animated series stars Hilda, a blue-haired girl who moves to the city of Trolberg?",
+    "choices": [
+      "Kipo and the Age of Wonderbeasts",
+      "Hilda",
+      "Maya and the Three",
+      "Bee and PuppyCat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the title of the detective drama BoJack once stars in after Horsin' Around?",
+    "choices": [
+      "Philbert",
+      "The BoJack Mysteries",
+      "Hollywoo P.I.",
+      "Secretariat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Samurai Jack, what is the name of the principal villain who sends Jack through time?",
+    "choices": [
+      "Oroku Saki",
+      "Aku",
+      "Mumm-Ra",
+      "Rama-Khan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the name of the town where Bob's Burgers is set?",
+    "choices": [
+      "Ocean Avenue",
+      "Seymour's Bay",
+      "Wonder Wharf",
+      "Wagstaff Harbor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which animators' duo created Beavis and Butt-Head spin-off Daria's world of Lawndale cynicism?",
+    "choices": [
+      "Mike Judge and Glenn Eichler",
+      "Matt Groening and Sam Simon",
+      "Trey Parker and Matt Stone",
+      "Loren Bouchard and Jim Dauterive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Futurama, what is the full name of the delivery company owned by Professor Farnsworth?",
+    "choices": [
+      "Galaxy Express",
+      "Planet Express",
+      "Interstellar Freight",
+      "New New York Shipping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1990s Disney series centers on a Scottish gargoyle clan whose leader is Goliath?",
+    "choices": [
+      "Mighty Max",
+      "Gargoyles",
+      "Street Sharks",
+      "Biker Mice from Mars"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "On The Simpsons, what is the surname of bartender Moe?",
+    "choices": [
+      "Sanchez",
+      "Szatyslak",
+      "Spuckler",
+      "Terwilliger"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Nickelodeon series follows a teenage genius living in Retroville?",
+    "choices": [
+      "Danny Phantom",
+      "Jimmy Neutron: Boy Genius",
+      "My Life as a Teenage Robot",
+      "The Adventures of Kid Danger"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the name of BoJack Horseman's relentlessly cheerful golden retriever rival?",
+    "choices": [
+      "Pickles Aplenty",
+      "Rutabaga Rabitowitz",
+      "Mr. Peanutbutter",
+      "Todd Chavez"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which adult animated sitcom set in Langley Falls, Virginia, includes a talking fish named Klaus?",
+    "choices": [
+      "Family Guy",
+      "American Dad!",
+      "Solar Opposites",
+      "Big Mouth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Owl House, what is the name of Luz's mentor, the self-proclaimed Owl Lady?",
+    "choices": [
+      "Lilith Clawthorne",
+      "Eda Clawthorne",
+      "Amity Blight",
+      "Raine Whispers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "On SpongeBob SquarePants, what instrument does Squidward obsessively practice?",
+    "choices": [
+      "Oboe",
+      "Clarinet",
+      "Saxophone",
+      "Bassoon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1990s animated series was set in the fictional Minnesota city of Bluffington?",
+    "choices": [
+      "Doug",
+      "Rugrats",
+      "Recess",
+      "Pepper Ann"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Gravity Falls, what is the name of the tourist trap run by Grunkle Stan?",
+    "choices": [
+      "The Curio Cabin",
+      "The Mystery Shack",
+      "The Odditorium",
+      "Stan's Curiosity Hut"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which series features a horse actor named BoJack living in Hollywoo after the D is stolen from the sign?",
+    "choices": [
+      "Tuca & Bertie",
+      "BoJack Horseman",
+      "Undone",
+      "F Is for Family"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Adventure Time, what is the name of Marceline's bass axe?",
+    "choices": [
+      "Night Sword",
+      "Axe Bass",
+      "Bass Axe",
+      "Demon Bass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  }
+]

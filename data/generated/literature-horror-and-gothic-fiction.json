@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Who authored the 1818 novel about a scientist and his creation?",
+    "choices": ["Mary Shelley", "Jane Austen", "Ann Radcliffe", "Emily Brontë"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In 'The Raven,' what does the bird symbolize?",
+    "choices": ["Death and despair", "Hope and redemption", "Love and longing", "Freedom and escape"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who wrote 'Dracula,' the classic vampire novel?",
+    "choices": ["H.P. Lovecraft", "Bram Stoker", "Stephen King", "Clive Barker"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What year was 'Frankenstein' first published?",
+    "choices": ["1816", "1818", "1820", "1822"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In 'The Fall of the House of Usher,' what is the narrator's relationship to Roderick?",
+    "choices": ["Brother", "Cousin", "Childhood friend", "Physician"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who created the Cthulhu Mythos?",
+    "choices": ["Stephen King", "Clive Barker", "H.P. Lovecraft", "T.E.D. Klein"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the name of the monster in Mary Shelley's novel?",
+    "choices": ["Adam", "Frankenstein", "Victor's creation", "The Creature"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In 'Dracula,' what does the vampire fear most?",
+    "choices": ["Mirrors", "Crucifixes", "Garlic", "Wooden stakes"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who wrote 'The Haunting of Hill House'?",
+    "choices": ["Shirley Jackson", "Joyce Carol Oates", "Daphne du Maurier", "Rebecca West"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the primary source of horror in 'The Turn of the Screw'?",
+    "choices": ["Psychological ambiguity", "Physical monsters", "Supernatural curses", "Violent crime"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Stephen King novel features a haunted hotel?",
+    "choices": ["It", "The Stand", "The Shining", "Carrie"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In 'Dracula,' what is the name of the ship that brings the vampire to England?",
+    "choices": ["The Demeter", "The Wanderer", "The Covenant", "The Transylvania"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who wrote 'The Picture of Dorian Gray'?",
+    "choices": ["Oscar Wilde", "Algernon Swinburne", "Walter Pater", "Bret Harte"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What gothic trope does 'Jane Eyre' prominently feature?",
+    "choices": ["The mad woman in the attic", "The curse of the family", "The undead revenge", "The ghostly ancestor"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Lovecraft's 'At the Mountains of Madness,' what ancient civilization is discovered?",
+    "choices": ["The Elder Things", "The Great Race", "The Old Ones", "Cthulhu's empire"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who authored 'The Legend of Sleepy Hollow'?",
+    "choices": ["Washington Irving", "James Fenimore Cooper", "Nathaniel Hawthorne", "Edgar Allan Poe"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the Headless Horseman seeking in Sleepy Hollow?",
+    "choices": ["Revenge on the town", "His head", "A bride", "Buried treasure"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In 'It,' what does the entity primarily feed on?",
+    "choices": ["Blood", "Fear", "Flesh", "Dreams"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who wrote 'The Masque of the Red Death'?",
+    "choices": ["Edgar Allan Poe", "H.P. Lovecraft", "M.R. James", "W.W. Jacobs"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the setting of 'The Haunting of Hill House'?",
+    "choices": ["A Victorian mansion", "A New England estate", "A southern plantation", "A coastal manor"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In 'Frankenstein,' what does Victor pursue across the Arctic?",
+    "choices": ["His brother", "His bride", "His creation", "A scientific discovery"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who wrote 'The Strange Case of Dr. Jekyll and Mr. Hyde'?",
+    "choices": ["Robert Louis Stevenson", "Oscar Wilde", "Bret Harte", "Thomas Hardy"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the primary fear in 'The Tell-Tale Heart'?",
+    "choices": ["Detection of guilt", "The victim's ghost", "Insanity", "Darkness"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In 'The Monk,' what transgression leads to the protagonist's damnation?",
+    "choices": ["Lust and seduction", "Blasphemy", "Murder", "Theft"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who authored 'The Woman in White'?",
+    "choices": ["Wilkie Collins", "Charles Dickens", "Thomas Hardy", "George Eliot"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What supernatural element haunts the narrator in 'The Rime of the Ancient Mariner'?",
+    "choices": ["A ghostly crew", "A cursed albatross", "Spectral mariners", "A phantom ship"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Stephen King's 'The Stand,' what is the primary antagonist?",
+    "choices": ["A virus", "A dark entity", "A government conspiracy", "A cult leader"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who wrote 'The Shadow over Innsmouth'?",
+    "choices": ["H.P. Lovecraft", "Robert E. Howard", "Clark Ashton Smith", "Frank Belknap Long"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the curse in 'The Monkey's Paw'?",
+    "choices": ["Three wishes with consequences", "Eternal servitude", "A family curse", "Transformed victims"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In 'Dracula,' how is the vampire ultimately destroyed?",
+    "choices": ["A stake through the heart", "Exposed to sunlight", "A combination of methods", "Holy water"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who authored 'The Phantom of the Opera'?",
+    "choices": ["Gaston Leroux", "Jules Verne", "Alexandre Dumas", "Victor Hugo"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What psychological horror dominates 'The Haunting of Hill House'?",
+    "choices": ["Ambiguous supernatural events", "Ghosts with clear intentions", "Demonic possession", "Vampiric curse"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Lovecraft's mythos, what is the fate of humanity's place in the cosmos?",
+    "choices": ["Insignificant and doomed", "Destined to conquer", "Central and divine", "Protected by elder gods"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who wrote 'Rebecca'?",
+    "choices": ["Daphne du Maurier", "Agatha Christie", "Dorothy L. Sayers", "Mary Shelley"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the atmosphere created in Poe's 'The Cask of Amontillado'?",
+    "choices": ["Creeping dread and betrayal", "Supernatural terror", "Physical danger", "Psychological breakdown"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In 'Carrie,' what is the source of the protagonist's power?",
+    "choices": ["Telekinesis born of trauma", "A supernatural bargain", "Demonic possession", "Scientific experimentation"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who authored 'The House on the Borderland'?",
+    "choices": ["William Hope Hodgson", "H.P. Lovecraft", "Algernon Blackwood", "Arthur Machen"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What modern gothic element does 'Beloved' by Toni Morrison incorporate?",
+    "choices": ["A ghostly mother and child", "Witchcraft", "Demonic forces", "Psychological haunting"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In 'The Night Circus,' what is the central conflict?",
+    "choices": ["A magical competition", "A haunted carnival", "A curse on performers", "A dark bargain"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who wrote 'The Invisible Man' with gothic undertones?",
+    "choices": ["H.G. Wells", "Mary Shelley", "Robert Louis Stevenson", "Bram Stoker"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the core horror in 'The Yellow Wallpaper'?",
+    "choices": ["Female psychological entrapment", "Supernatural imprisonment", "Physical danger", "Demonic haunting"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Lovecraft's 'The Dunwich Horror,' what threatens New England?",
+    "choices": ["An interdimensional entity", "A family curse", "A plague", "Supernatural monsters"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who authored 'Mexican Gothic'?",
+    "choices": ["Silvia Moreno-Garcia", "Laura Esquivel", "Carmen Mola", "Mariana Enriquez"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What gothic tradition does 'The Haunting of Maddy Clare' employ?",
+    "choices": ["Haunted house with tragic past", "Vampire mythology", "Witchcraft trials", "Cursed artifact"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  }
+]

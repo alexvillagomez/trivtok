@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Who composed the music for 'The Phantom of the Opera'?",
+    "choices": ["Andrew Lloyd Webber", "Tim Rice", "Elton John", "Alan Menken"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which musical features the famous song 'Send in the Clowns'?",
+    "choices": ["Passion", "A Little Night Music", "Into the Woods", "Follies"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "'Hamilton' is a musical about which American historical figure?",
+    "choices": ["Benjamin Franklin", "Thomas Jefferson", "Alexander Hamilton", "George Washington"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the primary setting of 'West Side Story'?",
+    "choices": ["Chicago's South Side", "1950s New York City", "Boston's North End", "Los Angeles"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "'Cats' is based on poetry by which author?",
+    "choices": ["W.H. Auden", "T.S. Eliot", "Dylan Thomas", "Sylvia Plath"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Broadway musical features the anthem 'Defying Gravity'?",
+    "choices": ["Evita", "Wicked", "Chicago", "A Chorus Line"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "'Mamma Mia!' is built around songs by which legendary band?",
+    "choices": ["ABBA", "Queen", "The Beatles", "The Rolling Stones"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Rodgers and Hammerstein musical is set in an Austrian convent during WWII?",
+    "choices": ["South Pacific", "The Sound of Music", "The King and I", "Oklahoma!"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "'The Lion King' on Broadway is adapted from which Disney film?",
+    "choices": ["Frozen", "The Lion King", "Aladdin", "Beauty and the Beast"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "'Les Misérables' is based on a novel by which author?",
+    "choices": ["Victor Hugo", "Alexandre Dumas", "Gustave Flaubert", "Honoré de Balzac"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who wrote the lyrics for 'West Side Story'?",
+    "choices": ["Leonard Bernstein", "Richard Rodgers", "Stephen Sondheim", "Hal David"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "'Chicago' is set during which era in American history?",
+    "choices": ["The Great Depression", "Roaring Twenties", "The Prohibition era", "The Jazz Age"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which musical won the Pulitzer Prize for Drama in 1985?",
+    "choices": ["Sunday in the Park with George", "A Chorus Line", "La Bohème", "Sweeney Todd"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the green-skinned character in 'Wicked'?",
+    "choices": ["Elphaba", "Glinda", "Fiyero", "Boq"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "'A Chorus Line' is centered on auditions for which?",
+    "choices": ["A revival of a classic", "A Broadway show", "A television special", "A dance concert"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who composed 'Sweeney Todd, the Demon Barber of Fleet Street'?",
+    "choices": ["Lloyd Webber", "Stephen Sondheim", "Schönberg & Boublil", "Kander & Ebb"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "'Rent' is set in which New York neighborhood?",
+    "choices": ["SoHo", "Greenwich Village", "East Village", "Lower East Side"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which 'Starlight Express' is a musical about?",
+    "choices": ["Race cars", "Locomotives and trains", "Spaceships", "Roller skaters"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "'Evita' chronicles the life of which historical figure?",
+    "choices": ["Carmen Miranda", "Eva Perón", "Frida Kahlo", "Isabella of Castile"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the highest award for achievement in theater?",
+    "choices": ["Grammy", "Tony Award", "Oscar", "Golden Globe"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "'The Producer' on stage is based on which film genre?",
+    "choices": ["Film noir", "Silent comedy", "Broadway musical", "Mel Brooks film"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "'Six' reimagines which historical queens?",
+    "choices": ["French royalty", "Henry VIII's wives", "Russian tsarinas", "English monarchs"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which musical features the song 'On My Own'?",
+    "choices": ["The Phantom of the Opera", "Les Misérables", "Miss Saigon", "Sunset Boulevard"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "'Dear Evan Hansen' focuses on a teenager dealing with what central issue?",
+    "choices": ["Bullying", "Mental health and social anxiety", "Family divorce", "College pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which composer wrote both 'Cats' and 'Sunset Boulevard'?",
+    "choices": ["Stephen Sondheim", "Andrew Lloyd Webber", "Elton John", "Alan Menken"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "'Miss Saigon' is set during which conflict?",
+    "choices": ["Korean War", "Vietnam War", "Cambodian conflict", "Laotian uprising"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "'Hadestown' is a modern retelling of which classical myth?",
+    "choices": ["Odysseus's journey", "Orpheus and Eurydice", "Heracles's trials", "Jason and the Argonauts"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Stephen Sondheim musical is about assassins throughout history?",
+    "choices": ["Merrily We Roll Along", "Assassins", "Pacific Overtures", "Bounce"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "'Avenue Q' uses which puppet-style characters in its humor?",
+    "choices": ["Sock puppets", "Felt puppets resembling Sesame Street", "Shadow puppets", "Marionettes"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "'In the Heights' centers on which New York community?",
+    "choices": ["Harlem", "Washington Heights", "Spanish Harlem", "Astoria Queens"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "'The Book of Mormon' was created by which South Park creators?",
+    "choices": ["Trey Parker & Matt Stone", "Robert Lopez", "Andrew Lippa", "Marc Shaiman"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which musical won Best Musical Tony in 2024?",
+    "choices": ["Stereophonic", "Merrily We Roll Along", "Hell's Kitchen", "Job"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "'Passion' is based on which 19th-century work by Giorgio Bassani?",
+    "choices": ["The Garden of the Finzi-Continis", "The Heron", "The Gold-Rimmed Glasses", "Una notte"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Sondheim musical explores marriage through four couples?",
+    "choices": ["Merrily We Roll Along", "Company", "A Little Night Music", "Follies"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "'Pacific Overtures' by Sondheim depicts which historical event?",
+    "choices": ["The opening of Japan to Western trade", "American expansion westward", "The colonization of Hawaii", "British India"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "'Natasha, Pierre & The Great Comet' is adapted from which Tolstoy novel?",
+    "choices": ["Crime and Punishment", "War and Peace", "Anna Karenina", "The Brothers Karamazov"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "'Once' is set in which country?",
+    "choices": ["Scotland", "Ireland", "Wales", "England"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which musical features the opening number 'Tradition'?",
+    "choices": ["Guys and Dolls", "Fiddler on the Roof", "The Music Man", "Hello, Dolly!"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "'Merrily We Roll Along' follows a group of friends over how many years in reverse?",
+    "choices": ["20 years", "15 years", "30 years", "10 years"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which musical composer is known for his use of complex rhythms and dissonance?",
+    "choices": ["Andrew Lloyd Webber", "Elton John", "Stephen Sondheim", "Claude-Michel Schönberg"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "'Sweeney Todd' involves a murderous barber whose victims end up in what?",
+    "choices": ["The Thames River", "A meat pie shop", "A coffin maker's shop", "The sewers"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "'Sunday in the Park with George' is inspired by which artist's painting?",
+    "choices": ["Claude Monet", "Georges Seurat", "Vincent van Gogh", "Paul Cézanne"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "'Tick, Tick... Boom!' was written about which struggling profession?",
+    "choices": ["Musicians", "Playwrights and composers", "Actors", "Dancers"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "'The Phantom of the Opera' is the longest-running Broadway show. What ended its record?",
+    "choices": ["Chicago", "The Lion King", "Wicked", "Les Misérables"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Kander & Ebb musical is set in Weimar Germany during the rise of Nazism?",
+    "choices": ["Zorba", "Cabaret", "Kiss of the Spider Woman", "Chicago"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "'Follies' explores the lives of former performers at a reunion. Who composed it?",
+    "choices": ["Andrew Lloyd Webber", "Stephen Sondheim", "Jerry Herman", "Cole Porter"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "'Ragtime' draws inspiration from which historical period in America?",
+    "choices": ["Jazz Age", "Turn of the 20th century", "Roaring Twenties", "Prohibition"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which musical won the record for most Tony nominations in a single year?",
+    "choices": ["Stereophonic with 13", "Six with 13", "The Outsiders with 12", "Hell's Kitchen with 11"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "'A Little Night Music' features which famous Sondheim waltz?",
+    "choices": ["Send in the Clowns", "Not While I'm Around", "The Ballad of Booth", "Losing My Mind"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "'The King and I' is based on which memoir?",
+    "choices": ["The English Governess at the Siamese Court", "A Memory of Siam", "Tales from the Palace", "My Years in Thailand"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  }
+]

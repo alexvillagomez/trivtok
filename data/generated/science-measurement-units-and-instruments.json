@@ -1,0 +1,272 @@
+[
+  {
+    "text": "The basic SI unit of length is the...",
+    "choices": ["foot", "meter", "mile", "yard"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which of these is used to measure mass in the metric system?",
+    "choices": ["kilogram", "pound", "ounce", "stone"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many centimeters equal one meter?",
+    "choices": ["10", "100", "1000", "50"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What instrument is used to measure body temperature?",
+    "choices": ["barometer", "anemometer", "hygrometer", "thermometer"],
+    "correctIndex": 3,
+    "difficulty": 0.08
+  },
+  {
+    "text": "The SI prefix 'giga' equals...",
+    "choices": ["1 billion", "1 million", "1 thousand", "1 trillion"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "One liter is equivalent to how many cubic centimeters?",
+    "choices": ["10", "100", "1000", "10000"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The SI unit of time is the...",
+    "choices": ["second", "minute", "hour", "day"],
+    "correctIndex": 0,
+    "difficulty": 0.06
+  },
+  {
+    "text": "On the Celsius scale, water freezes at...",
+    "choices": ["32 degrees", "0 degrees", "-40 degrees", "100 degrees"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "How many millimeters equal one centimeter?",
+    "choices": ["5", "10", "100", "1000"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "One milligram is what fraction of a kilogram?",
+    "choices": ["one millionth", "one thousandth", "one hundredth", "one tenth"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does the SI prefix 'kilo' represent?",
+    "choices": ["100", "1000", "10", "10000"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The SI prefix 'nano' means 1 divided by...",
+    "choices": ["thousand", "million", "billion", "hundred"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What device is used to measure atmospheric pressure?",
+    "choices": ["thermometer", "anemometer", "hydrometer", "barometer"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The pascal is the SI unit that measures...",
+    "choices": ["force", "energy", "pressure", "power"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many millimeters are in one inch?",
+    "choices": ["12.7", "25.4", "2.54", "10"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "One pound is approximately equal to...",
+    "choices": ["0.215 kg", "0.454 kg", "2.2 kg", "10 kg"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The newton measures...",
+    "choices": ["acceleration", "force", "energy", "momentum"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the SI unit of energy?",
+    "choices": ["watt", "joule", "newton", "volt"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The watt is a unit of...",
+    "choices": ["momentum", "power", "pressure", "density"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Amperes measure electrical...",
+    "choices": ["voltage", "current", "resistance", "power"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What scale measures mineral hardness?",
+    "choices": ["Richter", "Mohs", "Beaufort", "Mercalli"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The volt measures...",
+    "choices": ["electrical current", "joules per coulomb", "resistance", "capacitance"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "An ohm is the unit of electrical...",
+    "choices": ["current", "voltage", "resistance", "capacitance"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "To convert Celsius to Fahrenheit, add 32 to (°C × 9/5). The constant 32 represents...",
+    "choices": ["freezing point of water in °F", "boiling point", "room temperature", "absolute zero"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A nanometer is one billionth of...",
+    "choices": ["a meter", "a millimeter", "a micrometer", "a centimeter"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What instrument measures wind speed?",
+    "choices": ["hygrometer", "barometer", "pyrometer", "anemometer"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A hectare is a metric unit for measuring...",
+    "choices": ["volume", "mass", "area", "time"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The lux measures the intensity of...",
+    "choices": ["radiation", "light", "sound", "magnetism"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Decibels express the ratio of...",
+    "choices": ["frequencies", "intensity or power", "wavelengths", "amplitudes"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The tesla is the SI unit for...",
+    "choices": ["force", "magnetic field strength", "electrical resistance", "capacitance"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "One hertz equals one cycle per...",
+    "choices": ["microsecond", "millisecond", "second", "minute"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Absolute zero is equivalent to which of the following?",
+    "choices": ["-273°C", "0 K", "-460°F", "all of these"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The coulomb is the SI unit of electrical...",
+    "choices": ["current", "charge", "potential", "resistance"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A screw gauge (also called a...) is used to measure very small lengths.",
+    "choices": ["caliper", "micrometer", "vernier", "divider"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which scientist has a unit of force named after him?",
+    "choices": ["Isaac Newton", "Blaise Pascal", "Charles Coulomb", "James Watt"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The siemens measures electrical...",
+    "choices": ["resistance", "conductance", "inductance", "impedance"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What instrument uses a laser to measure distances precisely?",
+    "choices": ["theodolite", "laser rangefinder", "transit", "protractor"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The Richter scale measures the... of earthquakes.",
+    "choices": ["duration", "damage", "magnitude", "depth"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How many fundamental base units does the SI system contain?",
+    "choices": ["5", "7", "10", "12"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Avogadro's number (6.02 × 10²³) represents the number of... in one mole.",
+    "choices": ["atoms", "molecules", "particles", "ions"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A spectrometer measures properties of...",
+    "choices": ["electromagnetic radiation", "sound waves", "magnetic fields", "pressure"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The electron volt (eV) is primarily used in...",
+    "choices": ["particle physics", "thermodynamics", "electronics", "mechanics"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the SI unit of luminous intensity?",
+    "choices": ["lux", "candela", "lumen", "watt"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "A spectrophotometer measures...",
+    "choices": ["intensity of light at specific wavelengths", "speed of light", "polarization of light", "refractive index"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Molar mass is expressed in units of...",
+    "choices": ["grams per liter", "grams per mole", "moles per gram", "kilograms per milliliter"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  }
+]

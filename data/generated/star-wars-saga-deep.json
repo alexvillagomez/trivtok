@@ -1,0 +1,1762 @@
+[
+  {
+    "text": "In what year was the original Star Wars film released?",
+    "choices": [
+      "1977",
+      "1975",
+      "1979",
+      "1981"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who plays Luke Skywalker in the original trilogy?",
+    "choices": [
+      "Harrison Ford",
+      "Mark Hamill",
+      "Carrie Fisher",
+      "Billy Dee Williams"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the name of Han Solo's ship?",
+    "choices": [
+      "X-wing Fighter",
+      "Slave I",
+      "Millennium Falcon",
+      "TIE Fighter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which planet is Luke Skywalker's home?",
+    "choices": [
+      "Dagobah",
+      "Hoth",
+      "Endor",
+      "Tatooine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What species is Chewbacca?",
+    "choices": [
+      "Wookiee",
+      "Ewok",
+      "Gungan",
+      "Jawa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who composed the main Star Wars theme?",
+    "choices": [
+      "James Horner",
+      "John Williams",
+      "Hans Zimmer",
+      "Michael Giacchino"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the name of the Jedi Master who trains Luke?",
+    "choices": [
+      "Obi-Wan Kenobi",
+      "Mace Windu",
+      "Yoda",
+      "Qui-Gon Jinn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In the original trilogy, who is revealed to be Darth Vader's son?",
+    "choices": [
+      "Leia Organa",
+      "Han Solo",
+      "Ben Solo",
+      "Luke Skywalker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What color lightsaber does Yoda wield?",
+    "choices": [
+      "Green",
+      "Blue",
+      "Red",
+      "Yellow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which planet is destroyed by the Death Star in A New Hope?",
+    "choices": [
+      "Tatooine",
+      "Alderaan",
+      "Naboo",
+      "Scarif"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is the Emperor of the Empire in the original trilogy?",
+    "choices": [
+      "Count Dooku",
+      "General Grievous",
+      "Emperor Palpatine",
+      "Grand Moff Tarkin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the name of Leia Organa's adoptive father?",
+    "choices": [
+      "Padmé Amidala",
+      "Owen Lars",
+      "Anakin Skywalker",
+      "Bail Organa"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In The Empire Strikes Back, on which planet does Yoda train Luke?",
+    "choices": [
+      "Dagobah",
+      "Hoth",
+      "Bespin",
+      "Endor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is Han Solo's iconic response when Leia says 'I love you' in The Empire Strikes Back?",
+    "choices": [
+      "I love you too",
+      "I know",
+      "That's what I was hoping",
+      "Me too, princess"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Ewok is the leader of his tribe in Return of the Jedi?",
+    "choices": [
+      "Wicket",
+      "Teebo",
+      "Chief Chirpa",
+      "Logray"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is Anakin Skywalker's Sith name?",
+    "choices": [
+      "Darth Maul",
+      "Darth Tyranus",
+      "Darth Sidious",
+      "Darth Vader"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "On which planet does Anakin Skywalker become a Jedi Knight?",
+    "choices": [
+      "Coruscant",
+      "Naboo",
+      "Geonosis",
+      "Mustafar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who is Padmé Amidala's handmaiden and decoy in The Phantom Menace?",
+    "choices": [
+      "Cordé",
+      "Sabé",
+      "Eirtaé",
+      "Yané"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of the droid that serves as a spy for the Separatists?",
+    "choices": [
+      "R2-D2",
+      "IG-88",
+      "C-3PO",
+      "4A-D"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In the prequels, who is revealed to be Anakin's true father?",
+    "choices": [
+      "Palpatine",
+      "Obi-Wan Kenobi",
+      "Yoda",
+      "The Force itself"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What species is Yoda?",
+    "choices": [
+      "Unknown",
+      "Ewok",
+      "Gungan",
+      "Jedi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How many Sith are supposed to exist at any time according to the Rule of Two?",
+    "choices": [
+      "Three",
+      "One master and one apprentice",
+      "Seven",
+      "No limit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does kyber mean in relation to Jedi?",
+    "choices": [
+      "Force nexus",
+      "Ancient meditation ritual",
+      "Crystal used in lightsabers",
+      "Sith artifact"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who trained Obi-Wan Kenobi as a Padawan?",
+    "choices": [
+      "Yoda",
+      "Mace Windu",
+      "Ki-Adi-Mundi",
+      "Qui-Gon Jinn"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In The Phantom Menace, what is Anakin's midi-chlorian count?",
+    "choices": [
+      "over 20000",
+      "15000",
+      "20000",
+      "10000"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who kills Darth Maul in The Phantom Menace?",
+    "choices": [
+      "Yoda",
+      "Obi-Wan Kenobi",
+      "Qui-Gon Jinn",
+      "Mace Windu"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the clone template used to create the clone army?",
+    "choices": [
+      "Alpha-17",
+      "Rex",
+      "Jango Fett",
+      "Cad Bane"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Where does Order 66 primarily take place?",
+    "choices": [
+      "Coruscant",
+      "The Jedi Temple",
+      "Geonosis",
+      "Across the entire galaxy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What color lightsaber does Obi-Wan Kenobi typically wield?",
+    "choices": [
+      "Blue",
+      "Red",
+      "Green",
+      "Purple"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who is the Supreme Leader of the First Order in the sequel trilogy?",
+    "choices": [
+      "General Hux",
+      "Supreme Leader Snoke",
+      "Kylo Ren",
+      "Captain Phasma"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is Rey's family connection to the main Skywalker lineage?",
+    "choices": [
+      "Adopted Skywalker",
+      "Solo cousin",
+      "Palpatine descendant",
+      "Kenobi heir"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is Kylo Ren's birth name?",
+    "choices": [
+      "Anakin Skywalker",
+      "Leia's son",
+      "Luke's nephew",
+      "Ben Solo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is Finn's stormtrooper designation?",
+    "choices": [
+      "FN-2187",
+      "TK-626",
+      "BB-8",
+      "FN-0801"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who is the leader of the Resistance in the sequel trilogy?",
+    "choices": [
+      "Rey",
+      "Leia Organa",
+      "Poe Dameron",
+      "Finn"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the droid that befriends Rey?",
+    "choices": [
+      "C-3PO",
+      "R2-D2",
+      "BB-8",
+      "K-2SO"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In The Force Awakens, who destroys the Starkiller Base?",
+    "choices": [
+      "Rey",
+      "Finn",
+      "The Resistance combined",
+      "Poe Dameron"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is Din Djarin's nickname in The Mandalorian?",
+    "choices": [
+      "Mando",
+      "The Hunter",
+      "The Bounty Hunter",
+      "The Mandalorian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What species is Grogu, the character known as 'The Child'?",
+    "choices": [
+      "Ewok",
+      "Unknown but same as Yoda",
+      "Gungan",
+      "Human"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who is the main antagonist in Rogue One?",
+    "choices": [
+      "Darth Vader",
+      "Grand Moff Tarkin",
+      "Director Orson Krennic",
+      "Jyn Erso"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the name of the plan to steal the Death Star plans in Rogue One?",
+    "choices": [
+      "Mission Scarif",
+      "Project Starkiller",
+      "Rebellion Protocol",
+      "Operation Stardust"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is Cassian Andor's companion in Rogue One?",
+    "choices": [
+      "K-2SO",
+      "Jyn Erso",
+      "Bodhi Rook",
+      "Saw Gerrera"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of the beach planet where the final battle occurs in Rogue One?",
+    "choices": [
+      "Jedha",
+      "Scarif",
+      "Eadu",
+      "Wobani"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Andor, what is Cassian's original name?",
+    "choices": [
+      "Cass Andor",
+      "Kino Loy",
+      "Cassian Jeron Antilles",
+      "Sutro"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who is Maz Kanata and what does she possess?",
+    "choices": [
+      "A Sith Lord with a red lightsaber",
+      "A pirate with the Millennium Falcon",
+      "A Jedi Master in hiding",
+      "An ancient being with Luke's lightsaber"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is Captain Phasma's armor made of?",
+    "choices": [
+      "Polished chrome",
+      "Beskar steel",
+      "Cortosis",
+      "Vanadium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In The Last Jedi, what is Luke Skywalker's connection to the island on Ahch-To?",
+    "choices": [
+      "He is hiding there",
+      "All of the above",
+      "It was a Jedi Temple",
+      "He comes to die there"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who betrays the Rebellion and sides with the First Order?",
+    "choices": [
+      "General Leia",
+      "Admiral Ackbar",
+      "DJ (the codebreaker)",
+      "Captain Phasma"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What nickname does Poe Dameron have in The Last Jedi?",
+    "choices": [
+      "Captain Marvel",
+      "Maverick",
+      "Hotshot",
+      "Flyboy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In The Rise of Skywalker, who is revealed to be Rey's grandfather?",
+    "choices": [
+      "Darth Sidious",
+      "Anakin Skywalker",
+      "Obi-Wan Kenobi",
+      "Luke Skywalker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of the Sith Lord that manipulated Anakin Skywalker?",
+    "choices": [
+      "Darth Plagueis",
+      "Darth Sidious",
+      "Darth Maul",
+      "Darth Dooku"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who tempts Luke in the original trilogy: 'Come with me, it is the only way'?",
+    "choices": [
+      "Emperor Palpatine",
+      "Mace Windu",
+      "Darth Vader",
+      "Yoda"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What planet serves as the Rebel base at the start of A New Hope?",
+    "choices": [
+      "Hoth",
+      "Endor",
+      "Scarif",
+      "Yavin 4"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Return of the Jedi, who says 'It's a trap!'?",
+    "choices": [
+      "Admiral Ackbar",
+      "Admiral Piett",
+      "Lando Calrissian",
+      "Han Solo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the space battle where the Rebellion confronts the Empire at the end of Return of the Jedi?",
+    "choices": [
+      "Battle of Yavin",
+      "Battle of Endor",
+      "Battle of Scarif",
+      "Battle of Hoth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who destroyed Alderaan in A New Hope?",
+    "choices": [
+      "Emperor Palpatine",
+      "Darth Vader",
+      "Grand Moff Tarkin",
+      "The Death Star"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is Lando Calrissian's official title in Cloud City?",
+    "choices": [
+      "Governor",
+      "Warlord",
+      "Overseer",
+      "Administrator"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who was Chancellor of the Republic before Palpatine?",
+    "choices": [
+      "Finis Valorum",
+      "Mas Amedda",
+      "Bail Organa",
+      "Sate Pestage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What two words complete Obi-Wan's famous quote: 'These aren't the _____ you're looking for'?",
+    "choices": [
+      "Jedi you",
+      "droids you",
+      "rogues you",
+      "slaves you"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Complete Yoda's famous statement: 'Do or do not, there is _____'?",
+    "choices": [
+      "a way",
+      "time",
+      "no try",
+      "the Force"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In The Empire Strikes Back, what does Leia tell Han when he's about to be frozen in carbonite?",
+    "choices": [
+      "Take care of yourself",
+      "Come back",
+      "May the Force be with you",
+      "I love you"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is Luke's response when told Vader is his father: 'No, _____ can't be true'?",
+    "choices": [
+      "that",
+      "it",
+      "this",
+      "you"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who says 'I find your lack of faith disturbing'?",
+    "choices": [
+      "Yoda",
+      "Darth Vader",
+      "Emperor Palpatine",
+      "Obi-Wan Kenobi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the asteroid field the Millennium Falcon flees through in The Empire Strikes Back?",
+    "choices": [
+      "The Maw",
+      "The Kessel Run",
+      "No specific name given",
+      "The Outer Rim"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In Attack of the Clones, what is Anakin's mission regarding Padmé?",
+    "choices": [
+      "To arrest her",
+      "To spy on her",
+      "To escort her to Tatooine",
+      "To protect her"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Where does Anakin duel Obi-Wan in Revenge of the Sith?",
+    "choices": [
+      "Mustafar",
+      "Coruscant",
+      "Geonosis",
+      "Utapau"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What color is Ahsoka Tano's primary lightsaber blade?",
+    "choices": [
+      "Red",
+      "White",
+      "Blue",
+      "Green"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who is Din Djarin's enemy that he continuously faces?",
+    "choices": [
+      "The Client",
+      "Greef Karga",
+      "Moff Gideon",
+      "Cara Dune"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the designation of the TIE Fighter piloted by Wedge Antilles?",
+    "choices": [
+      "Red Five",
+      "Red Three",
+      "Alpha Leader",
+      "No specific designation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In The Phantom Menace, which Jedi Council member has the longest ears?",
+    "choices": [
+      "Oppo Rancisis",
+      "Ki-Adi-Mundi",
+      "Agen Kolar",
+      "Stass Allie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the name of Boba Fett's ship?",
+    "choices": [
+      "Firespray",
+      "Slave I",
+      "Storm IV",
+      "Outrider"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which character is known as 'The Resistance spy' in The Force Awakens?",
+    "choices": [
+      "Rey",
+      "Snap Wexley",
+      "Finn",
+      "Rose Tico"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In what year did The Phantom Menace release?",
+    "choices": [
+      "1997",
+      "2001",
+      "2003",
+      "1999"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which planet is home to the Jawas?",
+    "choices": [
+      "Tatooine",
+      "Tattoine",
+      "Naboo",
+      "Arrakis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the name of the creature that guards Jabba's palace?",
+    "choices": [
+      "Sarlacc",
+      "Rancor",
+      "Bantha",
+      "Wampa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "On Hoth, what creature attacks Luke Skywalker?",
+    "choices": [
+      "Rancor",
+      "Tauntaun",
+      "Wampa",
+      "Mynock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What are the four-legged creatures that transport troops on Tatooine?",
+    "choices": [
+      "Dewbacks",
+      "Wampas",
+      "Tusken Riders",
+      "Banthas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What species do Tusken Raiders belong to?",
+    "choices": [
+      "Sand People",
+      "Jawas",
+      "Gungans",
+      "Ewoks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which creature is known for its large circular mouth and eating abilities?",
+    "choices": [
+      "Rancor",
+      "Sarlacc",
+      "Bantha",
+      "Wampa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What species rules Naboo before Palpatine becomes Emperor?",
+    "choices": [
+      "Humans",
+      "Ewoks",
+      "Gungans",
+      "Jawas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which alien species are the small, hooded scavengers on Tatooine?",
+    "choices": [
+      "Ewoks",
+      "Gungans",
+      "Tusken Raiders",
+      "Jawas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Bossk's species?",
+    "choices": [
+      "Trandoshan",
+      "Wookiee",
+      "Zabrak",
+      "Chagrian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who is the Ewok that befriends Leia in Return of the Jedi?",
+    "choices": [
+      "Chirpa",
+      "Wicket",
+      "Teebo",
+      "Paploo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the name of the creature that Yoda defeats with his cane in Attack of the Clones?",
+    "choices": [
+      "Geonosian",
+      "Battle Droid",
+      "No creature shown",
+      "Wampa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Attack of the Clones, what creature does Count Dooku unleash in the arena?",
+    "choices": [
+      "Rancor",
+      "Sarlacc",
+      "Nexu",
+      "Acklay"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What species is Admiral Ackbar?",
+    "choices": [
+      "Mon Calamari",
+      "Wookiee",
+      "Ewok",
+      "Gungan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who is the bounty hunter with a jetpack and armor called 'Mandalorian'?",
+    "choices": [
+      "Cad Bane",
+      "Boba Fett",
+      "Bossk",
+      "Aurra Sing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In Revenge of the Sith, what color are the clone troopers' markings during the initial assault?",
+    "choices": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the designation of the elite clone squadron in Clone Wars?",
+    "choices": [
+      "212th Battalion",
+      "91st Reconnaissance Corps",
+      "104th Battalion",
+      "501st Legion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What type of trooper is Captain Rex?",
+    "choices": [
+      "Arc Trooper",
+      "Shock Trooper",
+      "Clone Trooper",
+      "Royal Guard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is Boba Fett's father?",
+    "choices": [
+      "Lama Su",
+      "Jango Fett",
+      "Taun We",
+      "Cad Bane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the name of the bounty hunter organization that pursues Han Solo in The Empire Strikes Back?",
+    "choices": [
+      "The Sarlacc",
+      "Black Sun",
+      "Bounty Hunters Guild",
+      "Imperial Inquisitors"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In what year did The Rise of Skywalker release?",
+    "choices": [
+      "2017",
+      "2018",
+      "2020",
+      "2019"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many films are in the main Skywalker Saga?",
+    "choices": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who directed The Empire Strikes Back?",
+    "choices": [
+      "George Lucas",
+      "Irvin Kershner",
+      "Richard Marquardt",
+      "J.J. Abrams"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who directed Return of the Jedi?",
+    "choices": [
+      "George Lucas",
+      "Irvin Kershner",
+      "Richard Marquand",
+      "Lawrence Kasdan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who directed The Phantom Menace?",
+    "choices": [
+      "Rian Johnson",
+      "J.J. Abrams",
+      "Ron Howard",
+      "George Lucas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who directed Attack of the Clones?",
+    "choices": [
+      "George Lucas",
+      "Rian Johnson",
+      "J.J. Abrams",
+      "Ron Howard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who directed Revenge of the Sith?",
+    "choices": [
+      "Rian Johnson",
+      "George Lucas",
+      "J.J. Abrams",
+      "Ron Howard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who directed The Force Awakens?",
+    "choices": [
+      "George Lucas",
+      "Rian Johnson",
+      "J.J. Abrams",
+      "Ron Howard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who directed The Last Jedi?",
+    "choices": [
+      "J.J. Abrams",
+      "George Lucas",
+      "Ron Howard",
+      "Rian Johnson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who directed The Rise of Skywalker?",
+    "choices": [
+      "J.J. Abrams",
+      "Rian Johnson",
+      "Colin Trevorrow",
+      "Ron Howard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who directed Rogue One?",
+    "choices": [
+      "Dennis Villeneuve",
+      "Gareth Edwards",
+      "Tony Scott",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In what year did Attack of the Clones release?",
+    "choices": [
+      "2000",
+      "2001",
+      "2002",
+      "2003"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In what year did Revenge of the Sith release?",
+    "choices": [
+      "2003",
+      "2004",
+      "2006",
+      "2005"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What color is Mace Windu's lightsaber?",
+    "choices": [
+      "Purple",
+      "Red",
+      "Green",
+      "Blue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many members are typically on the Jedi High Council?",
+    "choices": [
+      "5",
+      "9",
+      "7",
+      "12"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is Palpatine's real name before becoming Darth Sidious?",
+    "choices": [
+      "Darth Plagueis",
+      "Mal Dawes",
+      "Sheev Palpatine",
+      "Darth Dooku"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is the clone trooper that becomes an Empire stormtrooper?",
+    "choices": [
+      "TK-626",
+      "CT-5555",
+      "7567",
+      "Captain Rex"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Clone Wars, what is Anakin Skywalker's nickname?",
+    "choices": [
+      "Skyguy",
+      "The Chosen One",
+      "The Hero",
+      "The General"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the name of Anakin's trusted captain in the clone army?",
+    "choices": [
+      "Cody",
+      "Rex",
+      "Wolffe",
+      "Bly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "On which moon does the climax of Return of the Jedi take place?",
+    "choices": [
+      "Dantooine",
+      "Yavin 4",
+      "Endor",
+      "Scarif"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Grand Admiral Thrawn's species?",
+    "choices": [
+      "Zabrak",
+      "Twi'lek",
+      "Chagrian",
+      "Chiss"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Andor, which Imperial officer pursues Cassian early in the series?",
+    "choices": [
+      "Dedra Meero",
+      "Syril Karn",
+      "Narkina Salvage",
+      "Lieutenant Gorn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the name of the spice planet in the Star Wars universe that Han Solo references smuggling from?",
+    "choices": [
+      "Crait",
+      "Kessel",
+      "Bespin",
+      "Tatooine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the name of the asteroid field where Leia and Han hide in The Empire Strikes Back?",
+    "choices": [
+      "Kessel Run",
+      "Paragon Asteroid Field",
+      "The Maw",
+      "Hoth Field"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In The Last Jedi, on which planet does the final battle of the film take place?",
+    "choices": [
+      "Scarif",
+      "Tatooine",
+      "Jakku",
+      "Crait"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of the First Order's superweapon that destroys multiple star systems?",
+    "choices": [
+      "Starkiller Base",
+      "Death Star",
+      "Planet Killer",
+      "The Executor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who was Leia's biological father?",
+    "choices": [
+      "Bail Organa",
+      "Anakin Skywalker",
+      "Luke Skywalker",
+      "Han Solo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What color is the Supreme Leader's throne room in The Force Awakens?",
+    "choices": [
+      "Black",
+      "Gold",
+      "Red",
+      "White"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Attack of the Clones, where do Anakin and Padmé go for a romantic getaway?",
+    "choices": [
+      "Geonosis",
+      "Tatooine",
+      "Coruscant",
+      "Naboo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who is the Twi'lek slave that Anakin becomes attached to in Attack of the Clones?",
+    "choices": [
+      "No named slave character",
+      "Aayla Secura",
+      "Bariss Offee",
+      "Jango Fett's companion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In The Force Awakens, who is the Supreme Leader of the First Order?",
+    "choices": [
+      "Kylo Ren",
+      "Supreme Leader Snoke",
+      "General Hux",
+      "Darth Vader's ghost"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What species is the bartender at Maz Kanata's castle?",
+    "choices": [
+      "Yoda's species",
+      "No bartender shown",
+      "Unknown",
+      "Hutt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In Rogue One, what is Jyn Erso's codename?",
+    "choices": [
+      "Rebel Two",
+      "Nightingale",
+      "Phoenix",
+      "Stardust"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is the spice smuggler and gambler that Lando Calrissian owes a debt to?",
+    "choices": [
+      "Jabba the Hutt",
+      "Maz Kanata",
+      "Mos Eisley Cantina patron",
+      "Yoda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Return of the Jedi, what does the Emperor offer Luke?",
+    "choices": [
+      "A lightsaber",
+      "Power and control",
+      "A chance to join the Empire",
+      "Forgiveness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of the rebel base on Yavin 4?",
+    "choices": [
+      "Echo Base",
+      "Red Base",
+      "Great Temple",
+      "Rebel HQ"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is Leia Organa's mother?",
+    "choices": [
+      "Padmé Amidala",
+      "Queen Jamillia",
+      "Mother Talzin",
+      "Breha Organa"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In The Mandalorian, what is Grogu also known as?",
+    "choices": [
+      "The Child",
+      "Baby Yoda",
+      "Little Green",
+      "Force-sensitive foundling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the Sith temple on Mustafar?",
+    "choices": [
+      "Castle Vader",
+      "No specific name",
+      "Fortress Vader",
+      "Fortress of Truth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the name of the protocol droid that accompanies Luke throughout the original trilogy?",
+    "choices": [
+      "R2-D2",
+      "IG-88",
+      "C-3PO",
+      "4A-D"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is Obi-Wan Kenobi's Padawan before Anakin Skywalker?",
+    "choices": [
+      "Yoda",
+      "Anakin Skywalker",
+      "Satine Kryze",
+      "Qui-Gon Jinn"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What type of mining operation does the planet Geonosis have?",
+    "choices": [
+      "Weapons manufacturing",
+      "Tibanna gas",
+      "Spice",
+      "No specific resource"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In Clone Wars, who is the bounty hunter that regularly fights the Jedi?",
+    "choices": [
+      "Boba Fett",
+      "Cad Bane",
+      "Aurra Sing",
+      "Bossk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the name of Padmé Amidala's home planet?",
+    "choices": [
+      "Tatooine",
+      "Coruscant",
+      "Naboo",
+      "Geonosis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In Attack of the Clones, where does the Clone Army originate?",
+    "choices": [
+      "Coruscant",
+      "Geonosis",
+      "Mustafar",
+      "Kamino"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who trained Count Dooku in the ways of the Sith?",
+    "choices": [
+      "Darth Plagueis",
+      "Darth Maul",
+      "Darth Sidious",
+      "Darth Vader"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In The Force Awakens, who shot Han Solo?",
+    "choices": [
+      "General Hux",
+      "Kylo Ren",
+      "Captain Phasma",
+      "Supreme Leader Snoke"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the First Order stormtrooper captain with polished chrome armor?",
+    "choices": [
+      "Captain Drake",
+      "Commander Cody",
+      "Captain Phasma",
+      "Sergeant Major"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In The Mandalorian, where does Din Djarin take Grogu for training?",
+    "choices": [
+      "Tatooine",
+      "Nevarro",
+      "Morak",
+      "Tython"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the color of Grogu's eyes?",
+    "choices": [
+      "Yellow-gold",
+      "Brown",
+      "Black",
+      "Blue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Rogue One, what is the codename for the mission?",
+    "choices": [
+      "Slingshot",
+      "Stardust",
+      "Stinger",
+      "Searchlight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who is the Rebel spy that guides the team in Rogue One?",
+    "choices": [
+      "Cassian Andor",
+      "Bodhi Rook",
+      "Saw Gerrera",
+      "Galen Erso"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In The Last Jedi, who is the Resistance pilot with a grudge against Kylo Ren?",
+    "choices": [
+      "Finn",
+      "Rey",
+      "Rose Tico",
+      "Poe Dameron"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the name of the Resistance member that Rey meets in The Last Jedi?",
+    "choices": [
+      "Rose Tico",
+      "Paige Tico",
+      "Rey Skywalker",
+      "Leia Organa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In The Rise of Skywalker, what is the final conflict about?",
+    "choices": [
+      "Control of the galaxy",
+      "Defeating Palpatine",
+      "Finding Luke Skywalker",
+      "Rey's identity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who was the actor that played Han Solo in the original trilogy?",
+    "choices": [
+      "Mark Hamill",
+      "Carrie Fisher",
+      "Harrison Ford",
+      "Billy Dee Williams"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who played Darth Vader (as a voice) in the original trilogy?",
+    "choices": [
+      "David Prowse",
+      "Ian McDiarmid",
+      "Samuel L. Jackson",
+      "James Earl Jones"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who played young Anakin Skywalker in The Phantom Menace?",
+    "choices": [
+      "Jake Lloyd",
+      "Hayden Christensen",
+      "Mark Hamill",
+      "Oscar Isaac"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who played Leia Organa in the original trilogy?",
+    "choices": [
+      "Daisy Ridley",
+      "Carrie Fisher",
+      "Natalie Portman",
+      "Keri Russell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who played young Obi-Wan Kenobi in the prequels?",
+    "choices": [
+      "Alec Guinness",
+      "Donald Glover",
+      "Ewan McGregor",
+      "Oscar Isaac"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who played Padmé Amidala in the prequels?",
+    "choices": [
+      "Keri Russell",
+      "Carrie Fisher",
+      "Daisy Ridley",
+      "Natalie Portman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who plays Rey in the sequel trilogy?",
+    "choices": [
+      "Daisy Ridley",
+      "Oscar Isaac",
+      "Adam Driver",
+      "John Boyega"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who plays Kylo Ren in the sequel trilogy?",
+    "choices": [
+      "Oscar Isaac",
+      "Adam Driver",
+      "Domhnall Gleeson",
+      "John Boyega"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who plays Finn in the sequel trilogy?",
+    "choices": [
+      "Oscar Isaac",
+      "Adam Driver",
+      "John Boyega",
+      "Domhnall Gleeson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who plays Poe Dameron in the sequel trilogy?",
+    "choices": [
+      "Adam Driver",
+      "Domhnall Gleeson",
+      "John Boyega",
+      "Oscar Isaac"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who plays Din Djarin in The Mandalorian?",
+    "choices": [
+      "Pedro Pascal",
+      "Oscar Isaac",
+      "Carl Weathers",
+      "Gina Carano"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who plays Cassian Andor in Rogue One and Andor?",
+    "choices": [
+      "Oscar Isaac",
+      "Diego Luna",
+      "Adam Driver",
+      "Riz Ahmed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "When did The Force Awakens release?",
+    "choices": [
+      "2014",
+      "2016",
+      "2015",
+      "2017"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "When did The Last Jedi release?",
+    "choices": [
+      "2016",
+      "2017",
+      "2019",
+      "2018"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  }
+]

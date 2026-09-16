@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Which Roman meal name usually referred to the main substantial meal of the day?",
+    "choices": ["Cena", "Ientaculum", "Prandium", "Gustatio"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What was the usual Latin name for a Roman breakfast?",
+    "choices": ["Convivium", "Ientaculum", "Vesperna", "Secundae mensae"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which condiment was especially famous in Roman cookery and dining?",
+    "choices": ["Tahini", "Harissa", "Garum", "Miso"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In an elite Roman house, what room was most associated with formal reclining dinners?",
+    "choices": ["Cubiculum", "Atrium", "Culina", "Triclinium"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "At a formal Roman dinner, what posture was especially associated with high-status male guests?",
+    "choices": ["Reclining on couches", "Standing at tall tables", "Sitting on benches in rows", "Eating on the floor"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was the gustatio in the sequence of a Roman banquet?",
+    "choices": ["The sleeping chamber after dining", "The appetizer course", "The kitchen slave roster", "The bill presented to guests"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which imported spice became a marker of luxury in Roman elite cuisine?",
+    "choices": ["Nutmeg", "Clove", "Black pepper", "Vanilla"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was a thermopolium in a Roman town?",
+    "choices": ["A fish pond", "A room for winter storage", "A public granary", "A hot-food and drink shop"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which grain product formed a basic part of ordinary Roman eating?",
+    "choices": ["Bread", "Potatoes", "Tomato sauce", "Rice noodles"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What was puls in a Roman dietary context?",
+    "choices": ["Salted tuna", "A grain porridge", "Honey wine", "A sausage stuffing"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which ingredient was commonly mixed with wine in Roman practice because wine was often diluted?",
+    "choices": ["Olive oil", "Vinegar", "Water", "Milk"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was the culina in a Roman house?",
+    "choices": ["Dining couch", "Household shrine", "Garden court", "Kitchen"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which fat was more typical in Roman cooking than butter?",
+    "choices": ["Olive oil", "Sesame oil", "Coconut oil", "Lard from whale blubber"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What were secundae mensae at a Roman banquet?",
+    "choices": ["The slave quarters", "The dessert course", "The second kitchen hearth", "The list of invited clients"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which food would more likely signal elite display than an ordinary urban supper?",
+    "choices": ["Barley mash", "Cabbage stew", "Dormice prepared for a banquet", "Coarse bread with olives"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What kind of vessel was an amphora in food distribution?",
+    "choices": ["A silver serving spoon", "A table napkin", "A bronze brazier", "A large transport jar"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which fruit sweetener was common in Roman cuisine?",
+    "choices": ["Honey", "Refined beet sugar", "Corn syrup", "Maple sugar"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was prandium for many Romans?",
+    "choices": ["A wedding feast", "A light midday meal", "The formal after-dinner drinking bout", "A ritual offering to the Lares"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which sauce ingredient gave many Roman dishes a salty umami quality?",
+    "choices": ["Anchovy paste with lemon", "Soybean mash", "Fermented fish sauce", "Pickled seaweed brine"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What was a convivium in Roman social life?",
+    "choices": ["A grain ration coupon", "A kitchen knife", "A bakery oven", "A shared banquet or dinner party"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which table practice better fits Roman elite dining than ordinary quick eating?",
+    "choices": ["Multiple courses served with entertainment", "Disposable paper menus", "Individual plated service from a restaurant kitchen", "Eating with chopsticks"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was mulsum at a Roman banquet?",
+    "choices": ["A lentil cake", "Wine sweetened with honey", "A roast stuffed with figs", "A cup for measuring oil"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which humble ingredient was much more characteristic of ordinary Roman fare than exotic banqueting display?",
+    "choices": ["Flamingo tongues", "Pearls dissolved in vinegar", "Beans", "Imported silk leaves"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who typically organized service, preparation, and presentation at a wealthy Roman dinner rather than serving themselves casually?",
+    "choices": ["Visiting magistrates", "The local baker's guild", "Public bath attendants", "Household slaves"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which preserved seasoning from the sea was traded across the Roman world?",
+    "choices": ["Garum", "Wasabi", "Kimchi", "Molasses"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was the comissatio after some Roman dinners?",
+    "choices": ["The bakery tax", "A structured drinking session", "The morning shopping trip", "The kitchen cleaning rota"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which dining arrangement gave the triclinium its name?",
+    "choices": ["Three lampstands", "Three silver platters", "Three couches", "Three household gods"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What item would least belong in a Roman kitchen because it was unknown there?",
+    "choices": ["Mortar", "Brazier", "Storage jar", "Tomato"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which drink was the ordinary alcoholic beverage most associated with Romans?",
+    "choices": ["Wine", "Beer brewed with hops as the norm", "Distilled rum", "Coffee liqueur"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What was a patina in Roman culinary writing?",
+    "choices": ["A tax on olive presses", "A dish or casserole preparation", "A portable dining couch", "A market inspector"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which foodstuff would Romans have known, unlike New World staples?",
+    "choices": ["Maize", "Potatoes", "Figs", "Chocolate"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What best describes a Roman pistrinum?",
+    "choices": ["A fish-salting vat", "A banquet toast formula", "A couch cushion", "A bakery or mill-bakery"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which legume was a normal Roman staple rather than a luxury rarity?",
+    "choices": ["Lentils", "Macadamias", "Peanuts", "Soybeans"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What did a nomenclator do at elite Roman social occasions?",
+    "choices": ["Baked bread rolls", "Prompted names and identities", "Carved marble tables", "Collected market tolls"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which place setting detail is more accurate for Romans than modern dining assumptions?",
+    "choices": ["Factory-made porcelain cups", "Tomato-based sauces", "Hands often played a major role in eating", "Forks were the main utensil"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What type of heat source was common in Roman cooking spaces lacking a modern built-in stove?",
+    "choices": ["Microwave oven", "Gas range", "Electric hot plate", "Brazier"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was defrutum in Roman food preparation?",
+    "choices": ["Pickled garlic paste", "Reduced grape must", "Ground sesame meal", "A smoked cheese"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which everyday food pairing would fit an ordinary Roman more than a conspicuous aristocratic novelty?",
+    "choices": ["Peacock and saffron jelly", "Oysters packed in snow", "Bread and olives", "Silver-dusted pastries"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What was the lectus medius in a formal triclinium arrangement?",
+    "choices": ["The kitchen shelf", "The host's pantry", "The bread chest", "The middle couch"],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which herb or aromatic was genuinely at home in Roman seasoning?",
+    "choices": ["Rue", "Curry leaf", "Allspice", "Vanilla bean"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What was the sportula in the context of dependents and elite households, sometimes replacing a meal invitation?",
+    "choices": ["A bronze ladle", "A gift or food dole", "A street oven", "A serving girl"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which marine luxury especially appears in Roman elite consumption and display?",
+    "choices": ["Cod burgers", "Lobster rolls", "Oysters", "Canned sardines in tins"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was a dolium used for in Roman food storage?",
+    "choices": ["Serving tiny sauces", "Slicing roast meats", "Cooling wine with ice", "Holding large quantities of goods in a huge jar"],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What was more likely to accompany Roman bread than butter as the default spread?",
+    "choices": ["Peanut paste", "Olive oil", "Chocolate cream", "Tomato chutney"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which ingredient would Romans have used without needing transoceanic exchange?",
+    "choices": ["Chili peppers", "Cassava", "Cabbage", "Vanilla pods"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What best describes a popina in many Roman urban contexts?",
+    "choices": ["An aristocratic summer villa", "A senator's private fish pond", "A ceramic table service", "A tavern or eating house"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which preserved fruit or fresh fruit option would be familiar on a Roman table?",
+    "choices": ["Grapes", "Pineapple chunks", "Banana fritters", "Mango slices"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which animal became a byword for refined banquet luxury when specially prepared?",
+    "choices": ["Goat kid", "Mule", "Dormouse", "Yak"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which item was an ordinary Roman staple rather than a New World food?",
+    "choices": ["Olives", "Tomatoes", "Peppers", "Turkey"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What did Roman moralists often criticize about extravagant banquets?",
+    "choices": ["That they lacked enough grain tax receipts", "That they signaled luxury and excess", "That they used too many forks", "That they excluded all conversation"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which sweet course ending fits Roman dining better than a modern bakery counter?",
+    "choices": ["Frosted cupcakes", "Chocolate truffles", "Fruit and nuts", "Ice cream sandwiches"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was a caccabus in Roman culinary equipment?",
+    "choices": ["A banquet invitation", "A diluted wine jug", "A napkin ring", "A cooking pot"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which preparation would have been especially practical for preserving fish in the Roman world?",
+    "choices": ["Salting", "Freeze-drying", "Vacuum sealing", "Canning in aluminum"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which animal product was common enough in Roman cuisine to appear in many recipes and seasonings?",
+    "choices": ["Buffalo mozzarella", "Whale oil", "Eggs", "Condensed milk"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which food source illustrates Roman dependence on Mediterranean trade networks?",
+    "choices": ["Olive oil shipped in amphorae", "Potatoes from Peru", "Tea from Ceylon as a staple", "Canned salmon from Alaska"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was the difference between elite and ordinary access to imported spices in Rome?",
+    "choices": ["Ordinary people used more imported pepper than senators", "Imported spices were relatively costly and more associated with the wealthy", "Spices were banned for the elite", "Imported spices were free monthly rations"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which vegetable fits Roman kitchens better than later global staples?",
+    "choices": ["Bell pepper", "Potato", "Leek", "Corn on the cob"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman social practice could influence who dined together and how they were treated?",
+    "choices": ["Status hierarchy", "Universal equality at table", "Alphabetical seating by name", "Mandatory anonymous service"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was often the purpose of fish ponds at some luxury villas?",
+    "choices": ["Training war horses", "Display and supply of prized seafood", "Grinding flour with waterwheels", "Storing legal archives"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which ingredient would have supplied acidity in Roman cooking without relying on tomatoes?",
+    "choices": ["Ketchup", "Tomatillos", "Vinegar", "Tamarind soda"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was a likely reason ordinary Romans bought prepared food outside the home?",
+    "choices": ["Roman law banned all home cooking", "Only slaves were allowed to use fire", "Bread was illegal to bake privately", "Many urban dwellings had limited cooking facilities"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which utensil pair was basic in Roman food preparation?",
+    "choices": ["Mortar and pestle", "Blender and whisk", "Pressure cooker and timer", "Food processor and grater"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What did the term ius often mean in Roman culinary contexts?",
+    "choices": ["A sleeping cloak", "A sauce or broth", "A guest gift bag", "A dining couch cover"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which ingredient would have been sweet but also readily local to much of the Roman world?",
+    "choices": ["Maple syrup", "Cane sugar crystals", "Dates", "Marshmallows"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What was one function of household slaves during elite meals beyond cooking itself?",
+    "choices": ["Voting in the Senate", "Issuing coinage", "Commanding ships at sea", "Serving courses and managing table service"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which food would better fit Roman Italy than a Columbian Exchange diet?",
+    "choices": ["Cheese", "Cornbread made from maize", "Tomato stew", "Chocolate drink"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which flavor profile often appears in Roman recipes and surprises modern readers?",
+    "choices": ["Extremely bland boiled grain only", "No salt in any savory dish", "Mixed sweet and savory elements", "Heavy tomato and chili heat"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which vessel was suited to pounding spices, herbs, and sauces in a Roman kitchen?",
+    "choices": ["Mortarium", "Samovar", "Thermos", "Wok"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What was more likely at an elite convivium than at an ordinary worker's meal?",
+    "choices": ["Strictly identical food for every rank", "Entertainment such as music or recitation", "No servants present", "One communal pot with no courses"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which item belongs to Roman agriculture and diet without importing a New World crop?",
+    "choices": ["Pumpkin pie", "Baked potato", "Barley", "Peanut brittle"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which protein source was common enough to appear in ordinary Roman diets at least at times?",
+    "choices": ["Cheese", "Chocolate milk", "Turkey bacon", "Tofu"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was a likely reason banquet literature dwells on strange or rare dishes?",
+    "choices": ["Roman menus had no ordinary foods", "Luxury foods advertised extravagance", "The empire lacked grain supplies", "Most Romans were professional chefs"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which seafood seasoning product could be produced in large vats near coasts?",
+    "choices": ["Clam chowder", "Oyster crackers", "Fish sauce", "Sushi rice vinegar"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What best distinguishes a banquet host from an ordinary diner in Roman satire?",
+    "choices": ["The ordinary diner had more imported pepper", "The ordinary diner reclined on ivory couches every night", "The host usually ate alone in silence", "The host could stage luxury as a social performance"],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which food would commonly pair with wine and bread in Roman contexts?",
+    "choices": ["Olives", "French fries", "Tomato salsa", "Peanut sauce"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was a cena recta in contrast to a mere sportula?",
+    "choices": ["A kitchen inventory tablet", "An actual meal invitation", "A provincial tax levy", "A priestly blessing over grain"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which item would be a plausible Roman dessert component?",
+    "choices": ["Vanilla ice cream", "Cocoa brownies", "Dates with nuts", "Banana split"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What sort of shop counter is especially recognizable in excavated Roman snack bars?",
+    "choices": ["Refrigerated glass display", "Stainless steel griddle line", "Digital cash register station", "Masonry counter with embedded jars"],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Roman meal was often lighter and earlier than the cena?",
+    "choices": ["Prandium", "Secundae mensae", "Comissatio", "Convivium"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What was one reason elite Romans might value imported tableware or rare ingredients?",
+    "choices": ["They reduced all cooking time to seconds", "They marked sophistication and reach", "They were required by military law", "They replaced the need for servants"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which source of sweetness fits Roman pantry habits better than processed white sugar?",
+    "choices": ["Candy corn", "Marshmallow fluff", "Honey", "High-fructose syrup"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What best describes elite Roman seating and serving politics at dinner?",
+    "choices": ["Every guest chose any seat without consequence", "The kitchen was the only place status mattered", "Guests ate in strict age order only", "Placement and portions could reflect rank"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which crop linked Roman diet closely to Mediterranean landscapes?",
+    "choices": ["Olives", "Cassava", "Cacao", "Maize"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What did the host or arbiter bibendi oversee in some drinking contexts?",
+    "choices": ["Bread taxation", "The pace and rules of drinking", "The milling of flour", "The fish-sauce fermentation vats"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which preserved or robust flavoring fruit product appears naturally in Roman foodways?",
+    "choices": ["Kiwifruit jam", "Cranberry sauce", "Raisins", "Orange marmalade with refined sugar"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What kind of contrast is visible between a villa banquet and many city poor households?",
+    "choices": ["Only the poor used bread", "Only villa owners drank wine at all", "Only the poor used ceramic vessels", "Villa banquets allowed elaborate service beyond the means of cramped households"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which Roman table item could also help guests wipe hands during finger-food eating?",
+    "choices": ["Napkin", "Plastic glove", "Paper towel roll", "Wet wipe packet"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which staple aligns with Roman grain habits in Italy?",
+    "choices": ["Millet only and never wheat", "Noodles from rice flour", "Wheat bread", "Corn tortillas"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What best explains why Roman literary banquets can mislead modern readers about ordinary diet?",
+    "choices": ["All Romans wrote cookbooks daily", "The texts are mostly grocery lists", "Literature avoids all elite settings", "Elite sources overrepresent exceptional luxury"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which item would be ordinary enough for Roman market supply rather than bizarrely anachronistic?",
+    "choices": ["Onions", "Coffee beans", "Tomatillos", "Peanut oil"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  }
+]

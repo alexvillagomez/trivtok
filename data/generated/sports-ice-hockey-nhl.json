@@ -1,0 +1,290 @@
+[
+  {
+    "text": "What sport is the Stanley Cup trophy primarily awarded for?",
+    "choices": ["Football", "Ice hockey", "Basketball", "Baseball"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "In NHL games, how many skaters per team are typically on the ice during regular play?",
+    "choices": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which nation is credited with inventing the sport of ice hockey?",
+    "choices": ["Sweden", "Russia", "Canada", "USA"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A goal in hockey is worth how many points?",
+    "choices": ["2 points", "1 point", "3 points", "5 points"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the name of the infrared goggles used to help detect high-speed pucks?",
+    "choices": ["Heat vision", "Puck tracker", "Infrared lens", "Goal line technology"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which of these is NOT an original six NHL team?",
+    "choices": ["Boston Bruins", "Detroit Red Wings", "Vancouver Canucks", "Montreal Canadiens"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In hockey, what does a player receive for an infraction that requires them to sit out 2 minutes?",
+    "choices": ["Major penalty", "Minor penalty", "Game misconduct", "Boarding"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many times did Wayne Gretzky win the Stanley Cup during his career?",
+    "choices": ["2 times", "3 times", "4 times", "5 times"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Bobby Orr revolutionized which position in ice hockey?",
+    "choices": ["Forward", "Defenseman", "Goaltender", "Center"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In what year did the NHL expand from the Original Six to twelve teams?",
+    "choices": ["1964", "1967", "1970", "1972"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which team did Mario Lemieux lead to back-to-back Stanley Cups in 1991-1992?",
+    "choices": ["New York Rangers", "Pittsburgh Penguins", "Detroit Red Wings", "Philadelphia Flyers"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How many consecutive Stanley Cups did the Montreal Canadiens win in the late 1970s?",
+    "choices": ["3 straight", "4 straight", "5 straight", "6 straight"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the maximum length of an ice hockey rink in feet?",
+    "choices": ["90 feet", "100 feet", "120 feet", "150 feet"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which goaltender holds the record for most career shutouts in NHL history?",
+    "choices": ["Martin Brodeur", "Patrick Roy", "Terry Sawchuk", "Dominik Hasek"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is icing in hockey?",
+    "choices": ["Penalty for high sticking", "Shooting puck from behind center line to end line without touching", "Excessive celebrating", "Fighting on ice"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Gordie Howe played most of his career with which team?",
+    "choices": ["Boston Bruins", "Montreal Canadiens", "Detroit Red Wings", "Toronto Maple Leafs"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In 2018, which team ended a 54-year Stanley Cup drought?",
+    "choices": ["Vancouver Canucks", "Philadelphia Flyers", "Washington Capitals", "St. Louis Blues"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How many players did Wayne Gretzky assist in scoring during his NHL career?",
+    "choices": ["1000+", "1100+", "1200+", "1900+"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the red line in hockey used to determine?",
+    "choices": ["Offsides", "Icing", "Checking zone", "Substitution area"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which team won the first Stanley Cup in 1892?",
+    "choices": ["Montreal Wanderers", "Toronto St. Patricks", "Boston Bruins", "Ottawa Silver Seven"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How many periods are in a regulation NHL game?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "difficulty": 0.06
+  },
+  {
+    "text": "Patrick Roy was known for which position?",
+    "choices": ["Left wing", "Goaltender", "Right defenseman", "Center"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which team is known as 'The Original Six' member with the most recent Cup win?",
+    "choices": ["Montreal Canadiens", "Detroit Red Wings", "Boston Bruins", "Toronto Maple Leafs"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does NHL stand for?",
+    "choices": ["North Hockey League", "National Hockey League", "Northern Hockey League", "National Hardtop League"],
+    "correctIndex": 1,
+    "difficulty": 0.04
+  },
+  {
+    "text": "Which player scored 50 goals in 39 games in 1981-82?",
+    "choices": ["Mark Messier", "Wayne Gretzky", "Jari Kurri", "Grant Fuhr"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "How many times has the Detroit Red Wings organization won the Stanley Cup?",
+    "choices": ["9 times", "11 times", "13 times", "15 times"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a 'hat trick' in hockey?",
+    "choices": ["Three fights", "Three goals by one player", "Three saves", "Three penalties"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which player is known as 'The Great One'?",
+    "choices": ["Mario Lemieux", "Bobby Orr", "Wayne Gretzky", "Gordie Howe"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In what year did the New York Rangers last win the Stanley Cup before 2024?",
+    "choices": ["1970", "1985", "1994", "2008"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What penalty requires a player to leave the game permanently?",
+    "choices": ["Misconduct", "Game misconduct", "Major penalty", "Charging"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which team did Alexander Ovechkin play for during his entire career?",
+    "choices": ["Pittsburgh Penguins", "Washington Capitals", "Moscow Dynamo", "New York Rangers"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "How many teams were in the NHL during the 'Original Six' era?",
+    "choices": ["4", "6", "8", "10"],
+    "correctIndex": 1,
+    "difficulty": 0.09
+  },
+  {
+    "text": "What is the term for a goaltender leaving the ice during play, usually on a delayed penalty?",
+    "choices": ["Pull", "Empty net", "Six-on-five", "Goalie pull"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Hall of Fame defenseman was nicknamed 'Mr. Hockey'?",
+    "choices": ["Bobby Orr", "Gordie Howe", "Ray Bourque", "Doug Harvey"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In what city is the Hockey Hall of Fame located?",
+    "choices": ["Boston", "Montreal", "Toronto", "Detroit"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "How many Stanley Cup championships did the Edmonton Oilers win in the 1980s?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is a 'five-hole' in hockey?",
+    "choices": ["Five players", "Space between goaltender's legs", "Five-minute penalty", "Five-on-three"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which team plays at Madison Square Garden?",
+    "choices": ["New York Islanders", "New Jersey Devils", "New York Rangers", "Philadelphia Flyers"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Jaromir Jagr played for how many NHL teams during his legendary career?",
+    "choices": ["4", "6", "8", "10"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the professional ice hockey league in the United States called?",
+    "choices": ["AHL", "NCAA", "IHL", "NHL"],
+    "correctIndex": 3,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Which team won the Stanley Cup in 2023?",
+    "choices": ["Colorado Avalanche", "Dallas Stars", "Vegas Golden Knights", "Florida Panthers"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How long is each period in regulation NHL play?",
+    "choices": ["15 minutes", "20 minutes", "25 minutes", "30 minutes"],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is the name of the pass that bounces off the boards behind the goal line?",
+    "choices": ["Backhand", "Wrap-around", "Bank pass", "Deflection"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "During the 'Russian Five' era, which team did Sergei Bryukhanov anchor?",
+    "choices": ["New York Rangers", "Detroit Red Wings", "Pittsburgh Penguins", "New Jersey Devils"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "How many goals did Wayne Gretzky score in the regular season of his career?",
+    "choices": ["700+", "800+", "900+", "1000+"],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which goaltender revolutionized the position with an aggressive, roaming style?",
+    "choices": ["Patrick Roy", "Martin Brodeur", "Dominik Hasek", "Kirk McLean"],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the maximum duration of overtime in the NHL regular season?",
+    "choices": ["10 minutes", "15 minutes", "20 minutes", "Unlimited"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which dynasty won nine Stanley Cups between 1956 and 1973?",
+    "choices": ["Toronto Maple Leafs", "Montreal Canadiens", "Detroit Red Wings", "Boston Bruins"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  }
+]

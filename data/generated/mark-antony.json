@@ -1,0 +1,554 @@
+[
+  {
+    "text": "Mark Antony was a leading supporter and lieutenant of which Roman dictator?",
+    "choices": ["Sulla", "Julius Caesar", "Pompey", "Augustus"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What Roman name is usually anglicized as Mark Antony?",
+    "choices": ["Marcus Antonius", "Marcus Agrippa", "Gaius Cassius", "Lucius Antonius"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Mark Antony formed the later triumviral alliance with Octavian and which third man?",
+    "choices": ["Lepidus", "Brutus", "Cicero", "Sextus Pompey"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which Egyptian queen became Antony's most famous political and romantic partner?",
+    "choices": ["Arsinoe IV", "Berenice IV", "Cleopatra VII", "Cleopatra Selene"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which naval battle in 31 BCE brought defeat to Antony and Cleopatra?",
+    "choices": ["Naulochus", "Actium", "Philippi", "Mutina"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "After Caesar's assassination, Antony's funeral speech helped turn opinion against whom?",
+    "choices": ["The Liberators", "The Samnites", "The Parthians", "The censors"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What office did Antony hold in 44 BCE as Caesar's colleague?",
+    "choices": ["Quaestor", "Consul", "Censor", "Praetor peregrinus"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Before Caesar's murder, Antony had earlier served him notably in which office in 49 BCE?",
+    "choices": ["Tribune of the plebs", "Pontifex maximus", "Curule aedile", "Censor"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which battle in 42 BCE saw Antony and Octavian defeat Brutus and Cassius?",
+    "choices": ["Pharsalus", "Philippi", "Perusia", "Munda"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Roman statesman wrote the Philippics attacking Antony?",
+    "choices": ["Livy", "Cicero", "Sallust", "Varro"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which city in Cisalpine Gaul became the focus of Antony's siege in 43 BCE?",
+    "choices": ["Ariminum", "Patavium", "Mutina", "Aquileia"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "At Mutina, Antony was opposed by forces supporting which heir of Caesar?",
+    "choices": ["Octavian", "Antyllus", "Agrippa", "Tiberius"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the formal name of the legally established three-man board of Antony, Octavian, and Lepidus?",
+    "choices": ["First Triumvirate", "Second Triumvirate", "Decemvirate", "Consular Board"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "The Second Triumvirate was formally created by what law?",
+    "choices": ["Lex Titia", "Lex Hortensia", "Lex Gabinia", "Lex Julia"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which defeated enemy's severed head and hands were displayed after the proscriptions backed by Antony?",
+    "choices": ["Brutus", "Cassius", "Cicero", "Sextus Pompey"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Antony's marriage to Octavia was meant to strengthen his political relationship with whom?",
+    "choices": ["Lepidus", "Agrippa", "Octavian", "Maecenas"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Octavia, whom Antony married, was the sister of which future emperor?",
+    "choices": ["Claudius", "Tiberius", "Octavian", "Caligula"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which agreement in 40 BCE temporarily reconciled Antony and Octavian?",
+    "choices": ["Treaty of Misenum", "Peace of Brundisium", "Treaty of Apamea", "Peace of Dyrrachium"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "After the triumviral division of responsibilities, Antony mainly took charge of which broad region?",
+    "choices": ["The western provinces", "The eastern provinces", "Sicily alone", "North Africa only"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Parthian defeat in 53 BCE had remained a major Roman humiliation before Antony's eastern efforts?",
+    "choices": ["Carrhae", "Cannae", "Arausio", "Teutoburg"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Antony launched his major invasion against which eastern empire in 36 BCE?",
+    "choices": ["Seleucid", "Parthian", "Sassanid", "Armenian"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Antony's Parthian campaign suffered badly after the loss of what crucial support arm?",
+    "choices": ["His cavalry reserve", "His siege train", "His naval squadron", "His Italian grain fleet"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which allied king of Armenia initially cooperated with Antony before later being seized by him?",
+    "choices": ["Herod", "Artavasdes II", "Juba II", "Pharnaces II"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which eastern capital served as Antony and Cleopatra's main political center late in their alliance?",
+    "choices": ["Antioch", "Tyre", "Alexandria", "Ephesus"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What 34 BCE ceremony distributed eastern territories to Cleopatra and her children?",
+    "choices": ["The Alexandrian War", "The Donations of Alexandria", "The Ludi Victoriae", "The Concord of Tarentum"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which child of Cleopatra was publicly styled king of kings in the Donations of Alexandria?",
+    "choices": ["Caesarion", "Alexander Helios", "Ptolemy Philadelphus", "Antyllus"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Roman rival used Antony's Alexandrian ceremonies as propaganda to paint him as un-Roman?",
+    "choices": ["Lepidus", "Octavian", "Agrippa", "Cicero"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which admiral was Octavian's most effective commander against Antony?",
+    "choices": ["Agrippa", "Statilius Taurus", "Salvidienus", "Messalla"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Antony's final war against Octavian was officially declared by Rome against whom?",
+    "choices": ["Antony personally", "Cleopatra", "Herod", "Parthia"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "In 41 BCE Antony summoned Cleopatra to meet him at which city in Cilicia?",
+    "choices": ["Tarsus", "Sardis", "Pergamum", "Laodicea"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which of Antony's wives before Octavia was associated with the Perusine War against Octavian?",
+    "choices": ["Fulvia", "Scribonia", "Servilia", "Livia"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The Perusine War centered on resistance led by Fulvia and which brother of Antony?",
+    "choices": ["Gaius Antonius", "Lucius Antonius", "Iullus Antonius", "Antyllus"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Italian city gave its name to the Perusine War?",
+    "choices": ["Perusia", "Praeneste", "Puteoli", "Picenum"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "At Caesar's funeral, Antony's display of the dictator's wounds was meant to inflame which audience?",
+    "choices": ["The Senate", "The urban crowd", "The Parthian embassy", "The censors"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which assassinated dictator's papers and acts did Antony initially control in the power struggle of 44 BCE?",
+    "choices": ["Sulla's", "Caesar's", "Marius's", "Pompey's"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which famous young heir returned to Italy in 44 BCE and challenged Antony for Caesar's legacy?",
+    "choices": ["Drusus", "Octavian", "Germanicus", "Marcellus"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Before Actium, Antony and Octavian had once jointly defeated which pair of Caesar's assassins?",
+    "choices": ["Brutus and Cassius", "Dolabella and Trebonius", "Decimus and Cicero", "Lepidus and Sextus"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which battle in northern Greece crushed Brutus and Cassius after Caesar's death?",
+    "choices": ["Actium", "Philippi", "Dyrrhachium", "Pydna"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Antony was generally regarded as the stronger battlefield commander compared with which younger triumvir?",
+    "choices": ["Lepidus", "Octavian", "Tiberius", "Agrippa"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which horse-mounted eastern arm repeatedly harried Antony's retreat from Media and Armenia during his failed Parthian expedition?",
+    "choices": ["Cataphracts and horse archers", "War elephants", "Numidian cavalry", "Cretan slingers"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which kingdom's immense grain wealth made Cleopatra an especially valuable ally for Antony?",
+    "choices": ["Macedon", "Pontus", "Egypt", "Numidia"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which Roman title is often used in English for Antony, Octavian, and Lepidus collectively?",
+    "choices": ["Decemvirs", "Triumvirs", "Consulars", "Tribunes"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which office had Antony held in 47 BCE while Caesar was away, revealing his difficulty with civil administration?",
+    "choices": ["Master of the horse", "Pontifex maximus", "Censor", "Princeps senatus"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Roman title magister equitum held by Antony under Caesar is usually translated how?",
+    "choices": ["Master of supplies", "Master of ceremonies", "Master of the horse", "Commander of the fleet"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which battle in 48 BCE did Antony help win for Caesar against Pompey?",
+    "choices": ["Carrhae", "Pharsalus", "Alesia", "Philippi"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "During Caesar's civil war, Antony notably helped protect Caesar's cause in Italy after fleeing from what political office under pressure?",
+    "choices": ["Dictator", "Tribune of the plebs", "Pontifex", "Aedile"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Roman noblewoman is best known as Antony's politically formidable wife before Octavia?",
+    "choices": ["Atia", "Fulvia", "Cornelia", "Antonia"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which enemy of the triumvirs held Sicily and threatened Rome's grain supply before being overcome?",
+    "choices": ["Sextus Pompey", "Juba I", "Mithridates", "Labienus"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Antony met Octavian and Sextus Pompey in 39 BCE at what agreement?",
+    "choices": ["Treaty of Misenum", "Treaty of Luca", "Peace of Cynoscephalae", "Pact of Beneventum"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which 37 BCE agreement renewed the triumviral powers of Antony and Octavian?",
+    "choices": ["Brundisium", "Tarentum", "Bononia", "Mutina"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which son of Antony by Cleopatra was nicknamed Antyllus?",
+    "choices": ["Marcus Antonius Antyllus", "Alexander Helios", "Caesarion", "Lucius Antonius"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which daughter of Antony and Cleopatra later married Juba II and linked the fallen Ptolemies to Mauretanian royalty?",
+    "choices": ["Antonia Major", "Julia the Elder", "Cleopatra Selene", "Arsinoe"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Antony's campaign plan against Parthia involved advancing through which intermediary kingdom toward Media Atropatene?",
+    "choices": ["Judea", "Armenia", "Numidia", "Cyrene"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which problem most directly ruined Antony's 36 BCE invasion of Parthian territory?",
+    "choices": ["A plague in Italy", "The destruction of his siege equipment and supply strain", "A naval mutiny at Alexandria", "A slave revolt in Campania"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which Roman biographer is one of the main surviving narrative sources for Antony's life through his Parallel Lives?",
+    "choices": ["Tacitus", "Plutarch", "Suetonius", "Appian only"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which historian's Civil Wars is another major source for Antony and the triumviral era?",
+    "choices": ["Polybius", "Appian", "Diodorus", "Josephus"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which source hostile to Antony popularized the image of him as enthralled by eastern luxury?",
+    "choices": ["Augustan propaganda", "The Twelve Tables", "Caesar's Commentaries", "The Sibylline Books"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What accusation about Antony's will became a major public scandal in the run-up to war with Octavian?",
+    "choices": ["That he named Cicero his heir", "That he wanted burial in Alexandria", "That he planned to restore the Tarquins", "That he would resign his provinces to Lepidus"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Vestal-kept document did Octavian controversially seize and publicize to damage Antony?",
+    "choices": ["Caesar's calendar reform", "Antony's will", "The Sibylline oracle", "Brutus's diary"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which public role did Antony perform at the Lupercalia when he offered Caesar a diadem?",
+    "choices": ["Augur", "Lupercus", "Praetor urbanus", "Censor"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "At the Lupercalia of 44 BCE, Antony dramatically offered Caesar what symbol of kingship?",
+    "choices": ["A purple toga", "A diadem", "A scepter", "A golden eagle"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The diadem scene was politically dangerous because many Romans associated kingship with hatred of what institution?",
+    "choices": ["The assemblies", "The monarchy", "The consulship", "The tribunate"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The campaign culminating at Actium was fought primarily in which theater?",
+    "choices": ["The Adriatic and western Greece", "Sicily and Sardinia", "North Africa", "Gaul and Spain"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Why did Antony's large forces at Actium fail to guarantee victory?",
+    "choices": ["He had no fleet at all", "Disease, desertion, and strategic disadvantage weakened them", "His army defected to Parthia", "The Senate forbade battle"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which queen's withdrawal with part of the fleet became central to later narratives of the defeat at Actium?",
+    "choices": ["Octavia", "Cleopatra", "Arsinoe", "Berenice"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "After Actium, Antony and Cleopatra retreated to which city for their last stand?",
+    "choices": ["Memphis", "Alexandria", "Athens", "Antioch"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "In 30 BCE Antony died in the aftermath of false or confused reports concerning whose fate?",
+    "choices": ["Octavia's", "Fulvia's", "Cleopatra's", "Livia's"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What was Antony's manner of death according to the standard ancient account?",
+    "choices": ["Execution by Octavian", "Poison at banquet", "Suicide by sword", "Death in naval battle"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "According to the traditional story, Antony was brought dying to Cleopatra where?",
+    "choices": ["The Senate house", "A mausoleum or monument", "A field hospital", "The Serapeum"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which victor permitted Antony and Cleopatra to be buried together according to later tradition?",
+    "choices": ["Agrippa", "Octavian", "Lepidus", "Tiberius"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "After Antony's death, Egypt ceased to be ruled by the Ptolemies and became what?",
+    "choices": ["A free Greek league", "A Parthian satrapy", "A Roman possession", "An Armenian dependency"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which rival ultimately became Augustus after Antony's defeat?",
+    "choices": ["Lepidus", "Octavian", "Agrippa", "Germanicus"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which Roman noble family did Antony belong to?",
+    "choices": ["Antonii", "Julii", "Claudii", "Cornelii Scipiones"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Antony's early military experience included service under which proconsul in the East before his Caesarian prominence?",
+    "choices": ["Aulus Gabinius", "Lucullus", "Crassus", "Bibulus"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which restored Egyptian king benefited from Gabinius's expedition in which Antony served?",
+    "choices": ["Ptolemy XII Auletes", "Ptolemy XIII", "Ptolemy XIV", "Juba I"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which of Antony's lieutenants won a rare Roman success against the Parthians while Antony controlled the East?",
+    "choices": ["Ventidius Bassus", "Canidius Crassus", "Sosius", "Dolabella"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Roman political enemy was handed over to Antony's vengeance through the triumviral proscriptions most famously in rhetoric if not battle?",
+    "choices": ["Cicero", "Brutus", "Cassius", "Trebonius"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which phrase best describes the public image Octavian promoted of Antony late in their rivalry?",
+    "choices": ["Restorer of the Senate", "Roman hero corrupted by the East", "Defender of old Cato", "Enemy of Caesar from the start"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What link to Caesar especially strengthened Antony's standing among veterans and Caesarians after 44 BCE?",
+    "choices": ["He was Caesar's adoptive son", "He had served as Caesar's trusted subordinate and consul-colleague", "He held the office of censor with Caesar", "He had married Julia"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which city hosted the meeting in 43 BCE where Antony, Octavian, and Lepidus arranged their new power-sharing order?",
+    "choices": ["Bononia", "Rome", "Tarentum", "Massilia"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which triumvir was eventually marginalized and stripped of power before the final Antony-Octavian showdown?",
+    "choices": ["Lepidus", "Antony", "Octavian", "Agrippa"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman woman remained in Italy and gained admiration for loyalty while Antony drifted back toward Cleopatra?",
+    "choices": ["Fulvia", "Octavia", "Livia", "Atia"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Antony's abandonment of Octavia gave Octavian useful ammunition because Octavia symbolized what in Roman moral terms?",
+    "choices": ["Foreign monarchy", "Respectable domestic virtue", "Naval ambition", "Radical democracy"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which child of Antony and Cleopatra bore the evocative name meaning 'Sun'?",
+    "choices": ["Ptolemy Philadelphus", "Alexander Helios", "Caesarion", "Antyllus"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which child of Antony and Cleopatra bore the name meaning 'Moon'?",
+    "choices": ["Cleopatra Selene", "Octavia Minor", "Julia", "Arsinoe"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Roman political speech tradition is forever linked to attacks on Antony in 43 BCE?",
+    "choices": ["Philippics", "Catilinarians", "Annals", "Res Gestae"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was Antony trying to secure when he pressed his claim against Decimus Brutus in Cisalpine Gaul?",
+    "choices": ["A censorship", "A provincial command and military base", "The pontificate", "Control of Sicily"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which of Caesar's assassins held Cisalpine Gaul and became Antony's immediate enemy in 44 to 43 BCE?",
+    "choices": ["Marcus Brutus", "Cassius", "Decimus Brutus", "Trebonius"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which pair of consuls died in the 43 BCE fighting around Mutina against Antony?",
+    "choices": ["Hirtius and Pansa", "Lentulus and Marcellus", "Bibulus and Calvinus", "Sosius and Domitius"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "After Mutina, Octavian's break with the Senate made an eventual alliance with Antony possible because both men still relied on what constituency?",
+    "choices": ["The old optimates", "Caesarian soldiers and patronage networks", "Parthian horsemen", "Greek philosophers"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which long-term constitutional order emerged after Antony's defeat and Octavian's consolidation?",
+    "choices": ["The Principate", "The Decemvirate", "The restored monarchy of Tarquin", "The old republic unchanged"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In Shakespeare's title, Antony is paired with which queen?",
+    "choices": ["Octavia", "Berenice", "Cleopatra", "Dido"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which driver has won the most Formula 1 World Championships as of 2024?",
+    "choices": ["Max Verstappen", "Lewis Hamilton", "Michael Schumacher", "Juan Manuel Fangio"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In what country is the iconic Circuit de Monaco located?",
+    "choices": ["Italy", "France", "Monaco", "Spain"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which racing series is known for the '24 Hours of Le Mans' endurance race?",
+    "choices": ["Formula 1", "World Endurance Championship", "IndyCar", "MotoGP"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the name of the world championship for motorcycle racing?",
+    "choices": ["MotoGP", "Superbike World Championship", "World Supercross", "Isle of Man TT"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which American racing series features the legendary Indy 500?",
+    "choices": ["Formula 1", "NASCAR", "IndyCar", "IMSA"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What color flag is shown to indicate a winner in motor racing?",
+    "choices": ["Red", "Green", "Checkered", "White"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which F1 team is known as the 'Prancing Horse'?",
+    "choices": ["McLaren", "Ferrari", "Mercedes", "Red Bull"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In NASCAR, what does the acronym stand for?",
+    "choices": ["National Association of Stock Car Auto Racing", "National Automotive Stock Car Association", "National Association of Automobile Racing", "North American Stock Car Racing"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which racing driver is nicknamed 'The King'?",
+    "choices": ["Ayrton Senna", "Richard Petty", "Dale Earnhardt", "Mario Andretti"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Formula 1, how many points does a driver typically earn for first place?",
+    "choices": ["15 points", "25 points", "20 points", "30 points"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the primary fuel used in modern Formula 1 racing?",
+    "choices": ["Regular unleaded petrol", "High-octane racing fuel", "Synthetic fuel blend", "Diesel"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which legendary F1 driver won 7 World Championships with Mercedes?",
+    "choices": ["Sebastian Vettel", "Lewis Hamilton", "Fernando Alonso", "Nico Rosberg"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In which country is the Suzuka Circuit, one of F1's most challenging tracks, located?",
+    "choices": ["South Korea", "Singapore", "Japan", "Malaysia"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which F1 driver famously drove for Ferrari and won 4 consecutive championships from 2000-2003?",
+    "choices": ["Juan Pablo Montoya", "Rubens Barrichello", "Michael Schumacher", "Giancarlo Fisichella"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the traditional home circuit of the British Grand Prix?",
+    "choices": ["Brands Hatch", "Donington Park", "Silverstone", "Aintree"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In MotoGP, how many cylinders do most top-tier motorcycle engines have?",
+    "choices": ["2 cylinders", "3 cylinders", "4 cylinders", "6 cylinders"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which NASCAR driver won the most races in the series' history before retiring?",
+    "choices": ["Dale Earnhardt", "Jimmie Johnson", "Richard Petty", "Jeff Gordon"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the race held annually at the Indianapolis Motor Speedway?",
+    "choices": ["Daytona 500", "Indianapolis 500", "Brickyard 400", "United States Grand Prix"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Grand Prix is held on temporary street circuits and is the only F1 race requiring special permission to modify the track annually?",
+    "choices": ["Canadian Grand Prix", "Singapore Grand Prix", "Monaco Grand Prix", "British Grand Prix"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In what year did Formula 1 first adopt the hybrid power unit system?",
+    "choices": ["2009", "2011", "2013", "2014"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which legendary NASCAR driver was known as 'The Intimidator'?",
+    "choices": ["Cale Yarborough", "Dale Earnhardt", "Bobby Isaac", "Darrell Waltrip"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "At Le Mans, approximately how many laps must a car complete in 24 hours?",
+    "choices": ["180 laps", "250 laps", "350 laps", "450 laps"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Italian F1 team has competed continuously since 1950?",
+    "choices": ["Alfa Romeo Racing", "Maserati", "Ferrari", "Lamborghini Racing"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In MotoGP, which Spanish rider won multiple championships with Repsol Honda?",
+    "choices": ["Valentino Rossi", "Max Biaggi", "Marc Márquez", "Sete Gibernau"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the nickname for the famous banking at the Daytona International Speedway?",
+    "choices": ["The High Groove", "The Banking", "The Tri-Oval", "The Speedway Bowl"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Formula 1, what is the technical term for the movable wing elements that reduce drag on straights?",
+    "choices": ["Active aerodynamics", "Drag reduction system", "Adaptive wings", "Variable geometry wings"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which F1 constructor has won the most World Championships in the sport's history?",
+    "choices": ["McLaren", "Ferrari", "Mercedes", "Red Bull Racing"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How many wheels does a Formula 1 car have during a race?",
+    "choices": ["3 wheels", "4 wheels", "6 wheels", "8 wheels"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which street circuit in Las Vegas joined the F1 calendar in 2023?",
+    "choices": ["Arizona Grand Prix Circuit", "Las Vegas Grand Prix", "Paradise Road Circuit", "Strip Circuit"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In IndyCar, what is the traditional trophy given to the race winner at Indianapolis?",
+    "choices": ["Borg-Warner Trophy", "Indianapolis Crystal", "Motor City Trophy", "Speedway Cup"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the minimum driver age requirement in Formula 1?",
+    "choices": ["16 years old", "18 years old", "21 years old", "25 years old"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which McLaren F1 driver won back-to-back championships in 1988-1989?",
+    "choices": ["Nigel Mansell", "Ayrton Senna", "Alain Prost", "Gerhard Berger"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In NASCAR, what are the three national racing series sanctioned by NASCAR?",
+    "choices": ["Cup, Truck, Craftsman Series", "Sprint Cup, Busch Series, Craftsman Truck Series", "Monster Cup, Craftsman Truck, Xfinity Series", "Cup Series, Craftsman Truck, Xfinity Series"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which former F1 driver won the most Grand Prix races (91) before retiring in 2018?",
+    "choices": ["Kimi Räikkönen", "Felipe Massa", "Lewis Hamilton", "Nico Rosberg"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "At what temperature does a typical F1 tire need to operate for optimal performance?",
+    "choices": ["80-100°C", "100-120°C", "50-80°C", "120-150°C"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which MotoGP rider, known as 'The Doctor,' won 9 World Championships?",
+    "choices": ["Max Biaggi", "Valentino Rossi", "Casey Stoner", "Sete Gibernau"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the name of the famous high-speed corner at Silverstone Circuit known for its challenge?",
+    "choices": ["Copse Corner", "Maggotts", "Beckets", "Woodcote"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In what year did the DRS (Drag Reduction System) first appear in Formula 1?",
+    "choices": ["2009", "2010", "2011", "2012"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which IndyCar driver won a record four Indianapolis 500 races?",
+    "choices": ["Dan Wheldon", "Rick Mears", "A.J. Foyt", "Mario Andretti"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the maximum fuel capacity allowed in a Formula 1 car during a race?",
+    "choices": ["100 liters", "110 liters", "120 liters", "150 liters"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In 2016, which team won the Formula 1 Constructors' Championship with a historically dominant performance?",
+    "choices": ["Red Bull Racing", "Ferrari", "Mercedes", "McLaren"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which legendary NASCAR driver won the Daytona 500 a record seven times?",
+    "choices": ["Richard Petty", "Dale Earnhardt", "Bobby Isaac", "Lee Petty"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In MotoGP, what is the approximate lean angle that top riders achieve in corners?",
+    "choices": ["30 degrees", "45 degrees", "60 degrees", "75 degrees"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What engine specification was introduced in Formula 1 in 2022 to promote new entrants?",
+    "choices": ["1.6L twin-turbo", "2.0L hybrid", "3.0L naturally aspirated", "1.6L hybrid with new suppliers"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which circuit hosts the Grand Prix of Hungary and is known for its tight, twisty layout?",
+    "choices": ["Hungaroring", "Budapest Circuit", "Kaposvar Ring", "Balaton Park"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Formula 1, what does DRS stand for?",
+    "choices": ["Dynamic Racing System", "Drag Reduction System", "Driver Response System", "Dynamic Response Setup"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which F1 driver holds the record for the most pole positions in a single season (2023)?",
+    "choices": ["Charles Leclerc", "Max Verstappen", "George Russell", "Lewis Hamilton"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  }
+]

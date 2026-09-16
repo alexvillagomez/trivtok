@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Which sitcom featured the married couple Lucy and Ricky Ricardo in the 1950s?",
+    "choices": ["I Love Lucy", "The Honeymooners", "You Bet Your Life", "The Burns and Allen Show"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "In what city is the sitcom Friends primarily set?",
+    "choices": ["Boston", "Los Angeles", "New York", "Chicago"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which network aired the original run of The Twilight Zone?",
+    "choices": ["ABC", "NBC", "CBS", "Fox"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Simpsons is set in a fictional town named Springfield. What is Homer's job?",
+    "choices": ["Factory supervisor", "Nuclear power plant safety inspector", "Postal worker", "Bus driver"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Breaking Bad aired on which cable network?",
+    "choices": ["HBO", "Showtime", "AMC", "FX"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many main characters drink regularly at the bar in Cheers?",
+    "choices": ["Five", "Six", "Seven", "Eight"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which network broadcast the game show Jeopardy! starting in 1984?",
+    "choices": ["ABC", "NBC", "CBS", "Syndicated"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Mad Men is primarily set during which decade?",
+    "choices": ["1950s", "1960s", "1970s", "1980s"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Mary Tyler Moore Show premiered in which year?",
+    "choices": ["1968", "1970", "1972", "1975"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Desi Arnaz's role on I Love Lucy, what was Ricky Ricardo's profession?",
+    "choices": ["Actor", "Singer and bandleader", "Dancer", "Television host"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "How many seasons did the original Star Trek series run?",
+    "choices": ["Two", "Three", "Five", "Seven"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which police procedural debuted on Hill Street Blues in 1981?",
+    "choices": ["L.A. Law", "Miami Vice", "Hill Street Blues", "Cagney & Lacey"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The Honeymooners featured a bus driver and his wife. What was the bus driver's name?",
+    "choices": ["Barney Fife", "Ralph Kramden", "Chester Riley", "Amos Jones"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In Cheers, which character was a psychiatrist who appeared starting in season 3?",
+    "choices": ["Frasier Crane", "Norm Peterson", "Cliff Clavin", "Coach Ernie Pantusso"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The X-Files centered on two FBI agents investigating unexplained cases. What were their surnames?",
+    "choices": ["Scully and Mulder", "Brock and Mills", "Sorkin and Adams", "Turner and Hooch"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Game of Thrones aired for how many seasons on HBO?",
+    "choices": ["Six", "Seven", "Eight", "Nine"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which sitcom featured the character Norm Peterson as the bartender's friend?",
+    "choices": ["Frasier", "Wings", "Cheers", "Boston Common"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Office (US version) aired on NBC for how many seasons?",
+    "choices": ["Seven", "Eight", "Nine", "Ten"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Breaking Bad featured Walter White as a high school teacher turned criminal. What pseudonym did he use?",
+    "choices": ["The Cook", "Mr. Majestic", "Heisenberg", "The Chemist"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Sopranos centered on the therapy sessions of which organized crime boss?",
+    "choices": ["Michael Corleone", "Tony Soprano", "Vito Corleone", "Carmine Falcone"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many seasons did Friends run on NBC?",
+    "choices": ["Eight", "Nine", "Ten", "Eleven"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In The Twilight Zone, what was Rod Serling's primary role on the show?",
+    "choices": ["Creator and narrator", "Producer only", "Director only", "Network executive"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Lucy Show was a spin-off series featuring Lucille Ball. On which sitcom did it build?",
+    "choices": ["Here's Lucy", "The Mothers-in-Law", "I Love Lucy", "The Lucy-Desi Comedy Hour"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Bonanza aired for how many seasons and was notable for being among the first television Westerns filmed entirely in color?",
+    "choices": ["Ten", "Twelve", "Fourteen", "Sixteen"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The Golden Girls featured four older women living together in Miami. Who was the character Blanche Devereaux?",
+    "choices": ["The widow", "The Southern belle", "The retired teacher", "The immigrant mother"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Seinfeld, what was the name of the coffee shop where characters frequently gathered?",
+    "choices": ["The Daily Grind", "Monk's Cafe", "Central Perk", "The Bagel Store"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Twilight Zone original series ran for how many seasons before its cancellation?",
+    "choices": ["Three", "Four", "Five", "Six"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Gunsmoke was a Western series that aired for how many seasons, making it one of television's longest-running dramas?",
+    "choices": ["Fifteen", "Eighteen", "Twenty", "Twenty-two"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Friends, at what coffee shop did Rachel work as a waitress after fleeing her wedding?",
+    "choices": ["Mocha Java", "Central Perk", "The Grind", "Java House"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The Simpsons has aired for more than 30 seasons. What is Bart Simpson's middle name?",
+    "choices": ["James", "Jedediah", "Jojo", "Joram"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Sopranos was created by which television producer and writer?",
+    "choices": ["Matthew Weiner", "David Chase", "Peter Gould", "Jonathan Nolan"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which actress played the lead role of Mary Richards in The Mary Tyler Moore Show?",
+    "choices": ["Marlo Thomas", "Mary Tyler Moore", "Rue McClanahan", "Betty White"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Breaking Bad's creator Vince Gilligan previously worked as a writer and producer on which series?",
+    "choices": ["The X-Files", "The Twilight Zone", "The Outer Limits", "Tales from the Darkside"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In The Office, what is the first and last name of the character played by Steve Carell?",
+    "choices": ["Jim Halpert", "Michael Scott", "Dwight Schrute", "Ryan Howard"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Mad Men was created by which writer and producer known for his detailed character development?",
+    "choices": ["Peter Gould", "Matthew Weiner", "David Simon", "Rian Johnson"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The X-Files was created and executive produced by which writer?",
+    "choices": ["Chris Carter", "Dana Scully", "Walter Skinner", "Mulder Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How many seasons did Breaking Bad run before its conclusion?",
+    "choices": ["Four", "Five", "Six", "Seven"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In I Love Lucy, what instrument did Ricky Ricardo typically play as a bandleader?",
+    "choices": ["Trumpet", "Drums", "Piano", "Trombone"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Game of Thrones was adapted for HBO by which two showrunners?",
+    "choices": ["Dan Weiss and David Benioff", "Ryan Johnson and Christopher Nolan", "David Fincher and Mark Johnson", "Jesse Armstrong and Armando Iannucci"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The Sopranos aired on HBO for how many seasons before its conclusion?",
+    "choices": ["Four", "Five", "Six", "Seven"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which sitcom featured the character Niles Crane as Frasier's brother?",
+    "choices": ["Cheers", "Wings", "Frasier", "Boston Common"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In Seinfeld, what was Jerry Seinfeld's actual profession on the show?",
+    "choices": ["Taxi driver", "Comedian", "Lawyer", "Doctor"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The X-Files ran for nine seasons originally. In what year did it premiere?",
+    "choices": ["1992", "1993", "1994", "1995"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which network first broadcast Gunsmoke, one of the longest-running Western series?",
+    "choices": ["CBS", "NBC", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  }
+]

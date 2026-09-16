@@ -1,0 +1,650 @@
+[
+  {
+    "text": "Which Trojan hero is the central protagonist of the Aeneid?",
+    "choices": ["Aeneas", "Turnus", "Ascanius", "Anchises"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who is Aeneas's divine mother in the Aeneid?",
+    "choices": ["Juno", "Venus", "Diana", "Minerva"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which city does Aeneas leave behind after its destruction?",
+    "choices": ["Carthage", "Argos", "Troy", "Thebes"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who is the principal Italian rival Aeneas faces at the poem's end?",
+    "choices": ["Evander", "Latinus", "Pallas", "Turnus"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What relation is Ascanius to Aeneas?",
+    "choices": ["His son", "His brother", "His father", "His cousin"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who becomes queen of Carthage and falls in love with Aeneas?",
+    "choices": ["Amata", "Dido", "Camilla", "Andromache"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which god repeatedly persecutes the Trojans out of long-standing anger?",
+    "choices": ["Apollo", "Neptune", "Juno", "Mercury"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who is Aeneas's aged father, carried out of burning Troy?",
+    "choices": ["Laertes", "Priam", "Ilus", "Anchises"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which phrase best names the Roman virtue most associated with Aeneas?",
+    "choices": ["Pietas", "Luxuria", "Licentia", "Dolus"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who warns Aeneas in a dream to flee the doomed city of Troy?",
+    "choices": ["Hector", "Sinon", "Turnus", "Achates"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which deceptive Greek helps persuade the Trojans to bring in the wooden horse?",
+    "choices": ["Diomedes", "Sinon", "Menelaus", "Nestor"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Trojan priest is killed with his sons after warning against the horse?",
+    "choices": ["Panthus", "Polydorus", "Laocoon", "Deiphobus"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is Aeneas's steadfast companion most frequently at his side?",
+    "choices": ["Nisus", "Misenus", "Pallas", "Achates"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "At the opening of the epic, from what region are the Trojans trying to reach Italy?",
+    "choices": ["Sicily", "Thrace", "Crete", "The sea near Carthage"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which wind god releases the storm against Aeneas's fleet at Juno's request?",
+    "choices": ["Aeolus", "Boreas", "Notus", "Zephyrus"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which sea god rebukes the winds and calms the waters after the storm?",
+    "choices": ["Neptune", "Vulcan", "Mars", "Janus"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What disguised role does Venus adopt when she first meets Aeneas near Carthage?",
+    "choices": ["Priestess of Juno", "Tyrian huntress", "Trojan exile", "Sibyl of Cumae"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What artwork in Carthage moves Aeneas because it depicts the Trojan War?",
+    "choices": ["A coin hoard", "A temple mural cycle", "A triumphal arch", "A bronze shield"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which line of descent is central to Jupiter's prophecy in Book 1?",
+    "choices": ["A Trojan line leading to Rome", "A Spartan line leading to Macedon", "A Carthaginian line leading to Numidia", "An Arcadian line leading to Athens"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who narrates the fall of Troy at Dido's banquet?",
+    "choices": ["Ilioneus", "Aeneas", "Anna", "Achates"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which of Aeneas's family members is lost while escaping Troy and later appears as a shade?",
+    "choices": ["Creusa", "Anna", "Lavinia", "Caieta"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What sign persuades Anchises to leave Troy after initially refusing?",
+    "choices": ["A sudden eclipse", "Flame on Ascanius's head", "The opening of Apollo's temple", "A shower of roses"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Trojan woman is Aeneas's wife during the sack of Troy?",
+    "choices": ["Andromache", "Cassandra", "Creusa", "Polyxena"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "At Buthrotum, whom does Aeneas find ruling with Helenus?",
+    "choices": ["Lavinia", "Camilla", "Dido", "Andromache"],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Trojan seer at Buthrotum gives Aeneas crucial instructions for reaching Italy?",
+    "choices": ["Helenus", "Polites", "Mnestheus", "Cloanthus"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What portent involving a meal signals that the Trojans have reached the destined land?",
+    "choices": ["They drink from a sacred spring", "They eat their tables", "They see a wolf nursing twins", "They find a buried sword"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which sea monster must Aeneas avoid by taking a longer route around Sicily?",
+    "choices": ["Chimera", "Cerberus", "Scylla", "Python"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Whose recent death in Sicily is mourned just before the Carthage episode in Aeneas's narrative?",
+    "choices": ["Palinurus", "Misenus", "Anchises", "Polydorus"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which goddess arranges the cave scene that seals Dido's view of her union with Aeneas?",
+    "choices": ["Juno", "Venus", "Aurora", "Bellona"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who is sent by Jupiter to remind Aeneas of his mission and order his departure from Carthage?",
+    "choices": ["Mercury", "Iris", "Somnus", "Aeolus"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What future hostility does Dido's curse foreshadow most clearly?",
+    "choices": ["Roman civil war", "The Punic Wars", "The Social War", "The Servile Wars"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which phrase best captures the plot function of Book 4 in Roman terms?",
+    "choices": ["Aeneas chooses private love over duty forever", "Aeneas is tested between passion and destiny", "Aeneas renounces the gods", "Aeneas founds Carthage"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What object does Dido use to kill herself?",
+    "choices": ["A sacrificial axe", "A spear from Turnus", "Aeneas's sword", "A golden arrow"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which goddess sends Iris to release Dido's struggling soul at her death?",
+    "choices": ["Venus", "Juno", "Cybele", "Ceres"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is celebrated in Sicily in Book 5?",
+    "choices": ["The wedding of Aeneas and Dido", "Funeral games for Anchises", "A treaty with the Greeks", "The founding of Lavinium"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who wins the boat race in the funeral games?",
+    "choices": ["Mnestheus", "Sergestus", "Cloanthus", "Gyas"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Trojan youth first strikes the target bird in the archery contest before a wondrous flame appears?",
+    "choices": ["Euryalus", "Acestes", "Hippocoon", "Nisus"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which goddess incites the Trojan women to burn the ships in Sicily?",
+    "choices": ["Juno", "Venus", "Juturna", "Diana"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What decision does Aeneas make after the burning of the ships?",
+    "choices": ["He abandons Italy entirely", "He leaves some weary followers in Sicily", "He returns to Carthage", "He declares war on Acestes"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who appears to Aeneas by night in Sicily to advise him to continue toward Latium?",
+    "choices": ["Priam", "Anchises", "Laocoon", "Dardanus"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which helmsman falls overboard and dies just before the Italian landfall?",
+    "choices": ["Orontes", "Cloanthus", "Palinurus", "Mnestheus"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which priestess guides Aeneas into the Underworld?",
+    "choices": ["The Sibyl of Cumae", "The Pythia of Delphi", "The priestess of Diana at Aricia", "Cassandra"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What must Aeneas obtain before descending alive to the Underworld?",
+    "choices": ["The Palladium", "The golden bough", "A crown of olive", "Turnus's sword"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Whose burial is required before the descent can proceed?",
+    "choices": ["Palinurus", "Anchises", "Misenus", "Deiphobus"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "At the entrance to the Underworld, what monstrous figure is famously personified as a pale abstraction?",
+    "choices": ["Fama", "Discordia", "Furor", "Grief"],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which ferryman carries shades across the infernal river?",
+    "choices": ["Charon", "Phlegyas", "Minos", "Tantalus"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which hound must be pacified for Aeneas and the Sibyl to pass?",
+    "choices": ["Cerberus", "Orthrus", "Argus", "Laelaps"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In the Underworld, how does Dido respond when Aeneas addresses her?",
+    "choices": ["She forgives him fully", "She turns away in silence", "She follows him back to the upper world", "She curses Rome aloud"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Whom does Aeneas meet in the Underworld bearing wounds from Troy and a mutilated face?",
+    "choices": ["Paris", "Deiphobus", "Hector", "Sarpedon"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What doctrine shapes Anchises's speech about souls before rebirth?",
+    "choices": ["Only heroes return from death", "Souls are purified before reincarnation", "The dead remember nothing at once", "The gods abolish fate for Romans"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which future Roman does Anchises single out as the man who will found the Julian line's imperial greatness?",
+    "choices": ["Romulus", "Numa", "Augustus", "Brutus"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which famous Roman mission does Anchises define as ruling peoples with law and sparing the conquered?",
+    "choices": ["The Roman arts", "The labor of Hercules", "The Trojan revenge code", "The Greek ideal of freedom"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Through which gate does Aeneas exit the Underworld at the end of Book 6?",
+    "choices": ["The gate of horn", "The gate of ivory", "The bronze gate of Dis", "The moon gate of Trivia"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Latin king receives the Trojans on their arrival in Latium?",
+    "choices": ["Latinus", "Mezentius", "Turnus", "Evander"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who is the daughter of Latinus promised by prophecy to a foreign husband?",
+    "choices": ["Lavinia", "Amata", "Camilla", "Silvia"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Fury does Juno unleash to ignite war in Latium?",
+    "choices": ["Tisiphone", "Alecto", "Megaera", "Allectra"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What small incident does Alecto exploit to turn local grievance into war?",
+    "choices": ["The theft of Lavinia's dowry", "The drowning of a sacred horse", "The killing of Silvia's tame stag", "The burning of Latinus's palace"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who is Silvia in the episode of the pet stag?",
+    "choices": ["Turnus's sister", "A Trojan prophetess", "Amata's nurse", "The daughter of Tyrrhus"],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What major epic feature fills much of Book 7 after war is declared?",
+    "choices": ["A catalog of Italian forces", "A debate in Olympus", "A descent to Tartarus", "A trial before Latinus"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Arcadian ruler becomes Aeneas's ally and host on the future site of Rome?",
+    "choices": ["Evander", "Drances", "Messapus", "Tarchon"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which young warrior, son of Evander, is entrusted to Aeneas and later killed by Turnus?",
+    "choices": ["Lausus", "Pallas", "Euryalus", "Iulus"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which god forges divine armor for Aeneas at Venus's request?",
+    "choices": ["Mars", "Apollo", "Vulcan", "Saturn"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What future Roman event is prominently depicted on Aeneas's shield?",
+    "choices": ["The Gallic sack of Rome", "The expulsion of Tarquin", "The battle of Actium", "The death of Julius Caesar"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which pair of Trojan friends undertake a night raid in Book 9?",
+    "choices": ["Nisus and Euryalus", "Mnestheus and Sergestus", "Pallas and Lausus", "Helenus and Deiphobus"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What betrays Euryalus during the night raid after early success?",
+    "choices": ["His wounded horse", "A gleam from his helmet", "A shouted taunt", "A dropped torch"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who defends the Trojan camp's gate with extraordinary ferocity before being overwhelmed in the river battle episode?",
+    "choices": ["Drances", "Turnus", "Ascanius", "Pallas"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which river god helps save Turnus when he leaps into the water to escape?",
+    "choices": ["Tiberinus", "Numicius", "Eridanus", "Amasenus"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Whose death prompts Aeneas into a furious aristeia in Book 10?",
+    "choices": ["Anchises's", "Palinurus's", "Pallas's", "Misenus's"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which young Italian warrior dies while trying to defend his father Mezentius?",
+    "choices": ["Messapus", "Lausus", "Umbro", "Bitias"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "After Lausus dies, what emotion briefly tempers Aeneas's violence?",
+    "choices": ["Pity", "Triumphant joy", "Jealousy", "Indifference"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which warrior-maiden leads Volscian forces against the Trojans?",
+    "choices": ["Lavinia", "Camilla", "Anna", "Tarpeia"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "To which goddess had Camilla been dedicated in childhood by her father?",
+    "choices": ["Juno", "Venus", "Diana", "Cybele"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who kills Camilla after stalking her in battle?",
+    "choices": ["Turnus", "Arruns", "Aeneas", "Drances"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which nymph avenges Camilla by killing Arruns?",
+    "choices": ["Juturna", "Opis", "Arethusa", "Egeria"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who is Juturna in relation to Turnus?",
+    "choices": ["His sister", "His wife", "His mother", "His daughter"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What agreement is proposed to end the war before divine interference renews fighting?",
+    "choices": ["Aeneas and Turnus will duel", "Latinus will abdicate", "The Trojans will leave Latium", "Rome and Ardea will share a throne"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which sign breaks the truce by stirring the Latins back into battle?",
+    "choices": ["A comet over Lavinium", "An eagle and swan omen interpreted in the ranks", "A wolf inside the Trojan camp", "The collapse of Latinus's scepter"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who is the augur-like Latin figure who interprets that sign and hurls the first spear?",
+    "choices": ["Umbro", "Tolumnius", "Drances", "Messapus"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "When Aeneas is wounded before the final duel, who heals him?",
+    "choices": ["Iapyx with Venus's aid", "The Sibyl alone", "Apollo in person", "Evander's household priest"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What disguise does Juturna use to manipulate Turnus during the renewed fighting?",
+    "choices": ["Alecto", "Metiscus the charioteer", "Camilla", "Lavinia"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What finally causes Turnus to falter in the last duel?",
+    "choices": ["His sword breaks because he grabbed the wrong one", "Juno abandons him openly before both armies", "Latinus strikes him by mistake", "His horses bolt into the river"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What plea does Turnus make when he is defeated and vulnerable?",
+    "choices": ["He asks to be sent into exile", "He asks mercy for the sake of his father", "He demands single combat again later", "He curses Lavinia"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What sight drives Aeneas to kill Turnus rather than spare him?",
+    "choices": ["The sword of Priam", "The baldric taken from Pallas", "A token from Dido", "An omen from Jove's eagle"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How does the Aeneid end?",
+    "choices": ["With Aeneas crowned king at Lavinium", "With the marriage feast of Aeneas and Lavinia", "With Turnus's soul fleeing to the shades", "With Romulus founding Rome"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which Homeric epics are most obviously echoed in the Aeneid's two-part structure?",
+    "choices": ["Odyssey first, Iliad second", "Iliad first, Odyssey second", "Argonautica first, Odyssey second", "Works and Days first, Iliad second"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is the poem's opening phrase in Latin?",
+    "choices": ["Arma virumque cano", "Musa mihi causas memora", "Italiam fato profugus", "Forsan et haec olim"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which formula best captures the narrative movement from wandering to warfare?",
+    "choices": ["From exile to kingship", "From sea-journey to Italian war", "From prophecy to republic", "From Troy to Carthaginian empire"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What literary device is especially prominent in the poem's forward-looking references to Roman history?",
+    "choices": ["Ekphrasis", "Litotes", "Prolepsis", "Parabasis"],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which phrase names a vivid extended visual description like that of Aeneas's shield?",
+    "choices": ["Apostrophe", "Chiasmus", "Ekphrasis", "Anagnorisis"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What quality most distinguishes Aeneas from Achilles as an epic hero?",
+    "choices": ["Subordination of self to duty", "Physical weakness", "Comic cunning", "Lack of divine ancestry"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Olympian pair most often balance hostility and support around Aeneas's fate?",
+    "choices": ["Juno and Venus", "Mars and Diana", "Apollo and Bacchus", "Saturn and Janus"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What Roman political order is retrospectively legitimized by many of the poem's prophecies and images?",
+    "choices": ["The Julio-Claudian principate", "The Gracchan reforms", "The Punic alliance system", "The Decemvirate"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which dead young hero in the Underworld scene becomes a poignant reference to unrealized Augustan hope?",
+    "choices": ["Marcellus", "Drusus", "Germanicus", "Agrippa Postumus"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What emotion often complicates triumphant teleology in the Aeneid's treatment of Roman destiny?",
+    "choices": ["Pathos for the cost of empire", "Pure satire", "Philosophic detachment", "Ritual comedy"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which phrase from Book 1 is often quoted as a statement of endurance through suffering?",
+    "choices": ["Forsan et haec olim meminisse iuvabit", "Timeo Danaos et dona ferentes", "Sunt lacrimae rerum", "Facilis descensus Averno"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which phrase from the Carthage temple scene gestures toward the world's sorrow and human mortality?",
+    "choices": ["Audentes Fortuna iuvat", "Sunt lacrimae rerum", "Discite iustitiam moniti", "Una salus victis nullam sperare salutem"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which famous line describes the ease of descending into the Underworld?",
+    "choices": ["Ibant obscuri sola sub nocte", "Varium et mutabile semper femina", "Facilis descensus Averno", "Mens agitat molem"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which ancient emperor-scholar is traditionally associated with carrying the Aeneid as a treasured handbook?",
+    "choices": ["Marcus Aurelius", "Hadrian", "Julian", "Alexander Severus"],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In medieval reception, which Italian poet made Virgil his guide through Hell and Purgatory?",
+    "choices": ["Petrarch", "Boccaccio", "Ariosto", "Dante"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What longstanding scholarly debate concerns the Aeneid's political stance?",
+    "choices": ["Whether it simply celebrates or also questions Augustan rule", "Whether it was written originally in Greek", "Whether Dido is a historical queen in Roman law", "Whether Turnus is secretly immortal"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which phrase best describes Virgil's handling of Homeric precedent?",
+    "choices": ["Direct translation without change", "Creative imitation and transformation", "Hostile rejection of epic tradition", "Pure parody of archaic poetry"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is unusual about the Aeneid's state at Virgil's death according to ancient tradition?",
+    "choices": ["It survived only in Greek translation", "It was left unfinished in places", "Only the Carthage books were complete", "Its ending was added by Ovid"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What small textual feature is often cited as evidence of that unfinished state?",
+    "choices": ["Repeated chapter titles", "Half-lines", "Missing speaker tags", "Prose summaries"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Roman friend and editor was involved in preserving Virgil's poem after his death?",
+    "choices": ["Varius Rufus", "Gallus", "Juvenal", "Quintilian"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which woman in the Italian books most clearly represents resistance to the foreign marriage alliance on domestic grounds?",
+    "choices": ["Amata", "Lavinia", "Juturna", "Camilla"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which character functions as an eloquent but often politically self-interested critic of Turnus?",
+    "choices": ["Ilioneus", "Acestes", "Drances", "Tyrrhus"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the strongest parallel between Pallas and Lausus in the war books?",
+    "choices": ["Both are young men whose deaths humanize the conflict", "Both are prophets who reject war", "Both betray their fathers to Aeneas", "Both survive and marry into Troy's line"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which book contains the fullest set-piece on the future cityscape of Rome before Rome exists?",
+    "choices": ["Book 8", "Book 3", "Book 11", "Book 12"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  }
+]

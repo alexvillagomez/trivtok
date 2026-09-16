@@ -1,0 +1,290 @@
+[
+  {
+    "text": "What fuel was the primary power source for steam locomotives?",
+    "choices": ["Coal", "Diesel", "Electricity", "Natural gas"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Orient Express traditionally runs between Paris and which Eastern European city?",
+    "choices": ["Istanbul", "Vienna", "Prague", "Budapest"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Japan's Shinkansen is famous for operating what type of rail service?",
+    "choices": ["High-speed", "Underground metro", "Monorail", "Narrow gauge"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the London Underground most commonly known as?",
+    "choices": ["The Tube", "The Metro", "The Subway", "The District"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Flying Scotsman is a historic locomotive from which country?",
+    "choices": ["Scotland", "England", "Wales", "United States"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which type of train system uses magnetic levitation to reduce friction?",
+    "choices": ["Maglev", "Monorail", "Funicular", "Rack railway"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What gauge does India's railway network primarily use?",
+    "choices": ["Broad gauge", "Standard gauge", "Narrow gauge", "Meter gauge"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which inventor designed the Rocket, a pioneering steam locomotive?",
+    "choices": ["George Stephenson", "Richard Trevithick", "Isambard Brunel", "John Blenkinsop"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Trans-Siberian Railway runs from Moscow to which Russian city on the Pacific coast?",
+    "choices": ["Vladivostok", "Novosibirsk", "Irkutsk", "Khabarovsk"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the standard rail gauge used by most railways in North America and Europe?",
+    "choices": ["4 feet 8.5 inches", "5 feet", "4 feet", "5 feet 6 inches"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Berlin's rapid transit system is commonly referred to as which letter-based name?",
+    "choices": ["S-Bahn", "U-Bahn", "D-Bahn", "B-Bahn"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Swiss railway is famous for its steep mountain routes and scenic views?",
+    "choices": ["Rhaetian Railway", "Jungfrau Railway", "Gornergrat Railway", "Pilatus Railway"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What year did the first public railway line open between Stockton and Darlington?",
+    "choices": ["1825", "1830", "1835", "1820"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Tōkaidō Shinkansen connects which two major Japanese cities?",
+    "choices": ["Tokyo and Kyoto", "Tokyo and Osaka", "Osaka and Kobe", "Nagoya and Kobe"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which country operates the fastest regularly scheduled train service in the world?",
+    "choices": ["France", "China", "Japan", "Germany"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The London Underground's Circle Line forms what approximate shape?",
+    "choices": ["Rectangle", "Circle", "Ellipse", "Triangle"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the primary function of a railway sleeper car?",
+    "choices": ["Cargo transport", "Overnight passenger accommodation", "Locomotive maintenance", "Loading cargo"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which engineering feat did Isambard Kingdom Brunel accomplish with his railway?",
+    "choices": ["First underground metro", "First suspended railway", "Longitudinal boiler locomotive", "Atmospheric railway"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Paris Métro opened in which decade?",
+    "choices": ["1870s", "1900s", "1920s", "1950s"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the gauge used by most of Europe's railways?",
+    "choices": ["Meter gauge", "Broad gauge", "Standard gauge", "Narrow gauge"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Asian country pioneered the world's first high-speed rail network?",
+    "choices": ["South Korea", "China", "Japan", "Taiwan"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The iconic Swiss Jungfrau Railway is known for reaching which Alpine peak's summit?",
+    "choices": ["Eiger", "Jungfrau", "Matterhorn", "Mont Blanc"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What engineering challenge did the Gotthard Base Tunnel solve in Switzerland?",
+    "choices": ["River crossing", "Mountain barrier", "Coastal erosion", "Urban congestion"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The New York City Subway system began operation in which year?",
+    "choices": ["1895", "1904", "1920", "1950"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Indian express train is considered one of the world's most luxurious?",
+    "choices": ["Darjeeling Mail", "Palace on Wheels", "Rajadhani Express", "Shatabdi Express"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Ghan is a famous passenger train in which country?",
+    "choices": ["South Africa", "Canada", "Australia", "Argentina"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What innovative suspension system did Brunel's Great Western Railway employ?",
+    "choices": ["Broad gauge track", "Cable traction", "Pneumatic tube", "Atmospheric pressure"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Bernina Express connects Switzerland with which neighboring country?",
+    "choices": ["Austria", "Germany", "Italy", "France"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which country's railway network spans the greatest distance?",
+    "choices": ["United States", "Canada", "Russia", "China"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of Tokyo's above-ground rapid transit system?",
+    "choices": ["Subway", "Metro", "Yamanote Line", "JR East"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Stockholm Central Railway Station features which architectural innovation?",
+    "choices": ["Arched glass roof", "Underground platforms", "Double-deck design", "Floating platforms"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which steam locomotive holds the world record for speed?",
+    "choices": ["Mallard", "Flying Scotsman", "Rocket", "Great Northern"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Bavarian Railway Museum preserves locomotives from which country?",
+    "choices": ["Austria", "Switzerland", "Germany", "Czech Republic"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Glacier Express connects Zermatt to which Swiss resort town?",
+    "choices": ["Interlaken", "Montreux", "St. Moritz", "Grindelwald"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which corridor does the Northeast Regional Amtrak service primarily connect?",
+    "choices": ["California coast", "East Coast cities", "Midwest plains", "Southwest routes"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What revolutionary feature did the Trevithick locomotive introduce?",
+    "choices": ["Steam pressure increase", "Tubular boiler", "High-pressure operation", "Hoisting ability"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The Centennial State Zephyr was a famous streamliner of which railway company?",
+    "choices": ["Union Pacific", "Burlington Northern", "Great Northern", "Rock Island"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Italian train is known for connecting Milan with the southern regions?",
+    "choices": ["Frecciarossa", "Pendolino", "Frecciargento", "Frecciabianca"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The West Highland Line in Scotland crosses which famous engineering structure?",
+    "choices": ["Forth Bridge", "Tay Bridge", "Glenfinnan Viaduct", "Menai Bridge"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the track gauge of Ireland's railways?",
+    "choices": ["Standard gauge", "Meter gauge", "Broad gauge", "Narrow gauge"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Deccan Queen is a famous passenger train of which nation?",
+    "choices": ["Pakistan", "Sri Lanka", "India", "Bangladesh"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which company manufactured the iconic Mallard locomotive?",
+    "choices": ["North British Locomotive", "Stephenson Locomotive Works", "LNER", "Great Northern Railway"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Darjeeling Himalayan Railway operates on which distinctive gauge?",
+    "choices": ["Broad gauge", "Standard gauge", "Meter gauge", "Two-foot gauge"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does the acronym SNCF represent in French railways?",
+    "choices": ["Société National de Chemin de Fer Français", "Système National de Circulation Ferroviaire", "Service National de Chemins de Fer", "Société Nationale de Chemin de Fer"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Gotthard Railway tunnel, opened in 1882, was a breakthrough for which reason?",
+    "choices": ["First underwater tunnel", "First alpine tunnel", "Longest tunnel ever built", "Highest elevation track"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Japanese railway company operates the Shinkansen network?",
+    "choices": ["Odakyu Electric", "Tokyo Metropolitan Railway", "Central Japan Railway", "West Japan Railway"],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The Hogwarts Express route in Harry Potter was inspired by which real British railway?",
+    "choices": ["Highland Main Line", "Kyle Line", "Strathspey Railway", "West Highland Line"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the maximum speed of the Shanghai Maglev Train?",
+    "choices": ["300 km/h", "350 km/h", "430 km/h", "500 km/h"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  }
+]

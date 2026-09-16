@@ -1,0 +1,608 @@
+[
+  {
+    "text": "In imperial Rome, what type of multi-story building housed many poorer urban residents?",
+    "choices": ["Insula", "Domus", "Villa", "Castrum"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was the central roofed-but-open hall of a typical Roman domus called?",
+    "choices": ["Peristyle", "Atrium", "Basilica", "Exedra"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which room in an elite Roman house was especially associated with formal dining?",
+    "choices": ["Cubiculum", "Tablinum", "Triclinium", "Culina"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In many Roman apartment blocks, which units were usually the least desirable?",
+    "choices": ["Street-level shops", "Owner's suite", "Rear courtyards", "Top-floor rooms"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What feature often lay beyond the atrium in a wealthier Roman house?",
+    "choices": ["Peristyle garden", "Watchtower", "Public shrine", "Stable yard"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the impluvium in a Roman domus?",
+    "choices": ["A servant staircase", "A basin for catching rainwater", "A dining couch", "A street drain"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What was a lararium inside a Roman home?",
+    "choices": ["Bread oven", "Sleeping alcove", "Shrine to household gods", "Rental notice board"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What urban danger was especially associated with crowded Roman insulae?",
+    "choices": ["Avalanches", "Pirate attack", "Locust swarms", "Fire"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was a taberna in the streetscape of Rome?",
+    "choices": ["A shop or workshop", "A bath furnace", "A senator's office", "A water tower"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which room name in a Roman house refers most directly to a bedroom?",
+    "choices": ["Atrium", "Cubiculum", "Ala", "Vestibulum"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the tablinum in a traditional Roman domus?",
+    "choices": ["Kitchen workspace", "Household shrine niche", "Reception or record-keeping room", "Roof terrace"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was most likely located directly on the ground floor of a mixed-use insula?",
+    "choices": ["Formal garden court", "Open-air theater", "Private bath suite", "Street-facing shops"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does the word domus usually mean in the context of Roman housing?",
+    "choices": ["A single-family urban house", "A grain warehouse", "A military fort", "A public bath"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was the compluvium of an atrium house?",
+    "choices": ["A painted dining wall", "The roof opening above the atrium", "The front threshold", "The rear colonnade"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Roman official is especially associated with measures against fires in the capital under the Empire?",
+    "choices": ["Aedile", "Praetor", "Prefect of the vigiles", "Quaestor"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What service problem often affected upper stories of Roman apartment blocks?",
+    "choices": ["Too much garden irrigation", "Senate surveillance", "Road toll collection", "Harder access to water"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was the vestibulum of a Roman house?",
+    "choices": ["Entrance area", "Main kitchen hearth", "Private bath room", "Slave dormitory"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which water structure brought fresh water into the city of Rome from a distance?",
+    "choices": ["Cloaca", "Aqueduct", "Cistern barge", "Moat"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was the Cloaca Maxima fundamentally part of?",
+    "choices": ["A housing tax archive", "An apartment registry", "The drainage and sewer system", "The grain dole office"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In a Roman street scene, what was a fountain basin commonly used for by ordinary residents?",
+    "choices": ["Public voting", "Stabling donkeys", "Posting marriage contracts", "Fetching water"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What kind of people most typically occupied an elite domus in the city?",
+    "choices": ["Wealthier households of status", "Only soldiers on leave", "Mostly itinerant traders", "Temporary festival crowds"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was the Latin term vicus used for in urban Rome?",
+    "choices": ["A country estate", "A neighborhood or street district", "A sewage tunnel", "An aqueduct tower"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which household space in a Roman domus was often open-air and ringed with columns?",
+    "choices": ["Cubiculum", "Culina", "Peristyle", "Vestibulum"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why were top-floor rentals in insulae often cheaper?",
+    "choices": ["They had private baths", "They were reserved for citizens only", "They included garden plots", "They were less convenient and less safe"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What was a culina in a Roman house?",
+    "choices": ["Kitchen", "Shrine", "Office", "Portico"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What building material contributed to fire risk in many ordinary Roman dwellings?",
+    "choices": ["Marble revetment", "Timber framing and floors", "Lead piping", "Basalt paving"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What did wealthy Romans often use the atrium for socially?",
+    "choices": ["Industrial cloth washing", "Renting out market stalls", "Receiving visitors and clients", "Training chariot teams"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was a common nuisance of living along a busy Roman street?",
+    "choices": ["Snowplows at dawn", "Streetcars", "Factory sirens", "Noise from traffic and commerce"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What best describes an insula as a property investment?",
+    "choices": ["A revenue-producing apartment block", "A temple treasury vault", "A suburban hunting lodge", "A warehouse for legionary gear"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What was an ala in the plan of a traditional Roman house?",
+    "choices": ["A rooftop cistern", "A side recess off the atrium", "A bakery stall", "A street shrine"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which public amenity reduced the need for private bath facilities in modest Roman housing?",
+    "choices": ["Forums", "Circuses", "Bath complexes", "Triumphal arches"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was least likely to be found in a cramped upper-floor Roman rental?",
+    "choices": ["Shared walls", "Smoke from cooking", "Steep stairs", "Large formal reception suite"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What did the Roman state sometimes try to regulate because of collapse and fire concerns?",
+    "choices": ["Height of apartment buildings", "Number of temples per district", "Color of house paint", "Width of dining couches"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was the vigiles corps in imperial Rome primarily responsible for?",
+    "choices": ["Tax farming", "Firefighting and night watch", "Aqueduct surveying", "Temple music"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which urban service depended heavily on slaves, porters, or household labor rather than indoor plumbing in every apartment?",
+    "choices": ["Minting coins", "Staging plays", "Carrying water upstairs", "Publishing edicts"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was a likely reason elite Romans preferred a domus over apartment living?",
+    "choices": ["Only domus were legal", "Insulae lacked roofs", "Apartments were outside the city walls", "A domus better displayed status and patronage"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What kind of shrine was often found at neighborhood crossroads in Rome?",
+    "choices": ["Compital shrine", "Capitoline shrine", "Triumphal shrine", "Naval shrine"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which class of resident was most likely to rent rather than own a grand urban house?",
+    "choices": ["Urban poor", "Consular aristocracy", "Imperial household officers only", "Major temple colleges"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was the ostium of a Roman house?",
+    "choices": ["Rear garden wall", "Main entrance doorway", "Upper gallery", "Kitchen drain"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was stored in a dolium, sometimes associated with commercial urban premises?",
+    "choices": ["Legal tablets", "Roof beams", "Large quantities of liquid or grain", "Marble busts"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What made nighttime movement through Rome difficult for residents?",
+    "choices": ["Strict curfews on all citizens", "Flooded canals on every street", "Permanent market stalls on highways", "Poor lighting and crowded streets"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which feature helped collect and direct rainwater in the atrium-house system?",
+    "choices": ["Compluvium and impluvium", "Porta and forum", "Spina and carceres", "Natatio and palaestra"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What was a medianum in some later Roman domestic layouts?",
+    "choices": ["A bath furnace", "A central hall replacing the atrium type", "A public sewer branch", "A standardized rent contract"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What sort of economic activity often shared the same structure as living space in Rome?",
+    "choices": ["Shipbuilding in basements", "Mining in courtyards", "Retail or workshop trade", "Senate hearings upstairs"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was a serious structural concern in badly built insulae besides fire?",
+    "choices": ["Insect plagues from vineyards", "Salt corrosion from sea spray", "Avalanche damage", "Collapse"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was the urban function of a porticus for daily life?",
+    "choices": ["Covered walkway and shelter", "Private prison wing", "Apartment rooftop", "Elite dining room"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was a cistern most directly used for in Roman housing?",
+    "choices": ["Voting registration", "Water storage", "Wine taxation", "Burial of urns"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What part of the Roman street environment was designed to keep wheeled traffic and pedestrians moving through mud or runoff?",
+    "choices": ["Domestic altars", "Dining couches", "Stepping stones and paving", "Garden colonnades"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was least typical of ordinary apartment life in imperial Rome?",
+    "choices": ["Rent payments", "Shared walls", "Nearby shops", "Full private pipe-fed bath suites"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does the term hortus most directly suggest in a domestic Roman context?",
+    "choices": ["Garden", "Stairwell", "Lease", "Cistern"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which feature often made upper-floor Roman apartments hotter in summer?",
+    "choices": ["Underground heating ducts", "Exposure under the roof", "Constant fountain spray", "Thick marble vaulting"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What social ritual might bring clients to the front area of a patron's domus in the morning?",
+    "choices": ["Lustration", "Census oath", "Salutatio", "Triumph rehearsal"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What best describes the street frontage of many Roman houses and apartment blocks?",
+    "choices": ["Always fully blank and windowless", "Dominated by moats", "Reserved only for temples", "Often integrated with commercial units"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was a fountain called a lacus mainly valuable for to nearby residents?",
+    "choices": ["Water access", "Tax appeals", "Night lodging", "Chariot parking"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Latin term referred to the rental income or lease arrangement of urban property in legal contexts?",
+    "choices": ["Imperium", "Locatio", "Auspicium", "Munus"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What kind of smell might commonly drift through dense Roman neighborhoods?",
+    "choices": ["Coal plants", "Petrol fumes", "Smoke, refuse, and cooking odors", "Chemical bleach from paper mills"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why did many urban Romans rely on public fountains instead of home taps?",
+    "choices": ["Running water was forbidden in houses", "Aqueducts reached only villas", "Romans disliked private water", "Many homes lacked direct private supply"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was an exedra in a large Roman domestic setting?",
+    "choices": ["A sitting or conversation space", "A garbage pit", "A tenant lockbox", "A grain elevator"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which official concern most directly linked aqueduct management and urban housing quality?",
+    "choices": ["Military conscription", "Reliable water distribution", "Temple choreography", "Coin purity"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What kind of business might occupy a taberna beneath apartments in Rome?",
+    "choices": ["Only law courts", "Only senate archives", "Food service or retail trade", "Only minting workshops"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was one reason elite homes used interior courts and gardens?",
+    "choices": ["To host naval drills", "To stable racehorses", "To store siege engines", "To bring light and air into dense blocks"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What was a fornax in relation to urban domestic infrastructure?",
+    "choices": ["Oven or furnace", "Lease archive", "Street shrine", "Water pipe"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Roman neighborhood term could refer to a local district community under official organization?",
+    "choices": ["Atrium", "Vicus", "Triclinium", "Impluvium"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What feature most separated a luxurious domus from a basic insula room?",
+    "choices": ["Any roof at all", "Any front door", "Dedicated reception and display spaces", "Any connection to the street"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What everyday burden often fell on residents without direct street-level access in Roman housing?",
+    "choices": ["Canal tolls", "Watch duty on walls", "Seasonal harvest labor", "Climbing multiple flights of stairs"],
+    "correctIndex": 3,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was opus signinum commonly used for in domestic Roman construction?",
+    "choices": ["Water-resistant flooring or lining", "Window glass production", "Bronze lock casting", "Roof tile painting"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which social distinction was visibly reinforced by Roman housing patterns?",
+    "choices": ["Only military rank", "Class difference between elite and poor", "Only age cohort", "Only provincial origin"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What kind of domestic decoration would most strongly signal status in a Roman townhouse?",
+    "choices": ["Plastic shutters", "Cast-iron radiator grilles", "Wall paintings and mosaic floors", "Paper wallpaper borders"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was a likely result when a Roman street became congested with carts and crowds?",
+    "choices": ["Automatic police rerouting", "Subway diversion", "Canal bypass use", "Delay, noise, and danger for pedestrians"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was the basic function of lead or terracotta pipes in Roman urban infrastructure?",
+    "choices": ["Move water", "Transmit messages", "Measure grain", "Support roofs"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which room of the domus most directly advertised ancestral respect and household continuity?",
+    "choices": ["Culina", "Atrium with family display", "Stable", "Roof loft"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What sort of tenant would most likely endure the worst combination of stairs, heat, and limited water?",
+    "choices": ["A senator in a garden wing", "A bath attendant in the caldarium", "A poor renter on the upper floor", "A priest in a temple archive"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why were braziers and lamps risky inside cramped Roman housing?",
+    "choices": ["They attracted tax inspectors", "They dissolved plaster", "They weakened aqueducts", "They could start indoor fires"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was a balcony or projecting upper facade called in Roman architectural vocabulary?",
+    "choices": ["Maenianum", "Carcer", "Sacellum", "Natatio"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which feature would a resident of a modest Roman rental most likely share with neighbors?",
+    "choices": ["Private garden staff", "Latrine or water access", "Ancestral portrait hall", "Reception court for clients"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What kind of urban establishment lessened the need for every household to bake all its own bread?",
+    "choices": ["Theater colonnades", "Triumphal gates", "Commercial bakeries", "Senate annexes"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was a major downside of living immediately above street-level tabernae?",
+    "choices": ["No roof drainage", "Compulsory military billeting", "Lack of walls", "Noise and cooking smoke from below"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What was the purpose of stepping stones on some Roman streets?",
+    "choices": ["Help pedestrians cross above muck and runoff", "Mark senatorial homes only", "Support temporary market roofs", "Measure parade widths"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which term refers to the household gods often honored in Roman domestic religion?",
+    "choices": ["Penates", "Lictors", "Fetiales", "Curules"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What sort of evidence would most strongly suggest a house owner cared about visual prestige?",
+    "choices": ["A hidden cistern only", "A single storage jar", "Rich fresco programs and mosaic work", "An undecorated stair landing"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was a practical reason some Romans ate from street vendors or hot-food shops?",
+    "choices": ["Private kitchens were illegal", "Bread was rationed by age", "No one cooked at home", "Small rentals often had limited cooking facilities"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the relation between many vici and local religious life?",
+    "choices": ["They had neighborhood cult activity", "They replaced all temples", "They banned shrines", "They served only military housing"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which water source would many ordinary Romans interact with daily outside the home?",
+    "choices": ["Harbor lighthouse cisterns", "Street fountains", "Imperial bath reservoir roofs", "Senatorial fishponds"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What type of interior space in a domus was especially useful for organizing movement and display?",
+    "choices": ["A siege platform", "A grain press hall", "The axial sequence from entrance to atrium", "A rooftop pigeon loft"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What urban problem could overflowing drains or neglected sewers worsen?",
+    "choices": ["Vineyard blight", "Harbor silting only", "Senate absenteeism", "Filth and unhealthy street conditions"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was a fauces in Roman domestic architecture?",
+    "choices": ["The entrance passage", "The bath furnace", "The upper balcony", "The rear garden pool"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which feature made a Roman domus especially suited to patronage politics?",
+    "choices": ["An attached lighthouse", "Controlled reception spaces for visitors", "A rooftop catapult deck", "Built-in grain mills for the neighborhood"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What kind of arrangement best captures the social layering inside a big Roman household?",
+    "choices": ["Only kin lived there", "Only renters lived there", "Family, slaves, clients, and workers could all circulate through it", "It was always empty by day"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was a common reason residents feared neighboring buildings in dense Rome?",
+    "choices": ["They blocked all tax collection", "They created earthquakes", "They summoned troops", "They could spread fire or collapse into one another"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was the practical benefit of a courtyard plan in a noisy Roman city?",
+    "choices": ["It admitted light and some privacy", "It enabled horse racing", "It stored aqueduct arches", "It replaced all exterior walls"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which term refers to a Roman apartment tenant's payment to occupy urban property in lease form?",
+    "choices": ["Tributum", "Merces", "Auspicia", "Lustrum"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What sort of feature might distinguish a particularly luxurious urban house from a merely comfortable one?",
+    "choices": ["Any doorway", "Any sleeping room", "Private bath installations and elaborate decor", "Any access to water jars"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What best explains why Roman neighborhoods could feel intensely local?",
+    "choices": ["They were isolated by canals", "Each had its own language", "Residents could not leave them", "Daily needs, shrines, and shops clustered nearby"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was one likely visual contrast between a domus and an insula interior?",
+    "choices": ["Formal decoration versus bare practicality", "Timber only versus stone only", "Light only versus darkness only", "Roofed only versus open only"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which element of Roman infrastructure most directly supported bathhouses, fountains, and some private houses alike?",
+    "choices": ["Forum paving", "Aqueduct supply", "Circus awnings", "Harbor chains"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was the likely social meaning of living in a spacious domus on a prestigious street?",
+    "choices": ["Exemption from citizenship law", "Guaranteed office holding", "High status and visibility", "Mandatory priesthood"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Why might smoke be a recurring issue in Roman homes and rentals?",
+    "choices": ["Steam heating was universal", "Coal engines ran indoors", "Street lamps were electric", "Cooking and heating often used open flames"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was a sacellum in or near a domestic context?",
+    "choices": ["A small shrine or sacred space", "A rent collector's office", "A servant stair type", "A balcony support beam"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which feature of Roman apartment life would most remind us that convenience varied by floor?",
+    "choices": ["Every unit had equal water pressure", "Upper tenants faced longer climbs", "Roof gardens were mandatory above the third floor", "All cooking happened at street level only"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What kind of space could serve both commercial and social functions at the threshold of urban life in Rome?",
+    "choices": ["Only aqueduct arches", "Only tomb precincts", "Street-front tabernae", "Only barracks courtyards"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What best describes the daily urban experience of many non-elite Romans?",
+    "choices": ["Quiet detached homes with orchards", "Private carriage commuting on broad avenues", "Predictable central heating and plumbing", "Crowded, noisy, vertical living close to work and markets"],
+    "correctIndex": 3,
+    "difficulty": 0.14
+  }
+]

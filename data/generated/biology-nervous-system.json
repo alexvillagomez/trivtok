@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the basic unit of the nervous system that transmits electrical signals?",
+    "choices": ["Synapse", "Neuron", "Dendrite", "Axon"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "How many main lobes does the cerebrum have?",
+    "choices": ["Three", "Four", "Five", "Six"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The outer layer of the brain responsible for thinking and decision-making is called the:",
+    "choices": ["Thalamus", "Cerebral cortex", "Cerebellum", "Brainstem"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which neurotransmitter is primarily involved in regulating mood and is targeted by antidepressants?",
+    "choices": ["Dopamine", "Acetylcholine", "Serotonin", "Glutamate"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the primary function of the spinal cord?",
+    "choices": ["Produce cerebrospinal fluid", "Connect the brain to peripheral nerves", "Synthesize neurotransmitters", "Filter blood toxins"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The olfactory system processes which type of sensory information?",
+    "choices": ["Touch", "Taste", "Smell", "Sound"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the name of the gap between two adjacent neurons?",
+    "choices": ["Axon terminal", "Synapse", "Node of Ranvier", "Dendrite spine"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which endocrine gland in the brain produces melatonin to regulate sleep cycles?",
+    "choices": ["Hypothalamus", "Pituitary gland", "Pineal gland", "Adrenal gland"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A withdrawal reflex does not involve processing in the brain. What nerve carries the immediate response?",
+    "choices": ["Cranial nerve", "Spinal nerve", "Optic nerve", "Vagus nerve"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which cranial nerve is responsible for carrying visual information from the retina to the brain?",
+    "choices": ["Optic nerve", "Trigeminal nerve", "Oculomotor nerve", "Olfactory nerve"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What type of neuron directly stimulates skeletal muscles to contract?",
+    "choices": ["Motor neuron", "Sensory neuron", "Interneuron", "Glial cell"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which brain structure is critical for maintaining balance and coordinating movement?",
+    "choices": ["Cerebellum", "Occipital lobe", "Thalamus", "Hypothalamus"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The fatty sheath that insulates axons and speeds up electrical signal conduction is called:",
+    "choices": ["Synaptic vesicle", "Myelin sheath", "Postsynaptic membrane", "Neurotransmitter"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which neurotransmitter is associated with reward, motivation, and movement control?",
+    "choices": ["Serotonin", "GABA", "Dopamine", "Acetylcholine"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the specialized connection between a neuron and muscle fiber called?",
+    "choices": ["Synaptic cleft", "Neuromuscular junction", "Motor endplate", "Axon hillock"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The primary motor cortex, which controls voluntary muscle movement, is located in which lobe?",
+    "choices": ["Temporal", "Parietal", "Frontal", "Occipital"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the primary function of the thalamus in sensory processing?",
+    "choices": ["Filter out irrelevant information", "Relay sensory signals to the cortex", "Produce neurotransmitters", "Store memories"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "At the neuromuscular junction, which neurotransmitter binds to receptors on muscle cells to trigger contraction?",
+    "choices": ["Dopamine", "Acetylcholine", "Serotonin", "Norepinephrine"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A bundle of parallel axons with a common origin and destination forms a:",
+    "choices": ["Ganglion", "Plexus", "Nerve", "Tract"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which region of the brain controls vital functions like heart rate and respiration?",
+    "choices": ["Cerebral cortex", "Brainstem", "Cerebellum", "Limbic system"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which nerve, originating from the sacral plexus, is the longest in the human body?",
+    "choices": ["Femoral", "Tibial", "Sciatic", "Radial"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The autonomic nervous system regulates functions that are typically:",
+    "choices": ["Consciously controlled", "Voluntary", "Involuntary and automatic", "Learned through practice"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which neurotransmitter is the primary inhibitory transmitter in the central nervous system?",
+    "choices": ["Glutamate", "GABA", "Acetylcholine", "Dopamine"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In a spinal reflex arc, a sensory receptor sends a signal to an interneuron, which then activates a:",
+    "choices": ["Dendrite", "Glial cell", "Motor neuron", "Astrocyte"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which lobe of the cerebral cortex processes somatosensory information like touch and temperature?",
+    "choices": ["Frontal", "Parietal", "Temporal", "Occipital"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Glial cells outnumber neurons and primarily serve to:",
+    "choices": ["Generate action potentials", "Provide structural and metabolic support", "Release neurotransmitters", "Store calcium"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "During an action potential, electrical signals travel along the:",
+    "choices": ["Dendrite", "Soma", "Axon membrane", "Synaptic cleft"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which structure in the brainstem regulates sleep-wake cycles and processes arousal?",
+    "choices": ["Medulla oblongata", "Pons", "Midbrain", "Tectum"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The resting membrane potential of a typical neuron is approximately:",
+    "choices": ["-20 mV", "-70 mV", "+50 mV", "-100 mV"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A neuron at rest maintains its polarization primarily due to the distribution of which ions?",
+    "choices": ["Chloride and potassium", "Sodium and potassium", "Calcium and magnesium", "Chloride and calcium"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Long-term potentiation involves the strengthening of synaptic transmission and is a cellular basis for:",
+    "choices": ["Sleep", "Memory consolidation", "Motor control", "Sensory adaptation"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The amygdala plays a critical role in processing which type of emotional response?",
+    "choices": ["Happiness and joy", "Fear and threat detection", "Contentment", "Excitement"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Purkinje cells in the cerebellum are unique neurons that receive input from thousands of parallel fibers and coordinate:",
+    "choices": ["Hormone secretion", "Heart rhythm", "Motor control", "Auditory processing"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which midbrain structure produces dopamine and is implicated in Parkinson's disease when damaged?",
+    "choices": ["Ventral tegmental area", "Substantia nigra", "Red nucleus", "Subthalamic nucleus"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The blood-brain barrier maintains selective permeability, meaning it allows passage of:",
+    "choices": ["All molecules equally", "Only lipid-soluble molecules and certain ions", "Only proteins", "Only glucose and oxygen"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In the peripheral nervous system, axon myelination is performed by:",
+    "choices": ["Astrocytes", "Oligodendrocytes", "Schwann cells", "Microglia"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Apraxia is a neurological condition characterized by the loss of ability to:",
+    "choices": ["Feel sensations", "Execute learned purposeful movements", "Speak language", "See objects"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which neurotransmitter is the primary excitatory transmitter in the mammalian central nervous system?",
+    "choices": ["Acetylcholine", "Glutamate", "Serotonin", "Dopamine"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The trigeminal nerve (CN V) carries motor fibers for chewing and sensory fibers from:",
+    "choices": ["The scalp and face", "The eye", "The ear", "The tongue only"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The corpus callosum is the largest white matter structure and connects:",
+    "choices": ["The two cerebral hemispheres", "The brain and spinal cord", "The cerebral cortex and thalamus", "The left and right cerebellum"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "When GABA binds to postsynaptic receptors, it typically causes:",
+    "choices": ["Depolarization", "Hyperpolarization and inhibition", "Axon regeneration", "Neurotransmitter release"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Long-term potentiation requires activation of which two types of glutamate receptors?",
+    "choices": ["Kainate and AMPA", "NMDA and AMPA", "Metabotropic and NMDA", "Kainate and GABA"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The process of memory consolidation involves transfer of information from the hippocampus to the:",
+    "choices": ["Amygdala", "Cerebral cortex", "Thalamus", "Brainstem"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Neuropathic pain results from damage to sensory neurons and is characterized by:",
+    "choices": ["Inflammation only", "Burning, tingling, or shooting pain", "Loss of all sensation", "Temporary numbness"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The subthalamic nucleus is involved in motor control and is hyperactive in patients with:",
+    "choices": ["Alzheimer's disease", "Parkinson's disease", "Depression", "Schizophrenia"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  }
+]

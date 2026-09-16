@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which pre-Columbian civilization used hieroglyphic writing as their primary writing system?",
+    "choices": ["Aztec", "Maya", "Inca", "Olmec"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In what present-day country was the Aztec capital of Tenochtitlan located?",
+    "choices": ["Guatemala", "Mexico", "Peru", "Ecuador"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The Inca road system, known as the Qhapaq Ñan, stretched approximately how many kilometers?",
+    "choices": ["10,000 km", "25,000 km", "40,000 km", "60,000 km"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Aztec emperor was captured by Hernán Cortés during the Spanish conquest in 1519?",
+    "choices": ["Montezuma II", "Ahuitzotl", "Moctezuma I", "Itzcoatl"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The Inca administrative system was organized decimally, with the basic census unit being how many households?",
+    "choices": ["10 households", "50 households", "100 households", "500 households"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Maya city-state, located in present-day Guatemala, was one of the largest urban centers during the Classic Period?",
+    "choices": ["Copán", "Tikal", "Palenque", "Calakmul"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "According to Aztec cosmology, the practice of human sacrifice was believed to be necessary to keep what in motion?",
+    "choices": ["The Moon", "The Stars", "The Sun", "The Planets"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the name of the massive Aztec marketplace in Tenochtitlan that impressed Spanish conquistadors with its scale and organization?",
+    "choices": ["Tlatelolco", "Chapultepec", "Texcoco", "Cholula"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The Inca kept administrative and possibly narrative records using a system of knotted cords called a what?",
+    "choices": ["Tambo", "Quipu", "Tocapu", "Apu"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which civilization built Cahokia, a massive urban center in present-day Illinois that at its peak housed approximately 10,000 people?",
+    "choices": ["Ancestral Puebloans", "Hohokam culture", "Mississippian culture", "Fremont culture"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The word 'algebra' comes from the Arabic 'al-jabr.' Which 9th-century mathematician used this term in a foundational mathematical work?",
+    "choices": ["Al-Razi", "Al-Khwarizmi", "Al-Ghazali", "Ibn Sina"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Islamic scholar made major advances in optics and developed principles of the camera obscura?",
+    "choices": ["Al-Biruni", "Ibn al-Haytham", "Al-Zarqali", "Al-Kindi"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The House of Wisdom, a major center of translation and scholarly work during the Islamic Golden Age, was located in which city?",
+    "choices": ["Damascus", "Baghdad", "Cairo", "Córdoba"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which mathematical innovation, developed and perfected by Islamic scholars, became foundational to all modern mathematics?",
+    "choices": ["Logarithms", "The decimal system and zero", "Calculus", "Spherical geometry"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Ibn Sina's medical encyclopedia, the Canon of Medicine, remained the standard medical text in European universities until approximately which century?",
+    "choices": ["13th century", "14th century", "16th century", "18th century"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Islamic mathematician and astronomer developed spherical trigonometry and created remarkably accurate astronomical tables?",
+    "choices": ["Al-Battani", "Al-Khwarizmi", "Al-Biruni", "Al-Zarqali"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The preservation of Greek philosophical texts during the Islamic Golden Age was crucial for maintaining knowledge until it could be transmitted where?",
+    "choices": ["To the Islamic world", "To India and China", "To Medieval Europe", "To the Byzantine Empire"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Al-Ghazali was a prominent Islamic philosopher and scholar best known for his contributions to which field?",
+    "choices": ["Astronomy and mathematics", "Medicine and anatomy", "Theology and philosophy", "Architecture and engineering"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The development of Arabic numerals revolutionized which area of human endeavor, making complex calculations far more feasible?",
+    "choices": ["Poetry and literature", "Architecture and construction", "Mathematics and commerce", "Philosophy and theology"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Al-Biruni's determination of Earth's circumference in the 11th century was remarkably close to the modern value. How far off was he?",
+    "choices": ["Within 0.5%", "Within 5%", "Within 10%", "Within 20%"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who painted the ceiling of the Sistine Chapel in Vatican City?",
+    "choices": ["Leonardo da Vinci", "Michelangelo", "Raphael", "Botticelli"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The term 'Renaissance' refers to a cultural movement that sought to revive and study the works of which civilization?",
+    "choices": ["Islamic civilization", "Classical Greek and Roman civilization", "Mesopotamian civilization", "Egyptian civilization"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Enlightenment philosopher developed the theory of the separation of powers in government?",
+    "choices": ["Jean-Jacques Rousseau", "Voltaire", "Montesquieu", "Denis Diderot"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Leonardo da Vinci painted 'The Last Supper' in which Italian city?",
+    "choices": ["Rome", "Florence", "Venice", "Milan"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The Enlightenment period is often called the Age of what?",
+    "choices": ["Faith", "Reason", "Nobility", "Commerce"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Renaissance humanist wrote 'The Prince,' a seminal political treatise on the nature of power?",
+    "choices": ["Dante Alighieri", "Niccolò Machiavelli", "Petrarch", "Gianozzo Manetti"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Johannes Gutenberg's printing press revolution was made possible by which key technological innovation?",
+    "choices": ["Water-powered machinery", "Movable metal type", "Steam-powered presses", "Assembly line production"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "René Descartes' famous philosophical declaration 'Cogito, ergo' is completed with which Latin word meaning 'I am'?",
+    "choices": ["malo", "sum", "puto", "dubito"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which major French Enlightenment work, published in volumes during the 18th century, compiled knowledge across multiple academic disciplines?",
+    "choices": ["The Republic", "The Encyclopedia", "The Critique of Pure Reason", "The Social Contract"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "During the Renaissance, which Italian city-state became the primary center of artistic patronage and cultural development?",
+    "choices": ["Venice", "Rome", "Milan", "Florence"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In which year did the Berlin Wall fall, symbolizing the beginning of the end of the Cold War?",
+    "choices": ["1987", "1988", "1989", "1990"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The Russian Revolution, which overthrew the Romanov dynasty, primarily occurred in which year?",
+    "choices": ["1905", "1917", "1924", "1934"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In which year did World War II end with Germany's unconditional surrender?",
+    "choices": ["1943", "1944", "1945", "1946"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which Soviet leader's policies of 'glasnost' (openness) and 'perestroika' (restructuring) led to the end of the Cold War?",
+    "choices": ["Leonid Brezhnev", "Yuri Andropov", "Mikhail Gorbachev", "Boris Yeltsin"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Ottoman Empire, which had ruled for over 600 years, was officially dissolved in which year?",
+    "choices": ["1918", "1922", "1926", "1930"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The League of Nations, the first international organization designed to prevent war, was established following which global conflict?",
+    "choices": ["The Napoleonic Wars", "World War I", "World War II", "The Korean War"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which British Prime Minister led the United Kingdom during most of World War II?",
+    "choices": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Stanley Baldwin"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Cuban Missile Crisis, which brought the world to the brink of nuclear war, occurred in which year?",
+    "choices": ["1960", "1961", "1962", "1963"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which treaty formally ended World War I and imposed severe reparations on Germany?",
+    "choices": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Trianon", "Treaty of Brest-Litovsk"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the longest river in the world by length?",
+    "choices": ["Amazon River", "Nile River", "Yangtze River", "Mississippi-Missouri River"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which mountain range in Asia contains Mount Everest, the world's highest peak?",
+    "choices": ["Andes Mountains", "Himalayas", "Rocky Mountains", "Alps"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The Sahara Desert, the largest hot desert in the world, is primarily located on which continent?",
+    "choices": ["Asia", "South America", "Africa", "Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the name of the deepest point in the world's oceans, located in the western Pacific?",
+    "choices": ["Tonga Trench", "Mariana Trench", "Kuril-Kamchatka Trench", "Philippine Trench"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Amazon River discharges approximately what percentage of the world's total river water into the oceans?",
+    "choices": ["5%", "10%", "20%", "35%"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Great Barrier Reef, the world's largest coral reef system, is located off the coast of which country?",
+    "choices": ["Indonesia", "New Zealand", "Australia", "Fiji"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which river is the second-longest in the world by total length?",
+    "choices": ["Amazon River", "Yangtze River", "Mississippi River", "Yenisei River"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The Atacama Desert in South America is considered one of the driest places on Earth. In which country is it primarily located?",
+    "choices": ["Peru", "Bolivia", "Argentina", "Chile"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which mountain range forms a natural geographical boundary between Europe and Asia?",
+    "choices": ["Caucasus Mountains", "Ural Mountains", "Carpathian Mountains", "Pyrenees"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The Kalahari Desert spans multiple Southern African nations. Which country contains the largest portion of this desert?",
+    "choices": ["Namibia", "South Africa", "Angola", "Botswana"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which ocean is the largest by both area and volume?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  }
+]

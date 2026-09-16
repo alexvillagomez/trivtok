@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What international project sequenced the entire human genome for the first time?",
+    "choices": ["International Genome Initiative", "Human Genome Project", "National DNA Consortium", "Global Sequencing Alliance"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which molecular technique amplifies specific DNA sequences through repeated cycles of heating and cooling?",
+    "choices": ["Southern blotting", "DNA sequencing", "Polymerase chain reaction", "Gel electrophoresis"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the primary function of CRISPR-Cas9 in genetic engineering?",
+    "choices": ["Sequencing DNA", "Cutting and editing genes at precise locations", "Creating proteins", "Copying RNA"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which sheep became famous as the first mammal cloned from an adult cell?",
+    "choices": ["Molly", "Dolly", "Polly", "Bess"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What term describes organisms containing foreign DNA from another species?",
+    "choices": ["Transgenic", "Polyploid", "Diploid", "Mutant"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "How many base pairs are in the human genome (approximately)?",
+    "choices": ["1 billion", "2 billion", "3 billion", "6 billion"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does 'GMO' stand for?",
+    "choices": ["Genetic Modification Operation", "Genetically Modified Organism", "Gene Molecular Organization", "Genetic Molecular Option"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which enzyme is used in CRISPR-Cas9 to cut DNA at target sites?",
+    "choices": ["Ligase", "Helicase", "Endonuclease", "Telomerase"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the process that creates a genetically identical individual from a single parent cell?",
+    "choices": ["Meiosis", "Fertilization", "Cloning", "Mutagenesis"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which bacterium naturally produces the CRISPR-Cas9 system?",
+    "choices": ["E. coli", "Streptococcus pyogenes", "Bacillus subtilis", "Salmonella typhimurium"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What technique uses DNA probes to find specific sequences in a genome?",
+    "choices": ["Karyotyping", "Fluorescence in situ hybridization", "Mass spectrometry", "Centrifugation"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In gene therapy, what is usually replaced or corrected?",
+    "choices": ["Proteins", "Genes causing disease", "Lipids", "Carbohydrates"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What term describes variations in a single nucleotide at the same position in different individuals?",
+    "choices": ["Mutation", "Single nucleotide polymorphism", "Gene duplication", "Chromosomal inversion"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which year was the Human Genome Project completed?",
+    "choices": ["1998", "2000", "2003", "2007"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the primary use of Bt crops in agriculture?",
+    "choices": ["Increase water retention", "Resist pests naturally", "Improve taste", "Grow in arctic climates"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which scientists were awarded the Nobel Prize in Chemistry for developing CRISPR-Cas9?",
+    "choices": ["Jennifer Doudna and Emmanuelle Charpentier", "Craig Venter and Mark Venter", "Sydney Brenner and Francis Collins", "Richard Dawkins and Edward Wilson"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is a 'guide RNA' in CRISPR technology?",
+    "choices": ["A strand of DNA that codes for enzymes", "An RNA molecule that directs Cas9 to target DNA sequences", "A protein that protects DNA", "A bacterial immune response"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What term describes the complete set of genetic information in an organism?",
+    "choices": ["Proteome", "Genome", "Phenotype", "Biome"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which technique allows scientists to visualize chromosomes and detect chromosomal abnormalities?",
+    "choices": ["DNA fingerprinting", "Karyotyping", "PCR", "Sequencing"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does 'off-target effects' refer to in CRISPR editing?",
+    "choices": ["Failure to edit the intended target", "Unintended cuts at similar DNA sequences", "Inability to find target genes", "Degradation of the editing machinery"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which company produced Insulin as one of the first commercially successful genetically modified products?",
+    "choices": ["Monsanto", "Genentech", "DuPont", "Syngenta"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of the technique that reads the sequence of DNA bases?",
+    "choices": ["Mapping", "Alignment", "DNA sequencing", "Annotation"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Gene therapy that modifies cells in the body and is not passed to offspring is called:",
+    "choices": ["Germline therapy", "Somatic gene therapy", "Constitutional therapy", "Hereditary modification"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the function of DNA ligase in molecular cloning?",
+    "choices": ["Cut DNA at specific sites", "Seal breaks in DNA strands", "Separate DNA strands", "Copy DNA sequences"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What type of organisms are used as 'biological factories' to produce recombinant proteins?",
+    "choices": ["Fungi and plants only", "Bacteria, yeast, and mammalian cells", "Only eukaryotes", "Only prokaryotes"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which element did researchers add to plants to make them resistant to herbicides?",
+    "choices": ["Zinc finger protein", "Bacterial resistance genes", "Modified calcium channels", "Synthetic nitrogen fixers"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is 'RNA interference' and its primary application in therapeutics?",
+    "choices": ["Using RNA to boost immune response", "Silencing specific genes by breaking down their mRNA", "Repairing damaged neurons", "Stimulating protein production"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How are DNA fragments separated by size in gel electrophoresis?",
+    "choices": ["By heating to different temperatures", "By applying electric current through gel matrix", "By centrifugal force", "By exposure to UV light"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is somatic cell nuclear transfer?",
+    "choices": ["Implanting a nucleus from one somatic cell into an enucleated egg", "Dividing cells for tissue repair", "Creating hybrid organisms", "Removing mitochondria from cells"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which model organism was the first to have its entire genome sequenced?",
+    "choices": ["Yeast", "C. elegans", "Drosophila", "E. coli"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is 'GWAS' in genomics research?",
+    "choices": ["Gene Weighted Analysis System", "Genome-wide association study", "Genetic Western Array System", "Global Wellness Assessment Suite"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which biotechnology technique uses fluorescently labeled DNA probes to locate genes?",
+    "choices": ["Microarray analysis", "DNA sequencing", "Fluorescence in situ hybridization", "Mass spectrometry"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What are 'plasmids' commonly used for in genetic engineering?",
+    "choices": ["Storage of cellular energy", "Vectors to carry foreign genes into cells", "Protection of the cell membrane", "Regulation of cell division"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the PAM sequence in CRISPR technology?",
+    "choices": ["A protein attachment mechanism", "A protospacer adjacent motif that guides where Cas9 cuts", "A synthetic promoter sequence", "A protective amino acid matrix"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which scientist is credited with developing the polymerase chain reaction?",
+    "choices": ["Margaret Dayhoff", "Linus Pauling", "Kary Mullis", "Max Delbrück"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What do 'knockout' mice models help researchers study?",
+    "choices": ["Athletic performance", "Gene function and disease mechanisms", "Behavioral patterns in social hierarchies", "Optimal reproduction rates"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In genome sequencing, what does 'coverage depth' refer to?",
+    "choices": ["The physical size of the genome", "How many times each base is sequenced", "The number of genes in the organism", "The diversity of genetic variants"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the primary concern regarding long-term effects of germline CRISPR editing?",
+    "choices": ["It's too expensive", "Modifications pass to all future generations and off-target effects are unknown", "It only works on single genes", "Environmental contamination is inevitable"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which therapeutic approach uses a patient's own modified immune cells to fight cancer?",
+    "choices": ["Monoclonal antibodies", "CAR-T cell therapy", "Checkpoint inhibitors", "Interferon alpha"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What does 'epigenetics' study in genomics?",
+    "choices": ["DNA mutations", "Chemical modifications affecting gene expression without changing DNA sequence", "Protein synthesis", "Enzyme kinetics"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a 'microarray' used for in genomics?",
+    "choices": ["Storing DNA samples", "Measuring expression levels of thousands of genes simultaneously", "Cutting DNA at specific sites", "Amplifying rare DNA fragments"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which country approved the first clinical trial of CRISPR gene therapy for sickle cell disease?",
+    "choices": ["China", "United States", "Germany", "Japan"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary function of restriction enzymes in molecular cloning?",
+    "choices": ["Repair damaged DNA", "Produce RNA from DNA templates", "Recognize and cut DNA at specific sequences", "Transport DNA across membranes"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does 'DNA fingerprinting' primarily use to identify individuals?",
+    "choices": ["Mitochondrial DNA only", "Highly variable DNA regions like microsatellites or SNPs", "Single gene sequences", "Chromosomal size"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which immune system challenge must be overcome in successful gene therapy?",
+    "choices": ["Preventing rejection of the therapeutic vector", "Controlling bacterial infections", "Balancing white blood cell production", "Managing insulin levels"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  }
+]

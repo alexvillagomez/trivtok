@@ -1,0 +1,608 @@
+[
+  {
+    "text": "Which river did Julius Caesar cross in 49 BCE, triggering civil war?",
+    "choices": ["Tiber", "Rubicon", "Po", "Arno"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Julius Caesar belonged to which political family line at Rome?",
+    "choices": ["The Julii", "The Cornelii", "The Claudii", "The Fabii"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Caesar's famous rival in the civil war after 49 BCE was who?",
+    "choices": ["Crassus", "Cato the Younger", "Pompey", "Mark Antony"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What title did Roman magistrates or commanders hold that gave them the right to command?",
+    "choices": ["Auctoritas", "Dignitas", "Imperium", "Pietas"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Before becoming Caesar's ally, Pompey had earned the nickname Magnus meaning what?",
+    "choices": ["The Great", "The Swift", "The Younger", "The Victor"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which informal political alliance joined Caesar, Pompey, and Crassus?",
+    "choices": ["First Triumvirate", "Second Decemvirate", "Catilinarian Bloc", "Senatorial Compact"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which wealthy Roman helped complete the alliance later called the First Triumvirate?",
+    "choices": ["Brutus", "Crassus", "Cassius", "Lepidus"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Caesar's conquest of Gaul primarily took place in which decade?",
+    "choices": ["70s BCE", "60s BCE", "50s BCE", "40s BCE"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which battle in 48 BCE gave Caesar a decisive victory over Pompey?",
+    "choices": ["Philippi", "Carrhae", "Pharsalus", "Munda"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "After Pharsalus, Pompey fled to which kingdom, where he was murdered?",
+    "choices": ["Numidia", "Egypt", "Pontus", "Armenia"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Egyptian queen became Caesar's political ally and lover?",
+    "choices": ["Arsinoe", "Berenice", "Cleopatra VII", "Nefertiti"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What office, repeatedly granted to Caesar, was the extraordinary magistracy used in emergencies?",
+    "choices": ["Censorship", "Dictatorship", "Praetorship", "Tribunate"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Caesar was named dictator perpetuo shortly before his death in what year?",
+    "choices": ["52 BCE", "49 BCE", "44 BCE", "31 BCE"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The phrase dictator perpetuo is best translated as what?",
+    "choices": ["Dictator in war only", "Dictator for ten years", "Dictator by election", "Dictator in perpetuity"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "On what date was Julius Caesar assassinated?",
+    "choices": ["Kalends of January", "Ides of March", "Nones of April", "Saturnalia"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The Ides of March fell in which month of the Roman calendar?",
+    "choices": ["February", "March", "May", "June"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Caesar was killed during a meeting of the Senate held in whose theater complex?",
+    "choices": ["Marcellus", "Balbus", "Pompey", "Scaurus"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which two men are most commonly named as leading conspirators in Caesar's assassination?",
+    "choices": ["Marius and Sulla", "Brutus and Cassius", "Antony and Lepidus", "Cicero and Cato"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Marcus Junius Brutus was presented by later tradition as defending Rome against what feared outcome?",
+    "choices": ["Foreign invasion", "Debt cancellation", "Monarchy or kingship", "Religious reform"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which office gave Caesar sacrosanctity and powers associated with protecting the plebs, without being a plebeian tribune each year?",
+    "choices": ["Consular potestas", "Tribunicia potestas", "Censorial auctoritas", "Curule aedileship"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What did Caesar do with the calendar in 46 BCE?",
+    "choices": ["Abolished leap years", "Introduced the Julian calendar", "Moved New Year to March", "Restored a lunar-only calendar"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Julian calendar took its name from Caesar's family name in what Latin form?",
+    "choices": ["Julia", "Julianus", "Iulius", "Iovius"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which campaign made Caesar famous before the civil war?",
+    "choices": ["The conquest of Gaul", "The war against Pyrrhus", "The annexation of Egypt", "The suppression of Spartacus"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Caesar's own account of his Gallic campaigns is known by what title?",
+    "choices": ["Annals", "Commentarii de Bello Gallico", "Bellum Civile", "Res Gestae"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Roman senator was famous for relentless opposition to Caesar and chose suicide at Utica?",
+    "choices": ["Cato the Younger", "Hortensius", "Clodius", "Bibulus"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What major office had Caesar held in 59 BCE, helping launch his later power?",
+    "choices": ["Praetor", "Censor", "Consul", "Quaestor"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who was Caesar's daughter, whose marriage had helped bind him to Pompey?",
+    "choices": ["Octavia", "Julia", "Cornelia", "Atia"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The death of Caesar's daughter Julia weakened his bond with which ally?",
+    "choices": ["Antony", "Pompey", "Lepidus", "Cicero"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which disaster in 53 BCE shattered the First Triumvirate by killing Crassus?",
+    "choices": ["Alesia", "Carrhae", "Actium", "Mutina"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Crassus died while campaigning against which eastern power?",
+    "choices": ["Seleucids", "Parthians", "Sassanids", "Ptolemies"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which body ordered Caesar to give up his command before the civil war escalated?",
+    "choices": ["The tribal assembly", "The Senate", "The censors", "The Vestals"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The optimates in the late Republic are best understood as what?",
+    "choices": ["A formal political party", "An aristocratic senatorial tendency", "A priestly college", "An Italian allied league"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The populares style of politics was associated with appealing to which institutions?",
+    "choices": ["Popular assemblies and tribunes", "Provincial kings", "Military engineers", "Rural priesthoods"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which office made Caesar chief priest of Rome from 63 BCE onward?",
+    "choices": ["Rex sacrorum", "Pontifex Maximus", "Flamen Martialis", "Augur maximus"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Caesar's comment 'veni, vidi, vici' referred to his swift victory over whom?",
+    "choices": ["Pompey", "Pharnaces II", "Vercingetorix", "Juba I"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "At which siege did Caesar decisively defeat Vercingetorix in 52 BCE?",
+    "choices": ["Gergovia", "Alesia", "Massilia", "Lutetia"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Vercingetorix was a leader of which people?",
+    "choices": ["Germanic Goths", "Gallic Arverni", "Numidian Massylii", "Iberian Celtiberians"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which ally of Caesar gave the funeral oration that helped turn Roman opinion after the assassination?",
+    "choices": ["Lepidus", "Octavian", "Mark Antony", "Dolabella"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who did Caesar name in his will as his adopted son and principal heir?",
+    "choices": ["Mark Antony", "Lepidus", "Brutus", "Octavian"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was Octavian's birth name before Caesar's adoption transformed his status?",
+    "choices": ["Gaius Octavius", "Lucius Caesar", "Marcus Lepidus", "Decimus Brutus"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman magistracy normally came in pairs and stood at the top of the annual cursus honorum?",
+    "choices": ["Censors", "Consuls", "Praetors", "Quaestors"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Caesar's perpetual dictatorship appeared alarming partly because Rome had a deep hostility to what institution?",
+    "choices": ["Tribunate", "Kingship", "Provincial command", "Military decoration"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "According to a famous anecdote, Caesar was offered a diadem at the Lupercalia by whom?",
+    "choices": ["Brutus", "Cicero", "Antony", "Cassius"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The diadem episode mattered because a diadem suggested the status of a what?",
+    "choices": ["General", "Priest", "King", "Censor"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which title did Caesar use repeatedly after victories, emphasizing military success?",
+    "choices": ["Imperator", "Tribunus", "Aedilis", "Princeps senatus"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which of these reforms is associated with Caesar's program in Rome?",
+    "choices": ["Land and colonization measures", "Abolition of the Senate", "Permanent division of Italy into themes", "End of coinage"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Caesar increased the size of which governing council, angering some traditional elites?",
+    "choices": ["The centuriate assembly", "The Senate", "The tribal courts", "The college of tribunes"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which North African king fought against Caesar and died after Thapsus?",
+    "choices": ["Juba I", "Bocchus II", "Mithridates VI", "Deiotarus"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What battle in 46 BCE broke major senatorial resistance in Africa?",
+    "choices": ["Zela", "Thapsus", "Dyrrhachium", "Pydna"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which battle in Spain in 45 BCE is usually treated as Caesar's last major military victory?",
+    "choices": ["Munda", "Forum Gallorum", "Cannae", "Mons Graupius"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Caesar's enemies at Munda were largely connected to whose surviving faction?",
+    "choices": ["Sulla's", "Pompey's", "Marius's", "Catiline's"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which office in the late Republic was supposed to defend plebeian interests and could obstruct legislation?",
+    "choices": ["Tribune of the plebs", "Dictator", "Pontifex maximus", "Praefectus annonae"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What phrase is used for Rome's traditional sequence of elite offices?",
+    "choices": ["Mos maiorum", "Cursus honorum", "Imperium domi", "Lex hortensia"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which famed orator initially backed Pompey's side but later lived under Caesar's dominance?",
+    "choices": ["Sallust", "Cicero", "Livy", "Catullus"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why was Caesar's policy of clementia politically important?",
+    "choices": ["It replaced taxes with gifts", "It displayed mercy toward defeated Romans", "It made all senators priests", "It banned executions in war"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Clementia in Caesar's self-presentation most directly meant what?",
+    "choices": ["Religious piety", "Military strictness", "Mercy", "Silence"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which fellow consul of Caesar in 59 BCE became a byword for political irrelevance that year?",
+    "choices": ["Bibulus", "Piso", "Lentulus", "Calenus"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "When Caesar crossed the Rubicon, he moved from which province toward Italy?",
+    "choices": ["Syria", "Cisalpine Gaul", "Africa Nova", "Achaea"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which city in Greece hosted the battle of Pharsalus?",
+    "choices": ["Thessaly region", "Aetolia region", "Attica region", "Epirus region"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Caesar's dictatorship was especially controversial because the office had traditionally been what?",
+    "choices": ["Hereditary", "Short-term and exceptional", "Religious only", "Held by tribunes"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who was Decimus Brutus in relation to the assassination plot?",
+    "choices": ["A loyal bodyguard", "One of the conspirators", "Caesar's physician", "Pompey's son"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which conspirator shared the name Brutus but was not Marcus Junius Brutus?",
+    "choices": ["Decimus Brutus", "Lucius Antonius", "Gaius Trebonius", "Titus Labienus"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Titus Labienus had once served Caesar in Gaul before doing what?",
+    "choices": ["Becoming pontifex maximus", "Joining Pompey's side", "Killing Crassus", "Governing Egypt"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which legislative assembly was divided by centuries and weighted toward the wealthy?",
+    "choices": ["Comitia centuriata", "Concilium plebis", "Senate", "College of augurs"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which body was formally a council of elders but in practice dominated Roman state policy in the Republic?",
+    "choices": ["The Senate", "The urban cohorts", "The collegia", "The equestrian courts"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the immediate political effect of Caesar's assassination?",
+    "choices": ["The Republic was restored smoothly", "Power struggles deepened instead", "Pompey returned to power", "The monarchy was proclaimed"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which later alliance of Antony, Octavian, and Lepidus emerged from the chaos after Caesar's death?",
+    "choices": ["Second Triumvirate", "Second Triarchy", "Latin League", "First Decemvirate"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which term best describes the Second Triumvirate compared with the First?",
+    "choices": ["Entirely mythic", "A legally constituted magistracy", "A priestly coalition", "A trade compact"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What office did Lepidus hold that made him useful in the struggle after Caesar's death?",
+    "choices": ["Master of horse and major military commander", "Censor of morals", "King of Numidia", "Tribune of the plebs"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which of Caesar's supporters tried to compromise with the conspirators immediately after the killing?",
+    "choices": ["Antony", "Sextus Pompey", "Agrippa", "Germanicus"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Whose papers and memoranda became politically explosive after the assassination because they could be used to justify appointments and acts?",
+    "choices": ["Cicero's", "Caesar's", "Pompey's", "Crassus's"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Caesar's clemency arguably had what unintended consequence on some enemies?",
+    "choices": ["It sent them into exile forever", "It kept potential conspirators alive and influential", "It converted them all into allies", "It ended senatorial politics"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Roman value referred to personal prestige and standing, something Caesar and Pompey both fiercely competed for?",
+    "choices": ["Dignitas", "Pax", "Concordia", "Humanitas"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Roman value referred to influence derived from reputation rather than formal office?",
+    "choices": ["Imperium", "Auctoritas", "Nobilitas", "Felicitas"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why did many aristocrats view Caesar's concentration of offices with alarm?",
+    "choices": ["It threatened the competitive annual magistracies of the Republic", "It eliminated Roman religion", "It gave citizenship to slaves immediately", "It moved the capital to Alexandria"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which office had Caesar held in Spain earlier in his career, giving him military and financial opportunity before the consulship?",
+    "choices": ["Proconsul of Further Spain", "King of Bithynia", "Tribune in Sicily", "Censor of Campania"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The slogan SPQR refers to the Roman people and which other body?",
+    "choices": ["The army", "The Senate", "The magistrates", "The provinces"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which of Caesar's victories came after he had already become master of Rome and dealt with resistance in Asia Minor?",
+    "choices": ["Zela", "Alesia", "Bibracte", "Sabis"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Pharnaces II, defeated in the campaign summed up by 'veni, vidi, vici,' was the son of which long-time enemy of Rome?",
+    "choices": ["Mithridates VI", "Tigranes the Great", "Antiochus III", "Jugurtha"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What was unusual about Caesar's repeated consulships and dictatorship from a republican perspective?",
+    "choices": ["They bypassed the normal rhythm and limits of officeholding", "They were illegal because he was not a citizen", "They required priestly ordination", "They could only apply outside Italy"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Roman writer later portrayed Caesar as both brilliant and destructive in the context of the Republic's collapse?",
+    "choices": ["Suetonius", "Tacitus", "Polybius", "Pliny the Elder"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Caesar's assassination did not save the old Republic largely because it failed to solve what deeper problem?",
+    "choices": ["Concentration of military power in elite hands", "Lack of temples in Rome", "Absence of written laws", "The Punic threat"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which office was traditionally paired with a magister equitum under a dictator?",
+    "choices": ["Pontifex maximus", "Dictator", "Censor", "Interrex"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who was Caesar's cavalry commander in the traditional dictatorship structure known as the master of horse?",
+    "choices": ["Mark Antony", "Marcus Lepidus", "Dolabella", "Trebonius"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which province gave Caesar the long command that allowed him to build a personal army and political fortune?",
+    "choices": ["Gaul", "Asia", "Cyrenaica", "Crete"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why was Caesar's army especially loyal to him personally?",
+    "choices": ["He had abolished Roman discipline", "He shared campaigns, rewards, and patronage with them", "They were all foreign mercenaries", "They served only one-year terms"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Roman institution was increasingly undermined when generals like Caesar retained long provincial commands?",
+    "choices": ["Annual civic competition for office", "The Vestal priesthood", "The household cult", "The Latin alphabet"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What constitutional issue lay behind the showdown over whether Caesar had to return to Rome as a private citizen?",
+    "choices": ["Whether he could keep immunity while standing for office", "Whether he could become king of Gaul", "Whether he could marry Cleopatra legally", "Whether he could abolish coinage"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which phrase describes Caesar's attempt to present his autocracy as compatible with republican forms?",
+    "choices": ["Rule through magistracies and honors rather than an open kingship", "Rule by divine revelation alone", "Rule through hereditary succession already fixed in law", "Rule through direct democracy in the assemblies only"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which of these men was assassinated before he could become a lasting partner or rival in the post-Caesar order?",
+    "choices": ["Brutus", "Cicero", "Caesar", "Agrippa"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What happened at Philippi in 42 BCE that connected directly to Caesar's assassination?",
+    "choices": ["Caesar's killers were defeated by his heirs and allies", "Pompey defeated Caesar there", "Crassus died there fighting Parthia", "The Julian calendar was proclaimed there"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Roman historian wrote Bellum Catilinae and Bellum Jugurthinum and had also been associated with Caesar's camp?",
+    "choices": ["Sallust", "Livy", "Velleius", "Appian"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What was the practical significance of Caesar's adoption of Octavian in his will?",
+    "choices": ["It created a powerful dynastic claim in Roman legal form", "It made Octavian king immediately", "It forced Antony into exile", "It abolished the Senate's authority"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which festival formed the backdrop to Antony's offering of the diadem to Caesar?",
+    "choices": ["Parilia", "Lupercalia", "Floralia", "Lemuria"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Why did the conspirators miscalculate after killing Caesar?",
+    "choices": ["They had no coherent plan for controlling the state afterward", "They forgot to leave the Senate House", "They expected Pompey to return from Egypt", "They believed the legions would disband at once"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which phrase best describes the late Roman Republic during Caesar's rise?",
+    "choices": ["A stable monarchy", "An oligarchic republic under severe strain", "A direct democracy with no elite control", "A federation ruled from Alexandria"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which constitutional norm did Caesar violate most dramatically by marching on Rome with troops?",
+    "choices": ["The separation between provincial military command and civic politics in Italy", "The ban on winter campaigning in Gaul", "The rule that consuls had to be married", "The requirement that pontiffs avoid warfare"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which statement best captures Caesar's place in Roman history?",
+    "choices": ["He was both a product of republican breakdown and a catalyst of its end", "He restored the middle Republic exactly as it had been", "He ruled as a legal king recognized by the Senate", "He never held military power personally"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What made Caesar's dictatorship a turning point rather than just another elite rivalry?",
+    "choices": ["It concentrated unprecedented personal power while preserving only the shell of republican institutions", "It created the first Roman navy", "It ended all civil conflict immediately", "It moved the capital to Constantinople"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which of these was a public signal that Caesar's honors were pushing beyond normal republican bounds?",
+    "choices": ["Statues, permanent honors, and quasi-monarchical symbolism", "A ban on Latin speech", "The cancellation of all elections forever", "The destruction of every temple in Rome"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "In the aftermath of Caesar's rise, what became increasingly clear about the Roman Republic?",
+    "choices": ["Its institutions could no longer reliably contain commanders backed by loyal armies", "It had solved the citizenship question permanently in 70 BCE", "Its assemblies had become stronger than any individual patron", "Its governors no longer sought military glory"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  }
+]

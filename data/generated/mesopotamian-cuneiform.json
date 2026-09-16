@@ -1,0 +1,542 @@
+[
+  {
+    "text": "The earliest cuneiform writing emerged most directly from administrative recordkeeping in which city?",
+    "choices": ["Ur", "Uruk", "Nineveh", "Mari"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What material was most commonly used for everyday Mesopotamian tablets?",
+    "choices": ["Clay", "Papyrus", "Marble", "Bronze"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Why is cuneiform named 'cuneiform' in modern scholarship?",
+    "choices": ["It was used only for kings", "Its signs were carved in circles", "Its marks look wedge-shaped", "It was always painted blue"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What tool usually made the wedge marks on a clay tablet?",
+    "choices": ["Bone needle", "Reed stylus", "Metal chisel", "Wooden brush"],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Before signs became strongly wedge-based, many early signs looked more like what?",
+    "choices": ["Pictographs", "Hexagons", "Alphabet letters", "Musical notes"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which language is most closely associated with the earliest large body of cuneiform texts?",
+    "choices": ["Hurrian", "Hittite", "Sumerian", "Aramaic"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Akkadian belongs to which larger language family?",
+    "choices": ["Semitic", "Indo-European", "Kartvelian", "Dravidian"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which statement best describes a cuneiform logogram?",
+    "choices": ["A sign standing for a whole word", "A sign marking only vowels", "A sign showing sentence order", "A sign used only in royal names"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which statement best describes a cuneiform syllabogram?",
+    "choices": ["A sign used only in accounting", "A sign representing a syllable", "A sign for a determinative", "A sign with no phonetic value"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "In cuneiform transliteration, a determinative usually indicates what?",
+    "choices": ["The exact pronunciation of every sign", "The date the tablet was fired", "A semantic category such as deity or place", "That the text is a forgery"],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which institution is most closely associated with formal scribal training in Mesopotamia?",
+    "choices": ["Gymnasium", "Edubba", "Agora", "Scriptorium"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does the Sumerian term 'edubba' literally mean?",
+    "choices": ["House of tablets", "House of kings", "House of reeds", "House of omens"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A small rounded clay envelope used to contain tokens before full writing is commonly called what?",
+    "choices": ["Bulla", "Kudurru", "Prism", "Docket"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which broad activity drove much of the earliest tablet production?",
+    "choices": ["Theater scripts", "Temple and economic administration", "Philosophical debate", "Naval manuals"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Why were many ordinary administrative tablets not baked in a kiln originally?",
+    "choices": ["Kilns did not exist", "Clay could not survive heat", "They were often only air-dried for practical use", "Baking was legally forbidden"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What often helped preserve tablets archaeologically even when they were not intentionally fired?",
+    "choices": ["Burial in ice", "Accidental burning in destruction layers", "Storage in seawater", "Coating in wax"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which text type was especially important for training scribes to memorize signs and vocabulary?",
+    "choices": ["Lexical lists", "Victory hymns", "Boundary stones", "Astronomical diaries"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A student tablet with a model text on one side and a copy exercise on another is best associated with what activity?",
+    "choices": ["Divination", "Legal arbitration", "Scribal schooling", "Military planning"],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Mesopotamian numeral principle is especially famous in later mathematics?",
+    "choices": ["Base 5", "Base 8", "Base 12", "Base 60"],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Mesopotamian numerical notation varied by context because numbers were closely tied to what?",
+    "choices": ["Metrological systems", "Poetic meter", "Dynastic propaganda", "Astral deities only"],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A sign list organized by sign shapes or values belongs to which scholarly tradition?",
+    "choices": ["Lexicography", "Epic performance", "Military drill", "Royal sculpture"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What was a colophon on a tablet?",
+    "choices": ["A tax receipt", "A note identifying features such as the scribe or series", "A special kiln", "A reed-cutting knife"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which famous law collection was inscribed in Akkadian using cuneiform?",
+    "choices": ["Laws of Draco", "Twelve Tables", "Code of Hammurabi", "Justinian Code"],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Cuneiform letters from palaces and officials most often reveal which side of ancient life?",
+    "choices": ["Daily administration and communication", "Only mythical storytelling", "Only funerary ritual", "Only astronomical observation"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The Amarna letters are especially famous because they show Late Bronze Age diplomacy written mostly in what language and script tradition?",
+    "choices": ["Egyptian hieroglyphs", "Akkadian cuneiform", "Phoenician alphabet", "Linear B"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which literary hero is central to the best-known Mesopotamian epic preserved on cuneiform tablets?",
+    "choices": ["Sargon", "Gilgamesh", "Ashur", "Etana's eagle"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "A tablet series interpreting unusual events as signs of the future belongs to what scholarly field?",
+    "choices": ["Divination", "Geometry", "Lexicography", "Music theory"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In Mesopotamian scholarship, liver models and sheep entrails were tied especially to which practice?",
+    "choices": ["Glassmaking", "Extispicy", "Canal surveying", "Seal carving"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The series 'Enuma Anu Enlil' is chiefly associated with what?",
+    "choices": ["Medical recipes", "Astral omens", "School punishments", "Irrigation law"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The scholarly series 'Sakikku' is best known as a corpus of what?",
+    "choices": ["Legal verdicts", "Diagnostic and prognostic medicine", "Royal annals", "Merchant accounts"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does paleography study in the context of cuneiform?",
+    "choices": ["Ancient pigments", "The shapes and development of signs and handwriting", "Animal bones in archives", "The chemistry of clay only"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Neo-Assyrian king is especially associated with the library at Nineveh?",
+    "choices": ["Tiglath-pileser III", "Sennacherib", "Ashurbanipal", "Shalmaneser III"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which medium often accompanied tablets as an identifying mark of authority in documents?",
+    "choices": ["Silk ribbons", "Cylinder seals", "Glass tesserae", "Lead bullets"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Old Babylonian scribal culture is especially associated with what rough time frame?",
+    "choices": ["Third millennium BCE only", "Early second millennium BCE", "First century BCE", "Late Roman period"],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which city is especially important for Old Babylonian school tablets and scribal exercises?",
+    "choices": ["Nippur", "Persepolis", "Ugarit", "Byblos"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Long after Sumerian ceased to be a spoken vernacular, it remained important mainly as what?",
+    "choices": ["A scribal and scholarly language", "A military secret code", "The only market language", "A script for coin legends only"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which pair best describes one major challenge of reading Akkadian cuneiform?",
+    "choices": ["No vowels and no names", "Polyphony and polyvalence of signs", "Only alphabetic symbols", "No preserved tablets"],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In transliterated editions, superscript markers before divine names often indicate what originally in the script?",
+    "choices": ["A damaged area", "A determinative for deity", "A line number", "A later forgery"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is a tell in Near Eastern archaeology?",
+    "choices": ["A type of stylus", "A mound formed by accumulated settlement remains", "A tax tablet", "A school tablet fragment"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "When archaeologists recover tablets in situ, why does findspot matter so much?",
+    "choices": ["It shows the clay's color only", "It helps reconstruct archive function and context", "It proves the exact scribe's age", "It always reveals pronunciation"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is an ostracon, and why is it not the standard Mesopotamian cuneiform medium?",
+    "choices": ["A wax board, because wax was taboo", "An inscribed potsherd, whereas Mesopotamia usually favored clay tablets", "A bronze plaque, because bronze was rare", "A parchment roll, because reeds were banned"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which script adapted cuneiform to an alphabetic system with about thirty signs?",
+    "choices": ["Ugaritic", "Linear A", "South Arabian", "Demotic"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which Anatolian Indo-European language was famously written in cuneiform archives at Hattusa?",
+    "choices": ["Luwian", "Hittite", "Phrygian", "Lycian"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Hurrian texts written in cuneiform show what about the script's history?",
+    "choices": ["It was limited to one ethnicity", "It could be adapted to several languages", "It worked only for temple accounts", "It disappeared before the Bronze Age"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Elamite cuneiform is important partly because it demonstrates what?",
+    "choices": ["Every cuneiform language was Semitic", "Cuneiform spread beyond Mesopotamia proper", "Alphabetic writing came first", "All archives were royal libraries"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which Achaemenid royal inscription became central to deciphering cuneiform because it presented parallel texts in multiple languages?",
+    "choices": ["Rosetta Stone", "Behistun Inscription", "Naram-Sin Stele", "Cyrus Cylinder"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Why was Old Persian especially helpful in early cuneiform decipherment?",
+    "choices": ["It used no repeated signs", "Its script was comparatively simpler and more limited", "It had already been translated in antiquity", "It contained only numbers"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which term describes a scholarly reconstruction made by joining broken tablet fragments?",
+    "choices": ["Conflation", "Joins", "Glossing", "Prosopography"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A scribe writing 'according to its original' is emphasizing what practice?",
+    "choices": ["Faithful copying from an exemplar", "Inventing a new script", "Royal censorship", "Deliberate abbreviation for speed"],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is an exemplar in scribal practice?",
+    "choices": ["The teacher's or source copy used for copying", "A kiln for elite tablets", "A seal impression", "A tax assessor"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which genre most often preserves month-by-month notations of prices, weather, and celestial events in late Babylonian scholarship?",
+    "choices": ["Astronomical diaries", "Royal hymns", "School dialogues", "Foundation cones"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the main function of a docket tablet or label in archive contexts?",
+    "choices": ["To serve as a musical score", "To identify or summarize stored records", "To replace all main contracts", "To record royal genealogy only"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which phrase best captures why cuneiform sign order can matter deeply in lexical lists?",
+    "choices": ["Lists often encode learned classification systems", "Signs were always random", "Order was set by alphabetic sequence", "Every list was poetic"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In many school texts, what likely followed a student's copying errors?",
+    "choices": ["Automatic promotion", "Teacher correction and repetition", "Immediate destruction of the tablet", "Royal trial"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which tablet shape is especially associated with some prism texts containing multiple columns of writing?",
+    "choices": ["Spherical", "Triangular or polygonal prism", "Ring-shaped", "Spiral shell form"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Foundation inscriptions deposited in buildings were intended primarily to do what?",
+    "choices": ["Teach beginners the sign list", "Commemorate construction and royal patronage", "Track sheep rations daily", "Record eclipse omens only"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What does 'tablet envelope' most often refer to in Mesopotamian legal practice?",
+    "choices": ["A leather pouch carried by merchants", "An outer clay covering around an inner tablet", "A wooden frame for drying tablets", "A kiln shelf reserved for archives"],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which sign feature often changed enough over centuries to help date tablets regionally?",
+    "choices": ["Wedge orientation and ductus", "Clay color alone", "Tablet weight only", "Number of seal owners"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In scribal terms, ductus refers most nearly to what?",
+    "choices": ["The sequence and manner of making strokes", "The legal owner of a tablet", "A list of damaged signs", "The firing temperature of clay"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Mesopotamian city is strongly associated with the goddess Nisaba, a deity linked with writing and accounting?",
+    "choices": ["Eresh", "Umma", "Uruk", "Lagash"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who later became especially prominent as a god of scribal wisdom and writing in first-millennium traditions?",
+    "choices": ["Adad", "Nabu", "Nergal", "Dumuzi"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which collection is famous as a standard lexical series beginning with simple sign entries and used in scribal learning?",
+    "choices": ["Urra=hubullu", "Enuma Elish", "Ludlul bel nemeqi", "Erra Epic"],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "The series title 'Ea' in cuneiform scholarship refers chiefly to what category of text?",
+    "choices": ["A medical omen series", "A lexical list tradition", "A king list", "A hymn to Ishtar only"],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does it mean when modern editions cite a tablet as 'obverse' and 'reverse'?",
+    "choices": ["Its legal and illegal sides", "Its front and back surfaces", "Its top and bottom kiln layers", "Its Sumerian and Akkadian halves"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "When a sign in an edition is enclosed in brackets, what usually does that indicate?",
+    "choices": ["It was sung aloud", "It is restored or uncertain because of damage", "It is always a determinative", "It belongs to a different tablet entirely"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Why do modern Assyriologists transliterate rather than simply translate tablets immediately?",
+    "choices": ["To represent the underlying signs and readings explicitly", "Because cuneiform cannot be translated", "To hide uncertain texts from readers", "To avoid discussing grammar"],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the best definition of a sign's polyphony?",
+    "choices": ["Its use in many cities", "Its ability to carry more than one phonetic reading", "Its appearance in only poetry", "Its ownership by multiple scribes"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the best definition of a sign's homophony problem in cuneiform studies?",
+    "choices": ["One sign never changes shape", "Different signs can share the same sound value", "Only vowels are written twice", "Signs always match one word exactly"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which archive is especially famous for preserving Old Babylonian diplomatic and administrative correspondence on the Euphrates?",
+    "choices": ["Mari", "Ugarit", "Persepolis", "Susa only in Achaemenid times"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which type of text would most likely mention barley rations, laborers, and deliveries in repetitive formulae?",
+    "choices": ["Administrative accounts", "Royal love songs", "Omen apodoses only", "Bilingual myths"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a king list generally attempt to provide?",
+    "choices": ["A catalog of gods' temples", "A succession framework of rulers and reigns", "A dictionary of legal terms", "A map of canal branches"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Why are cuneiform copies of literary works often textually valuable even when late?",
+    "choices": ["Late copies can preserve earlier compositions now otherwise lost", "Late scribes never made changes", "Only late tablets contain line numbers", "They are always written in Old Persian"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a common reason literary tablets include catch-lines at the end?",
+    "choices": ["To threaten thieves", "To link one tablet of a series to the next", "To count taxes automatically", "To identify clay sources"],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which writing direction became normal for later cuneiform signs compared with the earliest pictographic stage?",
+    "choices": ["Vertical columns from bottom up", "Horizontal orientation with rotated sign tradition", "Right-to-left alphabetic rows only", "Spiral circular layout"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which phrase best describes cuneiform as a writing system over its long history?",
+    "choices": ["Static and unchanging", "Used for one language only", "Adaptive across languages, genres, and centuries", "Limited to monumental inscriptions"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "A sign used as a Sumerogram inside an Akkadian sentence is functioning as what?",
+    "choices": ["A decorative wedge cluster", "A logographic borrowing from Sumerian", "A punctuation mark", "An alphabetic vowel marker"],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Why can the same cuneiform sign be read differently in Sumerian and Akkadian contexts?",
+    "choices": ["Because every tablet is fake", "Because script values interact with language and scribal convention", "Because Akkadian used no signs at all", "Because signs changed only by color"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which publication term most directly refers to copying a tablet sign-by-sign into Roman characters?",
+    "choices": ["Excavation", "Transliteration", "Conservation", "Provenancing"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which publication term refers to rendering the language meaningfully into modern English?",
+    "choices": ["Translation", "Ductus", "Join", "Collation"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Assyriological practice, collation means what?",
+    "choices": ["Refiring broken tablets", "Rechecking a published reading against the original object", "Sorting tablets by museum size", "Dating a text only by grammar"],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which script variety is especially associated with royal inscriptions of the Achaemenid Empire and is not the same as Sumero-Akkadian cuneiform?",
+    "choices": ["Old Persian cuneiform", "Neo-Sumerian shorthand", "Ugaritic alphabetic Greek", "Demotic Elamite"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Mesopotamian text type most directly blends learned observation with omen interpretation of the heavens?",
+    "choices": ["Astral divination texts", "Harbor tax ledgers", "School beatings dialogues", "Brick stamps"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "If a catalog says a tablet is from a secondary context, what is one likely implication?",
+    "choices": ["It was found away from its original archival setting", "It must be a modern forgery", "It can only be read in Sumerian", "It was never written by a trained scribe"],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What makes cuneiform especially valuable for historians of everyday ancient institutions?",
+    "choices": ["It preserves large quantities of routine documents, not just monuments", "It survives only in royal tombs", "It records no economic life", "It omits personal names almost entirely"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which description best fits a tablet's provenience?",
+    "choices": ["Its material hardness", "Its place of origin or archaeological find location", "Its correct translation only", "Its estimated market price"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Why do scholars care whether a tablet was written, stored, copied, or archived in a temple, palace, or private house?",
+    "choices": ["Those settings shape genre, purpose, and scribal habit", "Because tablets change language when moved", "Because clay only survives in temples", "Because private houses never had writing"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A scholar studying how scribes organized words for professions, stones, plants, and animals is most likely working with what?",
+    "choices": ["Lexical lists", "Battle reliefs", "Canal laws", "Foundation pegs only"],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which topic best shows cuneiform's role beyond bookkeeping alone?",
+    "choices": ["Epic, omen, medical, legal, and diplomatic texts", "Only temple receipts", "Only grain tallies and no literature", "Only royal statues without writing"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is one reason expert readers still debate some cuneiform passages?",
+    "choices": ["All tablets are unreadable", "Damage, rare signs, and context-sensitive readings can remain ambiguous", "No grammar survives", "Museums forbid photographs in every case"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which statement about cuneiform decipherment is most accurate?",
+    "choices": ["It happened instantly after one discovery", "It advanced gradually through comparison, multilingual inscriptions, and sign analysis", "It depended only on Greek myths", "It was completed before any excavations"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the capital of France?",
+    "choices": ["Lyon", "Paris", "Marseille", "Nice"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the capital of Japan?",
+    "choices": ["Osaka", "Tokyo", "Kyoto", "Hiroshima"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which city is the capital of the United Kingdom?",
+    "choices": ["Manchester", "London", "Edinburgh", "Liverpool"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the capital of Germany?",
+    "choices": ["Munich", "Berlin", "Hamburg", "Cologne"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the capital of Italy?",
+    "choices": ["Venice", "Rome", "Florence", "Milan"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the capital of Spain?",
+    "choices": ["Barcelona", "Madrid", "Seville", "Valencia"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the capital of Russia?",
+    "choices": ["St. Petersburg", "Moscow", "Novosibirsk", "Yekaterinburg"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the capital of China?",
+    "choices": ["Shanghai", "Beijing", "Shenzhen", "Xi'an"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the capital of Egypt?",
+    "choices": ["Alexandria", "Cairo", "Giza", "Luxor"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the capital of Brazil?",
+    "choices": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the capital of Thailand?",
+    "choices": ["Phuket", "Bangkok", "Chiang Mai", "Pattaya"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Vietnam?",
+    "choices": ["Ho Chi Minh City", "Hanoi", "Da Nang", "Haiphong"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of South Korea?",
+    "choices": ["Busan", "Seoul", "Incheon", "Daegu"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Turkey?",
+    "choices": ["Istanbul", "Ankara", "Izmir", "Bursa"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the capital of Greece?",
+    "choices": ["Thessaloniki", "Athens", "Patras", "Larissa"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the capital of Portugal?",
+    "choices": ["Porto", "Lisbon", "Covilhã", "Faro"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the capital of Belgium?",
+    "choices": ["Antwerp", "Brussels", "Ghent", "Bruges"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the capital of the Netherlands?",
+    "choices": ["Rotterdam", "Amsterdam", "Utrecht", "The Hague"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the capital of Sweden?",
+    "choices": ["Gothenburg", "Stockholm", "Malmö", "Uppsala"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the capital of Norway?",
+    "choices": ["Bergen", "Oslo", "Trondheim", "Stavanger"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the capital of Denmark?",
+    "choices": ["Aarhus", "Copenhagen", "Odense", "Aalborg"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the capital of Ireland?",
+    "choices": ["Cork", "Dublin", "Galway", "Limerick"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the capital of Poland?",
+    "choices": ["Krakow", "Warsaw", "Wrocław", "Poznań"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the capital of the Czech Republic?",
+    "choices": ["Brno", "Prague", "Ostrava", "Plzen"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the capital of Austria?",
+    "choices": ["Graz", "Vienna", "Linz", "Innsbruck"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the capital of Switzerland?",
+    "choices": ["Zurich", "Bern", "Geneva", "Lausanne"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the capital of South Africa?",
+    "choices": ["Cape Town", "Pretoria", "Johannesburg", "Durban"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the capital of Indonesia?",
+    "choices": ["Surabaya", "Jakarta", "Bandung", "Medan"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the capital of the Philippines?",
+    "choices": ["Cebu City", "Manila", "Davao", "Quezon City"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the capital of Malaysia?",
+    "choices": ["Penang", "Kuala Lumpur", "Johor Bahru", "Ipoh"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the capital of Singapore?",
+    "choices": ["Singapore", "Sentosa", "Jurong", "Orchard"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Kyrgyzstan?",
+    "choices": ["Osh", "Bishkek", "Jalalabad", "Tokmok"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the capital of Tajikistan?",
+    "choices": ["Khujand", "Dushanbe", "Kulob", "Khorog"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the capital of Uzbekistan?",
+    "choices": ["Bukhara", "Tashkent", "Samarkand", "Andijan"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the capital of Turkmenistan?",
+    "choices": ["Balkanabat", "Ashgabat", "Turkmenbashi", "Mary"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What is the capital of Mongolia?",
+    "choices": ["Darkhan", "Ulaanbaatar", "Erdenet", "Choibalsan"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the capital of Laos?",
+    "choices": ["Savannakhet", "Vientiane", "Pakse", "Luang Prabang"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the capital of Cambodia?",
+    "choices": ["Siem Reap", "Phnom Penh", "Battambang", "Sihanoukville"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the capital of Namibia?",
+    "choices": ["Swakopmund", "Windhoek", "Walvis Bay", "Oshakati"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the capital of Mauritius?",
+    "choices": ["Beau Bassin-Rose Hill", "Port Louis", "Curepipe", "Vacoas-Phoenix"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the capital of Botswana?",
+    "choices": ["Francistown", "Gaborone", "Selebi-Phikwe", "Maun"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the capital of Lesotho?",
+    "choices": ["Teyateyaneng", "Maseru", "Mafeteng", "Berea"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the capital of Equatorial Guinea?",
+    "choices": ["Bata", "Malabo", "Ebebiyin", "Evinayong"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the capital of Mauritania?",
+    "choices": ["Nouakchott", "Nouadhibou", "Kiffa", "Rosso"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What is the capital of Montenegro?",
+    "choices": ["Podgorica", "Cetinje", "Nikšić", "Pljevlja"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which Italian dessert is made with mascarpone, coffee, ladyfingers, and cocoa powder?",
+    "choices": ["Panna Cotta", "Tiramisu", "Zabaglione", "Panettone"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the primary ingredient that gives croissants their characteristic flaky layers?",
+    "choices": ["Eggs", "Butter", "Milk", "Yeast"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which French pastry consists of choux dough filled with cream and topped with chocolate?",
+    "choices": ["Tarte Tatin", "Éclair", "Religieuse", "Mille-feuille"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the technique of layering thin sheets of dough in pastry called?",
+    "choices": ["Lamination", "Julienne", "Chiffonade", "Brunoise"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country is famous for producing the finest cocoa beans used in chocolate making?",
+    "choices": ["Switzerland", "Ivory Coast", "Belgium", "Germany"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does 'ganache' refer to in pastry and chocolate work?",
+    "choices": ["A type of cake layer", "An emulsion of chocolate and cream", "A baking mold", "A decorative piping tip"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which French dessert is an almond meringue-based cookie sandwich with a flavored filling?",
+    "choices": ["Étoile", "Macaron", "Friand", "Financier"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the main leavening agent in traditional soufflés?",
+    "choices": ["Baking powder", "Yeast", "Whipped egg whites", "Soda"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Greek pastry is made with phyllo dough, honey, and nuts?",
+    "choices": ["Baklava", "Loukoumades", "Galaktoboureko", "Saganaki"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What ingredient is traditionally used to thicken fruit jams and jellies?",
+    "choices": ["Cornstarch", "Gelatin", "Pectin", "Arrowroot"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which baking ingredient works as both a leavening agent and flavoring in cakes?",
+    "choices": ["Salt", "Baking soda", "Vanilla extract", "Cocoa powder"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the Austrian rolled pastry dessert traditionally filled with apples called?",
+    "choices": ["Sachertorte", "Apfelstrudel", "Linzertorte", "Dobostorte"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What crystalline structure forms in properly tempered chocolate?",
+    "choices": ["Form I", "Form IV", "Form V", "Form VI"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Hungarian layered cake with chocolate cream filling is named after an artist?",
+    "choices": ["Dobostorte", "Krémes", "Flódni", "Baumkuchen"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What temperature range is ideal for chocolate tempering with dark chocolate?",
+    "choices": ["18-22°C", "28-32°C", "35-40°C", "45-50°C"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which technique involves folding one pastry dough inside another to create layers?",
+    "choices": ["Braiding", "Laminating", "Crimping", "Scoring"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary thickening agent in a pastry cream or crème pâtissière?",
+    "choices": ["Gelatin", "Cornstarch", "Flour", "Tapioca"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Italian Christmas cake is studded with dried fruits and sometimes contains panettone spice?",
+    "choices": ["Panettone", "Panetone", "Pandoro", "Zucotto"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the French term for a thin, crispy wafer cookie often served with ice cream?",
+    "choices": ["Tuile", "Madeleine", "Palmier", "Langues de chat"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which chocolate percentage content defines 'dark chocolate'?",
+    "choices": ["40% or higher", "50% or higher", "60% or higher", "70% or higher"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the difference between Swiss and Italian meringue in terms of preparation?",
+    "choices": ["Heating method differs", "Egg types differ", "Sugar ratio differs", "Beating time differs"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which spice is traditionally used to flavor Mexican hot chocolate?",
+    "choices": ["Cumin", "Cinnamon", "Nutmeg", "Clove"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is fondant primarily used for in cake decorating?",
+    "choices": ["Filling layers", "Smooth coating and sculpting", "Flavoring", "Leavening"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which French tart features caramelized apples arranged in a spiral pattern?",
+    "choices": ["Tarte Tatin", "Tarte aux Pommes", "Tarte Normande", "Clafoutis"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What chemical reaction causes baking soda to produce carbon dioxide in dough?",
+    "choices": ["Oxidation", "Hydrolysis", "Acid-base reaction", "Fermentation"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which German dessert is a spiral-shaped chocolate roll that resembles a wood cake?",
+    "choices": ["Schwarzwälder Kirschtorte", "Sachertorte", "Baumkuchen", "Stollen"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What ingredient is used to give angel food cake its extremely light, airy texture?",
+    "choices": ["Whipped cream", "Air pockets", "Egg whites only", "Whipped butter"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which baking technique involves coating the bottom of a pan with sugar before pouring batter?",
+    "choices": ["Caramelizing", "Crystallizing", "Blooming", "Tempering"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the ideal internal temperature for baked chocolate chip cookies to achieve chewy centers?",
+    "choices": ["65°C", "75°C", "85°C", "95°C"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which fruit is essential to the traditional American Black Forest Cake flavor profile?",
+    "choices": ["Strawberry", "Raspberry", "Cherry", "Blackberry"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does the acronym SAE stand for in the context of chocolate liquor percentages?",
+    "choices": ["Standard American Ester", "Suspended Additive Elements", "Soy Ash Extract", "Structural Analysis Equation"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which French pastry is a millefeuille, featuring layers of puff pastry and pastry cream?",
+    "choices": ["Éclair", "Religieuse", "Napoleon", "Profiterole"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the primary function of cornstarch in pie fillings?",
+    "choices": ["Sweetening", "Thickening", "Coloring", "Flavoring"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which Portuguese custard tart filled with egg and cream has become globally popular?",
+    "choices": ["Flan", "Pastel de nata", "Crème brûlée", "Zabaglione"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the critical water content percentage for proper gluten development in bread?",
+    "choices": ["25-35%", "40-50%", "55-65%", "70-80%"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which baking ingredient is used to activate baking soda and create carbon dioxide?",
+    "choices": ["Milk", "Acid (buttermilk, yogurt)", "Salt", "Oil"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the French term for a cake soaked in coffee or alcohol syrup?",
+    "choices": ["Mousse", "Financier", "Baba", "Religieuse"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which chocolate conching time is essential for smooth flavor development?",
+    "choices": ["15-30 minutes", "1-2 hours", "12-48 hours", "3-5 days"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary difference between fondant and fudge in terms of preparation?",
+    "choices": ["Cooking temperature", "Ingredient ratios", "Beating/churning method", "Final texture hardness"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Middle Eastern pastry features layers of phyllo with nuts and honey syrup?",
+    "choices": ["Maamoul", "Baklava", "Knafeh", "Halva"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What role does vanilla play in most cake batters besides flavoring?",
+    "choices": ["Leavening", "Tenderizing", "Browning", "Preserving"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which French dessert is a choux pastry ring filled with cream and topped with caramelized sugar?",
+    "choices": ["Croquembouche", "Profiterole", "Religieuse", "Paris-Brest"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the minimum cocoa butter content in white chocolate by definition?",
+    "choices": ["10%", "20%", "30%", "40%"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Spanish layered pastry dessert alternates between thin pastry sheets and various fillings?",
+    "choices": ["Churros", "Mille-feuille", "Mil folhas", "Filo pie"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What chemical process occurs when sugar is heated until it turns amber in color?",
+    "choices": ["Crystallization", "Caramelization", "Maillard reaction", "Emulsification"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which African nation produces the majority of the world's cocoa beans for chocolate?",
+    "choices": ["Ghana", "Ivory Coast", "Nigeria", "Cameroon"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the optimal ratio of flour to butter in shortbread for texture and structure?",
+    "choices": ["1:1", "2:1", "3:1", "4:1"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  }
+]

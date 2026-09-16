@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which place holds the record for the highest temperature ever reliably recorded?",
+    "choices": ["Death Valley, California", "Kebili, Tunisia", "Turbat, Pakistan", "Phoenix, Arizona"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the coldest place that humans have permanently inhabited?",
+    "choices": ["Siberia, Russia", "Oymyakon, Russia", "Resolute Bay, Canada", "Barrow, Alaska"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which region is considered the driest place on Earth?",
+    "choices": ["Kalahari Desert", "Atacama Desert", "Arabian Desert", "Lut Desert"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the world's highest capital city by elevation?",
+    "choices": ["Mexico City, Mexico", "Quito, Ecuador", "La Paz, Bolivia", "Bogotá, Colombia"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which location on Earth's surface lies at the lowest elevation?",
+    "choices": ["Death Valley, USA", "Dead Sea coast", "Lake Baikal, Russia", "Mariana Trench floor"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Russia holds the title of largest country by area. What is the second largest?",
+    "choices": ["Canada", "China", "United States", "Brazil"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which is the smallest sovereign nation in the world by land area?",
+    "choices": ["San Marino", "Monaco", "Vatican City", "Andorra"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the most populated country on Earth by total population?",
+    "choices": ["India", "Indonesia", "United States", "Pakistan"],
+    "correctIndex": 3,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which desert spans the largest area in the world?",
+    "choices": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the largest island in the world by area?",
+    "choices": ["New Guinea", "Borneo", "Greenland", "Madagascar"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which ocean trench is the deepest point in the world's oceans?",
+    "choices": ["Kuril-Kamchatka", "Mariana Trench", "Tonga Trench", "Philippine Trench"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the largest lake in the world by surface area?",
+    "choices": ["Lake Superior", "Lake Victoria", "Caspian Sea", "Lake Tanganyika"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which place receives the most rainfall annually on average?",
+    "choices": ["Cherrapunji, India", "Mawsynram, India", "Tutendo, Colombia", "Henderson Lake, Canada"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the largest independent landlocked country by area?",
+    "choices": ["Bolivia", "Chad", "Kazakhstan", "Mongolia"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which African nation covers the largest land area?",
+    "choices": ["Nigeria", "Sudan", "Algeria", "Democratic Republic of Congo"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the northernmost capital city in the world?",
+    "choices": ["Helsinki, Finland", "Moscow, Russia", "Reykjavik, Iceland", "Tromsø, Norway"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which country is composed of the most islands?",
+    "choices": ["Philippines", "Norway", "Sweden", "Indonesia"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the deepest freshwater lake in the world?",
+    "choices": ["Lake Michigan", "Lake Baikal", "Lake Tanganyika", "Lake Superior"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which location has been measured as the wettest place on Earth by average annual precipitation?",
+    "choices": ["Mount Waialeale, Hawaii", "Mawsynram, India", "Tutendo, Colombia", "Bellenden Ker, Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the largest country entirely located in South America?",
+    "choices": ["Argentina", "Brazil", "Peru", "Bolivia"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which is the hottest capital city in the world by average temperature?",
+    "choices": ["Phoenix, Arizona", "Djibouti City", "Baghdad, Iraq", "Jeddah, Saudi Arabia"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the most sparsely populated country with significant land area?",
+    "choices": ["Mongolia", "Greenland", "Australia", "Canada"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which country spans across the most time zones simultaneously?",
+    "choices": ["Russia", "United States", "France", "United Kingdom"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the largest coral reef system in the world?",
+    "choices": ["Belize Barrier Reef", "Great Barrier Reef", "New Caledonian Barrier Reef", "Meso-American Barrier Reef"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which nation is completely enclosed within another country's borders?",
+    "choices": ["Lesotho", "Vatican City", "San Marino", "Monaco"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the highest point in South America?",
+    "choices": ["Huascarán", "Ilimani", "Chimborazo", "Aconcagua"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which is considered the most remote inhabited island in the world?",
+    "choices": ["Tristan da Cunha", "Saint Helena", "Easter Island", "Ascension Island"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the largest freshwater lake in North America?",
+    "choices": ["Lake Superior", "Lake Michigan", "Lake Huron", "Lake Erie"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country lies entirely below sea level?",
+    "choices": ["Netherlands", "Palestine", "Djibouti", "Israel"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the largest continent by total land area?",
+    "choices": ["Africa", "North America", "Asia", "Europe"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which place is recognized as the windiest inhabited location on Earth?",
+    "choices": ["Commonwealth Bay, Antarctica", "Mount Wellington, Australia", "Punta Arenas, Chile", "Kerguelen Islands"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the smallest sea in the world by surface area?",
+    "choices": ["Red Sea", "Dead Sea", "Baltic Sea", "Caribbean Sea"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Asian country covers the largest land area?",
+    "choices": ["China", "Russia", "Mongolia", "Kazakhstan"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the most densely populated country in the world?",
+    "choices": ["Hong Kong", "Singapore", "Monaco", "Bangladesh"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which location experiences the most extreme seasonal temperature variation?",
+    "choices": ["Oymyakon, Russia", "Verkhoyansk, Russia", "Yakutsk, Russia", "Norilsk, Russia"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the southernmost capital city in the world?",
+    "choices": ["Christchurch, New Zealand", "Hobart, Australia", "Wellington, New Zealand", "Ushuaia, Argentina"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which region receives the least precipitation of any inhabited place on Earth?",
+    "choices": ["Atacama Desert", "Negev Desert", "Gobi Desert", "Namib Desert"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the largest bay in the world by area?",
+    "choices": ["Hudson Bay", "Bengal Bay", "Baffin Bay", "Biscay Bay"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which country has the longest coastline relative to its land area?",
+    "choices": ["Norway", "Sweden", "Finland", "Canada"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the flattest country in the world with significant land area?",
+    "choices": ["Netherlands", "Maldives", "Bahamas", "Mauritius"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which location has the highest barometric pressure ever recorded?",
+    "choices": ["Mount Everest", "Agata, Siberia", "Death Valley", "Antelope Canyon"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the highest point in Antarctica?",
+    "choices": ["Mount Erebus", "Mount Vinson", "Mount Jackson", "Mount Tyree"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which country has territory in both Europe and Asia?",
+    "choices": ["Greece", "Turkey", "Russia", "Kazakhstan"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the northernmost point of land on Earth?",
+    "choices": ["Kaffeklubben Island", "Cape Morris Jesup", "Point Barrow", "Nord, Greenland"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which European country covers the largest land area?",
+    "choices": ["France", "Germany", "Spain", "Russia"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the oldest continuously inhabited capital city in the world?",
+    "choices": ["Damascus, Syria", "Athens, Greece", "Cairo, Egypt", "Jerusalem (disputed)"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  }
+]

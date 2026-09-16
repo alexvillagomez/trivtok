@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which country is the largest by land area in Asia?",
+    "choices": ["Russia", "China", "India", "Kazakhstan"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the primary religion practiced in Thailand?",
+    "choices": ["Buddhism", "Islam", "Hinduism", "Christianity"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Indonesia consists of how many major islands?",
+    "choices": ["Over 17,000", "Around 5,000", "Approximately 10,000", "Just 2,000"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Asian country is known as the Land of Smiles?",
+    "choices": ["Thailand", "Vietnam", "Cambodia", "Laos"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the primary language spoken in Malaysia?",
+    "choices": ["Malay", "English", "Mandarin", "Tamil"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which country is home to the majority of the Himalayan mountain range?",
+    "choices": ["Nepal", "Bhutan", "Tibet", "Pakistan"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What religion is the majority faith in the Philippines?",
+    "choices": ["Catholicism", "Islam", "Buddhism", "Animism"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Bangladesh is located on which river delta?",
+    "choices": ["Ganges-Brahmaputra", "Yangtze", "Mekong", "Irrawaddy"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Asian nation consists of two main islands, Honshu and Hokkaido?",
+    "choices": ["Japan", "Philippines", "Indonesia", "South Korea"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the smallest independent nation in Asia by area?",
+    "choices": ["Singapore", "Bahrain", "Qatar", "Cyprus"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Myanmar (Burma) is located on which peninsula?",
+    "choices": ["Indochinese", "Malay", "Kamchatka", "Arabian"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Asian country was officially called Siam until 1939?",
+    "choices": ["Thailand", "Laos", "Cambodia", "Vietnam"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the official language of Pakistan?",
+    "choices": ["Urdu", "English", "Punjabi", "Sindhi"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Taiwan is officially known as which territory?",
+    "choices": ["Province of China", "Republic of China", "Independent Taiwan", "Chinese Taipei"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Southeast Asian country has the most extensive cave systems?",
+    "choices": ["Thailand", "Vietnam", "Laos", "Cambodia"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the primary religion of Sri Lanka?",
+    "choices": ["Hinduism", "Buddhism", "Islam", "Christianity"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Brunei is located on which large island?",
+    "choices": ["Sumatra", "Borneo", "Java", "Sulawesi"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Asian country has approximately 30% of the world's freshwater?",
+    "choices": ["Indonesia", "Russia", "China", "India"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What percentage of Afghanistan's population practices Islam?",
+    "choices": ["50%", "95%", "70%", "80%"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Mongolia is historically known for which of these?",
+    "choices": ["Genghis Khan's empire", "Silk Road trade", "Buddhist monasteries", "Colonial influence"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Asian nation has the world's highest population density?",
+    "choices": ["Singapore", "Bangladesh", "Hong Kong", "South Korea"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "East Timor gained independence from which country in 2002?",
+    "choices": ["Portugal", "Australia", "Indonesia", "Netherlands"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the primary climate type of most of Southeast Asia?",
+    "choices": ["Tropical monsoon", "Temperate", "Desert", "Subarctic"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which country produces the majority of the world's palm oil?",
+    "choices": ["Thailand", "Indonesia", "Malaysia", "Vietnam"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Maldives consist of approximately how many coral atolls?",
+    "choices": ["26", "52", "100", "200"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Asian country is often called the 'Roof of the World'?",
+    "choices": ["Kyrgyzstan", "Nepal", "Tibet", "Tajikistan"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the capital of Kazakhstan?",
+    "choices": ["Almaty", "Astana", "Karaganda", "Kyzyl-Orda"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which nation is home to Goa, a former Portuguese colony?",
+    "choices": ["Myanmar", "India", "Sri Lanka", "Bangladesh"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Gobi Desert spans which two countries?",
+    "choices": ["Mongolia and Kazakhstan", "China and Mongolia", "China and Russia", "Tibet and Mongolia"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Asian city-state has the world's busiest port by cargo tonnage?",
+    "choices": ["Hong Kong", "Shanghai", "Singapore", "Dubai"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What language is primarily spoken in Turkmenistan?",
+    "choices": ["Uzbek", "Turkmen", "Russian", "Persian"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Taklamakan Desert is located in which region of Asia?",
+    "choices": ["Central Asia", "Xinjiang", "Mongolia", "Tibet"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which country controls the Paracel Islands?",
+    "choices": ["Taiwan", "Vietnam", "China", "Philippines"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the official language of Uzbekistan?",
+    "choices": ["Russian", "Uzbek", "Tajik", "Kazakh"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Asian country is the world's largest producer of rice?",
+    "choices": ["Thailand", "India", "Vietnam", "Indonesia"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Spratly Islands are disputed between which nations?",
+    "choices": ["China, Vietnam, Philippines", "China, Japan, Korea", "India, Pakistan, Bangladesh", "Thailand, Laos, Cambodia"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the current population of Bangladesh?",
+    "choices": ["Over 170 million", "Over 90 million", "Over 50 million", "Over 120 million"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Asian country has the most active volcanoes?",
+    "choices": ["Japan", "Indonesia", "Philippines", "Russia"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Mount Fuji is located in which Asian country?",
+    "choices": ["South Korea", "Taiwan", "Japan", "Philippines"],
+    "correctIndex": 3,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which island nation is located off the coast of Myanmar?",
+    "choices": ["Andaman Islands", "Nicobar Islands", "Maldives", "Seychelles"],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the primary mineral resource of Mongolia?",
+    "choices": ["Gold", "Coal", "Copper", "Uranium"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Kamchatka Peninsula is part of which Asian country?",
+    "choices": ["Siberia", "Russia", "Kazakhstan", "Mongolia"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Asian nation is an archipelago with 7,641 islands?",
+    "choices": ["Indonesia", "Philippines", "Japan", "Thailand"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Silk Road historically connected Asia to which continent?",
+    "choices": ["Africa", "Europe", "Oceania", "Antarctica"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What percentage of Asia's population lives in East and Southeast Asia?",
+    "choices": ["40%", "55%", "70%", "85%"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The island of Borneo is shared by which three nations?",
+    "choices": ["Indonesia, Malaysia, Brunei", "Indonesia, Philippines, Thailand", "Malaysia, Singapore, Brunei", "Indonesia, Thailand, Myanmar"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  }
+]

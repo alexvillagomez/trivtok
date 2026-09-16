@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Usain Bolt's men's 100m world record is approximately how many seconds?",
+    "choices": ["9.58", "9.69", "9.77", "9.86"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "How many Olympic gold medals did Jesse Owens win at the 1936 Berlin Olympics?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which field event involves throwing a round metal ball from a circle?",
+    "choices": ["Discus throw", "Shot put", "Hammer throw", "Javelin throw"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A standard marathon distance is approximately how many kilometers?",
+    "choices": ["38 km", "40 km", "42.195 km", "45 km"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Carl Lewis won Olympic medals in sprinting and which other discipline?",
+    "choices": ["Long jump", "High jump", "Pole vault", "Triple jump"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "A standard 400m race is run on how many of the track's lanes?",
+    "choices": ["6 lanes", "8 lanes", "10 lanes", "Variable by event"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The steeplechase combines running with which obstacle?",
+    "choices": ["Water barriers only", "Hurdles only", "Water barriers and hurdles", "Walls"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many laps around the track is a 1600m race?",
+    "choices": ["2 laps", "3 laps", "4 laps", "5 laps"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Florence Griffith-Joyner was famous for sprinting and her distinctive:",
+    "choices": ["Hair color", "Nails", "Running shoes", "Uniform design"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The triple jump sequence is hop, skip, and which final movement?",
+    "choices": ["Hop again", "Jump", "Sprint", "Leap"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The horizontal jump event is commonly called the:",
+    "choices": ["High jump", "Long jump", "Pole vault", "Standing jump"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A standard outdoor running track has how many lanes?",
+    "choices": ["6", "8", "10", "12"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the standard high jump bar height for men's elite competition?",
+    "choices": ["Around 2.0m", "Around 2.2m", "Around 2.4m", "Around 2.6m"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Florence Griffith-Joyner's 200m world record has stood for over how many years?",
+    "choices": ["15 years", "20 years", "Over 30 years", "40 years"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The modern Olympic decathlon consists of how many track and field events?",
+    "choices": ["8 events", "10 events", "12 events", "15 events"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Heptathlon is primarily which gender's multi-event competition?",
+    "choices": ["Men's", "Women's", "Mixed", "Both equally"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the standard weight of a men's shot put?",
+    "choices": ["5 kg", "7.26 kg", "9 kg", "12 kg"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Armand Duplantis currently holds the world record in which event?",
+    "choices": ["Long jump", "Pole vault", "Triple jump", "High jump"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In the men's 110m hurdle race, the hurdle height is approximately:",
+    "choices": ["39 inches", "40 inches", "42 inches", "48 inches"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The women's 400m hurdle race features hurdles at what height?",
+    "choices": ["24 inches", "30 inches", "36 inches", "42 inches"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Bob Beamon's long jump world record stood for approximately how many years?",
+    "choices": ["15 years", "20 years", "25 years", "30 years"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Eliud Kipchoge's marathon world record is approximately:",
+    "choices": ["2:00:25", "2:01:09", "2:02:57", "2:03:50"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The hammer throw involves throwing a metal ball attached to what?",
+    "choices": ["A pole", "A rope", "A cable", "A handle"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "An athlete's bib number in track and field is primarily used for:",
+    "choices": ["Aerodynamic performance", "Identification and timing", "Sun protection", "Brand sponsorship"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The 1500m race is often considered which type of distance?",
+    "choices": ["Sprint", "Middle distance", "Long distance", "Ultra-distance"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Wilma Rudolph overcame a childhood illness to win Olympic gold in:",
+    "choices": ["Marathon", "Sprinting", "Long jump", "Hurdles"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The modern men's triple jump world record is approximately:",
+    "choices": ["17 meters", "18 meters", "19 meters", "20 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A steeplechase race is standardly run at what distance?",
+    "choices": ["2000m", "3000m", "4000m", "5000m"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Michael Johnson set the 400m world record in which year?",
+    "choices": ["1996", "1999", "2000", "2008"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The women's shot put weight is approximately:",
+    "choices": ["3 kg", "4 kg", "5 kg", "6 kg"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In long jump, the takeoff board is typically how far from the landing pit?",
+    "choices": ["1 meter", "1.22 meters", "1.5 meters", "2 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The modern decathlon point system awards points using:",
+    "choices": ["Simple addition", "Linear scoring", "Mathematical formulas per event", "Percentage of world record"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Roger Bannister broke the 4-minute mile barrier in which year?",
+    "choices": ["1952", "1954", "1956", "1960"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Katrin Krabbe was a notable East German sprinter during which era?",
+    "choices": ["1980s", "1990s", "2000s", "2010s"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Neeraj Chopra's men's javelin world record is approximately:",
+    "choices": ["87 meters", "88.17 meters", "89 meters", "90 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Donovan Bailey won the 100m Olympic gold medal in which year?",
+    "choices": ["1992", "1996", "2000", "2004"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The long jump runway is approximately how many meters long?",
+    "choices": ["30 meters", "40 meters", "45 meters", "50 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Tirunesh Dibaba is known primarily for competing in which distance events?",
+    "choices": ["Sprint", "Middle and long distance", "Hurdles", "Field events"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Jackie Joyner-Kersee set her heptathlon world record in which year?",
+    "choices": ["1984", "1988", "1992", "1996"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "The discus throw ring has a diameter of approximately:",
+    "choices": ["2 meters", "2.5 meters", "3 meters", "3.5 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Florence Griffith-Joyner's 100m world record time is:",
+    "choices": ["10.61 seconds", "10.65 seconds", "10.70 seconds", "10.75 seconds"],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "A men's hammer throw ball typically weighs:",
+    "choices": ["5 kg", "7.26 kg", "8 kg", "10 kg"],
+    "correctIndex": 1,
+    "difficulty": 0.90
+  },
+  {
+    "text": "Donovan Bailey, the 1996 Olympic 100m champion, is from which country?",
+    "choices": ["Jamaica", "Trinidad", "Canada", "USA"],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "The world record for the men's 5000m is approximately:",
+    "choices": ["12:37", "12:40", "12:51", "13:00"],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "In a track relay race, the athlete passes a baton to their teammate during the:",
+    "choices": ["Handoff zone", "Turn", "Stretch", "Final lap"],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  }
+]

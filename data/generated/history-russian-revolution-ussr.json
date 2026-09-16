@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In what year did the October Revolution occur?",
+    "choices": ["1905", "1917", "1922", "1924"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Who was the primary leader of the Bolshevik Revolution?",
+    "choices": ["Trotsky", "Lenin", "Stalin", "Kamenev"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What does USSR stand for?",
+    "choices": ["United Soviet Socialist Republics", "Union of Soviet Socialist Republics", "Universal Soviet Socialist State", "United States Soviet Republic"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which royal family was executed in 1918 during the Russian Revolution?",
+    "choices": ["Berkhamsted", "Romanov", "Bagration", "Rurikid"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What was the Russian Civil War primarily fought between?",
+    "choices": ["Whites and Greens", "Reds and Whites", "Bolsheviks and Mensheviks", "Communists and Anarchists"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which political party took power in the October Revolution?",
+    "choices": ["Mensheviks", "Bolsheviks", "Socialist Revolutionaries", "Kadets"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the Soviet Union officially established as in 1922?",
+    "choices": ["A federation of socialist republics", "A communist dictatorship", "A workers' cooperative state", "A revolutionary democracy"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who succeeded Lenin as leader of the Soviet Union?",
+    "choices": ["Trotsky", "Bukharin", "Stalin", "Zinoviev"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In what decade did Stalin implement rapid industrialization of the Soviet Union?",
+    "choices": ["1920s", "1930s", "1940s", "1950s"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was Lenin's New Economic Policy primarily designed to do?",
+    "choices": ["Prepare for war with the West", "Reintroduce limited market mechanisms", "Accelerate the revolution abroad", "Strengthen the military-industrial complex"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which czar abdicated the throne in March 1917?",
+    "choices": ["Ivan V", "Peter III", "Nicholas II", "Alexander III"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the name of the secret police agency established after the revolution?",
+    "choices": ["GRU", "Cheka", "NKVD", "FSB"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In what year did the Soviet Union collectivize agriculture, causing widespread famine?",
+    "choices": ["1927", "1932", "1937", "1941"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What was the name of Stalin's policy of rapid industrial and agricultural transformation?",
+    "choices": ["War Communism", "Five-Year Plans", "Glasnost", "Perestroika"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Soviet leader attempted to reform the system through glasnost and perestroika?",
+    "choices": ["Khrushchev", "Brezhnev", "Gorbachev", "Chernenko"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What happened to Trotsky after he lost the power struggle to Stalin?",
+    "choices": ["He was executed in Moscow", "He was exiled from the Soviet Union", "He became an ambassador", "He led a failed coup"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In what year did Germany invade the Soviet Union, breaking their non-aggression pact?",
+    "choices": ["1939", "1940", "1941", "1942"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was the Soviet response to the 1956 Hungarian uprising?",
+    "choices": ["Diplomatic negotiations", "Economic sanctions", "Military invasion", "A propaganda campaign"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who was the Soviet leader during the Cuban Missile Crisis of 1962?",
+    "choices": ["Khrushchev", "Brezhnev", "Malenkov", "Molotov"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What term describes Stalin's campaign to eliminate perceived enemies within the Communist Party?",
+    "choices": ["Collectivization", "The Great Purge", "War Communism", "The Thaw"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Soviet cosmonaut was the first human to orbit Earth?",
+    "choices": ["Valentina Tereshkova", "Yuri Gagarin", "Alexei Leonov", "Vladimir Komarov"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In what year did the Bolsheviks sign the Treaty of Brest-Litovsk with Germany?",
+    "choices": ["1917", "1918", "1919", "1920"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was War Communism, the economic policy used during the Russian Civil War?",
+    "choices": ["A mixed economy with private trade", "Centralized requisition of grain and production", "An alliance with Western capitalists", "A return to pre-revolutionary trade routes"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How many consecutive Five-Year Plans did Stalin implement?",
+    "choices": ["Three", "Four", "Five", "Six"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the primary cause of the Great Famine of 1932-1933 in the Soviet Union?",
+    "choices": ["Drought and climate change", "Forced collectivization and grain requisitions", "Poor harvests across Europe", "Trade embargoes by the West"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Central Asian region did the Soviets invade in 1979?",
+    "choices": ["Tajikistan", "Kazakhstan", "Afghanistan", "Uzbekistan"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was the primary goal of Lenin's Decree on Land issued in 1917?",
+    "choices": ["To establish collective farms", "To redistribute land to the peasants", "To increase agricultural exports", "To create state-owned plantations"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many Soviet republics were part of the USSR when it was formally established?",
+    "choices": ["11", "12", "15", "20"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the name of the Soviet security agency that succeeded the Cheka?",
+    "choices": ["NKVD", "KGB", "GRU", "SMERSH"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which ideological concept did Stalin develop that differed from earlier Bolshevik theory?",
+    "choices": ["Permanent revolution", "Socialism in one country", "Democratic centralism", "Permanent war communism"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the Berlin Blockade an attempt by Stalin to do in 1948-1949?",
+    "choices": ["Invade West Berlin", "Force the Western powers to abandon West Berlin", "Prevent German reunification", "Establish a Soviet puppet government"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In what year did Soviet tanks roll into Prague to suppress the Czechoslovak Spring?",
+    "choices": ["1965", "1967", "1968", "1970"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was Khrushchev's de-Stalinization process intended to address?",
+    "choices": ["Rapid industrialization failures", "Abuses and crimes committed under Stalin", "Agricultural collectivization problems", "Military weakness during World War II"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Approximately how many people died during Stalin's Great Purge (1936-1938)?",
+    "choices": ["500,000", "1-2 million", "5 million", "10 million"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What political reform did Gorbachev introduce that was intended to allow criticism of government policies?",
+    "choices": ["Perestroika", "Glasnost", "Demokratizatsiya", "Uskorenie"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which event marked the beginning of Soviet withdrawal from Eastern Europe in 1989?",
+    "choices": ["The fall of the Berlin Wall", "Solidarity's rise in Poland", "The Velvet Revolution in Czechoslovakia", "Hungary's opening of the border"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What percentage of Soviet industrial workers were reported to work in state enterprises by 1932?",
+    "choices": ["65%", "78%", "85%", "93%"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which Soviet leader was removed from power in 1964 after 11 years in office?",
+    "choices": ["Malenkov", "Khrushchev", "Kosygin", "Podgorny"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the Molotov-Ribbentrop Pact of 1939?",
+    "choices": ["A trade agreement", "A military alliance against Britain", "A non-aggression pact with secret protocols dividing Eastern Europe", "A mutual defense treaty"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In what year did Gorbachev become General Secretary of the Communist Party?",
+    "choices": ["1982", "1984", "1985", "1987"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What was the estimated death toll from the Soviet-Afghan War (1979-1989)?",
+    "choices": ["50,000-100,000", "200,000-300,000", "500,000-1 million", "1-2 million"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which Soviet marshal led the defense of Stalingrad during World War II?",
+    "choices": ["Konev", "Zhukov", "Chuikov", "Timoshenko"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the 19th Party Conference of 1988 primarily focused on?",
+    "choices": ["Military modernization", "Agricultural reform", "Radical restructuring and democratization of the Soviet system", "International expansion"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In what year did the Soviet Union formally dissolve, ending its existence?",
+    "choices": ["1989", "1990", "1991", "1992"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the name of the failed coup attempt against Gorbachev in August 1991?",
+    "choices": ["The October Putsch", "The August Putsch", "Operation Restore Order", "The Hardliners' Coup"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  }
+]

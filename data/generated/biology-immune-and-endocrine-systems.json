@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Which white blood cell type produces antibodies in response to infections?",
+    "choices": ["Neutrophil", "B lymphocyte", "Macrophage", "Natural killer cell"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The thyroid gland produces hormones that regulate which bodily process?",
+    "choices": ["Bone density only", "Metabolism and growth", "Blood calcium only", "Kidney function"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the primary function of the pancreas in blood glucose regulation?",
+    "choices": ["Stores glucose as fat", "Produces insulin to lower glucose", "Increases blood sugar only", "Filters glucose from blood"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which antibody type is most abundant in human blood plasma?",
+    "choices": ["IgE", "IgA", "IgG", "IgM"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What do dendritic cells do in the adaptive immune response?",
+    "choices": ["Directly kill infected cells", "Present antigens to T cells", "Produce antibodies", "Form physical barriers"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The adrenal glands sit on top of which organs?",
+    "choices": ["Thyroid glands", "Pancreas", "Kidneys", "Liver"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which hormone increases blood glucose when levels drop?",
+    "choices": ["Insulin", "Glucagon", "Cortisol", "Epinephrine"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the role of memory B cells in immunity?",
+    "choices": ["Kill infected cells immediately", "Provide rapid response to future infections", "Produce antibodies once only", "Destroy all foreign particles"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Cytotoxic T cells recognize infected cells through which molecules?",
+    "choices": ["Antibodies on the surface", "MHC class I molecules", "Complement proteins", "Histamine receptors"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which gland produces calcitonin to regulate blood calcium levels?",
+    "choices": ["Parathyroid glands", "Thyroid gland", "Adrenal medulla", "Pancreatic islets"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What triggers the release of epinephrine during a stress response?",
+    "choices": ["Thyroid hormones", "Sympathetic nervous system activation", "Antibody binding", "Antigen presentation"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "IgE antibodies are primarily involved in which type of immune response?",
+    "choices": ["Bacterial infections", "Allergic reactions", "Viral immunity", "Cancer immunity"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which of the following is a characteristic of innate immunity?",
+    "choices": ["Requires prior exposure to antigen", "Includes skin and mucus membranes", "Depends on antibody production", "Develops only after vaccination"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the main function of the thymus gland?",
+    "choices": ["Produces thyroid hormone", "Develops and trains T lymphocytes", "Stores glucose", "Filters blood antigens"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How does negative feedback regulate thyroid hormone secretion?",
+    "choices": ["TSH stimulates more hormone production", "Excess thyroid hormone inhibits TSH release", "Thyroid hormones always increase", "Only positive feedback exists"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which type of vaccine contains weakened or dead pathogen?",
+    "choices": ["Live attenuated vaccine", "Inactivated vaccine", "mRNA vaccine", "Viral vector vaccine"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What do complement proteins primarily do in immune response?",
+    "choices": ["Produce antibodies", "Mark pathogens for destruction and cause inflammation", "Transport hormones", "Regulate blood glucose"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The anterior pituitary secretes which hormone that controls the thyroid?",
+    "choices": ["Thyroid hormone (T3/T4)", "Thyroid-stimulating hormone (TSH)", "Cortisol", "Growth hormone"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the primary structural component of an antibody molecule?",
+    "choices": ["A single polypeptide chain", "Four polypeptide chains with variable regions", "A circular DNA molecule", "A lipid bilayer"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How do mRNA vaccines trigger immune response?",
+    "choices": ["They inject viral proteins directly", "They instruct cells to produce viral antigen", "They contain killed virus particles", "They block immune cells"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What condition results from destruction of insulin-producing cells?",
+    "choices": ["Type 1 diabetes", "Hypothyroidism", "Cushing's syndrome", "Graves' disease"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which cell type is responsible for immediate allergic reactions?",
+    "choices": ["Mast cells", "T lymphocytes", "Red blood cells", "Platelets"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the function of parathyroid hormone?",
+    "choices": ["Increases blood calcium levels", "Decreases metabolism", "Regulates immune cells", "Controls epinephrine release"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which autoimmune disease attacks the thyroid gland, causing hypothyroidism?",
+    "choices": ["Hashimoto's thyroiditis", "Graves' disease", "Addison's disease", "Type 1 diabetes"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What role do regulatory T cells play in immunity?",
+    "choices": ["Suppress excessive immune responses", "Attack all pathogens", "Produce all antibodies", "Block hormone release"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "During inflammation, which cells are typically the first to arrive at infection site?",
+    "choices": ["Neutrophils", "B lymphocytes", "Erythrocytes", "Platelets"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is hypersensitivity Type II characterized by?",
+    "choices": ["Antibody binding to cell surface antigens", "Delayed T cell response", "IgE-mediated reaction", "Immune complex deposition"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How does cortisol affect immune function during stress?",
+    "choices": ["Suppresses immune response", "Enhances antibody production only", "Has no effect", "Always improves immunity"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the primary target of HIV infection in the immune system?",
+    "choices": ["CD4+ T cells", "B lymphocytes only", "Red blood cells", "Neutrophils"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which hormone is produced by the posterior pituitary and regulates water balance?",
+    "choices": ["Antidiuretic hormone (ADH)", "Oxytocin only", "Prolactin", "ACTH"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the name of the hormone-responsive feedback mechanism in endocrine regulation?",
+    "choices": ["Negative feedback loop", "Positive feedback loop", "Feedforward mechanism", "Enzyme cascade"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which of the following best describes the difference between innate and adaptive immunity?",
+    "choices": ["Innate is non-specific and immediate; adaptive is specific and slower", "Innate uses antibodies; adaptive uses T cells only", "Innate is permanent; adaptive is temporary", "Adaptive is non-specific; innate is specific"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the role of helper T cells in adaptive immunity?",
+    "choices": ["Coordinate immune response by releasing cytokines", "Directly destroy pathogens", "Produce antibodies independently", "Filter pathogens from blood"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Graves' disease is caused by autoantibodies against which receptor?",
+    "choices": ["TSH receptor on thyroid cells", "Insulin receptor on muscle", "Glucagon receptor on liver", "Cortisol receptor on immune cells"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which hormone maintains the body's circadian rhythm?",
+    "choices": ["Melatonin", "Serotonin", "Dopamine", "Oxytocin"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What do opsonins do in immune response?",
+    "choices": ["Mark pathogens for destruction", "Activate complement cascade", "Produce antibodies", "Block hormone receptors"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which type of T cell response is impaired in DiGeorge syndrome?",
+    "choices": ["T cell development is affected", "B cell function is primarily affected", "Antibody production is the main issue", "Only natural killer cells are affected"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the mechanism of action of tetanus vaccine?",
+    "choices": ["Provides antibodies against tetanus toxin", "Kills all bacteria", "Boosts natural killer cells", "Triggers allergic response"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How do checkpoint inhibitors enhance cancer immunity?",
+    "choices": ["Remove immune suppression signals on T cells", "Destroy tumor cells directly", "Produce new antibodies", "Block all hormone signals"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which hormone is elevated in patients with primary hyperaldosteronism?",
+    "choices": ["Aldosterone", "Cortisol", "ACTH", "Epinephrine"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is affinity maturation in the context of antibody response?",
+    "choices": ["Increased antibody binding strength after antigen exposure", "First antibody production after vaccination", "Antibody formation in blood serum", "Immune cell death after infection"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In Type IV hypersensitivity, which immune cell type is primarily responsible?",
+    "choices": ["Effector T cells", "Mast cells", "B lymphocytes", "Neutrophils"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the relationship between the HPA axis and immune function?",
+    "choices": ["Cortisol release suppresses immune response during stress", "Stress hormones enhance all immune responses", "HPA axis has no immune connection", "Immune cells control HPA axis"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which cytokine is critical for Th1 differentiation?",
+    "choices": ["Interferon-gamma", "IL-4", "IL-10", "TGF-beta"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What causes the loss of immune tolerance in autoimmune diseases?",
+    "choices": ["Regulatory T cells fail to suppress autoreactive cells", "B cells produce more antibodies", "Innate immunity becomes too strong", "Hormones trigger antibody production"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How does the blood-brain barrier affect immune response in CNS infections?",
+    "choices": ["Restricts immune cell entry, requiring specialized mechanisms", "Enhances antibody production in the brain", "Completely blocks all immune responses", "Allows unrestricted immune cell passage"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary mechanism of passive immunity from vaccination?",
+    "choices": ["The body produces its own antibodies", "Pre-formed antibodies are transferred", "T cells are activated directly", "Natural killer cells are stimulated"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which endocrine tumor secretes excessive ACTH, causing Cushing's syndrome?",
+    "choices": ["Pituitary adenoma", "Thyroid follicular adenoma", "Pancreatic beta cell tumor", "Parathyroid adenoma"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  }
+]

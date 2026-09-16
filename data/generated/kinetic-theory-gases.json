@@ -1,0 +1,650 @@
+[
+  {
+    "text": "In the kinetic theory of an ideal gas, pressure on the container walls arises from molecules:",
+    "choices": ["Expanding continuously", "Colliding with the walls", "Attracting one another strongly", "Changing chemical identity"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which temperature scale is used in the simplest kinetic-theory formulas?",
+    "choices": ["Celsius", "Fahrenheit", "Kelvin", "Rankine only for gases"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "For a fixed amount of ideal gas at constant temperature, pressure is inversely proportional to:",
+    "choices": ["Volume", "Molar mass", "Heat capacity", "Entropy"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Which gas law is summarized by PV = constant for a fixed amount of gas at constant temperature?",
+    "choices": ["Charles's law", "Boyle's law", "Gay-Lussac's law", "Avogadro's law"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "At constant pressure, the volume of an ideal gas is directly proportional to its:",
+    "choices": ["Absolute temperature", "Density", "Molecular diameter", "Viscosity"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?",
+    "choices": ["Dalton's law", "Avogadro's law", "Graham's law", "Henry's law"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "The ideal-gas equation for n moles is:",
+    "choices": ["PV = nRT", "P/T = nRV", "PT = nV/R", "PV/T = n/R"],
+    "correctIndex": 0,
+    "difficulty": 0.09
+  },
+  {
+    "text": "In kinetic theory, the average translational kinetic energy of a molecule depends only on:",
+    "choices": ["Pressure", "Temperature", "Volume", "Container shape"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "For an ideal gas, the average translational kinetic energy per molecule is proportional to:",
+    "choices": ["T", "1/T", "P/T", "V/T"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "If the absolute temperature of an ideal gas doubles, the average molecular kinetic energy:",
+    "choices": ["Halves", "Doubles", "Quadruples", "Stays the same"],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "The quantity most closely tied to the square root of the mean of squared molecular speeds is the:",
+    "choices": ["Most probable speed", "Average drift speed", "Root-mean-square speed", "Escape speed"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "For an ideal gas, the rms molecular speed varies with temperature roughly as:",
+    "choices": ["T", "sqrt(T)", "1/T", "T^2"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "At the same temperature, which gas has the higher typical molecular speed?",
+    "choices": ["A heavier gas", "A lighter gas", "Both have identical speeds regardless of mass", "Only monatomic gases have speed"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "According to Graham's law, the rate of effusion of a gas is inversely proportional to the square root of its:",
+    "choices": ["Pressure", "Volume", "Molar mass", "Temperature"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Effusion refers to gas molecules passing through:",
+    "choices": ["A porous solid by repeated collisions", "A tiny hole into a low-pressure region", "A liquid interface only", "A turbine blade passage"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Diffusion in gases is the spontaneous tendency of molecules to move from regions of:",
+    "choices": ["Lower concentration to higher concentration", "Higher concentration to lower concentration", "Lower pressure to lower temperature only", "Uniform density to sharp layering"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which assumption belongs to the simplest ideal-gas kinetic model?",
+    "choices": ["Molecules occupy a large fraction of the container volume", "Collisions between molecules are perfectly inelastic", "Intermolecular forces are negligible except during collisions", "Each molecule spins with the same angular speed"],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Collisions in the basic kinetic theory of ideal gases are treated as:",
+    "choices": ["Elastic", "Chemically reactive", "Perfectly sticky", "Always glancing"],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  },
+  {
+    "text": "If gas molecules were made smaller while all else stayed the same, the ideal-gas approximation would generally become:",
+    "choices": ["Worse", "Better", "Undefined", "Independent of size"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The mean free path is the average distance a molecule travels between:",
+    "choices": ["Wall impacts only", "Chemical reactions", "Successive collisions", "Temperature changes"],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "At fixed temperature, increasing gas pressure usually makes the mean free path:",
+    "choices": ["Longer", "Shorter", "Exactly unchanged", "Negative"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "At fixed pressure, heating an ideal gas generally causes its mean free path to:",
+    "choices": ["Increase", "Decrease", "Become zero", "Alternate sign"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which molecular-speed distribution is the standard equilibrium result for a classical ideal gas?",
+    "choices": ["Poisson", "Maxwell-Boltzmann", "Lorentzian", "Binomial"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "In a Maxwell-Boltzmann speed distribution, the area under the entire curve represents:",
+    "choices": ["Total pressure", "One hundred percent of the molecules", "The mean free path", "The internal energy per mole"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "When the temperature of a gas increases, the Maxwell-Boltzmann speed distribution tends to:",
+    "choices": ["Shift toward higher speeds and broaden", "Shift toward lower speeds and narrow", "Stay identical", "Collapse to a single speed"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the kinetic-theory expression P = (1/3) rho <v^2>, rho denotes the gas:",
+    "choices": ["Entropy density", "Mass density", "Charge density", "Number of phases"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Why does the factor 1/3 appear in the pressure formula derived from isotropic molecular motion?",
+    "choices": ["Only one-third of molecules collide", "Only translational energy matters in one of three dimensions on average", "Volume is always divided into three chambers", "It corrects for inelastic losses"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "For a monatomic ideal gas, the internal energy is due primarily to:",
+    "choices": ["Translational kinetic energy", "Permanent intermolecular attractions", "Bond vibration", "Electronic ionization at room temperature"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many translational degrees of freedom does a gas molecule have in ordinary three-dimensional space?",
+    "choices": ["One", "Two", "Three", "Six"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The equipartition theorem assigns an average energy of what amount to each quadratic degree of freedom in thermal equilibrium?",
+    "choices": ["kT", "kT/2", "3kT/2", "RT"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "For a monatomic ideal gas, the molar heat capacity at constant volume is ideally closest to:",
+    "choices": ["R/2", "R", "3R/2", "5R/2"],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "For a monatomic ideal gas, the molar heat capacity at constant pressure is ideally:",
+    "choices": ["3R/2", "2R", "5R/2", "7R/2"],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "For a monatomic ideal gas, the heat-capacity ratio gamma = Cp/Cv is:",
+    "choices": ["1", "4/3", "5/3", "7/5"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The value gamma = 7/5 is commonly associated with an ideal gas whose active modes are approximately:",
+    "choices": ["Three translational only", "Three translational plus two rotational", "Three translational plus three rotational", "Three translational plus one vibrational only"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Why can real diatomic gases depart from the simplest equipartition prediction at low temperatures?",
+    "choices": ["Their molecules stop moving entirely", "Some energy modes are not effectively excited", "Pressure becomes independent of temperature", "Avogadro's law fails for all gases"],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "At constant volume, adding heat to an ideal gas primarily increases its:",
+    "choices": ["Molecular kinetic energy", "PV work output", "Number of molecules automatically", "External pressure"],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "During an isothermal expansion of an ideal gas, the average kinetic energy of the molecules:",
+    "choices": ["Increases", "Decreases", "Stays the same", "Becomes undefined"],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "If an ideal gas is compressed adiabatically and reversibly, its temperature usually:",
+    "choices": ["Falls", "Rises", "Stays constant", "Must reach 0 K"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which process best describes heating a sealed rigid tank of gas?",
+    "choices": ["Isobaric", "Isochoric", "Isothermal", "Adiabatic"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which process keeps the gas pressure fixed while temperature and volume may both change?",
+    "choices": ["Isochoric", "Adiabatic", "Isobaric", "Free expansion"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "A graph of pressure versus volume for Boyle's law at fixed temperature has the shape of a:",
+    "choices": ["Straight line through the origin", "Horizontal line", "Rectangular hyperbola", "Parabola opening upward"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "When an ideal gas is heated at constant pressure, which quantity must increase?",
+    "choices": ["Volume", "Molar mass", "Collision elasticity", "Number of species"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What happens to the density of an ideal gas in a flexible container as temperature rises at constant pressure?",
+    "choices": ["It increases", "It decreases", "It stays exactly the same", "It oscillates around zero"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "At equal temperature and pressure, one mole of an ideal gas occupies the same volume as:",
+    "choices": ["Half a mole of any other gas", "One mole of any other ideal gas", "Only one mole of a monatomic gas", "A mass of gas equal to one gram"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The partial pressure of a gas in a mixture is the pressure it would exert if it alone occupied the container at the same:",
+    "choices": ["Volume and temperature", "Entropy and enthalpy", "Molar mass and density", "Chemical potential and viscosity"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Dalton's law says that the total pressure of an ideal gas mixture equals the:",
+    "choices": ["Average of the partial pressures", "Largest partial pressure only", "Sum of the partial pressures", "Product of mole fractions"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A barometer measures atmospheric pressure by balancing it against the weight of a fluid column, historically often:",
+    "choices": ["Water vapor", "Mercury", "Olive oil", "Liquid nitrogen"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Why does atmospheric pressure decrease with altitude in the simplest model?",
+    "choices": ["Molecules lose mass as they rise", "There is less overlying air above you", "Gravity vanishes completely", "Collisions stop above sea level"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "The barometric formula for an isothermal atmosphere reflects a competition between thermal motion and:",
+    "choices": ["Surface tension", "Gravity", "Electric charge", "Viscosity alone"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Brownian motion provided early evidence that matter is made of:",
+    "choices": ["Continuous fluids without particles", "Atoms and molecules in constant motion", "Only charged particles", "Perfect crystals"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which scientist is most closely associated with the quantitative explanation of Brownian motion in 1905?",
+    "choices": ["Einstein", "Carnot", "Boyle", "Kelvin"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Viscosity in a gas can be understood microscopically as transport of:",
+    "choices": ["Momentum", "Electric charge only", "Chemical bonds", "Nuclear spin"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Thermal conductivity in a gas is mainly the transport of:",
+    "choices": ["Volume", "Momentum", "Energy", "Molar mass"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Self-diffusion in a pure gas involves net spreading of tagged molecules because of random molecular:",
+    "choices": ["Creation", "Collisions and motion", "Ionization only", "Spin flips"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In kinetic theory, the collision frequency for a molecule generally increases when the gas becomes:",
+    "choices": ["More rarefied", "Hotter and denser enough to boost encounter rates", "Perfectly still at 0 K only", "Chemically simpler"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does it mean for the molecular velocity distribution to be isotropic?",
+    "choices": ["All molecules move at the same speed", "Velocities are equally likely in all directions", "Only vertical motion occurs", "The gas has no temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "If a gas has a bulk flow velocity through a pipe, the random thermal motion of molecules is best described as:",
+    "choices": ["Replaced entirely by the flow speed", "Superimposed on the overall drift motion", "Zero in the pipe frame", "Impossible to define"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The most probable speed in a Maxwell distribution is the speed at which the distribution function is:",
+    "choices": ["Zero", "Largest", "Most symmetric in pressure", "Equal to the rms speed by definition"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "For a Maxwellian gas, which speed is typically largest?",
+    "choices": ["Most probable speed", "Mean speed", "Rms speed", "They are always identical"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The relation vrms = sqrt(3kT/m) uses m to denote the mass of:",
+    "choices": ["One mole of gas", "A single molecule", "The entire sample", "Only a diatomic pair"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In the molar form vrms = sqrt(3RT/M), M stands for the gas's:",
+    "choices": ["Magnetic moment", "Molar mass", "Mean free path", "Mechanical work"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which statement best matches an ideal gas during free expansion into vacuum?",
+    "choices": ["It does positive boundary work on the surroundings", "No external pressure means no PV work is done", "Its pressure stays constant throughout the entire process", "Its molecules stop colliding"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "For an ideal gas, the internal energy depends primarily on:",
+    "choices": ["Temperature", "Pressure only", "Volume only", "Container material only"],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Real gases deviate most strongly from ideal behavior when they are at:",
+    "choices": ["Low pressure and high temperature", "High pressure and low temperature", "Exactly one atmosphere only", "Very low density and very high temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In the van der Waals equation, the parameter b mainly accounts for the molecules':",
+    "choices": ["Electric charge", "Finite size", "Internal vibration frequency", "Chemical valence"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "In the van der Waals equation, the parameter a mainly represents:",
+    "choices": ["Repulsive hard-core size", "Attractive intermolecular forces", "Molar heat capacity", "Number of atoms per molecule"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The compressibility factor of a gas is defined as:",
+    "choices": ["PV/(nRT)", "nRT/PV", "Cp/Cv", "P/(rho T^2)"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "For an ideal gas, the compressibility factor Z equals:",
+    "choices": ["0", "1", "R", "Depends on container shape"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "If a real gas has Z less than 1 under some conditions, that often suggests net attractive forces are:",
+    "choices": ["Dominating enough to reduce pressure below ideal", "Absent entirely", "Making the gas incompressible", "Causing the temperature to be negative"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "If a real gas has Z greater than 1 at high pressure, that often indicates the importance of:",
+    "choices": ["Finite molecular size and repulsion", "No collisions at all", "Negative absolute temperature", "Perfect vacuum behavior"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The virial expansion is useful because it expresses non-ideal gas behavior as corrections to the ideal law in powers of:",
+    "choices": ["Pressure or inverse molar volume", "Entropy alone", "Temperature cubed only", "Molar heat capacity"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "The second virial coefficient is especially sensitive to:",
+    "choices": ["Pairwise intermolecular interactions", "Only three-body quantum tunneling", "The gas constant's unit system", "The shape of the container walls only"],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "At the Boyle temperature of a real gas, the second virial coefficient is:",
+    "choices": ["Exactly one", "Exactly zero", "Equal to the critical pressure", "Always negative"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A Knudsen number compares the molecular mean free path to a characteristic:",
+    "choices": ["Reaction enthalpy", "System length scale", "Electrical resistance", "Molar heat capacity"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Gas flow is most likely to enter the free-molecular regime when the Knudsen number is:",
+    "choices": ["Much less than 1", "About zero only", "Much greater than 1", "Exactly equal to 1/3"],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The continuum approximation for a gas is usually best when the mean free path is:",
+    "choices": ["Comparable to the device size", "Much smaller than the device size", "Larger than the Earth", "Negative by convention"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In an idealized monatomic gas, sound waves propagate because compression produces restoring changes in:",
+    "choices": ["Pressure", "Chemical identity", "Electron spin", "Atomic number"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "For an ideal gas, the speed of sound depends on gamma, R, T, and inversely on the square root of:",
+    "choices": ["Pressure", "Molar mass", "Volume", "Density only through no other variables"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "At the same temperature, helium has a higher speed of sound than many heavier gases mainly because helium has a lower:",
+    "choices": ["Pressure", "Molar mass", "Heat capacity ratio", "Number of atoms in the universe"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The microscopic origin of gas pressure can be traced to molecules changing their momentum upon:",
+    "choices": ["Radiative decay", "Colliding with boundaries", "Becoming liquid", "Losing entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In deriving kinetic theory, why do cross terms like vxvy average to zero in equilibrium?",
+    "choices": ["They are forbidden by Newton's laws", "Random directions make positive and negative contributions cancel", "Molecules only move along axes", "The gas is assumed to rotate rigidly"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A molecule's momentum is conserved in a collision with another molecule if the system is treated as isolated during the encounter, reflecting conservation of:",
+    "choices": ["Charge density only", "Linear momentum", "Temperature", "Pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What macroscopic quantity is directly linked to the average translational kinetic energy per mole, equal to 3RT/2 for a monatomic ideal gas?",
+    "choices": ["Internal energy", "Gibbs free energy", "Compressibility factor", "Boiling point"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Why does an ideal gas exert the same pressure in all directions at equilibrium?",
+    "choices": ["Gravity cancels molecular motion", "The velocity distribution is isotropic", "Every collision has the same speed", "The molecules are motionless on average"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "If the number of molecules in a rigid container is doubled while temperature stays fixed, the ideal-gas pressure will:",
+    "choices": ["Halve", "Stay the same", "Double", "Increase by a factor of four"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "If the volume of a sealed sample of ideal gas is halved at constant temperature, the pressure will ideally:",
+    "choices": ["Halve", "Double", "Stay unchanged", "Drop to zero"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "If absolute temperature is doubled for an ideal gas in a rigid container, the pressure will ideally:",
+    "choices": ["Halve", "Double", "Stay unchanged", "Quadruple"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which experimental result most directly supported the existence of molecules long before they could be imaged individually?",
+    "choices": ["Planetary retrograde motion", "Brownian motion of suspended particles", "The photoelectric effect only", "Superconductivity"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Loschmidt's number is another name historically associated with the number of particles in:",
+    "choices": ["A cubic centimeter at STP only", "One mole", "A single atom", "One kelvin of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Boltzmann's constant connects microscopic energy scales to macroscopic temperature. It is related to the gas constant by:",
+    "choices": ["k = R NA", "k = R/NA", "k = NA/R", "k = RT"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "If two ideal-gas samples have the same temperature, what must be the same for each molecule on average?",
+    "choices": ["Their speed", "Their mass", "Their translational kinetic energy", "Their momentum magnitude"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "At one fixed temperature, which molecules have the larger average speed: O2 or H2?",
+    "choices": ["O2", "H2", "They are equal", "It depends only on pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which statement best distinguishes speed from velocity for gas molecules?",
+    "choices": ["Speed includes direction; velocity does not", "Velocity includes direction; speed is its magnitude", "They are identical in all contexts", "Only speed is a vector"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "In equilibrium with no bulk flow, the vector average of molecular velocities in a gas is:",
+    "choices": ["Large and positive", "Equal to the rms speed", "Approximately zero", "Always the speed of sound"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Why is the average speed of molecules not zero even though the average velocity can be zero?",
+    "choices": ["Speed is a scalar magnitude and cannot cancel by direction", "Average velocity is measured incorrectly", "Speeds can be negative", "Only liquids have directional cancellation"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The statement that entropy tends to increase in an isolated gas during spontaneous spreading is explained statistically by the fact that:",
+    "choices": ["Lower-probability macrostates dominate", "More disordered macrostates correspond to more accessible microstates", "Pressure always rises in isolation", "Energy must vanish into the surroundings"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A vacuum pump lowers gas pressure in a chamber mainly by removing molecules, which reduces the number density and therefore the:",
+    "choices": ["Frequency of wall collisions", "Value of Boltzmann's constant", "Chemical element count in the periodic table", "Need for a temperature scale"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In the kinetic picture, heating a gas in a rigid vessel raises pressure because molecules strike the walls:",
+    "choices": ["Less often and less hard", "More often and with larger momentum changes", "Only vertically", "Without conserving momentum"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "For an ideal gas mixture in equilibrium, each component species at the same temperature has the same average translational kinetic energy per molecule despite having different:",
+    "choices": ["Temperatures", "Masses", "Pressures everywhere", "Mole fractions summing above one"],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which historical figure is most associated with the probabilistic interpretation of entropy and the H-theorem?",
+    "choices": ["Boltzmann", "Pascal", "Charles", "Faraday"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The H-theorem was intended to show, under model assumptions, a tendency for a dilute gas to evolve toward:",
+    "choices": ["Perfect crystallinity", "Maxwellian equilibrium", "Zero pressure", "Infinite mean free path"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The molecular chaos assumption used in Boltzmann's kinetic equation concerns the lack of strong pre-collision correlations between:",
+    "choices": ["Wall atoms and gravity", "Incoming particle velocities", "Temperature and volume units", "Pressure and entropy axes"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The Boltzmann transport equation is fundamentally an equation for the evolution of a gas's single-particle distribution in:",
+    "choices": ["Phase space", "Color space", "Chemical formula notation", "Crystal lattice coordinates only"],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In rarefied-gas dynamics, slip flow refers to the breakdown of the no-slip assumption because the mean free path is not negligible compared with the:",
+    "choices": ["Atomic number", "Channel dimension", "Gas constant", "Molar entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which law connects diffusion flux to a concentration gradient in the simplest continuum treatment?",
+    "choices": ["Fick's law", "Snell's law", "Faraday's law", "Kirchhoff's law"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "A gas in thermal equilibrium next to a wall at the same temperature has no net heat flow because molecular energy exchange is balanced on:",
+    "choices": ["Average", "Odd-numbered collisions only", "Weekends", "A logarithmic time axis"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "If all intermolecular attractions in a real gas could suddenly be turned off while keeping density low, the gas would generally behave more:",
+    "choices": ["Like an ideal gas", "Like a solid", "Like a plasma only", "Like an incompressible liquid"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which one is the best microscopic explanation for why gases fill their containers?",
+    "choices": ["Molecules randomly move and spread through accessible space", "Gravity pushes every molecule outward from the center", "Gas pressure exists only at the walls, not inside the volume", "Every gas sample seeks a spherical shape"],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  }
+]

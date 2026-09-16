@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which president appears on the one-dollar bill?",
+    "choices": ["Thomas Jefferson", "George Washington", "Abraham Lincoln", "Benjamin Franklin"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many consecutive terms did Franklin D. Roosevelt win?",
+    "choices": ["2 terms", "3 terms", "4 terms", "5 terms"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who was the youngest president to assume office?",
+    "choices": ["Theodore Roosevelt", "Bill Clinton", "John F. Kennedy", "George W. Bush"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which president was never elected to the presidency?",
+    "choices": ["Gerald Ford", "Millard Fillmore", "Andrew Johnson", "Chester Arthur"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Ronald Reagan worked in which entertainment industry before politics?",
+    "choices": ["Broadway theater", "Motion pictures", "Professional sports", "Radio broadcasting"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Abraham Lincoln was assassinated in what year?",
+    "choices": ["1862", "1863", "1864", "1865"],
+    "correctIndex": 3,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which president served two non-consecutive terms?",
+    "choices": ["Grover Cleveland", "Theodore Roosevelt", "William McKinley", "Benjamin Harrison"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who was the first president born as a U.S. citizen?",
+    "choices": ["John Adams", "James Madison", "Martin Van Buren", "Andrew Jackson"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Kennedy was killed in which city?",
+    "choices": ["Fort Worth", "Dallas", "Houston", "San Antonio"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which president created the New Deal program?",
+    "choices": ["Theodore Roosevelt", "Harry Truman", "Franklin D. Roosevelt", "Dwight Eisenhower"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Panama Canal was a major accomplishment of which president?",
+    "choices": ["William McKinley", "Theodore Roosevelt", "William Howard Taft", "Woodrow Wilson"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which president issued the Emancipation Proclamation?",
+    "choices": ["Andrew Johnson", "Ulysses S. Grant", "Abraham Lincoln", "James Buchanan"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Dwight Eisenhower championed the creation of which infrastructure system?",
+    "choices": ["Transcontinental railroads", "Interstate Highway System", "Erie Canal", "Transcontinental telegraph"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Cuban Missile Crisis occurred during which presidency?",
+    "choices": ["Dwight Eisenhower", "John F. Kennedy", "Lyndon B. Johnson", "Richard Nixon"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which president signed the Civil Rights Act of 1964?",
+    "choices": ["John F. Kennedy", "Harry Truman", "Lyndon B. Johnson", "Richard Nixon"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who was the only president to resign from office?",
+    "choices": ["Gerald Ford", "James Buchanan", "Richard Nixon", "Andrew Johnson"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Great Society program was a hallmark of which administration?",
+    "choices": ["Harry Truman", "Dwight Eisenhower", "John F. Kennedy", "Lyndon B. Johnson"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which president negotiated the Camp David Accords?",
+    "choices": ["Lyndon B. Johnson", "Jimmy Carter", "Gerald Ford", "Ronald Reagan"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is the only president impeached and convicted?",
+    "choices": ["Andrew Johnson", "Andrew Jackson", "Ulysses S. Grant", "Warren Harding"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Monroe Doctrine was proclaimed by which president?",
+    "choices": ["Thomas Jefferson", "James Monroe", "John Quincy Adams", "James Madison"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What major purchase did Thomas Jefferson arrange with France?",
+    "choices": ["Florida Territory", "Texas", "Louisiana Territory", "Oregon Territory"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "William Henry Harrison died after serving how many days?",
+    "choices": ["31 days", "100 days", "200 days", "1 year"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "John Tyler assumed the presidency without being elected. How did this occur?",
+    "choices": ["Assassination of predecessor", "Succession through death of president", "Electoral tie", "Appointment by Congress"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "James K. Polk successfully achieved which major territorial expansion goals?",
+    "choices": ["Annex Texas, acquire Oregon, win Mexican-American War territory", "Annex Canada and Florida", "Purchase Alaska", "Control Caribbean islands"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which controversial legislation did Franklin Pierce support that deepened sectional tensions?",
+    "choices": ["Compromise of 1850", "Kansas-Nebraska Act", "Dred Scott decision", "Lecompton Constitution"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "James Buchanan is historically criticized for his inaction regarding which crisis?",
+    "choices": ["Nullification crisis", "Succession and pre-war tensions", "Panic of 1857", "Know-Nothing movement"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "James A. Garfield was assassinated after serving approximately how long?",
+    "choices": ["4 months", "6 months", "10 months", "1 year"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Chester Arthur is primarily remembered for reforming which government system?",
+    "choices": ["Interstate commerce", "Civil service examinations", "Currency", "Military ranks"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which president was known as the 'Rough Rider'?",
+    "choices": ["Benjamin Harrison", "Theodore Roosevelt", "William McKinley", "Grover Cleveland"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "William Howard Taft served as the first head of which cabinet department?",
+    "choices": ["State Department", "Commerce Department", "War Department", "Interior Department"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Woodrow Wilson championed which international organization after World War I?",
+    "choices": ["United Nations", "League of Nations", "Warsaw Pact", "North Atlantic Alliance"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which president appointed the most Supreme Court justices?",
+    "choices": ["George Washington", "Thomas Jefferson", "Franklin D. Roosevelt", "Ronald Reagan"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Harry Truman approved the use of atomic weapons against which nation?",
+    "choices": ["Germany", "Italy", "Japan", "Soviet Union"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Truman Doctrine was designed to contain which nation's influence?",
+    "choices": ["China", "Nazi Germany", "Japan", "Soviet Union"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which president's administration executed the Marshall Plan?",
+    "choices": ["Dwight Eisenhower", "Harry Truman", "George H.W. Bush", "Bill Clinton"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Richard Nixon's groundbreaking diplomatic visit was to which country?",
+    "choices": ["Soviet Union", "Vietnam", "China", "Japan"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Gerald Ford's most controversial act was pardoning whom?",
+    "choices": ["Spiro Agnew", "John Mitchell", "Richard Nixon", "H.R. Haldeman"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which father-son pair both served as presidents?",
+    "choices": ["John Adams and John Quincy Adams", "William Henry Harrison and Benjamin Harrison", "Theodore Roosevelt and Franklin D. Roosevelt", "George H.W. Bush and George W. Bush"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Ronald Reagan's economic policy was commonly referred to as which term?",
+    "choices": ["Thumbs up economics", "Reaganomics", "Morning in America policy", "Conservative capitalism"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How did Calvin Coolidge assume the presidency?",
+    "choices": ["Electoral college victory", "Assassination of predecessor", "Succession upon Warren Harding's death", "Cabinet succession"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Herbert Hoover was often blamed for his response to which economic crisis?",
+    "choices": ["Panic of 1893", "Stock market collapse of 1929", "Energy crisis of the 1970s", "Savings and loan crisis"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Benjamin Harrison presided during the expansion of which military strategy?",
+    "choices": ["Continental expansion", "Naval imperialism", "Revolutionary radicalism", "Manifest destiny"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "John Quincy Adams served in which role after his presidency?",
+    "choices": ["U.S. Senator", "Governor of Massachusetts", "U.S. House of Representatives", "Supreme Court Justice"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which president is associated with the phrase 'speak softly and carry a big stick'?",
+    "choices": ["William McKinley", "Theodore Roosevelt", "Grover Cleveland", "Benjamin Harrison"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Woodrow Wilson suffered a severe health crisis during his presidency. In what year?",
+    "choices": ["1917", "1918", "1919", "1920"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How many cabinet positions did George Washington establish?",
+    "choices": ["2 departments", "3 departments", "4 departments", "5 departments"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  }
+]

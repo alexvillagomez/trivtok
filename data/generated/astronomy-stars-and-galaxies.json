@@ -1,0 +1,296 @@
+[
+  {
+    "text": "What is the most abundant type of star in the Milky Way by count?",
+    "choices": ["Red dwarf", "Yellow dwarf", "Blue giant", "White giant"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What phenomenon occurs when a massive star reaches the end of its life?",
+    "choices": ["Nova", "Supernova", "Pulsar collapse", "Planetary nebula"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the name of our home galaxy?",
+    "choices": ["Andromeda", "Triangulum", "Milky Way", "Sombrero"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What region of intense gravity surrounds a collapsed stellar core?",
+    "choices": ["Accretion disk", "Event horizon", "Neutron envelope", "Stellar wind"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the most common element found in the cores of stars?",
+    "choices": ["Helium", "Carbon", "Hydrogen", "Oxygen"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What term describes the patterns formed by bright stars visible from Earth?",
+    "choices": ["Asterisms", "Constellations", "Galaxies", "Clusters"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What type of object is a neutron star's faster-rotating variant?",
+    "choices": ["Magnetar", "Pulsar", "Quasar", "Nova"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is a famous emission nebula visible to the naked eye in Orion?",
+    "choices": ["Horsehead Nebula", "Orion Nebula", "Crab Nebula", "Eagle Nebula"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the term for a star that orbits another star as a gravitational partner?",
+    "choices": ["Rogue star", "Binary star", "Variable star", "Spectroscopic star"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What element does a star primarily fuse after exhausting its hydrogen?",
+    "choices": ["Neon", "Helium", "Carbon", "Silicon"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the remnant left behind when a white dwarf cools completely?",
+    "choices": ["Black dwarf", "Neutron star", "Black hole", "Brown dwarf"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What name is given to extremely luminous, distant objects thought to be powered by black holes?",
+    "choices": ["Pulsars", "Magnetars", "Quasars", "Tachyons"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What classification system describes galaxy shapes as spiral, elliptical, or irregular?",
+    "choices": ["Spectral class", "Hubble sequence", "Morphological scale", "Redshift index"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What phenomenon causes a star to appear to wobble due to orbiting planets?",
+    "choices": ["Parallax motion", "Proper motion", "Radial velocity", "Stellar variability"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the process by which two neutron stars can merge in space?",
+    "choices": ["Supernova fusion", "Gravitational wave collapse", "Neutron-star merger", "Stellar cannibalism"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What describes the curved space surrounding a massive object like a black hole?",
+    "choices": ["Gravitational field", "Spacetime curvature", "Warp bubble", "Cosmic string"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the Chandrasekhar limit in stellar physics?",
+    "choices": ["Maximum cooling rate of a star", "Maximum mass of a white dwarf", "Minimum mass for fusion", "Maximum age of a star"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What type of supernova occurs in a binary system with a white dwarf?",
+    "choices": ["Type II", "Type Ia", "Pair-instability", "Hypernova"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the name of the diffuse cloud of gas and dust surrounding our galactic center?",
+    "choices": ["Solar nebula", "Interstellar medium", "Galactic halo", "Zodiacal light"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What describes the brightness of a star as it would appear from a standard distance?",
+    "choices": ["Luminosity", "Apparent magnitude", "Absolute magnitude", "Stellar flux"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the most likely fate of our Sun in several billion years?",
+    "choices": ["Supernova explosion", "Red giant then white dwarf", "Neutron star formation", "Black hole collapse"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What process explains the light-second distance of some stars from measurements?",
+    "choices": ["Doppler effect", "Stellar parallax", "Gravitational lensing", "Cosmic redshift"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the principal distinction between a supergiant and a giant star?",
+    "choices": ["Age and chemical composition", "Surface temperature", "Mass and luminosity", "Rotation speed"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the name of the nearest large galaxy to the Milky Way?",
+    "choices": ["Triangulum Galaxy", "Andromeda Galaxy", "Large Magellanic Cloud", "Whirlpool Galaxy"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What type of galaxy is characterized by a central bulge and spiral arms?",
+    "choices": ["Elliptical", "Lenticular", "Spiral", "Irregular"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What causes the redshift observed in distant galaxies?",
+    "choices": ["Dust absorption", "Stellar motion toward us", "Expansion of the universe", "Gravitational lensing"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a brown dwarf in stellar classification?",
+    "choices": ["A star that has cooled and dimmed", "A failed star with insufficient mass for fusion", "A small neutron star", "A binary system with low luminosity"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What phenomenon allows us to detect exoplanets orbiting distant stars?",
+    "choices": ["Direct imaging only", "Transit method and radial velocity", "Gravitational lensing alone", "Parallax shifts"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the Hertzsprung-Russell diagram used to study?",
+    "choices": ["Galaxy rotation rates", "Stellar properties and evolution", "Black hole temperatures", "Cosmic microwave background"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What scale measures the apparent brightness of stars as seen from Earth?",
+    "choices": ["Luminosity scale", "Apparent magnitude", "Absolute scale", "Flux intensity"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What mechanism prevents a massive star from collapsing under its own weight during its main sequence?",
+    "choices": ["Magnetic field pressure", "Centrifugal force", "Radiation pressure from fusion", "Dark matter support"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does the term 'metallicity' refer to in astronomy?",
+    "choices": ["The iron content of a star", "The proportion of heavy elements in a star", "The density of the stellar core", "The magnetic field strength"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a magnetar's defining characteristic?",
+    "choices": ["Extreme rotational speed", "Extremely strong magnetic field", "High temperature", "Rapid mass loss"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What theory explains the origin of elements heavier than iron in stars?",
+    "choices": ["Stellar fusion", "R-process nucleosynthesis", "Alpha capture", "Photodisintegration"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the Tolman-Bondi model primarily used to describe?",
+    "choices": ["Black hole evaporation", "Inhomogeneous gravitational collapse", "Galaxy rotation curves", "Cosmic inflation"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What observational evidence supports the existence of supermassive black holes at galaxy centers?",
+    "choices": ["Stellar orbits and radiation", "Gravitational lensing patterns", "Gravitational wave detection", "High-energy particle jets"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the Eddington luminosity limit?",
+    "choices": ["Maximum brightness of a star", "Maximum accretion rate limit", "Minimum fusion temperature", "Peak wavelength of radiation"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What does the term 'accretion' describe in astrophysics?",
+    "choices": ["Stellar collision", "Matter falling into a gravitational well", "Galaxy mergers", "Star formation clusters"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What type of star undergoes a thermonuclear explosion in a binary system?",
+    "choices": ["Type II supernova source", "Type Ia supernova source", "Hypergiant collapse", "Pulsar system"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the name of the expanding debris cloud from a stellar explosion?",
+    "choices": ["Accretion disk", "Supernova remnant", "Stellar wind", "Protoplanetary disk"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What phenomenon occurs when a star's light bends around a massive object?",
+    "choices": ["Doppler shift", "Gravitational lensing", "Parallax", "Aberration"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the primary composition of a nebula where stars form?",
+    "choices": ["Mostly dust and rocks", "Hydrogen and helium gas with dust", "Primarily iron and nickel", "Exotic matter and plasma"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does a light-year measure?",
+    "choices": ["The brightness of a star", "The time it takes light to travel in a year", "The mass of a star", "The radius of a star"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What percentage of stars in the Milky Way are part of multiple-star systems?",
+    "choices": ["Nearly 50%", "Less than 5%", "Roughly 30-40%", "Over 70%"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the fate of a star less massive than eight solar masses?",
+    "choices": ["Continues as a brown dwarf", "Becomes a black hole", "Becomes a white dwarf after shedding its outer layers", "Explodes as a supernova"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does spectroscopy reveal about a distant star?",
+    "choices": ["Only its distance", "Temperature, composition, and motion", "Only its chemical elements", "Only its rotation speed"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a cosmic microwave background photon's origin?",
+    "choices": ["Radiation from nearby stars", "Light from the Big Bang afterglow", "Emissions from galactic dust", "Hawking radiation from black holes"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What type of supergiant is characterized by a thin, extended atmosphere?",
+    "choices": ["Blue supergiant", "Red supergiant", "Yellow supergiant", "White supergiant"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the principle behind using gravitational waves to detect black hole mergers?",
+    "choices": ["Doppler effect measurement", "Spacetime distortion propagation", "Magnetic field changes", "Radiation pressure analysis"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  }
+]

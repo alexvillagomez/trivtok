@@ -1,0 +1,416 @@
+[
+  {
+    "text": "Which group performed 'Dynamite' and 'Butter'?",
+    "choices": ["BTS", "EXO", "Stray Kids", "(G)I-DLE"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which girl group has members Jisoo, Jennie, Rosé, and Lisa?",
+    "choices": ["TWICE", "BLACKPINK", "Red Velvet", "Girls' Generation"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which girl group features Nayeon, Jeongyeon, Momo, Sana, Jihyo, Mina, Dahyun, Chaeyoung, and Tzuyu?",
+    "choices": ["IVE", "TWICE", "ITZY", "Kep1er"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which company is most closely associated with debuting BTS?",
+    "choices": ["SM Entertainment", "YG Entertainment", "Big Hit Entertainment", "JYP Entertainment"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which company is most closely associated with debuting BLACKPINK?",
+    "choices": ["YG Entertainment", "SM Entertainment", "Cube Entertainment", "Starship Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does K-pop literally stand for?",
+    "choices": ["Korean popular music", "Korean pop", "Kinetic pop", "Known pop"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which girl group debuted with the song 'Into the New World'?",
+    "choices": ["Girls' Generation", "Red Velvet", "f(x)", "Miss A"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which boy group debuted with 'Mama' and later released 'Growl'?",
+    "choices": ["EXO", "BTS", "Seventeen", "Shinee"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group released 'Cheer Up' and 'TT'?",
+    "choices": ["TWICE", "BLACKPINK", "Red Velvet", "IVE"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which group released 'Hype Boy' and 'Ditto'?",
+    "choices": ["NewJeans", "IVE", "Le Sserafim", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which survival show formed TWICE?",
+    "choices": ["Produce 101", "Sixteen", "Boys Planet", "I-Land"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which survival show formed I.O.I?",
+    "choices": ["Sixteen", "Produce 101", "Queendom Puzzle", "Girls Planet 999"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which survival show formed Wanna One?",
+    "choices": ["Produce 101 Season 2", "Boys Planet", "I-Land", "Superstar K"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which survival show formed IZ*ONE?",
+    "choices": ["Girls Planet 999", "Produce 48", "Sixteen", "The Unit"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which survival show formed ENHYPEN?",
+    "choices": ["I-Land", "Boys Planet", "Produce 101", "R U Next?"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which company is linked to the formation of TWICE and ITZY?",
+    "choices": ["SM Entertainment", "JYP Entertainment", "YG Entertainment", "Starship Entertainment"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which company is linked to the formation of EXO and Red Velvet?",
+    "choices": ["Cube Entertainment", "HYBE", "SM Entertainment", "Pledis Entertainment"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which company is linked to the formation of BLACKPINK and BIGBANG?",
+    "choices": ["JYP Entertainment", "YG Entertainment", "SM Entertainment", "Starship Entertainment"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the official fandom name of BTS?",
+    "choices": ["BLINK", "ARMY", "Once", "Carat"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the official fandom name of BLACKPINK?",
+    "choices": ["BLINK", "Bunny", "MIDZY", "Neverland"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the official fandom name of TWICE?",
+    "choices": ["Once", "STAY", "ReVeluv", "Aroha"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the official fandom name of SEVENTEEN?",
+    "choices": ["CARAT", "ENGENE", "EXO-L", "MOA"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the official fandom name of STRAY KIDS?",
+    "choices": ["STAY", "Orbit", "MIDZY", "Bunny"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the official fandom name of EXO?",
+    "choices": ["ReVeluv", "EXO-L", "ARMY", "Blink"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does 'maknae' mean in a K-pop group?",
+    "choices": ["Oldest member", "Lead dancer", "Youngest member", "Leader"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does 'bias' mean in K-pop fandom language?",
+    "choices": ["Your favorite member", "The main vocalist", "The youngest member", "A comeback teaser"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which girl group released 'Love Dive'?",
+    "choices": ["IVE", "aespa", "NewJeans", "fromis_9"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which girl group released 'Next Level'?",
+    "choices": ["Red Velvet", "aespa", "IVE", "ITZY"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'God's Menu'?",
+    "choices": ["ATEEZ", "Stray Kids", "ENHYPEN", "NCT 127"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which group released 'Tomboy'?",
+    "choices": ["(G)I-DLE", "BLACKPINK", "LE SSERAFIM", "STAYC"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which company launched SEVENTEEN?",
+    "choices": ["Pledis Entertainment", "SM Entertainment", "JYP Entertainment", "Starship Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which company launched NEWJEANS?",
+    "choices": ["HYBE Labels", "ADOR", "YG Entertainment", "Cube Entertainment"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which company launched IVE?",
+    "choices": ["Starship Entertainment", "JYP Entertainment", "SM Entertainment", "Pledis Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which company launched (G)I-DLE?",
+    "choices": ["Cube Entertainment", "Big Hit Music", "YG Entertainment", "SM Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which subunit of NCT is known for a more youthful concept and rotating-age lineup?",
+    "choices": ["NCT Dream", "NCT U", "WayV", "NCT 127"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which NCT unit is the rotational, project-style subunit?",
+    "choices": ["NCT Dream", "NCT U", "WayV", "NCT 127"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which group is associated with the phrase 'noisy' or performance-heavy choreography and songs like 'Thunderous'?",
+    "choices": ["Stray Kids", "TXT", "ENHYPEN", "Seventeen"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which group released 'Psycho'?",
+    "choices": ["Red Velvet", "TWICE", "BLACKPINK", "MAMAMOO"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which group released 'Wannabe'?",
+    "choices": ["ITZY", "IVE", "aespa", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which boy group released 'Love Shot'?",
+    "choices": ["EXO", "BTS", "NCT 127", "Monsta X"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which group released 'Don't Wanna Cry'?",
+    "choices": ["SEVENTEEN", "Stray Kids", "SHINee", "ATEEZ"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which group released 'Mister'?",
+    "choices": ["KARA", "2NE1", "Girls' Generation", "f(x)"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which group released 'I Am the Best'?",
+    "choices": ["2NE1", "KARA", "Sistar", "Wonder Girls"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which term describes a planned return to promotional activity with a new single or album?",
+    "choices": ["Comeback", "Debut", "Encore", "Encore stage"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which term refers to the official handheld concert light used by fans?",
+    "choices": ["Light stick", "Photocard", "Fanchant", "Teaser"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which girl group is known for the song 'Ddu-Du Ddu-Du'?",
+    "choices": ["BLACKPINK", "TWICE", "Red Velvet", "IVE"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which member of BTS is also known as RM and serves as the group's leader?",
+    "choices": ["Jin", "RM", "Jimin", "J-Hope"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which BTS member released the solo single 'Seven'?",
+    "choices": ["Jung Kook", "V", "Suga", "Jin"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which BLACKPINK member released the solo song 'On The Ground'?",
+    "choices": ["Jennie", "Rosé", "Jisoo", "Lisa"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which group released 'Fancy'?",
+    "choices": ["TWICE", "Red Velvet", "MAMAMOO", "ITZY"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which group released 'Red Flavor'?",
+    "choices": ["Red Velvet", "BLACKPINK", "TWICE", "aespa"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which group released 'Candy' as a late-career revival hit from the first generation?",
+    "choices": ["H.O.T.", "SEVENTEEN", "SHINee", "Super Junior"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which group is most associated with the hit 'Gee'?",
+    "choices": ["Girls' Generation", "KARA", "f(x)", "2NE1"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which label is the home of Red Velvet and aespa?",
+    "choices": ["SM Entertainment", "JYP Entertainment", "HYBE", "Pledis Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which label is the home of Stray Kids and ITZY?",
+    "choices": ["YG Entertainment", "JYP Entertainment", "SM Entertainment", "Starship Entertainment"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which label is the home of IVE and Monsta X?",
+    "choices": ["Starship Entertainment", "Cube Entertainment", "ADOR", "Pledis Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which label is the home of (G)I-DLE?",
+    "choices": ["Cube Entertainment", "YG Entertainment", "SM Entertainment", "Big Hit Music"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which group is associated with the fandom name ENGENE?",
+    "choices": ["ENHYPEN", "TXT", "ATEEZ", "ZEROBASEONE"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which girl group is associated with the fandom name ReVeluv?",
+    "choices": ["Red Velvet", "IVE", "ITZY", "MAMAMOO"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which group is associated with the song 'Beautiful Monster'?",
+    "choices": ["STAYC", "NMIXX", "IVE", "NewJeans"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which group is associated with the song 'Super'?",
+    "choices": ["SEVENTEEN", "Stray Kids", "TXT", "NCT Dream"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which K-pop concept term refers to the member considered most visually representative of the group?",
+    "choices": ["Main dancer", "Visual", "Maknae", "Center"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which K-pop term refers to the member placed in the middle during performances or photoshoots to draw attention?",
+    "choices": ["Center", "Leader", "Maknae", "Main vocalist"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which company launched the girl group NewJeans?",
+    "choices": ["ADOR", "SM Entertainment", "YG Entertainment", "Starship Entertainment"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which group is associated with the song 'S-Class'?",
+    "choices": ["Stray Kids", "ENHYPEN", "ATEEZ", "TXT"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which group is associated with the song 'Super Shy'?",
+    "choices": ["NewJeans", "IVE", "ITZY", "Kep1er"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which K-pop term refers to the youngest member of a group?",
+    "choices": ["Center", "Maknae", "Visual", "Leader"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which group is associated with the song 'Bouncy'?",
+    "choices": ["ATEEZ", "TXT", "ENHYPEN", "SEVENTEEN"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which K-pop term describes the choreographed fan shout or lyric response performed at live shows?",
+    "choices": ["Fanchant", "Comeback", "Bias", "Teaser"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  }
+]

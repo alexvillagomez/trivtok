@@ -1,0 +1,278 @@
+[
+  {
+    "text": "In what year did World War I officially begin?",
+    "choices": ["1914", "1912", "1916", "1918"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which European country was invaded by Germany to trigger Britain's entry into the war?",
+    "choices": ["France", "Belgium", "Netherlands", "Denmark"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Archduke Franz Ferdinand, whose assassination sparked the war, was heir to which empire?",
+    "choices": ["Germany", "Austria-Hungary", "Russia", "Ottoman Empire"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the primary alliance opposing the Central Powers called?",
+    "choices": ["The Quadruple Alliance", "The Triple Entente", "The Bilateral Accord", "The Allied Confederation"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which military tactic, involving long ditches and fortified positions, became synonymous with WWI?",
+    "choices": ["Cavalry charges", "Trench warfare", "Naval bombardment", "Aerial dogfighting"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What was 'no man's land' in the context of World War I?",
+    "choices": ["An uncolonized region in Africa", "The empty territory between opposing trenches", "Germany's designation for occupied France", "A neutral shipping zone"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Battle of the Somme was fought between which two nations primarily?",
+    "choices": ["Germany and Austria-Hungary", "France and Germany", "Britain and Germany", "Russia and Austria-Hungary"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who served as the British Prime Minister during most of World War I?",
+    "choices": ["Herbert Asquith", "David Lloyd George", "H. H. Asquith", "Winston Churchill"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What new weapon system was introduced during WWI that changed naval warfare?",
+    "choices": ["The machine gun", "Poison gas", "The submarine", "The tank"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which treaty formally ended World War I in 1918?",
+    "choices": ["Treaty of Paris", "Treaty of Versailles", "Treaty of London", "Treaty of Brest-Litovsk"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Ottoman Empire allied with which Central Powers nation?",
+    "choices": ["Austria-Hungary and Bulgaria", "Germany and Austria-Hungary", "Germany only", "Bulgaria only"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Approximately how many casualties did World War I produce?",
+    "choices": ["5 million", "10 million", "20 million", "50 million"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the primary purpose of Germany's Schlieffen Plan?",
+    "choices": ["To establish naval superiority", "To quickly defeat France before facing Russia on two fronts", "To secure colonies in Africa", "To invade Italy"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which major European power initially remained neutral before entering the war in 1917?",
+    "choices": ["Spain", "Switzerland", "United States", "Sweden"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Battle of Verdun lasted for how many months in 1916?",
+    "choices": ["Three months", "Six months", "Ten months", "Twelve months"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which general led the British forces at the Battle of the Somme?",
+    "choices": ["Edmund Allenby", "Douglas Haig", "Edmund Plumer", "Ian Hamilton"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What term describes the deliberate killing of Ottoman Armenians during WWI?",
+    "choices": ["The Balkan Crisis", "The Armenian Genocide", "The Ottoman Purge", "The Anatolian Massacre"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which country's use of poison gas first prompted international military responses?",
+    "choices": ["Austria-Hungary", "Italy", "Germany", "Russia"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Gallipoli Campaign was an unsuccessful attempt to capture territory from which nation?",
+    "choices": ["Bulgaria", "Greece", "Ottoman Empire", "Austria-Hungary"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "How many of the major European powers declared war during the July Crisis of 1914?",
+    "choices": ["Four", "Five", "Six", "Seven"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the 'Hundred Days Offensive' in 1918?",
+    "choices": ["A German counteroffensive", "A final Allied push that led to armistice", "A naval blockade", "A trench consolidation"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which nation was NOT part of the Triple Alliance before 1914?",
+    "choices": ["Austria-Hungary", "Germany", "Italy", "Belgium"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Eastern Front saw primarily which type of warfare, unlike the Western Front?",
+    "choices": ["Trench lines", "Mobile warfare", "Naval combat", "Aerial bombing"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What major European power officially exited the war with the Treaty of Brest-Litovsk?",
+    "choices": ["Romania", "Bulgaria", "Russia", "Austria-Hungary"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who was the French general most associated with the defense of Verdun?",
+    "choices": ["Joseph Joffre", "Philippe Pétain", "Ferdinand Foch", "Louis Franchet d'Espèrey"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Christmas Truce of 1914 saw soldiers from which opposing nations fraternize?",
+    "choices": ["France and Germany", "Britain and Germany", "Russia and Austria-Hungary", "Italy and Austria-Hungary"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What percentage of eligible men served in the British armed forces during WWI?",
+    "choices": ["20%", "40%", "60%", "80%"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which new technology was first used in large-scale combat at the Somme in 1916?",
+    "choices": ["Poison gas", "Aircraft", "Tanks", "Machine guns"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Sykes-Picot Agreement secretly divided which region's territories?",
+    "choices": ["Balkans", "Mesopotamia and the Levant", "North Africa", "Anatolia"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How did the German High Seas Fleet attempt to counter British naval dominance?",
+    "choices": ["Surface fleet engagement", "Unrestricted submarine warfare", "Coastal raids", "Mine deployment"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What strategic resource was Germany attempting to secure in the Middle East?",
+    "choices": ["Oil fields", "Copper deposits", "Iron ore", "Grain supplies"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The 'Rape of Belgium' refers to which series of events?",
+    "choices": ["Naval blockade", "German occupation and atrocities", "Economic exploitation", "Population displacement"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which nation experienced the most casualties at the Battle of Verdun?",
+    "choices": ["Germany", "Britain", "France", "Austria-Hungary"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the primary motivation behind the U.S. entry into WWI in 1917?",
+    "choices": ["German violations of Belgian neutrality", "Economic ties to Britain and France", "German unrestricted submarine warfare and the Zimmermann Telegram", "Support for Russian revolutionaries"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How many nations signed the Treaty of Versailles in 1919?",
+    "choices": ["15", "25", "35", "45"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The 'Lost Generation' literary movement emerged after WWI primarily among which group?",
+    "choices": ["British nobility", "French intellectuals", "American expatriate writers", "German scientists"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which general commanded the American Expeditionary Forces in Europe?",
+    "choices": ["Frederick Pershing", "John J. Pershing", "George Pershing", "James Pershing"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What did the Balfour Declaration promise regarding Jewish settlement?",
+    "choices": ["Independence for Palestine", "A Jewish homeland in Palestine", "British protection for Palestinian Arabs", "Ottoman control of holy sites"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "The 'Stab in the back' myth was promoted in which defeated nation after WWI?",
+    "choices": ["Austria-Hungary", "Ottoman Empire", "Germany", "Bulgaria"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which provision of the Treaty of Versailles most directly contributed to future instability?",
+    "choices": ["Belgian independence", "War reparations and territorial loss imposed on Germany", "Creation of the League of Nations", "Dissolution of the Ottoman Empire"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What was the approximate length of the Western Front during stalemate?",
+    "choices": ["200 miles", "400 miles", "600 miles", "800 miles"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which nation experienced revolution during World War I, significantly affecting the war?",
+    "choices": ["Germany", "Austria-Hungary", "Russia", "Ottoman Empire"],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The war debt accumulated by Britain during WWI was owed primarily to which nation?",
+    "choices": ["France", "Germany", "United States", "Russia"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which naval innovation, if fully implemented by Germany, might have changed the war outcome?",
+    "choices": ["Battleship superiority", "Unrestricted submarine warfare earlier in the war", "Ironclad armor", "Diesel engines"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What was the purpose of the 'Belleau Wood' campaign in 1918?",
+    "choices": ["To secure German surrender", "To capture German supply routes", "To secure a defensible position during the Spring Offensive counter-attack", "To advance toward Berlin"],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "The Treaty of Brest-Litovsk resulted in which major territorial loss?",
+    "choices": ["Russia lost Eastern Europe and the Baltics to Germany and Austria-Hungary", "France lost Alsace-Lorraine", "Austria-Hungary lost the Balkans", "Germany lost Alsace-Lorraine"],
+    "correctIndex": 0,
+    "difficulty": 0.90
+  }
+]

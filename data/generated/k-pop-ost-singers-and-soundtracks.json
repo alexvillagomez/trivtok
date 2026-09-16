@@ -1,0 +1,380 @@
+[
+  {
+    "text": "Which singer performed 'Stay With Me' with Punch for the Goblin soundtrack?",
+    "choices": ["Baekhyun", "Chen", "D.O.", "K.Will"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which singer performed 'Everytime' with Punch for Descendants of the Sun?",
+    "choices": ["Chen", "Baekhyun", "Taemin", "Jin"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which singer performed 'I Will Go to You Like the First Snow' for Goblin?",
+    "choices": ["Ailee", "Taeyeon", "Younha", "Punch"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which singer performed 'You Are My Everything' for Descendants of the Sun?",
+    "choices": ["Gummy", "Lyn", "IU", "Heize"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which singer performed 'This Love' for Descendants of the Sun?",
+    "choices": ["Davichi", "Punch", "Baekhyun", "So You"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which singer performed 'Love Poem' for the drama Hotel del Luna?",
+    "choices": ["IU", "Taeyeon", "Ailee", "Younha"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which singer performed 'My Destiny' for My Love from the Star?",
+    "choices": ["Lyn", "Gummy", "Punch", "Davichi"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which singer performed 'Beautiful' for Goblin?",
+    "choices": ["Crush", "Baekhyun", "Chen", "D.O."],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which singer performed 'Say Yes' for Moon Lovers: Scarlet Heart Ryeo?",
+    "choices": ["Loco & Punch", "Chen & Punch", "Baekhyun & Punch", "Crush & Wendy"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which singer performed 'For You' for Moon Lovers: Scarlet Heart Ryeo with EXO-CBX?",
+    "choices": ["Chen, Baekhyun, and Xiumin", "Chen and Punch", "Baekhyun and Punch", "D.O. and Punch"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which singer performed 'With You' for Our Blues with Jimin?",
+    "choices": ["Ha Sung-woon", "Crush", "Paul Kim", "K.Will"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which singer performed 'Here I Am Again' for Crash Landing on You?",
+    "choices": ["Baek Yerin", "Taeyeon", "Heize", "Lyn"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which singer performed 'I Miss You' for Snowdrop?",
+    "choices": ["So You", "Ailee", "Gummy", "Younha"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which singer performed 'I Remember You' for Pinocchio?",
+    "choices": ["Ben", "Lyn", "Punch", "IU"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which singer performed 'Flower' for Crash Landing on You?",
+    "choices": ["Yoon Mi-rae", "Heize", "Gummy", "Ailee"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which singer performed 'Once Again' for Descendants of the Sun?",
+    "choices": ["Davichi", "Lyn", "Punch", "Gummy"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which singer performed 'Stay' for the Strong Woman Do Bong-soon soundtrack?",
+    "choices": ["Blackpink's Rosé", "Baekhyun", "Jung Seung-hwan", "Lyn"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which singer performed 'Forgetting You' for Hotel del Luna?",
+    "choices": ["Davichi", "Taeyeon", "Heize", "Punch"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which singer performed 'Goodbye, Now' for Queen of Tears?",
+    "choices": ["Isaac Hong", "Paul Kim", "Lyn", "Ailee"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which singer performed 'Can't Forget You' for Mr. Sunshine?",
+    "choices": ["Heize", "Lyn", "Ben", "IU"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which singer performed 'When You Were My Girl' for Heartstrings?",
+    "choices": ["K.Will", "Crush", "Chen", "D.O."],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which singer performed 'I Love You' for It's Okay to Not Be Okay?",
+    "choices": ["Yongzoo", "Ailee", "Taeyeon", "Heize"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which singer performed 'You Are My Spring' for the drama of the same name?",
+    "choices": ["Jaehee", "Lyn", "Younha", "IU"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which singer performed 'If It Is You' for Hotel del Luna?",
+    "choices": ["Jung Seung-hwan", "Paul Kim", "Crush", "Baekhyun"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which singer performed 'Love Is' for It's Okay to Not Be Okay?",
+    "choices": ["Jo Jung-suk", "Heize", "Ailee", "Taeyeon"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which singer performed 'Beautiful' for Guardian: The Lonely and Great God?",
+    "choices": ["Crush", "Chen", "D.O.", "Baekhyun"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer performed 'Stay With Me' as the male vocal on Goblin's signature duet?",
+    "choices": ["Chanyeol", "Baekhyun", "Chen", "D.O."],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer performed 'Everytime' with Punch and later became a major EXO soloist?",
+    "choices": ["Chen", "Baekhyun", "D.O.", "Suho"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer performed 'Beautiful' for The King's Affection?",
+    "choices": ["Punch", "Lyn", "Gummy", "Taeyeon"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer performed 'The Only One' for Twenty-Five Twenty-One?",
+    "choices": ["Standing Egg", "Ailee", "Heize", "Younha"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which singer performed 'Our Beloved Summer'?",
+    "choices": ["10CM", "Paul Kim", "Crush", "K.Will"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which singer performed 'Love, Maybe' for Business Proposal?",
+    "choices": ["MeloMance", "Crush", "Heize", "Lyn"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which singer performed 'Still Love You' for the My Love from the Star soundtrack?",
+    "choices": ["Yoon Mi-rae", "Lyn", "Taeyeon", "Gummy"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which singer performed 'Wind Flower' for the drama Because This Is My First Life?",
+    "choices": ["MAMAMOO", "Davichi", "Wendy", "Punch"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which singer performed 'If It Is You' as one of the most famous emotional ballad OSTs of the 2010s?",
+    "choices": ["Jung Seung-hwan", "Paul Kim", "Baekhyun", "Chen"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which singer performed 'I Miss You' for Missing: The Other Side?",
+    "choices": ["So You", "Heize", "Ailee", "Lyn"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which singer performed 'You Are the Best of Me' for True Beauty?",
+    "choices": ["Sam Kim", "Crush", "D.O.", "Paul Kim"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which singer performed 'My Love' for the Descendants of the Sun soundtrack?",
+    "choices": ["Lee Hi", "Taeyeon", "Heize", "IU"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which singer performed 'I Like You' for the drama Her Private Life?",
+    "choices": ["Ailee", "Heize", "Taeyeon", "Lyn"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which singer performed 'Beautiful' for Crash Landing on You?",
+    "choices": ["Crush", "Baekhyun", "Chen", "D.O."],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which singer performed 'Hello' for the drama Hospital Playlist?",
+    "choices": ["Joy", "Wendy", "Seulgi", "Irene"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which singer performed 'See You Again' for Hotel del Luna?",
+    "choices": ["Baekhyun", "Chen", "D.O.", "Suho"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which singer performed 'Love Song' for Hometown Cha-Cha-Cha?",
+    "choices": ["Paul Kim", "Crush", "K.Will", "Sam Kim"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which singer performed 'Way Back Home' and became closely linked with drama and variety OST use?",
+    "choices": ["Shaun", "Paul Kim", "Crush", "Younha"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which singer performed 'Here Always' for Hometown Cha-Cha-Cha?",
+    "choices": ["Seungmin", "Jin", "Jimin", "V"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which singer performed 'Flower' for the drama Thirty-Nine?",
+    "choices": ["Gummy", "Heize", "Ailee", "Lyn"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which singer performed 'Sweet Night' for Itaewon Class?",
+    "choices": ["V", "Jin", "Jimin", "Jungkook"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which singer performed 'Christmas Tree' for Our Beloved Summer?",
+    "choices": ["V", "Jimin", "Jin", "Jungkook"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which singer performed 'Dream' for the soundtrack of Itaewon Class?",
+    "choices": ["Baekhyun", "Chen", "D.O.", "Suho"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which singer performed 'The Road' for When the Weather Is Fine?",
+    "choices": ["IU", "Younha", "Heize", "Gummy"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which singer performed 'Love, Maybe' in a version associated with a youthful rom-com soundtrack?",
+    "choices": ["MeloMance", "Paul Kim", "Crush", "Ailee"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which singer performed 'Like a Star' for Hometown Cha-Cha-Cha?",
+    "choices": ["BIBI", "Heize", "Ailee", "Taeyeon"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which singer performed 'The Night We Met' for a Korean soundtrack cover associated with a major romance drama?",
+    "choices": ["Paul Kim", "Crush", "Jung Seung-hwan", "K.Will"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which singer performed 'All About You' for Hotel del Luna?",
+    "choices": ["Taeyeon", "IU", "Heize", "Gummy"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which singer performed 'This Is Me' for the drama The King: Eternal Monarch?",
+    "choices": ["Taeyeon", "Ailee", "Lyn", "IU"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which singer performed 'Falling' for the drama Run On?",
+    "choices": ["Lee Su-hyun", "Younha", "Heize", "Paul Kim"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which singer performed 'A Little More' for Hometown Cha-Cha-Cha?",
+    "choices": ["Kang Daniel", "Crush", "Baekhyun", "Jimin"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which singer performed 'After a Long Time' for the soundtrack of Reply 1988?",
+    "choices": ["Kim Feel", "Paul Kim", "Jung Seung-hwan", "Sam Kim"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which singer performed 'Your Existence' for Twenty-Five Twenty-One?",
+    "choices": ["Wonstein", "10CM", "Paul Kim", "K.Will"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which singer performed 'Even for a Moment' for the soundtrack of Love Alarm?",
+    "choices": ["BTS's Jungkook", "Crush", "Baekhyun", "Taeyeon"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which singer performed 'Shine On You' for the soundtrack of Our Blues?",
+    "choices": ["Jung Seung-hwan", "Paul Kim", "Sam Kim", "Crush"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which singer performed 'With You' if the clue points to the Jimin collaboration from Our Blues?",
+    "choices": ["Ha Sung-woon", "Crush", "Paul Kim", "K.Will"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which singer performed 'I Love You Boy' for the drama If You Wish Upon Me?",
+    "choices": ["NMIXX's Lily", "Ailee", "Heize", "Gummy"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  }
+]

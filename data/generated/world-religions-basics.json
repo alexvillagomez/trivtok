@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which religious figure is believed by Christians to be the Son of God?",
+    "choices": ["Jesus", "Buddha", "Muhammad", "Krishna"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the Islamic declaration of faith called?",
+    "choices": ["Shahada", "Salat", "Zakat", "Hajj"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which text is the most sacred in Judaism?",
+    "choices": ["The Torah", "The Quran", "The Vedas", "The Sutras"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the primary goal in Buddhism?",
+    "choices": ["Nirvana", "Heaven", "Moksha", "Paradise"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who founded Islam?",
+    "choices": ["Muhammad", "Ali", "Omar", "Usman"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many Five Pillars does Islam practice?",
+    "choices": ["Five", "Seven", "Three", "Ten"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the Jewish holy day of rest called?",
+    "choices": ["Shabbat", "Passover", "Yom Kippur", "Hanukkah"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Hinduism, what is the term for the cycle of rebirth?",
+    "choices": ["Samsara", "Dharma", "Karma", "Brahman"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What religion has the Daoist text known as the Tao Te Ching?",
+    "choices": ["Daoism", "Confucianism", "Shinto", "Jainism"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the Christian New Testament primarily about?",
+    "choices": ["Life and teachings of Jesus", "Ancient Hebrew history", "Islamic doctrine", "Buddhist philosophy"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which religion originated in India around the 6th century BCE?",
+    "choices": ["Buddhism", "Islam", "Judaism", "Christianity"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What holy book do Muslims follow?",
+    "choices": ["The Quran", "The Bible", "The Vedas", "The Tripitaka"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In which modern country is Mount Sinai, sacred to Judaism, believed to be located?",
+    "choices": ["Egypt", "Israel", "Jordan", "Saudi Arabia"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the Islamic pilgrimage to Mecca called?",
+    "choices": ["Hajj", "Umrah", "Tawaf", "Salah"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which founder of a major religion lived around 500 BCE in Nepal?",
+    "choices": ["Buddha", "Mahavira", "Confucius", "Lao Tzu"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What do Hindus call ultimate reality or universal consciousness?",
+    "choices": ["Brahman", "Atman", "Maya", "Ashrama"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Christianity, which sacrament commemorates the Last Supper?",
+    "choices": ["The Eucharist", "Baptism", "Confirmation", "Penance"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the term for Islamic law derived from the Quran and Sunnah?",
+    "choices": ["Sharia", "Hadith", "Fatwa", "Ijma"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Jewish holiday commemorates the Exodus from Egypt?",
+    "choices": ["Passover", "Rosh Hashanah", "Sukkot", "Shavuot"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the Buddhist concept of suffering or dissatisfaction called?",
+    "choices": ["Dukkha", "Tanha", "Anicca", "Anatta"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Hinduism, what is the principle of duty or righteousness?",
+    "choices": ["Dharma", "Karma", "Artha", "Moksha"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which religion venerates Guru Nanak as its founder?",
+    "choices": ["Sikhism", "Hinduism", "Jainism", "Buddhism"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the Sikh place of worship called?",
+    "choices": ["Gurdwara", "Mosque", "Synagogue", "Temple"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Islam, what is a community consensus on religious law called?",
+    "choices": ["Ijma", "Qiyas", "Ijtihad", "Naskh"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What concept in Buddhism refers to the impermanence of all things?",
+    "choices": ["Anicca", "Dukkha", "Anatta", "Sila"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Christian denomination practices adult baptism by immersion?",
+    "choices": ["Baptist", "Catholic", "Orthodox", "Lutheran"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the Jewish concept of 'repairing the world' called?",
+    "choices": ["Tikkun Olam", "Tzedakah", "Mitzvah", "Shalom"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Sikhism, what is the principle of social equality and sharing meals called?",
+    "choices": ["Langar", "Seva", "Naam Simran", "Rehat"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the Buddhist middle path between asceticism and indulgence?",
+    "choices": ["Noble Eightfold Path", "Four Noble Truths", "Five Precepts", "Six Perfections"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Hindu festival celebrates the victory of good over evil and is known as the 'Festival of Lights'?",
+    "choices": ["Diwali", "Holi", "Navaratri", "Pongal"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the Islamic month of fasting called?",
+    "choices": ["Ramadan", "Muharram", "Dhul-Hijjah", "Rabi al-awwal"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Christianity, which sacrament is performed on newborn infants in many denominations?",
+    "choices": ["Baptism", "Confirmation", "Anointing", "Ordination"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does 'Dharma' primarily mean in Hindu and Buddhist philosophy?",
+    "choices": ["Religious duty or law", "Knowledge", "Meditation", "Enlightenment"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Jewish movement emphasizes the historical development of Jewish law and tradition?",
+    "choices": ["Conservative Judaism", "Orthodox Judaism", "Reform Judaism", "Reconstructionist Judaism"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the Islamic concept of attributing qualities to God called?",
+    "choices": ["Tawhid", "Shirk", "Bid'ah", "Fasad"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Buddhism, what are the three marks of existence?",
+    "choices": ["Anicca, Dukkha, Anatta", "Sila, Samadhi, Prajna", "Karma, Nirvana, Samsara", "Bhakti, Karma, Jnana"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the Sikh holy scripture called?",
+    "choices": ["Guru Granth Sahib", "Adi Granth", "Dasmesh", "Janam Sakhi"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Jewish festival commemorates receiving the Torah on Mount Sinai?",
+    "choices": ["Shavuot", "Sukkot", "Simchat Torah", "Lag BaOmer"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In Hinduism, what does 'Moksha' refer to?",
+    "choices": ["Liberation from the cycle of rebirth", "The law of karma", "A Hindu deity", "A type of yoga"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the Islamic term for struggling or striving in the path of God?",
+    "choices": ["Jihad", "Salat", "Istighfar", "Tawbah"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Christianity, what is the concept of God becoming human in Jesus called?",
+    "choices": ["Incarnation", "Resurrection", "Trinity", "Salvation"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What school of Buddhism emphasizes the role of Bodhisattvas?",
+    "choices": ["Mahayana", "Theravada", "Vajrayana", "Zen"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which strand of Buddhism is predominant in Japan?",
+    "choices": ["Zen", "Pure Land", "Tibetan", "Theravada"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Islam, what are the teachings and practices of the Prophet Muhammad called?",
+    "choices": ["Sunnah", "Hadith", "Sirah", "Tafsir"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the theological term for God's complete knowledge of past, present, and future?",
+    "choices": ["Omniscience", "Omnipotence", "Immutability", "Eternality"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Jewish tradition, what is the rabbinical interpretation and discussion of Jewish law called?",
+    "choices": ["Midrash", "Talmud", "Mishna", "Tanakh"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Hindu philosophical school denies the reality of the phenomenal world and asserts that only Brahman is real?",
+    "choices": ["Samkhya", "Advaita Vedanta", "Yoga", "Mimamsa"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the Zoroastrian concept of the cosmic struggle between good and evil called?",
+    "choices": ["Monotheism", "Dualism", "Polytheism", "Pantheism"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "In Islamic theology, what is the doctrine that humans possess free will while God is omnipotent?",
+    "choices": ["Qadari", "Jabarite", "Maturidi", "Asharite"],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Jain concept describes the principle of multiple perspectives and non-absolutism?",
+    "choices": ["Karma", "Ahimsa", "Anekantavada", "Aparigraha"],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  }
+]

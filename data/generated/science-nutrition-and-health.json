@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which vitamin is primarily stored in body fat and requires dietary fat for absorption?",
+    "choices": ["Vitamin C", "Vitamin A", "Vitamin B12", "Vitamin B6"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What mineral is essential for muscle contraction and is found abundantly in leafy greens?",
+    "choices": ["Iron", "Magnesium", "Sodium", "Phosphorus"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which deficiency disease is characterized by weak bones and caused by lack of calcium and vitamin D?",
+    "choices": ["Scurvy", "Osteoporosis", "Beriberi", "Pellagra"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the primary function of protein in the body?",
+    "choices": ["Store energy long-term", "Build and repair tissues", "Regulate blood pH only", "Produce stomach acid"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which vitamin deficiency causes scurvy, characterized by bleeding gums and poor wound healing?",
+    "choices": ["Vitamin E", "Vitamin D", "Vitamin C", "Vitamin K"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the disease caused by severe protein-calorie malnutrition in children?",
+    "choices": ["Anemia", "Kwashiorkor", "Goiter", "Rickets"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Iron from animal sources is absorbed more efficiently than from plant sources because it is in which form?",
+    "choices": ["Ionic", "Heme", "Ferric", "Chelated"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which B vitamin is essential for converting food into energy at the cellular level?",
+    "choices": ["Folate", "Niacin", "Thiamine", "Pantothenic acid"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What percentage of the adult human body weight is typically water?",
+    "choices": ["35%", "60%", "75%", "90%"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Zinc deficiency in humans can result in which of these conditions?",
+    "choices": ["Hypertension", "Impaired wound healing", "High cholesterol", "Diabetes"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which macronutrient provides the most calories per gram?",
+    "choices": ["Carbohydrate (4 cal/g)", "Protein (4 cal/g)", "Fat (9 cal/g)", "Alcohol (7 cal/g)"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the primary role of iodine in human nutrition?",
+    "choices": ["Bone formation", "Thyroid hormone production", "Red blood cell formation", "Collagen synthesis"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Beriberi, a disease affecting the nervous system, results from deficiency of which vitamin?",
+    "choices": ["Vitamin A", "Thiamine (B1)", "Riboflavin", "Pantothenic acid"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which food is the richest natural source of vitamin B12?",
+    "choices": ["Spinach", "Eggs", "Orange juice", "Whole wheat bread"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the typical recommended daily allowance of dietary fiber for adult women?",
+    "choices": ["10 grams", "25 grams", "50 grams", "75 grams"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Phylloquinone is the natural form of which vitamin?",
+    "choices": ["Vitamin D", "Vitamin K", "Vitamin E", "Vitamin B12"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which mineral works with calcium to maintain bone health and muscle function?",
+    "choices": ["Copper", "Phosphorus", "Manganese", "Molybdenum"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the Maillard reaction in cooking?",
+    "choices": ["Caramelization of sugars", "Browning from amino acid-sugar interaction", "Oxidation of fats", "Denaturation of proteins"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Pellagra, a disease affecting skin and nervous tissue, results from deficiency of which vitamin?",
+    "choices": ["Niacin", "Folate", "Biotin", "Pantothenic acid"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which of these foods is highest in omega-3 fatty acids?",
+    "choices": ["Sunflower oil", "Salmon", "Avocado oil", "Peanut butter"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the primary function of bile in nutrient absorption?",
+    "choices": ["Break down protein", "Emulsify fats", "Absorb vitamins", "Produce glucose"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How many calories are in one gram of carbohydrate?",
+    "choices": ["3", "4", "7", "9"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which vitamin is produced endogenously when skin is exposed to sunlight?",
+    "choices": ["Vitamin A", "Vitamin D", "Vitamin E", "Vitamin K"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Anthocyanins and flavonoids found in berries are examples of what type of compounds?",
+    "choices": ["Amino acids", "Polyphenols", "Carotenoids", "Sterols"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which electrolyte is most abundant outside the cell and regulates fluid balance?",
+    "choices": ["Potassium", "Calcium", "Sodium", "Magnesium"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the recommended daily sodium intake for adults according to most health organizations?",
+    "choices": ["500 mg", "1500 mg", "3000 mg", "5000 mg"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Methionine and cysteine are examples of amino acids containing which element?",
+    "choices": ["Phosphorus", "Sulfur", "Nitrogen", "Selenium"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which hormone regulates blood glucose levels by promoting glucose uptake into cells?",
+    "choices": ["Glucagon", "Insulin", "Cortisol", "Epinephrine"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is bioavailability in the context of nutrition?",
+    "choices": ["Total nutrient content in food", "Percentage of nutrient that is absorbed and utilized", "Speed of digestion", "Nutrient density per calorie"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Saturated fats are predominantly found in which source?",
+    "choices": ["Plant oils like olive oil", "Fish and seafood", "Animal products like butter", "Nuts and seeds"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which amino acid cannot be synthesized by the human body and must come from diet?",
+    "choices": ["Alanine", "Leucine", "Aspartate", "Serine"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the function of antioxidants in the body?",
+    "choices": ["Provide energy", "Neutralize free radicals", "Build muscle tissue", "Regulate hormones"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Myoglobin, the protein that stores oxygen in muscle, requires which mineral?",
+    "choices": ["Zinc", "Copper", "Iron", "Manganese"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which vitamin is fat-soluble and essential for blood clotting?",
+    "choices": ["Vitamin E", "Vitamin K", "Vitamin D", "Vitamin A"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the glycemic index used to measure?",
+    "choices": ["Nutrient density", "Speed at which food raises blood glucose", "Fiber content", "Caloric density"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Pernicious anemia is specifically caused by deficiency of which vitamin?",
+    "choices": ["Folate", "Vitamin B12", "Iron", "Vitamin C"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which mineral is the most abundant in the human body?",
+    "choices": ["Phosphorus", "Magnesium", "Calcium", "Potassium"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What are trans fats primarily the result of?",
+    "choices": ["Natural plant processes", "Animal fat formation", "Industrial hydrogenation", "Bacterial fermentation"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Creatine phosphate in muscles is synthesized from which amino acids?",
+    "choices": ["Glycine and arginine", "Leucine and isoleucine", "Tryptophan and tyrosine", "Cysteine and methionine"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which B vitamin is required for the synthesis of neurotransmitters like serotonin?",
+    "choices": ["Thiamine", "Vitamin B6", "Riboflavin", "Pantothenic acid"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary food source of naturally occurring vitamin D?",
+    "choices": ["Carrots", "Fortified milk", "Fatty fish", "Oranges"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Homocysteine metabolism requires which vitamins to function properly?",
+    "choices": ["A, D, E", "B12, folate, B6", "C, K, E", "Niacin, thiamine, biotin"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which of these micronutrients is most critical for immune cell function?",
+    "choices": ["Manganese", "Molybdenum", "Zinc", "Chromium"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the Recommended Dietary Allowance (RDA)?",
+    "choices": ["Average daily intake", "Minimum to prevent deficiency", "Daily intake sufficient for 97-98% of healthy individuals", "Maximum safe intake"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Carnitine, important for fatty acid transport in mitochondria, is synthesized from which amino acid?",
+    "choices": ["Tyrosine", "Lysine", "Phenylalanine", "Histidine"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  }
+]

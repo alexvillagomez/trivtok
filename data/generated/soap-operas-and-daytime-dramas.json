@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Which ABC soap opera is set primarily in the fictional city of Port Charles, New York?",
+    "choices": ["General Hospital", "One Life to Live", "All My Children", "Ryan's Hope"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which long-running CBS soap is set in the fictional Midwestern city of Genoa City?",
+    "choices": ["Guiding Light", "As the World Turns", "The Young and the Restless", "Capitol"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which NBC daytime drama is set in the fictional town of Salem?",
+    "choices": ["Another World", "Days of Our Lives", "Sunset Beach", "Passions"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the title of CBS's half-hour sister soap to The Young and the Restless?",
+    "choices": ["Loving", "The City", "The Bold and the Beautiful", "Generations"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which soap opera began on radio in 1937 before becoming a television institution?",
+    "choices": ["The Doctors", "Guiding Light", "Santa Barbara", "Loving"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which daytime soap centered on the wealthy Chandler family in Pine Valley?",
+    "choices": ["All My Children", "One Life to Live", "Search for Tomorrow", "The Edge of Night"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which soap opera took place in the fictional town of Oakdale, Illinois?",
+    "choices": ["Another World", "As the World Turns", "Ryan's Hope", "Texas"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which ABC soap was set primarily in Llanview, Pennsylvania?",
+    "choices": ["Loving", "Port Charles", "One Life to Live", "The City"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which gothic daytime serial featured vampire Barnabas Collins?",
+    "choices": ["Dark Shadows", "Passions", "Strange Paradise", "The Secret Storm"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which soap's opening voice-over began, 'Like sands through the hourglass...'?",
+    "choices": ["Another World", "Days of Our Lives", "The Doctors", "Generations"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which actress became especially identified with Erica Kane on All My Children?",
+    "choices": ["Susan Lucci", "Deidre Hall", "Jess Walton", "Maureen Garrett"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "On General Hospital, who is the longtime mobster antihero played for many years by Maurice Benard?",
+    "choices": ["Luke Spencer", "Sonny Corinthos", "Jasper Jacks", "Nikolas Cassadine"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which supercouple wedding on General Hospital was interrupted by a bomb scare in 1981, helping cement the show's pop-culture dominance?",
+    "choices": ["Robert and Anna", "Frisco and Felicia", "Luke and Laura", "Sonny and Brenda"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which actress played Dr. Marlena Evans, one of the signature characters of Days of Our Lives?",
+    "choices": ["Robin Strasser", "Deidre Hall", "Kristian Alfonso", "Lauren Koslow"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "On Days of Our Lives, which family is the central rival dynasty to the Bradys?",
+    "choices": ["The Cassadines", "The Bauers", "The DiMeras", "The Spauldings"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which actor created the role of Victor Newman on The Young and the Restless?",
+    "choices": ["Eric Braeden", "Peter Bergman", "Doug Davidson", "Kristoff St. John"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "On The Bold and the Beautiful, the Forrester family business is in what industry?",
+    "choices": ["Banking", "Fashion", "Publishing", "Hotel management"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which soap opera became famous in the 1980s for its lavish Capwell family saga set in California?",
+    "choices": ["Santa Barbara", "Sunset Beach", "Capitol", "Loving"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which soap centered on an Irish American family in New York's Washington Heights?",
+    "choices": ["Ryan's Hope", "Loving", "Port Charles", "Texas"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which short-lived 1990s ABC soap was a spin-off from General Hospital?",
+    "choices": ["Loving", "Port Charles", "The City", "Sunset Beach"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which soap opera centered on the Marshall and Whitmore families and made daytime history with a Black family at its core from the start?",
+    "choices": ["Generations", "Loving", "Rituals", "Capitol"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which NBC soap was notable as the first daytime drama to feature a predominantly Black family from its start?",
+    "choices": ["Generations", "Passions", "Texas", "Another World"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which actress was nicknamed 'Daytime's Leading Lady' for her long tenure as Erika Slezak's character Viki on One Life to Live?",
+    "choices": ["Robin Mattson", "Erika Slezak", "Linda Dano", "Judith Light"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which One Life to Live character had the full name Victoria Lord?",
+    "choices": ["Dorian Cramer", "Blair Cramer", "Viki Lord", "Tina Lord"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which character's 1983 General Hospital wedding drew an estimated television audience of more than 30 million viewers?",
+    "choices": ["Laura Spencer", "Felicia Jones", "Anna Devane", "Bobbie Spencer"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which actress originated the role of Brooke Logan on The Bold and the Beautiful?",
+    "choices": ["Katherine Kelly Lang", "Hunter Tylo", "Susan Flannery", "Ronn Moss"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which actor played Ridge Forrester for decades on The Bold and the Beautiful before later recasts?",
+    "choices": ["Winsor Harmon", "Jack Wagner", "Ronn Moss", "Thorsten Kaye"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which character was the matriarch Stephanie Forrester on The Bold and the Beautiful?",
+    "choices": ["Susan Flannery", "Joan Collins", "Linda Gray", "Krista Allen"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which actor played Bo Brady, one half of a major Days of Our Lives supercouple with Hope?",
+    "choices": ["Stephen Nichols", "Peter Reckell", "Drake Hogestyn", "Bryan Dattilo"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "On Days of Our Lives, what is Hope's maiden family name before she became part of the Bo and Hope pairing?",
+    "choices": ["Brady", "Kiriakis", "Williams", "Horton"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which couple nickname refers to Patch and Kayla on Days of Our Lives?",
+    "choices": ["Jarlena", "Stayla", "Phloe", "Cin"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which soap opera featured the Carrington-like wealthy family called the Spauldings?",
+    "choices": ["Guiding Light", "As the World Turns", "Santa Barbara", "Another World"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which family name belongs to the farming and medical clan at the center of Guiding Light for decades?",
+    "choices": ["Bauer", "Hughes", "Abbott", "Reardon"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which family anchors much of the old-guard power structure on As the World Turns?",
+    "choices": ["Hughes", "Cassadine", "Chancellor", "Lewis"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which actress famously played Lisa Grimaldi on As the World Turns, making the character one of daytime's enduring schemers?",
+    "choices": ["Eileen Fulton", "Meg Bennett", "Robin Strasser", "Nancy Lee Grahn"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which soap was canceled by CBS in 2010 after more than 54 years on television?",
+    "choices": ["As the World Turns", "Guiding Light", "Another World", "The Doctors"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which soap ended in 2009, leaving CBS with only two daytime dramas?",
+    "choices": ["Guiding Light", "Port Charles", "Santa Barbara", "Ryan's Hope"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which NBC soap opera ended in 1999 and was long set in Bay City?",
+    "choices": ["Sunset Beach", "Another World", "The City", "Passions"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was the fictional setting of Another World?",
+    "choices": ["Bay City", "Pine Valley", "Monticello", "Corinth"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which soap opera spun off Texas from one of its own story worlds?",
+    "choices": ["Another World", "The Doctors", "Search for Tomorrow", "Loving"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which character on Another World was played by Anne Heche in one of her best-known daytime roles?",
+    "choices": ["Vicky Hudson", "Rachel Cory", "Maggie Cory", "Amanda Cory"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which legendary Another World matriarch belonged to the Cory family?",
+    "choices": ["Rachel Cory", "Alexandra Spaulding", "Lila Quartermaine", "Lucinda Walsh"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which actress played the formidable Dorian Lord on One Life to Live for decades?",
+    "choices": ["Robin Strasser", "Susan Haskell", "Kassie DePaiva", "Linda Dano"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which soap introduced daytime audiences to the Buchanan family in Llanview?",
+    "choices": ["One Life to Live", "All My Children", "Santa Barbara", "Loving"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which actress played Anna Devane on both General Hospital and All My Children before returning repeatedly to Port Charles?",
+    "choices": ["Finola Hughes", "Emma Samms", "Kimberly McCullough", "Tristan Rogers"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which actor portrayed Luke Spencer, one of General Hospital's defining characters?",
+    "choices": ["Tony Geary", "Kin Shriner", "Stuart Damon", "John Ingle"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which actress played Laura Spencer for decades on General Hospital?",
+    "choices": ["Genie Francis", "Jacklyn Zeman", "Rebecca Herbst", "Kristina Wagner"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the surname of the eccentric wealthy family led by Edward and Lila on General Hospital?",
+    "choices": ["Cassadine", "Quartermaine", "Corinthos", "Scorpio"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which villainous General Hospital clan was introduced through a 1981 ice-princess adventure storyline?",
+    "choices": ["Quartermaine", "Cassadine", "Jerome", "Baldwin"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which General Hospital couple nickname refers to Sonny Corinthos and Brenda Barrett?",
+    "choices": ["S&B", "Liason", "Scrubs", "JaSam"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which couple nickname refers to Jason Morgan and Elizabeth Webber on General Hospital?",
+    "choices": ["Jasam", "Liason", "CarSon", "Franna"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which actress played Brenda Barrett, a central 1990s General Hospital heroine opposite Sonny?",
+    "choices": ["Vanessa Marcil", "Sarah Brown", "Tamara Braun", "Alicia Leigh Willis"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which actor originated the role of Jason Quartermaine before the character evolved into Jason Morgan after a car crash?",
+    "choices": ["Steve Burton", "Billy Miller", "Sean Kanan", "Brad Maule"],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which character was the iconic nurse and later administrator often called the heart of General Hospital?",
+    "choices": ["Monica Quartermaine", "Audrey Hardy", "Bobbie Spencer", "Jessie Brewer"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which actress played Reva Shayne on Guiding Light, one of daytime's most flamboyant heroines?",
+    "choices": ["Kim Zimmer", "Maura West", "Crystal Chappell", "Robin Mattson"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which actress was known for playing the formidable Alexandra Spaulding on Guiding Light?",
+    "choices": ["Beverlee McKinsey", "Susan Lucci", "Linda Dano", "Nancy Lee Grahn"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which actor played Josh Lewis, Reva's signature love interest on Guiding Light?",
+    "choices": ["Robert Newman", "Grant Aleksander", "Michael O'Leary", "Jerry verDorn"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which actress played Nikki Newman, one of The Young and the Restless' most enduring heroines?",
+    "choices": ["Jeanne Cooper", "Melody Thomas Scott", "Eileen Davidson", "Tracey Bregman"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the family surname of Jack and Ashley on The Young and the Restless?",
+    "choices": ["Chancellor", "Abbott", "Newman", "Prentiss"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which actress played the glamorous Katherine Chancellor on The Young and the Restless?",
+    "choices": ["Jeanne Cooper", "Jess Walton", "Judith Chapman", "Beth Maitland"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which actress is closely identified with Jill Foster Abbott on The Young and the Restless?",
+    "choices": ["Jess Walton", "Lauralee Bell", "Sharon Case", "Michelle Stafford"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which soap opera did Bill Bell and Lee Phillip Bell create together before later launching The Bold and the Beautiful?",
+    "choices": ["Days of Our Lives", "The Young and the Restless", "Santa Barbara", "Loving"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which actress played Cricket, the nickname of Christine Blair, on The Young and the Restless?",
+    "choices": ["Lauralee Bell", "Tricia Cast", "Heather Tom", "Camryn Grimes"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which CBS soap became known for especially short, beachy episodes set around the wealthy of Los Angeles fashion circles?",
+    "choices": ["The Bold and the Beautiful", "As the World Turns", "Guiding Light", "Capitol"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which actress won attention on The Bold and the Beautiful as Taylor Hayes before later becoming known for another major soap role?",
+    "choices": ["Hunter Tylo", "Eileen Davidson", "Robin Christopher", "Cady McClain"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which soap opera featured the Crane family, living doll Timmy, and a witch named Tabitha?",
+    "choices": ["Passions", "Dark Shadows", "Port Charles", "Santa Barbara"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which creator developed both Days of Our Lives and Passions?",
+    "choices": ["Agnes Nixon", "Irna Phillips", "James E. Reilly", "William J. Bell"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which NBC soap became notorious for supernatural and camp elements in the late 1990s and 2000s?",
+    "choices": ["Sunset Beach", "Passions", "Generations", "Texas"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which short-lived NBC soap set in Southern California launched in 1997 and was co-created by Aaron Spelling?",
+    "choices": ["Sunset Beach", "Santa Barbara", "The City", "Port Charles"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which daytime serial was unusual for being a soap opera built around legal stories and noir atmosphere rather than domestic family life alone?",
+    "choices": ["The Edge of Night", "Loving", "Generations", "Rituals"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which soap opera was Agnes Nixon's first creation for ABC before she later created All My Children?",
+    "choices": ["One Life to Live", "Ryan's Hope", "Loving", "The City"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which creator is most associated with socially conscious ABC soaps like All My Children and One Life to Live?",
+    "choices": ["Agnes Nixon", "James E. Reilly", "Douglas Marland", "Claire Labine"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which producer is especially credited with reshaping General Hospital in the late 1970s and early 1980s into a phenomenon mixing romance and adventure?",
+    "choices": ["Kay Alden", "Gloria Monty", "Pat Falken Smith", "Meg Bennett"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which soap opera won the Daytime Emmy for Outstanding Drama Series three straight years from 1988 through 1990?",
+    "choices": ["Santa Barbara", "Days of Our Lives", "Another World", "Loving"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which character was the murder victim in Santa Barbara's 'Who Killed Channing Creighton Capwell Jr.?' backstory that drove the early plot?",
+    "choices": ["Mason Capwell", "C. C. Capwell", "Channing Capwell Jr.", "Joe Perkins"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which soap supercouple is commonly called 'Nuke' by fans?",
+    "choices": ["Noah and Luke on As the World Turns", "Nikolas and Luke on General Hospital", "Nora and Duke on One Life to Live", "Nikki and Duke on Loving"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which soap featured the groundbreaking character Bianca Montgomery, daughter of Erica Kane?",
+    "choices": ["All My Children", "One Life to Live", "Loving", "Ryan's Hope"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which actress played Bianca Montgomery in the early 2000s during one of All My Children's best-known social storylines?",
+    "choices": ["Eden Riegel", "Rebecca Budig", "Alicia Minshew", "Heather Tom"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which soap opera featured Kendall Hart, another major daughter of Erica Kane?",
+    "choices": ["All My Children", "Port Charles", "The City", "Ryan's Hope"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which actress became especially associated with Kendall Hart on All My Children?",
+    "choices": ["Alicia Minshew", "Cady McClain", "Kim Delaney", "Susan Pratt"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which One Life to Live character was a district attorney, rival, and eventual husband of Viki named Clint?",
+    "choices": ["Clint Buchanan", "Max Holden", "Bo Buchanan", "Todd Manning"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which controversial One Life to Live antihero debuted in a storyline involving a fraternity assault in the 1990s before becoming central for years?",
+    "choices": ["Cord Roberts", "Todd Manning", "Mitch Laurence", "Walker Laurence"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which actor first won a Daytime Emmy for playing Todd Manning on One Life to Live?",
+    "choices": ["Trevor St. John", "Roger Howarth", "Michael Easton", "Kamar de los Reyes"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which actress played Skye Chandler on both All My Children and General Hospital after the character crossed networks within ABC's soap universe?",
+    "choices": ["Robin Christopher", "Sarah Michelle Gellar", "Cynthia Watros", "Martha Byrne"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which future Oscar winner played twins Frannie and Sabrina on As the World Turns early in her career?",
+    "choices": ["Julianne Moore", "Marisa Tomei", "Helen Hunt", "Holly Hunter"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which actress played Hayley Vaughan on All My Children before later becoming widely known as a daytime host and sitcom performer?",
+    "choices": ["Kelly Ripa", "Lisa Rinna", "Eva LaRue", "Kimberly McCullough"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which talk-show host met her future husband Mark Consuelos while both were on All My Children?",
+    "choices": ["Kelly Ripa", "Kathie Lee Gifford", "Rosie O'Donnell", "Ricki Lake"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which future Buffy the Vampire Slayer star played Kendall Hart on All My Children?",
+    "choices": ["Sarah Michelle Gellar", "Charisma Carpenter", "Alyson Hannigan", "Eliza Dushku"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which actress played Greenlee Smythe on All My Children for most of the character's best-known run?",
+    "choices": ["Rebecca Budig", "Cameron Mathison", "Alicia Minshew", "Eden Riegel"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which actor was especially associated with Ryan Lavery on All My Children?",
+    "choices": ["Cameron Mathison", "Thorsten Kaye", "Michael E. Knight", "Jacob Young"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  }
+]

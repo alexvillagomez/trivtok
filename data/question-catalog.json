@@ -1,0 +1,4075 @@
+{
+  "version": 1,
+  "generatedOn": "2026-09-07",
+  "sourceDirectory": "data/generated",
+  "totals": {
+    "files": 248,
+    "questions": 14054,
+    "duplicateQuestionGroups": 0,
+    "errors": 0,
+    "warnings": 109
+  },
+  "topicFamilies": [
+    {
+      "id": "sports.world-football",
+      "topic": "World football",
+      "targetQuestions": 100,
+      "files": [
+        "data/generated/sports-world-football.json",
+        "data/generated/world-football-pop-culture.json",
+        "data/generated/world-football-club-competitions.json"
+      ],
+      "questions": 233,
+      "hardQuestions": 76,
+      "targetMet": true
+    },
+    {
+      "id": "science.genetics.mendelian-linkage",
+      "topic": "Mendelian ratios and linkage",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/genetics-mendelian-ratios-and-linkage.json"
+      ],
+      "questions": 100,
+      "hardQuestions": 80,
+      "targetMet": true
+    },
+    {
+      "id": "science.oceanography.thermohaline-circulation",
+      "topic": "Thermohaline circulation",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/oceanography-thermohaline-circulation.json"
+      ],
+      "questions": 100,
+      "hardQuestions": 80,
+      "targetMet": true
+    },
+    {
+      "id": "history.french-revolution.revolutionary-government",
+      "topic": "French revolutionary government, 1792–1795",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/french-revolution-committees-and-revolutionary-government.json"
+      ],
+      "questions": 100,
+      "hardQuestions": 63,
+      "targetMet": true
+    },
+    {
+      "id": "history.ancient-greece.athenian-democracy",
+      "topic": "Athenian democratic institutions",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/ancient-greece-athenian-democratic-institutions.json"
+      ],
+      "questions": 100,
+      "hardQuestions": 81,
+      "targetMet": true
+    },
+    {
+      "id": "humanities.shakespeare.textual-history",
+      "topic": "Shakespeare textual history",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/shakespeare-textual-history-and-quartos.json"
+      ],
+      "questions": 100,
+      "hardQuestions": 100,
+      "targetMet": true
+    },
+    {
+      "id": "humanities.renaissance-painting.commissions",
+      "topic": "Renaissance painting iconography and commissions",
+      "targetQuestions": 100,
+      "minimumHardQuestions": 60,
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/renaissance-painting-iconography-and-commissions.json"
+      ],
+      "questions": 100,
+      "hardQuestions": 100,
+      "targetMet": true
+    }
+  ],
+  "files": [
+    {
+      "file": "data/generated/actors-and-actresses.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.38,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        90,
+        0,
+        0,
+        0
+      ],
+      "sha256": "957581dd6fe7d20b14db89e8e7bacaabf0115528cf46872c02d9e3ad8e56154a"
+    },
+    {
+      "file": "data/generated/akkadian-language-dialects.json",
+      "questions": 105,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.68,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        51,
+        45,
+        9,
+        0
+      ],
+      "sha256": "06f862e8cee28a17b3dc59c0a8e350e9ac1a650555c7a3d0701ccdae7afa89c6"
+    },
+    {
+      "file": "data/generated/ancient-greece-athenian-democratic-institutions.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.38,
+        "max": 0.9299999999999999,
+        "hardAtOrAbove070": 81
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "e20f5bf285f7958b912636b3d7ed4d6c9e5efeeb6de8fb54af28c318734fd64c"
+    },
+    {
+      "file": "data/generated/animated-tv-and-cartoons.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 50
+      },
+      "correctIndexDistribution": [
+        18,
+        50,
+        20,
+        2
+      ],
+      "sha256": "6f4a9d982861a88a8204ecf1656e687f41555aa0894f237f06e230eb11d1890d"
+    },
+    {
+      "file": "data/generated/anime-and-manga-landmarks.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.84,
+        "hardAtOrAbove070": 25
+      },
+      "correctIndexDistribution": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "sha256": "259ef3116e635b6f8a4341bd1854000facefcbdda11a09a98ed90670113480ee"
+    },
+    {
+      "file": "data/generated/architecture-history-and-styles.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.77,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        2,
+        29,
+        11,
+        4
+      ],
+      "sha256": "137fbb904e41b0ad4d0e082e9572fe92fab98915a1e54609892e8d9337cbd61b"
+    },
+    {
+      "file": "data/generated/art-modern-movements.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        1,
+        30,
+        13,
+        1
+      ],
+      "sha256": "a4e728276dc5a0b92661826f76bc207f4d5201a3226998edbb81d588ce63d96b"
+    },
+    {
+      "file": "data/generated/art-renaissance-painting.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        6,
+        28,
+        16,
+        0
+      ],
+      "sha256": "c5bc14b651ebef449044361ed1cb3ae67c3bb8b9346d6dcad528c570d3f78b4b"
+    },
+    {
+      "file": "data/generated/arts-dance-and-ballet.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        15,
+        23,
+        9,
+        0
+      ],
+      "sha256": "1bef058b6a3e93aee3513ead11ab70f40450ea53fc878f3e2388f1f7ddf1e517"
+    },
+    {
+      "file": "data/generated/arts-decorative-arts-and-crafts.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.95,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        12,
+        10,
+        11,
+        11
+      ],
+      "sha256": "ede02e12ee7e4fea2dfef7972238e108b0ee34f2af08d53124f10bc420d155e8"
+    },
+    {
+      "file": "data/generated/arts-fashion-and-design-history.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.07,
+        "max": 0.88,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        12,
+        11,
+        11,
+        11
+      ],
+      "sha256": "d9a46b27d5c61e534f849acca25f7dc6214bbb39d5c2f54044b03b762f147cbf"
+    },
+    {
+      "file": "data/generated/arts-opera-and-classical-voice.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.78,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        3,
+        27,
+        17,
+        0
+      ],
+      "sha256": "3131146ace81b39b34321e5506dac68c54b78ea2eb1cc8a29056e3d328253503"
+    },
+    {
+      "file": "data/generated/arts-photography-history.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        4,
+        36,
+        5,
+        0
+      ],
+      "sha256": "2064c16554f98a2c3ecd3dd244e5683e8cc3fda7af208ffe8674b851a9381c6d"
+    },
+    {
+      "file": "data/generated/arts-sculpture-and-famous-artworks.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        8,
+        24,
+        11,
+        2
+      ],
+      "sha256": "09f94996a89cb5f063b6a8d55de5d09c9e0817650a7a83b9b00f148c8b4aefce"
+    },
+    {
+      "file": "data/generated/arts-theater-and-musicals.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        10,
+        31,
+        8,
+        1
+      ],
+      "sha256": "72ce31df4396a328e0153ddc4877b0d0a7b917918a0174d3b9ccd9558ee23fad"
+    },
+    {
+      "file": "data/generated/assassination-of-caesar.json",
+      "questions": 91,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.72,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        30,
+        41,
+        18,
+        2
+      ],
+      "sha256": "95a1f501c0dece12f6d10ecae40b1a239162046557eb150f02c31aed448b7fa3"
+    },
+    {
+      "file": "data/generated/astronomy-solar-system-planets.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        2,
+        24,
+        18,
+        1
+      ],
+      "sha256": "530009103125c52a13ede37c698f140e8942cc1891d4b849d27e8be38dafce09"
+    },
+    {
+      "file": "data/generated/astronomy-stars-and-galaxies.json",
+      "questions": 49,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        3,
+        32,
+        13,
+        1
+      ],
+      "sha256": "44d92ec075115bc99c282c25675fa70978d6358d7a442734ea1c19214af64b4c"
+    },
+    {
+      "file": "data/generated/atmospheric-thermodynamics.json",
+      "questions": 92,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.64,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        32,
+        43,
+        17,
+        0
+      ],
+      "sha256": "5378d9fad62cd84376ec73f9fb45488a9182ee929f9c6b3189368615c7c7a5a2"
+    },
+    {
+      "file": "data/generated/augustan-literature-authors.json",
+      "questions": 108,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        27,
+        27,
+        27,
+        27
+      ],
+      "sha256": "f16bb30eb9d79dbc5925fdcbb80f4fac0eabc28b61307de576a70586b810a089"
+    },
+    {
+      "file": "data/generated/augustus-early-principate.json",
+      "questions": 104,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.88,
+        "hardAtOrAbove070": 17
+      },
+      "correctIndexDistribution": [
+        26,
+        26,
+        26,
+        26
+      ],
+      "sha256": "e6c19cf1a6b5d97fd712b5a5b89fc5812450aa19a86becf931224ea306da6d10"
+    },
+    {
+      "file": "data/generated/award-shows-and-ceremonies.json",
+      "questions": 36,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.8,
+        "hardAtOrAbove070": 20
+      },
+      "correctIndexDistribution": [
+        36,
+        0,
+        0,
+        0
+      ],
+      "sha256": "984abb172e9571ea69afd142fe5502ba16085b93ae821096262a18ba146c2dab"
+    },
+    {
+      "file": "data/generated/biology-animal-kingdom.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.82,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        5,
+        16,
+        21,
+        5
+      ],
+      "sha256": "eae80d7b712c2a92f530584d0925d00a3cae45a6831ed427394ff9bc1b338ecf"
+    },
+    {
+      "file": "data/generated/biology-botany-plants.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        11,
+        19,
+        15,
+        0
+      ],
+      "sha256": "986218e68d86300d8e4bfb94772225b847331350ac8a8d9f6b22a161facd4df4"
+    },
+    {
+      "file": "data/generated/biology-cardiovascular-system.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        5,
+        30,
+        11,
+        2
+      ],
+      "sha256": "837b153c6e4f081a116f30412a8e218262958c18343b61bb6fc24fbf96fe318e"
+    },
+    {
+      "file": "data/generated/biology-cell-biology.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        14,
+        25,
+        6,
+        0
+      ],
+      "sha256": "3a73d2c157b0876437d2dbe4f1dacd3d6fa5a1cf73f4e7299c389acfb1d347ae"
+    },
+    {
+      "file": "data/generated/biology-digestive-system.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        3,
+        28,
+        13,
+        2
+      ],
+      "sha256": "b281638ed61cb6287ec4070292abf9779782ca65947a761ba36488257a4927c3"
+    },
+    {
+      "file": "data/generated/biology-ecology-ecosystems.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        1,
+        29,
+        18,
+        0
+      ],
+      "sha256": "35c4f68d3618720d0999a16b369f0e2d8585fda386bfeb4b04918413275846e3"
+    },
+    {
+      "file": "data/generated/biology-genetics-heredity.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        3,
+        26,
+        15,
+        1
+      ],
+      "sha256": "990e0f4afc78900a5ffef0999b80a58b7be5e9c78b0d01a7dbf5b2bc1aec9360"
+    },
+    {
+      "file": "data/generated/biology-immune-and-endocrine-systems.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        27,
+        19,
+        2,
+        0
+      ],
+      "sha256": "3a4bf3297dae8c5e6c4bed3d483348005e0e1d3691a892238124a0457c053932"
+    },
+    {
+      "file": "data/generated/biology-marine-life.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        12,
+        13,
+        11,
+        11
+      ],
+      "sha256": "7e03a3104ce5bf263e196392dd1d3a1e7f923fda6b499222e806013206f1885a"
+    },
+    {
+      "file": "data/generated/biology-nervous-system.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.82,
+        "hardAtOrAbove070": 15
+      },
+      "correctIndexDistribution": [
+        5,
+        27,
+        13,
+        0
+      ],
+      "sha256": "07838265b659ea537de63960af08d29798a103df9e5c8a3222f549c0ca445266"
+    },
+    {
+      "file": "data/generated/biology-respiratory-and-urinary-systems.json",
+      "questions": 51,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.82,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        0,
+        26,
+        23,
+        2
+      ],
+      "sha256": "6cf8dec7475d6ecc862f9f502f93a2b941caf5fbc0ac02f85d91e65c42018d3a"
+    },
+    {
+      "file": "data/generated/biology-skeletal-muscular-system.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        3,
+        25,
+        17,
+        0
+      ],
+      "sha256": "a9b665aba730776bad7ab516f039509a1ed912923cbc6d009a6d807ed62d8e26"
+    },
+    {
+      "file": "data/generated/boy-bands-and-girl-groups.json",
+      "questions": 38,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 20
+      },
+      "correctIndexDistribution": [
+        38,
+        0,
+        0,
+        0
+      ],
+      "sha256": "3ce0365144e8c766d3a16bb122af4c4306297d24d5f146eee148520ebeb9c4c1"
+    },
+    {
+      "file": "data/generated/caesar-dictatorship.json",
+      "questions": 101,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.82,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        41,
+        43,
+        15,
+        2
+      ],
+      "sha256": "737634edd0a3b75a82eb090b8f5444753c87692709e8ca802eee7c9b2c61aed8"
+    },
+    {
+      "file": "data/generated/celebrity-scandals-and-tabloid-culture.json",
+      "questions": 41,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 23
+      },
+      "correctIndexDistribution": [
+        36,
+        5,
+        0,
+        0
+      ],
+      "sha256": "f8025ad776cb8802e79509086b136d5cf5eae748b1036d36d485c956d7856936"
+    },
+    {
+      "file": "data/generated/chemical-thermodynamics.json",
+      "questions": 91,
+      "difficulty": {
+        "min": 0.16,
+        "max": 0.82,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        24,
+        41,
+        25,
+        1
+      ],
+      "sha256": "6dab6b2e2d9201aa0ce14251fa60b8e14ac62eb09d540af8d396a9a014b75d98"
+    },
+    {
+      "file": "data/generated/cleopatra-ptolemaic-egypt.json",
+      "questions": 103,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.84,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        46,
+        21,
+        20,
+        16
+      ],
+      "sha256": "c1e65a96fe9b59439df8eeb28122a42b83662bc234c3fb893e5b1358c0542c89"
+    },
+    {
+      "file": "data/generated/computer-science-fundamentals.json",
+      "questions": 49,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        49,
+        0,
+        0,
+        0
+      ],
+      "sha256": "a3a466d54a14c6dcf6872f616d82a5df4a3930154e0e7677c8810336cc8e1790"
+    },
+    {
+      "file": "data/generated/earth-science-geology.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.78,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        3,
+        33,
+        14,
+        0
+      ],
+      "sha256": "601591a9dc1b991cb49fe117be541b358992bca9434e82abef73d4788b94380a"
+    },
+    {
+      "file": "data/generated/economics-principles.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        2,
+        35,
+        8,
+        0
+      ],
+      "sha256": "1da0962e6b00723f4eeab14e8c7f88de24187c5c3065dbfd635f930f85cdee0f"
+    },
+    {
+      "file": "data/generated/entertainment-comics-and-superheroes.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.88,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        1,
+        29,
+        17,
+        1
+      ],
+      "sha256": "a9d3a2628689ea0bb5d4b3e9967a423271401be5871aa8d5189abd3a5be7dc60"
+    },
+    {
+      "file": "data/generated/entertainment-magic-and-circus.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        5,
+        38,
+        2,
+        0
+      ],
+      "sha256": "c943ca857b6066e13bc1c08594cfc09aceb2214d7f1b5f987c2fd5050bc30607"
+    },
+    {
+      "file": "data/generated/entertainment-television-history.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        9,
+        16,
+        17,
+        2
+      ],
+      "sha256": "59e67e153d32a9ac33ffcb296728106ce59566f71c3c974035e79ed74e5d28da"
+    },
+    {
+      "file": "data/generated/entertainment-toys-and-games-history.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        10,
+        25,
+        9,
+        2
+      ],
+      "sha256": "72f9f28ef38b63cba12a4c2a6aa78b50bd44c3dc9fbd3525bf6e892c00fef653"
+    },
+    {
+      "file": "data/generated/entertainment-video-games-history.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.84,
+        "hardAtOrAbove070": 25
+      },
+      "correctIndexDistribution": [
+        7,
+        20,
+        14,
+        4
+      ],
+      "sha256": "e26f2ac0aed2502fdc3d4f2339d4640aebf577ee92fde087f3fd7fd0eaf9ac09"
+    },
+    {
+      "file": "data/generated/fashion-and-celebrity-style.json",
+      "questions": 39,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 21
+      },
+      "correctIndexDistribution": [
+        39,
+        0,
+        0,
+        0
+      ],
+      "sha256": "d839c5faabe8152fef49a46d818cfd724dac475381f4ef1e2c099737f11210fc"
+    },
+    {
+      "file": "data/generated/film-animation-history.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        12,
+        14,
+        9,
+        10
+      ],
+      "sha256": "850db321afd7056611b6fbeeae0baab7111c783aa5f35f483b33365eacc86762"
+    },
+    {
+      "file": "data/generated/film-classic-hollywood.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 12
+      },
+      "correctIndexDistribution": [
+        4,
+        7,
+        25,
+        11
+      ],
+      "sha256": "94a524b9f5a6ae87363bba20b599a94d0a774a51a5453cb0325ecfc793c50dfb"
+    },
+    {
+      "file": "data/generated/film-modern-cinema.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        12,
+        10,
+        10,
+        13
+      ],
+      "sha256": "4156fae59bcbc9e0d1e5fdc8e58ab53200097d2a1ef82e457fb30f3df8cfc2af"
+    },
+    {
+      "file": "data/generated/food-desserts-and-baking.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        8,
+        20,
+        17,
+        2
+      ],
+      "sha256": "48f48fe3f1d9a1b7d47f46e69e9de0bdb6ed32116c7935e155602a57bb209358"
+    },
+    {
+      "file": "data/generated/food-drinks-and-beverages.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.25,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        4,
+        26,
+        13,
+        2
+      ],
+      "sha256": "2f639da9c36feca687e58e1f8c7a1efa8fbd81bb94c83f7a263a45952c8a2c43"
+    },
+    {
+      "file": "data/generated/food-world-cuisine.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.2,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        11,
+        28,
+        6,
+        1
+      ],
+      "sha256": "a253b45638f1a1a419fbacb4590dcadf040eb7b1999790d06166da332bba710f"
+    },
+    {
+      "file": "data/generated/fourth-generation-girl-groups.json",
+      "questions": 91,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.78,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        87,
+        4,
+        0,
+        0
+      ],
+      "sha256": "c2d36c9cc239b0f0e20ade3ecc49bdb7c7e5eb1675e7d65fc505173a40c20db4"
+    },
+    {
+      "file": "data/generated/french-revolution-committees-and-revolutionary-government.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.42,
+        "max": 0.99,
+        "hardAtOrAbove070": 63
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "f453954a95fd26fd0986e5538f3ed494f496409ad65654dd6e5ad7a89e60f468"
+    },
+    {
+      "file": "data/generated/game-shows-and-quiz-shows.json",
+      "questions": 38,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 20
+      },
+      "correctIndexDistribution": [
+        37,
+        1,
+        0,
+        0
+      ],
+      "sha256": "a634a7027312bf7e6889bc7113dcd4400516ceae1eff946ac205f91883de9a90"
+    },
+    {
+      "file": "data/generated/games-card-games-and-gambling.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        12,
+        22,
+        13,
+        0
+      ],
+      "sha256": "bee722597c138524681458f8c3e60119c53226f4690eae0b3c57374b74548cc5"
+    },
+    {
+      "file": "data/generated/games-chess-and-board-games.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.85,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        12,
+        9,
+        8,
+        16
+      ],
+      "sha256": "cb3cced218e2983082561c36bcd3d473853fff1356f882c9d55b682ed9dded01"
+    },
+    {
+      "file": "data/generated/genetics-mendelian-ratios-and-linkage.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.3,
+        "max": 0.9299999999999999,
+        "hardAtOrAbove070": 80
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "b2337b8aa45b0f77c4264315374984f061a90d0ea7ae530abb8cdfacdab528ca"
+    },
+    {
+      "file": "data/generated/geography-africa.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        15,
+        9,
+        6,
+        15
+      ],
+      "sha256": "dc58c9d4cd9de08b91f15a5567eba8eeb23c9a04554384f562ec0f78464a9d5e"
+    },
+    {
+      "file": "data/generated/geography-asia.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.68,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        12,
+        11,
+        10,
+        13
+      ],
+      "sha256": "1c957f29ca25436669fe94f77830bb92f343d8b61f145a1929028934f9c88a2e"
+    },
+    {
+      "file": "data/generated/geography-borders-and-territories.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.68,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        8,
+        16,
+        18,
+        3
+      ],
+      "sha256": "123da2c77d94e5053c1266ab35cdcd2cf89b3d07603d0b1b8be7dd611b359841"
+    },
+    {
+      "file": "data/generated/geography-currencies-and-economies.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        3,
+        26,
+        15,
+        4
+      ],
+      "sha256": "63d4d7012cf39ab27014cd8e68a50bc6a6a68545d7dd89f58ba2faec8102a580"
+    },
+    {
+      "file": "data/generated/geography-deserts-of-the-world.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        3,
+        23,
+        16,
+        2
+      ],
+      "sha256": "9a34d5b7629a3633cd95d72bc0c24fce006c3803ba28253794532412ff0ce6b2"
+    },
+    {
+      "file": "data/generated/geography-europe.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        4,
+        19,
+        20,
+        3
+      ],
+      "sha256": "eefbb90b42a633324b66e4c466715e5093f10fe0dc03f2cd55f3e416c6668cc8"
+    },
+    {
+      "file": "data/generated/geography-extreme-places-and-superlatives.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        14,
+        10,
+        11,
+        11
+      ],
+      "sha256": "406ad6e9c9c63eb54f663c57e955415a2cbb7d7226c54f5f0561cf27a6a39963"
+    },
+    {
+      "file": "data/generated/geography-islands-of-the-world.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        44,
+        3,
+        1,
+        0
+      ],
+      "sha256": "70eb6957c86a073cc00f297ce8b78f7962739d364c44a96efaa19597d28636f6"
+    },
+    {
+      "file": "data/generated/geography-lakes-and-freshwater.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        1,
+        18,
+        26,
+        1
+      ],
+      "sha256": "a89212f9f2d1028a756fb191282f3dfd2bee1c03f477add24e9fd55f483c143f"
+    },
+    {
+      "file": "data/generated/geography-landmarks-and-monuments.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        11,
+        16,
+        14,
+        5
+      ],
+      "sha256": "f9a6c1bb042314d8ac8d5740e7a9259a7a6ce2b2a501cbf28a397eb62ed8ca3b"
+    },
+    {
+      "file": "data/generated/geography-megacities-and-population.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        4,
+        25,
+        10,
+        6
+      ],
+      "sha256": "47d99106a972bcadbef4714d59c9183dfefda0a390be7792a9f131d69e2daa91"
+    },
+    {
+      "file": "data/generated/geography-microstates-and-small-countries.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.85,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        9,
+        20,
+        15,
+        1
+      ],
+      "sha256": "5a0a4765dd0d5a975f56f0deb69fabcc5872d0437db57ca58e506a36d3a3cf23"
+    },
+    {
+      "file": "data/generated/geography-national-symbols-and-emblems.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        5,
+        17,
+        18,
+        5
+      ],
+      "sha256": "9c48c6c517e6fb6c612561652da09055f629a9e98f24f365ea5cdfe171fed791"
+    },
+    {
+      "file": "data/generated/geography-north-america.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        6,
+        23,
+        16,
+        1
+      ],
+      "sha256": "61e5a510d113d495e4acbbc4e9dca5536dcbf5915df059ab918687337c7d54eb"
+    },
+    {
+      "file": "data/generated/geography-oceania-australia.json",
+      "questions": 53,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        5,
+        18,
+        28,
+        2
+      ],
+      "sha256": "5f6247cab71cdfdaf9c88a29f1d83d67cebf38bbb6b4b290cd185b260097fa1b"
+    },
+    {
+      "file": "data/generated/geography-oceans-and-seas.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        12,
+        11,
+        11,
+        12
+      ],
+      "sha256": "f0ad30d7e8310ef277b286c1851d48bbff72d44b0b2dfc68cdc425bfadfb8f35"
+    },
+    {
+      "file": "data/generated/geography-place-names-and-toponymy.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.82,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        6,
+        28,
+        12,
+        1
+      ],
+      "sha256": "6cec8a39a594b9dab3eedfb8faa3caa39403e70e21ea65849eb9ba23bc3e7362"
+    },
+    {
+      "file": "data/generated/geography-rivers-and-mountains.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        6,
+        17,
+        20,
+        4
+      ],
+      "sha256": "bf37886dc90bbecb5ccbf393ade2fe1b759c81c6d9a78a5f15f4598e69499742"
+    },
+    {
+      "file": "data/generated/geography-south-america.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        8,
+        23,
+        13,
+        1
+      ],
+      "sha256": "5b0ce19b3785eced8e042fe3e2e80429e301fc4eb5cd49c3fffcc174d8032886"
+    },
+    {
+      "file": "data/generated/geography-time-zones-and-earth-facts.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        4,
+        31,
+        8,
+        1
+      ],
+      "sha256": "32401aa3dd04279a23d944094e825c4caa9c8ea2ea8705f5820a0cfb4f7212ca"
+    },
+    {
+      "file": "data/generated/geography-us-cities-and-regions.json",
+      "questions": 49,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        3,
+        23,
+        18,
+        5
+      ],
+      "sha256": "71098ed0d576ac2e93a8de279649dd747291d5cca21cdf7dca19dde5bc778565"
+    },
+    {
+      "file": "data/generated/geography-us-states.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        6,
+        15,
+        21,
+        2
+      ],
+      "sha256": "b5241b40b55d1e4c6841f4146dbc670583639d5dac6cda7b7737953c696492e5"
+    },
+    {
+      "file": "data/generated/geography-world-capitals.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        3,
+        41,
+        1,
+        0
+      ],
+      "sha256": "cd06d87443689c1848ea2f82c0edeac826d88115e620196e9a19d4ce872bd8ff"
+    },
+    {
+      "file": "data/generated/geography-world-flags.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        9,
+        10,
+        16,
+        12
+      ],
+      "sha256": "d3c7ac603c78fe79f3d4192b29ed44ca9dae0ed8a1a73b0d59a54b4df9277c08"
+    },
+    {
+      "file": "data/generated/history-20th-century-decolonization.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        1,
+        28,
+        16,
+        0
+      ],
+      "sha256": "8171187ba2509ed40be68dd3cc7a20e1e4ead3170cd7523af58b234a71f0a5ca"
+    },
+    {
+      "file": "data/generated/history-african-empires.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        11,
+        11
+      ],
+      "sha256": "36b0fb05a5ecbc3605ef96fc148ad153b49bd33e307280201b1b292c43be9638"
+    },
+    {
+      "file": "data/generated/history-age-of-exploration.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        0,
+        30,
+        11,
+        3
+      ],
+      "sha256": "d51896efe95594fd0af0641f9fa828e4f8f4e376b5a5bed2308847a857ef5265"
+    },
+    {
+      "file": "data/generated/history-american-revolution.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        8,
+        30,
+        8,
+        2
+      ],
+      "sha256": "710d7e82072a3e235e4d043bce15fbd402354769d4db934661a78cea18fa5a7b"
+    },
+    {
+      "file": "data/generated/history-ancient-china.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        6,
+        24,
+        11,
+        5
+      ],
+      "sha256": "0a20a009332c848c80a38c142580c63dbceef00fed14d80e3e8f6b0308d7de7d"
+    },
+    {
+      "file": "data/generated/history-ancient-egypt-pharaohs.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        1,
+        32,
+        14,
+        0
+      ],
+      "sha256": "4c2f1592b76d8f64b95cf3ce0f6c80e84cabb9e353a481d9f92ab5ec2f645cc0"
+    },
+    {
+      "file": "data/generated/history-ancient-greece.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        6,
+        29,
+        10,
+        0
+      ],
+      "sha256": "b56bb49316a4064714978d9ddcce64a30538849ddf4315f600648640fbc60531"
+    },
+    {
+      "file": "data/generated/history-ancient-india.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.2,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        7,
+        23,
+        13,
+        2
+      ],
+      "sha256": "e1fb2d6a07320cae30201349d2443d5b69e3a8e39beae490d4856993d8e75cf2"
+    },
+    {
+      "file": "data/generated/history-ancient-persia.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.88,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        6,
+        30,
+        8,
+        2
+      ],
+      "sha256": "40c4fc15ce30dadbdc876fee5aa0c11655632a40335d1b90de43f190d75d3cff"
+    },
+    {
+      "file": "data/generated/history-aviation-and-flight.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        4,
+        21,
+        18,
+        2
+      ],
+      "sha256": "6e31c1fdb4133ec7aef37fc6aa1f98fc9ffbc5541a7bc89b8bd79f1f1435811e"
+    },
+    {
+      "file": "data/generated/history-british-monarchy-and-empire.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        10,
+        22,
+        11,
+        3
+      ],
+      "sha256": "ab6accf4bf71b1e817132efbd786f15af5c3c84c31f54b4c58e04bbcde1d5d49"
+    },
+    {
+      "file": "data/generated/history-cartography-and-maps.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.88,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        3,
+        26,
+        16,
+        0
+      ],
+      "sha256": "1970667be6e0e8505c644c8d9b9f9c550e2ac6126c7f70166611041630c1c400"
+    },
+    {
+      "file": "data/generated/history-castles-and-medieval-warfare.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "sha256": "06e98c2e9d5c4dd620ec26c7a3235dfa02fc3c84da0f843dceb23cd91f1a00f5"
+    },
+    {
+      "file": "data/generated/history-cold-war.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.86,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        2,
+        30,
+        12,
+        3
+      ],
+      "sha256": "8267d0f1f5f8da067deae461f7445b0f46a8719f5f399d329a4c2523e1bf6498"
+    },
+    {
+      "file": "data/generated/history-communication-and-postal.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        14,
+        21,
+        12,
+        0
+      ],
+      "sha256": "d8b67e0966a8e108de4511cfe0b45f62c17fc3bb0a98126217402f3e646b7c27"
+    },
+    {
+      "file": "data/generated/history-espionage-and-spies.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.88,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        12,
+        18,
+        15,
+        0
+      ],
+      "sha256": "37504605c4ea83a62baadaa9f0f860985f38b0dc747fe849477ae9301e669544"
+    },
+    {
+      "file": "data/generated/history-feudal-japan-samurai.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        11,
+        13,
+        11,
+        12
+      ],
+      "sha256": "69e68cc3a0a0d6606762e87fa57475ac72d5233aadb0f69f4f592cd42ce7777f"
+    },
+    {
+      "file": "data/generated/history-french-revolution.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.73,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        5,
+        35,
+        7,
+        1
+      ],
+      "sha256": "799fd2452224645c172a0f7e63fb2c6dc2bff8ba8ee9ff3becd102149f454827"
+    },
+    {
+      "file": "data/generated/history-inca-and-andean-civilizations.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.88,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        8,
+        27,
+        9,
+        1
+      ],
+      "sha256": "79e8f63bac860a5c8acf2f0657425ebaea12564c6848488ca164bcf42494799c"
+    },
+    {
+      "file": "data/generated/history-indigenous-peoples-americas.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        10,
+        23,
+        11,
+        1
+      ],
+      "sha256": "76b54568f068ddfe3d5a71e336af7a74ad9ff1ba33562cfbc1c4578e737f4560"
+    },
+    {
+      "file": "data/generated/history-industrial-revolution.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        1,
+        31,
+        15,
+        0
+      ],
+      "sha256": "8109997c4b7de63d0611dfdee14d3f1bee32453037871fc046e045b76c110811"
+    },
+    {
+      "file": "data/generated/history-islamic-golden-age.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 12
+      },
+      "correctIndexDistribution": [
+        5,
+        34,
+        5,
+        0
+      ],
+      "sha256": "40bb71ff9430fd1a11b5cf568e88001dc912b18950925d6adb09320e67dffbe1"
+    },
+    {
+      "file": "data/generated/history-labor-and-social-movements.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.82,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        8,
+        29,
+        9,
+        2
+      ],
+      "sha256": "88840d7688ddf4481fcd01c9615b0a0c329378809ce82925fe2f839416f29400"
+    },
+    {
+      "file": "data/generated/history-medieval-europe.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        12,
+        12
+      ],
+      "sha256": "4a66feab88d09fac049374a87647a6d6636e52308983a17a37d701931c0df2ef"
+    },
+    {
+      "file": "data/generated/history-modern-middle-east.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        0,
+        26,
+        18,
+        2
+      ],
+      "sha256": "b716d5fddf3f15560c36bcc1fd5a482442233c7d7f9e423691d7b8dd9a19b13c"
+    },
+    {
+      "file": "data/generated/history-natural-disasters.json",
+      "questions": 43,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        3,
+        21,
+        15,
+        4
+      ],
+      "sha256": "42699fd1151955b2764edca1ddcc7b39d02b287832e74eb9916fc7cb02903871"
+    },
+    {
+      "file": "data/generated/history-notable-women.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.85,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        1,
+        34,
+        10,
+        0
+      ],
+      "sha256": "67d673edc361b4b747c55f0ffa826b34788839236e64ee95099a53e0d6c93969"
+    },
+    {
+      "file": "data/generated/history-of-books-and-libraries.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.7,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        1,
+        34,
+        9,
+        0
+      ],
+      "sha256": "5041192e715d9c6ddf7098d4df607a509cf1ca04692f8fa2bce84ef0e6666313"
+    },
+    {
+      "file": "data/generated/history-of-medicine.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.7,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        13,
+        29,
+        3,
+        0
+      ],
+      "sha256": "a81800e03ace6a46b1304fcf32a9a11746ece8f788f1454e9d2c9ffd73313955"
+    },
+    {
+      "file": "data/generated/history-of-money-and-trade.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        1,
+        31,
+        11,
+        1
+      ],
+      "sha256": "4cfde7dec95036660dfb1b0eb36c6a796ec287da137c7e34b9e6ade9280612df"
+    },
+    {
+      "file": "data/generated/history-pirates-and-age-of-sail.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        12,
+        27,
+        6,
+        1
+      ],
+      "sha256": "ef958354f2e8920714160c77dd25eb6102c1b2d9095084ee4cb0ac79886a92a7"
+    },
+    {
+      "file": "data/generated/history-polar-and-mountaineering-exploration.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        9,
+        19,
+        15,
+        2
+      ],
+      "sha256": "1762cdf4fbc75cbd66641cbf15167ef4e9b291e070e61fc199a6fb5ebadf0c03"
+    },
+    {
+      "file": "data/generated/history-renaissance-and-reformation.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        2,
+        30,
+        11,
+        2
+      ],
+      "sha256": "bc656f44b2a78c47d2179b2bebd83ea078098163646a707f96897a0d0395ed9f"
+    },
+    {
+      "file": "data/generated/history-russian-revolution-ussr.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        4,
+        27,
+        14,
+        0
+      ],
+      "sha256": "ae74e59fc384bd96267f1f786d3fb20df5e64b03b2da32b6b74d1e009e1fd112"
+    },
+    {
+      "file": "data/generated/history-space-exploration.json",
+      "questions": 49,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.82,
+        "hardAtOrAbove070": 13
+      },
+      "correctIndexDistribution": [
+        7,
+        21,
+        18,
+        3
+      ],
+      "sha256": "177787dcf3d8f4d39d564b153803867fbc0d049929a8c89278d4916d775d10da"
+    },
+    {
+      "file": "data/generated/history-us-civil-war.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        7,
+        29,
+        11,
+        1
+      ],
+      "sha256": "81c606237701e4a5c363c3910e6c500af2b860495359efdd3bf703792ab224c7"
+    },
+    {
+      "file": "data/generated/history-us-presidents.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        7,
+        19,
+        17,
+        3
+      ],
+      "sha256": "ffa4ba47861006cd6aab51d4e0c1c54759dacd21feac172d8ffda73d3354fddf"
+    },
+    {
+      "file": "data/generated/history-vikings.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        4,
+        27,
+        11,
+        4
+      ],
+      "sha256": "ddf0a5bfae7e36dde4954ffa8e6d664746936bdea77a281a35d78acfe7136257"
+    },
+    {
+      "file": "data/generated/history-world-war-one.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.9,
+        "hardAtOrAbove070": 15
+      },
+      "correctIndexDistribution": [
+        4,
+        22,
+        18,
+        2
+      ],
+      "sha256": "44bd40fd16cd0caa12a11c9e6614be28aa19099759e0fd9db0b708423ccda4e1"
+    },
+    {
+      "file": "data/generated/history-world-war-two-pacific.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.82,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        40,
+        2,
+        2,
+        1
+      ],
+      "sha256": "925f10c2e4de1e38b21e5ea2862b2f6a6f3e78757623f79394077cff9d4b0474"
+    },
+    {
+      "file": "data/generated/horace-odes-deep.json",
+      "questions": 92,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        26,
+        24,
+        22,
+        20
+      ],
+      "sha256": "1cfd85b716b38ed2f68e63ae7ca0a9cacfd4a1410722ff7f9d88f6527897dff3"
+    },
+    {
+      "file": "data/generated/internet-creators-and-influencers.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        31,
+        36,
+        19,
+        4
+      ],
+      "sha256": "c6776fa5e069d2872c91f509ba027663d6d899b3d5795faa5eba0fd64e62688f"
+    },
+    {
+      "file": "data/generated/inventions-and-inventors.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.82,
+        "hardAtOrAbove070": 13
+      },
+      "correctIndexDistribution": [
+        21,
+        17,
+        5,
+        1
+      ],
+      "sha256": "90df822298048211c1c6964f46b1d3ef7e47210e7221d3d3e69f02e6d8794157"
+    },
+    {
+      "file": "data/generated/jojo-stands-and-users.json",
+      "questions": 40,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.8,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        37,
+        2,
+        1,
+        0
+      ],
+      "sha256": "8a7a27fb7b06fd6df787fbab710e9ff0404a6b7d81bcde96316caf4b77c285cc"
+    },
+    {
+      "file": "data/generated/k-drama-actor-ost-crossovers.json",
+      "questions": 67,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        51,
+        9,
+        3,
+        4
+      ],
+      "sha256": "e4c18d4218d7f41315337d5d5dff8f4820f4a6586742a8d1183ee6f6f7fda1e9"
+    },
+    {
+      "file": "data/generated/k-drama-actress-osts.json",
+      "questions": 75,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        67,
+        6,
+        2,
+        0
+      ],
+      "sha256": "708c5715faac919496d0318566ab653eccc7e60a89e0abcc33fe5b74b7b7911f"
+    },
+    {
+      "file": "data/generated/k-drama-cast-albums-and-ensemble-soundtracks.json",
+      "questions": 75,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        70,
+        4,
+        1,
+        0
+      ],
+      "sha256": "0378e78ffaaa363989303d9775c810b7d33687d311766168bec39e8ebfd5c2e9"
+    },
+    {
+      "file": "data/generated/k-pop-industry-landmarks.json",
+      "questions": 69,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.8,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        47,
+        19,
+        3,
+        0
+      ],
+      "sha256": "d460e69d444b984a594c420b19a5154a9c2600306ba15932e863142d5acdc4c2"
+    },
+    {
+      "file": "data/generated/k-pop-ost-singers-and-soundtracks.json",
+      "questions": 63,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        57,
+        4,
+        1,
+        1
+      ],
+      "sha256": "148bc1b12e60438c1b337bd70f3a2024a1f78e7fcf5bf683bc9ee8730d32ac24"
+    },
+    {
+      "file": "data/generated/k-pop-soloists-and-crossover-hits.json",
+      "questions": 57,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        40,
+        12,
+        3,
+        2
+      ],
+      "sha256": "93c189b689e4adde524deebf453ac3e6852fa633ddb7b17c73a1e4c656fc7737"
+    },
+    {
+      "file": "data/generated/kinetic-theory-gases.json",
+      "questions": 108,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.81,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        29,
+        60,
+        19,
+        0
+      ],
+      "sha256": "6380c619feed0064576c0abe41749644f45bef5b18936933c4cf60f3be2e0360"
+    },
+    {
+      "file": "data/generated/language-and-linguistics.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        9,
+        12
+      ],
+      "sha256": "4645325f29b54d716a9ef1fedf733ec8795665c45e12fcec1eb4d5c7fed6737b"
+    },
+    {
+      "file": "data/generated/late-night-talk-shows-and-hosts.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.82,
+        "hardAtOrAbove070": 13
+      },
+      "correctIndexDistribution": [
+        29,
+        41,
+        19,
+        1
+      ],
+      "sha256": "75e4daa824b8c1433e378b0138c6c14081899453b80133c636b44b0e36da916b"
+    },
+    {
+      "file": "data/generated/literature-19th-century-novels.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        41,
+        4,
+        1,
+        0
+      ],
+      "sha256": "b378bcd7306ddfe1dc4b79fcc2d9fdba7f722890d6e2dd62d91bc9f72ca0e0a1"
+    },
+    {
+      "file": "data/generated/literature-20th-century-fiction.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        12,
+        10,
+        9,
+        14
+      ],
+      "sha256": "3f187cb7cb415012b81c38eb6cc329dbff73f9a957bbfbcce1ad4822017b821a"
+    },
+    {
+      "file": "data/generated/literature-childrens-and-ya.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.03,
+        "max": 0.88,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        11,
+        14,
+        12,
+        9
+      ],
+      "sha256": "0be34089a15451dc1c62b54b97bbe09801e429c66208d898aa4fbb146cae4d7c"
+    },
+    {
+      "file": "data/generated/literature-crime-and-mystery.json",
+      "questions": 51,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        49,
+        1,
+        1,
+        0
+      ],
+      "sha256": "2d19449cf6c9c987936ddfd2af0998d60765fb57d01db35979ca0c5bcc3a3225"
+    },
+    {
+      "file": "data/generated/literature-fairy-tales-and-fables.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        14,
+        20,
+        9,
+        3
+      ],
+      "sha256": "48c567ee37abf0b09fbaa474d13df07e17a94a19111e8a2c295a987dd107d70d"
+    },
+    {
+      "file": "data/generated/literature-fantasy-scifi.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        8,
+        25,
+        8,
+        4
+      ],
+      "sha256": "19667052c58d2f3cbceec085bd0946d6722499d64bd9f2413770a17c373cd85f"
+    },
+    {
+      "file": "data/generated/literature-horror-and-gothic-fiction.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        30,
+        8,
+        5,
+        1
+      ],
+      "sha256": "c59e6f77d72832002e2e8f279966f881c835834df8c8e6af2d2757a22d18ff14"
+    },
+    {
+      "file": "data/generated/literature-nonfiction-and-speeches.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        6,
+        34,
+        6,
+        0
+      ],
+      "sha256": "9bb3f99b78f116646af461a7a6d1079ca31052292ad0c2fe132f3240b348fb2a"
+    },
+    {
+      "file": "data/generated/literature-poetry-and-poets.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        2,
+        31,
+        11,
+        0
+      ],
+      "sha256": "6d65fd004252f9cdc189fcf8866ec82d61fa544dd18cb786da37cec5e5a7e26b"
+    },
+    {
+      "file": "data/generated/literature-shakespeare-plays.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.68,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        7,
+        30,
+        10,
+        1
+      ],
+      "sha256": "ecfbc1c7c5a02ed5c38a21ab13962081b2401ee98ff1bdd30f885d9a78d6b875"
+    },
+    {
+      "file": "data/generated/literature-world-and-translated-fiction.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        12,
+        13,
+        11,
+        12
+      ],
+      "sha256": "347af2622136a11cdf759681385cb8a40ba5884906f94e67edf01478adffea4b"
+    },
+    {
+      "file": "data/generated/livy-roman-historiography.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        38,
+        51,
+        0,
+        1
+      ],
+      "sha256": "1f524fcbba8802a1deac28202b1c4bd46638e87bdd172617b18cd2c761b1ce1e"
+    },
+    {
+      "file": "data/generated/mark-antony.json",
+      "questions": 92,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        31,
+        47,
+        14,
+        0
+      ],
+      "sha256": "fb5339c1cfd1ad85f0e057531b71a5d31e0612bc4528db4a7e561318b24cffd7"
+    },
+    {
+      "file": "data/generated/math-algebra-and-number-theory.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.85,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        4,
+        31,
+        10,
+        0
+      ],
+      "sha256": "b529dc65650f01b525518a024fadb0af7b6af3b0b66fc93579df47de91299cb6"
+    },
+    {
+      "file": "data/generated/math-calculus.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        12,
+        10,
+        12,
+        11
+      ],
+      "sha256": "56dca9ff184ba6d9821b56043f9f008ca93951e8dd6edbe916f8fe2b42586f53"
+    },
+    {
+      "file": "data/generated/math-euclidean-geometry.json",
+      "questions": 53,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        19,
+        14,
+        20,
+        0
+      ],
+      "sha256": "c6965eafa52a49fa6a0cb59283fb204b764c4ef1bfc4e03b40d5453967bf8b09"
+    },
+    {
+      "file": "data/generated/math-famous-problems-and-mathematicians.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        12,
+        10,
+        9,
+        17
+      ],
+      "sha256": "ac2d6565aa1f0d71cda510200510675ad5ed043c00302fcff6d8798d4201964b"
+    },
+    {
+      "file": "data/generated/math-probability-and-statistics.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.75,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        14,
+        21,
+        11,
+        1
+      ],
+      "sha256": "72d95db14fd2d459c468c9f78b006eae28f40af06fbbb8f322695fc3c2ef3b22"
+    },
+    {
+      "file": "data/generated/mesopotamian-cuneiform.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.88,
+        "hardAtOrAbove070": 15
+      },
+      "correctIndexDistribution": [
+        33,
+        47,
+        8,
+        2
+      ],
+      "sha256": "20744abec008430dc04989d4aef2f3681d0de8a67db345755a7db7196d83ac2b"
+    },
+    {
+      "file": "data/generated/mesopotamian-mathematics.json",
+      "questions": 102,
+      "difficulty": {
+        "min": 0.14,
+        "max": 0.76,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        33,
+        48,
+        18,
+        3
+      ],
+      "sha256": "db8acc5d2a91719253dc4daad28e1e2184614a663e40f6df35f8b10d9fe4e6d6"
+    },
+    {
+      "file": "data/generated/movies-cinema-classics.json",
+      "questions": 88,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.71,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        88,
+        0,
+        0,
+        0
+      ],
+      "sha256": "73e52a8738d39be554ddce09893217179124ba6858856bf326422280cf883a66"
+    },
+    {
+      "file": "data/generated/music-baroque-composers.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.82,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        9,
+        23,
+        12,
+        2
+      ],
+      "sha256": "58a77a54172c38306a2df588b55f7ae2c66fcd4f76dc5136fb6e98ba182a49f8"
+    },
+    {
+      "file": "data/generated/music-hip-hop-and-electronic.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.82,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        12,
+        9,
+        8,
+        16
+      ],
+      "sha256": "13c196764ce2dcf72f5b6670ea0e33f9e738a18ce10ca30e508a9a7e81359cc7"
+    },
+    {
+      "file": "data/generated/music-instruments-of-the-orchestra.json",
+      "questions": 53,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        3,
+        26,
+        22,
+        2
+      ],
+      "sha256": "e2360600577278e6de95ad487872232a1fb2c6720afd45e14cd1a5c542106ed3"
+    },
+    {
+      "file": "data/generated/music-rock-and-pop-history.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        6,
+        29,
+        10,
+        0
+      ],
+      "sha256": "736e4b222b561b974d72d2f2f00a0e1f5a4f13256a405917838111fa731f0acb"
+    },
+    {
+      "file": "data/generated/music-theory-fundamentals.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        16,
+        22,
+        7,
+        0
+      ],
+      "sha256": "d703aa4b3293c3440ec2b72733e08b5a7c07cad7e3c4b5ca6b1f02a33aea5691"
+    },
+    {
+      "file": "data/generated/music-videos-and-mtv-era.json",
+      "questions": 33,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 16
+      },
+      "correctIndexDistribution": [
+        31,
+        0,
+        2,
+        0
+      ],
+      "sha256": "b21f791e8f4e59a82a257125a9ad58a693912d9d7d132715dd8f914f8e847b27"
+    },
+    {
+      "file": "data/generated/music-world-and-folk.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        7,
+        27,
+        10,
+        2
+      ],
+      "sha256": "22b2ee12a4e4311153574187d6817fa658693d95af02b9906cfb52b32f038c39"
+    },
+    {
+      "file": "data/generated/mythology-african-yoruba.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        2,
+        36,
+        6,
+        1
+      ],
+      "sha256": "7d6cf4fc668f4e271d9faf4de8c476fd84b484a798d083c7596bef2f4163353b"
+    },
+    {
+      "file": "data/generated/mythology-aztec-and-maya.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        8,
+        23,
+        10,
+        4
+      ],
+      "sha256": "3b4d30f5688302bcc7e22299cd6350bff5db7d9df4a8d86528b336f3639494cb"
+    },
+    {
+      "file": "data/generated/mythology-celtic-arthurian.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.78,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        15,
+        18,
+        10,
+        3
+      ],
+      "sha256": "82cb4d6f81eea78a180d2615799f4613291d4933a868056952f9a5813375c761"
+    },
+    {
+      "file": "data/generated/mythology-chinese.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        11,
+        11,
+        12,
+        11
+      ],
+      "sha256": "235b9f27c52442fce033fbc6b3d411428d16163b67f69d7cf7d9bb28e13cf14a"
+    },
+    {
+      "file": "data/generated/mythology-creation-and-flood-myths.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.93,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        10,
+        11
+      ],
+      "sha256": "406146c3aef30431e23beccdc3de4d2e15435baa7ce444de3e00e38b11de7820"
+    },
+    {
+      "file": "data/generated/mythology-egyptian.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.88,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        4,
+        30,
+        9,
+        2
+      ],
+      "sha256": "0f3227d193141f1cdaf2929bfbcaba7068977fd6fbca84b4c18ceca0a50b2a00"
+    },
+    {
+      "file": "data/generated/mythology-greek.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        5,
+        27,
+        11,
+        2
+      ],
+      "sha256": "8028da89debebbeba1d593732fb013d25692955f5d0ac47355cf080383dde764"
+    },
+    {
+      "file": "data/generated/mythology-hindu.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        1,
+        32,
+        12,
+        1
+      ],
+      "sha256": "dcab5372f205566536d103cbdd1d82ce67fe30990db08d3c1413ee2df8f83ea8"
+    },
+    {
+      "file": "data/generated/mythology-japanese-shinto.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.9,
+        "hardAtOrAbove070": 13
+      },
+      "correctIndexDistribution": [
+        12,
+        13,
+        11,
+        12
+      ],
+      "sha256": "6ad2369b5efdb72306c43f174c7ea397d7eadece726087a3d985946c1d12f967"
+    },
+    {
+      "file": "data/generated/mythology-norse-gods.json",
+      "questions": 49,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.9,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        27,
+        18,
+        2,
+        2
+      ],
+      "sha256": "38393710969787d5ac5068f6da3f92afe6fffda37b60a20e603bb75933ddf3f2"
+    },
+    {
+      "file": "data/generated/mythology-polynesian.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        11,
+        20,
+        11,
+        4
+      ],
+      "sha256": "b391644b5df97bda01ef57bd4b6d78511b11c91a1a300715f2f30c1db8330074"
+    },
+    {
+      "file": "data/generated/mythology-slavic.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.92,
+        "hardAtOrAbove070": 11
+      },
+      "correctIndexDistribution": [
+        9,
+        21,
+        11,
+        4
+      ],
+      "sha256": "7099629064d30fc619497aff7a0536d934b05c96b6a7a94015324297c642437f"
+    },
+    {
+      "file": "data/generated/nature-birds-and-ornithology.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        14,
+        12,
+        11,
+        10
+      ],
+      "sha256": "c3c8429259756035ae8e940a67be4e1e8279309040fe4374b10fe5b7bdea4238"
+    },
+    {
+      "file": "data/generated/nature-natural-wonders-and-parks.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        10,
+        21,
+        12,
+        2
+      ],
+      "sha256": "f2b567c561118b8ecddf94c1a5016e9ed7ee4899dd683be871d5f3e6faa2732f"
+    },
+    {
+      "file": "data/generated/nba-pop-culture.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.76,
+        "hardAtOrAbove070": 14
+      },
+      "correctIndexDistribution": [
+        80,
+        4,
+        5,
+        1
+      ],
+      "sha256": "17b0b5c0f3312f3426022d95693124c2acd4ba1fa763168c498866a04274722d"
+    },
+    {
+      "file": "data/generated/oceanography-thermohaline-circulation.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.27,
+        "max": 0.93,
+        "hardAtOrAbove070": 80
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "ba2a0dd405518acfcb43b3a678b7666eb497cf127f6df28acc06f7fd2dd52c5b"
+    },
+    {
+      "file": "data/generated/octavian-standalone.json",
+      "questions": 103,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.64,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        27,
+        55,
+        17,
+        4
+      ],
+      "sha256": "ce71e8654218cfed3c7c354dce24bc9a775175f1403fb3b45476d14492542aa9"
+    },
+    {
+      "file": "data/generated/ovid-exile-later-poetry.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.12,
+        "max": 0.78,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        40,
+        20,
+        15,
+        15
+      ],
+      "sha256": "841f21b1fd83785a94b0fbbc056a58eaa4c6a9edd36b9d9be950ace21f54888c"
+    },
+    {
+      "file": "data/generated/philosophy-eastern-thought.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        4,
+        34,
+        6,
+        0
+      ],
+      "sha256": "62491b9f5c6a82fc259823a7d1879d76cb8c9758722e0bc210a4830ddb30e110"
+    },
+    {
+      "file": "data/generated/philosophy-major-thinkers.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.72,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        2,
+        36,
+        8,
+        0
+      ],
+      "sha256": "551ad005195ca6da9581789815ba8eddad7d2a7d5cb8cb137748936ba12dd76a"
+    },
+    {
+      "file": "data/generated/podcasts-and-interview-shows.json",
+      "questions": 39,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 23
+      },
+      "correctIndexDistribution": [
+        39,
+        0,
+        0,
+        0
+      ],
+      "sha256": "65ea06ebc8ce8a081db3e78ce6aa669b4ff576c9944c64ea76bd6d0a0108953e"
+    },
+    {
+      "file": "data/generated/pompey-the-great.json",
+      "questions": 96,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.78,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        21,
+        65,
+        9,
+        1
+      ],
+      "sha256": "ce62bd67543db4db2b9562ffcdb0ba5bad26cee287851a1b0d4e4334a4bb69fe"
+    },
+    {
+      "file": "data/generated/ptolemy-xii-cleopatra-accession.json",
+      "questions": 104,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.78,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        29,
+        64,
+        10,
+        1
+      ],
+      "sha256": "f42f7c6f2afedd39f32c2962a547c2e85abf5185b2945f648b7d930c0dec9f92"
+    },
+    {
+      "file": "data/generated/reaction-kinetics-deep.json",
+      "questions": 102,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.88,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        31,
+        54,
+        15,
+        2
+      ],
+      "sha256": "59d3b3294540e51ef75c5de1b8e16be297261bd3552a53336a44556794ee1585"
+    },
+    {
+      "file": "data/generated/reality-tv-and-competition-shows.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.72,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        24,
+        44,
+        20,
+        2
+      ],
+      "sha256": "7d4677e6f0003e89009d7e487253f43b2fdfa6b41bfb121c6a6cde5db309a8c6"
+    },
+    {
+      "file": "data/generated/religion-holidays-and-festivals.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        40,
+        5,
+        0,
+        0
+      ],
+      "sha256": "80322f4b0648a6f2a2286310a5f884d2d0a64fdea32e1a7bf05fcd08dd1a34c0"
+    },
+    {
+      "file": "data/generated/renaissance-painting-iconography-and-commissions.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.7,
+        "max": 0.82,
+        "hardAtOrAbove070": 100
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "e9f777bbc07f2c4276062b9311d9137007c8cc2375f1605f73c980aeb0b31471"
+    },
+    {
+      "file": "data/generated/rock-pop-history.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.3,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        48,
+        33,
+        6,
+        3
+      ],
+      "sha256": "32af5cb39b3c02ca872df6012ea8c6236b56256cc017c2599dc96bf90d545bdb"
+    },
+    {
+      "file": "data/generated/roman-daily-life-under-augustus.json",
+      "questions": 92,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.76,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        24,
+        22,
+        22,
+        24
+      ],
+      "sha256": "372bfa56370dd1d9d8a8b2fe987ab941e07aa8b0f4f1d90bfc7c473026c022a4"
+    },
+    {
+      "file": "data/generated/roman-food-dining-culture.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.82,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        24,
+        21,
+        25,
+        20
+      ],
+      "sha256": "aae07fd9dd479372079c629846eb11ec769a6c27e147bd8c006fd471936d58d6"
+    },
+    {
+      "file": "data/generated/roman-housing-urban-life.json",
+      "questions": 101,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.82,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        26,
+        25,
+        25,
+        25
+      ],
+      "sha256": "465ef4c1545d9670cf6b990a64c34c3520041b3e1ec5cb4efc87d56153259f6f"
+    },
+    {
+      "file": "data/generated/roman-leisure-entertainment.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.76,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        24,
+        26,
+        20,
+        20
+      ],
+      "sha256": "2746287f98d0038879906feea057f8b1cfba0d934306453977e893266df3494d"
+    },
+    {
+      "file": "data/generated/romantic-comedies-and-teen-movies.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.82,
+        "hardAtOrAbove070": 52
+      },
+      "correctIndexDistribution": [
+        31,
+        42,
+        15,
+        2
+      ],
+      "sha256": "feef1ad2ce6df08c6cf4d71060c7186f4808882d8114cadbb1050c113df568a5"
+    },
+    {
+      "file": "data/generated/science-environment-and-climate.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        1,
+        24,
+        18,
+        1
+      ],
+      "sha256": "5470b3846faf769727a50ca1a056d03cc7b434b162b7368c394d3ac2fa4b6519"
+    },
+    {
+      "file": "data/generated/science-everyday-technology-how-things-work.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        0,
+        46,
+        1,
+        0
+      ],
+      "sha256": "7a497bbf74e79754f43ca7f31d54b304fc5caafda5c1a52fa4f1d2f9e94f43f0"
+    },
+    {
+      "file": "data/generated/science-evolution-and-paleontology.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        15,
+        10,
+        11,
+        9
+      ],
+      "sha256": "63d9cded7f6c53770b33859263d12d3571e0ff49f8f5cc89b95cf6c9d1fdd41e"
+    },
+    {
+      "file": "data/generated/science-forensic-science.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.72,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        11,
+        13,
+        13,
+        8
+      ],
+      "sha256": "f8d6e8a034d33ad1b182059c52b6b3b4e1d04142711c41e024570e228792be07"
+    },
+    {
+      "file": "data/generated/science-genomics-and-biotechnology.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        5,
+        31,
+        9,
+        0
+      ],
+      "sha256": "dc56228d131cc691bf2ea44a825f126867296434586ada41fae9b78d7e3c1033"
+    },
+    {
+      "file": "data/generated/science-history-of-astronomy-and-telescopes.json",
+      "questions": 46,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.82,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        11,
+        11
+      ],
+      "sha256": "2d8064bf74305425cae694983657874c1d52797c2b229eaf10463393245900b0"
+    },
+    {
+      "file": "data/generated/science-human-senses-and-perception.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        11,
+        12,
+        13,
+        9
+      ],
+      "sha256": "cd866ef405b3b411e5ebb08c68a6f1e5e8be3cec19384d4f1543662e0f5589a1"
+    },
+    {
+      "file": "data/generated/science-materials-and-engineering.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        1,
+        2,
+        39,
+        2
+      ],
+      "sha256": "978ee067eaf153786eac9821066d30e287136789d878940d34dca3833c8a4752"
+    },
+    {
+      "file": "data/generated/science-measurement-units-and-instruments.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        10,
+        23,
+        8,
+        4
+      ],
+      "sha256": "13dc1e93a020c7c1af956578a3681632dc3501b93dda755ff1a24a6f63469dee"
+    },
+    {
+      "file": "data/generated/science-microbiology-and-viruses.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.77,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        12,
+        11,
+        9,
+        13
+      ],
+      "sha256": "812cea5f22277a3bd22c41efb2a0bbb52b8954248dbbeed96ea7fc421212a1bf"
+    },
+    {
+      "file": "data/generated/science-nobel-laureates-and-discoveries.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.85,
+        "hardAtOrAbove070": 14
+      },
+      "correctIndexDistribution": [
+        8,
+        26,
+        10,
+        1
+      ],
+      "sha256": "0564d5d400fdae9781b1c2f0903bbf06a6c06da7375a37140e1c97a4fc876e58"
+    },
+    {
+      "file": "data/generated/science-nutrition-and-health.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.8,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        2,
+        33,
+        10,
+        0
+      ],
+      "sha256": "241316c1cefed5a68abb4a3a1c2b66114a3ccd9b9640528913b5327ab1940688"
+    },
+    {
+      "file": "data/generated/science-oceanography.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.62,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        4,
+        41,
+        5,
+        0
+      ],
+      "sha256": "2a0f2778e4d96c1d2123716cd8b37d7aa7b96e282df70d31be656723f7b559fb"
+    },
+    {
+      "file": "data/generated/science-psychology.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.75,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        4,
+        29,
+        14,
+        1
+      ],
+      "sha256": "9d339b9d4c8236c9db558124cc4f2fd683e2cc22fe7122b8efab0bbe2a5b5585"
+    },
+    {
+      "file": "data/generated/science-robotics-and-ai.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.7,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        4,
+        33,
+        10,
+        0
+      ],
+      "sha256": "1536401a0197aa246fefa2497635a77045b54dd21aff9e1f1f6292b0d80d4d5d"
+    },
+    {
+      "file": "data/generated/sejanus-praetorian-guard.json",
+      "questions": 97,
+      "difficulty": {
+        "min": 0.06,
+        "max": 0.66,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        6,
+        85,
+        4,
+        2
+      ],
+      "sha256": "921abc8b855fbbd1d38db001215aabddc8c4486dc73fca5e64160b37c448a034"
+    },
+    {
+      "file": "data/generated/shakespeare-textual-history-and-quartos.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.7,
+        "max": 0.84,
+        "hardAtOrAbove070": 100
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "36ee0f90c297f1e53323ac74f59cc6f1b2df1c7e2d6121848f8550ce2efef6e6"
+    },
+    {
+      "file": "data/generated/shonen-jump-classics.json",
+      "questions": 39,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        25,
+        10,
+        4,
+        0
+      ],
+      "sha256": "31b248c92920bd3dcde55e1181c4ec5aeb969341adfb7a280277683054bcb13e"
+    },
+    {
+      "file": "data/generated/soap-operas-and-daytime-dramas.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.76,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        56,
+        22,
+        11,
+        1
+      ],
+      "sha256": "6e2e2ca1ae1a4b186d0c9cc235b3f7dd878016d55c8652bb5c0a7a87d28b22bd"
+    },
+    {
+      "file": "data/generated/sports-athletics-track-and-field.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.95,
+        "hardAtOrAbove070": 12
+      },
+      "correctIndexDistribution": [
+        4,
+        30,
+        11,
+        0
+      ],
+      "sha256": "ecf4bd1f35f935fa7e958bed711a54625fdd8c5713a5a87e971cadf09be4bbf3"
+    },
+    {
+      "file": "data/generated/sports-baseball-mlb.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        10,
+        16,
+        13,
+        6
+      ],
+      "sha256": "3dc3d514d027ef7c5dc5317853055b64a119abe2b96cdf30e88bfcd95591b600"
+    },
+    {
+      "file": "data/generated/sports-basketball-nba.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.82,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        34,
+        7,
+        2,
+        1
+      ],
+      "sha256": "9089cfa3e9e103b0263573e34bac7e2508646752294331da8603b36382562b34"
+    },
+    {
+      "file": "data/generated/sports-boxing-and-combat-sports.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        11,
+        11,
+        12,
+        11
+      ],
+      "sha256": "418d5d56109af18fcd910ad6921a096ab8d309a1651e1575c0f107af1539fd65"
+    },
+    {
+      "file": "data/generated/sports-cricket-and-rugby.json",
+      "questions": 49,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.8,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        3,
+        21,
+        21,
+        4
+      ],
+      "sha256": "595db091e01d997cacd9503b88930fadd818a1591262641592fa62d0c4b21baa"
+    },
+    {
+      "file": "data/generated/sports-cycling-and-endurance.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.82,
+        "hardAtOrAbove070": 9
+      },
+      "correctIndexDistribution": [
+        11,
+        29,
+        7,
+        3
+      ],
+      "sha256": "294c119ac06a778ffdc6bdb6c1b9588dd7b0838f9518c1ab927e30e770a69492"
+    },
+    {
+      "file": "data/generated/sports-extreme-and-action-sports.json",
+      "questions": 52,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.92,
+        "hardAtOrAbove070": 17
+      },
+      "correctIndexDistribution": [
+        13,
+        13,
+        13,
+        13
+      ],
+      "sha256": "369f9c14d6ef759627f1e9f72ea7da7be4e755d2f741492009853e5255a822ee"
+    },
+    {
+      "file": "data/generated/sports-ice-hockey-nhl.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.04,
+        "max": 0.76,
+        "hardAtOrAbove070": 5
+      },
+      "correctIndexDistribution": [
+        3,
+        25,
+        16,
+        4
+      ],
+      "sha256": "bd9d9b13b186ebc8a76d4d7ada8bc6e9bb848d4b02bd2a164f5b0ce8bc93cd3f"
+    },
+    {
+      "file": "data/generated/sports-motorsport-and-racing.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.85,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        6,
+        19,
+        19,
+        3
+      ],
+      "sha256": "316ae7db5a5f33392febb90fc06518bcb9075a055e42e7cd00dabd11ab9394b3"
+    },
+    {
+      "file": "data/generated/sports-olympic-games.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.75,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        43,
+        0,
+        1,
+        1
+      ],
+      "sha256": "81cc718590d68c116859b155371dda17c8c267a0595aea3713689d98891fe7a8"
+    },
+    {
+      "file": "data/generated/sports-rules-and-scoring.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        3,
+        24,
+        13,
+        5
+      ],
+      "sha256": "a128404131db2f83f7d3061b6c8d8d31e1e38ab41c7989548ee4dfefee7ea9db"
+    },
+    {
+      "file": "data/generated/sports-swimming-and-water-sports.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.75,
+        "hardAtOrAbove070": 4
+      },
+      "correctIndexDistribution": [
+        12,
+        11,
+        9,
+        13
+      ],
+      "sha256": "c64d75b633dd1615c282e832b5660b9baede9b4a055b7b6fc43344f7b84bf000"
+    },
+    {
+      "file": "data/generated/sports-tennis-golf-racket.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        4,
+        21,
+        19,
+        1
+      ],
+      "sha256": "3895a0953e342b5434ada7c35f62485dbcd7852b24a63e2a36ab1df06d44d605"
+    },
+    {
+      "file": "data/generated/sports-winter-sports-and-skiing.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.75,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        11,
+        21,
+        13,
+        0
+      ],
+      "sha256": "df71f4d6d3c286d088c19b48e4419e814a973e039d754e351c0558aca6efd0d9"
+    },
+    {
+      "file": "data/generated/sports-world-football.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.06,
+        "max": 0.88,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        11,
+        11,
+        11,
+        12
+      ],
+      "sha256": "5f3d5f2a7e57deab2b9f60ded9a17234eea0748fff9f1b123f69512d01d0ded1"
+    },
+    {
+      "file": "data/generated/stand-up-comedy-and-comedians.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.84,
+        "hardAtOrAbove070": 48
+      },
+      "correctIndexDistribution": [
+        40,
+        34,
+        14,
+        2
+      ],
+      "sha256": "a961465c012c1de203cd4beac6155286f75aa19fd9e41faea96c2d10740dce62"
+    },
+    {
+      "file": "data/generated/statistical-mechanics-deep.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.83,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        38,
+        48,
+        4,
+        0
+      ],
+      "sha256": "0ca771b8c077de74025171858d9323de35c8888dd0a28073e3e6ba8aae6778fd"
+    },
+    {
+      "file": "data/generated/statistical-mechanics-ensembles.json",
+      "questions": 92,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.84,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        34,
+        48,
+        10,
+        0
+      ],
+      "sha256": "ab8b152863176658b1054db9759078d9716fad49f0f3c9962d9003572f373163"
+    },
+    {
+      "file": "data/generated/studio-ghibli-deep-dives.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.18,
+        "max": 0.8,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        43,
+        1,
+        0,
+        0
+      ],
+      "sha256": "d348171eb49c1fec71662dd6a204cd371a9d1c41fd1910d815963a04c514ac54"
+    },
+    {
+      "file": "data/generated/sumerian-language-grammar.json",
+      "questions": 96,
+      "difficulty": {
+        "min": 0.17,
+        "max": 0.76,
+        "hardAtOrAbove070": 3
+      },
+      "correctIndexDistribution": [
+        37,
+        52,
+        7,
+        0
+      ],
+      "sha256": "9c073afa0a72e5e3ebda7c3d70d21415b76c0f6544184c0066d726a76044b63f"
+    },
+    {
+      "file": "data/generated/sumerian-literature-myth.json",
+      "questions": 98,
+      "difficulty": {
+        "min": 0.14,
+        "max": 0.71,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        46,
+        46,
+        6,
+        0
+      ],
+      "sha256": "1c51b8308c5fac335c1f7aac6030f88dd80da102cec9527e69c8e205a226cdc7"
+    },
+    {
+      "file": "data/generated/technology-history-of-computing.json",
+      "questions": 44,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        4,
+        30,
+        9,
+        1
+      ],
+      "sha256": "da271d0d5d65ca2566030b95cf7b60fdbabd118be7837ba693206b45c54f0294"
+    },
+    {
+      "file": "data/generated/thermodynamics-deep.json",
+      "questions": 89,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.79,
+        "hardAtOrAbove070": 2
+      },
+      "correctIndexDistribution": [
+        24,
+        34,
+        27,
+        4
+      ],
+      "sha256": "fb926bf1230b9cd1bc10a24f8f4a359de7d5979d3dfc6908d9f88ffee3784729"
+    },
+    {
+      "file": "data/generated/tiberius-transfer-power.json",
+      "questions": 90,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.58,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        32,
+        53,
+        4,
+        1
+      ],
+      "sha256": "81e663caefba916d31a1e41f24a2376252227aabf53bd9abd88cadf339cef6c0"
+    },
+    {
+      "file": "data/generated/transportation-trains-and-railways.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.15,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        12,
+        13,
+        11,
+        12
+      ],
+      "sha256": "e30de1a35229de30e35e1ea04fdd1209f0772f8a6cd3ce8c251a44d256e683b0"
+    },
+    {
+      "file": "data/generated/tv-shows-sitcoms.json",
+      "questions": 88,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.52,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        63,
+        18,
+        7,
+        0
+      ],
+      "sha256": "bbb2d08626c6a2d026086c563d06e736ea6751d80f5c8d9a85e0487be8f4097d"
+    },
+    {
+      "file": "data/generated/us-government-constitution.json",
+      "questions": 48,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.7,
+        "hardAtOrAbove070": 1
+      },
+      "correctIndexDistribution": [
+        2,
+        29,
+        15,
+        2
+      ],
+      "sha256": "efd569faa555cf183a9a1a7976e4b466da7993fe69003aeb22139e386a365a32"
+    },
+    {
+      "file": "data/generated/virgil-aeneid-deep.json",
+      "questions": 108,
+      "difficulty": {
+        "min": 0.08,
+        "max": 0.78,
+        "hardAtOrAbove070": 6
+      },
+      "correctIndexDistribution": [
+        40,
+        38,
+        21,
+        9
+      ],
+      "sha256": "fbfc9108dfc8fc35d047a8ead26f245cb76c643d453e41e195f181051663a23e"
+    },
+    {
+      "file": "data/generated/world-football-club-competitions.json",
+      "questions": 100,
+      "difficulty": {
+        "min": 0.22,
+        "max": 0.83,
+        "hardAtOrAbove070": 66
+      },
+      "correctIndexDistribution": [
+        25,
+        25,
+        25,
+        25
+      ],
+      "sha256": "2c09feeaea52bc97aed3cd724d6c97ac26967904351744889794a128226f5efe"
+    },
+    {
+      "file": "data/generated/world-football-pop-culture.json",
+      "questions": 88,
+      "difficulty": {
+        "min": 0.1,
+        "max": 0.58,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        23,
+        49,
+        16,
+        0
+      ],
+      "sha256": "5bf89edbb489becadd11de9b16ecbcdbd53ebb986c6cc092c829019465e58dd8"
+    },
+    {
+      "file": "data/generated/world-religions-basics.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.05,
+        "max": 0.85,
+        "hardAtOrAbove070": 7
+      },
+      "correctIndexDistribution": [
+        42,
+        3,
+        2,
+        3
+      ],
+      "sha256": "bc9c69a54633d630b3b3fece1667a095b4ebac99cce04794633f82b17e889abd"
+    }
+  ]
+}

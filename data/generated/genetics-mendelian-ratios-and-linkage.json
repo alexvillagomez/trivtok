@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "In a testcross AaBb × aabb, independent assortment predicts what proportion of progeny are aabb?",
+    "choices": [
+      "1/4",
+      "1/2",
+      "3/4",
+      "1/16"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A three-point testcross gives progeny classes. Which class is used to identify double crossovers?",
+    "choices": [
+      "The two most frequent classes",
+      "The two least frequent classes",
+      "All parental classes",
+      "Only reciprocal single crossovers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "If two loci are 18 map units apart, the expected recombinant fraction is approximately...",
+    "choices": [
+      "9%",
+      "36%",
+      "18%",
+      "82%"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Mendel's reciprocal crosses were important because they tested whether results depended on...",
+    "choices": [
+      "Plant height",
+      "Seed color only",
+      "Generation number",
+      "Which parent supplied the allele"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A 1:1 phenotypic ratio from a testcross most directly indicates the tested parent is...",
+    "choices": [
+      "Heterozygous at the locus",
+      "Homozygous dominant",
+      "Homozygous recessive",
+      "Triploid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In Aa × Aa with complete dominance, the genotypic ratio is...",
+    "choices": [
+      "3:1",
+      "1:2:1",
+      "1:1",
+      "9:3:3:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "A recombination frequency of 50% between two loci is interpreted as...",
+    "choices": [
+      "Proof they are adjacent",
+      "A lethal combination",
+      "The maximum observable value, consistent with unlinked behavior",
+      "Exactly one crossover in every meiosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In a pedigree, unaffected parents producing an affected child most strongly suggests a recessive allele when...",
+    "choices": [
+      "The trait is autosomal only",
+      "The child is always female",
+      "Penetrance is zero",
+      "Both parents are carriers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A 9:3:4 ratio in a dihybrid cross is characteristic of...",
+    "choices": [
+      "Recessive epistasis",
+      "Duplicate dominant epistasis",
+      "Codominance",
+      "Sex linkage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A 12:3:1 ratio commonly reflects...",
+    "choices": [
+      "Recessive epistasis",
+      "Dominant epistasis",
+      "A testcross",
+      "Mitochondrial inheritance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In a pedigree, vertical transmission through successive generations is often associated with...",
+    "choices": [
+      "Autosomal recessive inheritance only",
+      "Y chromosome loss",
+      "Autosomal dominant inheritance",
+      "Maternal imprinting only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Penetrance is the proportion of individuals with a genotype who...",
+    "choices": [
+      "Carry two chromosomes",
+      "Experience recombination",
+      "Are homozygous",
+      "Express the associated phenotype"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Variable expressivity means individuals with the same disease genotype differ in...",
+    "choices": [
+      "Severity or form of phenotype",
+      "Whether DNA exists",
+      "Chromosome number",
+      "Gamete ploidy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In complete linkage, a heterozygote in coupling phase AB/ab produces primarily...",
+    "choices": [
+      "Ab and aB gametes",
+      "AB and ab gametes",
+      "Only A gametes",
+      "All four equally"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The chromosome theory of inheritance was experimentally supported by Morgan's work with...",
+    "choices": [
+      "Bacterial capsules",
+      "Human blood groups",
+      "Drosophila eye color",
+      "Maize chloroplasts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Sturtevant inferred gene order by comparing...",
+    "choices": [
+      "Protein lengths",
+      "Pedigree symbols only",
+      "Mutation rates in bacteria",
+      "Map distances from recombination frequencies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A crossover between two linked genes produces...",
+    "choices": [
+      "Recombinant chromatids",
+      "Parental chromatids",
+      "Only mutant alleles",
+      "Diploid gametes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In a cis (coupling) double heterozygote, the arrangement is...",
+    "choices": [
+      "Ab/aB",
+      "AB/ab",
+      "AA/bb",
+      "A/aB/b"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In a trans (repulsion) double heterozygote, the arrangement is...",
+    "choices": [
+      "AB/ab",
+      "AA/BB",
+      "Ab/aB",
+      "AABB"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "The coefficient of coincidence compares observed double crossovers with...",
+    "choices": [
+      "Total parental offspring",
+      "Mutation counts",
+      "Homozygote frequency",
+      "Expected double crossovers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Interference is calculated as...",
+    "choices": [
+      "1 minus coefficient of coincidence",
+      "Recombination divided by dominance",
+      "Parental minus recombinant",
+      "Penetrance squared"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "A LOD score in pedigree analysis evaluates evidence for...",
+    "choices": [
+      "Epistasis in a testcross",
+      "Linkage at a specified recombination fraction",
+      "Chromosome staining",
+      "Phenotypic variance only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A lod score of +3 is traditionally considered evidence...",
+    "choices": [
+      "Against linkage",
+      "For complete penetrance",
+      "For linkage",
+      "Of no recombination"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "A lod score of −2 is conventionally sufficient to...",
+    "choices": [
+      "Establish linkage",
+      "Prove epistasis",
+      "Identify a DCO",
+      "Exclude the tested linkage hypothesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "In an X-linked recessive pedigree, affected males typically inherit the allele from...",
+    "choices": [
+      "Their mothers",
+      "Their fathers",
+      "Their sons",
+      "Both grandfathers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Father-to-son transmission rules out an X-linked trait because sons receive their X chromosome from...",
+    "choices": [
+      "Their mother",
+      "Their father",
+      "Both parents equally",
+      "Neither parent"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A mitochondrial trait is expected to be transmitted by affected mothers to...",
+    "choices": [
+      "Daughters only",
+      "Sons only",
+      "All or most children, subject to heteroplasmy",
+      "Fathers only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In a penetrance-adjusted pedigree likelihood, an obligate carrier is an unaffected person who...",
+    "choices": [
+      "Is necessarily homozygous",
+      "Has two affected parents always",
+      "Cannot transmit the allele",
+      "Must carry the allele given the family pattern"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Complementation testing asks whether two recessive mutations are in...",
+    "choices": [
+      "The same chromosome arm only",
+      "The same gene or different genes",
+      "Mitochondria or nucleus",
+      "Dominant alleles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Failure to complement usually means mutations affect...",
+    "choices": [
+      "The same gene",
+      "Different pathways",
+      "Different species",
+      "Only regulatory RNA"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A 9:7 F2 ratio is a classic signature of...",
+    "choices": [
+      "A monohybrid cross",
+      "Dominant suppression",
+      "Complementary gene action",
+      "Y linkage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A 15:1 ratio is associated with...",
+    "choices": [
+      "Codominance",
+      "Recessive epistasis",
+      "A reciprocal cross",
+      "Duplicate dominant gene action"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "A 13:3 ratio is commonly called...",
+    "choices": [
+      "Duplicate recessive epistasis",
+      "Dominant suppression epistasis",
+      "Independent assortment",
+      "Incomplete dominance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In Bateson–Punnett sweet-pea experiments, the unusual ratio illustrated...",
+    "choices": [
+      "Gene interaction",
+      "Crossing-over suppression",
+      "Sex determination",
+      "Maternal inheritance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Morgan's white-eye Drosophila result provided early evidence for...",
+    "choices": [
+      "Polygenic height",
+      "Mitochondrial inheritance",
+      "Sex-linked inheritance",
+      "Recessive epistasis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A chi-square goodness-of-fit test in genetics compares observed counts with...",
+    "choices": [
+      "DNA sequence length",
+      "Only parental counts",
+      "Map units directly",
+      "Expected counts under a hypothesis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "If χ² is large relative to degrees of freedom, the data generally...",
+    "choices": [
+      "Fit the hypothesis perfectly",
+      "Provide evidence against the expected ratio",
+      "Prove linkage",
+      "Increase penetrance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A map unit is defined operationally as...",
+    "choices": [
+      "One percent recombination",
+      "One crossover per chromosome",
+      "One base pair",
+      "One dominant allele"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Recombination frequency underestimates physical distance when...",
+    "choices": [
+      "No meiosis occurs",
+      "Genes are on different chromosomes",
+      "Multiple crossovers restore parental combinations",
+      "Alleles are codominant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A tetrad analysis can distinguish crossover patterns because it examines...",
+    "choices": [
+      "Pedigree generations",
+      "Only one offspring per cross",
+      "Protein isoforms",
+      "All meiotic products from one meiosis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In ordered tetrads, second-division segregation indicates a crossover between...",
+    "choices": [
+      "Two homologous chromosomes only",
+      "Gene and centromere",
+      "Two genes on different species",
+      "Sister chromatids after meiosis II"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "A parental ditype tetrad contains...",
+    "choices": [
+      "Only parental allele combinations",
+      "Only recombinant combinations",
+      "All four genotypes equally",
+      "No spores"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "For two linked loci, the two rarest classes in a three-point cross reveal...",
+    "choices": [
+      "The phenotype of F1",
+      "The parental phase directly",
+      "The double-crossover genotypes",
+      "The centromere location"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "When a DCO differs from its corresponding parental class at one locus, that locus is...",
+    "choices": [
+      "Unlinked",
+      "Always closest to the centromere",
+      "The epistatic gene",
+      "In the middle of the three-gene map"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "A recombination fraction cannot exceed 0.5 because...",
+    "choices": [
+      "Crossovers stop at 50 bases",
+      "Random assortment makes higher values indistinguishable from 0.5",
+      "All genes are dominant",
+      "Pedigrees cap at 50 people"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which mapping function is associated with Haldane’s no-interference model?",
+    "choices": [
+      "d=2r/(1-r)",
+      "d=-ln(1-2r)/2",
+      "d=r²",
+      "d=ln(r)"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which mapping function accounts empirically for crossover interference?",
+    "choices": [
+      "Haldane",
+      "Kosambi",
+      "Hardy-Weinberg",
+      "Luria-Delbrück"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "For r=0.10, Haldane distance is approximately?",
+    "choices": [
+      "5 cM",
+      "10.5 cM",
+      "20 cM",
+      "1 cM"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In an ordered tetrad, PD means?",
+    "choices": [
+      "Postmeiotic division",
+      "Parental ditype",
+      "Perpendicular division",
+      "Partial dominance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "For two linked genes, NPD tetrads imply?",
+    "choices": [
+      "No crossing over ever",
+      "Four-strand double crossovers or independent assortment",
+      "Only gene conversion",
+      "A lethal allele"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Tetrad mapping distance commonly uses which fraction?",
+    "choices": [
+      "(PD+NPD)/T",
+      "NPD/PD",
+      "(T + 6NPD)/2 total",
+      "T/2NPD"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does coefficient of coincidence equal?",
+    "choices": [
+      "Expected/observed SCO",
+      "SCO/total",
+      "Observed DCO/expected DCO",
+      "DCO/parentals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "If expected DCO=20 and observed DCO=10, interference is?",
+    "choices": [
+      "2.0",
+      "0.05",
+      "0.5",
+      "10"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "A LOD score of 3 conventionally supports?",
+    "choices": [
+      "No linkage over linkage",
+      "A recessive phenotype",
+      "Linkage over no linkage",
+      "Complete penetrance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "A LOD score of -2 indicates?",
+    "choices": [
+      "Proof of linkage",
+      "A dominant allele",
+      "Evidence against linkage at that recombination fraction",
+      "A phenocopy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Bayes theorem updates pedigree risk using?",
+    "choices": [
+      "Only allele frequency",
+      "Only penetrance",
+      "Prior risk and likelihood of observed data",
+      "Chromosome length"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "A 50% penetrance dominant allele in a heterozygote gives phenotype risk?",
+    "choices": [
+      "25%",
+      "75%",
+      "50%",
+      "100%"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "A phenocopy is?",
+    "choices": [
+      "A lethal genotype",
+      "A crossover class",
+      "Environmentally caused phenotype mimicking a genotype",
+      "A duplicated gene"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "In maize, a testcross reveals linkage by?",
+    "choices": [
+      "All progeny identical",
+      "Only dominant offspring",
+      "Non-parental progeny below 50% total",
+      "A 3:1 F2 ratio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Sturtevant inferred gene order from?",
+    "choices": [
+      "Protein molecular weights",
+      "Pedigree symbols alone",
+      "Recombination frequencies",
+      "Chromosome counts only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Morgan’s Drosophila experiments used which sex-specific feature?",
+    "choices": [
+      "Crossing over absent in females",
+      "Male diploidy",
+      "Crossing over absent in male flies",
+      "Female haploidy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "In sweet pea, Bateson and Punnett observed?",
+    "choices": [
+      "Mitochondrial inheritance",
+      "Genomic imprinting",
+      "Coupling and repulsion phases",
+      "Nondisjunction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "A recessive lethal allele in heterozygote intercrosses often yields live-born ratio?",
+    "choices": [
+      "3:1",
+      "1:1",
+      "2:1",
+      "9:3:3:1"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A dominant lethal allele that acts late can be transmitted because?",
+    "choices": [
+      "It is never expressed",
+      "It is mitochondrial",
+      "Carriers reproduce before death",
+      "It is haploid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9199999999999999
+  },
+  {
+    "text": "Maternal-effect phenotype is determined by?",
+    "choices": [
+      "Offspring’s paternal genotype",
+      "Only mitochondrial DNA",
+      "Mother’s genotype via egg cytoplasmic products",
+      "The offspring’s sex"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9299999999999999
+  },
+  {
+    "text": "Imprinting differs from maternal effect because imprinting depends on?",
+    "choices": [
+      "The mother’s phenotype only",
+      "Environmental temperature",
+      "Parent of origin of the inherited allele",
+      "Recombination rate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A paternally imprinted (silenced paternal) allele is expressed from?",
+    "choices": [
+      "The paternal homolog",
+      "Both homologs equally",
+      "The maternal homolog",
+      "Neither homolog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Complementation testing asks whether mutations?",
+    "choices": [
+      "Have linked loci",
+      "Are dominant",
+      "Are in different genes when the heteroallelic F1 is wild type",
+      "Cause imprinting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Failure to complement usually indicates?",
+    "choices": [
+      "Mutations on different chromosomes",
+      "Independent assortment",
+      "Mutations in the same gene",
+      "A maternal effect"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A cis-trans test distinguishes?",
+    "choices": [
+      "Centimorgans",
+      "Penetrance",
+      "Allelic identity and complementation",
+      "Nondisjunction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "A three-point testcross identifies gene order by?",
+    "choices": [
+      "Counting only dominant phenotypes",
+      "Using F2 9:3:3:1",
+      "Comparing parental and double-crossover classes",
+      "Ignoring reciprocal classes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "If parental classes are ABC and abc, DCO classes are?",
+    "choices": [
+      "ABC and abc",
+      "ABc and abC",
+      "AbC and aBc",
+      "Abc and aBC"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In three-point mapping, the middle gene is found by?",
+    "choices": [
+      "Choosing the longest interval",
+      "Choosing the rarest allele",
+      "Comparing DCO with parental haplotypes",
+      "Using phenotype dominance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "SCO in interval A-B plus DCO is used to calculate?",
+    "choices": [
+      "Only viability",
+      "The LOD score",
+      "A-B recombination frequency",
+      "Penetrance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "If 8/100 progeny are recombinants between loci, map distance is?",
+    "choices": [
+      "4 cM",
+      "16 cM",
+      "8 cM",
+      "92 cM"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "If intervals are 10 cM and 20 cM, expected DCO without interference is?",
+    "choices": [
+      "10%",
+      "20%",
+      "0.2%",
+      "2%"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Negative interference means?",
+    "choices": [
+      "Fewer DCO observed",
+      "No recombination",
+      "Only parental progeny",
+      "More DCO observed than expected"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "A crossover involving two chromatids is called?",
+    "choices": [
+      "Three-strand DCO",
+      "Four-strand DCO",
+      "Gene conversion",
+      "Two-strand double crossover"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "A four-strand DCO produces?",
+    "choices": [
+      "Only parental chromatids",
+      "No viable spores",
+      "Only one recombinant",
+      "Recombinant chromatids of all four chromatids"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Tetrad gene conversion is detected by?",
+    "choices": [
+      "Always 3:1 segregation",
+      "Only aneuploid spores",
+      "A 9:3:3:1 ratio",
+      "6:2 or 5:3 segregation ratios"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Distance from gene to centromere in ordered tetrads uses?",
+    "choices": [
+      "NPD frequency only",
+      "LOD score",
+      "Allele frequency",
+      "Second-division segregation frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.89
+  },
+  {
+    "text": "A 2:2 segregation pattern in tetrads indicates?",
+    "choices": [
+      "Gene conversion",
+      "A DCO",
+      "Nondisjunction",
+      "First-division segregation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "A pedigree with consanguinity raises prior probability of?",
+    "choices": [
+      "Dominant de novo mutations only",
+      "Mitochondrial inheritance only",
+      "Y-linked traits only",
+      "Rare recessive alleles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "For an autosomal recessive child with unaffected parents, each parent is usually?",
+    "choices": [
+      "Homozygous dominant",
+      "Affected homozygote",
+      "Hemizygous",
+      "An obligate carrier"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9199999999999999
+  },
+  {
+    "text": "An X-linked recessive affected male transmits his mutant allele to?",
+    "choices": [
+      "All sons",
+      "Half of sons only",
+      "No children",
+      "All daughters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9299999999999999
+  },
+  {
+    "text": "A mitochondrial trait is typically transmitted by?",
+    "choices": [
+      "Affected fathers to all sons",
+      "Only fathers to daughters",
+      "Both sexes equally through sperm",
+      "Affected mothers to their offspring"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Variable expressivity means?",
+    "choices": [
+      "Some carriers show no phenotype",
+      "A gene is deleted",
+      "Alleles segregate irregularly",
+      "Severity differs among individuals with the genotype"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Reduced penetrance means?",
+    "choices": [
+      "Severity varies in all carriers",
+      "Only males express the gene",
+      "The allele is lethal",
+      "Some genotype carriers lack the expected phenotype"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Epistasis occurs when?",
+    "choices": [
+      "Crossing over stops",
+      "A gene is imprinted",
+      "A chromosome fails to replicate",
+      "One locus modifies or masks another locus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A recessive epistatic F2 ratio often resembles?",
+    "choices": [
+      "9:3:3:1",
+      "1:1",
+      "2:1",
+      "9:3:4"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Duplicate dominant epistasis can produce?",
+    "choices": [
+      "9:3:4",
+      "13:3",
+      "9:7",
+      "15:1"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Complementary gene action can produce F2 ratio?",
+    "choices": [
+      "15:1",
+      "12:3:1",
+      "1:2:1",
+      "9:7"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "A suppression interaction is tested by?",
+    "choices": [
+      "Measuring centromere distance",
+      "A tetrad count alone",
+      "A LOD threshold",
+      "Crossing a suppressor mutation into the phenotype background"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Linkage disequilibrium is?",
+    "choices": [
+      "Physical crossing over",
+      "A lethal ratio",
+      "Equal allele frequencies",
+      "Nonrandom association of alleles at loci"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "A recombination hotspot is?",
+    "choices": [
+      "A centromere with no genes",
+      "A lethal locus",
+      "A noncoding chromosome end",
+      "A genomic region with elevated crossover rate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "MLH1 is associated with?",
+    "choices": [
+      "Ribosome assembly",
+      "Mitochondrial translation only",
+      "DNA methylation only",
+      "Crossover repair and mismatch processing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "SNP haplotypes help infer?",
+    "choices": [
+      "Dominance ratios only",
+      "Penetrance directly",
+      "Tetrad order",
+      "Ancestral segments and linkage disequilibrium"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "A cis double heterozygote has arrangement?",
+    "choices": [
+      "Ab/aB",
+      "AA/bb",
+      "Aabb",
+      "AB/ab"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "A trans double heterozygote has arrangement?",
+    "choices": [
+      "AB/ab",
+      "AB/AB",
+      "ab/ab",
+      "Ab/aB"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "In a testcross, the largest classes are usually?",
+    "choices": [
+      "DCO haplotypes",
+      "Nullisomic offspring",
+      "Phenocopies",
+      "Parental haplotypes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  }
+]

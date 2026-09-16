@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Who proved Fermat's Last Theorem in 1995, ending a 358-year-old conjecture?",
+    "choices": ["Andrew Wiles", "Pierre Fermat", "Leonhard Euler", "Carl Friedrich Gauss"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Riemann Hypothesis concerns which mathematical objects?",
+    "choices": ["zeros of the zeta function", "prime number distributions", "the Mandelbrot set", "elliptic curves"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which constant is defined as the limit of (1 + 1/n)^n as n approaches infinity?",
+    "choices": ["Euler's number e", "pi π", "the golden ratio", "the Euler-Mascheroni constant"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What famous identity links five fundamental mathematical constants?",
+    "choices": ["e^(iπ) + 1 = 0", "π = 22/7", "φ = (1 + √5)/2", "1 + 1/2 + 1/4 + ... = 2"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Ramanujan was a self-taught mathematician from which country?",
+    "choices": ["India", "Russia", "Germany", "France"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who is known as the 'Prince of Mathematicians'?",
+    "choices": ["Carl Friedrich Gauss", "Leonhard Euler", "Isaac Newton", "Augustin-Louis Cauchy"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Kurt Gödel proved that formal axiomatic systems must either be incomplete or inconsistent. What field did this revolutionize?",
+    "choices": ["mathematical logic and foundations", "number theory", "topology", "combinatorics"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The golden ratio φ is approximately equal to which value?",
+    "choices": ["1.618", "1.414", "2.718", "3.142"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Emmy Noether's theorem connects symmetries to which concept?",
+    "choices": ["conservation laws", "prime factorization", "group theory", "differential equations"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Collatz conjecture states that any positive integer eventually reaches which number?",
+    "choices": ["1", "0", "2", "infinity"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Leonhard Euler proved which famous theorem about polyhedra?",
+    "choices": ["V - E + F = 2", "V + E + F = 3", "V = E + F", "E = 2V - F"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The twin prime conjecture proposes what about prime numbers?",
+    "choices": ["infinitely many pairs differ by 2", "they are all odd except 2", "they follow a simple formula", "they become rarer as numbers grow"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the set defined by the iteration z → z² + c in the complex plane?",
+    "choices": ["Mandelbrot set", "Julia set", "Fatou set", "Cantor set"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Sophie Germain made pioneering contributions to which areas of mathematics?",
+    "choices": ["number theory and elasticity", "calculus and astronomy", "geometry and topology", "algebra and logic"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Goldbach's conjecture states that every even integer greater than 2 is the sum of how many primes?",
+    "choices": ["four primes", "two primes", "three primes", "five primes"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The four-color theorem was the first major theorem proved with computer assistance. What does it concern?",
+    "choices": ["map coloring with at most four colors", "graph theory vertex coloring", "prime factorization patterns", "crystallographic groups"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "David Hilbert proposed 23 famous open problems in 1900. How many have been completely solved?",
+    "choices": ["Most are solved or understood", "Only one", "About half", "None"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The P vs NP problem is one of the Millennium Prize Problems. It concerns which concept?",
+    "choices": ["computational complexity classes", "prime number distribution", "geometric proofs", "probabilistic algorithms"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Georg Cantor developed set theory and proved that some infinities are larger than others. Which symbols did he use?",
+    "choices": ["aleph numbers", "omega numbers", "zeta functions", "epsilon-delta notation"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Fundamental Theorem of Calculus links which two operations?",
+    "choices": ["differentiation and integration", "differentiation and limits", "integration and summation", "derivatives and sequences"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who developed the notation and much of the theory for calculus independently of Newton?",
+    "choices": ["Gottfried Wilhelm Leibniz", "Augustin-Louis Cauchy", "Karl Weierstrass", "Bernoulli family"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The prime number theorem describes the asymptotic distribution of primes. It was proved rigorously in which century?",
+    "choices": ["19th century", "17th century", "20th century", "18th century"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the digits of pi to five decimal places?",
+    "choices": ["3.14159", "3.14126", "3.14160", "3.14162"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which mathematician famously said 'Gauss was not fully satisfied until he had not merely solved a problem, but had thoroughly understood it'?",
+    "choices": ["a biographer of Gauss", "Sophie Germain", "Carl Friedrich Gauss himself", "Leonhard Euler"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Ramanujan's work on partitions revolutionized which area of number theory?",
+    "choices": ["the enumeration of partition functions", "modular forms study", "analytic number theory", "diophantine equations"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Erdős–Ko-Rado theorem concerns which mathematical structure?",
+    "choices": ["combinatorics and set families", "prime numbers", "graph coloring", "algebraic geometry"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who proved that the continuum hypothesis is independent of Zermelo-Fraenkel set theory?",
+    "choices": ["Paul Cohen (and Kurt Gödel)", "David Hilbert", "Georg Cantor", "Bertrand Russell"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The normal distribution is often called the 'bell curve.' Which mathematician analyzed it extensively?",
+    "choices": ["Carl Friedrich Gauss", "Abraham de Moivre", "Pierre-Simon Laplace", "Adolphe Quetelet"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the sum of the Fibonacci sequence 1 + 1 + 2 + 3 + 5 + 8 + ... equal to?",
+    "choices": ["No closed form; grows without bound", "π", "e", "φ²"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Riemann hypothesis remains unproven. Which fields could benefit most from a proof?",
+    "choices": ["number theory and cryptography", "topology and geometry", "logic and set theory", "analysis and calculus"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Alan Turing's work on computability led to the concept of which machine?",
+    "choices": ["the Turing machine", "the lambda calculus machine", "the finite automaton", "the Babbage engine"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What does the Church-Turing thesis propose about computation?",
+    "choices": ["any effectively computable function can be computed by a Turing machine", "all algorithms terminate", "mathematics is incomplete", "logic is consistent"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The gamma function extends which concept to non-integer values?",
+    "choices": ["the factorial function", "the Fibonacci sequence", "the zeta function", "the logarithm"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Von Neumann and Morgenstern pioneered which mathematical field?",
+    "choices": ["game theory", "operator algebras", "ergodic theory", "measure theory"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which mathematician proved the Prime Number Theorem using analytic methods?",
+    "choices": ["Jacques Hadamard and Charles de la Vallée Poussin", "Bernhard Riemann", "Leonhard Euler", "Carl Friedrich Gauss"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Ada Lovelace is considered the first computer programmer. For which machine did she write the first algorithm?",
+    "choices": ["the Analytical Engine", "the Difference Engine", "the Babbage computer", "the mechanical calculator"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Basel problem, solved by Euler, found that 1/1² + 1/2² + 1/3² + ... equals which value?",
+    "choices": ["π²/6", "π/6", "π²/4", "2π/3"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Banach spaces and Hilbert spaces are fundamental to which area of mathematics?",
+    "choices": ["functional analysis", "algebraic topology", "differential geometry", "number theory"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who developed the theory of modular forms, which later proved crucial to proving Fermat's Last Theorem?",
+    "choices": ["Ernst Kummer (foundations); later developments by Taniyama-Shimura", "Pierre de Fermat", "Emmy Noether", "David Hilbert"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Ramanujan's divergent series summation (Ramanujan summation) assigns which value to 1 + 2 + 3 + 4 + ...?",
+    "choices": ["-1/12", "infinity", "0", "cannot be assigned a finite value"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Langlands program is a vast web of conjectures connecting which two major areas?",
+    "choices": ["number theory and representation theory", "analysis and topology", "algebra and geometry", "logic and set theory"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which problem asked to find the shortest path connecting multiple points, inspiring graph theory?",
+    "choices": ["the Seven Bridges of Königsberg", "the Traveling Salesman Problem", "the Hamiltonian cycle", "the Steiner tree"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Taniyama-Shimura conjecture (now a theorem) bridged which two areas, helping prove Fermat's Last Theorem?",
+    "choices": ["elliptic curves and modular forms", "prime numbers and geometry", "algebra and topology", "calculus and number theory"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who developed the Fourier transform, a cornerstone of modern signal processing?",
+    "choices": ["Jean-Baptiste Joseph Fourier", "Joseph Lagrange", "Adrien-Marie Legendre", "Siméon Denis Poisson"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Catalan numbers appear in which type of combinatorial problems?",
+    "choices": ["parenthesizations and binary tree structures", "prime factorizations", "graph colorings", "permutation patterns"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which theorem by Cantor shows that the real numbers are uncountable?",
+    "choices": ["Cantor's diagonal argument", "the well-ordering principle", "the axiom of choice", "Zorn's lemma"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Hardy-Littlewood circle method is used to study which types of problems?",
+    "choices": ["additive number theory", "algebraic geometry", "dynamical systems", "functional equations"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Monster group is the largest of the sporadic simple groups. How many elements does it have?",
+    "choices": ["approximately 8×10^53", "infinity", "exactly 1", "about 360 million"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  }
+]

@@ -1,0 +1,626 @@
+[
+  {
+    "text": "Who was Cleopatra VII's father?",
+    "choices": ["Ptolemy XII Auletes", "Ptolemy IX Soter II", "Ptolemy XI Alexander II", "Ptolemy XIII Theos Philopator"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What epithet is most closely associated with Ptolemy XII?",
+    "choices": ["Philometor", "Auletes", "Euergetes", "Soter"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The epithet Auletes means what?",
+    "choices": ["The savior", "The flute player", "The younger", "The conqueror"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which city was the political center of Cleopatra's accession struggle?",
+    "choices": ["Memphis", "Pelusium", "Alexandria", "Cyrene"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Cleopatra VII first ruled jointly with which brother?",
+    "choices": ["Ptolemy XIV", "Ptolemy XIII", "Ptolemy XV", "Ptolemy XI"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which sister briefly took the throne while Ptolemy XII was in exile?",
+    "choices": ["Arsinoe IV", "Cleopatra Selene", "Berenice IV", "Cleopatra II"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why did Ptolemy XII seek Roman backing so persistently?",
+    "choices": ["To invade Parthia", "To secure his throne", "To abolish sibling marriage", "To move the capital to Rome"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which island was annexed by Rome in 58 BCE, worsening Ptolemy XII's standing?",
+    "choices": ["Cyprus", "Rhodes", "Crete", "Lesbos"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Whose execution deeply damaged Ptolemy XII's popularity when Rome took Cyprus?",
+    "choices": ["His eldest son", "The high priest of Ptah", "His brother, the ruler of Cyprus", "The governor of Cyrenaica"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Ptolemy XII's restoration to Egypt in 55 BCE was carried out mainly by which Roman governor?",
+    "choices": ["Gabinius", "Verres", "Bibulus", "Dolabella"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The Roman troops left in Egypt after Ptolemy XII's restoration were known by what name?",
+    "choices": ["Macedonica", "Alexandrians", "Gabiniani", "Aulic Guard"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "After his restoration, what happened to Berenice IV?",
+    "choices": ["She married a Seleucid prince", "She fled to Cyprus", "She was executed", "She was sent to Rome as a hostage"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Roman strongman was especially linked to Ptolemy XII's diplomacy through loans and patronage?",
+    "choices": ["Marius", "Pompey", "Sulla", "Milo"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which financier became notorious for lending large sums to Ptolemy XII?",
+    "choices": ["Atticus", "Rabirius Postumus", "Brutus", "Balbus"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What broad problem haunted the late Ptolemaic succession again when Cleopatra came to power?",
+    "choices": ["Frequent Roman annexation of temples", "Dynastic rivalry among siblings", "Shortage of male heirs in Macedonia", "Loss of the Nile delta to Nubia"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which document of Ptolemy XII was important to Roman claims about protecting the succession?",
+    "choices": ["His naval treaty with Rhodes", "His will lodged with Roman authorities", "His marriage contract with Cleopatra V", "His alliance oath to Parthia"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Under Ptolemy XII's arrangements, Cleopatra VII and Ptolemy XIII were expected to rule as what?",
+    "choices": ["Co-rulers", "Rival satraps", "Temple regents", "Queen and adopted son"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What customary dynastic practice linked Cleopatra VII to her young co-ruler at accession?",
+    "choices": ["Adoption into the Roman gens Julia", "Marriage to a sibling", "Election by the Museum", "Coronation at Siwa"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which advisers were dominant around the young Ptolemy XIII early in the civil struggle?",
+    "choices": ["Pothinus, Achillas, and Theodotus", "Apollodorus, Sosigenes, and Charmion", "Balbus, Oppius, and Antony", "Seleucus, Menelaus, and Onias"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Pothinus held which court position under Ptolemy XIII?",
+    "choices": ["Eunuch regent or guardian", "Chief admiral", "High priest of Alexandria", "Roman quaestor"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Achillas is best described as what in Cleopatra's early struggle for power?",
+    "choices": ["A royal tutor", "A military commander", "A temple accountant", "A Rhodian envoy"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Theodotus of Chios was chiefly known at court as what?",
+    "choices": ["Physician", "Rhetorician and tutor", "Admiral", "Tax farmer"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Roman arrived in Egypt in 48 BCE and was then drawn into the Ptolemaic dispute?",
+    "choices": ["Julius Caesar", "Crassus", "Lepidus", "Cato the Younger"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Why did Pompey go to Egypt after Pharsalus?",
+    "choices": ["To recruit Parthians", "To seek refuge and support", "To escort Cleopatra to Syria", "To inspect grain shipments"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What did Ptolemy XIII's court do to Pompey on his arrival?",
+    "choices": ["Crowned him co-regent", "Held him for ransom", "Killed him", "Sent him to Cyprus"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which battle had driven Pompey to Egypt shortly before his death there?",
+    "choices": ["Philippi", "Pharsalus", "Mutina", "Munda"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Cleopatra's famous secret entry to meet Caesar is usually linked to what object?",
+    "choices": ["A grain chest", "A rug or bedding sack", "A wine amphora", "A temple litter"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who is commonly named as the man who brought Cleopatra to Caesar in secret?",
+    "choices": ["Apollodorus the Sicilian", "Pothinus", "Rufio", "Dioscorides"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "The fighting that followed Caesar's intervention in Alexandria is known as what?",
+    "choices": ["The Alexandrian War", "The Cretan War", "The Cypriot Revolt", "The Antiochene War"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which side did the Gabiniani tend to favor during the Alexandrian conflict?",
+    "choices": ["Cleopatra and Caesar", "Ptolemy XIII's court", "The Nabataeans", "The Roman Senate in exile"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Where had Cleopatra likely gathered support after being pushed out of Alexandria?",
+    "choices": ["Upper Egypt near Elephantine", "Syria and the eastern frontier", "Cyprus alone", "Crete under Roman protection"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What happened to Ptolemy XIII during the war with Caesar?",
+    "choices": ["He was captured and sent to Rome", "He drowned in the Nile", "He was assassinated by Arsinoe IV", "He abdicated and became a priest"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "After Ptolemy XIII's death, Cleopatra formally ruled next with which brother?",
+    "choices": ["Ptolemy XI", "Ptolemy XIV", "Ptolemy XV", "Ptolemy IX"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which younger sister of Cleopatra emerged as a rival during the Alexandrian War?",
+    "choices": ["Berenice IV", "Arsinoe IV", "Cleopatra Thea", "Tryphaena"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Arsinoe IV briefly aligned herself with which anti-Caesarian commander in Alexandria?",
+    "choices": ["Rufio", "Achillas", "Apollodorus", "Sosigenes"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Roman ally helped Caesar relieve the situation in Egypt from the east?",
+    "choices": ["Mithridates of Pergamum", "Juba I", "Cassius Longinus", "Labienus"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The decisive battle that secured Caesar's success in Egypt was fought near which branch of the Nile?",
+    "choices": ["Canopic branch", "Mendesian branch", "Nile near the eastern delta and the so-called Battle of the Nile", "Sebennytic branch only at Memphis"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Why was Roman intervention in Egypt especially tempting to Roman leaders?",
+    "choices": ["Egypt controlled Alpine passes", "Egypt offered grain and money", "Egypt had large silver mines in Spain", "Egypt commanded the Black Sea straits"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which famous Roman lawmaker opposed Gabinius's unauthorized restoration of Ptolemy XII less as a defender of Egypt than as part of Roman factional politics?",
+    "choices": ["Cicero", "Cato the Younger", "Curio", "Clodius"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The Alexandrian Greeks who overthrew Ptolemy XII in practice elevated which figure as ruler?",
+    "choices": ["Arsinoe IV", "Berenice IV", "Cleopatra VII", "Tryphaena alone for decades"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Roman politician's murder in 52 BCE removed one powerful patron from Ptolemy XII's network shortly before the succession crisis?",
+    "choices": ["Pompey", "Clodius", "Crassus", "Bibulus"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Ptolemy XII's regime is often seen as financially strained partly because of what?",
+    "choices": ["Tribute owed to Carthage", "Heavy payments to Roman patrons", "Loss of all Nile taxation", "Temple exemption for every village"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which Roman office did Aulus Gabinius hold when he restored Ptolemy XII?",
+    "choices": ["Governor of Syria", "Consul in Italy", "Praetor in Sicily", "Proconsul of Africa"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Whom did Berenice IV marry in search of legitimacy during her father's exile?",
+    "choices": ["A Parthian king", "Seleucid pretenders", "A Numidian prince only", "A son of Mithridates Eupator"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which one of Berenice IV's husbands was reportedly killed for being unsuitable before another was chosen?",
+    "choices": ["Seleucus Kybiosaktes", "Archelaus", "Antiochus XIII", "Ariarathes X"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The husband who actually fought against Gabinius during Ptolemy XII's restoration was who?",
+    "choices": ["Demetrius III", "Archelaus", "Alexander Balas", "Juba II"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Archelaus, Berenice IV's later husband, claimed descent from which regional royal house?",
+    "choices": ["Pontic-Cappadocian royalty", "Antigonid Macedonia", "The Arsacids of Parthia", "The Attalids of Pergamum"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Roman cavalry officer distinguished himself in the campaign that restored Ptolemy XII and later became far more famous?",
+    "choices": ["Julius Caesar", "Mark Antony", "Brutus", "Agrippa"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What title best describes Cleopatra's position immediately after her father's death in 51 BCE?",
+    "choices": ["Sole queen without a colleague", "Senior co-ruler beside a younger brother", "Roman client governor", "Priestess-regent under Pompey"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Early in her reign, Cleopatra seems to have emphasized her authority in documents by doing what?",
+    "choices": ["Dating solely by Caesar's consulship", "Appearing before Ptolemy XIII in some records", "Dropping all pharaonic titles", "Minting only Latin inscriptions"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A severe environmental problem attested near the start of Cleopatra's reign was what?",
+    "choices": ["A low Nile flood and food stress", "An earthquake that destroyed Memphis", "A plague imported from Gaul", "Silting that erased Alexandria's harbor"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which aspect of Cleopatra's image distinguished her from many earlier Ptolemies in later tradition?",
+    "choices": ["She abandoned Greek court culture", "She could speak Egyptian", "She abolished the priesthood of Isis", "She never used dynastic marriage"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Ptolemaic dynasty itself began when which figure took Egypt after Alexander's death?",
+    "choices": ["Ptolemy son of Lagus", "Seleucus Nikator", "Antigonus Monophthalmus", "Cassander"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was the original role of the first Ptolemy in Egypt before he became king?",
+    "choices": ["Roman prefect", "Satrap", "Chief priest of Ptah", "King of Cyprus"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which early Ptolemy first assumed the royal title in 305/304 BCE?",
+    "choices": ["Ptolemy I", "Ptolemy II", "Ptolemy III", "Ptolemy IV"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What characteristic practice of the Ptolemaic house complicated later succession politics?",
+    "choices": ["Election by the Senate of Alexandria", "Frequent sibling marriage", "Adoption of Roman heirs", "Exclusion of queens from rule"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which cultic blending symbolized Ptolemaic efforts to join Greek and Egyptian traditions from the dynasty's early period?",
+    "choices": ["The cult of Mithras", "The cult of Serapis", "The Eleusinian Mysteries", "The Capitoline Triad"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which early Ptolemaic queen was a famous full sister-wife whose model haunted later dynastic ideology?",
+    "choices": ["Arsinoe II", "Berenice Syra", "Cleopatra Thea", "Laodice IV"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The capital created by Alexander and developed by the Ptolemies lay on which sea?",
+    "choices": ["Red Sea", "Mediterranean Sea", "Black Sea", "Caspian Sea"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which institution made Alexandria famous as an intellectual center under the early Ptolemies?",
+    "choices": ["The Areopagus", "The Library and Mouseion", "The Delphic amphictyony", "The Roman forum"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "By Cleopatra's time, Roman influence over Egypt was strongest because Egypt was formally what?",
+    "choices": ["A Roman province", "An independent but vulnerable client kingdom", "A Seleucid satrapy", "A free Greek federation"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman category best fits Ptolemaic Egypt in the late republic before 30 BCE?",
+    "choices": ["Municipium", "Client monarchy", "Colonia", "Praetorian prefecture"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which of Cleopatra's siblings became her last serious dynastic rival before Roman annexation?",
+    "choices": ["Berenice IV", "Ptolemy XIV", "Arsinoe IV", "Ptolemy XV Caesarion"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "After Caesar's victory in Egypt, what became of Arsinoe IV for a time?",
+    "choices": ["She ruled Cyprus", "She was displayed in Caesar's triumph", "She married Antony", "She was adopted by Octavia"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which sanctuary later sheltered Arsinoe IV before her death?",
+    "choices": ["Temple of Artemis at Ephesus", "Oracle of Didyma", "Temple of Apollo at Claros", "Serapeum at Memphis"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who later ordered the killing of Arsinoe IV?",
+    "choices": ["Octavian", "Mark Antony at Cleopatra's request", "Cassius", "Herod the Great"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Ptolemy XIV's disappearance from the political scene is commonly linked by ancient suspicion to whom?",
+    "choices": ["Arsinoe IV", "Cleopatra VII", "Pothinus", "Gabinius"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which child did Cleopatra then elevate as co-ruler after Ptolemy XIV?",
+    "choices": ["Alexander Helios", "Caesarion", "Ptolemy XIII reborn", "Antyllus"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Caesarion is also known by which regnal name?",
+    "choices": ["Ptolemy XV", "Ptolemy XIV Neos", "Alexander II", "Ptolemy XVI Philopator"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Roman unease about Caesarion centered on the claim that he was whose son?",
+    "choices": ["Pompey's", "Julius Caesar's", "Antony's", "Gabinius's"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman civil conflict created the immediate opening for Caesar to intervene in Egypt?",
+    "choices": ["The war of Caesar and Pompey", "The Social War", "The war against Jugurtha", "The Perusine War"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What did Caesar claim to be doing when he arbitrated between Cleopatra and Ptolemy XIII?",
+    "choices": ["Enforcing Ptolemy XII's testamentary arrangements", "Avenging Crassus in Parthia", "Collecting the library for Rome", "Restoring Berenice IV"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which court faction most feared Caesar's arbitration in 48 BCE?",
+    "choices": ["The advisers controlling Ptolemy XIII", "The priests of Memphis", "The merchants of Delos", "The Cypriot exiles around Ptolemy's brother"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The murder of Pompey was meant by Ptolemy XIII's advisers to achieve what?",
+    "choices": ["Gain Caesar's favor", "Start a war with Parthia", "Restore Berenice IV", "Force Cleopatra to marry Pompey"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "How did Caesar reportedly react to Pompey's murder?",
+    "choices": ["He celebrated publicly", "He was distressed and displeased", "He crowned Ptolemy XIII", "He immediately annexed Egypt"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which body of troops became difficult for Caesar because they were Romans long settled in Egypt and attached to local politics?",
+    "choices": ["Legio X Equestris", "The Gabiniani", "The urban cohorts", "The Cilician pirates"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Why was Cleopatra's position stronger after Caesar's victory than before his arrival?",
+    "choices": ["She had become Roman consul", "Her brother's faction was broken", "The Seleucids recognized her", "Cyprus was restored as a separate kingdom"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which region had already been lost from direct Ptolemaic family control during the crisis around 58 BCE?",
+    "choices": ["Cyprus", "Coele-Syria", "Cyrenaica", "Nubia"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The annexation of Cyprus was carried out under the political drive of which Roman tribune?",
+    "choices": ["Clodius Pulcher", "Curio", "Trebonius", "Metellus Nepos"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Roman's campaign in the east left him well placed to influence Egyptian affairs before Caesar arrived?",
+    "choices": ["Pompey the Great", "Catiline", "Sertorius", "Ahenobarbus"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was one major source of legitimacy for a Ptolemaic ruler besides military control?",
+    "choices": ["Recognition by the Egyptian priesthood", "Election by the Roman comitia", "Approval from Sparta", "Marriage into the Arsacid line"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Cleopatra's pharaonic presentation mattered politically because it helped her appeal to whom beyond the Greek court elite?",
+    "choices": ["Only Roman bankers", "Egyptian subjects and priestly institutions", "Parthian nobles", "Athenian juries"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which of these best describes the politics of Cleopatra's accession year?",
+    "choices": ["Stable hereditary transfer without foreign pressure", "Joint rule overshadowed by court intrigue and Roman leverage", "Immediate Roman annexation", "A democratic settlement led by the Museum"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why did child or teenage kings often empower palace courtiers in late Ptolemaic Egypt?",
+    "choices": ["They were legally barred from issuing coins", "Regency politics let advisers dominate access to power", "They could not appear in temples", "The army only obeyed Roman senators"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which of Cleopatra's early opponents would most naturally be called a palace bureaucrat rather than a battlefield commander?",
+    "choices": ["Achillas", "Pothinus", "Mithridates of Pergamum", "Caesar"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which rival of Cleopatra was younger and therefore especially open to manipulation by court advisers?",
+    "choices": ["Berenice IV", "Ptolemy XIII", "Arsinoe IV", "Ptolemy XII"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In broad dynastic terms, Cleopatra's rise continued which long Ptolemaic pattern?",
+    "choices": ["Queens never ruled in their own name", "Succession disputes often stayed within one family", "Roman governors always appointed the king", "Egyptian priests banned sibling unions"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which earlier feature of the dynasty made female power at least conceivable in Cleopatra's case?",
+    "choices": ["The Ptolemies had no male heirs after Ptolemy I", "Royal women had long held visible political roles", "Rome required queens instead of kings", "Macedonian law forbade boy kings"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What happened to Egypt after Cleopatra VII's defeat decades after her accession?",
+    "choices": ["It reverted to the Seleucids", "It became Roman territory under Octavian", "It joined the Parthian empire", "It split into priestly republics"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which Roman victor ultimately ended the Ptolemaic monarchy in 30 BCE?",
+    "choices": ["Antony", "Octavian", "Lepidus", "Agrippa Postumus"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "The long-term significance of Cleopatra's accession crisis is that it showed what about Egypt's sovereignty?",
+    "choices": ["It was fully independent of Roman politics", "Its internal succession had become entangled with Roman civil war", "It was controlled by Carthage", "It no longer mattered economically"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which phrase best captures Ptolemy XII's political position in relation to Rome?",
+    "choices": ["A distant enemy of Roman influence", "A debtor-king dependent on Roman patrons", "A Roman emperor in waiting", "An ally of Mithridates against Pompey"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which figure would have been least useful to Cleopatra in winning native Egyptian acceptance at accession?",
+    "choices": ["The priesthood", "Pharaonic titulature", "Isis imagery", "The Roman tribunate"],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What was the immediate constitutional form of Cleopatra's first reign?",
+    "choices": ["Roman provincial governorship", "Sole queenship", "Joint monarchy with a brother-husband", "Temple dictatorship"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which event most directly restored Cleopatra from near-defeat to power in Alexandria?",
+    "choices": ["The death of Crassus", "Caesar's intervention and victory", "The annexation of Cyprus", "Pompey's eastern settlement"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the core strategic mistake of Ptolemy XIII's court in dealing with Pompey and Caesar?",
+    "choices": ["Refusing all contact with Rome", "Assuming murder would replace diplomacy", "Ceding Alexandria to Cleopatra at once", "Backing Gabinius against Ptolemy XII"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which name belongs to the young king whose reign collided with Cleopatra's accession rather than to an earlier or later Ptolemy?",
+    "choices": ["Ptolemy XIII", "Ptolemy III Euergetes", "Ptolemy II Philadelphus", "Ptolemy VIII Physcon"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which Roman relationship mattered more to Ptolemy XII than battlefield conquest inside Italy?",
+    "choices": ["His alliance with Hannibal", "His patronage ties to leading Roman politicians", "His election to the tribunate", "His command of the praetorian guard"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Why do historians often connect Ptolemy XII's reign and Cleopatra's accession so closely?",
+    "choices": ["They ruled simultaneously for decades", "His dependence on Rome shaped the crisis she inherited", "He abolished the monarchy before she restored it", "He made Egypt a republic"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which combination best summarizes the forces shaping Cleopatra's accession?",
+    "choices": ["Parthian invasion, Spartan diplomacy, and temple revolt", "Sibling succession, palace factions, and Roman intervention", "Carthaginian trade war, plague, and Nubian conquest", "Athenian arbitration, piracy, and Macedonian federation"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What did Ptolemy XII's exile reveal about royal authority in late Ptolemaic Egypt?",
+    "choices": ["A king could ignore Alexandria completely", "Dynastic rule still depended on urban and foreign support", "Queens were automatically barred from succession", "Roman help was always unnecessary"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which of these is the best example of Roman leverage over Egyptian dynastic politics before 48 BCE?",
+    "choices": ["Gabinius restoring Ptolemy XII", "Octavian founding Constantinople", "Nero marrying Cleopatra Selene", "Trajan appointing Arsinoe IV"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which outcome did Caesar avoid in 48 BCE by backing Cleopatra's side rather than letting Ptolemy XIII's advisers dominate?",
+    "choices": ["A revival of the Persian empire", "A hostile Egyptian court shaped by anti-Caesarian Romans and palace regents", "Immediate peace with Pompey", "The destruction of the Nile flood cycle"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In the narrowest sense, Cleopatra's accession began in which year?",
+    "choices": ["55 BCE", "51 BCE", "48 BCE", "30 BCE"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  }
+]

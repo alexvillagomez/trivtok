@@ -1,0 +1,554 @@
+[
+  {
+    "text": "In the city of Rome under Augustus, which type of dwelling was most common for poorer residents?",
+    "choices": ["Insula apartment block", "Country villa", "Domus townhouse", "Military barracks"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What was the central open-air hall of a typical elite Roman domus called?",
+    "choices": ["Peristyle", "Atrium", "Forum", "Basilica"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which room in a wealthier Roman house was especially associated with formal dining parties?",
+    "choices": ["Cubiculum", "Lararium", "Triclinium", "Tablinum"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In many Roman apartment buildings, which residents usually had the least convenient quarters?",
+    "choices": ["Ground-floor shopkeepers", "Owners' stewards", "Visiting clients", "People on the upper floors"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What feature commonly gave an elite Roman house light and air behind the atrium?",
+    "choices": ["A peristyle garden court", "A watchtower", "A public bath", "A bakery oven"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What practical danger was especially associated with crowded insulae in Augustan Rome?",
+    "choices": ["Avalanches", "Fire", "Earthquakes from volcanoes", "Pirate raids"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was the impluvium in a Roman house?",
+    "choices": ["A slave sleeping loft", "A household shrine cabinet", "A basin that caught rainwater", "A lockbox for silverware"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was a lararium in a Roman household?",
+    "choices": ["A rental contract board", "A kitchen hearth", "A bedroom alcove", "A shrine for household gods"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which staple grain was most closely tied to the ordinary Roman diet in Augustus's time?",
+    "choices": ["Wheat", "Rice", "Oats", "Maize"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was puls, a very basic Roman food?",
+    "choices": ["Fish sauce", "Porridge made from grain", "Spiced wine", "Stuffed sausage"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which condiment was famously widespread in Roman cooking?",
+    "choices": ["Soy sauce", "Mustard cream", "Garum", "Maple syrup"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "For many urban Romans, what was a thermopolium?",
+    "choices": ["A law court", "A bath furnace room", "A grain warehouse", "A hot-food shop"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which drink was commonly consumed by Romans, often mixed with water?",
+    "choices": ["Wine", "Coffee", "Tea", "Distilled whiskey"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "At a formal Roman dinner, guests of status often reclined while eating on what?",
+    "choices": ["Low stools", "Couches", "Stone benches", "Floor mats"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which food would an average Roman in the city have been more likely to eat than a luxurious peacock dish?",
+    "choices": ["Imported cinnamon cakes", "Whole roasted crane", "Bread with olives", "Fresh Atlantic cod"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What social event did the cena refer to in Roman daily life?",
+    "choices": ["Morning sacrifice", "Legal hearing", "Midday market cleanup", "Main meal or dinner"],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was the usual Roman breakfast called?",
+    "choices": ["Ientaculum", "Convivium", "Gustatio", "Vesperna"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which midday meal name often referred to a light lunch in Roman practice?",
+    "choices": ["Cena", "Prandium", "Saturnalia", "Lustrum"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In a formal Roman dinner sequence, what was the gustatio?",
+    "choices": ["The household prayer after dining", "The final drinking bout", "The appetizer course", "The fee paid to entertainers"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which imported luxury was prized by wealthy Romans but far from everyday fare?",
+    "choices": ["Beans", "Cabbage", "Barley bread", "Pepper from India"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What was the Roman forum most fundamentally in day-to-day terms?",
+    "choices": ["A central public space for business and civic life", "A barracks reserved for veterans", "A school only for senators' sons", "A walled grain mill district"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What was a taberna in an urban Roman street?",
+    "choices": ["A canal lock", "A shop or workshop", "A noble woman's sitting room", "A wagon stable for legionaries"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which occupation was especially associated with fulleries in Roman towns?",
+    "choices": ["Shipbuilding", "Glassblowing", "Cleaning and finishing cloth", "Making bronze helmets"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who did much of the grinding and baking for Rome's bread supply?",
+    "choices": ["Only senators", "Mostly temple priests", "Only army engineers", "Professional bakers and mill workers"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What did the patron-client ritual of the morning salutatio involve?",
+    "choices": ["Clients paying respects to a patron", "Crowds bathing before dawn", "Shopkeepers closing at sunrise", "Slaves being sold daily in the forum"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What was sportula in a Roman social context?",
+    "choices": ["A magistrate's voting tablet", "A gift or dole from a patron", "A slave's work permit", "A bathhouse entrance token"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Under Augustus, which broad group was legally and socially ranked above the plebs but below the senatorial elite?",
+    "choices": ["Freedmen", "Clients", "Equestrians", "Foreign merchants"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which legal status sharply limited a person's autonomy in Roman daily life?",
+    "choices": ["Citizen", "Veteran", "Freedperson", "Slave"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What did a Roman tunic represent for most men?",
+    "choices": ["The basic everyday garment", "A priestly robe used only at temples", "A military decoration", "A type of leather sandal"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which garment was the more formal emblem of male Roman citizenship rather than ordinary workwear?",
+    "choices": ["Cloak", "Toga", "Apron", "Belted jerkin"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What distinctive dress was closely associated with respectable married Roman women?",
+    "choices": ["Sagum", "Toga virilis", "Stola", "Paludamentum"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was the paterfamilias in Roman family structure?",
+    "choices": ["The male head with legal authority over the household", "The oldest household slave", "The family's hired teacher", "The neighborhood priest"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was a dowry in Roman marriage?",
+    "choices": ["A public shrine vow", "A certificate of citizenship", "Property transferred with the bride", "A banquet given by the city"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was one common path by which a slave could enter Roman society as a freer person?",
+    "choices": ["Military conscription", "Automatic freedom at age thirty", "Election by the tribe", "Manumission"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What term described a former slave who had been freed?",
+    "choices": ["Freedman or freedwoman", "Legate", "Decurion", "Censor"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which activity commonly occupied educated household slaves in elite homes?",
+    "choices": ["Commanding legions", "Tutoring children", "Serving as consuls", "Owning the family estate outright"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What was the bulla worn by many freeborn Roman boys?",
+    "choices": ["A tax receipt", "A shoe buckle", "A protective amulet", "A writing tablet"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which life change typically ended a Roman boy's wearing of the bulla?",
+    "choices": ["His first trip to the baths", "His father's retirement", "His sister's marriage", "Assuming the toga of manhood"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was the toga virilis?",
+    "choices": ["The plain white toga marking male adulthood", "A military winter cloak", "A senator's purple-bordered robe for children", "A widow's mourning garment"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Where did many Roman children first receive basic literacy training?",
+    "choices": ["Only in Senate chambers", "At home or with a local schoolmaster", "Exclusively in legion camps", "Only in Egyptian temples"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What material was commonly used for everyday Roman writing tablets?",
+    "choices": ["Papyrus wrapped around sticks", "Marble dust sheets", "Wood coated with wax", "Pressed cotton paper"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What tool was used to write by scratching letters into a wax tablet?",
+    "choices": ["A reed brush", "A quill pen", "A palette knife", "A stylus"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which public entertainment drew massive crowds in Augustan Rome?",
+    "choices": ["Chariot racing", "Opera", "Printed news readings", "Gunpowder displays"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What venue was primarily associated with gladiatorial combat?",
+    "choices": ["Circus", "Amphitheater", "Curia", "Aqueduct"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which venue was most associated with chariot races in Rome?",
+    "choices": ["Campus Martius", "Forum Boarium", "Circus Maximus", "Temple of Apollo"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What were the faction colors in Roman chariot racing primarily tied to?",
+    "choices": ["Senate voting blocs", "Army legions from provinces", "Priestly colleges", "Racing teams supported by fans"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Besides watching races, what did Romans often do at large public games?",
+    "choices": ["Gamble on outcomes", "Hold secret elections", "Study philosophy in silence", "Trade only in foreign currencies"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was a munus in Roman entertainment language?",
+    "choices": ["A water clock", "A gladiatorial show originally tied to obligation or commemoration", "A baker's guild", "A type of dinner couch"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What were ludi in Roman public life?",
+    "choices": ["Private inheritance hearings", "Elite marriage contracts", "Public games and festivals", "Police patrol districts"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What made seats at Roman spectacles visibly reflect social hierarchy?",
+    "choices": ["Tickets were sold only to foreigners", "Everyone sat wherever they arrived first", "Only women could attend races", "Different classes had assigned seating areas"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which leisure space was important to ordinary sociability as well as hygiene in Roman cities?",
+    "choices": ["Public baths", "Only private palace pools", "Royal hunting parks", "Monastic cloisters"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "At Roman baths, what room was the hot bath area?",
+    "choices": ["Frigidarium", "Caldarium", "Tablinum", "Ala"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which room in the bath complex was the cold room?",
+    "choices": ["Apodyterium", "Palaestra", "Frigidarium", "Culina"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was the palaestra at many bath complexes used for?",
+    "choices": ["Funeral rites", "Senate meetings", "Long-distance lodging", "Exercise"],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What did bathers commonly use with oil to scrape dirt from the skin?",
+    "choices": ["A strigil", "A bronze spoon", "A loom shuttle", "A fish hook"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What was the apodyterium in a Roman bathhouse?",
+    "choices": ["The furnace room", "The changing room", "The priest's sanctuary", "The horse stable"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which feature helped supply Rome with the enormous volumes of water needed for baths and fountains?",
+    "choices": ["Windmills", "Dams in every courtyard", "Aqueducts", "Steam pumps"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was one reason public fountains mattered so much in Roman neighborhoods?",
+    "choices": ["They served as small theaters", "They replaced every private kitchen", "They were reserved only for priests", "Many residents relied on them for water"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What were the Lares in household religion?",
+    "choices": ["Protective household spirits", "Special kitchen knives", "Tax ledgers", "Funeral masks"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What did Romans generally do in sacrifice to the gods?",
+    "choices": ["Reject all ritual speech", "Offer animals, wine, incense, or cakes", "Pray only in private bedrooms", "Burn written laws"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which bird-sign practice was one traditional way Romans sought divine approval?",
+    "choices": ["Alchemy", "Astrolabe reading", "Augury", "Palmistry"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was expected in Roman religion more than inward belief alone?",
+    "choices": ["Total rejection of old cults", "Weekly temple attendance by law", "Silence before all statues", "Correct performance of ritual"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What did the festival Saturnalia especially encourage in social behavior?",
+    "choices": ["Gift-giving and role reversal", "Compulsory military drills", "Strict courtroom fasting", "Nightly curfews for merchants"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which month-opening observance honored the spirits of the dead in the family line?",
+    "choices": ["Lupercalia", "Consualia", "Parentalia", "Floralia"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What was the Kalends in the Roman month?",
+    "choices": ["The last market day", "The legal harvest season", "The army's payday", "The first day of the month"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What did nundinae refer to in Roman routine?",
+    "choices": ["The recurring market cycle and market day", "A kind of funeral pyre", "A slave punishment", "A dining couch for nine"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Why were nundinae important for people outside the city center?",
+    "choices": ["They marked naval recruiting", "They brought regular opportunities for buying and selling", "They suspended all debt contracts forever", "They announced imperial successions"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What item did Romans commonly use instead of a modern fork for many foods?",
+    "choices": ["No utensils at all", "Chopsticks", "Ladles only", "Their fingers"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What did urban street noise in Rome often come from?",
+    "choices": ["Carts, vendors, and crowds", "Only temple choirs", "Mostly sea traffic inside the walls", "Printing presses"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which source of light would many Romans have relied on after dark?",
+    "choices": ["Gas lamps", "Oil lamps", "Electric lanterns", "Neon signs"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Why could night travel in Rome be inconvenient or risky for ordinary people?",
+    "choices": ["All roads were legally closed", "Moonlight was forbidden during festivals", "Only senators could carry lamps", "Streets were dark, crowded, and uneven"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What did Augustus famously organize in Rome to improve response to urban fires?",
+    "choices": ["The vigiles", "The censors", "The fetiales", "The haruspices"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What were the vigiles in everyday urban terms?",
+    "choices": ["Traveling philosophers", "Night watchmen and firefighters", "Temple singers", "Provincial tax farmers"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which common urban service depended heavily on enslaved or hired labor rather than household plumbing for everyone?",
+    "choices": ["Minting coins", "Building triremes", "Carrying water upstairs", "Training magistrates"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What job might a porter in Roman city life perform?",
+    "choices": ["Writing Senate decrees", "Judging inheritance cases", "Commanding a cavalry wing", "Carrying loads or messages"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was a common reason for visiting the Campus Martius in the early empire?",
+    "choices": ["Exercise, drills, and public activity", "Mining silver", "Planting vineyards", "Launching merchant ships"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What social function did dinner invitations serve among Roman elites?",
+    "choices": ["Only family worship", "Displaying status and reinforcing networks", "Replacing all court appearances", "Granting automatic officeholding"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What could happen to seating order at an elite Roman dinner?",
+    "choices": ["It was always random", "It was determined by dice alone", "It could reflect rank and favor", "Only children were assigned places"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which behavior would better fit a Roman patron than a modern anonymous welfare office?",
+    "choices": ["Avoiding all face-to-face obligations", "Never attending banquets", "Refusing to speak with clients", "Giving favors in return for loyalty and respect"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What public garment marked a boy not yet come of age if he belonged to the freeborn classes?",
+    "choices": ["Toga praetexta", "Sagum", "Pallium", "Synthesis"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What was the Roman custom of naming a newborn on the dies lustricus tied to?",
+    "choices": ["First school lesson", "Legal adoption before witnesses", "Purification and formal acceptance into the family", "Enlistment in a guild"],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In practice, what did many Roman women manage within the household even under a male-headed system?",
+    "choices": ["Legion deployments", "Provincial tax treaties", "Judicial circuits", "Domestic staff and household affairs"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What did imagines in elite Roman funerary culture refer to?",
+    "choices": ["Lottery tablets", "Ancestral masks or portraits", "Imported luxury cups", "Street shrines"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which place would many Romans use for cremation or burial outside the city center rather than deep inside crowded neighborhoods?",
+    "choices": ["The Capitol", "The Senate house", "Roadside tomb areas beyond the main inhabited core", "The imperial palace dining rooms"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What was one practical reason Roman tombs often lined major roads outside cities?",
+    "choices": ["Road dust purified the dead", "Burials had to be hidden from all view", "Only wagon-makers owned roadside land", "Passersby could see and remember the deceased"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What did Roman barbershops provide besides grooming?",
+    "choices": ["A place for conversation and gossip", "Secret Senate archives", "Grain ration tickets only", "Formal courtroom hearings"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What was a tonsor in Roman daily life?",
+    "choices": ["A baker", "A barber", "A scribe", "A chariot driver"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which imported writing material was common for more formal documents than a wax tablet?",
+    "choices": ["Parchment notebooks only from Gaul", "Birch bark", "Papyrus", "Machine-made paper"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was one thing an argentarius did in Roman commercial life?",
+    "choices": ["Train gladiators", "Inspect aqueduct arches", "Lead temple choruses", "Act as a banker or money handler"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the Roman custom of escorting a bride to her husband's house meant to mark?",
+    "choices": ["Her transfer into a new household", "Her selection for priesthood", "Her exemption from all taxes", "Her public adoption by the Senate"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What was the bride's flammeum in Roman marriage ceremony?",
+    "choices": ["A dowry chest", "A distinctive veil", "A pair of ceremonial sandals", "A marriage contract witness"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What kind of businesses often occupied the street-facing front of an insula?",
+    "choices": ["Senate annexes", "Imperial throne rooms", "Legion parade halls", "Small shops"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Which Spanish author wrote a novel about a man obsessed with chivalric romances who tilts at windmills?",
+    "choices": ["Miguel de Cervantes", "Federico García Lorca", "Luis Buñuel", "Pedro Calderón"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the name of the protagonist in Kafka's story about a man who wakes to find himself transformed?",
+    "choices": ["Gregor Samsa", "Josef K.", "Karl Rossmann", "Peeperkorn"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In García Márquez's masterpiece, a family founded Macondo; what is the family's name?",
+    "choices": ["Buendía", "Moscote", "Pilar", "Remedios"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Haruki Murakami's novel about young love in 1960s Tokyo is titled?",
+    "choices": ["Norwegian Wood", "Kafka on the Shore", "1Q84", "After Dark"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which work by Jorge Luis Borges describes an infinite library containing every possible book?",
+    "choices": ["The Library of Babel", "Ficciones", "The Aleph", "A Personal Anthology"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Chinua Achebe's novel about pre-colonial Nigeria and colonial disruption centers on Okonkwo; in what Igbo village does it begin?",
+    "choices": ["Umuofia", "Mbanta", "Abame", "Okperi"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Naguib Mahfouz won the Nobel Prize in Literature; which of his works forms the first part of his Cairo Trilogy?",
+    "choices": ["Palace Walk", "Palace of Desire", "Sugar Street", "Akhenaten"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Dostoevsky's Crime and Punishment, which city is the primary setting?",
+    "choices": ["Saint Petersburg", "Moscow", "Novgorod", "Arkhangelsk"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Tolstoy's War and Peace weaves together fictional and historical characters during which conflict?",
+    "choices": ["Napoleonic Wars", "Russo-Turkish War", "Crimean War", "Russo-Japanese War"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Algerian-French author wrote The Stranger, featuring the morally detached protagonist Meursault?",
+    "choices": ["Albert Camus", "Jean-Paul Sartre", "Frantz Fanon", "Simone de Beauvoir"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Homer's Iliad describes the Trojan War; the conflict arises over which woman?",
+    "choices": ["Helen of Troy", "Penelope", "Briseis", "Cassandra"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Julio Cortázar's Hopscotch (Rayuela) is known for its unconventional structure; readers may skip around using which feature?",
+    "choices": ["Table of instructions", "Numbered chapters in random order", "Multiple colored threads", "Author's footnotes"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Dante's Divine Comedy, which circles of Hell are most famous for their detailed descriptions?",
+    "choices": ["The nine circles described by Virgil", "The seven circles of lust", "The five circles of gluttony", "The eight circles of fraud"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Czech writer created the paranoid logic of The Trial and The Castle?",
+    "choices": ["Franz Kafka", "Milan Kundera", "Bohumil Hrabal", "Václav Havel"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Goethe's Faust makes a pact with which supernatural entity?",
+    "choices": ["Mephistopheles", "Lucifer", "Belzebub", "Asmodeus"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Alexandre Dumas's The Count of Monte Cristo follows Edmond Dantès after his escape from which prison?",
+    "choices": ["Château d'If", "Bastille", "La Conciergerie", "Vincennes"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Victor Hugo's Les Misérables features Jean Valjean's pursuit by Inspector Javert; Valjean served time for stealing what?",
+    "choices": ["A loaf of bread", "A candlestick", "A pocket watch", "A purse"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Gustave Flaubert's Madame Bovary is set in which French region?",
+    "choices": ["Normandy", "Burgundy", "Provence", "Brittany"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Ivan Turgenev's Fathers and Sons centers on a conflict between generations; the young nihilist is named?",
+    "choices": ["Bazarov", "Kirsanov", "Sitnikov", "Kukolnik"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Thomas Mann's Death in Venice follows Gustav von Aschenbach's obsession with which young man?",
+    "choices": ["Tadzio", "Sandro", "Andrea", "Leonardo"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In Mikhail Bulgakov's The Master and Margarita, which character is the mysterious visitor to Moscow?",
+    "choices": ["Woland", "Margarita", "The Master", "Ivan Bezdomny"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Hermann Hesse's Steppenwolf protagonist struggles with his dual nature as human and which animal?",
+    "choices": ["Wolf", "Eagle", "Serpent", "Raven"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Isabel Allende's The House of the Spirits spans generations; it is set primarily in which country?",
+    "choices": ["Chile", "Peru", "Argentina", "Colombia"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Günter Grass's The Tin Drum features Oskar Matzerath, whose voice and actions are controlled by which object?",
+    "choices": ["A tin drum", "A gold pocket watch", "A crystal glass", "A silver flute"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Gabriel García Márquez's Love in the Time of Cholera explores a decades-long romance between Florentino and Fermina in which setting?",
+    "choices": ["Caribbean port city", "Andean highlands", "Amazon basin", "Pacific coast"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In Salman Rushdie's Midnight's Children, the magical children are born at the stroke of midnight on which date?",
+    "choices": ["India's independence day (August 15, 1947)", "Nehru's inauguration (January 26, 1950)", "Partition day (August 15, 1947)", "Gandhi's assassination date"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Milan Kundera's The Unbearable Lightness of Being explores the philosophy of eternal recurrence through which protagonist?",
+    "choices": ["Tomas", "Sabina", "Tereza", "Franz"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Orhan Pamuk's My Name Is Red is structured as which kind of narrative?",
+    "choices": ["Multiple perspectives including a corpse speaking", "A detective story", "A confessional monologue", "Alternating diary entries"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In Yasmina Reza's Art, the three characters debate the value and nature of which artwork?",
+    "choices": ["An abstract white painting", "A minimalist sculpture", "A conceptual installation", "A pop art canvas"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Mo Yan, a Nobel laureate, uses magical realism to depict life in which region of China?",
+    "choices": ["Shandong Province", "Sichuan Province", "Xinjiang", "Inner Mongolia"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Lu Xun's The True Story of Ah Q satirizes which historical event in China?",
+    "choices": ["The 1911 Revolution", "The Boxer Rebellion", "The Opium Wars", "The Cultural Revolution"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Natsume Soseki's Kokoro explores the psychology of an older man who reveals his past to which younger character?",
+    "choices": ["A student", "A nephew", "A servant", "A adopted son"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Wole Soyinka's A Dance of the Forests is set against the backdrop of which Nigerian celebration?",
+    "choices": ["Independence Day festival", "A royal coronation", "A harvest celebration", "A warrior's homecoming"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Ngugi wa Thiong'o's The River Between explores conflict between colonial authority and which community?",
+    "choices": ["The Kikuyu people of Kenya", "The Maasai pastoralists", "The Somali traders", "The Luo fishermen"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "José Saramago's Blindness depicts a city struck by which affliction?",
+    "choices": ["A plague of white blindness", "Selective deafness", "Temporary amnesia", "Involuntary muteness"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Clarice Lispector's The Hour of the Star follows a young woman named which?",
+    "choices": ["Macabéa", "Carolina", "Gabriela", "Arabela"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Homer's Odyssey, Odysseus is delayed from returning to Ithaca for ten years; during this time, who guards his throne?",
+    "choices": ["Telemachus fights suitors", "Penelope's brothers rule", "A regent appointed by Agamemnon", "The suitors collectively govern"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Fyodor Dostoevsky's Notes from Underground is told in which style?",
+    "choices": ["First-person confessional monologue", "Letters between characters", "Third-person retrospective", "Fragmented diary entries"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Italo Calvino's Invisible Cities, Marco Polo describes imaginary cities to which ruler?",
+    "choices": ["Kublai Khan", "Genghis Khan", "Tamerlane", "Babur"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Eça de Queirós's The Maias is an epic Portuguese novel set during which period?",
+    "choices": ["The late 19th century", "The early 20th century", "The colonial era", "The medieval period"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In Fernando Pessoa's heteronymic works, how many major poetic personas did he create?",
+    "choices": ["Four (Campos, Caeiro, Reis, and Pessoa himself)", "Three distinct voices", "Five separate identities", "Two primary and one minor"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Amélie Nothomb, a Belgian-French writer, set one of her novels entirely within which confined space?",
+    "choices": ["A medieval castle tower", "A luxury hotel", "A Parisian apartment", "A submarine"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Kawabata Yasunari's Snow Country explores the relationship between which two characters?",
+    "choices": ["A wealthy man and a geisha", "A novelist and his patron", "A soldier and a widow", "Two former lovers"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Aravind Adiga's The White Tiger features Balram Halwai's moral transformation in which Indian city?",
+    "choices": ["Bangalore", "Delhi", "Mumbai", "Kolkata"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Samuel Beckett's Waiting for Godot is structured as which kind of theatrical piece?",
+    "choices": ["Two acts with minimal plot progression", "A five-act tragedy", "A one-act farce", "Three interconnected scenes"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Yasutaka Tsutsui's absurdist fiction, which work features the surreal multiplying female forms?",
+    "choices": ["The Girl Who Leapt Through Time", "Paprika", "Pushkin", "Your Name"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Rainer Maria Rilke's The Notebooks of Malte Laurids Brigge is set in which European city?",
+    "choices": ["Paris", "Berlin", "Prague", "Vienna"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Leopoldo Alas's (Clarín) La Regenta explores the passionate affair of an unhappy woman in which Spanish city?",
+    "choices": ["Vetusta", "Madrid", "Barcelona", "Seville"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  }
+]

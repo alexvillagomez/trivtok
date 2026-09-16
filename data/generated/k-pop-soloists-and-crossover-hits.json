@@ -1,0 +1,344 @@
+[
+  {
+    "text": "Which artist released 'Gangnam Style'?",
+    "choices": ["Zico", "Psy", "G-Dragon", "Taemin"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which singer released 'Good Day' and 'Palette'?",
+    "choices": ["Taeyeon", "IU", "Sunmi", "Chungha"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which former Wonder Girls member released 'Gashina'?",
+    "choices": ["HyunA", "Sunmi", "Jessi", "CL"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which former SHINee member released 'Move' and 'Guilty'?",
+    "choices": ["Kai", "Taemin", "Key", "Minho"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which former Girls' Generation member released 'INVU'?",
+    "choices": ["Tiffany", "Sunny", "Taeyeon", "Seohyun"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which former 4Minute member released 'Bubble Pop!'?",
+    "choices": ["HyunA", "Sunmi", "Jessi", "Somi"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which former 2NE1 member released 'Hello Bitches'?",
+    "choices": ["CL", "Dara", "Bom", "Minzy"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which member of BIGBANG released 'Coup d'Etat'?",
+    "choices": ["Taeyang", "G-Dragon", "T.O.P", "Daesung"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which EXO member released 'Bambi'?",
+    "choices": ["Kai", "Baekhyun", "Suho", "Chen"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which EXO member released 'Mmmh'?",
+    "choices": ["Lay", "Kai", "Sehun", "D.O."],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which BTS member released 'Daechwita' under the name Agust D?",
+    "choices": ["Suga", "J-Hope", "RM", "Jimin"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which BTS member released 'Arson'?",
+    "choices": ["V", "Jin", "J-Hope", "Jungkook"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which BLACKPINK member released 'SOLO'?",
+    "choices": ["Jennie", "Lisa", "Rosé", "Jisoo"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which BLACKPINK member released 'On The Ground'?",
+    "choices": ["Jennie", "Lisa", "Rosé", "Jisoo"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which BLACKPINK member released 'LALISA'?",
+    "choices": ["Jennie", "Lisa", "Rosé", "Jisoo"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which BLACKPINK member released 'Flower'?",
+    "choices": ["Jennie", "Lisa", "Rosé", "Jisoo"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which singer released 'Maria'?",
+    "choices": ["Hwasa", "Chungha", "Sunmi", "BIBI"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which singer released 'Animal Farm'?",
+    "choices": ["Jessi", "BIBI", "Somi", "Yubin"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which singer released 'Nunu Nana'?",
+    "choices": ["CL", "Jessi", "Hwasa", "Somi"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which soloist released 'Gotta Go' and 'Stay Tonight'?",
+    "choices": ["Chungha", "Sunmi", "Taeyeon", "IU"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which soloist released 'Red Lipstick'?",
+    "choices": ["Chungha", "Lee Hi", "Younha", "Taeyeon"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which soloist released 'Any Song'?",
+    "choices": ["Zico", "Jay Park", "Dean", "Crush"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which soloist released 'Mmmh' and 'Peaches' as an EXO member-turned-solo act?",
+    "choices": ["Kai", "Baekhyun", "Suho", "Chen"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which soloist released 'Candy' as an album title track in 2020?",
+    "choices": ["Baekhyun", "Kai", "Lay", "D.O."],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which singer released 'Bad Love'?",
+    "choices": ["Key", "Taemin", "Onew", "Minho"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer released 'Like Water'?",
+    "choices": ["Wendy", "Seulgi", "Irene", "Joy"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer released 'Satellite' after leaving a girl group and building a solo acting career?",
+    "choices": ["Suzy", "Yuri", "Seohyun", "Yoona"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer released '24 to 26' and is known for work in both K-pop and acting?",
+    "choices": ["Suzy", "IU", "Taeyeon", "Hyeri"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which former girl-group member released 'I Am Not the Same' and became known for powerful solo performances?",
+    "choices": ["Sunmi", "HyunA", "Jessi", "CL"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which former girl-group member released 'Lip & Hip'?",
+    "choices": ["CL", "HyunA", "Sunmi", "Jessi"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which soloist is known for the song 'Roller Coaster'?",
+    "choices": ["Chungha", "Somi", "BIBI", "Yeri"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which singer is known for 'Zoom' and a brash rap-focused persona?",
+    "choices": ["Jessi", "Hwasa", "CL", "Somi"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which singer released 'Jopping' as part of SuperM?",
+    "choices": ["Taemin", "Kai", "Ten", "Mark"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which SHINee member released the solo song 'Married to the Music'?",
+    "choices": ["Key", "Onew", "Minho", "Taemin"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which singer released the solo song 'Smile' and later became a major OST voice?",
+    "choices": ["D.O.", "Chen", "Baekhyun", "Xiumin"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which former Miss A member is better known by the name Bae Su-ji?",
+    "choices": ["Suzy", "Jia", "Fei", "Min"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which singer released 'Hero' and 'Bambi'?",
+    "choices": ["Baekhyun", "Kai", "Chen", "Suho"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which singer released 'Bambi' and 'Candy'?",
+    "choices": ["Baekhyun", "Kai", "Lay", "D.O."],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which singer released 'Eight' with IU and also uses the alias Agust D?",
+    "choices": ["Suga", "J-Hope", "RM", "V"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which singer released 'That That' with Psy?",
+    "choices": ["Suga", "Zico", "Crush", "Jay Park"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which singer released 'Lalisa' and later became a major luxury-fashion ambassador?",
+    "choices": ["Lisa", "Jennie", "Rosé", "Jisoo"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which singer released 'Flower' and is a BLACKPINK member?",
+    "choices": ["Jisoo", "Jennie", "Lisa", "Rosé"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which soloist released 'Her' and 'Teddy Bear'?",
+    "choices": ["Yerin Baek", "IU", "Taeyeon", "Lee Hi"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which singer released 'I' as a solo debut single and later became a TV host and actress?",
+    "choices": ["Taeyeon", "IU", "Suzy", "Yuri"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which singer released 'Above the Time'?",
+    "choices": ["IU", "Taeyeon", "Younha", "Sunmi"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which artist released 'The Story of Us' and is known for emotional ballads in both Japanese and Korean markets?",
+    "choices": ["Younha", "IU", "Taeyeon", "BoA"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which singer released 'Lucid Dream' and has worked as a songwriter-producer in SM-affiliated circles?",
+    "choices": ["aespa's Ningning", "Taemin", "Key", "Taeyeon"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which singer released 'I Do' after years in a girl group and solo acting career?",
+    "choices": ["Suzy", "Yuri", "Seohyun", "Yoona"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which singer released 'Scent of You' and is known for polished performance pop after leaving a major boy group?",
+    "choices": ["Key", "Taemin", "Minho", "Onew"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which artist released 'Mellow' and became known for combining R&B with K-pop balladry?",
+    "choices": ["Lee Hi", "BIBI", "Jessi", "Chungha"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which former Wonder Girls member released 'Tail'?",
+    "choices": ["Sunmi", "Hyuna", "Jessi", "CL"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which soloist is associated with the song '24 Hours'?",
+    "choices": ["Sunmi", "Chungha", "IU", "Taeyeon"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which soloist is associated with the song 'Holo'?",
+    "choices": ["Lee Hi", "Younha", "IU", "Taeyeon"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which soloist is associated with the song 'Palette'?",
+    "choices": ["IU", "Taeyeon", "Sunmi", "Chungha"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which soloist is associated with the song 'Blueming'?",
+    "choices": ["IU", "Younha", "Taeyeon", "Lee Hi"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which soloist is associated with the song 'Abracadabra' and the Brown Eyed Girls solo and group orbit?",
+    "choices": ["Gain", "Jessi", "Sunmi", "HyunA"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which soloist is associated with the song 'Merry Go Round' and a long career bridging idol music and television?",
+    "choices": ["BoA", "Taeyeon", "IU", "HyunA"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  }
+]

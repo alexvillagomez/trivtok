@@ -1,0 +1,278 @@
+[
+  {
+    "text": "What is the capital of Canada?",
+    "choices": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which Canadian province has the largest population?",
+    "choices": ["Quebec", "British Columbia", "Ontario", "Alberta"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Belize is the only Central American country where which language is the primary official language?",
+    "choices": ["Spanish", "French", "English", "Dutch"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the capital of Mexico?",
+    "choices": ["Monterrey", "Mexico City", "Guadalajara", "Cancún"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "How many provinces and territories does Canada have in total?",
+    "choices": ["10", "12", "13", "15"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which North American waterfall is the most powerful by water flow volume?",
+    "choices": ["Horseshoe Falls", "American Falls", "Niagara Falls", "Yosemite Falls"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the largest city in Canada by population?",
+    "choices": ["Vancouver", "Toronto", "Montreal", "Calgary"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "On which Great Lake does Toronto sit?",
+    "choices": ["Lake Michigan", "Lake Ontario", "Lake Erie", "Lake Huron"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Canadian province is an island off the east coast?",
+    "choices": ["Nova Scotia", "Newfoundland and Labrador", "Prince Edward Island", "New Brunswick"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Guatemala is located on two bodies of water. One is the Atlantic Ocean; what is the other?",
+    "choices": ["Gulf of Mexico", "Caribbean Sea", "Pacific Ocean", "Belize Bay"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Central American country has the most volcanoes?",
+    "choices": ["El Salvador", "Guatemala", "Nicaragua", "Costa Rica"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Panama Canal connects which two bodies of water?",
+    "choices": ["Gulf of Mexico and Pacific Ocean", "Atlantic Ocean and Pacific Ocean", "Caribbean Sea and Gulf of California", "Gulf of Mexico and Gulf of California"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the capital of Costa Rica?",
+    "choices": ["San José", "Limón", "San Isidro", "Alajuela"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Canadian province is known for the Bay of Fundy, which has the highest tides in the world?",
+    "choices": ["Nova Scotia", "New Brunswick", "Newfoundland and Labrador", "Prince Edward Island"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Mexico shares borders with how many countries besides the United States?",
+    "choices": ["One", "Two", "Three", "Four"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the longest mountain range in North America?",
+    "choices": ["Sierra Madre", "Cascade Range", "Rocky Mountains", "Appalachian Mountains"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Canadian territory is the largest by area?",
+    "choices": ["Yukon", "Northwest Territories", "Nunavut", "Greenland"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Jamaica, Bahamas, and Haiti are all located in which body of water?",
+    "choices": ["Atlantic Ocean", "Gulf of Mexico", "Caribbean Sea", "North Atlantic"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which North American country is home to the world's second-largest barrier reef?",
+    "choices": ["Mexico", "Belize", "Guatemala", "Honduras"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the capital of Honduras?",
+    "choices": ["San Pedro Sula", "Tegucigalpa", "La Ceiba", "Comayagua"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which is the smallest country by area in Central America?",
+    "choices": ["Belize", "El Salvador", "Costa Rica", "Panama"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Yucatan Peninsula is primarily located in which country?",
+    "choices": ["Guatemala", "Mexico", "Belize", "Honduras"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Canadian city hosted the 1976 Summer Olympics?",
+    "choices": ["Vancouver", "Montreal", "Calgary", "Toronto"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Mount Robson is the highest peak in the Canadian Rocky Mountains and located in which province?",
+    "choices": ["Alberta", "British Columbia", "Yukon", "Saskatchewan"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the capital of Nicaragua?",
+    "choices": ["León", "Managua", "Granada", "Masaya"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which lake is shared by both Canada and the United States and is one of the Great Lakes?",
+    "choices": ["Lake Superior", "Lake Michigan", "Lake Champlain", "All of the above"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "El Salvador has a coastline on which two bodies of water?",
+    "choices": ["Pacific Ocean and Gulf of Mexico", "Caribbean Sea and Pacific Ocean", "Atlantic Ocean and Gulf of California", "Caribbean Sea and Bay of Honduras"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Great Slave Lake is located in which Canadian territory?",
+    "choices": ["Yukon", "Nunavut", "Northwest Territories", "British Columbia"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Mexican state was the site of the ancient Aztec capital?",
+    "choices": ["Oaxaca", "México", "Veracruz", "Jalisco"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the capital of El Salvador?",
+    "choices": ["San Miguel", "Santa Ana", "San Salvador", "Sonsonate"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Lake Louise is a famous glacial lake located in the Canadian province of which province?",
+    "choices": ["British Columbia", "Alberta", "Yukon", "Saskatchewan"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Central American country does NOT share a border with any other Central American nation?",
+    "choices": ["Panama", "Belize", "Costa Rica", "Nicaragua"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Atacama Desert is located in which continent, NOT North America?",
+    "choices": ["South America", "Africa", "Asia", "Australia"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Canadian province produces the most maple syrup?",
+    "choices": ["Ontario", "Quebec", "New Brunswick", "Vermont"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Greenland is an autonomous territory of which country?",
+    "choices": ["Iceland", "Norway", "Canada", "Denmark"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The capital of Panama is also called which historical name?",
+    "choices": ["Nueva Panamá", "Panama Viejo", "Panama City", "Colón"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which North American body of water is the largest by surface area?",
+    "choices": ["Lake Superior", "Lake Michigan", "Great Slave Lake", "Lake Baikal"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What percentage of Canada's population lives within 200 km of the United States border?",
+    "choices": ["Approximately 50%", "Approximately 70%", "Approximately 90%", "Approximately 30%"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Mexican city is the second-largest by metropolitan population?",
+    "choices": ["Guadalajara", "Ecatepec", "Monterrey", "Puebla"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Black Hills region is primarily located in which North American country or region?",
+    "choices": ["Mexico", "Northern Canada", "Central United States", "Central America"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the primary language of Panama?",
+    "choices": ["English", "French", "Spanish", "Panamanian"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Canadian city is the capital of British Columbia?",
+    "choices": ["Vancouver", "Victoria", "Surrey", "Burnaby"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Serengeti is located in which continent, NOT North America?",
+    "choices": ["South America", "Europe", "Africa", "Asia"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Central American isthmus is the narrowest point between the Atlantic and Pacific Oceans?",
+    "choices": ["Isthmus of Tehuantepec", "Isthmus of Panama", "Yucatan Peninsula", "Isthmus of Guatemala"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the capital of Belize?",
+    "choices": ["Belmopan", "Belize City", "Orange Walk", "Dangriga"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Laurentian Mountains run through which Canadian province?",
+    "choices": ["Ontario", "Quebec", "New Brunswick", "Newfoundland and Labrador"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  }
+]

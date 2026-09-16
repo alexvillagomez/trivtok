@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the tallest waterfall in the world?",
+    "choices": ["Niagara Falls", "Angel Falls", "Victoria Falls", "Iguazu Falls"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In which country is Victoria Falls located?",
+    "choices": ["Zambia and Zimbabwe", "South Africa", "Botswana", "Mozambique"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which cave system is known as the 'Cave of Swallows' and features spectacular light shafts?",
+    "choices": ["Carlsbad Caverns", "Mammoth Cave", "Sotano de las Golondrinas", "Waitomo Caves"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Yellowstone National Park is famous for its geysers. What is the largest geyser in North America?",
+    "choices": ["Old Faithful", "Steamboat Geyser", "Grand Prismatic", "Morning Glory Pool"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which national park in South Africa is known for its diverse wildlife and hosts the 'Big Five'?",
+    "choices": ["Krüger National Park", "Kgalagadi Transfrontier Park", "Garden Route National Park", "Augrabies Falls National Park"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the Grand Canyon primarily carved by?",
+    "choices": ["Glacial erosion", "Volcanic activity", "The Colorado River", "Wind erosion"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Great Barrier Reef is located off the coast of which country?",
+    "choices": ["New Zealand", "Australia", "Fiji", "Indonesia"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which cave is the largest by volume in the world, famous for its river passage?",
+    "choices": ["Mammoth Cave", "Son Doong Cave", "Lechuguilla Cave", "Clearwater Cave"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In which Scandinavian country can you witness the Northern Lights?",
+    "choices": ["Sweden", "Denmark", "Norway", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Serengeti is a vast savanna shared by Tanzania and which other country?",
+    "choices": ["Kenya", "Uganda", "Zambia", "Botswana"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What type of natural formation is Zhangjiajie, famous in China?",
+    "choices": ["Cave system", "Sandstone pillars", "Glacier", "Waterfall"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Iguazu Falls straddles the border between Argentina and which country?",
+    "choices": ["Brazil", "Paraguay", "Uruguay", "Bolivia"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which cave in New Zealand is famous for its glowworms?",
+    "choices": ["Waiomo Caves", "Waitomo Caves", "Ruakuri Caves", "Te Ana-au Caves"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Aurora Borealis appears in which part of the sky, typically?",
+    "choices": ["Eastern horizon", "Southern horizon", "Northern horizon", "Zenith"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What causes the Aurora Borealis to occur?",
+    "choices": ["Reflection of moonlight", "Solar wind interacting with Earth's magnetic field", "Volcanic emissions", "Ozone depletion"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Carlsbad Caverns National Park is located in which U.S. state?",
+    "choices": ["Arizona", "New Mexico", "Texas", "California"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which national park in Canada is known for turquoise glacial lakes?",
+    "choices": ["Banff National Park", "Jasper National Park", "Lake Louise", "Glacier National Park"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Dead Sea is the lowest point on Earth. Which countries border it?",
+    "choices": ["Israel and Palestine", "Israel and Jordan", "Jordan and Syria", "Saudi Arabia and Egypt"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What percentage of Earth's coral reefs are located in the Indo-Pacific region?",
+    "choices": ["About 30%", "About 50%", "About 75%", "About 90%"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Mammoth Cave is the world's longest cave system by length. In which state is it located?",
+    "choices": ["Tennessee", "Kentucky", "West Virginia", "Virginia"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary reason the Grand Prismatic Spring has its striking blue color?",
+    "choices": ["Algae and minerals", "Dissolved copper", "Water depth and light absorption", "Sulfur compounds"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Plitvice Lakes National Park, known for its cascading lakes and waterfalls, is in which country?",
+    "choices": ["Slovenia", "Croatia", "Bosnia", "Serbia"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which waterfall has the largest volume of water flowing over it annually?",
+    "choices": ["Angel Falls", "Iguazu Falls", "Niagara Falls", "Catarata Las Tres Hermanas"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Milford Sound in New Zealand features multiple waterfalls, including which famous one?",
+    "choices": ["Lady Bowen Falls", "Sutherland Falls", "Bride Veil Fall", "Chasing Waterfalls"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In what year was Yellowstone established as the first national park?",
+    "choices": ["1872", "1890", "1905", "1916"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which African national park is famous for its pink lake and unique bird species?",
+    "choices": ["Lake Nakuru National Park", "Amboseli National Park", "Tarangire National Park", "Arusha National Park"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The bioluminescent phenomenon seen in places like Puerto Rico's bays is caused by which organism?",
+    "choices": ["Jellyfish", "Dinoflagellates", "Glowing fish", "Phosphorescent bacteria"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the approximate height of Angel Falls in Venezuela?",
+    "choices": ["about 500 meters", "about 800 meters", "about 1000 meters", "about 1200 meters"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Mono Lake in California is known for its unusual tower-shaped formations called tufa. What makes the lake unique?",
+    "choices": ["It's a freshwater lake at altitude", "It's extremely alkaline and salty", "It glows at night", "It has underwater geysers"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Sahara Desert contains which natural wonder featuring colorful rock formations?",
+    "choices": ["Tassili n'Ajjer", "Erg Chech", "Grand Erg Occidental", "Idehan Ubari"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which geyser in Iceland shoots hot water up to 40 meters high?",
+    "choices": ["Strokkur", "Geysir", "Blesi", "Konungshver"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Atacama Geyser Field is located in which South American country?",
+    "choices": ["Bolivia", "Peru", "Chile", "Argentina"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What unique phenomenon occurs at the Bay of Fundy in Canada?",
+    "choices": ["Aurora displays", "The highest tides in the world", "Bioluminescent plankton blooms", "Underwater volcanoes"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which cave in Vietnam is the largest and was only discovered in 1991?",
+    "choices": ["Phong Nha Cave", "Son Doong Cave", "Thien Duong Cave", "Paradise Cave"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Danube Delta, a wetland of exceptional biodiversity, flows into which sea?",
+    "choices": ["Aegean Sea", "Black Sea", "Mediterranean Sea", "Baltic Sea"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary threat to the Great Barrier Reef's health?",
+    "choices": ["Fishing boats", "Climate change and coral bleaching", "Volcanic activity", "Hurricane damage"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Atacama Desert is the driest place on Earth and borders which ocean?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which national park in Peru includes Machu Picchu as its centerpiece?",
+    "choices": ["Manu National Park", "Tambopata National Reserve", "Machu Picchu National Park", "Cusco National Park"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Salar de Uyuni in Bolivia is a vast salt flat covering approximately how many square kilometers?",
+    "choices": ["about 5,000", "about 10,000", "about 12,000", "about 15,000"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What causes the colored layers visible in the Grand Canyon's rock formations?",
+    "choices": ["Different mineral deposits", "Different ages and types of rock layers", "Oxidation of iron", "Algae growth patterns"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Waitomo Caves in New Zealand feature glowworms that create a ceiling resembling which astronomical feature?",
+    "choices": ["A meteor shower", "A galaxy", "A starry sky", "An eclipse"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which U.S. national park is home to the world's largest trees by volume?",
+    "choices": ["Yellowstone National Park", "Sequoia National Park", "Yosemite National Park", "Death Valley National Park"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Rio Grande forms a natural border and carves what geological feature at Big Bend National Park?",
+    "choices": ["A mesa", "A canyon", "A plateau", "A gorge"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Eyjafjallajökull, a volcano with a subglacial caldera, is located in which country and erupted in 2010?",
+    "choices": ["Norway", "Iceland", "Greenland", "Sweden"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Atacama Large Millimeter Array (ALMA) telescope is built in the high desert of which country for its clear skies?",
+    "choices": ["Peru", "Bolivia", "Chile", "Argentina"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "text": "How many stages does the Tour de France typically consist of?",
+    "choices": ["21", "15", "30", "18"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In what country does the Tour de France take place?",
+    "choices": ["Italy", "Germany", "France", "Spain"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the standard marathon distance in kilometers?",
+    "choices": ["42.195", "35", "50", "30"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many disciplines make up an Olympic triathlon?",
+    "choices": ["3", "2", "4", "5"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What color jersey does the overall leader wear in the Tour de France?",
+    "choices": ["Red", "Yellow", "White", "Green"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which Grand Tour cycling race takes place primarily in Italy?",
+    "choices": ["La Vuelta", "Giro d'Italia", "Tour de France", "Tour of Britain"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What does an ultramarathon distance exceed?",
+    "choices": ["10 km", "42.195 km", "100 km", "50 km"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In cycling, what term describes the final steep climb in a stage?",
+    "choices": ["Col", "Peloton", "Haute Montagne", "Categorie"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many oars does a single rower use in competitive rowing?",
+    "choices": ["2", "1", "4", "3"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Grand Tour is held in Spain?",
+    "choices": ["Giro d'Italia", "La Vuelta", "Tour de France", "Tour of Flanders"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What event includes swimming, cycling, and running?",
+    "choices": ["Pentathlon", "Triathlon", "Decathlon", "Biathlon"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In the Tour de France, what does the white jersey signify?",
+    "choices": ["Best climber", "Young rider classification", "Best sprinter", "Team leader"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many cyclists typically race together in the main group called the peloton?",
+    "choices": ["30-50", "100-180", "10-25", "250+"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a 'breakaway' in cycling?",
+    "choices": ["A type of gear", "When riders escape ahead of the peloton", "A rest period", "A crash"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In rowing, how many rowers are in a 'double scull'?",
+    "choices": ["4", "1", "2", "8"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does the polka-dot jersey represent in the Tour de France?",
+    "choices": ["Sprint points leader", "Mountain climber", "Fastest stage", "Highest elevation"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which famous cyclist won seven Tour de France titles (later stripped)?",
+    "choices": ["Eddie Merckx", "Greg LeMond", "Lance Armstrong", "Miguel Indurain"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is a 'domestique' in professional cycling?",
+    "choices": ["A type of bicycle", "A support rider for the team leader", "A race stage", "A climbing technique"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "How many athletes comprise a rowing eight?",
+    "choices": ["6", "7", "8", "9"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In what year was the first modern Tour de France held?",
+    "choices": ["1903", "1890", "1920", "1910"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the primary endurance challenge in ultramarathon running?",
+    "choices": ["Speed", "Mental resilience and pacing", "Sprinting ability", "Hill technique"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who won the Tour de France in 2024?",
+    "choices": ["Jonas Vingegaard", "Juan Ayuso", "Remco Evenepoel", "Jai Hindley"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is 'cadence' in cycling?",
+    "choices": ["Gear ratio", "Pedal revolutions per minute", "Bike weight", "Spoke count"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In a triathlon, which leg is typically swum first?",
+    "choices": ["Cycling", "Running", "Swimming", "Climbing"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How long is an Ironman triathlon cycling portion?",
+    "choices": ["40 km", "112 miles", "100 km", "80 km"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does 'bonking' mean in endurance sports?",
+    "choices": ["Falling off", "Running out of energy", "Speeding up", "Resting"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which cyclist won the Tour de France a record three consecutive times (1991-1993)?",
+    "choices": ["Eddy Merckx", "Miguel Indurain", "Bernard Hinault", "Greg LeMond"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a 'null seater' in rowing?",
+    "choices": ["Single sculler", "A boat without a coxswain", "Eight-person crew", "Four-person team"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In cycling terminology, what is 'mechanicals'?",
+    "choices": ["Riding technique", "Mechanical bike failures", "Flat tires", "Chain problems"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many times has Miguel Indurain won the Tour de France?",
+    "choices": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the 'King of the Mountains' award in the Tour de France?",
+    "choices": ["Fastest stage winner", "Best climber on steep ascents", "Overall race leader", "Young rider prize"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In rowing, which rower steers the boat?",
+    "choices": ["The stroke", "The coxswain", "The bow", "All equally"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the main difference between the Tour de France and Giro d'Italia?",
+    "choices": ["Length", "Country and timing", "Number of stages", "Prize money"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which famous cyclist was known for dominating the 1970s with a record seven Grand Tour wins?",
+    "choices": ["Eddy Merckx", "Bernard Hinault", "Francesco Moser", "Rik Van Looy"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What marathon event is considered one of the 'Six Majors' in running?",
+    "choices": ["London Marathon", "Boston Marathon", "Berlin Marathon", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In triathlon, what is the standard sprint distance race length (swim)?",
+    "choices": ["750 meters", "1500 meters", "500 meters", "1000 meters"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does 'gravel grinding' refer to in cycling?",
+    "choices": ["Gear maintenance", "Long-distance racing on unpaved roads", "Chain lubrication", "Brake adjustment"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which cyclist won the Tour de France three times, including 1986, 1989, and 1990?",
+    "choices": ["Greg LeMond", "Bernard Hinault", "Miguel Indurain", "Eddy Merckx"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In competitive rowing, what is the 'catch' in the stroke?",
+    "choices": ["Catching a fish", "When the oar blade enters the water", "Pulling the handle", "Releasing the oar"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is 'threshold power' in cycling performance?",
+    "choices": ["Maximum sprint speed", "Sustainable power output near maximum effort", "Minimum pedal force", "Gear selection"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Grand Tour is known as 'La Corsa Rosa' (The Pink Race)?",
+    "choices": ["La Vuelta", "Giro d'Italia", "Tour de France", "Tour of Romandy"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In ultramarathons, what distance classifies as an 'ultramarathon' minimum?",
+    "choices": ["35 km", "50 km", "100 km", "150 km"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the controversial 1989 Tour de France finish involving LeMond and Fignon?",
+    "choices": ["LeMond won by 8 seconds", "Fignon was disqualified", "Both DNF", "LeMond won by 58 seconds"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In rowing, what is a 'double sculler'?",
+    "choices": ["One rower with two oars", "Two rowers with one oar each", "Four rowers total", "Rowing pair"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which cyclist won the Tour de France in 1996 after a comeback from illness?",
+    "choices": ["Jan Ullrich", "Bjarne Riis", "Greg LeMond", "Bernard Hinault"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is FTP in cycling training?",
+    "choices": ["Fast Tire Performance", "Functional Threshold Power", "Frame Tube Pressure", "Front Tire Pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who was the first rider to win the Tour de France on a fixed gear bicycle?",
+    "choices": ["Maurice Garin", "Henri Desgrange", "Lucien Petit-Breton", "This never happened"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "In the context of cycling terminology, what does 'sag' refer to?",
+    "choices": ["Tire wear", "Suspension compression under load", "Cadence drop", "Speed decrease"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which ultra-distance race, the Western States 100, is primarily which sport?",
+    "choices": ["Cycling", "Trail running", "Rowing marathon", "Triathlon"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What year did Greg LeMond become the first American to win the Tour de France?",
+    "choices": ["1986", "1989", "1990", "1985"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  }
+]

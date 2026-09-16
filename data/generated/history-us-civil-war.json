@@ -1,0 +1,290 @@
+[
+  {
+    "text": "In what year did the American Civil War begin?",
+    "choices": ["1859", "1861", "1863", "1865"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Who served as President of the United States during the Civil War?",
+    "choices": ["James Buchanan", "Abraham Lincoln", "Andrew Johnson", "Jefferson Davis"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What was the primary political entity formed by the seceding states?",
+    "choices": ["the Union", "the Republic", "the Confederacy", "the Alliance"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which region sought to preserve the Union during the war?",
+    "choices": ["the South", "the Confederacy", "the North", "the Border"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was a primary cause of the conflict?",
+    "choices": ["trade tariffs", "the institution of slavery", "western expansion", "religious differences"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "How many states seceded from the Union to form the Confederacy?",
+    "choices": ["9", "11", "13", "15"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who became the President of the Confederate States?",
+    "choices": ["Braxton Bragg", "Joseph Johnston", "Jefferson Davis", "Robert E. Lee"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the capital of the Confederacy?",
+    "choices": ["Atlanta", "Richmond", "Charleston", "Montgomery"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which Union general earned the rank of Commanding General?",
+    "choices": ["William Sherman", "Ulysses S. Grant", "George Meade", "George McClellan"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In what year did the Emancipation Proclamation take effect?",
+    "choices": ["1861", "1862", "1863", "1864"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What war-ending amendment abolished slavery nationwide?",
+    "choices": ["12th Amendment", "13th Amendment", "14th Amendment", "15th Amendment"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which battle is often called the turning point of the war?",
+    "choices": ["Antietam", "Gettysburg", "Vicksburg", "Shiloh"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was the first major battle of the Civil War, fought in 1861?",
+    "choices": ["the Battle of Antietam", "the Battle of Fort Sumter", "the Battle of Bull Run", "the Battle of Shiloh"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "At which location did General Lee surrender to General Grant in 1865?",
+    "choices": ["Gettysburg", "Appomattox Court House", "Petersburg", "Vicksburg"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who commanded the Confederate Army of Northern Virginia?",
+    "choices": ["Braxton Bragg", "Joseph Johnston", "Robert E. Lee", "J.E.B. Stuart"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which famous speech was delivered at the dedication of a military cemetery?",
+    "choices": ["the Farewell Address", "the Gettysburg Address", "the Emancipation Proclamation", "the Second Inaugural"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was William Tecumseh Sherman's famous campaign through Georgia?",
+    "choices": ["the Atlanta Campaign", "the Georgia Offensive", "the March to the Sea", "the Savannah Expedition"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which ironclad ship revolutionized naval warfare?",
+    "choices": ["the CSS Virginia", "the USS Monitor", "the USS Kearsarge", "the CSS Alabama"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was the period of rebuilding and political reorganization after the war?",
+    "choices": ["Regeneration", "Reconstruction", "Restoration", "Renewal"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who was a prominent abolitionists and escaped enslaved person who championed the Union cause?",
+    "choices": ["Harriet Tubman", "Frederick Douglass", "Sojourner Truth", "John Brown"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which state was the first to secede from the Union?",
+    "choices": ["Georgia", "South Carolina", "Virginia", "Mississippi"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What event triggered the start of the war at a South Carolina fort?",
+    "choices": ["a blockade", "a bombardment", "a siege", "a troop landing"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which general was known for his aggressive tactics in the Western Theater?",
+    "choices": ["George Meade", "Ulysses S. Grant", "Robert E. Lee", "Joseph Johnston"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the bloodiest single day in American military history?",
+    "choices": ["the Battle of Gettysburg", "the Battle of Shiloh", "the Battle of Antietam", "the Battle of Vicksburg"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who founded what would become the American Red Cross during the war?",
+    "choices": ["Dorothea Dix", "Clara Barton", "Mary Ann Bickerdyke", "Catharine Beecher"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Confederate general was known for his cavalry exploits?",
+    "choices": ["Braxton Bragg", "J.E.B. Stuart", "Jubal Early", "A.P. Hill"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What strategic advantage did the North possess at the start?",
+    "choices": ["more generals", "superior leadership", "greater industrial capacity", "better cavalry"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Union general replaced McClellan as head of the Army of the Potomac?",
+    "choices": ["George Meade", "William Rosecrans", "John Pope", "Fitz-Henry Warren"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the result of the Battle of Gettysburg for the Confederacy?",
+    "choices": ["a tactical victory", "strategic retreat", "loss of offensive momentum", "capture of supplies"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who served as Lincoln's second Vice President and became President after his death?",
+    "choices": ["Hannibal Hamlin", "Andrew Johnson", "William H. Seward", "Edward Everett"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the primary export that fueled the Southern economy?",
+    "choices": ["tobacco", "cotton", "rice", "sugar"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Radical Republican led efforts to punish the South during Reconstruction?",
+    "choices": ["Charles Sumner", "Thaddeus Stevens", "Benjamin Wade", "Henry Winter Davis"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the Wade-Davis Bill of 1864?",
+    "choices": ["an antitax measure", "a Reconstruction proposal", "a military appointment", "an abolition bill"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which battle gave the Union control of the Mississippi River?",
+    "choices": ["Fort Pillow", "Vicksburg", "Port Hudson", "New Orleans"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What policy allowed enslaved people who escaped to Union lines to serve in the army?",
+    "choices": ["the Refugee Policy", "the Contraband Policy", "the Freedmen Policy", "the Emancipation Clause"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Union general commanded the Army of the Cumberland?",
+    "choices": ["William Rosecrans", "George Thomas", "James McArthur", "Don Carlos Buell"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What was the significance of the Corwin Amendment?",
+    "choices": ["it abolished slavery", "it protected slavery in Southern states", "it created new territories", "it ended Reconstruction"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which general led the famous raid to attempt the rescue of prisoners near Richmond?",
+    "choices": ["Philip Sheridan", "James H. Wilson", "George Stoneman", "Hugh Judson Kilpatrick"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the Copperhead movement?",
+    "choices": ["a peace faction in the North", "a Confederate guerrilla group", "a Union spy ring", "a border region militia"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which border states remained in the Union despite having slavery?",
+    "choices": ["Kentucky, Maryland, Delaware", "Kentucky, Arkansas, Missouri", "Maryland, Virginia, Kentucky", "Delaware, Kentucky, Missouri"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Who was the controversial Union general known for his occupation policies in New Orleans?",
+    "choices": ["Benjamin Butler", "Edward Canby", "George Meade", "Philip Sheridan"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was Lincoln's plan for readmitting former Confederate states?",
+    "choices": ["the Wade-Davis Plan", "the Proclamation of Amnesty and Reconstruction", "the Reconstruction Act", "the Freedmen's Bureau Act"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Confederate general won the Battle of the Crater at Petersburg?",
+    "choices": ["William Mahone", "A.P. Hill", "Jubal Early", "James Longstreet"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was the controversial and brutal event at Fort Pillow in Tennessee in 1864?",
+    "choices": ["a siege", "a massacre", "a naval battle", "a truce negotiation"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who was the Confederate general known for his defensive tactics in Virginia?",
+    "choices": ["Joseph Johnston", "J.E.B. Stuart", "Robert E. Lee", "James Longstreet"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What document outlined Lincoln's lenient Reconstruction policies?",
+    "choices": ["the Emancipation Proclamation", "the Wade-Davis Bill", "the Proclamation of Amnesty", "the Reconstruction Act"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which general commanded the cavalry corps under Grant and later the Army of the Potomac?",
+    "choices": ["J.E.B. Stuart", "Philip Sheridan", "John Buford", "George Custer"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What was the military strategy of attrition that Grant employed against Lee?",
+    "choices": ["flanking maneuvers", "a war of attrition", "cavalry raids", "defensive fortifications"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which Tudor monarch famously had six marriages?",
+    "choices": ["Henry VII", "Henry VIII", "Edward VI", "Richard III"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What was the primary purpose of the Act of Union in 1707?",
+    "choices": ["To unite Ireland and Scotland", "To unite England and Scotland", "To separate Wales from England", "To create the British Commonwealth"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Victorian prime minister led the country for 21 years?",
+    "choices": ["Benjamin Disraeli", "William Gladstone", "Lord Salisbury", "Lord Melbourne"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In what year did Queen Victoria become a widow?",
+    "choices": ["1861", "1851", "1871", "1841"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who was the last Stuart to rule England?",
+    "choices": ["James I", "Charles II", "James II", "Anne"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which monarch ordered the dissolution of monasteries?",
+    "choices": ["Anne Boleyn", "Catherine of Aragon", "Henry VIII", "Jane Seymour"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What event in 1588 marked a major naval victory for England?",
+    "choices": ["The Battle of the Armada", "The Siege of Calais", "The Battle of Bosworth Field", "The Tudor Rising"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which of Elizabeth I's suitors was executed for treason?",
+    "choices": ["Robert Dudley", "Mary Queen of Scots", "Philip II", "Lord Essex"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Gunpowder Plot targeted which king?",
+    "choices": ["James I", "Charles I", "James II", "William III"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which Stuart monarch was executed during the English Civil War?",
+    "choices": ["James I", "Charles I", "Charles II", "James II"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What title did Queen Victoria assume in 1876?",
+    "choices": ["Sovereign of India", "Empress of India", "Queen of the Raj", "Commander of the East"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who became king after the abdication crisis of 1936?",
+    "choices": ["Edward VIII", "George VI", "George V", "William V"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which royal house did Prince Albert of Saxe-Coburg belong to?",
+    "choices": ["House of Hanover", "House of Windsor", "House of Saxe-Coburg-Gotha", "House of York"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In what year did Britain lose control of American colonies?",
+    "choices": ["1776", "1783", "1781", "1775"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which monarch expanded the British Empire most aggressively?",
+    "choices": ["George III", "Victoria", "Edward VII", "George V"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What was the name of the British East India Company's rival?",
+    "choices": ["Dutch East India Company", "French East India Company", "Spanish Trading Company", "Portuguese Colonial Service"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which queen was known as 'Gloriana'?",
+    "choices": ["Mary I", "Elizabeth I", "Anne", "Mary II"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What prompted King John to sign Magna Carta?",
+    "choices": ["Religious conflict", "Noble rebellion", "Military defeat", "Economic crisis"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which British monarch reigned for 63 years?",
+    "choices": ["Queen Anne", "Queen Victoria", "King George III", "King Edward VII"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who was the first Windsor monarch?",
+    "choices": ["Edward VII", "George V", "George VI", "Edward VIII"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What year did India gain independence from Britain?",
+    "choices": ["1945", "1947", "1950", "1949"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Tudor monarch died at the Battle of Bosworth Field?",
+    "choices": ["Henry VI", "Richard III", "Henry VII", "Edward IV"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the primary objective of the Suez Crisis in 1956?",
+    "choices": ["To recover lost colonies", "To control Egyptian canal", "To expand African territories", "To establish trade routes"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which spouse of Henry VIII outlived all the others?",
+    "choices": ["Anne Boleyn", "Jane Seymour", "Katherine Parr", "Anne of Cleves"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In what century did the British Raj begin in India?",
+    "choices": ["15th century", "16th century", "17th century", "18th century"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Stuart king believed in the divine right of kings?",
+    "choices": ["James I", "Charles I", "Charles II", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What treaty ended British colonial rule in Hong Kong?",
+    "choices": ["Treaty of Nanking", "Treaty of Beijing", "Joint Declaration", "Treaty of Tientsin"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which queen had the most children among British monarchs?",
+    "choices": ["Queen Anne", "Queen Victoria", "Queen Mary", "Queen Elizabeth I"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who commissioned the construction of Buckingham Palace?",
+    "choices": ["King William III", "Queen Victoria", "King George III", "King John"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the primary cause of the Opium Wars?",
+    "choices": ["Religious differences", "Trade imbalance and China's drug restrictions", "Colonial expansion", "Naval supremacy competition"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which English monarch ordered Mary Queen of Scots' execution?",
+    "choices": ["James I", "Elizabeth I", "Mary I", "Edward VI"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many times did Britain declare war during Victoria's reign?",
+    "choices": ["Never", "Once", "Multiple times in various campaigns", "Seven times"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which island became a major British naval station in the 19th century?",
+    "choices": ["Malta", "Gibraltar", "Cyprus", "Jamaica"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was the Corn Laws controversy primarily about?",
+    "choices": ["Agricultural taxes on grain imports", "Religious differences", "Colonial trade", "Naval expansion"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which monarch was the mother of Edward VIII?",
+    "choices": ["Queen Mary", "Queen Victoria", "Queen Alexandra", "Queen Elizabeth"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What year did the Domesday Book get commissioned?",
+    "choices": ["1066", "1086", "1106", "1046"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which prime minister served under five different monarchs?",
+    "choices": ["Lord Salisbury", "William Gladstone", "Lord Palmerston", "Lord Melbourne"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What was the primary purpose of British colonization of Australia?",
+    "choices": ["Gold mining", "Penal settlement", "Spice trade", "Textile production"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which monarch's reign saw the abolition of slavery throughout the Empire?",
+    "choices": ["William IV", "George IV", "Victoria", "George III"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the official title given to British rule in India?",
+    "choices": ["The Dominion", "The Raj", "The Territory", "The Commonwealth"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which naval defeat prompted British claims over additional territories?",
+    "choices": ["Battle of the Nile", "Battle of Trafalgar", "Battle of the Armada", "Battle of Gibraltar"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What year did Queen Elizabeth II begin her reign?",
+    "choices": ["1950", "1951", "1952", "1953"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which of these was NOT a major reason for British imperial expansion?",
+    "choices": ["Economic interests", "Strategic military bases", "Religious conversion of natives", "Genuine humanitarian concern for indigenous peoples"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What event in 1773 demonstrated colonial resistance to British rule?",
+    "choices": ["The Boston Massacre", "The Boston Tea Party", "The Stamp Act Congress", "Lexington and Concord"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Tudor monarch spent the most time consolidating royal power?",
+    "choices": ["Henry VII", "Henry VIII", "Edward VI", "Elizabeth I"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What was the primary motivation behind the Crimean War?",
+    "choices": ["Territorial expansion in Europe", "Naval supremacy competition", "Preventing Russian expansion in the Mediterranean", "Religious conflict"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  }
+]

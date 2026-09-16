@@ -1,0 +1,1894 @@
+[
+  {
+    "text": "What is Frodo Baggins' full name?",
+    "choices": [
+      "Frodo Drogo Baggins",
+      "Frodo Bilbo Baggins",
+      "Frodo Fredegar Baggins",
+      "Frodo Primrose Baggins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In what year (of the Shire calendar) does The Hobbit take place?",
+    "choices": [
+      "2841 of the Third Age",
+      "2941 of the Third Age",
+      "3018 of the Third Age",
+      "3019 of the Third Age"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "How many Rings of Power were given to Men?",
+    "choices": [
+      "7",
+      "3",
+      "9",
+      "5"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of Gandalf's sword?",
+    "choices": [
+      "Sting",
+      "Anduril",
+      "Narsil",
+      "Glamdring"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who was Frodo's closest friend and companion throughout most of his quest?",
+    "choices": [
+      "Samwise Gamgee",
+      "Merry Brandybuck",
+      "Pippin Took",
+      "Boromir"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the name of Aragorn's sword after it is reforged?",
+    "choices": [
+      "Glamdring",
+      "Anduril",
+      "Narsil",
+      "Orcrist"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In The Hobbit, what is Bilbo's full name?",
+    "choices": [
+      "Bilbo Frodo Baggins",
+      "Bilbo Sherlock Baggins",
+      "Bilbo Baggins",
+      "Bilbo Iago Baggins"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which member of the Fellowship had a father named Denethor?",
+    "choices": [
+      "Aragorn",
+      "Legolas",
+      "Gimli",
+      "Boromir"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What color are Legolas' eyes described as in the books?",
+    "choices": [
+      "Blue",
+      "Gray",
+      "Green",
+      "Brown"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which dwarf in The Hobbit is noted for his exceptional size and strength?",
+    "choices": [
+      "Balin",
+      "Bombur",
+      "Dwalin",
+      "Oin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the relationship between Bilbo and Frodo?",
+    "choices": [
+      "Father and son",
+      "Cousins",
+      "Uncles and nephew",
+      "Grandfather and grandson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In The Fellowship of the Ring film, who plays Aragorn?",
+    "choices": [
+      "Sean Bean",
+      "Ian McKellen",
+      "Elijah Wood",
+      "Viggo Mortensen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was Gollum's original name before he was corrupted by the Ring?",
+    "choices": [
+      "Sméagol",
+      "Mithrandir",
+      "Déagol",
+      "Grimbold"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which member of the Fellowship was originally from Rohan?",
+    "choices": [
+      "Gimli",
+      "Boromir",
+      "Aragorn",
+      "None—all Fellowship members were from other lands"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "How many times does Gimli mention his lineage to the dwarves of Moria?",
+    "choices": [
+      "He never mentions it",
+      "Only once in Rivendell",
+      "Multiple times throughout The Fellowship",
+      "Many times during The Hobbit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is Pippin's full name?",
+    "choices": [
+      "Peregrin Brandybuck",
+      "Pippin Gamgee",
+      "Pippin Baggins",
+      "Peregrin Took"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Merry's full name?",
+    "choices": [
+      "Meriadoc Brandybuck",
+      "Meriadoc Baggins",
+      "Meriadoc Took",
+      "Meriadoc Gamgee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In Tolkien's world, Gandalf is an Istari. How many Istari (wizards) came to Middle-earth?",
+    "choices": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who is the main antagonist of The Hobbit?",
+    "choices": [
+      "Sauron",
+      "Saruman",
+      "Smaug",
+      "The Necromancer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is Sauron's true form in the novels?",
+    "choices": [
+      "A giant eye of fire",
+      "A dark lord in physical form",
+      "An invisible spirit",
+      "An enormous flaming figure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who leads the Nazgûl, the nine servants of Sauron?",
+    "choices": [
+      "The Witch-king of Angmar",
+      "Saruman",
+      "Shelob",
+      "Lurtz"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What creature guards the gates of Khazad-dûm (Moria)?",
+    "choices": [
+      "The Balrog of Morgoth",
+      "The Watcher in the Water",
+      "A Great Spider",
+      "Shelob"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the name of the Balrog that Gandalf fights in Moria?",
+    "choices": [
+      "Durin's Bane",
+      "Morgoth's Servant",
+      "It is never given a specific name",
+      "The Flame of Udun"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who betrays Rohan by offering it to Saruman?",
+    "choices": [
+      "Grimbold",
+      "Wormtongue",
+      "Denethor",
+      "Gríma Wormtongue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of Shelob, the great spider of Mordor?",
+    "choices": [
+      "She has no individual name, only called Shelob",
+      "Ungoliant's daughter",
+      "Aranea",
+      "Lolth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Who is the creator of the Uruk-hai?",
+    "choices": [
+      "Sauron",
+      "Saruman",
+      "Morgoth",
+      "Denethor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is Saruman's true name in Sindarin?",
+    "choices": [
+      "Gandalf",
+      "Thaurin",
+      "Curunír",
+      "Radagast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In The Return of the King, who kills Denethor?",
+    "choices": [
+      "Gandalf",
+      "Pippin",
+      "Aragorn",
+      "Denethor kills himself"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the nature of the Witch-king's power over the living?",
+    "choices": [
+      "He inspires terror and can dominate wills",
+      "He can summon undead warriors",
+      "He casts dark spells on his enemies",
+      "He poisons the air around him"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is primarily responsible for Boromir's death?",
+    "choices": [
+      "Lurtz (film only)",
+      "Saruman's Uruk-hai",
+      "Sauron's forces",
+      "The Nazgûl"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Hobbits are native to which region of Middle-earth?",
+    "choices": [
+      "Rivendell",
+      "Rohan",
+      "The Shire",
+      "Gondor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What do Elves call themselves in Sindarin?",
+    "choices": [
+      "Eldar",
+      "Thalion",
+      "Gwedil",
+      "Edhil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How tall are Dwarves typically described compared to Men?",
+    "choices": [
+      "Much shorter, around 4-5 feet",
+      "About half the height",
+      "Slightly shorter",
+      "Much taller"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which race was immortal and did not age unless slain?",
+    "choices": [
+      "Dwarves",
+      "Elves",
+      "Hobbits",
+      "Men"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who are the Istari (wizards)?",
+    "choices": [
+      "Fallen angels sent to Middle-earth",
+      "Sorcerers trained by Saruman",
+      "Maiar (servants of the Valar) in physical form",
+      "Ancient humans with magical powers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the primary weakness of Dwarves according to Tolkien lore?",
+    "choices": [
+      "They fear fire",
+      "They are susceptible to poison",
+      "They cannot swim",
+      "They desire wealth and gold excessively"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Ents are the shepherds of which realm?",
+    "choices": [
+      "The forests",
+      "The mountains",
+      "The plains",
+      "The underground kingdoms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is an Ent's typical lifespan compared to Men?",
+    "choices": [
+      "Similar to Men",
+      "Extremely long; they are nearly immortal",
+      "Much shorter",
+      "About double"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which race of Men were known as the greatest sailors and traders?",
+    "choices": [
+      "The Rohirrim",
+      "The Dúnedain",
+      "The Numenoreans",
+      "The Wild Men of the Woods"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the significance of the Eagles in Middle-earth?",
+    "choices": [
+      "They are mere creatures with no special purpose",
+      "They serve Saruman",
+      "They are corrupted by Sauron",
+      "They are servants of the Valar sent to aid the free peoples"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Rivendell is primarily inhabited by which race?",
+    "choices": [
+      "Elves",
+      "Dwarves",
+      "Men",
+      "Hobbits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is Lothlórien known for?",
+    "choices": [
+      "Its great mountain peaks",
+      "Its forests of golden-leaved trees",
+      "Its vast underground cities",
+      "Its ancient dwarven kingdoms"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Mordor is ruled from which fortress?",
+    "choices": [
+      "Isengard",
+      "Minas Morgul",
+      "Barad-dûr",
+      "Angband"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where is Mount Doom located?",
+    "choices": [
+      "In Rohan",
+      "In Gondor",
+      "In Isengard",
+      "In Mordor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the capital of Rohan?",
+    "choices": [
+      "Edoras",
+      "Minas Tirith",
+      "Erebor",
+      "Helms Deep"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Khazad-dûm is the dwarvish name for which place?",
+    "choices": [
+      "Erebor",
+      "Moria",
+      "The Iron Mountains",
+      "Zigil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which city is the capital of Gondor?",
+    "choices": [
+      "Osgiliath",
+      "Minas Morgul",
+      "Minas Tirith",
+      "Pelennor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the primary river running through Minas Tirith?",
+    "choices": [
+      "The Brandywine",
+      "The Entwash",
+      "The Greyflood",
+      "The Anduin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Mirkwood is the forest realm of which race?",
+    "choices": [
+      "Elves",
+      "Rohirrim",
+      "Dwarves",
+      "Hobbits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the Arkenstone?",
+    "choices": [
+      "A crown of the Dwarf-kings",
+      "The greatest jewel of Erebor",
+      "A legendary sword",
+      "A magical gem from the Silmarils"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who guards the greatest treasure of Erebor in The Hobbit?",
+    "choices": [
+      "Thorin Oakenshield",
+      "The Elven-king",
+      "Smaug the dragon",
+      "The Lake-men"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the One Ring inscribed with?",
+    "choices": [
+      "The names of all the Rings of Power",
+      "The genealogy of the Ring-makers",
+      "Sauron's true name",
+      "A verse in the Black Speech"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Narsil is a famous sword. Into what two pieces did it break?",
+    "choices": [
+      "Anduril and Flamdring",
+      "It never broke into two pieces; it shattered",
+      "Elendil's sword broke into Anduril and an unnamed fragment",
+      "The question contains an error; only in the films does it break into Anduril and Narsil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which artifact glows blue when Orcs are near?",
+    "choices": [
+      "The Phial of Galadriel",
+      "Sting",
+      "Glamdring",
+      "Andúril"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What gift does Galadriel give to each member of the Fellowship?",
+    "choices": [
+      "Magical swords",
+      "Phials of light",
+      "Various gifts tailored to each recipient; all but Boromir receive gifts",
+      "Cloaks of Lothlórien"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is mithril?",
+    "choices": [
+      "A common iron ore",
+      "A type of elven crystal",
+      "A magical dust",
+      "A legendary silvery metal of great strength and lightness"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Palantíri (Seeing-stones) were made by whom?",
+    "choices": [
+      "The Noldor in Middle-earth (created in Eregion)",
+      "Sauron",
+      "The Elves of Rivendell",
+      "The Dwarves of Moria"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Sting is a sword forged for whom originally?",
+    "choices": [
+      "Aragorn",
+      "It was made for an Elf-lord but Bilbo found it",
+      "Elves",
+      "Men of Númenor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the primary power of the One Ring?",
+    "choices": [
+      "It grants immortality",
+      "It grants great strength",
+      "It makes the wearer invisible (to the physical world but not to servants of evil)",
+      "It allows communication with Sauron"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who was the first to bear the One Ring before Frodo?",
+    "choices": [
+      "Sauron",
+      "Isildur",
+      "Elrond",
+      "Bilbo Baggins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In The Hobbit, what is Thorin's full title?",
+    "choices": [
+      "King under the Mountain",
+      "King of the Mountain",
+      "Thorin Oakenshield",
+      "Thorin, son of Thrain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How many dwarves journey with Bilbo in The Hobbit?",
+    "choices": [
+      "9",
+      "13",
+      "12",
+      "15"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Name the dwarf who is noted for his love of fireworks and is later a guard in Erebor.",
+    "choices": [
+      "Oin",
+      "Bombur",
+      "Gloin",
+      "Dwalin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the name of the wizard who appears briefly in The Hobbit and helps Bilbo and the dwarves escape the trolls?",
+    "choices": [
+      "Gandalf",
+      "Saruman",
+      "Alatar",
+      "Radagast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In The Hobbit, who is Beorn?",
+    "choices": [
+      "A man who can transform into a bear",
+      "A giant",
+      "An elf lord",
+      "A dwarf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the dragon in The Hobbit?",
+    "choices": [
+      "Ancalagon",
+      "Smaug",
+      "Glaurung",
+      "Scatha"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "How does Smaug meet his end in The Hobbit?",
+    "choices": [
+      "He is slain by Bilbo with Sting",
+      "He falls into a lake and drowns",
+      "He is killed by Bard the Bowman of Laketown",
+      "Thorin defeats him in single combat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does the Arkenstone represent to the Dwarves?",
+    "choices": [
+      "A religious artifact",
+      "A weapon of great power",
+      "A passage to the Underdark",
+      "A symbol of kingship and the glory of Erebor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In The Hobbit, what is the significance of the riddle contest between Bilbo and Gollum?",
+    "choices": [
+      "Gollum was bound by ancient magic to grant passage to a riddle winner",
+      "Bilbo gains the ability to see in the dark",
+      "It is merely entertainment during Bilbo's escape",
+      "Bilbo learns the location of the One Ring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the name of the Battle in which men, elves, and dwarves fought together against orcs in The Hobbit?",
+    "choices": [
+      "Battle of Moria",
+      "Battle of Five Armies",
+      "Battle of Helm's Deep",
+      "Battle of Pelennor Fields"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who rules Laketown (Esgaroth) at the time of The Hobbit?",
+    "choices": [
+      "Bard the Bowman",
+      "A council of elders",
+      "The Master of Lake-town",
+      "The Elf-king"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the primary purpose of the Council of Elrond?",
+    "choices": [
+      "To discuss the reforging of Narsil",
+      "To plan the invasion of Mordor",
+      "To discuss the fate of the Silmarils",
+      "To decide what to do about the One Ring"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How many members does the Fellowship of the Ring have at its formation?",
+    "choices": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In The Fellowship of the Ring, where does the Fellowship break?",
+    "choices": [
+      "In Moria",
+      "After the battle at Amon Hen",
+      "At the gates of Gondor",
+      "In the forests of Lothlórien"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who prevents the Nazgûl from crossing the river at Rivendell?",
+    "choices": [
+      "Aragorn",
+      "Gandalf with a spell",
+      "Elrond by commanding the waters",
+      "Galadriel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the Scouring of the Shire?",
+    "choices": [
+      "An event in the films where Saruman corrupts the Shire",
+      "A magical phenomenon",
+      "A battle between hobbits and orcs",
+      "A book-only event where the Shire is damaged by Saruman's forces and then reclaimed by the hobbits"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who is crowned King of Gondor and Arnor at the end of The Return of the King?",
+    "choices": [
+      "Aragorn",
+      "Boromir",
+      "Faramir",
+      "Denethor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "At the end of The Return of the King, who leaves Middle-earth on the Grey Havens ship?",
+    "choices": [
+      "Only Frodo and Bilbo",
+      "Frodo, Bilbo, Gandalf, and some elves",
+      "Gandalf and all the elves",
+      "Galadriel and Elrond"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What causes the destruction of the One Ring?",
+    "choices": [
+      "Frodo throws it into Mount Doom from the rim",
+      "Gandalf destroys it with magic",
+      "Gollum bites off Frodo's finger with the ring and falls into the fire",
+      "Sauron is defeated first, causing the Ring to weaken and dissolve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who gives Frodo his mother's mithril coat?",
+    "choices": [
+      "Gandalf",
+      "Galadriel",
+      "Aragorn",
+      "Bilbo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What are the Nazgûl also known as?",
+    "choices": [
+      "All of the above",
+      "The Ringwraiths",
+      "The Black Riders",
+      "The Servants of Sauron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In The Return of the King, who kills the Witch-king of Angmar?",
+    "choices": [
+      "Aragorn",
+      "Éowyn (assisted by Merry)",
+      "Gandalf",
+      "Legolas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of the fortress in Mordor from which the Witch-king rules?",
+    "choices": [
+      "Barad-dûr",
+      "Orodruin",
+      "Minas Morgul",
+      "Carach Angren"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who is the steward of Gondor during the War of the Ring in The Return of the King?",
+    "choices": [
+      "Faramir",
+      "Pippin (as a Guard of the Citadel)",
+      "Aragorn",
+      "Denethor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Aragorn's ranger name in the books?",
+    "choices": [
+      "Strider",
+      "Elessar",
+      "Aran",
+      "Rohirrim"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is the High King of the Elves at the end of the Third Age?",
+    "choices": [
+      "Elrond",
+      "Gil-galad (he is dead; Elrond holds the throne)",
+      "Galadriel",
+      "Thranduil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In The Silmarillion, what are the Silmarils?",
+    "choices": [
+      "Three rings of power",
+      "A constellation of stars",
+      "Jewels crafted by Fëanor containing the light of the Two Trees",
+      "Artifacts created by the Valar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is Fëanor in The Silmarillion?",
+    "choices": [
+      "The first High King of the Noldor",
+      "The builder of Rivendell",
+      "The lord of Moria",
+      "The creator of the Silmarils and the Noldor elf who led the rebellion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is Morgoth's original name?",
+    "choices": [
+      "Melkor",
+      "Sauron",
+      "Maeglin",
+      "Morgoth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Valar are which of the following?",
+    "choices": [
+      "Fallen spirits of immense power",
+      "The gods or archangels of Middle-earth",
+      "Ancient kings of the Dúnedain",
+      "Demons loyal to Morgoth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who is Beren in The Silmarillion?",
+    "choices": [
+      "A dwarf-lord of Erebor",
+      "A Vala",
+      "A human who loved an elf and was involved in the quest for a Silmaril",
+      "An elf-lord of Rivendell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who is Lúthien in The Silmarillion?",
+    "choices": [
+      "A Vala",
+      "A human princess",
+      "An ancient queen of the Rohirrim",
+      "An elf maiden; daughter of a Sindarin elf-lord; lover of Beren"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is Eärendil known as?",
+    "choices": [
+      "The Morning Star or Evening Star; a half-elf who carries a Silmaril in the sky",
+      "A human king",
+      "A Dwarf-lord",
+      "The discoverer of Mithril"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who is Elrond's father in Tolkien's genealogy?",
+    "choices": [
+      "Eöl",
+      "Eärendil",
+      "Círdan",
+      "Thingol"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was Númenor?",
+    "choices": [
+      "A fortress in Gondor",
+      "An ancient city of the Dwarves",
+      "A kingdom of Men given as a reward by the Valar; it sank beneath the sea",
+      "A region of Mirkwood"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who are the Dúnedain?",
+    "choices": [
+      "Elves of Rivendell",
+      "Servants of Sauron",
+      "Wizards of Middle-earth",
+      "The remnants of Men descended from the survivors of Númenor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the Dagor Bragollach?",
+    "choices": [
+      "The Sudden Flame; Morgoth's great assault in The Silmarillion",
+      "A treaty between elves and men",
+      "A type of dragon",
+      "A city of the Noldor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Tolkien's chronology, how many ages are there in Middle-earth?",
+    "choices": [
+      "Two",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the inscription on the One Ring?",
+    "choices": [
+      "Ash nazg durbatuluk",
+      "Three rings for the elven kings",
+      "One Ring to rule them all (in the Black Speech)",
+      "The ring cannot be named"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which languages are primary in Tolkien's legendarium?",
+    "choices": [
+      "Elvish and Dwarvish",
+      "The Black Speech and Old English",
+      "Latin and Greek",
+      "Quenya and Sindarin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is Sindarin?",
+    "choices": [
+      "The language of the Grey Elves and Grey Elves of Beleriand",
+      "The language of the Valar",
+      "The language of the High Elves",
+      "The language of Men"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In which work does Tolkien include the verse 'All we have to decide is what to do with the time that is given us'?",
+    "choices": [
+      "The Fellowship of the Ring",
+      "It does not appear in The Lord of the Rings; it's a quote often misattributed to Tolkien",
+      "The Two Towers",
+      "The Return of the King"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the famous verse 'Not all those who wander are lost' from?",
+    "choices": [
+      "A poem by Bilbo",
+      "A verse from the Ring inscription",
+      "An introductory poem in The Lord of the Rings",
+      "A line spoken by Aragorn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "J.R.R. Tolkien was a professor of which subject at Oxford?",
+    "choices": [
+      "Literature",
+      "History",
+      "Philosophy",
+      "Philology and English Language"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In what year was The Hobbit first published?",
+    "choices": [
+      "1937",
+      "1954",
+      "1945",
+      "1930"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In what year was The Fellowship of the Ring (first volume of The Lord of the Rings) first published?",
+    "choices": [
+      "1955",
+      "1954",
+      "1950",
+      "1956"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was Tolkien's primary academic area of expertise?",
+    "choices": [
+      "Medieval literature and manuscript studies",
+      "Linguistic structure and the invention of languages",
+      "Both A and B",
+      "Neither; he was a novelist first"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How many Rings of Power were given to Dwarves?",
+    "choices": [
+      "9",
+      "3",
+      "5",
+      "7"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "How many Rings of Power were given to Elves?",
+    "choices": [
+      "5",
+      "7",
+      "9",
+      "3"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the master ring among all the Rings of Power?",
+    "choices": [
+      "The Ring of Eregion",
+      "The One Ring",
+      "The Crown of Morgoth",
+      "There is no master ring; all rings are equal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who forged the Rings of Power?",
+    "choices": [
+      "Sauron alone",
+      "The Valar",
+      "Celebrimbor with Sauron's deception",
+      "The Noldor elves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is Celebrimbor's role in The Silmarillion and LOTR lore?",
+    "choices": [
+      "He is a warrior who fights Morgoth",
+      "He is a Vala",
+      "He is a human ally of the elves",
+      "He is the Elf-lord who crafted the Rings of Power, descended from Fëanor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In The Hobbit, what is the name of the river that the dwarves cross to approach the Lonely Mountain?",
+    "choices": [
+      "A river near Lake Esgaroth (it is not specifically named)",
+      "The Running River",
+      "The River Running",
+      "The Brandywine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is Galadriel's gift to Sam Gamgee?",
+    "choices": [
+      "A phial of light",
+      "A jar of earth from Lothlórien",
+      "An elven cloak",
+      "A ring of power"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In The Lord of the Rings, who is the barrow-wight?",
+    "choices": [
+      "A fallen king corrupted by necromancy",
+      "A servant of Morgoth",
+      "An undead spirit bound to an ancient barrow",
+      "A creature of Saruman's making"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What do the hobbits name Tom Bombadil in The Fellowship of the Ring?",
+    "choices": [
+      "The old wanderer",
+      "The master of the forest",
+      "The keeper of the barrows",
+      "In the book they do not give him a name; in the films he does not appear"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the name of Pippin's horse?",
+    "choices": [
+      "Arod",
+      "It is never explicitly named",
+      "Shadowfax",
+      "Bill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of Merry's horse?",
+    "choices": [
+      "Shadowfax",
+      "Arod",
+      "Bill",
+      "It changes throughout the story"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who is the greatest horse-breeder among Men?",
+    "choices": [
+      "The King of Rohan",
+      "The Rohirrim collectively",
+      "Éomer",
+      "Théoden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Shadowfax?",
+    "choices": [
+      "A normal horse of Rohan",
+      "Gandalf's personal steed from the Undying Lands",
+      "A magical creature",
+      "The mightiest and last of the great horses of Rohan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who is Théoden, King of Rohan?",
+    "choices": [
+      "All of the above",
+      "Pippin's friend",
+      "The father of Éomer and uncle of Éowyn",
+      "Under Saruman's influence via Wormtongue for much of The Two Towers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who is Éowyn?",
+    "choices": [
+      "The sister of Éomer; she fights in the Battle of Pelennor Fields",
+      "All of the above",
+      "A shieldmaiden of Rohan who disguises herself as a man",
+      "She aids in the defeat of the Witch-king"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Faramir's primary role in The Return of the King?",
+    "choices": [
+      "He is a warrior and becomes the steward of Gondor",
+      "He leads the defense of Minas Tirith",
+      "He helps defend Gondor and later takes leadership as steward",
+      "He initially pursues Frodo but ultimately helps him"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In The Two Towers, what do Merry and Pippin accomplish with the Ents?",
+    "choices": [
+      "They convince the Ents to march on Isengard",
+      "They organize the destruction of Isengard",
+      "They fail to convince the Ents to help",
+      "Both A and B"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Treebeard's (Fangorn's) primary concern throughout The Two Towers?",
+    "choices": [
+      "The fate of the forests and Ent-wives",
+      "Destroying Saruman",
+      "Aiding the Fellowship",
+      "Finding new trees to shepherd"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What do we learn about the Ent-wives in The Lord of the Rings?",
+    "choices": [
+      "They were destroyed by Saruman",
+      "They are missing and their fate is unknown",
+      "They dwell in hidden forests",
+      "They aid the free peoples against Sauron"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In The Fellowship of the Ring, what creature attacks the Fellowship in the mines of Moria?",
+    "choices": [
+      "Shelob",
+      "A troll",
+      "The Watcher in the Water",
+      "Durin's Bane (the Balrog)"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How does Gandalf defeat the Balrog in Moria?",
+    "choices": [
+      "He engages it in combat and casts it into the abyss",
+      "He uses fire magic to drive it away",
+      "It is never explained; Gandalf simply vanishes",
+      "He falls with it into the depths"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "After falling with the Balrog, where does Gandalf go?",
+    "choices": [
+      "He fights the Balrog further underground and then is sent back by Eru",
+      "He is dead permanently",
+      "He is captured by Saruman",
+      "He wanders lost in the Mines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is Anduril?",
+    "choices": [
+      "A dwarven artifact",
+      "The reforged sword of Aragorn (originally Narsil)",
+      "A elven weapon",
+      "A magical staff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who reforges Narsil into Anduril?",
+    "choices": [
+      "Aragorn",
+      "The elves of Rivendell",
+      "Elrond with the aid of the elves",
+      "Gandalf through magic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the Phial of Galadriel used for?",
+    "choices": [
+      "It can heal wounds",
+      "Galadriel uses it to communicate across distances",
+      "It is a mere keepsake with no magical properties",
+      "It contains light that glows when evil is near"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In The Hobbit, what do the trolls do to the dwarves and Bilbo?",
+    "choices": [
+      "They turn to stone in the sunlight after arguing with Gandalf",
+      "They capture them for ransom",
+      "They eat them",
+      "They enslave them"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In The Hobbit, what happens to Thorin Oakenshield in the end?",
+    "choices": [
+      "He becomes king under the mountain",
+      "He is killed in the Battle of Five Armies but receives honor for his valor",
+      "He returns to his home with great wealth",
+      "He is cursed by the dragon's dying breath"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What are the Eagles in Middle-earth?",
+    "choices": [
+      "Servants of the Valar who aid the free peoples",
+      "Great birds of immense size and intelligence",
+      "All of the above",
+      "Sent to aid Gandalf and Frodo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who is the Eagles' leader?",
+    "choices": [
+      "Landroval",
+      "Meneldor",
+      "The Eagles have no single leader",
+      "Gwaihir the Windlord"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does 'Gondor' mean?",
+    "choices": [
+      "The land of stone",
+      "The western lands",
+      "It is not translated; it is a proper name",
+      "The realm of men"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the true form of Aragorn's lineage?",
+    "choices": [
+      "He is a ranger of the North",
+      "He is the rightful king descended from Isildur and the ancient kings of Arnor and Gondor",
+      "He is a bastard prince",
+      "He has mixed dwarven and human ancestry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who crowns Aragorn as King in The Return of the King?",
+    "choices": [
+      "Elrond",
+      "Galadriel",
+      "Gandalf",
+      "Frodo (as the bearer of the Ring)"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is Ithilien?",
+    "choices": [
+      "A forest realm",
+      "The capital of Gondor",
+      "A mountain range",
+      "A region in Gondor east of the Anduin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who is the Lord of Ithilien?",
+    "choices": [
+      "Faramir is named its lord by Aragorn after the war",
+      "Denethor",
+      "An ancient elf lord",
+      "It has no single lord; it is governed by councils"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the Steepness or Cirith Ungol?",
+    "choices": [
+      "A fortress of Gondor",
+      "A pass through the mountains; Frodo and Sam pass through it on their way to Mount Doom",
+      "A river in Lothlorien",
+      "A spell that reveals evil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What creature dwells at Cirith Ungol?",
+    "choices": [
+      "A small orc garrison",
+      "The Witch-king",
+      "Shelob, the great spider",
+      "A guardian sent by Galadriel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In The Return of the King, what is the Pelennor Fields?",
+    "choices": [
+      "A great battle site",
+      "The enclosed farmland before Minas Tirith",
+      "A forest near the capital",
+      "Both A and B"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who leads the forces of Gondor during the attack on Minas Tirith?",
+    "choices": [
+      "The Witch-king and his Nazgûl",
+      "Aragorn",
+      "Gandalf",
+      "Denethor (early on)"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Isildur's role in the creation of the One Ring?",
+    "choices": [
+      "He created it with Sauron",
+      "He had the Ring after Sauron was defeated, then lost it in a river",
+      "He forged the Rings of Power",
+      "He is not connected to the One Ring"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How many Silmarils were created by Fëanor?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Five"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What happened to the Silmarils at the end of the First Age?",
+    "choices": [
+      "They were destroyed",
+      "They were hidden by the Valar",
+      "They were recovered and hidden in Rivendell",
+      "One was set in the sky by Eärendil, others were taken by Morgoth and lost"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In The Silmarillion, who is Maeglin?",
+    "choices": [
+      "An elf of Gondolin who betrays the city to Morgoth",
+      "A human hero",
+      "A Vala",
+      "A dwarf-lord"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is Gondolin in The Silmarillion?",
+    "choices": [
+      "A city of Men",
+      "A hidden city of the Elves built by Turgon",
+      "A fortress of the dwarves",
+      "A realm in Rivendell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who is Turgon?",
+    "choices": [
+      "An ancient elf-lord who founds Rivendell",
+      "A Maiar sent to Middle-earth",
+      "A king of Gondola and builder of the hidden city",
+      "A human king"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the nature of the Valar in Tolkien's cosmology?",
+    "choices": [
+      "They are evil spirits",
+      "They are powerful elves",
+      "They are fallen angels",
+      "They are the archangels or gods of the world, created before the world"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who among the Maiar (lesser spirits) remained loyal to Morgoth?",
+    "choices": [
+      "Sauron",
+      "Gandalf",
+      "Saruman (eventually)",
+      "They did not; all Maiar sided with the Valar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In the Peter Jackson films, which actor portrays Gandalf?",
+    "choices": [
+      "McKellen",
+      "Ian McKellen",
+      "Astin",
+      "Mortensen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the Peter Jackson films, which actor portrays Frodo?",
+    "choices": [
+      "Astin",
+      "Sean Astin",
+      "Elijah Wood",
+      "Both B and C; Wood plays Frodo and Astin plays Sam"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which actor portrays Aragorn in the Peter Jackson films?",
+    "choices": [
+      "Sean Bean",
+      "Ian McKellen",
+      "Orlando Bloom",
+      "Viggo Mortensen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actor portrays Samwise Gamgee in the Peter Jackson films?",
+    "choices": [
+      "Sean Astin",
+      "Elijah Wood",
+      "David Tennant",
+      "John Rhys-Davies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the Peter Jackson films, Lurtz is introduced. What is Lurtz?",
+    "choices": [
+      "A character from the books",
+      "An Uruk-hai created by Saruman (film addition)",
+      "A human servant of Sauron",
+      "An orc who commands the Balrog"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is Ungoliant in The Silmarillion?",
+    "choices": [
+      "A servant of Morgoth",
+      "A type of orc",
+      "A primordial spider of immense size who helps Morgoth steal the Silmarils",
+      "A creature of Sauron's making"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who is Thingol in The Silmarillion?",
+    "choices": [
+      "A human king",
+      "A dwarf-lord",
+      "A Vala",
+      "A Sindarin elf-king and lord of Doriath"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is Doriath in The Silmarillion?",
+    "choices": [
+      "The hidden kingdom of Thingol and the Grey Elves",
+      "A fortress of men",
+      "A mountain range",
+      "A city of the Noldor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who is Círdan in Tolkien's legendarium?",
+    "choices": [
+      "A human general",
+      "An ancient elf-lord of the Grey Havens; he gives Narya (a ring of power) to Gandalf",
+      "A dwarf-king",
+      "A servant of Morgoth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Tolkien's work, what is Rivendell's true name?",
+    "choices": [
+      "Elrond's Domain",
+      "The Valley of Echoes",
+      "Imladris",
+      "Noldor-haven"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does Moria mean?",
+    "choices": [
+      "The fortress of dwarves",
+      "The black pit (referring to the darkness of the mines)",
+      "The halls of Khazad-dûm",
+      "Both B and C"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who forged the great dwarven cities in The Silmarillion?",
+    "choices": [
+      "Aulë the Vala (before the dwarves were created by him)",
+      "Morgoth",
+      "Durin (the first dwarf)",
+      "The elves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In The Hobbit, what is the Great Goblin?",
+    "choices": [
+      "A legendary goblin of immense age",
+      "The chief of a goblin tribe that captures the dwarves and Bilbo",
+      "A creature sent by Morgoth",
+      "It is never properly introduced; only mentioned"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What happens to the Great Goblin in The Hobbit?",
+    "choices": [
+      "He is never seen again after capturing the group",
+      "He flees to Mordor",
+      "He is killed by Gandalf during the escape",
+      "He becomes an ally of the dwarves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who are the Wargs in The Hobbit and LOTR?",
+    "choices": [
+      "Evil spirits",
+      "Large, intelligent wolves",
+      "Servants of Saruman",
+      "Both B and C"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In The Hobbit, what is Bilbo's motivation for undertaking the quest?",
+    "choices": [
+      "He is hired by the dwarves; he initially reluctant but is persuaded by Gandalf and the promise of wealth",
+      "He is forced by Gandalf",
+      "He seeks the Arkenstone and the dragon's treasure",
+      "He is running away from his home"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the primary reason Frodo must destroy the Ring rather than use it?",
+    "choices": [
+      "It will corrupt him",
+      "Using it would require him to have overwhelming power; its evil nature makes destruction the only solution",
+      "It cannot be used by anyone but Sauron",
+      "Gandalf forbids its use"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is the only creature able to enter Moria without aid besides dwarves and elves?",
+    "choices": [
+      "Gandalf",
+      "The Balrog",
+      "Hobbits (as shown by Frodo)",
+      "No one; only dwarves and elves can navigate it safely"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the significance of the Four Hobbits in The Lord of the Rings?",
+    "choices": [
+      "They are among the few beings small enough to hide the Ring's presence",
+      "They represent the common folk and show their capacity for heroism",
+      "All hobbits played crucial roles in the war against Sauron",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which is the largest ocean on Earth?",
+    "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "The Red Sea lies between which two continents?",
+    "choices": ["Africa and Asia", "Europe and Africa", "Asia and Europe", "North and South America"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Mediterranean Sea borders Europe, Asia, and which continent?",
+    "choices": ["Africa", "South America", "Australia", "Antarctica"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which ocean surrounds Antarctica?",
+    "choices": ["Southern Ocean", "Arctic Ocean", "Pacific Ocean", "Indian Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The English Channel connects the Atlantic to which sea?",
+    "choices": ["North Sea", "Irish Sea", "Celtic Sea", "Bay of Biscay"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The Suez Canal connects the Mediterranean to which body of water?",
+    "choices": ["Red Sea", "Persian Gulf", "Arabian Sea", "Indian Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Bering Strait separates Alaska from which country?",
+    "choices": ["Russia", "Canada", "Greenland", "Iceland"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Bay of Bengal is part of which ocean?",
+    "choices": ["Indian Ocean", "Pacific Ocean", "Atlantic Ocean", "Southern Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The Tasman Sea lies between Australia and which country?",
+    "choices": ["New Zealand", "Fiji", "Samoa", "Vanuatu"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Bay of Fundy, famous for high tides, is in which country?",
+    "choices": ["Canada", "United States", "Greenland", "Iceland"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which is the coldest and smallest ocean?",
+    "choices": ["Arctic Ocean", "Southern Ocean", "Atlantic Ocean", "Pacific Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which ocean covers approximately 46% of Earth's water surface?",
+    "choices": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which current brings warm water to the British Isles?",
+    "choices": ["Gulf Stream", "North Atlantic Drift", "Norwegian Current", "Canary Current"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Peru Current affects which country's coastal climate?",
+    "choices": ["Bolivia", "Peru", "Chile", "Ecuador"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which current is named after an Asian explorer and flows along East Asia?",
+    "choices": ["Brazil Current", "Kuroshio Current", "Humboldt Current", "Canary Current"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Benguela Current flows along the coast of which nation?",
+    "choices": ["South Africa", "Namibia", "Angola", "Mozambique"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Labrador Current brings cold water to which ocean region?",
+    "choices": ["Pacific", "Atlantic", "Indian", "Southern"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which current is responsible for the cold climate of Peru's coast?",
+    "choices": ["Peru Current", "Humboldt Current", "Brazil Current", "Antarctic Current"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Agulhas Current flows along the coast of which country?",
+    "choices": ["Mozambique", "South Africa", "Namibia", "Tanzania"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which trench is the second-deepest in the Pacific Ocean?",
+    "choices": ["Tonga Trench", "Kuril-Kamchatka Trench", "Mariana Trench", "Philippine Trench"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The North Atlantic Drift is a continuation of which current?",
+    "choices": ["Kuroshio Current", "Gulf Stream", "Brazil Current", "Norwegian Current"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Canary Current flows off the coast of which continent?",
+    "choices": ["South America", "Africa", "Europe", "Asia"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which is the dominant current in the Southern Hemisphere's oceans?",
+    "choices": ["Agulhas Current", "Antarctic Circumpolar Current", "Brazil Current", "Peru Current"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the primary reason the Dead Sea is extremely salty?",
+    "choices": ["Mineral-rich springs", "High evaporation rate", "No outlet to the ocean", "Ancient ocean remnant"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Strait of Hormuz separates Iran from which nation?",
+    "choices": ["Saudi Arabia", "Qatar", "Oman", "United Arab Emirates"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which sea is shared by Russia, Azerbaijan, Kazakhstan, and Turkmenistan?",
+    "choices": ["Black Sea", "Aral Sea", "Caspian Sea", "Azov Sea"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which sea is bordered by Greece, Turkey, Bulgaria, and Romania?",
+    "choices": ["Aegean Sea", "Ionian Sea", "Black Sea", "Adriatic Sea"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the deepest point in Earth's oceans?",
+    "choices": ["Sirena Deep", "Litke Deep", "Challenger Deep", "Molloy Deep"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which trench is located in the western Pacific near Japan?",
+    "choices": ["Kuril-Kamchatka Trench", "Tonga Trench", "Japan Trench", "Philippine Trench"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Coral Sea is located between Australia and which island nation?",
+    "choices": ["Vanuatu", "Fiji", "Papua New Guinea", "Solomon Islands"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which is the deepest trench in the Atlantic Ocean?",
+    "choices": ["South Sandwich Trench", "Java Trench", "Puerto Rico Trench", "Molloy Deep"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Java Trench is located near which Indonesian island?",
+    "choices": ["Sumatra", "Borneo", "Java", "Sulawesi"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which sea is the warmest in the world by average temperature?",
+    "choices": ["Persian Gulf", "Mediterranean Sea", "Red Sea", "Coral Sea"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which trench lies along the Kuril Islands in the Pacific?",
+    "choices": ["Japan Trench", "Aleutian Trench", "Kuril-Kamchatka Trench", "Tonga Trench"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the second-deepest ocean trench in the world?",
+    "choices": ["Tonga Trench", "Mariana Trench", "Philippine Trench", "Kuril-Kamchatka Trench"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which current is the strongest ocean current globally?",
+    "choices": ["Gulf Stream", "Kuroshio Current", "Brazil Current", "Antarctic Circumpolar Current"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the primary reason the Mediterranean region has a mild climate?",
+    "choices": ["Tropical latitude", "Mountain barriers", "Ocean current influence", "Desert proximity"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Drake Passage lies between South America and which continent?",
+    "choices": ["Africa", "Australia", "Asia", "Antarctica"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which strait connects the Black Sea to the Mediterranean?",
+    "choices": ["Dardanelles", "Golden Horn", "Marmara Strait", "Bosphorus"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Mindanao Trench is the deepest point in which ocean?",
+    "choices": ["Indian Ocean", "Atlantic Ocean", "Southern Ocean", "Pacific Ocean"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which sea borders Turkey, Syria, Lebanon, and Israel?",
+    "choices": ["Aegean Sea", "Black Sea", "Marmara Sea", "Mediterranean Sea"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which sea is completely enclosed by Russia?",
+    "choices": ["Azov Sea", "Kara Sea", "Laptev Sea", "Caspian Sea"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Kuroshio is a warm current flowing along which country's coast?",
+    "choices": ["China", "Philippines", "Taiwan", "Japan"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which current is named after an explorer and flows along South America?",
+    "choices": ["Brazil Current", "Atacama Current", "Peru Current", "Humboldt Current"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Coral Sea features which type of marine ecosystem?",
+    "choices": ["Kelp forests", "Mangrove swamps", "Coral reefs", "Seagrass beds"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which ocean basin contains the most island nations?",
+    "choices": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  }
+]

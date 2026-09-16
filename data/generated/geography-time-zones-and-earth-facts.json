@@ -1,0 +1,266 @@
+[
+  {
+    "text": "What is the primary reference line used to measure time worldwide?",
+    "choices": ["Prime Meridian (0° longitude)", "Equator", "Greenwich Mean Time", "The Tropic of Cancer"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "If it is noon UTC (Coordinated Universal Time), what time is it in UTC+5?",
+    "choices": ["7:00 AM", "5:00 PM", "12:00 PM", "5:00 AM"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The International Date Line roughly follows which meridian?",
+    "choices": ["90° East", "180° (antimeridian)", "0° (Prime Meridian)", "45° West"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How many standard time zones does Earth have?",
+    "choices": ["24", "12", "36", "18"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A location at UTC+8 is how many hours ahead of UTC-4?",
+    "choices": ["4 hours", "8 hours", "12 hours", "20 hours"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which factor most directly causes time zones to not align perfectly with longitude?",
+    "choices": ["Earth's magnetic field", "Political and geographic boundaries", "Ocean currents", "Atmospheric pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the latitude of the Equator?",
+    "choices": ["45°", "0°", "90°", "180°"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "If a city is at 40° North latitude, on which hemisphere of Earth is it located?",
+    "choices": ["Eastern Hemisphere", "Southern Hemisphere", "Northern Hemisphere", "Western Hemisphere"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the range of longitude values on Earth?",
+    "choices": ["0° to 180°", "-90° to 90°", "-180° to 180°", "0° to 360°"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Prime Meridian passes through which city?",
+    "choices": ["Paris", "Greenwich (London)", "Berlin", "Amsterdam"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What are the coordinates of the North Pole?",
+    "choices": ["0°, 0°", "90° N, any longitude", "45° N, 0°", "90° S, 0°"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which of these latitudes is closest to the South Pole?",
+    "choices": ["45° S", "89° S", "1° S", "23.5° S"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Equator divides Earth into which two hemispheres?",
+    "choices": ["Eastern and Western", "Northern and Southern", "Land and Ocean", "Tropical and Polar"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which hemisphere contains most of Earth's land?",
+    "choices": ["Southern", "Eastern", "Western", "Northern"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A location at 30° S, 60° W is in which hemisphere(s)?",
+    "choices": ["Northern and Eastern", "Southern and Western", "Northern and Western", "Southern and Eastern"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the approximate diameter of Earth?",
+    "choices": ["6,371 km", "12,742 km", "25,000 km", "40,000 km"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Earth's radius is approximately how many kilometers?",
+    "choices": ["3,000 km", "6,371 km", "12,000 km", "40,000 km"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is Earth's circumference at the Equator?",
+    "choices": ["About 20,000 km", "About 40,000 km", "About 60,000 km", "About 80,000 km"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which layer of Earth is the thickest?",
+    "choices": ["Crust", "Mantle", "Outer core", "Inner core"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the primary composition of Earth's inner core?",
+    "choices": ["Liquid iron and nickel", "Solid iron and nickel", "Silicate rock", "Molten lava"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Earth's crust is primarily composed of which material?",
+    "choices": ["Iron", "Silicate rock", "Liquid water", "Nitrogen"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How long does it take Earth to complete one full rotation on its axis?",
+    "choices": ["12 hours", "24 hours", "365 days", "1 hour"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In which direction does Earth rotate?",
+    "choices": ["East to west", "North to south", "West to east", "South to north"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "A sidereal day (one complete rotation relative to the stars) is approximately how long?",
+    "choices": ["23 hours 56 minutes", "24 hours exactly", "23 hours 30 minutes", "24 hours 4 minutes"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the angle of Earth's axial tilt?",
+    "choices": ["10.5°", "23.5°", "45°", "66.5°"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which of these is a consequence of Earth's axial tilt?",
+    "choices": ["Time zones", "Magnetic poles", "Seasons", "Day and night"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "On the summer solstice in the Northern Hemisphere, what is the longest time of daylight?",
+    "choices": ["12 hours", "Varies by latitude; longest at polar regions", "6 hours", "24 hours at the equator"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "During which event are day and night approximately equal length worldwide?",
+    "choices": ["Solstice", "Equinox", "Perihelion", "Aphelion"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What defines the Tropic of Cancer?",
+    "choices": ["The line where the sun is directly overhead at the winter solstice", "The line where the sun is directly overhead at the summer solstice", "The equator", "The Prime Meridian"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How many degrees of latitude separate the North Pole from the Equator?",
+    "choices": ["45°", "90°", "180°", "360°"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the latitude range of the Arctic Circle?",
+    "choices": ["0° to 23.5° N", "23.5° to 66.5° N", "66.5° N to 90° N", "45° N to 90° N"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which latitude line marks the tropical region where the sun can be directly overhead?",
+    "choices": ["Arctic Circle", "Antarctic Circle", "Tropics (between Tropics of Cancer and Capricorn)", "Prime Meridian"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "During winter in the Northern Hemisphere, which hemisphere experiences summer?",
+    "choices": ["Northern", "Southern", "Eastern", "Western"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What geographic feature is found at latitude 0° and all longitudes?",
+    "choices": ["The Prime Meridian", "The Equator", "The International Date Line", "The North Pole"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Two points are located at 45° N, 120° E and 45° N, 60° E. In which direction would you travel from the first point to reach the second?",
+    "choices": ["South", "West", "North", "East"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What term describes points on opposite sides of Earth at exactly opposite coordinates?",
+    "choices": ["Meridional points", "Antipodal points", "Equatorial points", "Polar opposites"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How many degrees of longitude exist between the Prime Meridian and the International Date Line?",
+    "choices": ["90°", "180°", "270°", "360°"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "At what latitude do the sun's rays strike Earth most directly at the summer solstice?",
+    "choices": ["Equator (0°)", "Tropic of Cancer (23.5° N)", "Tropic of Capricorn (23.5° S)", "Arctic Circle (66.5° N)"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Earth is closest to the sun during which event?",
+    "choices": ["Summer solstice (Northern Hemisphere)", "Winter solstice (Northern Hemisphere)", "Perihelion (early January)", "Vernal equinox"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the name of the line at 180° longitude?",
+    "choices": ["Prime Meridian", "Antimeridian", "The Equator", "Tropic of Capricorn"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "If it is 3:00 PM on Monday in London (UTC+0), what time and day is it in Sydney (UTC+10)?",
+    "choices": ["1:00 AM Tuesday", "5:00 PM Monday", "1:00 PM Monday", "5:00 AM Tuesday"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which statement about Earth's rotation is correct?",
+    "choices": ["Earth rotates faster at the equator than at the poles", "Earth rotates at the same angular velocity everywhere", "Earth does not rotate", "Earth rotates only during daytime"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Approximately what percentage of Earth's surface is covered by ocean?",
+    "choices": ["50%", "71%", "85%", "95%"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the primary reason Earth has seasons?",
+    "choices": ["Earth's distance from the sun varies", "Earth's axis is tilted relative to its orbital plane", "The sun orbits Earth", "Earth's rotation speed changes"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  }
+]

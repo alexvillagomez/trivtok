@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is 2 raised to the power of 3?",
+    "choices": ["6", "8", "9", "4"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the next prime number after 7?",
+    "choices": ["9", "11", "10", "12"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the square root of 16?",
+    "choices": ["6", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Simplify: 5 + 3 × 2",
+    "choices": ["16", "10", "11", "13"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is 3 squared?",
+    "choices": ["6", "8", "9", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is 10 − 4?",
+    "choices": ["5", "7", "6", "14"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is the product 2 × 3 × 5?",
+    "choices": ["10", "30", "15", "20"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is 100 divided by 5?",
+    "choices": ["25", "20", "15", "10"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is 1 + 2 + 3?",
+    "choices": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What is 2 to the 4th power?",
+    "choices": ["8", "16", "12", "20"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which of these is a prime number?",
+    "choices": ["8", "15", "13", "18"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is 7 + 8?",
+    "choices": ["14", "15", "16", "17"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Solve for x: 2x + 4 = 10",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Solve for x: 3x − 5 = 7",
+    "choices": ["3", "4", "5", "6"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the solution to x² = 25?",
+    "choices": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is 15 mod 4?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the least common multiple of 4 and 6?",
+    "choices": ["10", "12", "14", "16"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the greatest common divisor of 12 and 18?",
+    "choices": ["2", "3", "6", "9"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many positive divisors does 12 have?",
+    "choices": ["4", "5", "6", "7"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is 2^5 + 2^4?",
+    "choices": ["48", "40", "32", "56"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is 3^3 × 2?",
+    "choices": ["54", "48", "60", "36"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the sum 2 + 4 + 6 + 8 + 10?",
+    "choices": ["25", "30", "35", "40"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is 25% of 80?",
+    "choices": ["15", "20", "25", "30"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the next number in the sequence 2, 4, 8, 16, ?",
+    "choices": ["24", "32", "28", "30"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is 3^4?",
+    "choices": ["36", "81", "64", "49"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is (−2)^3?",
+    "choices": ["-6", "-8", "8", "6"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the 5th Fibonacci number in the sequence 1, 1, 2, 3, 5, ?",
+    "choices": ["7", "8", "9", "6"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the prime factorization of 24 as a product?",
+    "choices": ["2 × 12", "2³ × 3", "3 × 8", "4 × 6"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Solve for x: x² − 4x + 3 = 0. What are the roots?",
+    "choices": ["2 and 4", "1 and 3", "0 and 4", "2 and 3"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the sum of the first 10 positive integers?",
+    "choices": ["50", "55", "60", "65"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the 10th prime number?",
+    "choices": ["23", "29", "31", "37"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is 2 to the 10th power?",
+    "choices": ["512", "1024", "2048", "256"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the sum of all positive divisors of 12?",
+    "choices": ["24", "28", "32", "36"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is 4! (4 factorial)?",
+    "choices": ["16", "24", "20", "12"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Solve for x: x³ = 8",
+    "choices": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the least common multiple of 12 and 20?",
+    "choices": ["40", "50", "60", "80"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is 7³?",
+    "choices": ["294", "343", "336", "350"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How many prime numbers are there between 1 and 20?",
+    "choices": ["7", "8", "9", "10"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the sum of the infinite series 1 + 1/2 + 1/4 + 1/8 + ... ?",
+    "choices": ["1.5", "2", "2.5", "3"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the value of e (Euler's number) to two decimal places?",
+    "choices": ["2.41", "2.72", "3.14", "1.62"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "The golden ratio is approximately equal to?",
+    "choices": ["1.41", "1.62", "1.73", "2.00"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the prime factorization of 60 expressed as a product?",
+    "choices": ["2² × 3 × 5", "2 × 3² × 5", "2 × 3 × 5²", "2³ × 3 × 5"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Solve for x: 2x² − 8 = 0",
+    "choices": ["±1", "±2", "±3", "±4"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the sum of the exponents in the prime factorization of 72?",
+    "choices": ["4", "5", "6", "7"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the 6th Fibonacci number?",
+    "choices": ["8", "13", "11", "10"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  }
+]

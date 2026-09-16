@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Who developed the theory of evolution by natural selection?",
+    "choices": ["Charles Darwin", "Jean-Baptiste Lamarck", "Thomas Huxley", "Herbert Spencer"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which radioactive elements did Marie Curie discover with Pierre?",
+    "choices": ["Uranium and thorium", "Radium and polonium", "Radon and radium", "Francium and radium"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who formulated the law of universal gravitation?",
+    "choices": ["Galileo Galilei", "Johannes Kepler", "Isaac Newton", "Tycho Brahe"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which scientist discovered penicillin by accident?",
+    "choices": ["Howard Florey", "Ernst Boris Chain", "Alexander Fleming", "Paul Ehrlich"],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who developed the theory of special relativity?",
+    "choices": ["Albert Einstein", "Hermann Minkowski", "Max Planck", "Niels Bohr"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What molecular structure did Watson and Crick famously determine?",
+    "choices": ["RNA structure", "Protein folding", "The DNA helix", "Cell membranes"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who won the Nobel Prize for discovering X-rays?",
+    "choices": ["Marie Curie", "Ernest Rutherford", "Wilhelm Röntgen", "Pierre Curie"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who was the first woman to win a Nobel Prize in any field?",
+    "choices": ["Lise Meitner", "Marie Curie", "Irène Joliot-Curie", "Barbara McClintock"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which scientist discovered the electron?",
+    "choices": ["J.J. Thomson", "Ernest Rutherford", "Niels Bohr", "Max Planck"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What did Niels Bohr develop regarding atomic structure?",
+    "choices": ["The quantum model", "The Bohr model", "The plum pudding model", "The nuclear model"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who discovered the neutron?",
+    "choices": ["Robert Millikan", "James Chadwick", "Ernest Rutherford", "Otto Hahn"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What radioactive element is named after Marie Curie's home country?",
+    "choices": ["Curium", "Polonium", "Francium", "Radium"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In what year did Einstein publish his theory of special relativity?",
+    "choices": ["1900", "1905", "1915", "1920"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was Marie Curie's maiden name?",
+    "choices": ["Sklodowska", "Joliot", "Becquerel", "Rutherford"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Who is credited with discovering the structure of benzene?",
+    "choices": ["Friedrich Kekulé", "August Kekulé", "Dmitri Mendeleev", "Justus von Liebig"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Nobel laureate is famous for cracking the genetic code?",
+    "choices": ["Max Perutz", "Marshall Nirenberg", "Linus Pauling", "Sydney Brenner"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who pioneered the concept of vaccination against smallpox?",
+    "choices": ["Louis Pasteur", "Joseph Lister", "Edward Jenner", "John Snow"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What fundamental concept did Max Planck introduce?",
+    "choices": ["The wave equation", "Quantum theory", "Relativity", "Uncertainty principle"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who discovered the fundamental laws of inheritance?",
+    "choices": ["Charles Darwin", "Gregor Mendel", "Hugo de Vries", "Thomas Hunt Morgan"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which scientist won Nobel Prizes in two different scientific fields?",
+    "choices": ["Frederick Sanger", "Linus Pauling", "Max Delbrück", "Arthur Ashkin"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who developed germ theory, explaining disease transmission?",
+    "choices": ["Ignaz Semmelweis", "Louis Pasteur", "Robert Koch", "Joseph Lister"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What subatomic structure did Ernest Rutherford discover?",
+    "choices": ["The electron", "The atomic nucleus", "The photon", "The positron"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who is recognized as the discoverer of the first antibiotic medication?",
+    "choices": ["Gerhard Domagk", "Alexander Fleming", "Howard Florey", "Selman Waksman"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which scientist developed the oral polio vaccine?",
+    "choices": ["Albert Sabin", "Jonas Salk", "Max Theiler", "John Enders"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who won the Nobel Prize for biochemistry of lipid metabolism?",
+    "choices": ["Konrad Bloch", "Feodor Lynen", "Adolf Butenandt", "Edward Calvin Kendall"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What technique did Rosalind Franklin pioneer for studying DNA?",
+    "choices": ["Gel electrophoresis", "X-ray crystallography", "Mass spectrometry", "Chromatography"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who discovered the positron, the first antiparticle?",
+    "choices": ["Paul Dirac", "Carl Anderson", "Richard Feynman", "Enrico Fermi"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which three scientists shared the Nobel Prize for inventing the transistor?",
+    "choices": ["Enrico Fermi, Richard Feynman, Julian Schwinger", "John Bardeen, Leon Cooper, Robert Schrieffer", "William Shockley, John Bardeen, Walter Brattain", "Niels Bohr, Werner Heisenberg, Erwin Schrödinger"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who was awarded the Nobel Prize for determining the DNA structure with others?",
+    "choices": ["Rosalind Franklin", "James Watson", "Francis Crick", "Linus Pauling"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What biochemical structure did Linus Pauling discover?",
+    "choices": ["The anticodon", "The alpha helix", "The double helix", "The codon triplet"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In what year were polonium and radium discovered?",
+    "choices": ["1896", "1898", "1900", "1902"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Nobel laureate introduced the concept of the photon?",
+    "choices": ["Max Planck", "Niels Bohr", "Albert Einstein", "Werner Heisenberg"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the famous experimental setup Rutherford used to reveal atomic structure?",
+    "choices": ["Cathode ray tube", "Gold foil experiment", "Double slit experiment", "Cloud chamber"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Who discovered the Compton effect involving photon-electron collisions?",
+    "choices": ["Max Planck", "Louis de Broglie", "Arthur Compton", "Paul Dirac"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which evolutionary biologist proposed punctuated equilibrium theory?",
+    "choices": ["Richard Lewontin", "Stephen Jay Gould", "George Williams", "William Hamilton"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What protein secondary structure did Pauling elucidate?",
+    "choices": ["Beta sheets", "The alpha helix", "Random coils", "Disulfide bonds"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who won the Nobel Prize for the discovery of green fluorescent protein?",
+    "choices": ["Osamu Shimomura, Roger Tsien, Martin Chalfie", "Sydney Brenner, John Sulston, Robert Horvitz", "Rita Levi-Montalcini, Stanley Cohen", "Michael Brown, Joseph Goldstein"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which physicist developed the unified weak and electromagnetic force?",
+    "choices": ["Julian Schwinger", "Sheldon Glashow", "Steven Weinberg", "Abdus Salam"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What experiment did Eddington conduct to verify general relativity predictions?",
+    "choices": ["Michelson-Morley experiment", "Solar eclipse expedition", "Photoelectric experiment", "Double slit experiment"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who discovered the muon particle in cosmic radiation?",
+    "choices": ["Carl Anderson", "Robert Millikan", "Ernest Rutherford", "Victor Hess"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Nobel laureate discovered the tau particle?",
+    "choices": ["Martin Lewis Perl", "Burton Richter", "David Gross", "Frank Wilczek"],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What nematode organism did Sydney Brenner use to study genetic mechanisms?",
+    "choices": ["Drosophila melanogaster", "Arabidopsis thaliana", "Caenorhabditis elegans", "Saccharomyces cerevisiae"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Who theoretically predicted antiparticles and the positron?",
+    "choices": ["Werner Heisenberg", "Paul Dirac", "Max Born", "Erwin Schrödinger"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which three scientists discovered restriction enzymes for DNA cutting?",
+    "choices": ["Sydney Brenner, John Sulston, Robert Horvitz", "Werner Arber, Daniel Nathans, Hamilton Smith", "Rita Levi-Montalcini, Stanley Cohen", "Max Delbrück, Salvador Luria, Alfred Hershey"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What microscopic organisms did Max Delbrück study to understand genetic replication?",
+    "choices": ["Bacteria", "Viruses that infect bacteria", "Yeast cells", "Plant root tips"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  }
+]

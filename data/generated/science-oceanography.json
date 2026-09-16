@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What astronomical body is primarily responsible for Earth's tides?",
+    "choices": ["The Sun", "The Moon", "Venus", "Solar wind"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which layer of the ocean receives sunlight and supports most marine life?",
+    "choices": ["The abyssal zone", "The photic zone", "The hadal zone", "The midnight zone"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the primary cause of surface ocean waves?",
+    "choices": ["Earthquakes", "Wind friction on water", "Tidal forces", "Ocean currents"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "At what depth does the ocean receive essentially no sunlight?",
+    "choices": ["100 meters", "500 meters", "1000 meters", "200 meters"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is salinity measured as?",
+    "choices": ["pH level", "Grams of salt per kilogram of water", "Temperature in Celsius", "Pressure in atmospheres"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How often do semi-diurnal tides occur in most locations?",
+    "choices": ["Once per day", "Twice per day", "Once per month", "Once per year"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the name of the region where freshwater from rivers meets ocean saltwater?",
+    "choices": ["Thermocline", "Estuary", "Abyss", "Continental shelf"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which ocean current is known as the 'river within the ocean'?",
+    "choices": ["Kuroshio Current", "Gulf Stream", "Antarctic Circumpolar Current", "Canary Current"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What term describes the smallest ocean animals visible only under a microscope?",
+    "choices": ["Benthic fauna", "Zooplankton", "Nekton", "Phytoplankton"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "At what pressure do most ocean trenches operate?",
+    "choices": ["100 atmospheres", "Over 1000 atmospheres", "500 atmospheres", "50 atmospheres"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is the deepest known point in the ocean?",
+    "choices": ["Mariana Trench", "Tonga Trench", "Kuril-Kamchatka Trench", "Aleutian Trench"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What causes the formation of ocean trenches?",
+    "choices": ["Erosion by currents", "Tectonic plate subduction", "Volcanic eruptions", "Wave action"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the thermocline?",
+    "choices": ["A layer where temperature increases with depth", "A layer where temperature drops rapidly with depth", "A layer of uniform salinity", "The deepest part of the ocean"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How does the Coriolis effect influence ocean currents?",
+    "choices": ["It creates parallel water flows", "It deflects moving objects to the right in the Northern Hemisphere", "It increases water temperature", "It reduces wave height"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is a submarine canyon?",
+    "choices": ["A trench in the Pacific Ocean", "A deep underwater valley cutting through the continental shelf", "A thermal vent on the ocean floor", "A shallow depression on the abyssal plain"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What technology uses sound waves to map the ocean floor?",
+    "choices": ["Sonar", "Radar", "Lidar", "Photogrammetry"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the continental shelf?",
+    "choices": ["A deep trench near continents", "The shallow sloping sea floor adjacent to a continent", "An underwater mountain range", "A depression in the abyssal zone"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which of the following is NOT a recognized ocean zone by depth?",
+    "choices": ["Epipelagic zone", "Mesopelagic zone", "Stratosphere zone", "Abyssal zone"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What drives ocean upwelling in coastal regions?",
+    "choices": ["Moon's gravity", "Offshore winds pushing surface water away", "Underwater volcanoes", "Tidal forces"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a tsunami primarily caused by?",
+    "choices": ["Strong surface winds", "Submarine earthquakes or landslides", "Gulf Stream variations", "Changes in salinity"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What percentage of Earth's surface is covered by oceans?",
+    "choices": ["50%", "71%", "65%", "80%"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a hydrothermal vent?",
+    "choices": ["A shallow geothermal feature", "An opening on the ocean floor where superheated water is expelled", "A type of ocean current", "A region of upwelling"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How does temperature affect ocean water density?",
+    "choices": ["Higher temperature increases density", "Lower temperature increases density", "Temperature has no effect on density", "Temperature affects salinity instead"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the abyssal zone characterized by?",
+    "choices": ["Intense sunlight", "Complete darkness and cold temperatures", "Moderate pressure", "Abundant dissolved oxygen"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a pycnocline?",
+    "choices": ["A layer where density changes rapidly", "The deepest ocean layer", "A coastal current", "A type of wave"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which current is primarily responsible for moderating Europe's climate?",
+    "choices": ["Benguela Current", "Gulf Stream", "California Current", "Humboldt Current"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the Ekman spiral?",
+    "choices": ["A spiral-shaped wave pattern", "The change in ocean current direction with depth due to the Coriolis effect", "A type of tidal pattern", "A vortex near the equator"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What causes internal waves in the ocean?",
+    "choices": ["Surface wind", "Density differences between water layers", "Tidal forces", "Submarine earthquakes"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the bathypelagic zone?",
+    "choices": ["The shallowest ocean zone", "The ocean zone between 1000 and 4000 meters deep", "The zone with the most sunlight", "The hadal zone"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How does ocean acidification occur?",
+    "choices": ["Increased salinity", "Addition of industrial acids", "Absorption of atmospheric carbon dioxide", "Decomposition of organic matter"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a seamount?",
+    "choices": ["A coastal mountain range", "An underwater mountain that doesn't reach the surface", "A type of ocean current", "A tidal formation"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the primary mechanism for deep ocean circulation?",
+    "choices": ["Surface wind stress", "Thermohaline circulation driven by density differences", "Tidal forces", "Coriolis effect alone"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the hadal zone?",
+    "choices": ["The twilight zone of the ocean", "Ocean depths below 6000 meters", "The continental shelf region", "The photic zone"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which technology allows real-time monitoring of ocean temperatures and currents?",
+    "choices": ["Satellite altimetry", "Acoustic Doppler profiling", "Both satellite and Argo floats", "Radar imaging"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the relationship between tidal range and the phase of the Moon?",
+    "choices": ["No relationship", "Largest ranges at new and full moons", "Largest ranges at quarter moons", "Ranges are constant"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What causes red tides in coastal waters?",
+    "choices": ["Iron oxide in sediment", "Rapid algal bloom producing toxins", "Copper from industrial runoff", "Red-colored plankton"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a meander in ocean currents?",
+    "choices": ["A temporary eddy", "A large loop or S-curve in a current's path", "A slowing of current speed", "A mixing zone"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How do ocean ridges form?",
+    "choices": ["Tectonic plate collision", "Magma rising at divergent plate boundaries", "Erosion over millions of years", "Sediment accumulation"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the mesopelagic zone known as?",
+    "choices": ["Sunlight zone", "Twilight zone", "Midnight zone", "Abyssal zone"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the primary ion contributing to ocean salinity?",
+    "choices": ["Potassium", "Chloride", "Calcium", "Sulfate"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is a gyri in oceanography?",
+    "choices": ["A deep trench", "A large system of rotating ocean currents", "A type of wave", "A thermal layer"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How does the formation of sea ice affect ocean salinity?",
+    "choices": ["Ice reduces salinity when melting", "Salt is excluded from ice, increasing surrounding water salinity", "Salinity decreases uniformly", "No effect on salinity"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the Ekman transport?",
+    "choices": ["Movement of surface water at an angle to the wind", "Deep ocean current flow", "Tidal movement", "Upwelling mechanism"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What technology measures ocean depth using light pulses?",
+    "choices": ["Sonar", "Bathymetry", "Lidar (Light Detection and Ranging)", "Echo sounding"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the role of the thermocline in limiting vertical mixing?",
+    "choices": ["It prevents any water movement", "It creates a density barrier that resists vertical mixing", "It enhances mixing", "It has no effect"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What determines the wave period of ocean waves?",
+    "choices": ["Water temperature", "The duration and strength of the wind that generated the waves", "Ocean salinity", "Time of day"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the compensation depth in the ocean?",
+    "choices": ["Maximum depth of the ocean", "Depth where photosynthesis equals respiration", "Depth of the thermocline", "Deepest point reachable by submarines"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How do eddies form in ocean currents?",
+    "choices": ["Earthquakes", "Meanders that pinch off from the main current flow", "Tidal interactions", "Temperature inversions"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the aphotic zone?",
+    "choices": ["The shallowest ocean region", "The region of the ocean where no sunlight penetrates", "The zone with maximum currents", "The area of strongest tides"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What causes the formation of convergence zones in the ocean?",
+    "choices": ["Temperature differences alone", "The meeting of water masses with different densities and properties", "Tidal forces", "Wave action"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  }
+]

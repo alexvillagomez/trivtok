@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Which organ is responsible for breaking down food mechanically and chemically with saliva?",
+    "choices": ["Pharynx", "Mouth", "Esophagus", "Stomach"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the primary function of the small intestine?",
+    "choices": ["Storage of feces", "Nutrient absorption", "Mechanical breakdown", "Saliva production"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The esophagus moves food down to the stomach through a process called:",
+    "choices": ["Mastication", "Segmentation", "Peristalsis", "Chymification"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which enzyme is released by the salivary glands?",
+    "choices": ["Lipase", "Amylase", "Pepsin", "Trypsin"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The stomach's acidic environment is created by:",
+    "choices": ["Pancreatic cells", "Parietal cells", "Chief cells", "Enteroendocrine cells"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which organ stores bile for digestion of fats?",
+    "choices": ["Pancreas", "Gallbladder", "Liver", "Duodenum"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is chyme?",
+    "choices": ["Bile fluid", "Partially digested food in the stomach", "Intestinal juice", "Pancreatic secretion"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The majority of nutrient absorption occurs in the:",
+    "choices": ["Stomach", "Large intestine", "Small intestine", "Duodenum only"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Gastric juice contains all of the following EXCEPT:",
+    "choices": ["Pepsin", "Hydrochloric acid", "Intrinsic factor", "Bicarbonate"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which part of the small intestine receives secretions from both the pancreas and liver?",
+    "choices": ["Jejunum", "Ileum", "Duodenum", "Pylorus"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The liver produces which substance to help digest fats?",
+    "choices": ["Lipase", "Bile", "Trypsin", "Amylase"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the function of villi in the small intestine?",
+    "choices": ["Produce enzymes", "Increase surface area for absorption", "Move food along", "Secrete acid"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Pepsin is an enzyme that breaks down:",
+    "choices": ["Carbohydrates", "Fats", "Proteins", "Fiber"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which hormone signals the stomach to begin gastric secretions?",
+    "choices": ["Secretin", "Cholecystokinin", "Gastrin", "Motilin"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The pyloric sphincter controls the movement of chyme from the:",
+    "choices": ["Mouth to esophagus", "Esophagus to stomach", "Stomach to small intestine", "Small to large intestine"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Lipase is produced by both the pancreas and which other organ?",
+    "choices": ["Liver", "Stomach", "Salivary glands", "Small intestine"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the primary role of cholecystokinin (CCK)?",
+    "choices": ["Increase saliva production", "Stimulate pancreatic enzyme release and gallbladder contraction", "Reduce stomach acid", "Increase intestinal motility only"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The ileocecal valve separates the:",
+    "choices": ["Stomach and duodenum", "Jejunum and ileum", "Small and large intestine", "Esophagus and stomach"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which of the following is NOT a function of the large intestine?",
+    "choices": ["Water absorption", "Vitamin K synthesis", "Enzyme secretion", "Feces formation"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Trypsin is activated in the small intestine by:",
+    "choices": ["Hydrochloric acid", "Enterokinase", "Lipase", "Amylase"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Pancreatic amylase breaks down which nutrient in the small intestine?",
+    "choices": ["Proteins", "Carbohydrates", "Fats", "Nucleic acids"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The rectum is the final section of the:",
+    "choices": ["Small intestine", "Stomach", "Large intestine", "Esophagus"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Micelles formed during fat digestion consist primarily of:",
+    "choices": ["Bile salts and lipids", "Proteins and carbohydrates", "Water and minerals", "Enzymes and hormones"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which of the following statements about intrinsic factor is true?",
+    "choices": ["It is produced by the small intestine", "It is required for vitamin B12 absorption", "It digests fats", "It neutralizes stomach acid"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Secretin is released in response to:",
+    "choices": ["Fat entering the small intestine", "Acidic chyme entering the small intestine", "Protein entering the small intestine", "Glucose entering the bloodstream"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The brush border enzymes of the small intestine include all of the following EXCEPT:",
+    "choices": ["Maltase", "Lactase", "Pepsin", "Sucrase"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which cells in the stomach produce mucus to protect the stomach lining?",
+    "choices": ["Chief cells", "Parietal cells", "Enteroendocrine cells", "Mucous neck cells"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Monosaccharides are absorbed in the small intestine primarily through:",
+    "choices": ["Simple diffusion", "Active transport and facilitated diffusion", "Osmosis", "Endocytosis"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The hepatic portal vein carries nutrients from the digestive tract to the:",
+    "choices": ["Heart", "Brain", "Liver", "Kidneys"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Cholecystitis results from inflammation of the:",
+    "choices": ["Pancreas", "Gallbladder", "Liver", "Small intestine"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The main component of saliva that begins carbohydrate digestion is:",
+    "choices": ["Lipase", "Salivary amylase", "Pepsinogen", "Trypsinogen"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which region of the small intestine is the longest?",
+    "choices": ["Duodenum", "Ileum", "Jejunum", "Pylorus"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Pancreatic bicarbonate neutralizes stomach acid in the:",
+    "choices": ["Pylorus", "Duodenum", "Jejunum", "Ileum"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The submandibular gland produces what percentage of total saliva?",
+    "choices": ["10%", "35%", "50%", "70%"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Starch digestion begins in the mouth and is temporarily halted in the stomach due to:",
+    "choices": ["Lack of enzymes", "Low pH and absence of amylase activity", "Rapid movement through the esophagus", "Activation of pepsin"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The zona occludens in intestinal epithelium serves to:",
+    "choices": ["Produce digestive enzymes", "Prevent backward passage of nutrients", "Absorb water", "Secrete hormones"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Cobalamin (vitamin B12) is synthesized by:",
+    "choices": ["The pancreas", "Enterocytes", "Gut bacteria in the colon", "The liver"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The gastrocolic reflex is triggered by:",
+    "choices": ["Fasting", "Food entering the duodenum", "Bile release", "Hormone secretion only"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Fat-soluble vitamins (A, D, E, K) require which substance for absorption?",
+    "choices": ["Hydrochloric acid", "Bile salts", "Pepsin", "Saliva"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which enzyme catalyzes the breakdown of disaccharides at the brush border?",
+    "choices": ["Pancreatic amylase", "Brush border disaccharidases", "Pepsin", "Trypsin"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The sphincter of Oddi controls the release of:",
+    "choices": ["Bile and pancreatic secretions", "Saliva", "Gastric juices", "Intestinal mucus"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Tropical sprue can lead to malabsorption due to damage to:",
+    "choices": ["Stomach lining", "Intestinal epithelium", "Pancreatic ducts", "Esophageal tissue"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The cephalic phase of gastric secretion is initiated by:",
+    "choices": ["Acid in the duodenum", "Sight, smell, or thought of food", "Fat entering the small intestine", "Blood glucose decrease"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Enterokinase activates which zymogens in the small intestine?",
+    "choices": ["Pepsinogen", "Proelastase", "Trypsinogen", "Chymotrypsinogen"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The D-xylose absorption test assesses the integrity of the:",
+    "choices": ["Stomach", "Small intestinal epithelium", "Pancreas", "Large intestine"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which of the following decreases gastric emptying?",
+    "choices": ["High acidity in the duodenum", "Simple carbohydrates", "Low-fat meals", "Fasting state"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  }
+]

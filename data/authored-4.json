@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What is the name of Jupiter's largest moon?",
+    "choices": ["Io", "Ganymede", "Europa", "Callisto"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "How many light-years away is the Andromeda Galaxy from Earth?",
+    "choices": ["2.5 million", "25 million", "250 million", "2.5 billion"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What phenomenon did Arthur Eddington confirm during the 1919 solar eclipse?",
+    "choices": ["Gravitational lensing", "Black hole existence", "Solar wind effects", "Photon mass"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which planet in our solar system has the most moons?",
+    "choices": ["Saturn", "Jupiter", "Uranus", "Neptune"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What was the name of the spacecraft that was the first to land humans on the Moon?",
+    "choices": ["Apollo 11", "Skylab", "Soyuz", "Challenger"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which star is closest to our Sun?",
+    "choices": ["Sirius", "Alpha Centauri", "Proxima Centauri", "Betelgeuse"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the Oort Cloud?",
+    "choices": ["A region of icy bodies surrounding the solar system", "The asteroid belt around Jupiter", "A nebula in the Orion constellation", "The corona of the Sun"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In what year was Pluto reclassified from a planet to a dwarf planet?",
+    "choices": ["2000", "2006", "2008", "2010"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the name of the first artificial satellite launched into Earth's orbit?",
+    "choices": ["Explorer 1", "Vanguard 1", "Sputnik 1", "Telstar"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What are the two main variables in a Hertzsprung-Russell diagram?",
+    "choices": ["Temperature and luminosity", "Mass and radius", "Age and composition", "Rotation and radiation"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the sum of the first 100 positive integers?",
+    "choices": ["5000", "5050", "5150", "5500"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How many prime numbers are there less than 100?",
+    "choices": ["23", "24", "25", "26"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Fermat's Last Theorem?",
+    "choices": ["No three positive integers can satisfy x^n + y^n = z^n for n > 2", "Every even number greater than 2 is the sum of two primes", "For any integer p > 1, either p is prime or a product of primes", "All prime numbers except 2 are odd"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the Collatz Conjecture?",
+    "choices": ["Starting with any positive integer, repeatedly apply: if even divide by 2, if odd multiply by 3 and add 1; sequence always reaches 1", "The sum of angles in any polygon equals (n-2) × 180°", "All even numbers can be expressed as the sum of two primes", "Prime numbers become sparser as integers increase"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the circumference of a circle with radius 5?",
+    "choices": ["10π", "15π", "25π", "30π"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who first proved that the square root of 2 is irrational?",
+    "choices": ["Euclid", "Pythagoras", "Archimedes", "Diophantus"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the greatest common divisor of 48 and 18?",
+    "choices": ["2", "3", "6", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In topology, what is a Möbius strip?",
+    "choices": ["A surface with only one side and one boundary curve", "A three-dimensional shape with infinite volume but finite surface area", "A fractal curve that never intersects itself", "A sphere with a hole through its center"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the Riemann Hypothesis primarily concerned with?",
+    "choices": ["The distribution of prime numbers via the zeros of the Riemann zeta function", "The convergence of infinite series", "The relationship between geometry and algebra", "The nature of complex numbers"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is 2 raised to the power of 10?",
+    "choices": ["512", "1024", "2048", "4096"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Who was the founder of Buddhism?",
+    "choices": ["Siddhartha Gautama (Buddha)", "Mahavira", "Confucius", "Laozi"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the primary sacred text of Judaism?",
+    "choices": ["The Torah", "The Quran", "The Vedas", "The Tripitaka"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In Confucianism, what concept emphasizes proper conduct and propriety in relationships?",
+    "choices": ["Li", "Ren", "Tao", "Dharma"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the Eightfold Path in Buddhism?",
+    "choices": ["The eight steps to enlightenment or Nirvana", "The eight books of the Buddha's teachings", "The eight major Buddhist festivals", "The eight virtues emphasized in Hindu philosophy"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who wrote the Stoic philosophical work 'Meditations'?",
+    "choices": ["Marcus Aurelius", "Epictetus", "Socrates", "Plato"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the central concept of Taoism?",
+    "choices": ["The Tao (the way or path of nature and reality)", "Karma and reincarnation", "Monotheistic worship", "Divine revelation"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What are the Five Pillars in Islamic theology?",
+    "choices": ["Core ritual practices required of all Muslims", "Five major prophets before Muhammad", "Five books of Islamic law", "Five fundamental beliefs about God"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What philosophical concept means that knowledge comes primarily from experience?",
+    "choices": ["Empiricism", "Rationalism", "Idealism", "Nominalism"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who was Socrates' most famous student?",
+    "choices": ["Plato", "Aristotle", "Xenophon", "Aristophanes"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What are the Upanishads?",
+    "choices": ["Ancient Hindu philosophical texts discussing the nature of reality and Brahman", "A collection of Buddhist parables", "The Islamic book of jurisprudence", "A Zoroastrian sacred text"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who composed the famous concerto cycle 'The Four Seasons'?",
+    "choices": ["Antonio Vivaldi", "Johann Sebastian Bach", "George Friedrich Handel", "Wolfgang Amadeus Mozart"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is a sonata in classical music?",
+    "choices": ["A musical composition typically with three or four movements", "A type of dance", "A vocal melody", "A percussion ensemble"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who composed the opera 'The Magic Flute'?",
+    "choices": ["Wolfgang Amadeus Mozart", "Giuseppe Verdi", "Georges Bizet", "Gioachino Rossini"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What musical form features a recurring main theme alternating with contrasting sections?",
+    "choices": ["Rondo", "Fugue", "Canon", "Variation"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Approximately how many strings does a traditional Indian sitar have?",
+    "choices": ["6", "12", "Around 20", "30"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the primary stringed instrument of Japanese classical music?",
+    "choices": ["Koto", "Shamisen", "Erhu", "Pipa"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who composed the famous ballet 'The Nutcracker'?",
+    "choices": ["Pyotr Ilyich Tchaikovsky", "Sergei Prokofiev", "Igor Stravinsky", "Dmitri Shostakovich"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a fugue in classical music?",
+    "choices": ["A polyphonic musical form based on one or more themes and their development", "A fast dance in triple meter", "A solo vocal performance without accompaniment", "A percussion-based rhythm pattern"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Chinese classical music, what bowed stringed instrument produces a singing tone?",
+    "choices": ["Erhu", "Guzheng", "Pipa", "Bamboo flute"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the tonic in music?",
+    "choices": ["The first note of a scale and the key center", "The highest note in a melody", "The lowest note in a chord", "A type of musical instrument"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who wrote the novel 'Don Quixote'?",
+    "choices": ["Miguel de Cervantes", "Gabriel García Márquez", "Jorge Luis Borges", "Federico García Lorca"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Homer's 'Odyssey'?",
+    "choices": ["An epic poem about Odysseus's journey home from Troy", "A philosophical work by Plato", "A history of ancient Greece", "A collection of Greek myths"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who wrote the novel 'One Hundred Years of Solitude'?",
+    "choices": ["Gabriel García Márquez", "Julio Cortázar", "Carlos Fuentes", "Isabelle Allende"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a haiku?",
+    "choices": ["A Japanese poem with three lines of 5, 7, and 5 syllables", "A Chinese landscape painting", "A form of Japanese drama", "A type of martial art"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who wrote the novel 'Pride and Prejudice'?",
+    "choices": ["Jane Austen", "Charlotte Brontë", "George Eliot", "Emily Dickinson"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is Homer's 'Iliad'?",
+    "choices": ["An epic poem about the Trojan War", "A collection of myths about Greek gods", "A philosophical treatise", "A biography of Alexander the Great"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who wrote the novel 'Things Fall Apart' set in colonial Nigeria?",
+    "choices": ["Chinua Achebe", "Wole Soyinka", "Amos Tutuola", "Ben Okri"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a sonnet?",
+    "choices": ["A poem of 14 lines typically in iambic pentameter", "A short lyrical poem", "A narrative poem about a hero", "A poem divided into stanzas of equal length"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who wrote 'The Tale of Genji', considered the world's first novel?",
+    "choices": ["Murasaki Shikibu", "Kenko", "Sei Shonagon", "Abe no Seimei"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is magical realism in literature?",
+    "choices": ["A literary style that blends realistic narrative with magical or fantastical elements", "A genre focused solely on fantasy and imagination", "A philosophical movement emphasizing scientific realism", "A technique of writing in multiple perspectives simultaneously"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  }
+]

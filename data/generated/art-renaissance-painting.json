@@ -1,0 +1,302 @@
+[
+  {
+    "text": "Which Renaissance master painted the fresco 'The Creation of Adam' on the Sistine Chapel ceiling?",
+    "choices": ["Leonardo da Vinci", "Michelangelo Buonarroti", "Raphael", "Botticelli"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the subject of Sandro Botticelli's 'Birth of Venus'?",
+    "choices": ["Venus emerging from the sea", "Venus and Mars in battle", "The judgment of Paris", "Cupid's flight"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Leonardo da Vinci's 'The Last Supper' is housed in which Italian city?",
+    "choices": ["Rome", "Venice", "Milan", "Florence"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which painting by Raphael depicts the school of ancient philosophers gathered in conversation?",
+    "choices": ["Disputa", "School of Athens", "The Transfiguration", "Madonna of the Goldfinch"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Titian's 'Venus of Urbino' is notable for what innovation in Renaissance portraiture?",
+    "choices": ["Use of perspective", "Sensual reclining female nude", "Abstract composition", "Monochromatic palette"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which artist is known for the painting 'The Ambassadors' featuring a famous anamorphic skull?",
+    "choices": ["Albrecht Dürer", "Hans Holbein the Younger", "Jan van Eyck", "Lucas Cranach"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Leonardo da Vinci completed 'The Mona Lisa' during which period of his career?",
+    "choices": ["Early Florence period (1480s)", "Milan period (1490s-1510s)", "Later life in France (1510s-1519)", "Roman period (1515-1520)"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the dominant color in Botticelli's 'Primavera'?",
+    "choices": ["Vibrant gold", "Deep blue", "Rich green", "Crimson red"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Michelangelo's 'David' was originally commissioned for which cathedral?",
+    "choices": ["Florence Cathedral", "St. Peter's Basilica", "Siena Cathedral", "Milan Cathedral"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Northern Renaissance master is famous for the technique of oil glazing?",
+    "choices": ["Albrecht Dürer", "Jan van Eyck", "Lucas Cranach", "Matthias Grünewald"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Leonardo's notebook sketches reveal he studied which scientific discipline extensively?",
+    "choices": ["Alchemy", "Astronomy", "Human anatomy", "Geology"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What patron family commissioned most of Botticelli's major works during the Renaissance?",
+    "choices": ["Visconti", "Medici", "Sforza", "Este"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Raphael's 'Disputa' fresco is located in which Vatican room?",
+    "choices": ["Sistine Chapel", "Raphael Rooms", "Castel Sant'Angelo", "Vatican Library"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How many figures are typically depicted in Leonardo's 'The Last Supper'?",
+    "choices": ["10", "12", "14", "16"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Titian was the dominant painter of Renaissance Venice primarily during which century?",
+    "choices": ["15th", "16th", "17th", "18th"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which technique did Leonardo employ for 'The Last Supper' that proved problematic for preservation?",
+    "choices": ["Fresco", "Tempera on wood", "Oil on plaster", "Egg tempera"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the approximate size (in meters) of Michelangelo's 'David' statue?",
+    "choices": ["2.5", "3.5", "4.2", "5.1"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which artist created the woodcut series 'Apocalypse'?",
+    "choices": ["Lucas Cranach", "Albrecht Dürer", "Hans Burgkmair", "Albrecht Altdorfer"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Botticelli's depiction of Flora in 'Primavera' represents which aspect of spring?",
+    "choices": ["Fertility and growth", "Rain and storms", "Wind and chaos", "Decay and renewal"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Leonardo's mirror writing appears in which medium in his notebooks?",
+    "choices": ["Printed books", "Oil paintings", "Pen and ink", "Chalk drawings"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How long did Michelangelo spend painting the Sistine Chapel ceiling?",
+    "choices": ["2 years", "4 years", "6 years", "8 years"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Renaissance work depicts a donor portrait kneeling before the Virgin Mary?",
+    "choices": ["Van Eyck's 'The Ghent Altarpiece'", "Raphael's 'Sistine Madonna'", "Titian's 'Assumption'", "Botticelli's 'Mystic Nativity'"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Raphael's Madonna paintings often feature which Northern Italian landscape?",
+    "choices": ["Venetian lagoons", "Alpine mountains", "Tuscan hills", "Lombard plains"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What mathematical principle did Renaissance artists use to create spatial illusion?",
+    "choices": ["Golden ratio", "Linear perspective", "Fibonacci sequence", "Harmonic proportion"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Titian's 'Assumption of the Virgin' uses a revolutionary compositional device with figures arranged in how many zones?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which panel of van Eyck's Ghent Altarpiece features Adam and Eve?",
+    "choices": ["Upper tier", "Middle wings", "Lower exterior wings", "Central panels"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Leonardo da Vinci's 'Virgin of the Rocks' exists in two versions housed where?",
+    "choices": ["Both in Florence", "Louvre and National Gallery", "Uffizi and Vatican", "Milan and Venice"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Renaissance master wrote a detailed treatise on human proportions titled 'Four Books on Human Proportion'?",
+    "choices": ["Leonardo da Vinci", "Albrecht Dürer", "Michelangelo Buonarroti", "Raphael"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Michelangelo's 'Night' from the Medici Chapel represents sleep through what symbolic attribute?",
+    "choices": ["A poppy", "An owl", "Closed eyes", "A veil"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How does Botticelli achieve the illusion of wind in 'The Birth of Venus'?",
+    "choices": ["Diagonal composition", "Fluttering drapery", "Bent grasses", "Wavy water"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Raphael died at what age during the height of his career?",
+    "choices": ["27", "31", "37", "42"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the primary subject matter of Leonardo's anatomical drawings?",
+    "choices": ["Skeletal systems", "Internal organs and circulation", "Facial features", "Muscle groups"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Titian's color technique is primarily characterized by what painting method?",
+    "choices": ["Precise linear brushwork", "Impasto and loose brushstrokes", "Glazing and scumbling", "Pointillist dots"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Northern Renaissance artist was known for detailed, jewel-like miniatures and religious works?",
+    "choices": ["Lucas Cranach the Elder", "Hans Burgkmair", "Jan van Eyck", "Albrecht Altdorfer"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Leonardo's 'Last Supper,' Judas is distinguished by which compositional element?",
+    "choices": ["Sitting apart from others", "Knocking over salt", "Positioned in shadow", "Facing backward"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Michelangelo's 'Pietà' was created during which phase of the Renaissance?",
+    "choices": ["Early Renaissance", "High Renaissance", "Mannerism", "Late Renaissance"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What innovative use of light characterizes Caravaggio's influence on Northern Renaissance masters?",
+    "choices": ["Soft diffused glow", "Chiaroscuro contrasts", "Golden luminosity", "Atmospheric perspective"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Raphael's cartoon preparatory drawings for tapestries are housed primarily where?",
+    "choices": ["Uffizi Gallery", "Louvre", "Victoria and Albert Museum", "Vatican Museums"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which characteristic distinguishes van Eyck's oil painting technique from earlier tempera methods?",
+    "choices": ["Speed of execution", "Rich luminosity and depth", "Broader brushstrokes", "Flatter color planes"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Leonardo's 'Study of Five Grotesque Heads' exemplifies his interest in what aspect of art?",
+    "choices": ["Emotional expression", "Physiognomy and character types", "Caricature techniques", "Demographic variety"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary architectural setting depicted in Raphael's 'School of Athens'?",
+    "choices": ["Basilica interior", "Classical portico", "Vaulted hall", "Open-air agora"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Botticelli's later works show the influence of which religious reformer's teachings?",
+    "choices": ["Martin Luther", "John Calvin", "Girolamo Savonarola", "Pope Leo X"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How does Titian handle atmospheric perspective differently than earlier Renaissance masters?",
+    "choices": ["Eliminates distant detail", "Uses warm-to-cool color shifts", "Employs multiple vanishing points", "Abandons linear perspective"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Dürer work is a self-portrait presented as an altarpiece with religious implications?",
+    "choices": ["'Young Man in a Turban'", "'Self-Portrait at 26'", "'Self-Portrait as Christ'", "'Young Hare'"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Michelangelo's 'Rebellious Slave' demonstrates which sculptural principle?",
+    "choices": ["Complete anatomical realism", "Contrapposto stance", "Unfinished emerging form", "Idealized proportions"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What iconographic innovation does Leonardo introduce in his 'Virgin of the Rocks'?",
+    "choices": ["Private devotional intimacy", "Intertwined gesture language", "Nocturnal setting", "Architectural frame"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Van Eyck's 'Arnolfini Portrait' contains numerous hidden symbols; what does the mirror primarily signify?",
+    "choices": ["Vanity", "Witness to the event", "Divine surveillance", "Truth and clarity"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "How does Raphael's use of sfumato in portraits differ from Leonardo's application?",
+    "choices": ["More defined edges", "Stronger modeling", "Lighter application", "Atmospheric blur"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Botticelli's mythological paintings may have encoded which Renaissance intellectual movement?",
+    "choices": ["Scholasticism", "Neoplatonism", "Aristotelianism", "Stoicism"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What experimental technique did Leonardo employ in 'The Last Supper' to achieve tonal subtlety?",
+    "choices": ["True fresco", "Oil on dry plaster", "Tempera underpainting", "Charcoal and chalk"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  }
+]

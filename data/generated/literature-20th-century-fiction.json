@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Who authored the dystopian novel '1984'?",
+    "choices": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Kurt Vonnegut"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is Jay Gatsby's primary obsession in 'The Great Gatsby'?",
+    "choices": ["Daisy Buchanan", "Wealth accumulation", "Social status", "Political power"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Ernest Hemingway's 'A Farewell to Arms' is set during which conflict?",
+    "choices": ["World War I", "Spanish Civil War", "World War II", "American Civil War"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who wrote the modernist novel 'Ulysses'?",
+    "choices": ["James Joyce", "T.S. Eliot", "Ezra Pound", "W.B. Yeats"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In 'One Hundred Years of Solitude', the fictional town where the Buendía family lives is called:",
+    "choices": ["Macondo", "Aracataca", "Remedios", "San Fernando"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the name of the totalitarian state in Orwell's '1984'?",
+    "choices": ["Oceania", "Eurasia", "Eastasia", "The Empire"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Virginia Woolf's 'Mrs. Dalloway' takes place over the course of:",
+    "choices": ["A single day", "One week", "One month", "One year"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In Kafka's 'The Metamorphosis', Gregor Samsa transforms into a:",
+    "choices": ["Beetle", "Cockroach", "Spider", "Insect (unspecified)"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "John Steinbeck's 'The Grapes of Wrath' depicts the migration of displaced farmers during the:",
+    "choices": ["Great Depression and Dust Bowl", "Great War era", "Roaring Twenties", "Post-WWII boom"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "J.D. Salinger's 'The Catcher in the Rye' is narrated by:",
+    "choices": ["Holden Caulfield", "Phineas Finn", "Judson Caulfield", "Philip Marlowe"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "William Faulkner's novels are primarily set in which fictional county?",
+    "choices": ["Yoknapatawpha County", "Jefferson County", "Maycomb County", "Hadleyburg"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Harper Lee's 'To Kill a Mockingbird' features a character named:",
+    "choices": ["Scout Finch", "Atticus Cole", "Mayella Stone", "Dill Larson"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Joyce's 'Ulysses' parallels which classical epic?",
+    "choices": ["The Odyssey", "The Iliad", "The Aeneid", "Beowulf"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which animal farm leadership structure is established in Orwell's 'Animal Farm'?",
+    "choices": ["Democratic assembly", "Two-pig dictatorship evolving into one-pig rule", "Collective animal commune", "Horse-led meritocracy"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Hemingway's 'The Old Man and the Sea' centers on an elderly fisherman's struggle with:",
+    "choices": ["Poverty and despair", "A giant marlin", "His past regrets", "Tropical storms"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Gabriel García Márquez's literary technique is best described as:",
+    "choices": ["Strict realism", "Magical realism", "Surrealism", "Naturalism"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In '1984', the language 'Newspeak' is designed to:",
+    "choices": ["Improve communication", "Limit independent thought", "Promote democratic values", "Expand vocabulary"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Fitzgerald's recurring image of a green light in 'The Great Gatsby' symbolizes:",
+    "choices": ["Environmental renewal", "Gatsby's desires and the American Dream", "Money and greed", "Hope for democracy"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Samuel Beckett's 'Waiting for Godot' is classified as which dramatic form?",
+    "choices": ["Comedy of manners", "Absurdist play", "Melodrama", "Kitchen sink drama"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Aldous Huxley's 'Brave New World' envisions a future society based on:",
+    "choices": ["Religious doctrine", "Genetic engineering and pleasure-conditioning", "Technological domination", "Anarchist principles"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Kurt Vonnegut's 'Slaughterhouse-Five' employs the phrase 'So it goes' to reflect:",
+    "choices": ["Comic relief", "Acceptance of death and determinism", "Nostalgic memory", "Scientific truth"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Albert Camus' 'The Stranger' is narrated by a protagonist who is:",
+    "choices": ["Deeply emotional", "Emotionally detached and indifferent", "Highly introspective", "Socially adept"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which modernist poet wrote 'The Waste Land'?",
+    "choices": ["Ezra Pound", "W.H. Auden", "T.S. Eliot", "Wallace Stevens"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Patricia Highsmith's 'The Talented Mr. Ripley' protagonist is defined by:",
+    "choices": ["Moral integrity", "Masterful deception and manipulation", "Romantic idealism", "Political conviction"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Fitzgerald's 'Tender Is the Night', the protagonist's name is:",
+    "choices": ["Nick Carraway", "Dick Diver", "Tom Buchanan", "Abe North"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Virginia Woolf's essay 'A Room of One's Own' argues that women need:",
+    "choices": ["Political representation", "Economic independence and creative privacy", "Formal education alone", "Male mentorship"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The literary movement known as the 'Lost Generation' refers to:",
+    "choices": ["Harlem Renaissance writers", "Post-WWI American expatriate writers", "Beat poets of the 1950s", "Victorian romantics"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Jack Kerouac's 'On the Road' is a defining text of:",
+    "choices": ["The Harlem Renaissance", "The Beat Generation", "Modernism", "Minimalism"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In 'Mrs. Dalloway', Woolf employs which narrative technique?",
+    "choices": ["Third-person omniscience", "Stream of consciousness", "Epistolary form", "Unreliable narrator"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Eugène Ionesco's 'Rhinoceros' uses transformation into rhinoceroses as a metaphor for:",
+    "choices": ["Evolution and progress", "Conformity and totalitarianism", "Individualism and rebellion", "Biological mutation"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "William Golding's 'Lord of the Flies' explores the collapse of:",
+    "choices": ["Military discipline", "Civilization among marooned boys", "Adult supervision", "Religious faith"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who wrote 'Molloy', a key work of absurdist literature?",
+    "choices": ["Eugène Ionesco", "Samuel Beckett", "Albert Camus", "Jean-Paul Sartre"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In García Márquez's 'One Hundred Years of Solitude', Colonel Aureliano's compulsive creation of gold fish represents:",
+    "choices": ["Wealth obsession", "Cyclical futility and existential repetition", "Artistic perfection", "Scientific innovation"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "James Joyce's 'Finnegans Wake' is characterized by:",
+    "choices": ["Linear chronology", "Experimental language and cyclical structure", "Straightforward narrative", "Victorian propriety"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Italo Calvino's 'Invisible Cities' presents dialogues between:",
+    "choices": ["Philosophers and scholars", "Marco Polo and Kublai Khan", "Lovers in medieval Venice", "Modern tourists"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "T.S. Eliot's 'The Waste Land' uses the search for the Holy Grail to symbolize:",
+    "choices": ["Religious salvation alone", "Spiritual renewal in a fragmented modern world", "Medieval chivalry", "Historical nostalgia"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In Camus' 'The Plague', the plague serves primarily as a metaphor for:",
+    "choices": ["Medical catastrophe", "Absurdism and human solidarity in suffering", "Divine punishment", "Moral decay"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "William Faulkner's 'As I Lay Dying' relies on:",
+    "choices": ["Third-person observation", "Multiple interior monologues from different perspectives", "Chronological narrative", "Epistolary structure"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Orwell's '1984', the concept of 'doublethink' enables citizens to:",
+    "choices": ["Think logically", "Hold contradictory beliefs simultaneously", "Resist authority effectively", "Communicate precisely"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Doris Lessing's 'The Golden Notebook' uses colored notebooks to explore:",
+    "choices": ["Chronological progression", "Fragmentation of consciousness and political identity", "Multiple romantic relationships", "Career advancement"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Nathalie Sarraute's literary style in 'Tropisms' fragments narrative into:",
+    "choices": ["Chronological episodes", "Microscopic psychological moments", "Poetic verse forms", "Philosophical arguments"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Vladimir Nabokov's 'Pale Fire' is structured as:",
+    "choices": ["A traditional novel", "A poem with extensive critical commentary", "A collection of letters", "A series of essays"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Joyce's 'A Portrait of the Artist as a Young Man', the protagonist's name is:",
+    "choices": ["Leopold Bloom", "Stephen Dedalus", "Buck Mulligan", "Molly Bloom"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Hemingway's 'iceberg theory' of writing proposes that:",
+    "choices": ["Descriptive detail is paramount", "Most meaning lies beneath the surface", "Dialogue drives narrative", "Emotion supersedes plot"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Jean-Paul Sartre's existentialist philosophy profoundly influenced which literary movement?",
+    "choices": ["Romanticism", "Existential and absurdist fiction", "Naturalism", "Formalism"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  }
+]

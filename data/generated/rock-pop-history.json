@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Which singer is widely called the King of Rock and Roll?",
+    "choices": ["Buddy Holly", "Elvis Presley", "Chuck Berry", "Little Richard"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which band recorded the album Sgt. Pepper's Lonely Hearts Club Band?",
+    "choices": ["The Rolling Stones", "The Beatles", "The Who", "The Kinks"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who wrote and performed 'Like a Rolling Stone'?",
+    "choices": ["Bob Dylan", "Neil Young", "Paul Simon", "Joni Mitchell"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which album made Michael Jackson a global superstar in 1982?",
+    "choices": ["Bad", "Thriller", "Off the Wall", "Dangerous"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which artist is often called the Queen of Pop?",
+    "choices": ["Cher", "Madonna", "Cyndi Lauper", "Diana Ross"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which band performed 'Bohemian Rhapsody'?",
+    "choices": ["Queen", "Eagles", "Journey", "Boston"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which grunge band released 'Smells Like Teen Spirit'?",
+    "choices": ["Pearl Jam", "Soundgarden", "Nirvana", "Alice in Chains"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which band released the classic album Rumours?",
+    "choices": ["Fleetwood Mac", "The Pretenders", "Heart", "Chicago"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What 1969 festival became a symbol of the counterculture era?",
+    "choices": ["Monterey Pop", "Woodstock", "Live Aid", "The Isle of Wight Festival"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which singer is famous for 'Superstition' and 'Isn't She Lovely'?",
+    "choices": ["Stevie Wonder", "Lionel Richie", "Barry White", "George Benson"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which band had a major hit with 'Satisfaction' in the 1960s?",
+    "choices": ["The Doors", "The Rolling Stones", "The Beatles", "The Animals"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which soul singer recorded 'Respect' and became a major voice of the 1960s?",
+    "choices": ["Aretha Franklin", "Dionne Warwick", "Etta James", "Gladys Knight"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which group sang 'Stayin' Alive' and helped define disco?",
+    "choices": ["ABBA", "Bee Gees", "KC and the Sunshine Band", "The Village People"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which music television channel launched in 1981?",
+    "choices": ["VH1", "MTV", "BET", "CMT"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which singer wrote and recorded 'Born to Run'?",
+    "choices": ["Tom Petty", "Bruce Springsteen", "John Mellencamp", "Jackson Browne"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which musician was known as the Queen of Rock 'n' Roll?",
+    "choices": ["Janis Joplin", "Tina Turner", "Pat Benatar", "Stevie Nicks"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which artist released the 1984 album Purple Rain?",
+    "choices": ["Prince", "Michael Jackson", "Rick James", "George Michael"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Irish band is fronted by Bono?",
+    "choices": ["U2", "The Cranberries", "The Corrs", "Westlife"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which band recorded 'Hotel California'?",
+    "choices": ["The Eagles", "Lynyrd Skynyrd", "America", "The Byrds"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which punk band released 'Anarchy in the U.K.'?",
+    "choices": ["The Clash", "The Sex Pistols", "Buzzcocks", "The Jam"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which singer recorded 'I Wanna Dance with Somebody'?",
+    "choices": ["Whitney Houston", "Patty LaBelle", "Janet Jackson", "Anita Baker"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which album by The Beach Boys is often cited as a pop masterpiece?",
+    "choices": ["Wild Honey", "Pet Sounds", "Smiley Smile", "Sunflower"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which hard rock band released Led Zeppelin IV?",
+    "choices": ["Aerosmith", "Led Zeppelin", "Deep Purple", "Black Sabbath"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which song helped Cyndi Lauper become a pop icon in the 1980s?",
+    "choices": ["Time After Time", "Girls Just Want to Have Fun", "True Colors", "All Through the Night"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What charity concert series featured Queen's famous 1985 performance at Wembley?",
+    "choices": ["Farm Aid", "Live Aid", "We Are the World", "Rock in Rio"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which duo recorded 'Bridge Over Troubled Water'?",
+    "choices": ["Simon & Garfunkel", "Hall & Oates", "Seals and Crofts", "The Everly Brothers"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which British punk band released London Calling?",
+    "choices": ["The Clash", "The Damned", "The Undertones", "X-Ray Spex"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Swedish group became a global pop phenomenon with 'Dancing Queen'?",
+    "choices": ["ABBA", "A-ha", "Roxette", "Ace of Base"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which singer became famous for 'Vision of Love' and whistle notes?",
+    "choices": ["Mariah Carey", "Celine Dion", "Toni Braxton", "Anastacia"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which band's 1991 album Nevermind helped bring alternative rock into the mainstream?",
+    "choices": ["Pearl Jam", "Nirvana", "R.E.M.", "The Smashing Pumpkins"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which singer fronted Wham! before launching a solo career?",
+    "choices": ["George Michael", "Bryan Ferry", "Paul Young", "Howard Jones"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which album by Bruce Springsteen includes 'Dancing in the Dark'?",
+    "choices": ["Nebraska", "Born in the U.S.A.", "Tunnel of Love", "The River"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which female artist released 'Like a Prayer' in 1989?",
+    "choices": ["Madonna", "Michele Shocked", "Sade", "Debbie Gibson"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which band recorded the 1980 album Back in Black?",
+    "choices": ["AC/DC", "Van Halen", "Def Leppard", "Kiss"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which song was the first music video aired on MTV?",
+    "choices": ["Video Killed the Radio Star", "Take on Me", "Money for Nothing", "Flashdance... What a Feeling"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which album by Fleetwood Mac includes 'Dreams' and 'Go Your Own Way'?",
+    "choices": ["Tusk", "Rumours", "Mirage", "Bare Trees"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which rock band released The Dark Side of the Moon?",
+    "choices": ["Pink Floyd", "Yes", "Genesis", "King Crimson"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which song by The Beatles famously opens with 'Hey Jude'?",
+    "choices": ["Yesterday", "Hey Jude", "Let It Be", "Come Together"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which pop singer had a hit with 'Girls Just Want to Have Fun'?",
+    "choices": ["Cyndi Lauper", "Madonna", "Pat Benatar", "Belinda Carlisle"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which album by Prince served as the soundtrack to the film of the same name?",
+    "choices": ["Diamonds and Pearls", "Purple Rain", "Sign o' the Times", "Controversy"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which band recorded 'Don't Stop Believin''?",
+    "choices": ["Foreigner", "Journey", "Boston", "REO Speedwagon"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which band released Appetite for Destruction in 1987?",
+    "choices": ["Guns N' Roses", "Motley Crue", "Bon Jovi", "Poison"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which singer recorded the 1971 song 'Imagine'?",
+    "choices": ["Paul McCartney", "John Lennon", "George Harrison", "Ringo Starr"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which band released The Joshua Tree?",
+    "choices": ["U2", "Simple Minds", "The Waterboys", "The Pogues"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which artist turned 'I Will Always Love You' into a huge 1990s hit?",
+    "choices": ["Celine Dion", "Whitney Houston", "Mariah Carey", "Annie Lennox"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which album by the Bee Gees is linked to the Saturday Night Fever era?",
+    "choices": ["Spirits Having Flown", "Main Course", "Saturday Night Fever soundtrack", "Odessa"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which band sang 'With or Without You'?",
+    "choices": ["Simple Minds", "The Cure", "U2", "INXS"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which singer released the 1995 album Jagged Little Pill?",
+    "choices": ["Alanis Morissette", "Sheryl Crow", "Melissa Etheridge", "Fiona Apple"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which pop artist had a signature hit with 'Vogue'?",
+    "choices": ["Cher", "Madonna", "Bette Midler", "Paula Abdul"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which band released the 1986 album Slippery When Wet?",
+    "choices": ["Bon Jovi", "Def Leppard", "Mötley Crüe", "Scorpions"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which song by The Police features the lyric 'Every breath you take'?",
+    "choices": ["Roxanne", "Message in a Bottle", "Every Breath You Take", "Don't Stand So Close to Me"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Police album includes 'Every Breath You Take'?",
+    "choices": ["Outlandos d'Amour", "Zenyatta Mondatta", "Ghost in the Machine", "Synchronicity"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which song became a signature anthem for Journey and later a karaoke staple?",
+    "choices": ["Open Arms", "Wheel in the Sky", "Faithfully", "Don't Stop Believin'"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which band recorded the 1987 hit 'Sweet Child O' Mine'?",
+    "choices": ["Aerosmith", "Guns N' Roses", "Bon Jovi", "Van Halen"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which artist's 1986 album 'True Blue' included the song 'Papa Don't Preach'?",
+    "choices": ["Cyndi Lauper", "Madonna", "Janet Jackson", "Pat Benatar"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which singer recorded 'What's Love Got to Do with It'?",
+    "choices": ["Tina Turner", "Donna Summer", "Chaka Khan", "Diana Ross"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which album by Michael Jackson features 'Billie Jean' and 'Beat It'?",
+    "choices": ["Off the Wall", "Thriller", "Bad", "HIStory"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which band released the 1965 album Rubber Soul?",
+    "choices": ["The Beatles", "The Kinks", "The Hollies", "The Yardbirds"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which British singer became known for the pop hit 'Careless Whisper'?",
+    "choices": ["George Michael", "Elton John", "Phil Collins", "Mick Hucknall"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which rock festival in 1985 was designed to raise money for famine relief?",
+    "choices": ["Live Aid", "Concert for Bangladesh", "Farm Aid", "Live 8"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which band released the 1977 punk album Never Mind the Bollocks, Here's the Sex Pistols?",
+    "choices": ["The Clash", "Sex Pistols", "Buzzcocks", "The Damned"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which singer made 'Toxic' one of the defining pop hits of the 2000s?",
+    "choices": ["Britney Spears", "Christina Aguilera", "Kelly Clarkson", "Jessica Simpson"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which band released the album Dookie in 1994?",
+    "choices": ["Green Day", "Blink-182", "Weezer", "No Doubt"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which song did John Lennon record as a plea for peace in 1971?",
+    "choices": ["Imagine", "Mind Games", "Give Peace a Chance", "Mother"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which girl group had a hit with 'Wannabe' in 1996?",
+    "choices": ["All Saints", "The Spice Girls", "Atomic Kitten", "Sugababes"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which album by Radiohead featured 'Paranoid Android' and 'Karma Police'?",
+    "choices": ["OK Computer", "Kid A", "The Bends", "Hail to the Thief"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which singer recorded the 1981 hit 'Bette Davis Eyes'?",
+    "choices": ["Kim Carnes", "Joan Jett", "Pat Benatar", "Belinda Carlisle"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which band released 'Losing My Religion' and became a major alternative rock act?",
+    "choices": ["R.E.M.", "The Replacements", "Pixies", "The Smiths"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What 1992 Wembley concert honored Freddie Mercury and raised funds for AIDS charities?",
+    "choices": ["Live Aid", "The Freddie Mercury Tribute Concert", "Farm Aid", "Rock in Rio"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which 1975 album by Bruce Springsteen included 'Born to Run'?",
+    "choices": ["Greetings from Asbury Park, N.J.", "The Wild, the Innocent & the E Street Shuffle", "Born to Run", "Darkness on the Edge of Town"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which band released the song 'Under Pressure' with David Bowie?",
+    "choices": ["Queen", "U2", "The Police", "INXS"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which album is considered the breakthrough for Alanis Morissette in North America?",
+    "choices": ["Supposed Former Infatuation Junkie", "Jagged Little Pill", "Under Rug Swept", "Flavors of Entanglement"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which singer recorded the 1987 album Faith?",
+    "choices": ["George Michael", "Phil Collins", "Billy Ocean", "Rick Astley"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which band released the 1970 album Bridge Over Troubled Water?",
+    "choices": ["Simon & Garfunkel", "Crosby, Stills & Nash", "The Mamas & the Papas", "The Everly Brothers"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Bruce Springsteen album became one of the biggest-selling records of the 1980s?",
+    "choices": ["Nebraska", "Born in the U.S.A.", "The River", "Tunnel of Love"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which song did the Buggles record as a comment on television's effect on music?",
+    "choices": ["Video Killed the Radio Star", "One Step Beyond", "The Message", "Video Phone"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which band released the 1973 album The Dark Side of the Moon?",
+    "choices": ["Pink Floyd", "Yes", "Genesis", "Supertramp"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which singer had a 1990 hit with 'Nothing Compares 2 U'?",
+    "choices": ["Sinead O'Connor", "Annie Lennox", "Macy Gray", "Lisa Stansfield"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which artist won the first season of American Idol and helped define 2000s pop-rock radio?",
+    "choices": ["Kelly Clarkson", "Carrie Underwood", "Fantasia", "Jordin Sparks"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which band recorded the 1990 hit 'Losing My Religion'?",
+    "choices": ["R.E.M.", "The Cure", "U2", "Soundgarden"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which singer released the 1989 album ...Baby One More Time as her debut?",
+    "choices": ["Britney Spears", "Jessica Simpson", "Christina Aguilera", "Mandy Moore"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which band released the single 'Wonderwall'?",
+    "choices": ["Blur", "Oasis", "Pulp", "The Verve"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which album by AC/DC features 'You Shook Me All Night Long'?",
+    "choices": ["Back in Black", "Highway to Hell", "For Those About to Rock", "Let There Be Rock"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which singer is associated with the album 21 and the hit 'Rolling in the Deep'?",
+    "choices": ["Adele", "Leona Lewis", "Duffy", "Amy Winehouse"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which band had a breakthrough with the song 'Californication'?",
+    "choices": ["Red Hot Chili Peppers", "Foo Fighters", "Stone Temple Pilots", "Weezer"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which artist is known for the 1997 album The Miseducation of Lauryn Hill?",
+    "choices": ["Lauryn Hill", "Macy Gray", "Erykah Badu", "TLC"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which band's 1983 album Frontiers included the hit 'Faithfully'?",
+    "choices": ["Journey", "Foreigner", "Boston", "REO Speedwagon"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which band is credited with the 1984 song 'Purple Rain'?",
+    "choices": ["Prince and The Revolution", "The Time", "Sly and the Family Stone", "Parliament"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which song by Madonna helped define her 1980s image and became a big MTV staple?",
+    "choices": ["Like a Virgin", "Holiday", "Material Girl", "Borderline"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which rock album by Pink Floyd is known for its prism cover and the song 'Money'?",
+    "choices": ["Wish You Were Here", "Animals", "The Wall", "The Dark Side of the Moon"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  }
+]

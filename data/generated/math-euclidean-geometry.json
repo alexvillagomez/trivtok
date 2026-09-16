@@ -1,0 +1,320 @@
+[
+  {
+    "text": "What is the sum of all interior angles in any triangle?",
+    "choices": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "In an equilateral triangle, each interior angle measures how many degrees?",
+    "choices": ["45", "60", "75", "90"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "A circle's diameter is 14 cm. What is its radius?",
+    "choices": ["7 cm", "14 cm", "21 cm", "28 cm"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "How many sides does a regular hexagon have?",
+    "choices": ["5", "6", "7", "8"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the area of a square with side length 5?",
+    "choices": ["10", "20", "25", "30"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In a right triangle, one leg is 3 and the other is 4. By the Pythagorean theorem, the hypotenuse is?",
+    "choices": ["5", "6", "7", "8"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The perimeter of a rectangle is 2(length + width). If length is 8 and width is 5, what is the perimeter?",
+    "choices": ["13", "26", "40", "80"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "An isosceles triangle has two equal sides of length 6 and a base of 8. What is the triangle's perimeter?",
+    "choices": ["14", "18", "20", "24"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The formula for the area of a triangle is (1/2) × base × height. A triangle has base 10 and height 6. What is its area?",
+    "choices": ["30", "60", "90", "120"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A circle has circumference 10π. What is its radius?",
+    "choices": ["5", "10", "2.5", "20"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the measure of each interior angle in a regular pentagon?",
+    "choices": ["72 degrees", "90 degrees", "108 degrees", "120 degrees"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A right isosceles triangle has legs of length 5. What is the length of its hypotenuse, rounded to one decimal place?",
+    "choices": ["7.1", "6.5", "7.9", "8.2"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the area of a circle with radius 3?",
+    "choices": ["3π", "6π", "9π", "12π"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In a rectangle, the length is twice the width. If the width is 4, what is the area?",
+    "choices": ["16", "24", "32", "48"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the circumference of a circle with diameter 7?",
+    "choices": ["7π", "14π", "49π", "3.5π"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In an isosceles right triangle, if each leg has length 1, what is the hypotenuse?",
+    "choices": ["√2", "√3", "2", "√5"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A trapezoid has parallel sides of 6 and 10, and height 4. What is its area?",
+    "choices": ["32", "40", "48", "56"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Two angles in a triangle are 50° and 70°. What is the third angle?",
+    "choices": ["40°", "50°", "60°", "70°"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "A 5-12-13 triangle satisfies the Pythagorean theorem. What type of triangle is it?",
+    "choices": ["Acute", "Right", "Obtuse", "Equilateral"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The angle inscribed in a semicircle is always what?",
+    "choices": ["45°", "60°", "90°", "120°"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In a circle, a chord 6 units long is at distance 4 from the center. What is the radius?",
+    "choices": ["5", "6", "7", "8"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "A regular octagon has 8 equal sides. What is the sum of its interior angles?",
+    "choices": ["720°", "900°", "1080°", "1440°"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Two similar triangles have a side ratio of 2:3. If the smaller triangle's area is 20, what is the larger triangle's area?",
+    "choices": ["30", "40", "45", "60"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A rectangle has diagonal length 13 and one side of length 5. What is the other side?",
+    "choices": ["8", "10", "12", "14"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "An arc subtends a central angle of 60° in a circle of radius 6. What is the arc length?",
+    "choices": ["2π", "4π", "6π", "12π"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The area of a sector with central angle 90° in a circle of radius 4 is?",
+    "choices": ["4π", "8π", "16π", "32π"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "If two triangles are similar with linear scale factor 2, what is the ratio of their areas?",
+    "choices": ["2:1", "4:1", "8:1", "16:1"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In a right triangle with hypotenuse 10 and one leg 6, what is the other leg?",
+    "choices": ["6", "7", "8", "9"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The sum of interior angles in a quadrilateral is?",
+    "choices": ["180°", "270°", "360°", "450°"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A tangent line to a circle at the point of tangency is perpendicular to which line?",
+    "choices": ["A chord", "A secant", "A radius", "An arc"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In a circle, two chords intersect. If their segments are 4, 5 and 2, x respectively, what is x?",
+    "choices": ["10", "20", "8", "12"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "A regular hexagon with side length 2 has what area?",
+    "choices": ["6√3", "8√3", "12√3", "16√3"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In a triangle with sides 7, 8, and 9, is the triangle acute, right, or obtuse?",
+    "choices": ["Acute", "Right", "Obtuse", "Cannot determine"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The distance from the center of a circle to a tangent line equals?",
+    "choices": ["The diameter", "The radius", "Twice the radius", "The chord length"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "A triangle has sides 5, 5, and 8. Using Heron's formula, what is its area approximately?",
+    "choices": ["10", "12", "14", "16"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In a circle of radius 5, a chord is 8 units long. How far is the chord from the center?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Two circles have radii 3 and 5. If they are externally tangent, what is the distance between their centers?",
+    "choices": ["2", "5", "8", "15"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "An angle inscribed in a circle is 35°. What is the central angle that subtends the same arc?",
+    "choices": ["35°", "50°", "70°", "105°"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The power of a point 10 units from the center of a circle with radius 6 is?",
+    "choices": ["4", "16", "64", "100"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "A triangle with vertices at (0,0), (3,0), and (0,4) has what area?",
+    "choices": ["5", "6", "12", "20"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "If the altitude to the hypotenuse of a right triangle divides it into segments 4 and 9, what is the altitude length?",
+    "choices": ["6", "6.5", "7", "8"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A cyclic quadrilateral has opposite angles that sum to what?",
+    "choices": ["180°", "270°", "360°", "540°"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Three circles with radius 1 are mutually tangent externally. What is the area of the triangle formed by their centers?",
+    "choices": ["√3", "2√3", "3√3", "4√3"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In a regular polygon, if each interior angle is 144°, how many sides does it have?",
+    "choices": ["8", "9", "10", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "A parabolic arc has vertex at (0,0) and passes through (2,4). If it follows y=x², what is y when x=3?",
+    "choices": ["6", "8", "9", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In a trapezoid with parallel sides 10 and 20 and equal legs of length 13, what is the height?",
+    "choices": ["10", "11", "12", "13"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The ratio of the circumradius to inradius of a regular hexagon with side s is?",
+    "choices": ["1:1", "2:1", "√3:1", "2:√3"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "If a square is inscribed in a circle of radius 5, what is the side length of the square?",
+    "choices": ["5", "5√2", "10/√2", "2.5√2"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In triangle ABC, angle A = 60°, sides b=5 and c=7. Using the Law of Cosines, what is side a approximately?",
+    "choices": ["5.5", "6.2", "7.1", "8.0"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "A regular tetrahedron has edge length 2. What is the distance from a vertex to the opposite face?",
+    "choices": ["√6/2", "√6", "2√6/3", "2√6"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Two secants from an external point intersect a circle. If their external segments are 2 and 3, and the chord lengths are 4 and 5 respectively, is this configuration valid?",
+    "choices": ["Yes, always valid", "No, violates power of a point", "Only if circle is large", "Depends on orientation"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In a triangle with angles 30°, 60°, 90° and hypotenuse 10, the side opposite the 30° angle is?",
+    "choices": ["5", "5√3", "2.5", "10/√3"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The radical axis of two circles is perpendicular to the line joining their centers. It passes through points of equal power. For circles centered at (0,0) and (4,0) with radii 3 and 2, where does the radical axis intersect the x-axis?",
+    "choices": ["(1.2, 0)", "(1.5, 0)", "(2.0, 0)", "(2.4, 0)"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  }
+]

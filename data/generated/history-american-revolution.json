@@ -1,0 +1,290 @@
+[
+  {
+    "text": "In what year did the American Revolution begin with armed conflict?",
+    "choices": ["1773", "1775", "1777", "1781"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which act by Parliament sparked outrage when it taxed tea shipments?",
+    "choices": ["Townshend Acts", "Sugar Act", "Tea Act", "Stamp Act"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was the primary purpose of the Stamp Act?",
+    "choices": ["Tax colonial newspapers and legal documents", "Create a postal system", "Regulate trade routes", "Prevent smuggling"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which event involved colonists throwing tea into Boston Harbor?",
+    "choices": ["Boston Port Act", "Boston Massacre", "Boston Tea Party", "Boston Blockade"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Who was the primary author of the Declaration of Independence?",
+    "choices": ["Benjamin Franklin", "John Adams", "Thomas Jefferson", "Samuel Adams"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In what year was the Declaration of Independence signed?",
+    "choices": ["1774", "1776", "1778", "1780"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which general commanded the Continental Army?",
+    "choices": ["Benedict Arnold", "George Washington", "Marquis de Lafayette", "Nathanael Greene"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What was the 'Intolerable Acts' response to?",
+    "choices": ["The Boston Massacre", "The Boston Tea Party", "The Townshend Acts", "The Sugar Act"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which battle is often called the 'shot heard 'round the world'?",
+    "choices": ["Bunker Hill", "Saratoga", "Lexington", "Yorktown"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the primary slogan of colonial protest against taxation?",
+    "choices": ["Liberty and Justice", "No taxation without representation", "Freedom or death", "United we stand"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which nation provided crucial military support to the colonists?",
+    "choices": ["Spain", "Netherlands", "Prussia", "France"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In which colony was the Boston Tea Party conducted?",
+    "choices": ["Massachusetts", "New York", "Pennsylvania", "Connecticut"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What was the primary document outlining grievances against King George III?",
+    "choices": ["The Constitution", "The Articles of Confederation", "The Declaration of Independence", "The Federalist Papers"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which British general surrendered at Yorktown, effectively ending the war?",
+    "choices": ["Lord North", "Lord Cornwallis", "General Howe", "General Clinton"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was the Battle of Saratoga's significance?",
+    "choices": ["Final American victory", "Turning point that convinced France to help", "British victory that halted American expansion", "Naval battle that secured the coast"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Who served as a diplomat negotiating the Treaty of Paris in 1783?",
+    "choices": ["John Jay", "Benjamin Franklin", "Gouverneur Morris", "Henry Knox"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which group was known as 'Sons of Liberty'?",
+    "choices": ["British loyalists", "American colonial protesters against taxes", "French military advisors", "Native American allies"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was the Boston Massacre?",
+    "choices": ["A colonial attack on British soldiers", "British soldiers firing on colonists", "A Native American raid", "A fire that destroyed the city"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which amendment in the Bill of Rights relates to the quartering of soldiers?",
+    "choices": ["Second", "Third", "Fourth", "Fifth"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What economic hardship prompted British tax policies on colonies?",
+    "choices": ["Industrial collapse", "Debt from wars, especially the French and Indian War", "Currency devaluation", "Trade embargoes"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Founder primarily advocated for separation from Britain?",
+    "choices": ["John Adams", "Benjamin Franklin", "Thomas Paine through 'Common Sense'", "George Washington"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What did the Treaty of Paris (1783) officially recognize?",
+    "choices": ["American independence", "French territorial gains", "British naval supremacy", "Spanish colonial claims"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "How many signers of the Declaration of Independence were there?",
+    "choices": ["32", "56", "67", "89"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the primary purpose of the Continental Congress?",
+    "choices": ["Establish trade routes", "Coordinate colonial resistance and governance", "Negotiate with Native tribes", "Plan western expansion"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which battle was the British army defeated in the South in 1780?",
+    "choices": ["Camden", "Charleston", "Savannah", "Guilford Courthouse"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who was the French volunteer general who aided the Continental Army?",
+    "choices": ["Jean-Baptiste Donatien", "Marquis de Lafayette", "Rochambeau", "Grasse"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What was the primary weakness of the Articles of Confederation?",
+    "choices": ["Too strong central government", "Too weak central government", "Excessive taxation", "Military overreach"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Founding Father was known for his 'Midnight Ride'?",
+    "choices": ["Samuel Adams", "Paul Revere", "Ethan Allen", "Francis Marion"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What event directly prompted the Declaration of Independence?",
+    "choices": ["Tea Act", "Coercive Acts", "Continued British rejection of colonial petitions", "Burning of Norfolk"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which battle was fought entirely on American soil with significant French naval support?",
+    "choices": ["Saratoga", "Yorktown", "Princeton", "Trenton"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who was the British Prime Minister during most of the Revolutionary War?",
+    "choices": ["Lord George Germain", "Lord North", "Edmund Burke", "William Pitt"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What was the major ideological divide among colonists?",
+    "choices": ["Federalists vs. Anti-Federalists", "Patriots vs. Loyalists", "Merchants vs. Farmers", "North vs. South"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Founding Father famously said 'Give me liberty, or give me death'?",
+    "choices": ["Samuel Adams", "Patrick Henry", "Richard Henry Lee", "George Mason"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was the significance of the winter at Valley Forge?",
+    "choices": ["British surrendered nearby", "Washington reorganized and trained the Army despite hardship", "A major American victory occurred", "French formally entered the war"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "How did the British attempt to isolate New England colonies?",
+    "choices": ["Naval blockade", "Cutting off trade routes", "Stationing troops", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which battle involved a midnight ride warning of British troop movements?",
+    "choices": ["Concord", "Lexington", "Bunker Hill", "Princeton"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What document preceded the Declaration of Independence in 1775?",
+    "choices": ["The Olive Branch Petition", "The Mayflower Compact", "The Magna Carta", "Common Sense"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who drafted the Virginia Declaration of Rights before Jefferson's Declaration?",
+    "choices": ["Patrick Henry", "George Mason", "Richard Henry Lee", "James Madison"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the primary objective of the British Southern Strategy after 1778?",
+    "choices": ["Conquer the North", "Mobilize loyalists and control Southern colonies", "Capture French support", "Destroy American navy"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which American general was court-martialed for allegedly conspiring with the British?",
+    "choices": ["Ethan Allen", "Benedict Arnold", "Daniel Morgan", "Light-Horse Harry Lee"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was the outcome of the Battle of Long Island in 1776?",
+    "choices": ["American victory", "British victory that forced Washington to retreat", "Stalemate", "Naval battle with no ground impact"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which nation secretly supplied arms to the Americans before officially joining?",
+    "choices": ["Spain", "France", "Netherlands", "Prussia"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What was the 'Proclamation Line' established after 1763?",
+    "choices": ["Border preventing colonial western expansion", "Trade boundary with Native tribes", "Military supply line", "Naval defense perimeter"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who was the most decorated American general besides Washington?",
+    "choices": ["Nathanael Greene", "Ethan Allen", "Marquis de Lafayette", "John Paul Jones"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What ideological principle justified colonial resistance according to Enlightenment thought?",
+    "choices": ["Divine right of kings", "Social contract and natural rights", "Mercantilism", "Absolute monarchy"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which naval commander famously declared 'I have not yet begun to fight'?",
+    "choices": ["Esek Hopkins", "John Paul Jones", "Commodore Perry", "Paul Revere"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the immediate effect of the Coercive Acts on colonial unity?",
+    "choices": ["Divided colonies further", "Brought colonies together to oppose British policies", "Encouraged loyalism", "Led to immediate war"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which European philosopher's ideas most influenced the Declaration of Independence?",
+    "choices": ["Voltaire", "Jean-Jacques Rousseau", "John Locke", "Montesquieu"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  }
+]

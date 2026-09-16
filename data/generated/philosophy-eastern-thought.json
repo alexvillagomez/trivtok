@@ -1,0 +1,266 @@
+[
+  {
+    "text": "In Confucianism, which concept refers to ritual propriety and the correct performance of social roles?",
+    "choices": ["Li", "Ren", "Xiao", "Junzi"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the central principle of Daoism that describes the way things flow naturally in the universe?",
+    "choices": ["Dharma", "Sunyata", "Tao", "Karma"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which Buddhist philosophical school emphasizes that consciousness is the basis of all phenomena?",
+    "choices": ["Theravada", "Yogacara", "Madhyamaka", "Pure Land"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Hindu Vedanta philosophy, what term describes the ultimate reality underlying all existence?",
+    "choices": ["Maya", "Brahman", "Atman", "Moksha"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What does 'wu wei' mean in Daoist philosophy?",
+    "choices": ["Non-action or acting without forcing", "The void of the mind", "The path of the sage", "Harmony with others"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who is traditionally credited with founding Legalism during the Warring States period?",
+    "choices": ["Confucius", "Hanfeizi", "Laozi", "Mencius"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Confucianism, 'ren' (仁) primarily refers to which quality?",
+    "choices": ["Ritual propriety", "Filial piety", "Humaneness or benevolence", "Righteousness"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the term for the ethical principle that underpins all consequences of actions in Buddhism?",
+    "choices": ["Dharma", "Karma", "Nirvana", "Bodhi"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which school of Hindu philosophy emphasizes the fundamental duality between Purusha and Prakriti?",
+    "choices": ["Vedanta", "Samkhya", "Mimamsa", "Vaisheshika"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In the Bhagavad Gita, which yoga emphasizes knowledge and wisdom?",
+    "choices": ["Karma Yoga", "Jnana Yoga", "Bhakti Yoga", "Hatha Yoga"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the Buddhist concept of emptiness of inherent existence called?",
+    "choices": ["Anatta", "Sunyata", "Pratityasamutpada", "Bodhi"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which ancient Chinese philosopher rejected moral learning in favor of strict laws and punishments?",
+    "choices": ["Mencius", "Zhuangzi", "Hanfeizi", "Confucius"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Daoism, 'yin' and 'yang' represent which fundamental relationship?",
+    "choices": ["Good and evil", "Complementary opposites", "Teacher and student", "Mind and body"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What does the Confucian concept 'junzi' translate to?",
+    "choices": ["Peasant", "Noble person or superior person", "Merchant", "Soldier"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In Buddhist philosophy, what does the Madhyamaka school teach about the nature of phenomena?",
+    "choices": ["They are permanent", "They exist independently", "They are interdependent with no inherent essence", "They are only mental constructs"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which Upanishad contains the famous statement 'Tat Tvam Asi' (Thou art That)?",
+    "choices": ["Katha Upanishad", "Chandogya Upanishad", "Kena Upanishad", "Mundaka Upanishad"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the primary goal in Advaita Vedanta philosophy?",
+    "choices": ["Achieving dharma", "Attaining moksha through realization of oneness", "Gaining power", "Creating perfect social order"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Confucianism, what is 'xiao' (孝)?",
+    "choices": ["Righteousness", "Filial piety", "Loyalty", "Propriety"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Daoist text is attributed to Laozi and forms the foundation of philosophical Daoism?",
+    "choices": ["Zhuangzi", "Daodejing", "Huangdi Neijing", "Liezi"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What role does Zhongyong (the Doctrine of the Mean) play in Confucian thought?",
+    "choices": ["It advocates extremism", "It emphasizes balance and avoiding excess", "It rejects all moderation", "It promotes rigid hierarchy"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Legalist philosophy, what relationship governs society?",
+    "choices": ["Love and benevolence", "Mutual benefit and self-interest regulated by law", "Spiritual harmony", "Voluntary cooperation"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Buddhist philosophical concept describes the interdependent arising of all phenomena?",
+    "choices": ["Anicca", "Pratityasamutpada", "Skandhas", "Bodhi"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the Confucian term for the transformative power of moral virtue?",
+    "choices": ["Li", "De", "Xiao", "Ren"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In Hindu Nyaya philosophy, pramanas are:",
+    "choices": ["Sacred texts only", "Sources of valid knowledge including perception and inference", "Meditation practices", "Ritual ceremonies"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the primary critique of attachment in Buddhist philosophy?",
+    "choices": ["It leads to eternal reward", "It is the root cause of suffering", "It strengthens the self", "It prevents rebirth"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Legalist philosopher argued that human nature is inherently selfish and must be controlled?",
+    "choices": ["Xunzi", "Mengzi", "Hanfeizi", "Yang Zhu"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Zhuangzi's philosophy, what does the butterfly dream parable illustrate?",
+    "choices": ["The importance of sleep", "The illusory nature of identity and boundaries between subject and object", "The value of transformation", "The foolishness of insects"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the Buddhist understanding of 'anatta' or anatman?",
+    "choices": ["The existence of a permanent soul", "The absence of a permanent, unchanging self", "The perfection of the self", "The separation of self from others"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In the context of Hindu philosophy, what does 'maya' refer to?",
+    "choices": ["Illusion or appearance obscuring ultimate reality", "Physical matter alone", "Divine will", "Karmic action"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which school of Hindu philosophy focuses on ritual and the interpretation of the Vedas?",
+    "choices": ["Yoga", "Mimamsa", "Vaisheshika", "Nyaya"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the Four Noble Truth that forms the core of Buddhist philosophy?",
+    "choices": ["Truth of creation, growth, decay, and rebirth", "Truth of suffering, its origin, its cessation, and the path", "Truth of karma, destiny, free will, and knowledge", "Truth of gods, souls, morality, and eternity"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In Daoist philosophy, what is the relationship between names (ming) and reality (shi)?",
+    "choices": ["Names perfectly represent reality", "Names are arbitrary labels that distort reality", "Reality depends on naming", "Names and reality are identical"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What does the Confucian concept of 'zheng ming' (rectification of names) mean?",
+    "choices": ["Renaming historical figures", "Ensuring words and actions align with social roles and reality", "Creating new vocabulary", "Abandoning old names"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In which Hindu Upanishad is the concept of Brahman first systematically explored?",
+    "choices": ["Aitareya Upanishad", "Taittiriya Upanishad", "Chandogya Upanishad", "Svetasvatara Upanishad"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is Mencius's view on human nature, contrasting with Legalist philosophy?",
+    "choices": ["Humans are naturally evil and need strict control", "Humans possess innate moral capacity that can be cultivated", "Humans are purely rational machines", "Humans have no nature at all"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Buddhist Yogacara philosophy, what is the role of 'vijnana' (consciousness)?",
+    "choices": ["It is merely a reflection of external objects", "It constructs and constitutes the perceived world", "It has no connection to experience", "It is purely physical"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the central concept of the Samkhya school's dualism?",
+    "choices": ["Matter and mind are one", "Purusha (consciousness) and Prakriti (nature) are distinct", "Reality is purely material", "All is illusion"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In Confucianism, how is the ideal state achieved according to most classical texts?",
+    "choices": ["Through military conquest", "Through the moral example of the ruler transforming the people", "Through strict punishment", "Through isolation from others"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the relationship between qi (material force) and li (principle) in Neo-Confucianism?",
+    "choices": ["Qi is superior to li", "Li is the underlying principle that organizes qi", "They are completely separate", "They are identical"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Daoism, what is the significance of the 'uncarved block' (pu)?",
+    "choices": ["It represents artistic mastery", "It symbolizes the natural, unmodified state before differentiation", "It is a literal architectural element", "It represents social inequality"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the Buddhist Eightfold Path primarily intended to achieve?",
+    "choices": ["Wealth and fame", "The cessation of suffering and the attainment of nirvana", "Physical strength", "Supernatural powers"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Hindu Yoga philosophy, what does 'tapas' refer to?",
+    "choices": ["Meditation only", "Austerity or disciplined effort generating spiritual heat", "Dance movements", "Healing practices"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the primary difference between Madhyamaka and Yogacara Buddhist schools?",
+    "choices": ["Madhyamaka focuses on emptiness; Yogacara on consciousness and mind-only", "Madhyamaka rejects the self; Yogacara affirms it", "Madhyamaka is practical; Yogacara is theoretical", "There is no significant difference"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Confucianism, what is 'ge wu zhi zhi' (investigation of things, extension of knowledge)?",
+    "choices": ["Scientific experiment only", "Understanding the principles inherent in all things to extend moral knowledge", "Philosophical skepticism", "Rejection of empirical study"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  }
+]

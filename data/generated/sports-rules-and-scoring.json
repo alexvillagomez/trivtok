@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In basketball, how many points is a shot made from beyond the arc worth?",
+    "choices": ["1 point", "2 points", "3 points", "4 points"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In soccer, how many players from each team typically take the field at the start of a match?",
+    "choices": ["10", "11", "12", "13"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In tennis, what term describes a tied score at 40-40?",
+    "choices": ["Advantage", "Deuce", "Break", "Love"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many yards long is an American football field (not including end zones)?",
+    "choices": ["80 yards", "100 yards", "120 yards", "150 yards"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In baseball, how many strikes does a batter receive before being called out?",
+    "choices": ["2 strikes", "3 strikes", "4 strikes", "5 strikes"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "What is the standard net height for women's volleyball?",
+    "choices": ["2.20 meters", "2.34 meters", "2.43 meters", "2.60 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In ice hockey, how long is each regulation period?",
+    "choices": ["15 minutes", "20 minutes", "25 minutes", "30 minutes"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In golf, what do you call a score of one under par on a hole?",
+    "choices": ["Eagle", "Birdie", "Bogie", "Ace"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many halves does a rugby match consist of?",
+    "choices": ["1 half", "2 halves", "3 halves", "4 halves"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In badminton, what is the object struck in play called?",
+    "choices": ["Ball", "Shuttlecock", "Puck", "Birdie"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In cricket, what is the wooden target at which the bowler aims?",
+    "choices": ["Crease", "Pitch", "Wicket", "Boundary"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In archery, how many points is the innermost ring (bullseye) typically worth?",
+    "choices": ["5 points", "8 points", "9 points", "10 points"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In baseball, the area beyond the foul lines is called the _____ territory.",
+    "choices": ["Dead", "Out", "Foul", "Penalty"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In tennis, how many points must a player win by to win a tiebreaker (first to)?",
+    "choices": ["5 points", "6 points", "7 points", "8 points"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In American football, how many points is a touchdown worth?",
+    "choices": ["5 points", "6 points", "7 points", "8 points"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In basketball, what penalty results in a player fouling out after a certain number?",
+    "choices": ["Technical foul", "Flagrant foul", "Personal foul", "Charging foul"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In soccer, a player is in an illegal position when nearer to the opponent's goal than two opponents and the ball. What is this rule called?",
+    "choices": ["Handball", "Obstruction", "Offside", "Interference"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In ice hockey, what penalty is called when a player checks from behind into the boards?",
+    "choices": ["Checking", "Boarding", "Cross-checking", "High-sticking"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In volleyball, after a team wins a rally, players rotate in which direction?",
+    "choices": ["Counterclockwise", "Clockwise", "Random", "Stay in position"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In golf, what term describes the number of strokes a good player should need to complete a hole?",
+    "choices": ["Handicap", "Bogey", "Par", "Eagle"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the standard net height in table tennis?",
+    "choices": ["15.25 cm", "17.25 cm", "19.25 cm", "21.25 cm"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In swimming, which stroke requires simultaneous arm movements?",
+    "choices": ["Backstroke", "Breaststroke", "Freestyle", "Butterfly"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In women's artistic gymnastics, how many apparatus events are there?",
+    "choices": ["3", "4", "5", "6"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In lacrosse, how long is a standard professional game?",
+    "choices": ["30 minutes", "45 minutes", "60 minutes", "90 minutes"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A curling stone weighs approximately how many kilograms?",
+    "choices": ["15 kg", "17 kg", "20 kg", "22 kg"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In field hockey, a standard playing field is approximately how long?",
+    "choices": ["80 meters", "100 meters", "110 meters", "120 meters"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In squash, what is the standard width of the court?",
+    "choices": ["6.4 meters", "7.0 meters", "8.2 meters", "9.0 meters"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In rowing, what is the crew member who steers and coordinates the crew called?",
+    "choices": ["Bowman", "Stern rower", "Coxswain", "Sculler"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In badminton, what is the standard width of a doubles court?",
+    "choices": ["15 feet", "17 feet", "20 feet", "22 feet"],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "In water polo, how long is each quarter?",
+    "choices": ["6 minutes", "8 minutes", "10 minutes", "12 minutes"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In cricket, what does LBW stand for?",
+    "choices": ["Leg Before Wicket", "Left Back Wicket", "Low Ball Wicket", "Leg Ball Width"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In American football, what is it called when a quarterback throws the ball with intent to prevent a sack?",
+    "choices": ["Incompletion", "Intentional grounding", "Illegal forward pass", "Fumble"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In basketball, what is the area directly beneath the basket also known as?",
+    "choices": ["The key", "The paint", "The circle", "The zone"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In tennis, when two players split sets, what determines the final set in professional play?",
+    "choices": ["Normal deuce format", "Sudden-death tiebreaker", "First to 10 points", "Match tiebreaker to 10"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In soccer, under which circumstance is a handball not given as an offense?",
+    "choices": ["Deliberately blocking a shot", "Arm moving away from body", "Natural arm position after deflection", "Jumping with arms up defensively"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In rugby, how many points is a 'try' worth?",
+    "choices": ["3 points", "4 points", "5 points", "6 points"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In ice hockey, what happens when both the puck carrier and the defending player skate past the puck?",
+    "choices": ["Two-on-one situation", "Offsides occurs", "No whistle until someone touches it", "Automatic stoppage"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In golf, what numerical adjustment accounts for a player's skill level relative to par?",
+    "choices": ["Slope rating", "Handicap", "Handicap index", "Course rating"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In volleyball, the defensive specialist who replaces the middle blocker is called the ____.",
+    "choices": ["Setter", "Libero", "Opposite", "Specialist"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In baseball, what is a 'balk'?",
+    "choices": ["A wild pitch", "An illegal motion by the pitcher", "A foul ball", "An error by the batter"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In American football, what is a 'fair catch'?",
+    "choices": ["Receiving a pass in fair territory", "Signal to catch without advancing", "Catching a deflected pass", "Legally catching a tipped pass"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In archery, the concentric circular target regions are divided into how many scoring zones?",
+    "choices": ["8 zones", "10 zones", "12 zones", "16 zones"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In curling, what is the center circle of the scoring area called?",
+    "choices": ["Target", "Button", "House", "Ring"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In fencing, what is the starting position with feet shoulder-width apart?",
+    "choices": ["Salute position", "En garde", "Advance position", "Lunge stance"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In rowing, the person facing the stern of the boat and setting the pace is the ____.",
+    "choices": ["Bow rower", "Stroke rower", "Coxswain", "Sculler"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  }
+]

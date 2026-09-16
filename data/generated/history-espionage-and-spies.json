@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which Soviet intelligence agency was responsible for foreign espionage during the Cold War?",
+    "choices": ["GRU", "KGB", "FSB", "SVR"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the primary purpose of MI6, the intelligence service of which country?",
+    "choices": ["France", "Germany", "United Kingdom", "Canada"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Aldrich Ames was a CIA officer who betrayed the agency to which intelligence service?",
+    "choices": ["GRU", "STASI", "KGB", "DGSE"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which codebreaking project did the Allies use to decrypt German Enigma messages?",
+    "choices": ["Ultra", "Bletchley", "Purple", "Lorenz"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Cambridge Five were Soviet spies operating in which country?",
+    "choices": ["United States", "United Kingdom", "France", "Germany"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Julius Rosenberg was executed for providing atomic bomb secrets to which nation?",
+    "choices": ["Soviet Union", "Communist China", "East Germany", "North Korea"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was the code name for the U-2 spy plane program?",
+    "choices": ["Aquatone", "Oxcart", "Skyhook", "Zenith"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Kim Philby was a double agent working for which intelligence service while appearing to work for MI6?",
+    "choices": ["STASI", "KGB", "DGSE", "SVR"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The CIA's operation to overthrow the Iranian government occurred in which year?",
+    "choices": ["1951", "1953", "1956", "1960"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Operation Northwoods was a proposed false flag operation targeting which island?",
+    "choices": ["Dominican Republic", "Puerto Rico", "Cuba", "Jamaica"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who was the famous Soviet defector and author who worked for the KGB?",
+    "choices": ["Vassily Mitrokhin", "Leonid Panfilov", "Igor Gouzenko", "Oleg Penkovsky"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Berlin Tunnel was a joint CIA-MI6 operation to tap what?",
+    "choices": ["Radio signals", "Soviet telephone lines", "Telegraph cables", "Diplomatic couriers"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the primary intelligence role of the Enigma machine?",
+    "choices": ["Decryption device", "Encryption device", "Radio transmitter", "Code storage"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Mata Hari was executed for espionage during which conflict?",
+    "choices": ["Franco-Prussian War", "World War I", "World War II", "Russo-Japanese War"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Venona project decrypted Soviet communications from which country?",
+    "choices": ["Germany", "Eastern Europe", "United States", "Japan"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Edward Snowden leaked classified documents from which U.S. intelligence agency?",
+    "choices": ["FBI", "NSA", "DIA", "NRO"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "The Stasi was the secret police of which German state?",
+    "choices": ["West Germany", "East Germany", "Weimar Republic", "Nazi Germany"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Oleg Penkovsky provided NATO with Soviet military secrets while working as a colonel in what?",
+    "choices": ["KGB", "GRU", "STASI", "Red Army"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Bay of Pigs invasion was a CIA-backed operation against which country?",
+    "choices": ["Nicaragua", "Cuba", "Dominican Republic", "Guatemala"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which operation allowed the CIA to listen to Soviet submarine cables?",
+    "choices": ["Project Ivy Bells", "Operation Azorian", "Zenith Star", "Rhyolite"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Robert Hanssen sold secrets to Russia while working for which agency?",
+    "choices": ["CIA", "NSA", "FBI", "DIA"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Soviet defector who revealed the existence of secret police during WWII was?",
+    "choices": ["Igor Gouzenko", "Anatoly Golitsyn", "Arkady Shevchenko", "Vasili Mitrokhin"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the Glomar Explorer's supposed purpose according to public cover?",
+    "choices": ["Manganese nodule collection", "Scientific research", "Commercial salvage", "Fishing"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "The Warsaw Pact intelligence agency was led by which country's spies?",
+    "choices": ["Poland", "East Germany", "Soviet Union", "Czechoslovakia"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Christine Granville was the first employee of which British intelligence service?",
+    "choices": ["SOE", "MI6", "GCHQ", "MI5"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Enigma machine was broken primarily at which location?",
+    "choices": ["Bletchley Park", "Bennington", "Blakeny", "Badingham"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Klaus Fuchs provided atomic bomb secrets to which nation?",
+    "choices": ["Germany", "Soviet Union", "Japan", "Italy"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Operation CHAOS was a CIA program spying on which group?",
+    "choices": ["Foreign governments", "U.S. anti-war activists", "Corporate espionage", "Drug cartels"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the Petrov incident involving a Soviet intelligence officer in?",
+    "choices": ["Canada", "Sweden", "Australia", "Argentina"],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Purple Machine was used to encrypt communications for which nation?",
+    "choices": ["Germany", "Soviet Union", "Japan", "Italy"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "MKULTRA was a CIA program investigating which subject?",
+    "choices": ["Nuclear weapons", "Mind control", "Aircraft design", "Submarine technology"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Rosenberg case involved espionage related to which weapon program?",
+    "choices": ["Hydrogen bomb", "Atomic bomb", "Intercontinental missile", "Radar system"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Egon Krenz served as the leader of which spy organization?",
+    "choices": ["KGB", "STASI", "GRU", "SVR"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Operation Gold was a joint CIA-MI6 tunnel operation under which city?",
+    "choices": ["Vienna", "Berlin", "Prague", "Budapest"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Erich Honecker served as the head of which state?",
+    "choices": ["Poland", "Czechoslovakia", "East Germany", "Hungary"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The GCHQ is the signals intelligence agency of which country?",
+    "choices": ["Canada", "Australia", "United Kingdom", "New Zealand"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the primary goal of the Soviet GRU military intelligence agency?",
+    "choices": ["Domestic security", "Foreign military intelligence", "Border control", "Internal surveillance"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Markus Wolf was the long-serving head of which organization?",
+    "choices": ["East German STASI", "Soviet KGB", "Polish SB", "Romanian SECURITATE"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Norwegian agent known as 'Cheese' provided intelligence about which technology?",
+    "choices": ["Nuclear weapons", "Radar systems", "Heavy water production", "Jet engines"],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Colonel Abel was a Soviet spy exchanged for which American pilot?",
+    "choices": ["Gary Powers", "Chuck Yeager", "Scott Crossfield", "Joe Engle"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "The Burgess-Maclean spy ring operated primarily in which country?",
+    "choices": ["France", "United States", "United Kingdom", "Soviet Union"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Agent RUBEL was a Soviet operative during which historical period?",
+    "choices": ["World War II", "Korean War", "Cuban Missile Crisis", "Vietnam War"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Atomic Bomb Spy Ring consisted primarily of spies passing secrets to which nation?",
+    "choices": ["Germany", "Japan", "Soviet Union", "Italy"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Chiune Sugihara was an intelligence operative in which country during WWII?",
+    "choices": ["Germany", "Japan", "Lithuania", "Soviet Union"],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Philby scandal involved Soviet agents infiltrating which country's intelligence service?",
+    "choices": ["Canada", "United States", "United Kingdom", "France"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  }
+]

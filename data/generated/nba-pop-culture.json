@@ -1,0 +1,992 @@
+[
+  {
+    "text": "How many points is a made free throw worth in the NBA?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many points is a made three-point shot worth?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.09
+  },
+  {
+    "text": "How many players from one team are on the court at a time in basketball?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the standard length of an NBA game?",
+    "choices": [
+      "40 minutes",
+      "44 minutes",
+      "48 minutes",
+      "50 minutes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which team does Stephen Curry play for?",
+    "choices": [
+      "Golden State Warriors",
+      "Boston Celtics",
+      "Miami Heat",
+      "Dallas Mavericks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which team does LeBron James currently play for?",
+    "choices": [
+      "Los Angeles Lakers",
+      "Chicago Bulls",
+      "San Antonio Spurs",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is the name of the NBA championship trophy?",
+    "choices": [
+      "Larry O'Brien Trophy",
+      "Baker Cup",
+      "Commissioner's Cup",
+      "Champion's Bowl"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which team won the 2024 NBA championship?",
+    "choices": [
+      "Boston Celtics",
+      "Dallas Mavericks",
+      "Denver Nuggets",
+      "Miami Heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which team won the 2023 NBA championship?",
+    "choices": [
+      "Golden State Warriors",
+      "Denver Nuggets",
+      "Phoenix Suns",
+      "New York Knicks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What city are the Los Angeles Lakers based in?",
+    "choices": [
+      "Los Angeles",
+      "San Diego",
+      "Oakland",
+      "Sacramento"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What city are the Boston Celtics based in?",
+    "choices": [
+      "Boston",
+      "Philadelphia",
+      "Brooklyn",
+      "Detroit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What city are the Chicago Bulls based in?",
+    "choices": [
+      "Chicago",
+      "Cleveland",
+      "Charlotte",
+      "Kansas City"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What city are the Miami Heat based in?",
+    "choices": [
+      "Miami",
+      "Orlando",
+      "Tampa",
+      "Jacksonville"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What city are the New York Knicks based in?",
+    "choices": [
+      "New York",
+      "Newark",
+      "Albany",
+      "Buffalo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What city are the San Antonio Spurs based in?",
+    "choices": [
+      "San Antonio",
+      "Austin",
+      "Houston",
+      "Dallas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which player is known as 'King James'?",
+    "choices": [
+      "LeBron James",
+      "Kobe Bryant",
+      "Kevin Durant",
+      "Giannis Antetokounmpo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which player was nicknamed 'Black Mamba'?",
+    "choices": [
+      "Kobe Bryant",
+      "Dwyane Wade",
+      "Allen Iverson",
+      "Russell Westbrook"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which player is associated with the nickname 'The Greek Freak'?",
+    "choices": [
+      "Giannis Antetokounmpo",
+      "Nikola Jokic",
+      "Luka Doncic",
+      "Joel Embiid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who won the 2024 NBA Finals MVP award?",
+    "choices": [
+      "Jaylen Brown",
+      "Jayson Tatum",
+      "Luka Doncic",
+      "Nikola Jokic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who won the 2023 NBA Finals MVP award?",
+    "choices": [
+      "Nikola Jokic",
+      "Jamal Murray",
+      "Jimmy Butler",
+      "Stephen Curry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which team is the Lakers' longtime rival in the NBA Finals and playoffs?",
+    "choices": [
+      "Boston Celtics",
+      "Atlanta Hawks",
+      "Milwaukee Bucks",
+      "Memphis Grizzlies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What team won the first NBA title in 1947?",
+    "choices": [
+      "Philadelphia Warriors",
+      "Boston Celtics",
+      "Minneapolis Lakers",
+      "Chicago Stags"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In which year did the NBA and ABA merge?",
+    "choices": [
+      "1972",
+      "1974",
+      "1976",
+      "1978"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How many championships did Michael Jordan win with the Bulls?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "How many championships did Kobe Bryant win with the Lakers?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "How many championships did the 2010s Warriors win?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which team completed the 2016 NBA Finals comeback from 3-1 down?",
+    "choices": [
+      "Cleveland Cavaliers",
+      "Golden State Warriors",
+      "Miami Heat",
+      "Toronto Raptors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which team won the 2019 NBA championship?",
+    "choices": [
+      "Toronto Raptors",
+      "Golden State Warriors",
+      "Milwaukee Bucks",
+      "Boston Celtics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which player hit the famous title-winning shot for the Raptors in 2019?",
+    "choices": [
+      "Kawhi Leonard",
+      "Kyle Lowry",
+      "Pascal Siakam",
+      "Fred VanVleet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which player won the 2016 NBA Finals MVP award?",
+    "choices": [
+      "LeBron James",
+      "Kyrie Irving",
+      "Kevin Love",
+      "Stephen Curry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which player won the most recent NBA MVP award before the 2025 offseason?",
+    "choices": [
+      "Nikola Jokic",
+      "Shai Gilgeous-Alexander",
+      "Jayson Tatum",
+      "Luka Doncic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Who holds the NBA record for career points scored?",
+    "choices": [
+      "LeBron James",
+      "Kareem Abdul-Jabbar",
+      "Karl Malone",
+      "Michael Jordan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who holds the NBA record for most career assists?",
+    "choices": [
+      "John Stockton",
+      "Magic Johnson",
+      "Chris Paul",
+      "Jason Kidd"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Who holds the NBA record for most career rebounds?",
+    "choices": [
+      "Wilt Chamberlain",
+      "Dennis Rodman",
+      "Bill Russell",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Who scored 100 points in a single NBA game?",
+    "choices": [
+      "Wilt Chamberlain",
+      "Kobe Bryant",
+      "Michael Jordan",
+      "Elgin Baylor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the highest total points scored by one player in a single NBA game in the modern era?",
+    "choices": [
+      "81",
+      "84",
+      "90",
+      "100"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which player is known for the most career three-pointers made in NBA history?",
+    "choices": [
+      "Stephen Curry",
+      "Ray Allen",
+      "Reggie Miller",
+      "James Harden"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which player was famous for the nickname 'Air Jordan'?",
+    "choices": [
+      "Michael Jordan",
+      "Vince Carter",
+      "Shawn Kemp",
+      "Dominique Wilkins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which player was nicknamed 'Dr. J'?",
+    "choices": [
+      "Julius Erving",
+      "Jason Kidd",
+      "Jrue Holiday",
+      "Jerry West"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which player was nicknamed 'The Answer'?",
+    "choices": [
+      "Allen Iverson",
+      "Chauncey Billups",
+      "Steve Francis",
+      "Tracy McGrady"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which player was nicknamed 'The Mailman'?",
+    "choices": [
+      "Karl Malone",
+      "Moses Malone",
+      "Kevin Malone",
+      "Mark Malone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which player was nicknamed 'The Big Fundamental'?",
+    "choices": [
+      "Tim Duncan",
+      "David Robinson",
+      "Kevin Garnett",
+      "Dirk Nowitzki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which player was nicknamed 'The Dream'?",
+    "choices": [
+      "Hakeem Olajuwon",
+      "Shaquille O'Neal",
+      "Patrick Ewing",
+      "David Robinson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What team did Shaquille O'Neal win his first NBA title with?",
+    "choices": [
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Orlando Magic",
+      "Boston Celtics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What team did Shaquille O'Neal win his 2006 title with?",
+    "choices": [
+      "Miami Heat",
+      "Los Angeles Lakers",
+      "Phoenix Suns",
+      "Cleveland Cavaliers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which team won the most NBA championships in the 1960s?",
+    "choices": [
+      "Boston Celtics",
+      "Los Angeles Lakers",
+      "Philadelphia 76ers",
+      "New York Knicks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "How many straight championships did the Celtics win from 1959 to 1966?",
+    "choices": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which coach led the Chicago Bulls through their two three-peats?",
+    "choices": [
+      "Phil Jackson",
+      "Pat Riley",
+      "Gregg Popovich",
+      "Don Nelson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which coach led the Spurs to five NBA titles?",
+    "choices": [
+      "Gregg Popovich",
+      "Phil Jackson",
+      "Larry Brown",
+      "Rick Carlisle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What arena do the New York Knicks play in?",
+    "choices": [
+      "Madison Square Garden",
+      "Barclays Center",
+      "Wells Fargo Center",
+      "TD Garden"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What arena do the Los Angeles Lakers and Clippers share?",
+    "choices": [
+      "Crypto.com Arena",
+      "Staples Center",
+      "Intuit Dome",
+      "The Forum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What arena do the Boston Celtics play in?",
+    "choices": [
+      "TD Garden",
+      "Mohegan Sun Arena",
+      "Fenway Park",
+      "Xfinity Center"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What arena do the Golden State Warriors play in?",
+    "choices": [
+      "Chase Center",
+      "Oracle Arena",
+      "United Center",
+      "Ball Arena"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What arena do the Miami Heat play in?",
+    "choices": [
+      "Kaseya Center",
+      "FTX Arena",
+      "AmericanAirlines Center",
+      "Amway Center"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which team drafted Kobe Bryant on draft night before trading for him?",
+    "choices": [
+      "Charlotte Hornets",
+      "New Jersey Nets",
+      "Phoenix Suns",
+      "Toronto Raptors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which team drafted Giannis Antetokounmpo in 2013?",
+    "choices": [
+      "Milwaukee Bucks",
+      "Houston Rockets",
+      "San Antonio Spurs",
+      "Oklahoma City Thunder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which team drafted Nikola Jokic in 2014?",
+    "choices": [
+      "Denver Nuggets",
+      "Dallas Mavericks",
+      "Portland Trail Blazers",
+      "Indiana Pacers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which team drafted Stephen Curry in 2009?",
+    "choices": [
+      "Golden State Warriors",
+      "New York Knicks",
+      "Washington Wizards",
+      "Minnesota Timberwolves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which team drafted LeBron James in 2003?",
+    "choices": [
+      "Cleveland Cavaliers",
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which team drafted Tim Duncan in 1997?",
+    "choices": [
+      "San Antonio Spurs",
+      "Boston Celtics",
+      "Dallas Mavericks",
+      "Utah Jazz"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which player won six NBA Finals with the Bulls and was featured in Space Jam?",
+    "choices": [
+      "Michael Jordan",
+      "Scottie Pippen",
+      "Dennis Rodman",
+      "Charles Barkley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which basketball movie starred Michael Jordan and Bugs Bunny?",
+    "choices": [
+      "Space Jam",
+      "Hustle",
+      "Coach Carter",
+      "Blue Chips"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which sequel movie starred LeBron James and the Looney Tunes?",
+    "choices": [
+      "Space Jam: A New Legacy",
+      "Hustle 2",
+      "Air: Jordan",
+      "The Final Shot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which NBA star starred in the movie Uncle Drew?",
+    "choices": [
+      "Kyrie Irving",
+      "Kevin Durant",
+      "Chris Paul",
+      "Damian Lillard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which player had the popular commercial slogan 'Like Mike'?",
+    "choices": [
+      "Michael Jordan",
+      "Dikembe Mutombo",
+      "Patrick Ewing",
+      "Charles Barkley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which player was known for the phrase 'C'mon, man!' and big commercials in the 1990s?",
+    "choices": [
+      "Charles Barkley",
+      "Shaquille O'Neal",
+      "Alonzo Mourning",
+      "David Robinson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which NBA legend hosted the famous show Inside the NBA for years as a studio analyst?",
+    "choices": [
+      "Charles Barkley",
+      "Michael Jordan",
+      "Larry Bird",
+      "Isiah Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which network is most associated with Inside the NBA?",
+    "choices": [
+      "TNT",
+      "ESPN",
+      "NBC",
+      "ABC"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which player was the first overall pick in the 2003 NBA Draft?",
+    "choices": [
+      "LeBron James",
+      "Carmelo Anthony",
+      "Dwyane Wade",
+      "Chris Bosh"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which player was the first overall pick in the 1992 NBA Draft?",
+    "choices": [
+      "Shaquille O'Neal",
+      "Alonzo Mourning",
+      "Penny Hardaway",
+      "Christian Laettner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which player was the first overall pick in the 1984 NBA Draft?",
+    "choices": [
+      "Hakeem Olajuwon",
+      "Michael Jordan",
+      "Charles Barkley",
+      "Sam Perkins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What team did Magic Johnson spend his entire NBA career with?",
+    "choices": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Detroit Pistons",
+      "Phoenix Suns"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What team did Larry Bird spend his entire NBA career with?",
+    "choices": [
+      "Boston Celtics",
+      "Indiana Pacers",
+      "Milwaukee Bucks",
+      "Atlanta Hawks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which rivalry is most famously associated with Magic Johnson and Larry Bird?",
+    "choices": [
+      "Lakers and Celtics",
+      "Bulls and Knicks",
+      "Heat and Spurs",
+      "Warriors and Cavaliers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which team won the 1972 NBA championship with a 69-13 record?",
+    "choices": [
+      "Los Angeles Lakers",
+      "New York Knicks",
+      "Milwaukee Bucks",
+      "Chicago Bulls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which player was known for winning six NBA titles and five MVP awards in the 1980s and 1990s?",
+    "choices": [
+      "Michael Jordan",
+      "Magic Johnson",
+      "Larry Bird",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which player is the NBA's all-time leader in triple-doubles?",
+    "choices": [
+      "Russell Westbrook",
+      "Magic Johnson",
+      "Oscar Robertson",
+      "LeBron James"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which player holds the nickname 'The Big O'?",
+    "choices": [
+      "Oscar Robertson",
+      "Otis Birdsong",
+      "Otto Porter",
+      "Orlando Woolridge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which player won Rookie of the Year in 1985 and became known as 'The Jordan Rules' target?",
+    "choices": [
+      "Michael Jordan",
+      "Patrick Ewing",
+      "Dominique Wilkins",
+      "Isiah Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What team did Dirk Nowitzki play his entire NBA career for?",
+    "choices": [
+      "Dallas Mavericks",
+      "San Antonio Spurs",
+      "Phoenix Suns",
+      "Houston Rockets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What country is Dirk Nowitzki from?",
+    "choices": [
+      "Germany",
+      "France",
+      "Spain",
+      "Serbia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What country is Giannis Antetokounmpo from?",
+    "choices": [
+      "Greece",
+      "Nigeria",
+      "Turkey",
+      "Croatia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What country is Nikola Jokic from?",
+    "choices": [
+      "Serbia",
+      "Slovenia",
+      "Croatia",
+      "Montenegro"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What country is Luka Doncic from?",
+    "choices": [
+      "Slovenia",
+      "Serbia",
+      "Lithuania",
+      "Spain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What country is Joel Embiid from?",
+    "choices": [
+      "Cameroon",
+      "Nigeria",
+      "France",
+      "Senegal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which team is famous for the nickname 'Showtime Lakers'?",
+    "choices": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "New York Knicks",
+      "Philadelphia 76ers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which team is famous for the nickname 'The Big Three' in the 2000s and 2010s?",
+    "choices": [
+      "Boston Celtics",
+      "Chicago Bulls",
+      "Detroit Pistons",
+      "Seattle SuperSonics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which player won six NBA championships and six Finals MVP awards with the Bulls?",
+    "choices": [
+      "Michael Jordan",
+      "Scottie Pippen",
+      "Dennis Rodman",
+      "Horace Grant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which player famously wore number 23 for most of his career?",
+    "choices": [
+      "Michael Jordan",
+      "LeBron James",
+      "Anthony Davis",
+      "Pau Gasol"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which player is closely associated with the number 24 on the Lakers?",
+    "choices": [
+      "Kobe Bryant",
+      "Shaquille O'Neal",
+      "Jerry West",
+      "Elgin Baylor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  }
+]

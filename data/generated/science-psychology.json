@@ -1,0 +1,290 @@
+[
+  {
+    "text": "In Freud's theory, which part of the psyche operates on the pleasure principle and demands immediate gratification?",
+    "choices": ["Ego", "Id", "Superego", "Libido"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Pavlov's famous experiment involved conditioning dogs to salivate at the sound of which stimulus?",
+    "choices": ["A bell", "A whistle", "A buzzer", "A metronome"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Skinner's principle of positive reinforcement strengthens behavior by adding what after the desired action?",
+    "choices": ["Punishment", "A reward", "A neutral stimulus", "Extinction"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Piaget's sensorimotor stage, occurring from birth to roughly age two, is characterized by learning through what?",
+    "choices": ["Language", "Logical reasoning", "Sensory and motor experience", "Abstract thought"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The cognitive bias where people seek out information confirming their existing beliefs is called what?",
+    "choices": ["Availability heuristic", "Confirmation bias", "Anchoring bias", "Hindsight bias"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Bandura's Bobo doll experiment demonstrated the importance of which learning mechanism in children?",
+    "choices": ["Classical conditioning", "Operant conditioning", "Observational learning", "Latent learning"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In Milgram's obedience study, participants thought they were administering shocks to a learner. What was the true purpose?",
+    "choices": ["Testing pain tolerance", "Measuring aggression", "Studying obedience to authority", "Examining peer pressure"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Atkinson and Shiffrin's multi-store model of memory proposes three main stores. Which holds information the longest?",
+    "choices": ["Sensory memory", "Short-term memory", "Long-term memory", "Working memory"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The theory that psychological development involves conflict at different psychosexual stages was proposed by whom?",
+    "choices": ["Carl Jung", "Sigmund Freud", "Alfred Adler", "Otto Rank"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which neurotransmitter is primarily associated with mood regulation and is targeted by many antidepressants?",
+    "choices": ["Dopamine", "Acetylcholine", "Serotonin", "Glutamate"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The bystander effect suggests that people are less likely to help in an emergency when what is present?",
+    "choices": ["An authority figure", "A crowd of other people", "Warning signs", "Cameras"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Ebbinghaus's forgetting curve demonstrates that memory loss is most rapid during which time period after learning?",
+    "choices": ["Days after", "Weeks after", "Hours after", "Months after"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The halo effect is a cognitive bias where how we view one trait influences how we view other traits. This is also called what?",
+    "choices": ["Implicit bias", "First impression bias", "Implicit personality theory", "Attribution error"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In classical conditioning, the unconditioned response (UCR) occurs naturally without what?",
+    "choices": ["A stimulus", "Prior learning", "A conditioned response", "Reinforcement"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Rogers' person-centered therapy emphasizes providing clients with which three conditions?",
+    "choices": ["Safety, empathy, and trust", "Unconditional positive regard, empathy, and congruence", "Acceptance, guidance, and confrontation", "Insight, catharsis, and resolution"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Stanford Prison Experiment, conducted by Zimbardo, was intended to study the effects of what?",
+    "choices": ["Individual personality differences", "Situational power and social roles", "Sleep deprivation", "Learned helplessness"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Festinger's cognitive dissonance theory suggests that when attitudes and behaviors conflict, people tend to do what?",
+    "choices": ["Change behavior to match attitudes", "Change attitudes to match behavior", "Ignore the conflict", "Seek external validation"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which school of psychology focuses primarily on observable behavior and explicitly rejects the study of mental processes?",
+    "choices": ["Humanism", "Cognitivism", "Behaviorism", "Structuralism"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Maslow's hierarchy of needs places self-actualization at the top. What must be satisfied before seeking self-actualization?",
+    "choices": ["Only physiological needs", "Physiological and safety needs", "Physiological, safety, and esteem needs", "All lower-level needs"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Garcia and Koelling's taste aversion experiment showed that animals develop strong aversions to flavors paired with what?",
+    "choices": ["Loud noises", "Electric shocks", "Illness", "Bright lights"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Piaget's theory, the preoperational stage is characterized by the inability to understand what concept?",
+    "choices": ["Object permanence", "Symbolic thought", "Conservation", "Abstract logic"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Seligman's concept of learned helplessness was demonstrated in experiments using what?",
+    "choices": ["Monkeys", "Dogs", "Rats", "Pigeons"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which famous neurotransmitter is most associated with reward and motivation in the brain's pleasure pathways?",
+    "choices": ["Serotonin", "Dopamine", "GABA", "Endorphins"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The availability heuristic leads people to overestimate the likelihood of events that are what?",
+    "choices": ["Recent and memorable", "Statistically common", "Scientifically proven", "Personally experienced"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Ainsworth's research on attachment patterns identified how many primary attachment styles in infants?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The anchoring bias occurs when people rely too heavily on the first piece of information encountered. What is this first piece called?",
+    "choices": ["Priming effect", "The anchor", "Initial bias", "Framing"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Vygotsky's theory, the 'zone of proximal development' refers to the gap between what two levels of performance?",
+    "choices": ["Actual and potential", "Concrete and abstract", "Verbal and nonverbal", "Individual and social"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The serial position effect describes better memory for items at the beginning and end of a list. The end effect is called what?",
+    "choices": ["Primacy effect", "Recency effect", "Contextual effect", "Spacing effect"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Jung's concept of the 'shadow' in the psyche represents the part of personality that contains what?",
+    "choices": ["Conscious thoughts", "Repressed and denied aspects", "Spiritual beliefs", "Learned behaviors"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Ekman's research on facial expressions found universal recognition of how many basic emotions across cultures?",
+    "choices": ["Four", "Five", "Six", "Seven"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In signal detection theory, a 'false alarm' occurs when someone detects a signal when what is actually true?",
+    "choices": ["The signal is weak", "No signal is present", "The signal is changing", "The observer is distracted"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Kahneman and Tversky's prospect theory challenges the rationality assumption by showing people are loss-averse. This means what?",
+    "choices": ["They dislike all losses equally", "They weigh losses more heavily than equivalent gains", "They avoid all financial risk", "They prefer certain outcomes always"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The prefrontal cortex is crucial for executive functions. Which is NOT typically an executive function?",
+    "choices": ["Working memory", "Impulse control", "Visual perception", "Planning"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Broca's aphasia, resulting from damage to Broca's area, primarily impairs which language ability?",
+    "choices": ["Language comprehension", "Language production", "Verbal memory", "Auditory processing"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Wernicke's aphasia results from damage to which brain region?",
+    "choices": ["Left prefrontal cortex", "Left temporal lobe", "Right parietal lobe", "Cerebellum"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In metacognition, people often overestimate their knowledge of familiar topics. This is called what?",
+    "choices": ["Dunning-Kruger effect", "Illusion of transparency", "False consensus effect", "Overconfidence bias"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Tulving distinguished between semantic memory and episodic memory. Episodic memory involves what aspect?",
+    "choices": ["General knowledge", "Personal experiences with temporal context", "Skill and procedure knowledge", "Emotional associations"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The mere exposure effect suggests that familiarity breeds what?",
+    "choices": ["Contempt", "Liking", "Indifference", "Jealousy"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In the Stroop effect, naming the color of ink becomes difficult when the ink color and word meaning are what?",
+    "choices": ["Identical", "Complementary", "Incongruent", "Saturated"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Hedonic treadmill theory suggests that people return to a baseline level of happiness after major events. What determines this baseline?",
+    "choices": ["Environmental factors", "Genetic and personal set point", "Lifetime income", "Social relationships"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The fundamental attribution error describes the tendency to attribute others' behavior to what type of factors over situational ones?",
+    "choices": ["Environmental", "Dispositional", "Cultural", "Temporal"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In modern neuroscience, neuroplasticity demonstrates that the brain can reorganize itself. This ability is greatest during which period?",
+    "choices": ["Old age", "Childhood and adolescence", "Middle age", "After injury only"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The theory of mind ability—understanding that others have beliefs different from our own—typically develops by what age?",
+    "choices": ["Age 18 months", "Age 3-4 years", "Age 7-8 years", "Age 12 years"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In classical conditioning, extinction occurs when the conditioned stimulus is presented repeatedly without what?",
+    "choices": ["A conscious effort", "The unconditioned stimulus", "Reward", "Attention"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Implicit bias occurs unconsciously and operates outside of what?",
+    "choices": ["The limbic system", "Conscious awareness and control", "Working memory", "Semantic memory"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The recency bias (in decision-making) causes people to overweight recent events. How does this differ from the recency effect in memory?",
+    "choices": ["They are identical phenomena", "One affects decisions, the other affects memory recall", "One is conscious, the other unconscious", "They occur in opposite brain regions"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In operant conditioning, which schedule of reinforcement typically produces the most persistent behavior and highest resistance to extinction?",
+    "choices": ["Fixed ratio", "Fixed interval", "Variable ratio", "Continuous reinforcement"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Baltes' life-span development perspective proposes that development is multidirectional. What does this mean?",
+    "choices": ["Only positive change occurs", "Both gains and losses occur across the lifespan", "Development stops after adolescence", "Change is unpredictable"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  }
+]

@@ -1,0 +1,2796 @@
+[
+  {
+    "text": "What is the National Pokédex number of Pikachu?",
+    "choices": [
+      "025",
+      "023",
+      "027",
+      "029"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Pokémon is classified as the 'Seed Pokémon'?",
+    "choices": [
+      "Bellsprout",
+      "Bulbasaur",
+      "Oddish",
+      "Exeggcute"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Mewtwo holds which Pokédex number?",
+    "choices": [
+      "149",
+      "151",
+      "150",
+      "152"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What type is Gyarados primarily classified as?",
+    "choices": [
+      "Water",
+      "Dragon",
+      "Water/Dragon",
+      "Water/Flying"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Pokémon evolves from Magikarp?",
+    "choices": [
+      "Gyarados",
+      "Lapras",
+      "Dratini",
+      "Seadra"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Dragonite is the evolution of which Pokémon?",
+    "choices": [
+      "Dratini",
+      "Dragonair",
+      "Salamence",
+      "Bagon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the National Pokédex number of Charizard?",
+    "choices": [
+      "005",
+      "007",
+      "006",
+      "008"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Articuno, Zapdos, and Moltres are classified as which type of Pokémon?",
+    "choices": [
+      "Legendary Dragons",
+      "Mystical Beasts",
+      "Sky Guardians",
+      "Legendary Birds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which evolution stone is required to evolve Pikachu into Raichu?",
+    "choices": [
+      "Thunder Stone",
+      "Fire Stone",
+      "Water Stone",
+      "Moon Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Bulbasaur evolves into Ivysaur at which level?",
+    "choices": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What type is Alakazam?",
+    "choices": [
+      "Psychic/Fighting",
+      "Ghost/Psychic",
+      "Psychic",
+      "Electric/Psychic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Pokémon is the final evolution of Charmander?",
+    "choices": [
+      "Charmeleon",
+      "Arcanine",
+      "Typhlosion",
+      "Charizard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Eevee can evolve into Vaporeon using which stone?",
+    "choices": [
+      "Water Stone",
+      "Damp Stone",
+      "Rain Stone",
+      "Ice Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the Pokédex number range for Kanto's starter Pokémon?",
+    "choices": [
+      "001-003",
+      "007-009",
+      "004-006",
+      "001-009"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Cloyster evolves from Shellder using which method?",
+    "choices": [
+      "Level 35",
+      "Trade",
+      "Water Stone",
+      "Moon Stone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Pokémon requires a trade to evolve into Machamp?",
+    "choices": [
+      "Machop",
+      "Mankey",
+      "Primeape",
+      "Machoke"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What type is the Pokémon Snorlax?",
+    "choices": [
+      "Normal",
+      "Normal/Psychic",
+      "Ground",
+      "Normal/Ground"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Blastoise is the final evolution of which Pokémon?",
+    "choices": [
+      "Wartortle",
+      "Squirtle",
+      "Lapras",
+      "Seadra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which evolution stone evolves Jolteon from Eevee?",
+    "choices": [
+      "Water Stone",
+      "Fire Stone",
+      "Thunder Stone",
+      "Leaf Stone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Geodude evolves into Graveler at which level?",
+    "choices": [
+      "24",
+      "26",
+      "27",
+      "25"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What type is super-effective against Electric-type Pokémon?",
+    "choices": [
+      "Ground",
+      "Fire",
+      "Psychic",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which type is weak to Fighting-type moves?",
+    "choices": [
+      "Psychic",
+      "Normal",
+      "Flying",
+      "Ghost"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Ghost-type moves have no effect on which type?",
+    "choices": [
+      "Psychic",
+      "Dark",
+      "Normal",
+      "Water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Water-type moves are super-effective against which type?",
+    "choices": [
+      "Grass",
+      "Electric",
+      "Ice",
+      "Rock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which type is immune to Poison-type status effects?",
+    "choices": [
+      "Steel",
+      "Grass",
+      "Bug",
+      "Dark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Fire-type moves are super-effective against which type?",
+    "choices": [
+      "Water",
+      "Steel",
+      "Ground",
+      "Rock"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Grass-type moves are weak to which type?",
+    "choices": [
+      "Water",
+      "Psychic",
+      "Fire",
+      "Poison"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What type is weak to both Grass and Electric moves?",
+    "choices": [
+      "Fire",
+      "Water",
+      "Rock",
+      "Ground"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Flying-type moves are super-effective against which type?",
+    "choices": [
+      "All of the above",
+      "Grass",
+      "Bug",
+      "Fighting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Psychic-type moves are super-effective against which types?",
+    "choices": [
+      "Ghost and Dark",
+      "Fighting and Poison",
+      "Normal and Flying",
+      "Dark and Ghost"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What type is weak to Ice-type moves?",
+    "choices": [
+      "Water",
+      "Flying",
+      "All of the above",
+      "Dragon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which type is weak to Dark-type moves?",
+    "choices": [
+      "Psychic",
+      "Ghost",
+      "Flying",
+      "Both Psychic and Ghost"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Ground-type moves are super-effective against which type?",
+    "choices": [
+      "All of the above",
+      "Flying",
+      "Electric",
+      "Poison"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What type is resistant to Normal-type moves?",
+    "choices": [
+      "Rock",
+      "No type is resistant",
+      "Psychic",
+      "Ghost"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In which city would you find Brock, the first Gym Leader of Kanto?",
+    "choices": [
+      "Viridian City",
+      "Cerulean City",
+      "Pewter City",
+      "Vermilion City"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Gym Leader uses Water-type Pokémon in Cerulean City?",
+    "choices": [
+      "Brock",
+      "Erika",
+      "Sabrina",
+      "Misty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Lt. Surge, the Electric-type Gym Leader, resides in which city?",
+    "choices": [
+      "Vermilion City",
+      "Cerulean City",
+      "Celadon City",
+      "Fuchsia City"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Pokémon is Misty's signature Pokémon in the Kanto Gym?",
+    "choices": [
+      "Lapras",
+      "Starmie",
+      "Psyduck",
+      "Gyarados"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Sabrina, the Psychic-type Gym Leader, is located in which city?",
+    "choices": [
+      "Celadon City",
+      "Cinnabar Island",
+      "Saffron City",
+      "Viridian City"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Gym Leader uses Fire-type Pokémon on Cinnabar Island?",
+    "choices": [
+      "Giovanni",
+      "Erika",
+      "Koga",
+      "Blaine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Giovanni is the leader of which Gym in Kanto?",
+    "choices": [
+      "Viridian City",
+      "Pewter City",
+      "Cerulean City",
+      "Celadon City"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Johto, which Gym Leader specializes in Flying-type Pokémon?",
+    "choices": [
+      "Bugsy",
+      "Falkner",
+      "Whitney",
+      "Morty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Jasmine, the Steel-type Gym Leader of Johto, is located in which city?",
+    "choices": [
+      "Ecruteak City",
+      "Mahogany Town",
+      "Olivine City",
+      "Goldenrod City"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Gym Leader in Johto uses Dragon-type Pokémon?",
+    "choices": [
+      "Chuck",
+      "Pryce",
+      "Morty",
+      "Clair"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Whitney specializes in which type as a Johto Gym Leader?",
+    "choices": [
+      "Normal",
+      "Bug",
+      "Ghost",
+      "Fighting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Hoenn, which Gym Leader uses Rock-type Pokémon in Rustboro City?",
+    "choices": [
+      "Brawly",
+      "Roxanne",
+      "Watson",
+      "Norman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Norman, a Gym Leader in Hoenn, specializes in which type?",
+    "choices": [
+      "Fighting",
+      "Flying",
+      "Normal",
+      "Psychic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Tate and Liza are twin Gym Leaders in Hoenn who specialize in which type?",
+    "choices": [
+      "Electric",
+      "Steel",
+      "Dragon",
+      "Psychic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Pokémon is known as the 'Mystic Pokémon'?",
+    "choices": [
+      "Mew",
+      "Alakazam",
+      "Espeon",
+      "Mewtwo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Lugia, the Legendary Pokémon of Johto, is what type?",
+    "choices": [
+      "Water/Flying",
+      "Water/Psychic",
+      "Psychic/Flying",
+      "Water/Ghost"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Ho-Oh, the Legendary Pokémon of Johto, has which typing?",
+    "choices": [
+      "Fire/Psychic",
+      "Fire/Dragon",
+      "Fire/Flying",
+      "Fire/Normal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Legendary Pokémon is associated with rain and is found in Hoenn?",
+    "choices": [
+      "Groudon",
+      "Rayquaza",
+      "Jirachi",
+      "Kyogre"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Groudon is associated with which elemental force in Hoenn?",
+    "choices": [
+      "Ground",
+      "Water",
+      "Fire",
+      "Drought"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Rayquaza, the Legendary Pokémon of Hoenn, is what type?",
+    "choices": [
+      "Flying",
+      "Dragon/Flying",
+      "Psychic/Flying",
+      "Dragon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Where is Rayquaza encountered in Pokémon Ruby and Sapphire?",
+    "choices": [
+      "Mt. Pyre",
+      "Seafloor Cavern",
+      "Sky Pillar",
+      "Meteor Falls"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Zapdos, the Legendary Electric Bird, is what type?",
+    "choices": [
+      "Electric",
+      "Electric/Psychic",
+      "Flying",
+      "Electric/Flying"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Legendary Pokémon is known as the 'Genetic Pokémon'?",
+    "choices": [
+      "Mewtwo",
+      "Mew",
+      "Jirachi",
+      "Deoxys"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The three Legendary Beasts of Johto (Raikou, Entei, Suicune) are what type?",
+    "choices": [
+      "Electric, Fire, Psychic",
+      "Electric, Fire, Water",
+      "Electric, Ground, Water",
+      "Electric, Fire, Grass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Legendary Pokémon in Hoenn is a Steel/Psychic-type?",
+    "choices": [
+      "Deoxys",
+      "Rayquaza",
+      "Jirachi",
+      "Latios"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Latios and Latias in Hoenn are what type?",
+    "choices": [
+      "Dragon/Flying",
+      "Psychic/Flying",
+      "Dragon/Water",
+      "Dragon/Psychic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Articuno is what type of Legendary Pokémon?",
+    "choices": [
+      "Ice/Flying",
+      "Ice",
+      "Water/Flying",
+      "Ice/Psychic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Moltres, one of the Legendary Birds, is what type?",
+    "choices": [
+      "Fire",
+      "Fire/Flying",
+      "Fire/Psychic",
+      "Fire/Dragon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Legendary Pokémon appears at Mt. Silver in Gold/Silver?",
+    "choices": [
+      "Lugia",
+      "Ho-Oh",
+      "Red's Pikachu",
+      "Red's Charizard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Team Rocket's leader in Generation 1 is?",
+    "choices": [
+      "Archie",
+      "Maxie",
+      "Cyrus",
+      "Giovanni"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which Team is responsible for trying to expand the ocean in Hoenn?",
+    "choices": [
+      "Team Aqua",
+      "Team Magma",
+      "Team Rocket",
+      "Team Plasma"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Team Magma's primary goal in Hoenn is to?",
+    "choices": [
+      "Expand the ocean",
+      "Expand the land",
+      "Destroy all Pokémon",
+      "Control the weather"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who is the leader of Team Magma in Hoenn?",
+    "choices": [
+      "Archie",
+      "Giovanni",
+      "Maxie",
+      "Tabitha"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who is the leader of Team Aqua in Hoenn?",
+    "choices": [
+      "Maxie",
+      "Giovanni",
+      "Matt",
+      "Archie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Team Rocket member is also a Gym Leader?",
+    "choices": [
+      "Koga",
+      "Sabrina",
+      "Erika",
+      "Misty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Team Rocket is primarily based in which city in Kanto?",
+    "choices": [
+      "Cerulean City",
+      "Viridian City",
+      "Celadon City",
+      "Cinnabar Island"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In which generation was Dark-type introduced?",
+    "choices": [
+      "Generation 1",
+      "Generation 3",
+      "Generation 2",
+      "Generation 4"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Steel-type was introduced in which generation?",
+    "choices": [
+      "Generation 1",
+      "Generation 3",
+      "Generation 4",
+      "Generation 2"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What item is used to teach a Pokémon a move in battle?",
+    "choices": [
+      "Technical Machine (TM)",
+      "Pokédex",
+      "Natural Gift",
+      "Move Tutor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which item, when held by a Pokémon, increases its Special Attack stat?",
+    "choices": [
+      "Assault Vest",
+      "Choice Specs",
+      "Life Orb",
+      "Wise Glasses"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How many Poké Balls are typically given at the start of a Pokémon adventure?",
+    "choices": [
+      "3",
+      "10",
+      "5",
+      "15"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which item is used to fully heal a Pokémon's HP?",
+    "choices": [
+      "Potion",
+      "Super Potion",
+      "Full Heal",
+      "Full Restore"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In-game trades in Pokémon often involve trading which Pokémon?",
+    "choices": [
+      "Drowzee",
+      "Abra",
+      "Machop",
+      "Poliwag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the type of Poké Ball with the best catch rate for legendary Pokémon?",
+    "choices": [
+      "Ultra Ball",
+      "Master Ball",
+      "Great Ball",
+      "Premier Ball"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which held item doubles the Pokémon's Experience gain?",
+    "choices": [
+      "Amulet Coin",
+      "Assault Vest",
+      "Exp. Share",
+      "Focus Sash"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does the item 'Everstone' do when held by a Pokémon?",
+    "choices": [
+      "Boosts Defense",
+      "Increases Experience",
+      "Cures Status",
+      "Prevents Evolution"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Pokémon Red/Blue, which city has a Pokémon Center but no Gym?",
+    "choices": [
+      "Viridian City",
+      "Cerulean City",
+      "Celadon City",
+      "Cinnabar Island"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the name of the sea route between Pallet Town and Cinnabar Island?",
+    "choices": [
+      "Route 19",
+      "Route 21",
+      "Route 20",
+      "Route 22"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which legendary Pokémon can be found in Cerulean Cave in FireRed/LeafGreen?",
+    "choices": [
+      "Articuno",
+      "Zapdos",
+      "Mewtwo",
+      "Mew"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which city is home to the Goldenrod Department Store?",
+    "choices": [
+      "Ecruteak City",
+      "Olivine City",
+      "Azalea Town",
+      "Goldenrod City"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is Mt. Silver primarily known for in Gold/Silver/Crystal?",
+    "choices": [
+      "Red's location",
+      "Fire-type Pokémon habitat",
+      "Silver location",
+      "Crystal caverns"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Ilex Forest in Johto is home to which Legendary Pokémon?",
+    "choices": [
+      "Mew",
+      "Celebi",
+      "Lugia",
+      "Ho-Oh"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which city in Hoenn is home to Pokémon Contest halls?",
+    "choices": [
+      "Pacifidlog Town",
+      "Sootopolis City",
+      "Lilycove City",
+      "Fortree City"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Sky Pillar in Hoenn is located in which route?",
+    "choices": [
+      "Route 119",
+      "Route 123",
+      "Route 125",
+      "Route 131"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Pokémon is known for the move 'Hyperbeam'?",
+    "choices": [
+      "Snorlax",
+      "Blastoise",
+      "Arcanine",
+      "Lapras"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What type of move is 'Earthquake'?",
+    "choices": [
+      "Flying",
+      "Ground",
+      "Rock",
+      "Water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Pokémon is known for learning 'Psychic' as a signature move?",
+    "choices": [
+      "Alakazam",
+      "Exeggcutor",
+      "Espeon",
+      "Jynx"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the base power of 'Thunderbolt'?",
+    "choices": [
+      "80",
+      "100",
+      "110",
+      "90"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which move is exclusive to Mewtwo?",
+    "choices": [
+      "Psystrike",
+      "Psychic",
+      "Recover",
+      "Calm Mind"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What type of move is 'Surf'?",
+    "choices": [
+      "Electric",
+      "Water",
+      "Psychic",
+      "Dragon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Pokémon learns 'Dragon Dance' naturally?",
+    "choices": [
+      "Dragonite",
+      "Bagon",
+      "Rayquaza",
+      "Salamence"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the move 'Earthquake' primarily effective against?",
+    "choices": [
+      "Fire",
+      "Flying",
+      "Water",
+      "Electric"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which move restores the user's health?",
+    "choices": [
+      "Recover",
+      "Refresh",
+      "Heal",
+      "Synthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What type of move is 'Stone Edge'?",
+    "choices": [
+      "Ground",
+      "Rock",
+      "Water",
+      "Ice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Alakazam's signature ability is?",
+    "choices": [
+      "Synchronize",
+      "Inner Focus",
+      "Magic Guard",
+      "Analytic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Pokémon has the ability 'Torrent'?",
+    "choices": [
+      "Charizard",
+      "Venusaur",
+      "Squirtle",
+      "Blastoise"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Intimidate is the signature ability of which Pokémon?",
+    "choices": [
+      "Arcanine",
+      "Growlithe",
+      "Machamp",
+      "Mankey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What does the ability 'Synchronize' do?",
+    "choices": [
+      "Doubles Speed",
+      "Passes status conditions",
+      "Increases Attack",
+      "Reflects moves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Pokémon has the ability 'Blaze'?",
+    "choices": [
+      "Charmander",
+      "Charmeleon",
+      "All of the above",
+      "Charizard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Levitate is an ability that prevents damage from which type of move?",
+    "choices": [
+      "Electric",
+      "Flying",
+      "Psychic",
+      "Ground"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which ability increases the holder's Special Attack in rain?",
+    "choices": [
+      "Rain Dish",
+      "Hydration",
+      "Swift Swim",
+      "Drizzle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the base experience yield for catching a Mewtwo in the wild?",
+    "choices": [
+      "101",
+      "151",
+      "131",
+      "180"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many base stat points does Snorlax have in total?",
+    "choices": [
+      "540",
+      "600",
+      "580",
+      "620"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Pokémon has the highest base Special Attack stat in Generation 1?",
+    "choices": [
+      "Exeggutor",
+      "Starmie",
+      "Lapras",
+      "Alakazam"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Dragonite's base Attack stat is approximately?",
+    "choices": [
+      "134",
+      "100",
+      "120",
+      "150"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which starter Pokémon has the highest base Special Attack in Kanto?",
+    "choices": [
+      "Charmander",
+      "Bulbasaur",
+      "Squirtle",
+      "They are equal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the base Speed stat of Alakazam?",
+    "choices": [
+      "100",
+      "110",
+      "135",
+      "120"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Pokémon was NOT one of the original 151 Pokémon in Generation 1?",
+    "choices": [
+      "Mewtwo",
+      "Mew",
+      "Raichu",
+      "Celebi"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many types are there in Generations 1-3?",
+    "choices": [
+      "17",
+      "15",
+      "16",
+      "18"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the minimum level for evolution by level-up in the Pokédex?",
+    "choices": [
+      "5",
+      "16",
+      "10",
+      "20"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Poliwrath evolves from which Pokémon using a Water Stone?",
+    "choices": [
+      "Poliwag",
+      "Tentacruel",
+      "Poliwhirl",
+      "Horsea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Pokémon cannot learn moves by leveling but can learn them via TM/HM?",
+    "choices": [
+      "Porygon",
+      "Snorlax",
+      "Lapras",
+      "Ditto"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In the Johto region, which Pokémon is the Legendary guardian of the tower?",
+    "choices": [
+      "Ho-Oh",
+      "Lugia",
+      "Suicune",
+      "Raikou"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Pokémon can be caught in both Kanto and Johto regions?",
+    "choices": [
+      "Pikachu",
+      "All of the above",
+      "Gyarados",
+      "Snorlax"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Clair uses which Pokémon as her ace in Blackthorn City?",
+    "choices": [
+      "Salamence",
+      "Kingdra",
+      "Dragonite",
+      "Gyarados"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Gym Leader's Pokémon has the ability Aftermath?",
+    "choices": [
+      "Whitney",
+      "Clair",
+      "Chuck",
+      "Pryce"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Morty, the Ecruteak City Gym Leader, uses how many Pokémon in his team?",
+    "choices": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Pokémon is associated with the route between Cerulean City and Rock Tunnel?",
+    "choices": [
+      "Machop",
+      "Onix",
+      "Geodude",
+      "Graveler"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Ruby/Sapphire, Norman uses which Pokémon as his ace?",
+    "choices": [
+      "Machamp",
+      "Primeape",
+      "Slaking",
+      "Arcanine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the highest Pokédex number in Generation 1?",
+    "choices": [
+      "150",
+      "152",
+      "153",
+      "151"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Mareep, the Electric Sheep Pokémon, is from which generation?",
+    "choices": [
+      "Generation 2",
+      "Generation 1",
+      "Generation 3",
+      "Generation 4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Pokémon is known as the 'Barrier Pokémon'?",
+    "choices": [
+      "Alakazam",
+      "Mr. Mime",
+      "Jynx",
+      "Psychic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Ditto can transform into which Pokémon?",
+    "choices": [
+      "Any Pokémon except itself",
+      "Any Pokémon it has seen",
+      "Only Pokémon on the opposing team",
+      "Only Pokémon in its Pokédex"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "How many Evolution Stones exist in Generations 1-3?",
+    "choices": [
+      "5",
+      "8",
+      "9",
+      "7"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Pokémon requires happiness to evolve?",
+    "choices": [
+      "Pichu",
+      "Espeon",
+      "Umbreon",
+      "Chansey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Horsea evolves into which Pokémon?",
+    "choices": [
+      "Kingdra",
+      "Seadra",
+      "Lapras",
+      "Dragonair"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Pokémon has a base Power in the move 'Hyper Beam' of 150?",
+    "choices": [
+      "Blastoise",
+      "Lapras",
+      "Snorlax",
+      "Machamp"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Lance, the Champion of the Indigo League, specializes in which type?",
+    "choices": [
+      "Fire",
+      "Water",
+      "Psychic",
+      "Dragon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the role of Blue in Pokémon Red/Blue/Yellow?",
+    "choices": [
+      "Rival and later Champion",
+      "Team Rocket Leader",
+      "Gym Leader",
+      "Elite Four member"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Ho-Oh can be caught in which location in Johto?",
+    "choices": [
+      "Whirl Islands",
+      "Bell Tower",
+      "Burned Tower",
+      "Mt. Silver"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Lugia is encountered in which location in Johto?",
+    "choices": [
+      "Bell Tower",
+      "Burned Tower",
+      "Whirl Islands",
+      "Mt. Mortar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Pokémon is the Champion of the Hoenn League in Ruby/Sapphire?",
+    "choices": [
+      "Wallace",
+      "Norman",
+      "Winona",
+      "Steven"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Emerald, who becomes the new Gym Leader when Wallace becomes Champion?",
+    "choices": [
+      "Juan",
+      "Liza",
+      "Tate",
+      "Wallace again"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Red, the player character in Red/Blue/Yellow, ends up in which location at the end of the game?",
+    "choices": [
+      "Viridian City",
+      "Victory Road",
+      "Mt. Moon",
+      "Cerulean Cave"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Silver, the rival in Gold/Silver/Crystal, is the son of which character?",
+    "choices": [
+      "Lance",
+      "Sabrina",
+      "Giovanni",
+      "Blaine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Brawly is the Gym Leader of which city in Hoenn?",
+    "choices": [
+      "Verdanturf Town",
+      "Lavaridge Town",
+      "Fortree City",
+      "Dewford Town"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What type of Pokémon does Wallace specialize in before becoming Champion?",
+    "choices": [
+      "Water",
+      "Psychic",
+      "Electric",
+      "Flying"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Kingdra is the evolution of which Pokémon using a Dragon Scale?",
+    "choices": [
+      "Horsea",
+      "Seadra",
+      "Dratini",
+      "Dragonair"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Pokémon requires 100 Friendship to evolve into Espeon?",
+    "choices": [
+      "Pichu",
+      "Azurill",
+      "Eevee",
+      "Buneary"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the correct pronunciation of 'Jynx' in English?",
+    "choices": [
+      "Jinks",
+      "Yinx",
+      "Jynks",
+      "Jinx"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Pokémon Red/Blue, how many gym badges do you need to progress past a certain point?",
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many Pokémon are in the player's team at the start of most Pokémon games?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Pokémon line starts with the lowest base stats in Generation 1?",
+    "choices": [
+      "Slowpoke",
+      "Psyduck",
+      "Magikarp",
+      "Poliwag"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Shelby's gym is located in which city in Hoenn?",
+    "choices": [
+      "Dewford Town",
+      "Mauville City",
+      "Lavaridge Town",
+      "Rustboro City"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the professor who gives you a Pokédex in Kanto?",
+    "choices": [
+      "Professor Oak",
+      "Professor Elm",
+      "Professor Rowan",
+      "Professor Birch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In Johto, which professor gives you the Pokédex?",
+    "choices": [
+      "Professor Oak",
+      "Professor Elm",
+      "Professor Rowan",
+      "Professor Birch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which professor gives you the Pokédex in Hoenn?",
+    "choices": [
+      "Professor Oak",
+      "Professor Elm",
+      "Professor Birch",
+      "Professor Rowan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Team Aqua's base in Hoenn is located where?",
+    "choices": [
+      "Mt. Pyre",
+      "Seafloor Cavern",
+      "Lilycove City",
+      "Team Aqua Hideout"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Team Magma's base in Hoenn is located where?",
+    "choices": [
+      "Team Magma Hideout",
+      "Mt. Chimney",
+      "Magma Cavern",
+      "Lavaridge Town"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which legendary Pokémon can only be caught in one specific version of Hoenn?",
+    "choices": [
+      "Groudon",
+      "Jirachi",
+      "Kyogre",
+      "Rayquaza"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the primary weakness of a Psychic-type Pokémon in Generations 1-2?",
+    "choices": [
+      "Psychic",
+      "Bug",
+      "Dark",
+      "Ghost"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Porygon2 evolves from Porygon using which item?",
+    "choices": [
+      "Upgrade",
+      "Dubious Disc",
+      "Upgrade Stone",
+      "Up-Grade"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Pokémon cannot be caught in the wild in Red/Blue?",
+    "choices": [
+      "Mewtwo",
+      "Articuno",
+      "Zapdos",
+      "Moltres"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many evolution branches does Eevee have in Generations 1-2?",
+    "choices": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Vileplume and Bellossom both evolve from which Pokémon?",
+    "choices": [
+      "Oddish",
+      "Bellsprout",
+      "Gloom",
+      "Weepinbell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What item is needed to evolve Gloom into Vileplume?",
+    "choices": [
+      "Leaf Drop",
+      "Moss Stone",
+      "Sun Stone",
+      "Leaf Stone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Bellossom evolves from Gloom using which item in Generations 2-3?",
+    "choices": [
+      "Sun Stone",
+      "Leaf Stone",
+      "Water Stone",
+      "Moon Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Scyther evolves into which Pokémon in later generations?",
+    "choices": [
+      "Scyther/Scizor",
+      "Scizor",
+      "Scythe",
+      "Mantis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What type combination does Scizor have?",
+    "choices": [
+      "Bug/Flying",
+      "Steel/Flying",
+      "Bug/Steel",
+      "Grass/Steel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Pokémon is legendary in Hoenn but not in other regions?",
+    "choices": [
+      "Groudon",
+      "Kyogre",
+      "Jirachi",
+      "Rayquaza"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which Pokémon appears at the Burned Tower?",
+    "choices": [
+      "Raikou",
+      "Ho-Oh",
+      "Suicune",
+      "Entei"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which of the legendary beasts roams Johto after the Burned Tower incident?",
+    "choices": [
+      "Raikou and Entei",
+      "All three",
+      "Suicune alone",
+      "Only Raikou"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Registeel, one of the Regis, is what type?",
+    "choices": [
+      "Steel/Psychic",
+      "Steel/Fighting",
+      "Steel",
+      "Steel/Rock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Regirock is what type of Pokémon?",
+    "choices": [
+      "Rock/Steel",
+      "Rock/Ground",
+      "Rock/Psychic",
+      "Rock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Where is the Regi temple in Hoenn located?",
+    "choices": [
+      "Sealed Chamber",
+      "Desert Ruins",
+      "Island Cave",
+      "Ancient Tomb"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Pokémon has a base HP of 100 in Generation 1?",
+    "choices": [
+      "Snorlax",
+      "Chansey",
+      "Lapras",
+      "Articuno"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the only Pokémon move that deals damage based on the user's level?",
+    "choices": [
+      "Night Shade",
+      "Dragon Rage",
+      "Seismic Toss",
+      "Level Up"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In the Pokémon Stadium games, which trainer uses a Blastoise as their ace?",
+    "choices": [
+      "Red",
+      "Misty",
+      "Brock",
+      "Blue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Nidoqueen is the female evolution of which Pokémon?",
+    "choices": [
+      "Nidoran Female",
+      "Nidoran Male",
+      "Nidorino",
+      "Nidoking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which move has the highest accuracy stat at 100%?",
+    "choices": [
+      "Hyper Beam",
+      "Swift",
+      "Confusion",
+      "Psychic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the fastest Pokémon in Generation 1 by base Speed stat?",
+    "choices": [
+      "Snorlax",
+      "Dragonite",
+      "Alakazam",
+      "Lapras"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Pokémon was intentionally banned from competitive play in some tournaments?",
+    "choices": [
+      "Alakazam",
+      "Dragonite",
+      "Lapras",
+      "Mewtwo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Machamp is known for having how many arms?",
+    "choices": [
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Pokémon has a signature move called 'Dragon Rage' that always deals 40 damage?",
+    "choices": [
+      "Dragonair",
+      "Dratini",
+      "Dragonite",
+      "Salamence"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Starmie can rotate its core like a wheel. How many points does it have?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the secondary type of Gyarados?",
+    "choices": [
+      "Dragon",
+      "Water",
+      "No secondary type",
+      "Flying"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Pokémon is the only water type that doesn't evolve by Water Stone?",
+    "choices": [
+      "Shellder",
+      "Poliwag",
+      "Slowpoke",
+      "Krabby"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which generation introduced the Nature mechanic to Pokémon?",
+    "choices": [
+      "Generation 1",
+      "Generation 2",
+      "Generation 3",
+      "Generation 4"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the rarest Pokémon to encounter in the wild in Red/Blue?",
+    "choices": [
+      "Articuno",
+      "Dragonite",
+      "Mewtwo",
+      "Pikachu"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Pokémon can only be encountered through a gift, not the wild?",
+    "choices": [
+      "Eevee",
+      "Lapras",
+      "Snorlax",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Red/Blue, which Pokémon is given as a gift in Cerulean City?",
+    "choices": [
+      "Eevee",
+      "Oddish",
+      "Poliwag",
+      "Bellsprout"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Pokémon's evolutionary line includes four different evolutions?",
+    "choices": [
+      "Wurmple",
+      "Eevee",
+      "Poliwag",
+      "Oddish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the correct weakness order for the three starter Pokémon of Kanto?",
+    "choices": [
+      "Bulbasaur>Squirtle>Charmander",
+      "Squirtle>Charmander>Bulbasaur",
+      "Bulbasaur>Charmander>Squirtle",
+      "Charmander>Bulbasaur>Squirtle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "At what level does Weedle evolve into Kakuna in Pokémon Red/Blue?",
+    "choices": [
+      "5",
+      "10",
+      "12",
+      "7"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How many base Attack does Machamp have, making it one of the highest among non-legendary Pokémon?",
+    "choices": [
+      "130",
+      "120",
+      "140",
+      "150"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Pokémon Red/Blue, which Pokémon is obtained by trading for a specific NPC Pokémon in Cerulean City, and what is its original trainer's name?",
+    "choices": [
+      "Poliwag named Poliwag by Poliwag",
+      "Machoke named Machoke by Machoke",
+      "Seadra named Ditto by Blue",
+      "Haunter named Haunter by Haunter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the base stat total of Dragonite, the pseudo-legendary of Generation 1?",
+    "choices": [
+      "605",
+      "610",
+      "600",
+      "615"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "At which level does Pidgeotto evolve into Pidgeot in Pokémon Red/Blue?",
+    "choices": [
+      "32",
+      "34",
+      "38",
+      "36"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which TM move is taught by defeating Blaine in the Cinnabar Gym and grants the TM containing Fire Blast?",
+    "choices": [
+      "TM 33",
+      "TM 29",
+      "TM 31",
+      "TM 35"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "In Pokémon Gold/Silver, Misty uses which Water-type ace Pokémon with the highest level in her team?",
+    "choices": [
+      "Starmie",
+      "Kingdra",
+      "Golduck",
+      "Lapras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is Alakazam's base Special Attack stat?",
+    "choices": [
+      "115",
+      "120",
+      "125",
+      "130"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How many base Speed does Gengar have in Pokémon Red/Blue?",
+    "choices": [
+      "100",
+      "110",
+      "115",
+      "105"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Red/Blue, what must you do to evolve Gloom into Bellossom?",
+    "choices": [
+      "Use a Sun Stone",
+      "Trade it",
+      "Use a Moon Stone",
+      "Use a Leaf Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Gym Leader in Pokémon Red/Blue uses an Alakazam as their ace Pokémon?",
+    "choices": [
+      "Blaine",
+      "Sabrina",
+      "Giovanni",
+      "Koga"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the base stat total for Snorlax, one of the tankiest non-legendary Pokémon?",
+    "choices": [
+      "515",
+      "520",
+      "525",
+      "530"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Red/Blue, which fossil revives into Aerodactyl?",
+    "choices": [
+      "Helix Fossil",
+      "Dome Fossil",
+      "Root Fossil",
+      "Old Amber"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "At what level does Ekans evolve into Arbok?",
+    "choices": [
+      "22",
+      "20",
+      "21",
+      "23"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Pokémon Red/Blue, which Pokémon can be obtained by choosing a specific path in Fuchsia City's Gym leading to Janine/Koga?",
+    "choices": [
+      "Lapras or Snorlax",
+      "Hitmonlee or Hitmonchan",
+      "Meowth or Persian",
+      "Growlithe or Vulpix"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is Chansey's base HP stat?",
+    "choices": [
+      "250",
+      "265",
+      "260",
+      "270"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Pokémon Gold/Silver, at what level does Pichu evolve into Pikachu?",
+    "choices": [
+      "20",
+      "25",
+      "30",
+      "Friendship"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Pokémon in Pokémon Red/Blue is the guaranteed capture that blocks your path in Saffron City?",
+    "choices": [
+      "Snorlax",
+      "Lapras",
+      "Dragonite",
+      "Articuno"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is Rhydon's base Attack stat?",
+    "choices": [
+      "140",
+      "135",
+      "145",
+      "150"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Red/Blue, which HM move is required to navigate Mt. Moon?",
+    "choices": [
+      "Strength",
+      "Cut",
+      "Flash",
+      "Surf"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "At what level does Zubat evolve into Golbat in Pokémon Red/Blue?",
+    "choices": [
+      "20",
+      "24",
+      "26",
+      "22"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which badge in Pokémon Red/Blue grants the TM Earthquake?",
+    "choices": [
+      "Earth Badge",
+      "Boulder Badge",
+      "Thunder Badge",
+      "Volcano Badge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Gold/Silver, Janine replaced which Gym Leader in the Fuchsia City Gym?",
+    "choices": [
+      "Sabrina",
+      "Koga",
+      "Blaine",
+      "Giovanni"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the base Special stat of Chansey in Pokémon Red/Blue?",
+    "choices": [
+      "35",
+      "50",
+      "65",
+      "75"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which of Rayquaza's typings makes it immune to Spikes entry hazard damage?",
+    "choices": [
+      "Dragon",
+      "Both Dragon and Flying",
+      "Neither",
+      "Flying"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "How many base points does a single Nature increase in Pokémon Ruby/Sapphire?",
+    "choices": [
+      "10%",
+      "5%",
+      "15%",
+      "20%"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which Pokémon randomly appears and roams across Hoenn after being encountered?",
+    "choices": [
+      "Kyogre",
+      "Latias or Latios",
+      "Groudon",
+      "Rayquaza"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What type is Rayquaza, the legendary Pokémon at the apex of Hoenn's weather triangle?",
+    "choices": [
+      "Dragon/Psychic",
+      "Flying/Ground",
+      "Dragon/Flying",
+      "Dragon/Grass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which Gym Leader's ace is a Pokémon with the ability Volt Absorb?",
+    "choices": [
+      "Tate and Liza",
+      "Juan",
+      "Wallace",
+      "Wattson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "At what level does Treecko evolve into Grovyle in Pokémon Ruby/Sapphire?",
+    "choices": [
+      "18",
+      "14",
+      "16",
+      "20"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Pokémon Emerald, which Pokémon is guaranteed as a gift and has significant story importance?",
+    "choices": [
+      "Wynaut",
+      "Beldum",
+      "Castform",
+      "Trapinch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the base Defense stat of Blastoise?",
+    "choices": [
+      "83",
+      "87",
+      "85",
+      "90"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which item does Koga's ace Pokémon hold that reflects priority moves?",
+    "choices": [
+      "Assault Vest",
+      "Lum Berry",
+      "Sitrus Berry",
+      "Leftovers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "How many base Special Attack does Exeggutor have?",
+    "choices": [
+      "100",
+      "95",
+      "105",
+      "110"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Red/Blue, which Pokémon is the signature move user Dragon Rage exclusively belongs to before Dratini line?",
+    "choices": [
+      "Charizard",
+      "No other Pokémon learns it",
+      "Gyarados",
+      "Aerodactyl"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "At what level does Charmander evolve into Charmeleon?",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Pokémon Red/Blue, which move is taught by the TM found in Celadon City's Game Corner for 10,000 coins?",
+    "choices": [
+      "Psychic",
+      "Shadow Ball",
+      "Ice Beam",
+      "Thunderbolt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is Arcanine's base Attack stat?",
+    "choices": [
+      "115",
+      "105",
+      "110",
+      "120"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which Gym Leader's team features three Pokémon with double type advantages?",
+    "choices": [
+      "Whitney",
+      "Chuck",
+      "Bugsy",
+      "Pryce"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, what is the ability Treecko gains at level 40?",
+    "choices": [
+      "Overgrow",
+      "Unburden",
+      "Leaf Guard",
+      "Harvest"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which item do you need to use on Gloom to evolve it into Vileplume?",
+    "choices": [
+      "Sun Stone",
+      "Water Stone",
+      "Thunder Stone",
+      "Leaf Stone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which location houses the legendary Pokémon trio challenge?",
+    "choices": [
+      "Mirage Tower",
+      "Tower of Hoenn",
+      "Battle Frontier",
+      "Sky Pillar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is Lapras's base Special stat in Pokémon Red/Blue?",
+    "choices": [
+      "85",
+      "95",
+      "90",
+      "100"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Red/Blue, at which Gym would you obtain the Thunder Badge?",
+    "choices": [
+      "Cerulean City",
+      "Saffron City",
+      "Vermilion City",
+      "Cinnabar Island"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Pokémon in Pokémon Ruby/Sapphire learns the move Drizzle as an ability rather than a move?",
+    "choices": [
+      "Groudon",
+      "Rayquaza",
+      "Castform",
+      "Kyogre"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Pokémon Red/Blue, which water route contains the strongest wild Pokémon including Lapras?",
+    "choices": [
+      "Seafoam Islands",
+      "Route 19",
+      "Route 20",
+      "Route 21"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which Pokémon is guaranteed at the beginning when you receive the starter from Professor Elm's lab?",
+    "choices": [
+      "Mareep",
+      "Chikorita/Cyndaquil/Totodile",
+      "Pichu",
+      "Togepi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "At what level does Squirtle evolve into Wartortle?",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Pokémon Red/Blue, which Pokémon is guaranteed to block your path in Saffron City and requires a specific item to pass?",
+    "choices": [
+      "Machamp",
+      "Lapras",
+      "Dragonite",
+      "Snorlax"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the base Attack stat of Machoke?",
+    "choices": [
+      "90",
+      "80",
+      "100",
+      "110"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which Pokémon has the highest base Speed among the Hoenn starters?",
+    "choices": [
+      "Blaziken",
+      "Sceptile",
+      "Swampert",
+      "All equal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Red/Blue, what color is the trainer card background for a player who has all 8 badges?",
+    "choices": [
+      "Gold",
+      "Bronze",
+      "Platinum",
+      "Silver"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which Pokémon is Clair's ace in the Dragon's Den Gym?",
+    "choices": [
+      "Dragonair",
+      "Kingdra",
+      "Garchomp",
+      "Dragonite"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is Venusaur's base Special stat?",
+    "choices": [
+      "105",
+      "95",
+      "100",
+      "110"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which Gym Leader's team focuses on weather-based mechanics?",
+    "choices": [
+      "Tate and Liza",
+      "Wallace",
+      "Juan",
+      "Wattson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "At what level does Bulbasaur evolve into Ivysaur?",
+    "choices": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Pokémon Red/Blue, which Ghost-type Pokémon is encountered in Pokémon Tower and has a specific evolution method?",
+    "choices": [
+      "Gengar is wild",
+      "Misdreavus can be caught",
+      "Gastly never evolves",
+      "Haunter evolves via trade"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the base Special Defense stat of Blissey in Pokémon Gold/Silver/Crystal?",
+    "choices": [
+      "105",
+      "75",
+      "85",
+      "95"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which move is Rayquaza's signature move?",
+    "choices": [
+      "Outrage",
+      "Dragon Ascent",
+      "Dragon Dance",
+      "Dracometeor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Pokémon Red/Blue, which item must you equip to a Pokémon for it to evolve via trade in later generations?",
+    "choices": [
+      "Exp. Share",
+      "Everstone",
+      "King's Rock",
+      "Metal Coat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "In Pokémon Gold/Silver, which Pokémon evolves from Pichu when leveled up during daytime?",
+    "choices": [
+      "Raichu",
+      "Luxray",
+      "Pichu never evolves to Pikachu based on time",
+      "Pikachu"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is Dragonite's base Speed stat?",
+    "choices": [
+      "78",
+      "76",
+      "80",
+      "82"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which Ability does Torchic gain when it evolves into Combusken?",
+    "choices": [
+      "Blaze",
+      "Speed Boost",
+      "Technician",
+      "Iron Fist"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In Pokémon Red/Blue, which Pokémon Center NPC gives you free healing without requiring a Pokédex entry?",
+    "choices": [
+      "Only in Cerulean",
+      "Only in Lavender Town",
+      "Any Pokémon Center",
+      "Pokémon Centers don't exist"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is Charizard's base Special Attack stat?",
+    "choices": [
+      "105",
+      "115",
+      "120",
+      "109"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Pokémon Ruby/Sapphire, which Pokémon's stat is modified by the Ability Choice Band?",
+    "choices": [
+      "Increased Attack",
+      "Increased Speed",
+      "Increased Special Attack",
+      "Decreased Defense"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "In Pokémon Gold/Silver, at what level does Ho-Oh first appear in the game's story?",
+    "choices": [
+      "40",
+      "50",
+      "45",
+      "55"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  }
+]

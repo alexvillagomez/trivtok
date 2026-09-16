@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which system used flags held by operators to transmit messages across hilltops?",
+    "choices": ["Telegraph", "Semaphore", "Pony Express", "Radio"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the primary route of the Pony Express established in 1860?",
+    "choices": ["Boston to Philadelphia", "San Francisco to St. Louis", "New York to Chicago", "Los Angeles to Denver"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Samuel Morse developed a signaling system using dots and dashes. What is it called?",
+    "choices": ["Radio code", "Telegraph alphabet", "Morse code", "Signal protocol"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who is credited with inventing the practical telephone in 1876?",
+    "choices": ["Alexander Graham Bell", "Guglielmo Marconi", "Samuel Morse", "John Logie Baird"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The first successful telegraph line in the United States connected which two cities?",
+    "choices": ["Washington and Baltimore", "New York and Boston", "Philadelphia and Charleston", "Richmond and Petersburg"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which inventor pioneered wireless radio communication in the 1890s?",
+    "choices": ["Guglielmo Marconi", "Thomas Edison", "Nikola Tesla", "John Logie Baird"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Television broadcasting became a practical technology in which century?",
+    "choices": ["19th century", "20th century", "21st century", "18th century"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which country first introduced adhesive postage stamps for mail in 1840?",
+    "choices": ["United Kingdom", "France", "United States", "Germany"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "A telephone receiver converts electrical signals back into what?",
+    "choices": ["Light waves", "Sound waves", "Radio waves", "Digital signals"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What mail delivery system operated for only about 18 months in 1860–1861?",
+    "choices": ["Pony Express", "Royal Mail", "US Post Office", "Express Riders"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In Morse code, the letter 'E' is represented by which pattern?",
+    "choices": ["One dot", "One dash", "Two dots", "Dash-dot"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Radio signals travel using which type of electromagnetic waves?",
+    "choices": ["Light waves", "X-rays", "Microwaves and radio waves", "Infrared"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Telegraph operators had to master which coding system to send and receive messages?",
+    "choices": ["Binary", "Morse code", "Semaphore", "Signal flags"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The first technology to allow real-time voice transmission over distance was the telephone.",
+    "choices": ["Telegraph", "Radio", "Television", "Pony Express"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was the submarine telegraph cable laid under the Atlantic Ocean in 1858 called?",
+    "choices": ["Atlantic Link", "Telegraph Bridge", "Transatlantic Cable", "Ocean Wire"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Semaphore operators communicated from distant points using flags and which device?",
+    "choices": ["Telescopes", "Mirrors", "Lamps", "Poles or masts"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which inventor developed the iconoscope camera tube essential for early television?",
+    "choices": ["Vladimir Zworykin", "John Logie Baird", "David Sarnoff", "Philo Farnsworth"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Postal regulations in Britain were significantly reformed by legislation in which year?",
+    "choices": ["1710", "1840", "1875", "1910"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Postage stamps solved a major problem in mail systems by establishing who paid for delivery.",
+    "choices": ["Sorting delays", "Lost mail", "Payment responsibility", "Rural access"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Transatlantic radio signals were first successfully received during which period?",
+    "choices": ["1880s", "1900s", "1920s", "1940s"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who demonstrated the first working television system in 1926?",
+    "choices": ["David Sarnoff", "John Logie Baird", "Vladimir Zworykin", "Philo Farnsworth"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which famous ship laid telegraph cables across the Atlantic in the 1850s–1860s?",
+    "choices": ["HMS Victory", "SS Great Eastern", "Cunard Lusitania", "USS Constitution"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Telegraph signals were transmitted using which medium in early systems?",
+    "choices": ["Radio waves", "Copper wires", "Morse code", "Signal lights"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "An inventor named Antonio Meucci claimed to have developed the telephone before which inventor?",
+    "choices": ["Alexander Graham Bell", "Samuel Morse", "Guglielmo Marconi", "John Logie Baird"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Early postal systems relied most heavily on which form of transport?",
+    "choices": ["Horses and carriages", "Ships", "Trains", "Walking couriers"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The Universal Postal Union was established in 1874 with headquarters in which country?",
+    "choices": ["France", "Switzerland", "Germany", "Austria"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The telegraph was first publicly demonstrated by Morse and Vail in which year?",
+    "choices": ["1825", "1838", "1851", "1865"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Telegraph operators used a key to create which components of messages?",
+    "choices": ["Long and short electrical pulses", "Sound waves", "Light signals", "Coded letters"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Early commercial radio broadcasts primarily transmitted which types of content?",
+    "choices": ["News and advertising", "Music and news", "Entertainment only", "Morse code"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Pony Express was made obsolete by the completion of what communication infrastructure?",
+    "choices": ["First telephone line", "Transcontinental telegraph", "Radio network", "First television station"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Telegraph operators transmitted messages by manipulating which device?",
+    "choices": ["Telegraph sounder", "Telegraph relay", "Telegraph key", "Telegraph receiver"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The first successful transatlantic telegraph cable linked which two locations?",
+    "choices": ["London and Boston", "Liverpool and Newfoundland", "Dublin and New York", "Belfast and Philadelphia"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which organization broadcast the first regular television schedule in the United States?",
+    "choices": ["NBC", "CBS", "RCA", "BBC"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Guglielmo Marconi conducted his earliest wireless transmission experiments in which location?",
+    "choices": ["Italy", "England", "France", "United States"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The printing press revolutionized mass communication by enabling what capability?",
+    "choices": ["Long-distance voice transmission", "Wireless signal broadcasting", "Rapid reproduction of written text", "Real-time news delivery"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Submarine telegraph cables faced deterioration primarily from which environmental threat?",
+    "choices": ["Ship anchor damage", "Saltwater corrosion", "Marine organism boring", "Thermal expansion"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Early long-distance telephone signals were weakened by what phenomenon?",
+    "choices": ["Operator fatigue", "Signal attenuation over distance", "Morse code interference", "Radio noise"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Telegraph technology revolutionized financial markets because it enabled what?",
+    "choices": ["Stock price manipulation", "Faster settlement of trades", "Real-time price information transmission", "Electronic money transfer"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Vladimir Zworykin developed the iconoscope to solve which television challenge?",
+    "choices": ["Image transmission", "Signal reception", "Camera image capture and conversion", "Broadcast licensing"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The postage stamp innovation addressed what fundamental problem in mail services?",
+    "choices": ["Delivery speed", "Route planning", "Determining who paid delivery costs", "Package tracking"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Frequency interference became a major regulatory challenge during which technology's expansion?",
+    "choices": ["Telegraph", "Telephone", "Radio broadcasting", "Television"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Morse code was specifically designed to optimize which practical requirement?",
+    "choices": ["Message accuracy", "Speed of transmission", "Operator memorization", "Distance capability"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The 1858 transatlantic telegraph cable ultimately failed due to which technical issue?",
+    "choices": ["Insulation breakdown", "Inadequate signal strength", "Saltwater electrolysis damage", "Manufacturing defects"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "FM radio technology was developed primarily to address which limitation of AM radio?",
+    "choices": ["Range limitation", "Atmospheric noise interference", "Equipment complexity", "Cost of receivers"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Philo Farnsworth developed an electronic television system as a teenager, focusing on which component?",
+    "choices": ["Transmitter design", "Receiver circuitry", "Image scanning and dissection", "Signal modulation"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The telegraph relay solved which critical problem in long-distance communication?",
+    "choices": ["Message encoding", "Signal attenuation and distance limitation", "Operator training", "Equipment cost"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What fundamental principle allowed telegraph signals to propagate through submarine cables over vast distances?",
+    "choices": ["Electromagnetic wave propagation", "Copper conductivity and signal amplification", "Insulation resistance", "Ocean water conductivity"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which pharaoh commissioned the Great Pyramid of Giza as his tomb?",
+    "choices": ["Khafre", "Khufu", "Menkaure", "Djoser"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the primary purpose of mummification in ancient Egypt?",
+    "choices": ["Artistic expression", "Preservation of the body for the afterlife", "Medical treatment", "Religious punishment"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which dynasty built most of the pyramids at Giza?",
+    "choices": ["Third Dynasty", "Fourth Dynasty", "Fifth Dynasty", "Sixth Dynasty"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Tutankhamun ruled during which period of Egyptian history?",
+    "choices": ["Old Kingdom", "Middle Kingdom", "New Kingdom", "Late Period"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What type of script was used to write Egyptian hieroglyphics?",
+    "choices": ["Alphabetic symbols", "Phonetic and ideographic symbols", "Numbers only", "Geometric patterns"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Step Pyramid was built for which pharaoh?",
+    "choices": ["Khufu", "Djoser", "Menkaure", "Pepi II"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which female pharaoh ruled during the New Kingdom and expanded Egyptian trade?",
+    "choices": ["Nefertiti", "Hatshepsut", "Ahhotep", "Cleopatra"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Great Sphinx of Giza is believed to have been built during which kingdom?",
+    "choices": ["Third Dynasty", "Fourth Dynasty", "Fifth Dynasty", "Twelfth Dynasty"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In which valley were most New Kingdom pharaohs buried?",
+    "choices": ["Valley of the Artisans", "Valley of the Kings", "Valley of the Queens", "Valley of the Gods"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What substance was used to wrap mummified bodies?",
+    "choices": ["Linen strips", "Papyrus sheets", "Animal hides", "Wax coating"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which pharaoh's tomb was discovered by Howard Carter in 1922?",
+    "choices": ["Ramesses II", "Tutankhamun", "Thutmose III", "Amenhotep III"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Nile River was central to Egyptian civilization because it provided what?",
+    "choices": ["Building materials only", "Transportation and fertile soil for farming", "Religious ceremonies", "Military defense"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which pharaoh established the tradition of pyramid construction?",
+    "choices": ["Menkaure", "Djoser", "Khufu", "Khafre"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What was the primary material used to construct the pyramids?",
+    "choices": ["Granite blocks", "Limestone blocks", "Sandstone", "Mud bricks"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which deity was the king of the Egyptian gods?",
+    "choices": ["Osiris", "Ra", "Thoth", "Anubis"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Rosetta Stone helped scholars translate which ancient writing system?",
+    "choices": ["Sumerian cuneiform", "Egyptian hieroglyphics", "Phoenician script", "Linear A"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "During which kingdom did Egypt reach its greatest territorial expansion?",
+    "choices": ["Old Kingdom", "Middle Kingdom", "New Kingdom", "Late Period"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the social structure of ancient Egypt organized by?",
+    "choices": ["Military rank only", "Religious priesthood only", "Hierarchical castes and occupations", "Wealth alone"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which process was used to extract the brain during mummification?",
+    "choices": ["Surgical incision", "A hook through the nasal cavity", "Boiling", "Dissolution in salt"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Pyramid Texts were religious compositions found in which structures?",
+    "choices": ["Temples of Ra", "Royal pyramids of the Old Kingdom", "Private tombs", "Pharaonic palaces"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which pharaoh commissioned the Temple of Abu Simbel?",
+    "choices": ["Thutmose III", "Ramesses II", "Amenhotep III", "Seti I"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the name of the Egyptian writing material made from papyrus plants?",
+    "choices": ["Parchment", "Vellum", "Papyrus", "Wax tablet"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which god was associated with the afterlife and mummification?",
+    "choices": ["Horus", "Anubis", "Thoth", "Ptah"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Old Kingdom ended with the collapse of which dynasty's power?",
+    "choices": ["Fourth Dynasty", "Fifth Dynasty", "Sixth Dynasty", "Seventh Dynasty"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which pharaoh fought the Hittites at the Battle of Kadesh?",
+    "choices": ["Thutmose III", "Amenhotep II", "Ramesses II", "Seti I"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the primary function of canopic jars in Egyptian burial practices?",
+    "choices": ["Storage of grain", "Holding mummified organs", "Holding cosmetic oils", "Wine storage"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which kingdom is known as the 'Age of the Pyramids'?",
+    "choices": ["Middle Kingdom", "Old Kingdom", "New Kingdom", "Late Period"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Thutmose III earned what military distinction during his reign?",
+    "choices": ["Losing most Egyptian territories", "Never engaging in warfare", "Becoming Egypt's greatest military strategist", "Signing a peace treaty with all enemies"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which pharaoh's reign saw the construction of the Karnak Temple complex?",
+    "choices": ["Djoser", "Khufu", "Thutmose III", "Menkaure"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The name 'pharaoh' originally referred to what in the royal palace?",
+    "choices": ["The throne room", "The great house", "The treasury", "The war council"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which pyramid is the only standing Wonder of the Ancient World?",
+    "choices": ["The Pyramid of Menkaure", "The Pyramid of Khafre", "The Great Pyramid of Khufu", "The Step Pyramid of Djoser"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What natron salt was primarily used for during mummification?",
+    "choices": ["Seasoning food", "Drying out the body", "Creating dyes", "Making cosmetics"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which pharaoh commissioned the two rock temples at Abu Simbel, featuring his own colossal statue?",
+    "choices": ["Amenhotep III", "Thutmose III", "Ramesses II", "Seti I"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Book of the Dead was a collection of what?",
+    "choices": ["Royal decrees", "Historical chronicles", "Spells and instructions for the afterlife", "Medical treatments"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many sides does the Great Pyramid of Khufu have at its base?",
+    "choices": ["Three", "Four", "Six", "Eight"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which pharaoh established his capital at Memphis during the Old Kingdom?",
+    "choices": ["Khufu", "Menkaure", "Narmer", "Pepi I"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The White Crown and Red Crown of Egypt represented what?",
+    "choices": ["Religious and military authority", "Upper and Lower Egypt united", "Life and death", "Wealth and poverty"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which pharaoh's reign marked the beginning of the New Kingdom?",
+    "choices": ["Mentuhotep II", "Ahmose I", "Thutmose I", "Amenhotep I"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the purpose of shabtis in Egyptian tombs?",
+    "choices": ["To hold precious jewelry", "To serve the deceased in the afterlife", "To store food and drink", "To guard the tomb entrance"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which god was depicted with the head of a jackal and associated with embalming?",
+    "choices": ["Osiris", "Anubis", "Sekhmet", "Sobek"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Intermediate Periods in Egyptian history were characterized by what?",
+    "choices": ["Great prosperity and expansion", "Decline of central authority and fragmentation", "Constant military conquest", "Religious reformation"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which pharaoh ruled the longest during the Old Kingdom?",
+    "choices": ["Khufu", "Khafre", "Pepi II", "Menkaure"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What architectural innovation did Imhotep introduce for Djoser's tomb?",
+    "choices": ["The pointed arch", "The stepped pyramid design", "The barrel vault", "The flying buttress"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Egyptian queen was known for ruling as regent and later declaring herself pharaoh?",
+    "choices": ["Nefertiti", "Hatshepsut", "Ahmose-Nefertari", "Cleopatra VII"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Turin King List was a historical record that documented what?",
+    "choices": ["Battle victories", "Religious ceremonies", "Reigns of pharaohs", "Agricultural production"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which pharaoh's mummy remained in its original tomb when discovered, largely intact?",
+    "choices": ["Khufu", "Tutankhamun", "Ramesses II", "Thutmose III"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the significance of the scarab beetle in Egyptian culture?",
+    "choices": ["It was considered a pest to be eliminated", "It symbolized rebirth and regeneration", "It was used only for decoration", "It represented military power"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  }
+]

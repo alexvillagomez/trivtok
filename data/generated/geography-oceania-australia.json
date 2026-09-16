@@ -1,0 +1,320 @@
+[
+  {
+    "text": "What is the capital of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which continent does Australia belong to?",
+    "choices": ["Oceania", "Asia", "Europe", "Antarctica"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many main landmasses comprise New Zealand?",
+    "choices": ["Three", "Two", "Four", "Five"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Australian city is home to the Opera House?",
+    "choices": ["Melbourne", "Brisbane", "Sydney", "Perth"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "The Great Barrier Reef is located off which Australian state?",
+    "choices": ["New South Wales", "Queensland", "Victoria", "Western Australia"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the official currency of New Zealand?",
+    "choices": ["Australian Dollar", "Pound Sterling", "New Zealand Dollar", "Euro"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Uluru, a famous monolith, is located in which Australian region?",
+    "choices": ["Tasmania", "Northern Territory", "South Australia", "Western Australia"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Pacific island nation's capital is Suva?",
+    "choices": ["Samoa", "Fiji", "Tonga", "Vanuatu"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Maori are the indigenous people of which country?",
+    "choices": ["Australia", "Fiji", "New Zealand", "Samoa"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Tasmania is famous for which unique marsupial?",
+    "choices": ["Wombat", "Koala", "Tasmanian Devil", "Kangaroo"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the most populous city in Australia?",
+    "choices": ["Melbourne", "Brisbane", "Sydney", "Perth"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which Australian desert is the largest?",
+    "choices": ["Simpson Desert", "Tanami Desert", "Great Victoria Desert", "Kalahari Desert"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Mount Kosciuszko is the highest peak in which country?",
+    "choices": ["New Zealand", "Fiji", "Australia", "Papua New Guinea"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the capital of New Zealand?",
+    "choices": ["Auckland", "Christchurch", "Wellington", "Dunedin"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Oceanian country is known as the 'Land of the Long White Cloud'?",
+    "choices": ["Fiji", "New Zealand", "Samoa", "Vanuatu"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Barossa Valley wine region is located in which Australian state?",
+    "choices": ["New South Wales", "Victoria", "South Australia", "Western Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Pacific island nation was formerly called the New Hebrides?",
+    "choices": ["Solomon Islands", "Samoa", "Vanuatu", "Tonga"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Milford Sound is a famous fjord in which country?",
+    "choices": ["Australia", "Fiji", "New Zealand", "Samoa"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the primary language spoken in Australia?",
+    "choices": ["Aboriginal", "Pidgin", "English", "Maori"],
+    "correctIndex": 2,
+    "difficulty": 0.05
+  },
+  {
+    "text": "Which Australian state has Sydney as its capital?",
+    "choices": ["Victoria", "New South Wales", "Queensland", "South Australia"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Lake Taupo is the largest lake in which country?",
+    "choices": ["Australia", "Fiji", "New Zealand", "Samoa"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Rotorua in New Zealand is famous for which geological feature?",
+    "choices": ["Glaciers", "Geothermal activity", "Volcanic craters", "Fjords"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many Australian states and territories are there?",
+    "choices": ["8", "6", "10", "7"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Pacific island nation is primarily composed of coral atolls?",
+    "choices": ["Fiji", "Samoa", "Tuvalu", "Vanuatu"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Great Dividing Range runs along which side of Australia?",
+    "choices": ["Western", "Eastern", "Northern", "Southern"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which New Zealand city is known as the 'City of Sails'?",
+    "choices": ["Wellington", "Auckland", "Christchurch", "Dunedin"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Fiji is composed of approximately how many islands?",
+    "choices": ["Over 500", "Over 300", "Fewer than 100", "Exactly 200"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Australian city is located on the Swan River?",
+    "choices": ["Adelaide", "Perth", "Darwin", "Hobart"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Mount Ruapehu is an active volcano in which country?",
+    "choices": ["Fiji", "Samoa", "New Zealand", "Tonga"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Murray River is the longest river in which country?",
+    "choices": ["New Zealand", "Fiji", "Papua New Guinea", "Australia"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Australian territory is in the Indian Ocean?",
+    "choices": ["Norfolk Island", "Christmas Island", "Both A and B", "Neither A nor B"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Samoa was formerly known as which name?",
+    "choices": ["German Samoa", "Western Samoa", "American Samoa Territory", "British Samoa"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Australian state is known for the Daintree Rainforest?",
+    "choices": ["Northern Territory", "Queensland", "New South Wales", "Victoria"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Aoraki (Mount Cook) is the highest mountain in which country?",
+    "choices": ["Australia", "Fiji", "New Zealand", "Papua New Guinea"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Pacific island nation is known for its black sand beaches?",
+    "choices": ["Tuvalu", "Samoa", "Nauru", "Tonga"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The didgeridoo is a traditional instrument from which region?",
+    "choices": ["New Zealand", "Samoa", "Aboriginal communities in Australia", "Fiji"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Fraser Island, the world's largest sand island, is off which Australian coast?",
+    "choices": ["New South Wales", "Victoria", "Queensland", "Western Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Pacific island nation is known for phosphate mining?",
+    "choices": ["Kiribati", "Nauru", "Tuvalu", "Marshall Islands"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Bondi Beach is located in which Australian city?",
+    "choices": ["Melbourne", "Brisbane", "Sydney", "Perth"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which New Zealand fjord is known for Mitre Peak?",
+    "choices": ["Doubtful Sound", "Milford Sound", "Piopiotahi", "Sutherland Sound"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Olgas rock formation is located in which Australian state?",
+    "choices": ["Queensland", "South Australia", "Northern Territory", "Western Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Tonga is a kingdom in the Pacific. Which island is its capital on?",
+    "choices": ["Tongatapu", "Ha'apai", "Vava'u", "Eua"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Australian Aboriginal term refers to 'the time of creation'?",
+    "choices": ["Dreamtime", "Songline", "Totemic era", "Sacred period"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Port Moresby is the capital of which Oceanian country?",
+    "choices": ["Solomon Islands", "Vanuatu", "Papua New Guinea", "Fiji"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Australian desert contains Ayers Rock (Uluru)?",
+    "choices": ["Tanami Desert", "Simpson Desert", "Great Sandy Desert", "Outback"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Cook Strait separates the two main islands of which country?",
+    "choices": ["Australia", "Fiji", "New Zealand", "Samoa"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Pacific island nation experienced the 2009 tsunami and is known for coconuts?",
+    "choices": ["Kiribati", "Samoa", "Tuvalu", "Nauru"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Vanuatu is known for which geological phenomenon?",
+    "choices": ["Extensive glaciation", "Active volcanism", "Coral reefs only", "Limestone caves"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Australian city is known as the 'Garden State capital'?",
+    "choices": ["Brisbane", "Perth", "Melbourne", "Adelaide"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Waitomo Caves are located in which country?",
+    "choices": ["Australia", "Fiji", "New Zealand", "Samoa"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which island in New Zealand is known for geysers and hot springs?",
+    "choices": ["Stewart Island", "Waiheke Island", "White Island", "Rotorua region"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Coral Triangle biodiversity hotspot primarily includes which Oceanian country?",
+    "choices": ["Australia (only)", "Fiji (only)", "Papua New Guinea and Indonesia", "New Zealand"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Australian state is the smallest by area?",
+    "choices": ["South Australia", "Victoria", "Tasmania", "Northern Territory"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  }
+]

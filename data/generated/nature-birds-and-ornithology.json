@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which bird is the fastest animal in a dive?",
+    "choices": ["Peregrine Falcon", "Golden Eagle", "White-throated Needletail", "Eurasian Hobby"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a group of flamingos called?",
+    "choices": ["A flock", "A colony", "A squadron", "A murder"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which flightless bird is the largest living bird today?",
+    "choices": ["Emu", "Cassowary", "Ostrich", "Rhea"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "How many times per second do hummingbirds typically beat their wings?",
+    "choices": ["20 times", "50 times", "80 times", "150 times"],
+    "correctIndex": 3,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Do birds have teeth?",
+    "choices": ["Yes, small ones", "Only raptors have teeth", "No, they have beaks", "Some species have them"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which bird was once hunted to extinction and is the most recognizable extinct bird?",
+    "choices": ["Passenger Pigeon", "Great Auk", "Dodo", "Moa"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What color are American robin eggs typically?",
+    "choices": ["White", "Green", "Blue", "Brown"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which bird is the only one that can fly backwards?",
+    "choices": ["Swallow", "Swift", "Hummingbird", "Kestrel"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is a baby eagle called?",
+    "choices": ["Chick", "Eaglet", "Juvenile", "Nestling"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which bird is known for its ability to mimic sounds and human speech?",
+    "choices": ["Thrush", "Parrot", "Starling", "Raven"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Approximately how many species of hummingbirds exist worldwide?",
+    "choices": ["50 species", "150 species", "350 species", "600 species"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which arctic seabird has the longest annual migration of any animal?",
+    "choices": ["Arctic Tern", "Snow Goose", "Sooty Shearwater", "Bar-tailed Godwit"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What adaptation do woodpeckers have that prevents brain damage from rapid pecking?",
+    "choices": ["Thicker skulls", "Flexible neck", "Shock-absorbing structures around the brain", "Slower pecking speed"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What primarily gives flamingos their distinctive pink coloration?",
+    "choices": ["Special pigments in their skin", "Carotenoids in their diet", "Algae they consume", "Genetic mutation"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How many bones does a typical bird skeleton contain?",
+    "choices": ["Around 100", "Around 200", "Around 350", "Around 500"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the maximum recorded dive speed of a Peregrine Falcon?",
+    "choices": ["120 mph", "160 mph", "200 mph", "240+ mph"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How do migratory birds primarily navigate across thousands of miles?",
+    "choices": ["Following landmarks", "Following others in their flock", "Earth's magnetic field and celestial cues", "Remembering previous routes"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which seabird has the longest wings relative to body size?",
+    "choices": ["Gannet", "Albatross", "Pelican", "Petrel"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is a cloaca in bird anatomy?",
+    "choices": ["Part of the heart", "The throat area", "A single opening for reproduction and waste", "A breathing sac"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Great Owl species has prominent ear-like feather tufts?",
+    "choices": ["Short-eared Owl", "Barn Owl", "Great Horned Owl", "Tawny Owl"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the smallest bird species in the world?",
+    "choices": ["Hummingbird", "Bee Hummingbird", "Golden-crowned Kinglet", "Firecrest"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which strategy do some seabirds like auks use to escape predators underwater?",
+    "choices": ["Swimming faster", "Changing depth rapidly", "Using their wings to 'fly' underwater", "Releasing ink"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Approximately how many feathers does a swan have?",
+    "choices": ["5,000 feathers", "15,000 feathers", "25,000 feathers", "50,000 feathers"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the evolutionary relationship between birds and dinosaurs?",
+    "choices": ["Birds evolved before dinosaurs", "Birds are direct descendants of theropod dinosaurs", "Birds share a common ancestor with dinosaurs", "No relation"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which crow-family bird is known for having one of the largest brains relative to body size among birds?",
+    "choices": ["Jay", "Raven", "Magpie", "Crow"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is 'counter-shading' in bird camouflage?",
+    "choices": ["Stripes on both sides", "Bright colors to warn predators", "Dark upper side and light underside", "Seasonal color changes"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How do penguins maintain body heat in frigid Antarctic waters?",
+    "choices": ["Migration to warmer waters", "Thick insulating blubber layer and dense feathers", "Constant movement", "Slower metabolism"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which bird species was hunted until only 27 individuals remained, then recovered?",
+    "choices": ["Bald Eagle", "California Condor", "Arabian Oryx", "Peregrine Falcon"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What does an uropygial gland (preen gland) in waterbirds primarily do?",
+    "choices": ["Produce sound for communication", "Secrete oil to waterproof feathers", "Regulate body temperature", "Store excess energy"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which bird has the fastest wing-beat frequency of any bird?",
+    "choices": ["Ruby-throated Hummingbird", "Amethyst Woodstar", "White-eared Hummingbird", "Giant Hummingbird"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What phenomenon allows some birds to sleep with one half of their brain at a time?",
+    "choices": ["Unihemispheric slow-wave sleep", "Rapid eye movement sleep", "Torpor", "Hibernation"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "How far does the Arctic Tern travel in its annual migration cycle?",
+    "choices": ["Around 20,000 miles", "Around 30,000 miles", "Around 44,000 miles", "Around 60,000 miles"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is Bergmann's Rule as applied to bird species?",
+    "choices": ["Larger birds fly higher", "Larger birds have fewer offspring", "Birds tend to be larger in colder climates", "Birds have larger eyes in darkness"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which bird species can see ultraviolet light?",
+    "choices": ["All birds can", "Pigeons and many songbirds", "Only raptors", "None"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the name of the sheath of muscles that protects a bird's brain during pecking?",
+    "choices": ["Cranial cushion", "Pecking apparatus", "Cerebral shock absorber", "Hyoid apparatus"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which flying technique do albatrosses use to travel vast distances with minimal energy?",
+    "choices": ["Thermal soaring", "Dynamic soaring over ocean waves", "Flapping continuously", "Gliding on wind thermals"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What percentage of bird species are migratory?",
+    "choices": ["Around 20%", "Around 40%", "Around 60%", "Around 80%"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which nocturnal bird has forward-facing eyes like a human for binocular vision?",
+    "choices": ["Nightjar", "Whip-poor-will", "Owl", "Potoo"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the primary purpose of a bird's crop?",
+    "choices": ["Filter water from food", "Store food temporarily before digestion", "Filter parasites from air", "Produce digestive enzymes"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which bird is capable of true hovering flight sustained for extended periods?",
+    "choices": ["Swift", "Kestrel", "Hummingbird", "Sparrow"],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How do some desert-dwelling birds like the Sandgrouse transport water to their chicks?",
+    "choices": ["In their beaks", "In specialized breast feathers", "In their stomach", "They don't; chicks must find water"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary function of a bird's pectoral muscles?",
+    "choices": ["Steering during flight", "Powering wing beats", "Storing fat reserves", "Regulating body temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which bird family includes the most species of any bird family globally?",
+    "choices": ["Parrots", "Eagles and hawks", "Flycatchers", "Pigeons and doves"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the term for the seasonal change in plumage that some birds undergo?",
+    "choices": ["Molting", "Migration", "Brooding", "Fledging"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which island-dwelling bird was the inspiration for Darwin's finch study on evolution?",
+    "choices": ["Mauritius", "Madagascar", "Galápagos", "Caribbean"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What specialized adaptation do swifts have for their aerial insectivorous lifestyle?",
+    "choices": ["Retractable talons", "Tiny feet and small claws only for roosting", "Venomous saliva", "Night vision"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How do male songbirds primarily attract females?",
+    "choices": ["Bright plumage alone", "Complex vocalizations and songs", "Mating displays", "Territorial aggression"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Which Romantic poet wrote 'I wandered lonely as a cloud', reflecting on a field of yellow flowers?",
+    "choices": ["William Wordsworth", "Samuel Taylor Coleridge", "John Keats", "Percy Bysshe Shelley"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Emily Dickinson is known for her frequent use of which punctuation mark in her poems?",
+    "choices": ["Exclamation points", "Dashes", "Commas", "Semicolons"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Walt Whitman's major work, spanning many editions, celebrates American individuality and democracy. What is its title?",
+    "choices": ["Song of America", "Leaves of Grass", "Democratic Vistas", "The American Epic"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Robert Frost's poem about two paths in a yellow wood and the speaker choosing the less-traveled one is titled:",
+    "choices": ["The Path Diverges", "The Road Not Taken", "Two Roads", "The Divergence"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which famous line by hope, personified as a creature, appears in Emily Dickinson's work?",
+    "choices": ["Hope perches forever", "Hope is a thing with feathers", "Hope sings eternal", "Hope never dies"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Edgar Allan Poe's narrative poem features a speaker visited by a dark bird speaking a single word. What bird?",
+    "choices": ["Crow", "Raven", "Blackbird", "Eagle"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "T.S. Eliot's modernist masterpiece, published in 1922, depicts fragmentation and despair of post-WWI civilization:",
+    "choices": ["The Hollow Men", "The Waste Land", "Ash Wednesday", "Four Quartets"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "William Blake's collection includes poems about a tiger burning bright in the forests of the night. Collection title?",
+    "choices": ["Songs of Innocence", "Songs of Experience", "The Tyger's Voice", "Night Songs"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which form requires 14 lines, typically in iambic pentameter, with a turn in argument?",
+    "choices": ["Villanelle", "Haiku", "Sonnet", "Sestina"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Wordsworth and Coleridge jointly published 'Lyrical Ballads' to launch which literary movement?",
+    "choices": ["Victorian Age", "Romanticism", "Modernism", "Transcendentalism"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Emily Dickinson spent most of her life in which Massachusetts town?",
+    "choices": ["Boston", "Salem", "Amherst", "Concord"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Walt Whitman's style emphasizes long flowing lines without strict meter. This free-form approach is called:",
+    "choices": ["Blank verse", "Iambic pentameter", "Free verse", "Accentual verse"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Poe poem describes a town sinking into the sea, with bells tolling its demise?",
+    "choices": ["The City Beneath", "Eldorado", "The Bells", "Dreamland"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Robert Frost wrote about two farmhouses and the necessity of repairing a structure between neighbors:",
+    "choices": ["The Farm Fence", "Mending Wall", "The Boundary", "Stone Wall"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Wordsworth's epic autobiographical poem, unfinished, focuses on the growth of his own mind:",
+    "choices": ["The Excursion", "The Prelude", "The Recluse", "Biographical Sketches"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "John Keats' ode addressed to a nightingale explores themes of immortality and:",
+    "choices": ["Love and romance", "Death and beauty", "Fame and glory", "Nature and wandering"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Japanese poetic form uses three lines with a 5-7-5 syllable pattern?",
+    "choices": ["Tanka", "Haiku", "Senryu", "Renga"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Edgar Allan Poe's mystery of a murdered woman in a locked room features detective:",
+    "choices": ["C. Auguste Dupin", "Roderick Usher", "Arthur Gordon Pym", "Montressor"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "W.B. Yeats' poem about a wild, turning gyre reflects Irish history and myth:",
+    "choices": ["Leda and the Swan", "The Second Coming", "Sailing to Byzantium", "Among School Children"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Poe's poem of lost love features the protagonist's beloved drowned on a beach as a young maiden:",
+    "choices": ["The Raven", "Annabel Lee", "Lenore", "For Annie"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Robert Frost's shortest complete poem contrasts two destructive forces—fire and what?",
+    "choices": ["Water", "Ice", "Wind", "Stone"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "T.S. Eliot's poem features J. Alfred Prufrock's paralysis and inability to make decisions or:",
+    "choices": ["Confess his love", "Take action", "Ask his question", "Speak truth"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Romantic poet wrote odes to autumn, a Grecian urn, and a nightingale?",
+    "choices": ["Percy Bysshe Shelley", "John Keats", "Samuel Taylor Coleridge", "Lord Byron"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Dickinson's poem begins 'I felt a Funeral, in my Brain' and explores sensations of:",
+    "choices": ["Joy and triumph", "Death and separation", "Love and longing", "Fear and darkness"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Whitman's poem addresses readers directly in 'Song of Myself,' celebrating the democratic individual and:",
+    "choices": ["God", "The soul", "America", "Immortality"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Gerard Manley Hopkins developed a technique of stressed syllables and sprung rhythm creating:",
+    "choices": ["Smooth flow", "Musical tension", "Rapid pace", "Monotone effect"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Samuel Taylor Coleridge's incomplete supernatural poem features a magical dome of pleasure in Xanadu:",
+    "choices": ["Christabel", "Kubla Khan", "The Rime of the Ancient Mariner", "Genevieve"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which poet wrote about a tiger and a lamb, contrasting innocence and experience?",
+    "choices": ["William Wordsworth", "William Blake", "John Keats", "Robert Burns"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Lord Byron's narrative poem Childe Harold reflects on his travels and feelings of:",
+    "choices": ["Romantic love", "Political ambition", "Alienation and melancholy", "Scientific wonder"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Emily Dickinson rarely published during her lifetime, leaving behind approximately how many poems?",
+    "choices": ["Fewer than 100", "Around 300", "Nearly 1,800", "Over 3,000"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Frost's poem depicts a speaker pausing by snowy woods, watching them fill with snow while heading toward:",
+    "choices": ["A distant town", "His home", "His destination", "Unknown paths"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which movement, emphasizing intense emotion and imagination, dominated late 18th and early 19th-century poetry?",
+    "choices": ["Neoclassicism", "Romanticism", "Realism", "Symbolism"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Sylvia Plath's only published novel features a protagonist struggling in 1950s New York:",
+    "choices": ["Ariel", "The Bell Jar", "Daddy", "Morning Song"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Allen Ginsberg's long prophetic poem begins with 'I saw the best minds of my generation destroyed':",
+    "choices": ["The Fall of America", "Howl", "Kaddish", "America"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "T.S. Eliot's play set in Canterbury Cathedral involves the murder of Archbishop:",
+    "choices": ["Saint Gregory", "Thomas Becket", "Stephen of Canterbury", "Augustine"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Wordsworth's 'Lucy' poems present a mysterious figure in nature, ultimately discovered to be:",
+    "choices": ["A ghost", "A young girl", "Dead and gone", "An illusion"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "W.H. Auden's famous elegy mourns the death of which Irish poet?",
+    "choices": ["Seamus Heaney", "William Butler Yeats", "Patrick Kavanagh", "Austin Clarke"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Poe's story-poem 'The Bells' uses onomatopoeia to describe ringing bells through four stanzas representing:",
+    "choices": ["Seasons", "Ages of life", "Times of day", "Emotional states"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which poet famously declared that 'no tears in the writer, no tears in the reader' regarding emotion?",
+    "choices": ["Emily Dickinson", "Robert Frost", "Walt Whitman", "T.S. Eliot"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Langston Hughes employed jazz rhythms and vernacular speech in poems celebrating African American culture and:",
+    "choices": ["European tradition", "Classical forms", "Resilience and pride", "Philosophical abstraction"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Elizabeth Barrett Browning's 'How Do I Love Thee' is structured as a Shakespearean or Petrarchan:",
+    "choices": ["Villanelle", "Sonnet", "Sestina", "Tercet"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In modernist poetry, fragmentation and stream-of-consciousness reflect which historical event's psychological impact?",
+    "choices": ["Industrial Revolution", "World War I", "The French Revolution", "Enlightenment"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Christina Rossetti's poem 'Goblin Market' is an allegory featuring two sisters tempted by magical fruit and:",
+    "choices": ["Greed", "Desire and redemption", "Forbidden love", "Eternal youth"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Coleridge's 'The Rime of the Ancient Mariner' features a curse involving an albatross and a voyage to:",
+    "choices": ["The North Pole", "The Arctic", "Antarctica", "Frozen wastelands"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  }
+]

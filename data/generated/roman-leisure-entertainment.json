@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Which Roman venue was primarily built for chariot racing?",
+    "choices": ["Circus", "Basilica", "Odeon", "Palaestra"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What was the standard Latin name for a public bath complex?",
+    "choices": ["Curia", "Thermae", "Macellum", "Taberna"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In a Roman amphitheater, what kind of event was a venatio?",
+    "choices": ["A comic sketch", "A chariot parade", "A beast hunt", "A board game tournament"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was the caldarium in a Roman bath building?",
+    "choices": ["Changing room", "Exercise yard", "Cold plunge", "Hot room"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Roman festival became especially associated with role reversal and gift-giving?",
+    "choices": ["Saturnalia", "Lemuria", "Parilia", "Fordicidia"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was the frigidarium in a bath sequence?",
+    "choices": ["A steam furnace", "The cold room", "The massage bench", "The ticket office"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which implement did bathers commonly use to scrape oil and dirt from the skin?",
+    "choices": ["Fibula", "Stylus", "Strigil", "Tessera"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In a circus, what was the long central barrier around which chariots raced?",
+    "choices": ["Cavea", "Pulvinar", "Porticus", "Spina"],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which faction color was one of the famous teams in Roman chariot racing?",
+    "choices": ["Blue", "Orange", "Silver", "Purple-striped"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the tepidarium in Roman baths?",
+    "choices": ["A warm room", "A racing gate", "A stage backdrop", "A dining alcove"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which word named the Roman dice game played with knucklebones?",
+    "choices": ["Tabula", "Tali", "Munera", "Ludi"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What were munera in the entertainment context of imperial Rome?",
+    "choices": ["Public libraries", "Festival cakes", "Gladiatorial shows", "Bath subscriptions"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was the cavea in a Roman theater or amphitheater?",
+    "choices": ["The costume room", "The animal cages", "The underground lift", "The seating area"],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Roman game is usually described as a board game of military capture pieces?",
+    "choices": ["Latrunculi", "Trigon", "Harpastum", "Trochus"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was the apodyterium in a bathhouse?",
+    "choices": ["The changing room", "The shrine niche", "The latrine court", "The hot-water tank"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which small object dropped by an editor could signal the start of races in the circus?",
+    "choices": ["Bulla", "Mappa", "Sistrum", "Hasta"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was a naumachia in Roman spectacle culture?",
+    "choices": ["A torchlit banquet", "A staged naval battle", "A masked dance", "A poetry recital"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which area of the baths was most associated with exercise before bathing?",
+    "choices": ["Sacellum", "Tablinum", "Pulpitum", "Palaestra"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was the Roman term ludi often used for in public life?",
+    "choices": ["Public games", "Marriage contracts", "Water pipes", "Garden statues"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which festival was especially linked with noisy, colorful celebration and performers of looser respectability?",
+    "choices": ["Terminalia", "Floralia", "Vestalia", "Agonalia"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In a Roman theater, what was the scaenae frons?",
+    "choices": ["The awning rigging", "The front of the stage building", "The pit for wild beasts", "The ticket token"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What was harpastum?",
+    "choices": ["A drinking cup", "A festival mask", "A ball game", "A bath furnace"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which section of a circus contained the starting gates for chariots?",
+    "choices": ["Orchestra", "Vomitorium", "Porta triumphalis", "Carceres"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What was trigon in Roman recreation?",
+    "choices": ["A three-person ball game", "A triangular pastry", "A race trophy", "A theater tax"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which entertainer type in Rome relied heavily on gesture and solo danced storytelling?",
+    "choices": ["Auriga", "Pantomimus", "Lanista", "Aedilis"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What did a Roman auriga do?",
+    "choices": ["Managed bath heating", "Directed a chorus", "Drove a chariot", "Collected dice fines"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "In the amphitheater, what was the arena originally named for?",
+    "choices": ["Its bronze gates", "Its oval roof", "Its imperial box", "The sand covering the floor"],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Roman festival in December honored Saturn?",
+    "choices": ["Saturnalia", "Rosalia", "Compitalia", "Matralia"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What was tabula in later Roman gaming culture?",
+    "choices": ["A ball court", "A board game related to backgammon", "A stage prop mask", "A bath oil flask"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What did the velarium provide in a large Roman amphitheater?",
+    "choices": ["Animal lifts", "Water supply", "Shade awning", "Victory music"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which room name best fits a sweating or steam chamber in Roman baths?",
+    "choices": ["Ala", "Exedra", "Natatio", "Sudatorium"],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What was the natatio at a bath complex?",
+    "choices": ["An open-air swimming pool", "A gambling booth", "The actors' dressing room", "A hymn competition"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Roman spectacle most directly featured armed fighters paired before a crowd?",
+    "choices": ["Recitatio", "Gladiatorial combat", "A census review", "A legal disputation"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What were tesserae often used for in Roman leisure settings?",
+    "choices": ["Only roof tiles", "Only temple columns", "Admission tokens or gaming pieces", "Only horse bridles"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What was the orchestra in a Roman theater?",
+    "choices": ["A gladiator barracks", "A hot-water pipe", "A betting counter", "The semicircular area before the stage"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Roman comedy writer's plays remained part of elite literary entertainment?",
+    "choices": ["Plautus", "Tacitus", "Vitruvius", "Livy"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was a recitatio in Roman social life?",
+    "choices": ["A military parade", "A public reading", "A bath massage", "A dice tournament"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which term named the low stage platform in a Roman theater?",
+    "choices": ["Spina", "Meta", "Pulpitum", "Cella"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the pulvinar in the circus context?",
+    "choices": ["The finishing line", "The betting tablet", "The turning cone", "The ceremonial imperial box"],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which animal would be most at home in a Roman venatio?",
+    "choices": ["Lion", "Reindeer", "Penguin", "Yak"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the purpose of unguents at the baths?",
+    "choices": ["To waterproof sandals", "To perfume and oil the body", "To color betting slips", "To harden dice"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which festival featured joking gifts such as wax candles and small figurines?",
+    "choices": ["Lupercalia", "Cerealia", "Saturnalia", "Lemuria"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What was the meta in a Roman circus race?",
+    "choices": ["The ticket clerk", "The reinsman's whip", "The musicians' stand", "The turning post"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Roman festival was associated with the god Faunus and ritual running?",
+    "choices": ["Lupercalia", "Quinquatria", "Vinalia", "Neptunalia"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What best describes Roman mime as a performance form?",
+    "choices": ["A silent geometry lecture", "Popular comic stage entertainment", "An equestrian race", "A priestly hymn only"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which piece of bath infrastructure actually generated the hot air beneath floors?",
+    "choices": ["Velarium", "Impluvium", "Hypocaust", "Bidental"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Where would a Roman most likely watch a tragedy?",
+    "choices": ["Circus", "Forum bath", "Military camp", "Theater"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What was trochus in Roman play?",
+    "choices": ["A hoop rolled with a stick", "A sung epigram", "A racing harness", "A bath stool"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which color pair belonged to famous circus factions rather than gladiator types?",
+    "choices": ["Myrmillo and Thracian", "Reds and Greens", "Consul and praetor", "Comedy and tragedy"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was an odeon in the Roman world?",
+    "choices": ["A beast elevator", "A bath furnace", "A smaller roofed performance venue", "A racing stable"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Roman public entertainment was tied to the Circus Maximus more than to the Colosseum?",
+    "choices": ["Chariot racing", "Stage mime", "Declamation", "Board games"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the point of a bath sequence moving from warm to hot to cold rooms?",
+    "choices": ["To prepare legal cases", "To follow a bathing routine", "To sort political factions", "To train cavalry"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Roman holiday was especially linked with flowers and games in honor of Flora?",
+    "choices": ["Robigalia", "Lemuria", "Floralia", "Carmentalia"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was the cavea divided by to organize spectators in theaters and amphitheaters?",
+    "choices": ["Ship masts", "Water channels", "Kitchen hearths", "Stairways and seating wedges"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What were the ludi scaenici?",
+    "choices": ["Athletic games only", "Stage performances", "Bath opening hours", "Private dinner clubs"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which of these was most likely heard in a Roman theater rather than a circus race?",
+    "choices": ["Starting trumpet for chariots", "Faction chants at the spina", "A tragic monologue", "Noise of turning posts"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What did a lanista manage?",
+    "choices": ["Bath towels", "Poetry recitals", "Race awnings", "A gladiator troupe"],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which literary leisure activity might an educated Roman host stage for guests at home?",
+    "choices": ["Gladiator execution", "Poetry reading", "Ship launching", "Tax reassessment"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Roman festival name literally suggests games or performances as part of public religion?",
+    "choices": ["Ludi Romani", "Cursus honorum", "Annona", "Cohors urbana"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What sort of performers were most associated with the Atellan farce tradition?",
+    "choices": ["Charioteers", "Comic stock-character actors", "Bath attendants", "Dice croupiers"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Roman amusement would most likely require a marked board and counters?",
+    "choices": ["Venatio", "Pantomime", "Latrunculi", "Triumph"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Where were elite spectators or dignitaries most likely to sit in a theater or amphitheater?",
+    "choices": ["At the highest stair landing", "Outside the building", "In the bath furnace room", "In reserved front seating"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What were the carceres best compared to in a modern race?",
+    "choices": ["Scoreboards", "Starting stalls", "Commentary booths", "Prize tables"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which bath activity might follow anointment with oil?",
+    "choices": ["Immediate snowfall watching", "Horse branding", "Scraping with a strigil", "Minting bronze coins"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What was the chief draw of the Circus Maximus for ordinary spectators?",
+    "choices": ["Senate debates", "Naval law classes", "Philosophy exams", "Chariot races"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which Roman leisure practice most obviously blurred class lines by bringing many ranks into one public facility?",
+    "choices": ["Going to the baths", "Owning a country villa", "Serving as consul", "Reading secret archives"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What did the word factiones refer to in circus culture?",
+    "choices": ["Secret police units", "Racing teams", "Bath perfumes", "Poetry meters"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What kind of place was a palaestra?",
+    "choices": ["A costume storeroom", "A theater alley", "An animal pen", "An exercise court"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Roman leisure venue most depended on acoustics and sightlines to a stage?",
+    "choices": ["Theater", "Circus", "Bath furnace", "Gladiator school yard"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What made pantomime distinct from ordinary spoken drama?",
+    "choices": ["It used real naval combat", "It emphasized expressive dance and gesture", "It took place only in baths", "It banned music"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What was a common reason Romans visited a bath complex besides washing?",
+    "choices": ["To vote in the Senate", "To launch merchant ships", "To inspect legion camps", "To socialize and exercise"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which object would fit best in Roman gambling?",
+    "choices": ["Knucklebones", "Astrolabe gears", "Military standards", "Threshing flails"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was the relationship between many Roman games and religious festivals?",
+    "choices": ["Games were often staged as part of public cult observance", "Games were illegal during festivals", "Festivals excluded spectators", "Festivals took place only in private homes"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which public official might sponsor games to gain popularity?",
+    "choices": ["Village shepherd", "A magistrate", "Household tutor", "Shipwrecked merchant"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which site is more associated with actors than with gladiators?",
+    "choices": ["Amphitheater arena", "Circus starting gate", "Theater stage", "Execution enclosure"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which term best names the broad Roman habit of attending public spectacles funded by elites or emperors?",
+    "choices": ["Spectacula", "Cautiones", "Cippi", "Praedia"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What would a Roman probably use a tessera for at an entertainment venue?",
+    "choices": ["To yoke horses", "To prove admission", "To heat bath water", "To tune a flute"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which pair belongs together as bath rooms rather than as gaming terms?",
+    "choices": ["Tali and tabula", "Spina and meta", "Frigidarium and tepidarium", "Mime and pantomime"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Where would a Roman spectator most likely see animal cages and machinery beneath the floor?",
+    "choices": ["At a domestic dinner", "In the public library", "At a roadside shrine", "In an amphitheater"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Roman leisure activity was especially portable and required little equipment beyond small pieces?",
+    "choices": ["Dice gaming", "Chariot racing", "Bath construction", "Stage tragedy"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was one reason emperors invested in baths and spectacles?",
+    "choices": ["To eliminate roads", "To display generosity and win favor", "To stop all trade", "To replace temples entirely"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which festival's name is most closely tied to the Great Mother and included public shows?",
+    "choices": ["Lemuria", "Robigalia", "Megalesia", "Opalia"],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What would a visitor most likely rent or carry at the baths for comfort and care?",
+    "choices": ["A plowshare", "A battle standard", "A ship rudder", "Oil flask and scraper"],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which game name refers to knucklebones rather than to a board?",
+    "choices": ["Tali", "Tabula", "Latrunculi", "Trigon"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which leisure practice would be most typical in the open court beside the baths?",
+    "choices": ["Reading tax edicts", "Ball play and exercise", "Smelting bronze", "Harbor dredging"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Roman term best fits a formal public holiday with games attached?",
+    "choices": ["Insula", "Cubiculum", "Festus dies", "Dolium"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Where would Roman spectators most likely identify themselves with Greens or Blues?",
+    "choices": ["At a poetry salon", "At a bath furnace", "At a law school", "At the circus"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which recreational setting was most tied to scripted dialogue and masks?",
+    "choices": ["Theater", "Palaestra", "Bath natatio", "Race stable"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What best distinguishes an amphitheater from a standard Roman theater?",
+    "choices": ["It had no spectators", "It enclosed the performance space all around", "It served only as a bath annex", "It was always roofed"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which public entertainment would most likely involve the risk of shipwreck staging and flooded basins?",
+    "choices": ["Atellan farce", "Recitatio", "Naumachia", "Tabula"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "text": "In Big-O notation, what does O(n) represent?",
+    "choices": ["Linear time complexity", "Logarithmic growth", "Constant time", "Quadratic growth"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "How many bits make up one byte?",
+    "choices": ["8 bits", "16 bits", "4 bits", "32 bits"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who is widely considered the 'father of computer science'?",
+    "choices": ["Alan Turing", "John von Neumann", "Grace Hopper", "Donald Knuth"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the base of the binary number system?",
+    "choices": ["2", "8", "10", "16"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What does LIFO stand for?",
+    "choices": ["Last In, First Out", "Linear In, Fixed Output", "Last In, Fixed Out", "Local Integer, Final Output"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the data structure that uses LIFO principle?",
+    "choices": ["Stack", "Queue", "Tree", "Graph"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What does FIFO stand for?",
+    "choices": ["First In, First Out", "Final In, Final Out", "Fixed Input, Fixed Output", "Flexible Integer Formatting Operations"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many unique digits are used in hexadecimal notation?",
+    "choices": ["16", "8", "10", "2"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is sorting data from smallest to largest called?",
+    "choices": ["Ascending order", "Descending order", "Random order", "Hierarchical order"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In decimal, what does the binary number 101 equal?",
+    "choices": ["5", "3", "6", "4"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does CPU stand for?",
+    "choices": ["Central Processing Unit", "Core Programming Utility", "Control Protocol Unit", "Computational Power Usage"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which number system uses digits 0-9 and A-F?",
+    "choices": ["Hexadecimal", "Binary", "Octal", "Decimal"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the time complexity of binary search on a sorted array?",
+    "choices": ["O(log n)", "O(n)", "O(n log n)", "O(n²)"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which data structure allows you to access elements by index position?",
+    "choices": ["Array", "Hash table", "Set", "Queue"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a recursive function?",
+    "choices": ["A function that calls itself", "A function that repeats in a loop", "A function that processes arrays", "A function that returns multiple values"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the primary advantage of a hash table?",
+    "choices": ["Average O(1) lookup time", "Sorted order preservation", "Memory efficiency", "Cache locality"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the time complexity of merge sort?",
+    "choices": ["O(n log n)", "O(n²)", "O(n)", "O(2ⁿ)"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which sorting algorithm is most efficient on nearly sorted data?",
+    "choices": ["Insertion sort", "Quick sort", "Merge sort", "Heap sort"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a common use case for a stack data structure?",
+    "choices": ["Function call management and undo operations", "Breadth-first search", "Priority-based scheduling", "Balanced tree maintenance"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In what scenario would a linked list outperform an array?",
+    "choices": ["Frequent insertions at the beginning", "Random access to elements", "Memory-constrained systems", "Sorted data retrieval"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does dynamic programming primarily aim to solve?",
+    "choices": ["Problems with overlapping subproblems", "Graph traversal efficiently", "Parallel computation", "Memory allocation issues"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the difference between best-case and worst-case complexity?",
+    "choices": ["Best assumes optimal input; worst assumes adverse input", "Best is always faster", "They measure different operations", "Worst-case never occurs in practice"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is space complexity?",
+    "choices": ["The amount of memory an algorithm uses relative to input size", "The physical size of the code", "The speed of memory access", "The number of variables declared"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What data structure is optimal for implementing a priority queue?",
+    "choices": ["Heap", "Array", "Linked list", "Hash table"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the primary characteristic of a balanced binary search tree?",
+    "choices": ["Height difference between subtrees is minimal", "All leaves are at the same level", "All nodes have exactly two children", "Nodes are always sorted by insertion order"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What algorithm do email spam filters commonly use?",
+    "choices": ["Bayesian filtering", "Dijkstra's algorithm", "Quicksort", "Floyd-Warshall algorithm"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a hash collision?",
+    "choices": ["When two different keys map to the same hash value", "When a hash function produces the same output twice", "When memory addresses overlap", "When sorting algorithms fail"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does the Church-Turing thesis state?",
+    "choices": ["Any computable function can be computed by a Turing machine", "All programming languages are equivalent", "Computing power is unlimited", "Algorithms must be deterministic"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is NP-Complete?",
+    "choices": ["A class of problems whose solutions can be verified in polynomial time", "A problem solvable in linear time", "A problem with no solution", "A type of sorting algorithm"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the traveling salesman problem an example of?",
+    "choices": ["NP-Complete problem", "Linear optimization", "Polynomial solution", "Greedy solvable problem"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is memoization in dynamic programming?",
+    "choices": ["Caching results of expensive function calls", "Writing notes about the algorithm", "Sorting data in memory", "Allocating fixed memory blocks"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the primary advantage of depth-first search over breadth-first search?",
+    "choices": ["Uses less memory for deep graphs", "Finds shortest paths", "Runs faster always", "Works on all graphs"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a trie data structure primarily used for?",
+    "choices": ["Efficient prefix-based searching", "Storing numeric values", "Managing file hierarchies", "Implementing priority queues"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the main limitation of the bubble sort algorithm?",
+    "choices": ["O(n²) time complexity in worst case", "It uses too much memory", "It only works on integers", "It cannot handle large datasets"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does Big-Theta (Θ) notation represent?",
+    "choices": ["Tight upper and lower bounds on growth", "Only upper bounds", "Only lower bounds", "Average case performance"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the most efficient way to search an unsorted array?",
+    "choices": ["Linear search—no faster method exists", "Binary search with preprocessing", "Hash table lookup", "QuickSort then binary search"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which problem is known to be undecidable in computability theory?",
+    "choices": ["The halting problem", "Sorting a list", "Finding the maximum element", "Searching a database"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the significance of the Turing machine?",
+    "choices": ["It defined the limits of what is theoretically computable", "It invented the first computer", "It proved all algorithms are fast", "It created the first programming language"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is an asymptotically tight bound in algorithm analysis?",
+    "choices": ["A bound that describes growth rate with constant factors ignored", "A bound that is always exact", "The fastest possible runtime", "A guarantee of performance"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What algorithmic paradigm does quicksort exemplify?",
+    "choices": ["Divide and conquer", "Dynamic programming", "Greedy approach", "Brute force"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the purpose of the Red-Black tree invariants?",
+    "choices": ["To maintain approximate tree balance during insertions and deletions", "To store colors with data", "To implement binary search faster", "To prevent infinite loops"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "How does caching improve algorithm performance?",
+    "choices": ["By reusing computed results instead of recomputing them", "By using faster processors", "By reducing input size", "By eliminating loops"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the P versus NP problem?",
+    "choices": ["Whether every problem verifiable in polynomial time is solvable in polynomial time", "Whether parallel processing is faster", "Whether prime numbers are special", "Whether sorting is optimal"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the primary purpose of Huffman coding?",
+    "choices": ["Lossless data compression", "Encrypting messages", "Sorting efficiently", "Managing memory"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What does the term 'amortized analysis' refer to?",
+    "choices": ["Average performance over a sequence of operations despite worst-case spikes", "Costs spread equally", "Average case analysis", "Worst case performance"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In what context would you use a disjoint-set (union-find) data structure?",
+    "choices": ["Determining connected components in graphs", "Sorting large datasets", "Implementing priority queues", "Storing sparse matrices"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the significance of Dijkstra's algorithm?",
+    "choices": ["It finds shortest paths in weighted graphs", "It invents new data structures", "It compresses data efficiently", "It solves sorting problems"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is 2's complement representation used for?",
+    "choices": ["Representing negative integers in binary", "Doubling numbers efficiently", "Compressing data", "Encrypting information"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What paradigm does the Bellman-Ford algorithm exemplify?",
+    "choices": ["Dynamic programming—solving via optimal substructure", "Greedy selection", "Binary search strategy", "Divide and conquer"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  }
+]

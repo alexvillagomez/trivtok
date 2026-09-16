@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Who designed the first mechanical computing machine in the early 19th century?",
+    "choices": ["Charles Babbage", "Ada Lovelace", "Blaise Pascal", "Gottfried Leibniz"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was the name of Ada Lovelace's groundbreaking work on computing machines?",
+    "choices": ["Computational Principles", "Note G", "The Analytical Engine", "Mechanical Philosophy"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which computing pioneer is considered the father of computer science?",
+    "choices": ["Von Neumann", "Alan Turing", "Grace Hopper", "John Backus"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In what year was the first general-purpose electronic computer ENIAC completed?",
+    "choices": ["1938", "1943", "1946", "1951"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Grace Hopper developed the first compiler for which language?",
+    "choices": ["FORTRAN", "COBOL", "ALGOL", "Lisp"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the primary purpose of the UNIVAC computer in the 1950s?",
+    "choices": ["Military calculations", "Business data processing", "Scientific research only", "Educational use"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which scientist proposed the concept of a universal computing machine in his 1936 paper?",
+    "choices": ["Kurt Gödel", "Alan Turing", "Alonzo Church", "Emil Post"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "IBM's System/360, released in 1964, was revolutionary for what reason?",
+    "choices": ["It was the first computer", "It was a family of compatible machines", "It used transistors", "It had unlimited storage"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What breakthrough did the invention of the transistor in 1947 enable?",
+    "choices": ["Mobile computing", "Smaller and more efficient electronics", "The internet", "Color displays"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Intel 4004, released in 1971, was significant as the first what?",
+    "choices": ["Microprocessor", "Personal computer", "Graphics card", "Operating system"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which company introduced the first commercially successful personal computer?",
+    "choices": ["Microsoft", "Apple Computer", "Commodore", "IBM"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The Apple II, launched in 1977, was revolutionary because it was the first PC with what?",
+    "choices": ["A keyboard", "Built-in color graphics", "An operating system", "A mouse"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What was the primary innovation of the IBM Personal Computer (1981)?",
+    "choices": ["Color monitor", "Open architecture and standards", "Touch screen", "Wireless connectivity"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which programming language was created by Guido van Rossum in 1989?",
+    "choices": ["Java", "Python", "Ruby", "Go"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The World Wide Web was invented by Tim Berners-Lee while working at which institution?",
+    "choices": ["MIT", "Stanford", "CERN", "Cambridge"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the name of the first graphical web browser released in 1993?",
+    "choices": ["Netscape Navigator", "Mosaic", "Internet Explorer", "Opera"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which operating system's development began with Linus Torvalds in 1991?",
+    "choices": ["Unix", "Linux", "BSD", "Minix"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The first version of Microsoft Windows, released in 1985, was primarily what?",
+    "choices": ["A standalone operating system", "A graphical environment for MS-DOS", "A programming tool", "An internet browser"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which technology company was founded by Steve Jobs and Steve Wozniak?",
+    "choices": ["Commodore", "Atari", "Apple", "Xerox"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The iPhone, released in 2007, revolutionized mobile computing by introducing which feature?",
+    "choices": ["A stylus-based interface", "Touchscreen-centric design", "Physical keyboard", "Voice commands only"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What was the primary purpose of ARPANET, the predecessor to the Internet?",
+    "choices": ["Commercial networking", "Military research communication", "Academic collaboration", "Entertainment streaming"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The TCP/IP protocol suite was developed primarily by which two engineers?",
+    "choices": ["Vint Cerf and Bob Kahn", "Tim Berners-Lee and Robert Cailliau", "Jon Postel and Paul Mockapetris", "Ray Tomlinson and Jon Postel"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which programming language became dominant for web development on the server-side in the 1990s?",
+    "choices": ["C++", "Perl and PHP", "JavaScript", "C#"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The concept of 'cloud computing' gained mainstream adoption in which decade?",
+    "choices": ["1980s", "1990s", "2000s", "2010s"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Mark Zuckerberg launched Facebook from which university in 2004?",
+    "choices": ["Stanford", "Harvard", "MIT", "Yale"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Android operating system was acquired by Google in which year?",
+    "choices": ["2003", "2005", "2007", "2009"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which company's Graphics Processing Unit (GPU) became central to AI and gaming?",
+    "choices": ["AMD", "Intel", "NVIDIA", "Qualcomm"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The first text message was sent using which technology in 1992?",
+    "choices": ["Email", "SMS", "Instant messenger", "Social media"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What was the primary innovation of the World Wide Web's development by Berners-Lee?",
+    "choices": ["Networking protocols", "HTML, HTTP, and the URL system", "Data compression", "Encryption standards"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The storage device that replaced floppy disks for PCs was primarily which technology?",
+    "choices": ["Tape storage", "Hard disk drives", "Optical discs", "Punch cards"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which decade saw the widespread adoption of cloud storage services like Dropbox?",
+    "choices": ["1990s", "2000s", "2010s", "2020s"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Alan Turing's 'imitation game' proposal is now known as what?",
+    "choices": ["The Turing Challenge", "The Turing Test", "Machine Emulation", "The Computation Hypothesis"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Intel Pentium processor family was first introduced in which year?",
+    "choices": ["1989", "1991", "1993", "1995"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which company developed the first commercially available web search engine?",
+    "choices": ["Yahoo", "Infoseek", "Excite", "Google"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The era of 'Web 2.0' was characterized primarily by which technological shift?",
+    "choices": ["Faster internet speeds", "User-generated content and social interaction", "Better graphics", "Voice-based computing"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Bitcoin, the first cryptocurrency, was introduced by an anonymous entity using which pseudonym?",
+    "choices": ["Satoshi Nakamoto", "Vitalik Buterin", "Nick Szabo", "Hal Finney"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The concept of 'Moore's Law' predicts that the number of transistors on a chip doubles approximately every how many years?",
+    "choices": ["One year", "Two years", "Five years", "Ten years"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which pioneering computer scientist developed the 'Von Neumann architecture'?",
+    "choices": ["Alan Turing", "John Von Neumann", "Konrad Zuse", "Herman Hollerith"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Apple Macintosh (1984) was the first PC to popularize which interface?",
+    "choices": ["Voice control", "Graphical user interface with a mouse", "Virtual reality", "Gesture recognition"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which programming paradigm was pioneered by Bjarne Stroustrup with C++?",
+    "choices": ["Functional programming", "Declarative programming", "Object-oriented programming", "Logic programming"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Xerox Alto, developed in the 1970s, is considered the predecessor to which technology?",
+    "choices": ["The mainframe", "The personal computer", "The laptop", "The tablet"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which company's Motorola 68000 processor was used in early Macintosh computers?",
+    "choices": ["Intel", "Motorola", "Commodore", "Atari"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The SQL database query language was developed by whom at IBM?",
+    "choices": ["Donald Knuth", "Edgar F. Codd", "Donald Chamberlin", "Peter Deutsch"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The Commodore 64, released in 1982, was one of the best-selling what of all time?",
+    "choices": ["Supercomputers", "Personal computers", "Gaming consoles", "Microcontrollers"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  }
+]

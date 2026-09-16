@@ -1,0 +1,290 @@
+[
+  {
+    "text": "In what year was the Bastille stormed?",
+    "choices": ["1788", "1789", "1790", "1791"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which event marked the beginning of the French Revolution?",
+    "choices": ["The meeting of the Estates-General", "The Tennis Court Oath", "The storming of the Bastille", "The Reign of Terror"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the Third Estate primarily composed of?",
+    "choices": ["Nobility and clergy", "Commoners and merchants", "Royal family members", "Military generals"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which revolutionary document abolished feudalism in France?",
+    "choices": ["Declaration of the Rights of Man", "Decree of 4 August", "Civil Constitution of the Clergy", "Constitution of 1791"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who was the primary financial advisor under Louis XVI before the Revolution?",
+    "choices": ["Jacques Necker", "Talleyrand", "Mirabeau", "Lafayette"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was the Tennis Court Oath?",
+    "choices": ["A sports regulation from Versailles", "A pledge not to disband until a constitution was drafted", "A trade agreement with Britain", "A tax on luxury goods"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which year saw the Declaration of the Rights of Man and of the Citizen adopted?",
+    "choices": ["1788", "1789", "1790", "1792"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who led the Reign of Terror as chief architect?",
+    "choices": ["Danton", "Maximilien Robespierre", "Marie Antoinette", "Camille Desmoulins"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The Reign of Terror primarily targeted which groups?",
+    "choices": ["Peasants and farmers", "Clergy and foreigners only", "Perceived enemies of the Revolution", "Children under ten"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the main grievance of the Third Estate at the start of the Revolution?",
+    "choices": ["Lack of military power", "Excessive taxation and lack of representation", "Religious persecution", "Loss of colonial territories"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How did the Reign of Terror end?",
+    "choices": ["Robespierre was elected to higher office", "Robespierre and allies were executed", "France declared peace with Austria", "The king regained power"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which faction controlled the Committee of Public Safety?",
+    "choices": ["Royalists", "Girondins", "The Mountain (Montagnards)", "Émigrés"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the primary cause of bread shortages during the Revolution?",
+    "choices": ["Deliberate hoarding by nobles", "Poor harvests and disrupted trade", "Over-population in cities", "British naval blockade alone"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which queen was executed during the Revolution?",
+    "choices": ["Marie Thérèse", "Marie Antoinette", "Adelaide of Vichy", "Josephine de Beauharnais"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What system of government did the 1791 Constitution establish?",
+    "choices": ["Absolute monarchy", "Constitutional monarchy", "Republican dictatorship", "Oligarchy"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which military leader fled to Varennes during the Revolution?",
+    "choices": ["Lafayette", "Louis XVI", "Carnot", "Murat"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What triggered the Women's March on Versailles in 1789?",
+    "choices": ["A royal decree banning marriage", "Bread shortages and political demands", "A failed assassination attempt", "News of Austrian invasion"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who was known as the 'Incorruptible' during the Revolution?",
+    "choices": ["Danton", "Maximilien Robespierre", "Camille Desmoulins", "Louis Antoine de Saint-Just"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was the primary objective of the Civil Constitution of the Clergy?",
+    "choices": ["Protect papal authority in France", "Make the Church subordinate to the state", "Abolish all religious orders", "Increase clerical taxation"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which nation first declared war on France in 1792?",
+    "choices": ["Germany", "Austria", "Spain", "Britain"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many people were estimated to have died in the Reign of Terror?",
+    "choices": ["Fewer than 1,000", "Roughly 2,600 to 40,000", "Over 200,000", "Fewer than 500"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was the Girondins' main disagreement with the Mountain?",
+    "choices": ["Support for the king", "Centralization of power vs. federalism", "Opposition to war", "Religious policy"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which political club met at a former monastery and became radical?",
+    "choices": ["The Feuillants", "The Jacobin Club", "The Cordeliers", "The Society of Friends"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What economic policy did the Revolution initially implement?",
+    "choices": ["Complete free trade", "The assignat currency and price controls", "Return to barter", "Gold standard abolition"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who authored the most influential surviving memoirs from the Terror?",
+    "choices": ["Camille Desmoulins", "Joseph Fouché", "Jean-Baptiste du Val", "Charlotte Corday"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What triggered the September Massacres of 1792?",
+    "choices": ["Royalist uprising", "Fear of invasion and perceived traitors in prisons", "Execution of the king", "Failed Girondin coup"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which document replaced the 1791 Constitution during the Terror?",
+    "choices": ["The Thermidorian Decree", "The Constitution of Year III", "The Constitution of Year I", "The Directorial Charter"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the primary legacy of the Declaration of the Rights of Man?",
+    "choices": ["Restoration of absolute monarchy", "Foundation for universal human rights and equality before law", "Return to feudalism", "Centralization of aristocratic power"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "How did Napoleon seize power in 1799?",
+    "choices": ["Military coup (the 18 Brumaire)", "Democratic election", "Hereditary succession", "Civil war victory"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was Napoleon's primary military innovation?",
+    "choices": ["Use of musket formations", "Corps d'armée system and rapid maneuver", "Reliance on cavalry", "Trench warfare"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which treaty ended the Napoleonic Wars in Europe?",
+    "choices": ["Treaty of Amiens", "Treaty of Tilsit", "Treaty of Paris (1815)", "Treaty of Vienna"],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What institution did Napoleon establish to codify French law?",
+    "choices": ["The Sorbonne Academy", "The Napoleonic Code", "The Royal Courts", "The National Assembly"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many times did Napoleon escape or attempt escape from exile?",
+    "choices": ["Once", "Twice (Elba and St. Helena)", "Three times", "Never successfully"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the Hundred Days?",
+    "choices": ["A diplomatic negotiation period", "Napoleon's return from Elba until Waterloo", "The siege of Paris", "Peace treaty negotiations"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Where did Napoleon lose his final battle in 1815?",
+    "choices": ["Austerlitz", "Borodino", "Waterloo", "Leipzig"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What administrative reforms did Napoleon introduce in France?",
+    "choices": ["Complete decentralization", "Prefect system and centralized bureaucracy", "Return to feudal governance", "Democratic assemblies"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Corsican city was Napoleon's birthplace?",
+    "choices": ["Bastia", "Calvi", "Ajaccio", "Corte"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What was the main purpose of the Concordat of 1801?",
+    "choices": ["Declare the Pope supreme", "Reconcile the Church and French state", "Abolish Catholicism", "Establish Protestantism in France"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Who did NOT serve as a foreign minister under Napoleon?",
+    "choices": ["Talleyrand", "Caulaincourt", "Murat", "Metternich"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What catastrophic military campaign weakened Napoleon's power most severely?",
+    "choices": ["Peninsular War", "The Russian invasion of 1812", "The Egyptian campaign", "The Italian campaign"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which victory earned Napoleon his reputation as a military genius?",
+    "choices": ["Waterloo", "Austerlitz (Battle of Three Emperors)", "Borodino", "Leipzig"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What was Napoleon's Grand Army primarily used for?",
+    "choices": ["Colonial conquest in Africa", "Invasion of Russia and European domination", "Defense of France only", "Naval operations"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Where did Napoleon spend his final years in exile?",
+    "choices": ["Saint Helena", "Elba", "Malta", "Corsica"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which revolutionary figure was executed by Charlotte Corday?",
+    "choices": ["Robespierre", "Jean-Paul Marat", "Danton", "Camille Desmoulins"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What role did Lafayette play in the Revolution?",
+    "choices": ["Led the Terror", "Founded the Jacobin Club", "Commanded the National Guard and supported constitutional monarchy", "Opposed all reforms"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What document guaranteed the abolition of slavery across France and colonies?",
+    "choices": ["The Civil Constitution", "The Decree of 1794", "The Napoleonic Code", "The Declaration of Rights"],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "How did the Legislative Assembly differ from the National Constituent Assembly?",
+    "choices": ["It included the king as a member", "It was formed under the 1791 Constitution with limited royal power", "It was purely advisory", "It had absolute power"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which external threat intensified revolutionary internal violence?",
+    "choices": ["American independence", "Coalition wars with Austria, Prussia, and allies", "Economic depression alone", "Plague outbreaks"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  }
+]

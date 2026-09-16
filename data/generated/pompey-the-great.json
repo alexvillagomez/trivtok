@@ -1,0 +1,578 @@
+[
+  {
+    "text": "Pompey the Great's full Roman name was what?",
+    "choices": ["Gnaeus Pompeius Magnus", "Marcus Pompeius Magnus", "Gaius Pompeius Strabo", "Lucius Pompeius Rufus"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What did Pompey's famous cognomen Magnus mean?",
+    "choices": ["Fortunate", "The Great", "Victorious", "Elder"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Pompey first rose to prominence during the civil conflicts associated with which Roman leader?",
+    "choices": ["Marius", "Sulla", "Caesar", "Cinna"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Pompey's father, Pompeius Strabo, was most closely associated with which war?",
+    "choices": ["First Mithridatic War", "Servile War", "Social War", "Jugurthine War"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Pompey earned the nickname adulescentulus carnifex from critics for his role as what?",
+    "choices": ["A youthful reformer", "A young butcher", "A reckless debtor", "A theatrical speaker"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which dictator is said to have encouraged Pompey's use of the title Magnus?",
+    "choices": ["Sulla", "Caesar", "Marius", "Cinna"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Pompey campaigned successfully for Sulla in Sicily and then in which region of North Africa?",
+    "choices": ["Cyrenaica", "Numidia", "Mauretania", "Egypt"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Why was Pompey's first triumph especially controversial at Rome?",
+    "choices": ["He celebrated it after losing a battle", "He was too young and had held no regular magistracy", "He was still legally a tribune", "He had not yet married"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Pompey and Crassus shared which major office in 70 BCE?",
+    "choices": ["Censorship", "Consulship", "Praetorship", "Tribunate"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "During the war against Spartacus, Pompey claimed credit for finishing rebels fleeing from whose main campaign?",
+    "choices": ["Lucullus", "Crassus", "Metellus Creticus", "Lepidus"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which slave revolt was brought to its end in the same year Pompey and Crassus became consuls?",
+    "choices": ["First Servile War", "Second Servile War", "Spartacus's revolt", "The revolt of Eunus"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The law that gave Pompey extraordinary command against Mediterranean piracy was the lex what?",
+    "choices": ["Gabinia", "Manilia", "Sempronia", "Trebonia"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Pompey's anti-pirate command in 67 BCE granted him sweeping power over how much of the coastline inland zone?",
+    "choices": ["Five miles", "Fifty miles", "One hundred miles", "All Italy only"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which tribune proposed the law granting Pompey command against the pirates?",
+    "choices": ["Clodius", "Gabinius", "Curio", "Saturninus"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Pompey's campaign against Mediterranean pirates is remembered for being completed with striking what?",
+    "choices": ["Slowness", "Speed", "Secrecy", "Religious ceremony"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "After suppressing piracy, Pompey received command in the war against which king?",
+    "choices": ["Tigranes II", "Mithridates VI", "Deiotarus", "Antiochus XIII"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The law transferring the war against Mithridates to Pompey from Lucullus was the lex what?",
+    "choices": ["Aurelia", "Calpurnia", "Manilia", "Clodia"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Roman commander had previously fought Mithridates extensively before Pompey replaced him?",
+    "choices": ["Lucullus", "Crassus", "Bibulus", "Catulus"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Pompey's eastern settlements greatly expanded Roman influence in which broad region?",
+    "choices": ["Britain", "Near East", "Germania", "Hispania Ulterior"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which long-standing Hellenistic kingdom did Pompey reduce to a Roman province in 64 BCE?",
+    "choices": ["Pergamum", "Bithynia", "Syria", "Macedon"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Pompey intervened in Judaea and entered which city's sanctuary in 63 BCE?",
+    "choices": ["Alexandria", "Jerusalem", "Antioch", "Tyre"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Armenian king submitted to Pompey during his eastern campaigns?",
+    "choices": ["Ariobarzanes", "Tigranes the Great", "Phraates", "Artavasdes I"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Pompey pursued Mithridates toward which body of water before the king's final collapse?",
+    "choices": ["Red Sea", "Black Sea", "Adriatic Sea", "Caspian Sea"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Mithridates VI was king of which realm?",
+    "choices": ["Pontus", "Parthia", "Numidia", "Cappadocia"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Pompey's eastern command made him enormously wealthy and strengthened his ties to what group of Romans?",
+    "choices": ["Publicani and financiers", "Rural plebs of Latium", "Vestal Virgins", "Italian pirates"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "When Pompey returned from the East in 62 BCE, what did he do with his army?",
+    "choices": ["Marched on Rome", "Disbanded it", "Gave it to Crassus", "Led it into Gaul"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Pompey expected the Senate to ratify which of his acts after his eastern victories?",
+    "choices": ["His calendar reform", "His eastern settlements", "His censorship", "His dictatorship"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "One major domestic goal Pompey pursued after his eastern campaigns was land for whom?",
+    "choices": ["Temple priests", "Veterans", "Foreign merchants", "Urban gladiators"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Senatorial resistance to Pompey's settlements helped push him into alliance with Caesar and whom else?",
+    "choices": ["Cicero", "Cato", "Crassus", "Bibulus"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The informal political arrangement of Caesar, Pompey, and Crassus is known as the what?",
+    "choices": ["Second Triumvirate", "First Triumvirate", "Decemvirate", "Concord of Luca"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Pompey's alliance with Caesar was strengthened by Pompey's marriage to which woman?",
+    "choices": ["Calpurnia", "Julia", "Atia", "Octavia"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Julia, whose marriage linked Pompey and Caesar, was Caesar's what?",
+    "choices": ["Sister", "Daughter", "Niece", "Widow"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Caesar's consulship of 59 BCE was important for Pompey chiefly because it secured what for him?",
+    "choices": ["A second censorship", "Ratification of settlements and land measures", "Command in Egypt", "Control of the treasury"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which stubborn consul tried to obstruct Caesar's measures in 59 BCE and became a foil to the triumvirs?",
+    "choices": ["Bibulus", "Lentulus Spinther", "Marcellus", "Domitius Ahenobarbus"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "At the conference of Luca in 56 BCE, Pompey and Crassus agreed to seek which office again?",
+    "choices": ["Praetorship", "Consulship", "Censorship", "Tribunate"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The meeting at Luca helped renew the political compact among Caesar, Pompey, and Crassus in what year?",
+    "choices": ["60 BCE", "59 BCE", "56 BCE", "53 BCE"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "After the arrangements following Luca, Pompey received a provincial command in which region?",
+    "choices": ["Sicily", "Spain", "Asia", "Syria"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Pompey governed his Spanish provinces largely through what unusual method?",
+    "choices": ["By annual sortition", "Through legates while remaining near Rome", "By living in Corduba full-time", "Through allied kings only"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The death of Julia in 54 BCE weakened Pompey's personal bond with which ally?",
+    "choices": ["Crassus", "Caesar", "Cicero", "Lepidus"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which disaster in 53 BCE removed the third member of the First Triumvirate?",
+    "choices": ["Alesia", "Carrhae", "Mutina", "Actium"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Crassus died fighting which eastern power, leaving Pompey and Caesar increasingly opposed?",
+    "choices": ["Armenia", "Parthia", "Pontus", "Egypt"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Following street violence at Rome, Pompey was appointed sole consul in 52 BCE after the death of whom?",
+    "choices": ["Clodius", "Cato", "Curio", "Catiline"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The killing of Clodius in 52 BCE occurred in a clash with the supporters of which rival?",
+    "choices": ["Milo", "Antony", "Bibulus", "Labienus"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Pompey's appointment as sole consul in 52 BCE was meant chiefly to restore what?",
+    "choices": ["Naval supremacy", "Public order", "The monarchy", "Debt cancellation"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "As sole consul, Pompey passed legislation affecting electoral corruption and which other issue central to Caesar's future?",
+    "choices": ["Provincial commands", "Temple finances", "Citizenship for Greeks", "Gladiatorial schools"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "By the late 50s BCE, Pompey increasingly aligned with which broad senatorial tendency?",
+    "choices": ["Populares", "Optimates", "Equestrian radicals", "Italian separatists"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which orator often sought Pompey's support while trying to preserve the Republic's senatorial order?",
+    "choices": ["Sallust", "Cicero", "Catullus", "Livy"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "When the crisis with Caesar sharpened, Pompey supported the demand that Caesar do what?",
+    "choices": ["Invade Parthia", "Lay down his command", "Become censor", "Adopt Octavian"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Caesar's crossing of the Rubicon in 49 BCE made Pompey the principal champion of what cause?",
+    "choices": ["The Senate's side in the civil war", "The pirate confederacy", "The Marian faction", "The Alexandrian court"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "At the opening of the civil war in 49 BCE, Pompey withdrew from Italy to organize resistance in which region?",
+    "choices": ["Gaul", "Greece and the East", "Africa only", "Sicily alone"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Pompey's naval strength in the civil war gave him an advantage over Caesar in controlling what?",
+    "choices": ["The Alps", "Sea lanes", "German auxiliaries", "Urban assemblies"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which city in Greece became a major base for Pompey's senatorial coalition before Pharsalus?",
+    "choices": ["Dyrrhachium", "Athens", "Sparta", "Corinth"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Pompey had notable success against Caesar near Dyrrhachium in 48 BCE before the decisive battle at what site?",
+    "choices": ["Thapsus", "Munda", "Pharsalus", "Philippi"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which battle in 48 BCE decisively shattered Pompey's hopes of defeating Caesar?",
+    "choices": ["Carrhae", "Pharsalus", "Alesia", "Mutina"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "After Pharsalus, Pompey fled to which kingdom seeking refuge?",
+    "choices": ["Parthia", "Egypt", "Numidia", "Pontus"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Pompey was murdered on arrival in Egypt during the rule of which young king?",
+    "choices": ["Ptolemy XII", "Ptolemy XIII", "Ptolemy XIV", "Ptolemy XV"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who was Ptolemy XIII's famous sister and rival at the time Pompey arrived in Egypt?",
+    "choices": ["Arsinoe IV", "Berenice IV", "Cleopatra VII", "Cleopatra Selene"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Pompey's killers in Egypt hoped chiefly to gain favor with whom?",
+    "choices": ["Mithridates", "Caesar", "Crassus", "Cicero"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What gruesome token was reportedly presented to Caesar after Pompey's murder?",
+    "choices": ["His purple cloak", "His signet ring and severed head", "His consul's fasces", "His triumphal laurel"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Pompey's death in Egypt occurred in the same year as which decisive civil-war battle?",
+    "choices": ["Actium", "Munda", "Pharsalus", "Thapsus"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which son of Pompey later became a major naval opponent of Octavian?",
+    "choices": ["Gnaeus the Younger", "Sextus Pompey", "Faustus Sulla", "Marcus Aemilius"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Pompey's elder surviving son, who continued resistance in Spain before Munda, was named what?",
+    "choices": ["Gnaeus Pompeius", "Sextus Pompeius", "Quintus Pompeius", "Aulus Pompeius"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which battle in 45 BCE destroyed the last major Pompeian resistance led by Pompey's sons in Spain?",
+    "choices": ["Pharsalus", "Munda", "Philippi", "Naulochus"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Sextus Pompey's later power base against the triumvirs was centered on which island?",
+    "choices": ["Crete", "Sicily", "Cyprus", "Corsica"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Pompey celebrated an enormous third triumph in 61 BCE primarily for victories in which sphere?",
+    "choices": ["Gaul and Britain", "The East", "Africa and Spain only", "Italy against Spartacus"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Pompey's great permanent theater complex in Rome was dedicated in 55 BCE and was notable because it was what?",
+    "choices": ["Rome's first permanent stone theater", "The first temple to Mars", "The Senate house itself", "A rebuilt circus"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Curia of Pompey, where Caesar was assassinated, formed part of what larger complex?",
+    "choices": ["The Forum of Augustus", "Pompey's theater complex", "The Capitoline temple precinct", "The Baths of Agrippa"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Pompey's theater included a temple to which goddess at its summit?",
+    "choices": ["Venus Victrix", "Minerva", "Diana", "Concordia"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Pompey's career is often cited as evidence that the late Republic increasingly rewarded commanders with what kind of authority?",
+    "choices": ["Strictly annual local office", "Extraordinary personal commands", "Purely priestly influence", "Hereditary kingship under law"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which speech by Cicero is especially associated with supporting the grant of Pompey's command against Mithridates?",
+    "choices": ["Pro Milone", "Pro Lege Manilia", "In Catilinam I", "Philippic II"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Pompey's prestige rested heavily on repeated celebration of what quintessential Roman honor?",
+    "choices": ["Ovations only", "Triumphs", "Censuses", "Religious vows"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which rival reformer of an earlier generation was sometimes compared with Pompey as another dominant man in Republican politics, though from a very different background?",
+    "choices": ["Tiberius Gracchus", "Marius", "Scipio Aemilianus", "Camillus"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Pompey's relationship with Crassus is best described as what for much of their careers?",
+    "choices": ["Stable friendship", "Tense rivalry mixed with periodic cooperation", "Open war from youth", "A purely family alliance"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "When Pompey sought ratification of his eastern settlements, his most principled senatorial opponent was often which stern statesman?",
+    "choices": ["Cato the Younger", "Antony", "Dolabella", "Balbus"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Pompey's dominance in the East involved founding or reorganizing many cities primarily to stabilize what?",
+    "choices": ["Local administration under Roman influence", "Athenian drama festivals", "The Olympic calendar", "Samnite land tenure"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Roman virtue did Pompey's public image often emphasize through victory, command, and spectacle?",
+    "choices": ["Ignavia", "Gloria", "Silentium", "Rusticitas"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Pompey's special command against piracy is a classic example of Roman fear that ordinary magistracies were too weak to protect what?",
+    "choices": ["Mountain pastures", "Mediterranean grain supply and trade", "Electoral secrecy", "Temple ritual"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In the civil war against Caesar, Pompey benefited from the support of many senators because he appeared to defend what constitutional ideal?",
+    "choices": ["Royal succession", "Republican legality", "Permanent dictatorship", "Italian secession"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Pompey's inability to translate all of his prestige into stable control at Rome reflected a late Republican tension between military fame and what?",
+    "choices": ["Oceanic trade", "Civil political consensus", "Religious literacy", "Colonial isolation"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which office did Pompey never permanently transform into a monarchy despite the fears attached to his prominence?",
+    "choices": ["Tribunate", "Kingship", "Pontificate", "Quaestorship"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Pompey's first major independent military force was raised largely from whose former clients and veterans?",
+    "choices": ["Caesar's", "His father's", "Marius's", "Cicero's"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Roman region became one of Pompey's earliest proving grounds against Marian forces after Sulla's return?",
+    "choices": ["Sicily", "Achaea", "Bithynia", "Dalmatia"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Pompey's extraordinary rise before holding the full cursus honorum most clearly signaled the weakening of what republican norm?",
+    "choices": ["Annual harvest taxes", "Traditional magistrate sequence", "Patrician priesthoods", "Latin colonization"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which later Roman strongman most directly inherited the political problem of how to combine singular military power with anti-monarchical language after Pompey and Caesar?",
+    "choices": ["Augustus", "Sertorius", "Drusus", "Germanicus"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Pompey's eastern reorganization helped make Roman relations with client kings a key instrument of rule in which area?",
+    "choices": ["Northern Gaul", "The Near East", "Central Italy", "Britain"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which enemy of Sulla in Spain was defeated by Pompey only after a long, difficult war in the 70s BCE?",
+    "choices": ["Jugurtha", "Sertorius", "Vercingetorix", "Juba"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The Sertorian War was fought primarily in which peninsula?",
+    "choices": ["Italian", "Iberian", "Balkan", "Anatolian"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Pompey's mixed performance in Spain against Sertorius showed that his reputation sometimes outpaced his success against what kind of opponent?",
+    "choices": ["Naval pirates", "A resourceful Roman rebel commander", "Helpless client kings", "Unarmed civilians"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which term best describes the commands Pompey received against pirates and Mithridates when compared with normal yearly magistracies?",
+    "choices": ["Hereditary", "Extraordinary", "Symbolic", "Ceremonial"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Pompey's Senate house within his theater complex later gained grim fame because it was the site of whose assassination?",
+    "choices": ["Crassus", "Julius Caesar", "Cicero", "Clodius"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In late Republican memory, Pompey often appears as Caesar's rival but also as an earlier pioneer of what political pattern?",
+    "choices": ["Rule by extraordinary command backed by personal prestige", "Formal two-party democracy", "Peaceful dynastic succession", "Isolation from provincial wealth"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Roman assembly politics helped ambitious leaders like Pompey bypass purely senatorial resistance by courting broader support?",
+    "choices": ["Popular legislation through tribunes and assemblies", "Secret meetings of Vestals", "Only censorial decrees", "Inherited monarchic councils"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Pompey's long-term historical significance in the fall of the Republic lies partly in showing that military supremacy no longer fit neatly inside what older framework?",
+    "choices": ["The Greek polis", "The Republican constitution", "The Twelve Tables alone", "The Latin alphabet"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which label is least accurate for Pompey in the 50s BCE?",
+    "choices": ["Triumvir", "Eastern conqueror", "Champion against pirates", "Founder of the Principate"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Pompey and Caesar moved from alliance to war largely because neither man was willing to accept political vulnerability after giving up what?",
+    "choices": ["Their priesthoods", "Military command", "Family names", "Roman citizenship"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The final collapse of Pompey's cause after Pharsalus most immediately benefited which Roman leader?",
+    "choices": ["Cato", "Caesar", "Brutus", "Antony"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "text": "What is the capital of Brazil?",
+    "choices": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which country's flag features a white maple leaf on a red background?",
+    "choices": ["USA", "Mexico", "Canada", "Denmark"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the capital of Australia?",
+    "choices": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the capital of Zambia?",
+    "choices": ["Ndola", "Kitwe", "Lusaka", "Livingstone"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which country's flag consists of green, white, and orange vertical stripes?",
+    "choices": ["Niger", "India", "Nigeria", "Côte d'Ivoire"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the capital of Tajikistan?",
+    "choices": ["Khujand", "Dushanbe", "Qurghonteppa", "Khorog"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the capital of Mauritius?",
+    "choices": ["Port-Louis", "Curepipe", "Vacoas-Phoenix", "Quatre Bornes"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which European country has exactly 4 official languages?",
+    "choices": ["Belgium", "Switzerland", "Luxembourg", "Austria"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which country has the most time zones of any nation, including overseas territories?",
+    "choices": ["Russia", "China", "France", "United States"],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which country is the oldest nation-state in continuous operation, founded in 301 CE?",
+    "choices": ["San Marino", "Vatican City", "Monaco", "Andorra"],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the SI unit of force?",
+    "choices": ["Joule", "Pascal", "Newton", "Watt"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "At what temperature in Celsius does water freeze at standard atmospheric pressure?",
+    "choices": ["-10°C", "0°C", "10°C", "-273°C"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does Einstein's equation E=mc² primarily relate?",
+    "choices": ["Energy and momentum", "Energy and mass", "Force and acceleration", "Pressure and volume"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the phenomenon where light bends when passing from one medium to another?",
+    "choices": ["Dispersion", "Refraction", "Diffraction", "Reflection"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the approximate value of the gravitational constant (G)?",
+    "choices": ["6.67 × 10⁻¹¹ N⋅m²/kg²", "9.81 m/s²", "3 × 10⁸ m/s", "1.38 × 10⁻²³ J/K"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which of the following is NOT one of the four fundamental forces of nature?",
+    "choices": ["Strong nuclear force", "Weak nuclear force", "Electromagnetic force", "Friction"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "According to quantum mechanics, what is the name of the minimum energy a particle can have at absolute zero?",
+    "choices": ["Zero energy", "Planck's constant", "Zero-point energy", "Infinite energy"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the apparent shift in frequency of a wave due to relative motion between source and observer called?",
+    "choices": ["Lorentz contraction", "Time dilation", "Doppler effect", "Gravitational lensing"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In quantum entanglement, which quantum property of one particle is instantaneously correlated with another?",
+    "choices": ["Position only", "Spin", "Velocity only", "Temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the Schwarzschild radius in general relativity best described as?",
+    "choices": ["The radius where time stops completely", "The radius of a black hole's event horizon", "The minimum orbital radius around any object", "The distance where relativity becomes relevant"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the chemical symbol for gold?",
+    "choices": ["Go", "Gd", "Au", "Gl"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many electrons does a neutral carbon atom have?",
+    "choices": ["4", "6", "8", "12"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the most abundant element in the universe by mass?",
+    "choices": ["Oxygen", "Carbon", "Helium", "Hydrogen"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the pH of a neutral aqueous solution at 25°C?",
+    "choices": ["0", "7", "10", "14"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which element has the highest electronegativity on the periodic table?",
+    "choices": ["Chlorine", "Oxygen", "Fluorine", "Nitrogen"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the atomic number of iron?",
+    "choices": ["24", "26", "28", "30"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the electron configuration of copper (Cu)?",
+    "choices": ["[Ar]3d⁹4s¹", "[Ar]3d¹⁰4s¹", "[Ar]3d⁸4s²", "[Ar]3d¹⁰4s²"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which of the following elements is part of the lanthanide series?",
+    "choices": ["Technetium", "Barium", "Europium", "Hafnium"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the oxidation state of sulfur in sulfuric acid (H₂SO₄)?",
+    "choices": ["+2", "+4", "+6", "+8"],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which element was the first to be artificially synthesized and not found naturally on Earth?",
+    "choices": ["Technetium", "Francium", "Plutonium", "Neptunium"],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the basic structural and functional unit of life?",
+    "choices": ["Tissue", "Organ", "Cell", "Organism"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many chromosomes does a typical human cell contain?",
+    "choices": ["23", "46", "48", "92"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the process by which plants convert sunlight into chemical energy for growth?",
+    "choices": ["Cellular respiration", "Fermentation", "Photosynthesis", "Transpiration"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the biological term for a variant form of a gene at a specific location on a chromosome?",
+    "choices": ["Phenotype", "Allele", "Mutation", "Adaptation"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which organelle is the primary site of ATP production in eukaryotic cells?",
+    "choices": ["Ribosome", "Mitochondrion", "Golgi apparatus", "Endoplasmic reticulum"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the biological term for structures in different species derived from a common ancestral structure?",
+    "choices": ["Vestigial", "Analogous", "Homologous", "Rudimentary"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the Central Dogma of molecular biology's correct flow of genetic information?",
+    "choices": ["DNA → Protein → RNA", "DNA → RNA → Protein", "Protein → RNA → DNA", "RNA → DNA → Protein"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What percentage of human DNA is shared with chimpanzees?",
+    "choices": ["85-90%", "95-97%", "98-99%", "100%"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the form of natural selection where extreme phenotypes are favored over the average phenotype?",
+    "choices": ["Stabilizing selection", "Directional selection", "Disruptive selection", "Artificial selection"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In which geological era did the Cambrian Explosion, a rapid diversification of animal life, occur?",
+    "choices": ["Proterozoic", "Paleozoic", "Mesozoic", "Cenozoic"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "How many bones does an adult human skeleton contain?",
+    "choices": ["186", "206", "226", "246"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the largest organ in the human body by surface area?",
+    "choices": ["Heart", "Brain", "Skin", "Liver"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which blood type is considered the universal donor for all blood types?",
+    "choices": ["Type A", "Type B", "Type AB", "Type O"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How many chambers does the human heart have?",
+    "choices": ["2", "3", "4", "5"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the iron-containing protein in red blood cells responsible for oxygen transport?",
+    "choices": ["Hemoglobin", "Myoglobin", "Keratin", "Albumin"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which endocrine gland produces insulin to regulate blood glucose levels?",
+    "choices": ["Thyroid gland", "Pancreas", "Pituitary gland", "Adrenal gland"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What brain structure is primarily responsible for maintaining balance and coordinating movement?",
+    "choices": ["Cerebrum", "Thalamus", "Cerebellum", "Medulla oblongata"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which cranial nerve (CN VII) innervates the muscles of facial expression?",
+    "choices": ["Trigeminal nerve", "Facial nerve", "Glossopharyngeal nerve", "Vagus nerve"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the medical term for abnormally low blood pressure?",
+    "choices": ["Hypertension", "Hypotension", "Tachycardia", "Arrhythmia"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the Major Histocompatibility Complex (MHC) primarily responsible for in immune function?",
+    "choices": ["Producing antibodies", "Presenting antigens to T cells", "Lysing infected cells", "Producing cytokines"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  }
+]

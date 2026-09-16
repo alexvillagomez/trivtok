@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What type of organism causes athlete's foot?",
+    "choices": ["Fungus", "Bacterium", "Virus", "Protozoan"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which antibiotic was discovered by Alexander Fleming in 1928?",
+    "choices": ["Penicillin", "Tetracycline", "Streptomycin", "Gentamicin"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the primary structural component of a bacterial cell wall?",
+    "choices": ["Peptidoglycan", "Cellulose", "Chitin", "Collagen"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which disease was caused by the bacterium Vibrio cholerae during historic pandemics?",
+    "choices": ["Cholera", "Typhoid fever", "Plague", "Dysentery"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What do we call bacteria that require oxygen to survive?",
+    "choices": ["Aerobic", "Anaerobic", "Facultative", "Microaerophilic"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which virus causes the common cold?",
+    "choices": ["Rhinovirus", "Coronavirus", "Adenovirus", "Enterovirus"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the smallest infectious agent made only of protein?",
+    "choices": ["Prion", "Virion", "Ribosome", "Plasmid"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which microscope was first used to observe bacteria?",
+    "choices": ["Light microscope", "Electron microscope", "Scanning tunneling microscope", "Confocal microscope"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What kingdom do yeasts belong to?",
+    "choices": ["Fungi", "Bacteria", "Protista", "Archaea"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which bacterium causes strep throat infections?",
+    "choices": ["Streptococcus pyogenes", "Staphylococcus aureus", "Streptococcus pneumoniae", "Clostridium pyogenes"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the typical shape of E. coli bacteria?",
+    "choices": ["Rod-shaped", "Spiral", "Spherical", "Star-shaped"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which pioneering scientist discovered that microbes cause disease?",
+    "choices": ["Louis Pasteur", "Robert Hooke", "Antoni van Leeuwenhoek", "Edward Jenner"],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What do viruses require to reproduce?",
+    "choices": ["A host cell", "Oxygen", "Glucose solution", "Agar medium"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which genus of protozoa causes malaria?",
+    "choices": ["Trypanosoma", "Plasmodium", "Entamoeba", "Giardia"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What term describes bacteria that can tolerate high temperatures?",
+    "choices": ["Thermophobic", "Thermophilic", "Mesophilic", "Psychrophilic"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which antibiotic targets bacterial cell walls specifically?",
+    "choices": ["Aminoglycoside", "Beta-lactam", "Fluoroquinolone", "Macrolide"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What type of virus has RNA as its genetic material?",
+    "choices": ["Retrovirus", "Lentivirus", "Coronavirus", "All of the above"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which pathogen caused the 1918 Spanish Flu pandemic?",
+    "choices": ["H1N1 virus", "H5N1 virus", "Influenza A virus", "Coronavirus"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the causative agent of ringworm?",
+    "choices": ["Worm parasite", "Bacterial infection", "Dermatophyte fungus", "Viral infection"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which bacterium causes food poisoning from undercooked poultry?",
+    "choices": ["Listeria monocytogenes", "Campylobacter jejuni", "Clostridium botulinum", "Salmonella typhi"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What defines a pathogenic microorganism?",
+    "choices": ["Its size", "Its ability to cause disease", "Its color under microscope", "Its growth speed"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which structure allows bacteria to move through liquid environments?",
+    "choices": ["Pili", "Flagella", "Capsule", "Teichoic acids"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What do we call the process where bacteria exchange genetic material directly?",
+    "choices": ["Transformation", "Conjugation", "Transduction", "Mutation"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which fungal infection commonly affects the lungs?",
+    "choices": ["Candidiasis", "Aspergillosis", "Histoplasmosis", "Cryptococcosis"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the bacterial causative agent of tuberculosis?",
+    "choices": ["Streptococcus tuberculosis", "Bacillus tuberculosis", "Mycobacterium tuberculosis", "Corynebacterium tuberculosis"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which protozoan causes sleeping sickness in Africa?",
+    "choices": ["Plasmodium vivax", "Trypanosoma brucei", "Entamoeba histolytica", "Leishmania donovani"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What resistance mechanism allows bacteria to survive antibiotic exposure?",
+    "choices": ["Mutation only", "Enzymatic degradation of antibiotics", "Genetic mutation and enzymatic mechanisms", "None of these"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which scientist developed the germ theory of disease?",
+    "choices": ["Joseph Lister", "Florence Nightingale", "Louis Pasteur and Robert Koch", "Ignaz Semmelweis"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the primary difference between Gram-positive and Gram-negative bacteria?",
+    "choices": ["Pathogenicity", "Cell wall peptidoglycan thickness and structure", "Size", "Growth rate"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which virus is transmitted through mosquitoes and causes fever and joint pain?",
+    "choices": ["Measles virus", "Dengue virus", "Zika virus", "Yellow fever virus"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What organelle do viruses lack that all living cells possess?",
+    "choices": ["Ribosomes", "Nucleus", "Mitochondria", "Cell membrane"],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "The bacterium responsible for the Black Death plague is which species?",
+    "choices": ["Bacillus anthracis", "Yersinia pestis", "Vibrio cholerae", "Rickettsia typhi"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which enzyme do retroviruses use to convert RNA to DNA?",
+    "choices": ["Reverse transcriptase", "DNA polymerase", "RNA ligase", "Helicase"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is antibiotic resistance caused by in Staphylococcus aureus strains?",
+    "choices": ["Excess ribosomes", "Beta-lactamase enzyme production", "Increased mutation rate", "Reduced metabolism"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which microscopy technique uses a beam of electrons to achieve high magnification?",
+    "choices": ["Phase contrast microscopy", "Electron microscopy", "Darkfield microscopy", "Fluorescence microscopy"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What bacterial classification is based on oxygen requirements and metabolic pathways?",
+    "choices": ["Serological typing", "Phenotypic characterization", "Genotypic classification", "Ecological niche determination"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which prion disease affects humans and is transmissible?",
+    "choices": ["Mad cow disease", "Scrapie", "Creutzfeldt-Jakob disease", "Kuru"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the mechanism of action of fluoroquinolone antibiotics?",
+    "choices": ["Inhibition of protein synthesis", "Disruption of DNA gyrase and topoisomerase", "Cell wall destruction", "Metabolic inhibition"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which virus integrates its genetic material into the host chromosome?",
+    "choices": ["Influenza virus", "Coronavirus", "Retrovirus", "Bacteriophage"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What term describes the ability of bacteria to produce toxins that damage host tissue?",
+    "choices": ["Immunogenicity", "Virulence", "Invasiveness", "Pathogenicity"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which fungal disease is caused by Coccidioides immitis in southwestern US?",
+    "choices": ["Valley fever", "Desert fever", "Coccidioidal pneumonitis", "San Diego pneumonia"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What genetic mechanism allows horizontal transfer of antibiotic resistance genes?",
+    "choices": ["Vertical inheritance", "Plasmid conjugation", "Point mutations", "Spontaneous mutation"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which archaeal domain member is known for surviving extreme environments?",
+    "choices": ["Crenarchaeota thermophiles", "Euryarchaeota extremophiles", "Methanococci methanogens", "Thermophilic archaea"],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the envelope protein of influenza virus responsible for infection?",
+    "choices": ["Hemagglutinin", "Matrix protein", "Neuraminidase", "Viral polymerase"],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which molecular technique sequences bacterial DNA to identify species?",
+    "choices": ["RAPD-PCR", "16S rRNA gene sequencing", "AFLP", "RFLP analysis"],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  }
+]

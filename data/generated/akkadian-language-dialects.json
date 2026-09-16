@@ -1,0 +1,632 @@
+[
+  {
+    "text": "Akkadian belongs to which branch of the Afroasiatic language family?",
+    "choices": ["Semitic", "Berber", "Egyptian", "Cushitic"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which script was used to write Akkadian for most of its history?",
+    "choices": ["Phoenician alphabet", "Cuneiform", "Hieratic", "Linear Elamite"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The two main geographic dialect groupings of Akkadian are usually called what?",
+    "choices": ["Assyrian and Babylonian", "Mariote and Eblaite", "Hurrian and Amorite", "Neo-Aramaic and Chaldean"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Old Akkadian is associated most closely with which broad period?",
+    "choices": ["Late first millennium BCE", "Achaemenid period", "Sargonic period of the third millennium BCE", "Roman period"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Old Babylonian Akkadian is primarily the dialect of which rough era?",
+    "choices": ["Early second millennium BCE", "Late third century BCE", "Seleucid period", "Iron Age only"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Old Assyrian is especially well attested from merchant archives at which site?",
+    "choices": ["Uruk", "Kanesh", "Lagash", "Persepolis"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which later king's library is a major source for Neo-Assyrian Akkadian tablets?",
+    "choices": ["Ashurbanipal", "Hammurabi", "Naram-Sin", "Nebuchadnezzar I"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Babylonian eventually became the prestige written variety for much of what sphere?",
+    "choices": ["Aegean lyric poetry", "International diplomacy and scholarship", "Latin legal prose", "South Arabian inscriptions"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "The Amarna letters are famous evidence for which wider use of Akkadian?",
+    "choices": ["Village storytelling only", "Late Bronze Age diplomatic correspondence", "Greek philosophical translation", "Roman tax law"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which statement best describes the relation between Assyrian and Babylonian?",
+    "choices": ["They are unrelated languages", "They are major dialects of Akkadian", "Assyrian is later Sumerian", "Babylonian is an alphabet, not a dialect"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Akkadian morphology is classically described as relying heavily on what kind of root structure?",
+    "choices": ["Mostly one-consonant roots", "Triconsonantal roots", "Tone melodies only", "Prefixless stems"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which word order is often treated as basic or default in Akkadian prose?",
+    "choices": ["VSO", "SOV", "OVS", "Free with no tendencies"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Akkadian is usually classified typologically as which kind of language?",
+    "choices": ["Agglutinative", "Fusional", "Isolating", "Polysynthetic"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which set names the three traditional nominal cases in Akkadian?",
+    "choices": ["Nominative, genitive, accusative", "Ergative, absolutive, dative", "Locative, ablative, instrumental", "Vocative, illative, essive"],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which case normally marks the direct object in Akkadian?",
+    "choices": ["Genitive", "Accusative", "Nominative", "Ventive"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which case is commonly used for possession after another noun in Akkadian?",
+    "choices": ["Genitive", "Nominative", "Accusative", "Directive"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The status constructus in Akkadian is most closely associated with what function?",
+    "choices": ["Negation of verbs", "Noun bound to a following genitive", "Plural feminine agreement", "Past-tense marking"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the status rectus in Akkadian grammar?",
+    "choices": ["The normal independent noun form", "A special ventive form", "An enclitic pronoun series", "A subtype of imperative"],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "The label status absolutus in Akkadian is typically used for nouns in what sort of environment?",
+    "choices": ["Predicative or certain fixed syntactic positions", "Only royal inscriptions", "Only plural forms", "Only Old Assyrian letters"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which grammatical genders are standard in Akkadian?",
+    "choices": ["Animate and inanimate", "Masculine and feminine", "Common and neuter", "Masculine, feminine, neuter"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Akkadian distinguishes singular, plural, and which additional number category in many nouns?",
+    "choices": ["Trial", "Paucal", "Dual", "Collective only"],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which ending is the classic masculine singular nominative case vowel in Akkadian?",
+    "choices": ["-am", "-im", "-um", "-at"],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which ending is standard for masculine singular accusative in the basic case system?",
+    "choices": ["-um", "-am", "-im", "-u"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which ending is standard for masculine singular genitive in the basic case system?",
+    "choices": ["-im", "-um", "-am", "-at"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Many feminine singular nouns in Akkadian are marked by which suffix?",
+    "choices": ["-š", "-ū", "-t", "-n"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In the noun phrase, adjectives in Akkadian generally do what?",
+    "choices": ["Always precede and never agree", "Follow the noun and agree with it", "Stand clause-initially only", "Remain in the genitive regardless of the noun"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which feature is characteristic of Semitic verbal systems such as Akkadian?",
+    "choices": ["Root-and-pattern morphology", "Exclusive prefixing without stems", "Case through tone only", "No inflection for person"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The Akkadian preterite most basically expresses what?",
+    "choices": ["A past finite event", "A possessive noun phrase", "A dual adjective", "A determinative marker"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which Akkadian verbal form is especially associated with present-future or durative meaning in many descriptions?",
+    "choices": ["Perfect", "Imperative", "Durative", "Stative"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Akkadian perfect is often used to convey what nuance relative to the preterite?",
+    "choices": ["Zero person marking", "Resultative or relevance to a reference point", "Pure nominalization only", "Uninflected citation form"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Akkadian form is built from adjectival endings and often expresses a state or condition?",
+    "choices": ["Ventive", "Stative", "Infix", "Subjunctive particle"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In introductory Akkadian grammars, the G-stem is typically what kind of stem?",
+    "choices": ["Basic simple stem", "Passive of the D-stem", "Iterative stem only", "Feminine plural stem"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The D-stem in Akkadian is commonly associated with what broad function?",
+    "choices": ["Intensive or factitive nuance", "Simple negation", "Dual possession", "Case syncretism"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The Š-stem in Akkadian often adds what meaning?",
+    "choices": ["Causative", "Vocative", "Locative", "Dual reciprocal"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The N-stem in Akkadian is most often described as what?",
+    "choices": ["Passive or reflexive-related stem", "Exclusive future stem", "A noun case pattern", "A numeral classifier"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which label refers to the final suffix in Akkadian motion verbs often translated roughly as 'hither'?",
+    "choices": ["Mimation", "Ventive", "Tanwin", "Energic"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Mimation in Akkadian refers to what feature of many noun forms?",
+    "choices": ["Initial vowel change", "Final -m ending", "Gemination of the second radical", "Prefix vowel harmony"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which phenomenon often reduces or removes final case vowels and mimation in later Akkadian varieties?",
+    "choices": ["Case vowel erosion", "Creation of new tones", "Development of articles", "Switch to alphabetic spelling"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Old Babylonian preserves the case system more clearly than which later stage does on average?",
+    "choices": ["Neo-Babylonian", "Old Akkadian", "Eblaite", "Classical Arabic"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which dialect name is commonly used for the prestige literary and scholarly standard of the first millennium BCE?",
+    "choices": ["Standard Babylonian", "Middle Assyrian", "Peripheral Akkadian", "Old Assyrian"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Epic of Gilgamesh is best known from copies in which literary dialect?",
+    "choices": ["Standard Babylonian", "Old Assyrian only", "Neo-Aramaic", "Eme-sal"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which dialect is especially associated with the law code of Hammurabi?",
+    "choices": ["Neo-Assyrian", "Old Babylonian", "Middle Babylonian", "Late Babylonian"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Middle Assyrian is the dialect stage tied to the Assyrian state of which broad era?",
+    "choices": ["Late second millennium BCE", "Uruk IV period", "Hellenistic age only", "Early Islamic period"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Neo-Assyrian belongs mainly to which broad historical phase?",
+    "choices": ["Third Dynasty of Ur", "First millennium Assyrian empire", "Parthian Babylonia", "Old Babylonian schools"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Neo-Babylonian is associated chiefly with which broad period?",
+    "choices": ["Early Bronze Age", "First millennium BCE Babylonia", "Old Assyrian trade colonies", "Roman Syria"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which label is often used for Akkadian outside Mesopotamia in the Levant and related regions?",
+    "choices": ["Peripheral Akkadian", "Classical Akkadian", "Median Akkadian", "Canopic Akkadian"],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "The cuneiform sign DINGIR written before divine names in Akkadian transliteration usually functions as what?",
+    "choices": ["A case ending", "A determinative for deities", "A plural marker", "A ventive suffix"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "When a Sumerian logogram is used to write an Akkadian word, the practice reflects what feature of scribal writing?",
+    "choices": ["Alphabetization", "Sumerography", "Spoken code-switching only", "Loss of phonetic complements"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What are phonetic complements in Akkadian cuneiform mainly used for?",
+    "choices": ["Marking tablet ownership", "Clarifying the reading of a logogram or sign sequence", "Replacing all determinatives", "Indicating line numbers only"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Why are many Akkadian texts written with both syllabic spellings and Sumerograms?",
+    "choices": ["Because scribes mixed two unrelated scripts accidentally", "Because cuneiform orthography allowed logographic and phonetic writing together", "Because Akkadian had no verbs", "Because only foreigners used syllabic writing"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The relation between Sumerian and Akkadian in scribal culture is best described how?",
+    "choices": ["Sumerian disappeared without scholarly use", "Sumerian remained a learned prestige language alongside Akkadian", "Akkadian replaced cuneiform immediately", "They were the same language in two scripts"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Bilingual lexical lists in Mesopotamia commonly paired Sumerian with what other language?",
+    "choices": ["Egyptian", "Akkadian", "Old Persian", "Hittite only"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Akkadian noun means 'king'?",
+    "choices": ["awilum", "šarrum", "bītum", "iltum"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which Akkadian noun means 'house'?",
+    "choices": ["mātum", "ālum", "bītum", "abum"],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which Akkadian noun means 'man' or 'free person' in many Old Babylonian contexts?",
+    "choices": ["awilum", "ekallum", "šamû", "iltum"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which Akkadian noun means 'god' in the masculine singular?",
+    "choices": ["iltum", "awātum", "ilum", "mārtum"],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which Akkadian noun means 'word' or 'matter' and is common in letters and laws?",
+    "choices": ["awātum", "napšum", "qātum", "šadû"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which Akkadian noun means 'land' or 'country'?",
+    "choices": ["mātum", "qātum", "rēšum", "ūmum"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Akkadian noun means 'city'?",
+    "choices": ["ālum", "ṭuppum", "malkum", "šēpum"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The Akkadian word ṭuppum refers to what object?",
+    "choices": ["Seal", "Tablet", "Plow", "Spear"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which Akkadian noun means 'father'?",
+    "choices": ["abum", "aḫum", "mārum", "šarrum"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Akkadian noun means 'brother'?",
+    "choices": ["mārum", "aḫum", "ummum", "qarrādum"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Akkadian noun means 'son'?",
+    "choices": ["mārum", "mārtum", "bēlum", "ṣēnum"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Akkadian noun means 'daughter'?",
+    "choices": ["mārtum", "ummum", "qātum", "šarratum"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Akkadian noun means 'mother'?",
+    "choices": ["ummum", "aḫātum", "napšum", "ersetum"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which Akkadian noun means 'lord' or 'owner'?",
+    "choices": ["bēlum", "warkatum", "ēkallum", "nērum"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Akkadian noun means 'palace'?",
+    "choices": ["ēkallum", "muškenum", "ṣibtum", "lišānum"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Akkadian noun means 'hand'?",
+    "choices": ["qātum", "šēpum", "īnum", "uznum"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Akkadian noun means 'head'?",
+    "choices": ["libbum", "rēšum", "pûm", "naplum"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Akkadian noun means 'heart' or 'interior' and often carries metaphorical force?",
+    "choices": ["libbum", "šamû", "ūmum", "idum"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Akkadian noun means 'mouth'?",
+    "choices": ["pûm", "īnum", "šērum", "abnum"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Akkadian noun means 'eye'?",
+    "choices": ["uznum", "īnum", "šinnum", "qerbum"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which Akkadian noun means 'ear'?",
+    "choices": ["uznum", "ṣubtum", "šēpum", "kaṣpum"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Akkadian noun means 'silver' and is often central in economic texts?",
+    "choices": ["ḫurāṣum", "kaṣpum", "samnum", "appum"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which Akkadian noun means 'gold'?",
+    "choices": ["nappāḫum", "ḫurāṣum", "ṣibtum", "sikkatum"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which Akkadian noun means 'day'?",
+    "choices": ["ūmum", "mūšum", "warḫum", "šattum"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Akkadian noun means 'night'?",
+    "choices": ["mūšum", "ūmum", "adannum", "šer'um"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Akkadian noun means 'month'?",
+    "choices": ["warḫum", "ūmum", "šattum", "adrum"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which Akkadian noun means 'year'?",
+    "choices": ["šattum", "mūšum", "sērum", "būrum"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which preposition commonly means 'in, by, with' in Akkadian?",
+    "choices": ["ana", "ina", "ištu", "adi"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which preposition commonly means 'to, for, toward' in Akkadian?",
+    "choices": ["adi", "ana", "ina", "ištu"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which preposition commonly means 'from, since' in Akkadian?",
+    "choices": ["eli", "ana", "ištu", "kīma"],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which preposition commonly means 'until, as far as' in Akkadian?",
+    "choices": ["adi", "ina", "ultu", "itti"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which conjunction often means 'when' or 'because' depending on context in Akkadian subordinate clauses?",
+    "choices": ["šumma", "kīam", "enūma", "ul"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which particle is the usual Akkadian negator for indicative verbal clauses?",
+    "choices": ["lā", "mā", "šu", "nu"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which particle often introduces prohibitions in Akkadian?",
+    "choices": ["mā", "ul", "u", "ša"],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which particle commonly functions as the relative marker in Akkadian?",
+    "choices": ["ša", "ul", "kīma", "ma"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The particle -ma in Akkadian often serves what discourse function?",
+    "choices": ["Coordinating or connective emphasis", "Marking feminine plural only", "Replacing all verbs of motion", "Indicating scribal errors"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In many Akkadian grammars, weak verbs are called weak because they contain what sort of radicals?",
+    "choices": ["Only dental consonants", "Problematic consonants such as w, y, or glottal elements", "A fourth radical always", "No root consonants at all"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Geminate verbs in Akkadian are those whose root has what feature?",
+    "choices": ["Two identical final radicals", "No initial radical", "A prefixed preposition", "A fixed feminine ending"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The term t-stem in Akkadian grammar usually points to what addition?",
+    "choices": ["An infixed or prefixed -t- element in derived stems", "A noun in the genitive", "A writing system without vowels", "A plural marker on adjectives"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which dialect preserves especially conservative features in private merchant letters from Anatolia?",
+    "choices": ["Old Assyrian", "Late Babylonian", "Standard Babylonian", "Neo-Assyrian"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which stage of Babylonian is strongly tied to Kassite-era scholarly and documentary texts?",
+    "choices": ["Middle Babylonian", "Old Babylonian", "Neo-Babylonian", "Peripheral Akkadian only"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is one major reason Standard Babylonian is called a standard language?",
+    "choices": ["It exactly matched daily speech everywhere", "It functioned as a learned supraregional written norm", "It had only one city of use", "It was written alphabetically"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which scribal habit most directly reflects the long educational prestige of Sumerian within Akkadian texts?",
+    "choices": ["Use of Greek loanwords", "Frequent Sumerograms", "Elimination of logograms", "Exclusive alphabetic glossing"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In transliterated Akkadian, what do superscript determinatives usually indicate?",
+    "choices": ["Vowel length", "Semantic class without being pronounced in the same way as the word", "Case endings only", "Tablet damage"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which of the following best describes cuneiform sign polyvalence for Akkadian?",
+    "choices": ["Every sign had one sound only", "A sign could carry multiple syllabic values or a logographic reading", "Signs were used only numerically", "Only divine names had alternate readings"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which feature often differentiates later Babylonian orthography from earlier stages?",
+    "choices": ["Greater preservation of full case endings everywhere", "More reduced representation of final short vowels", "Replacement of cuneiform by runes", "Complete loss of Sumerograms"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "The Akkadian infinitive is fundamentally what kind of form?",
+    "choices": ["A verbal noun", "A case particle", "A determinative", "A dual pronoun"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which mood form in Akkadian is directly used for commands to the second person?",
+    "choices": ["Stative", "Imperative", "Subjunctive", "Ventive"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The Akkadian subjunctive is commonly marked in many paradigms by what element?",
+    "choices": ["Final -u", "Initial ha-", "Gemination of every radical", "Suffix -anni"],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which phrase best captures the role of lexical lists for Akkadian scribes?",
+    "choices": ["They were random archives", "They trained sign knowledge and Sumerian-Akkadian equivalences", "They replaced letters in government", "They were exclusively legal records"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which variety of Akkadian is most often treated as the last surviving spoken or semi-spoken stage in southern Mesopotamia?",
+    "choices": ["Late Babylonian", "Old Babylonian", "Old Akkadian", "Middle Assyrian"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Compared with Babylonian, Assyrian is often noted for differences especially in what area besides vocabulary?",
+    "choices": ["Cuneiform never used in Assyria", "Phonology and certain morphological developments", "Absence of verbs", "Lack of subordinate clauses"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Why do scholars speak of both dialect and register when discussing Akkadian varieties?",
+    "choices": ["Because all differences are imaginary", "Because some forms are regional while others are literary or genre-based norms", "Because cuneiform cannot represent language", "Because every tablet is bilingual"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  }
+]

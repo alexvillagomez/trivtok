@@ -1,0 +1,272 @@
+[
+  {
+    "text": "In Mendelian inheritance, a trait that appears in the F1 generation when inherited from one parent is called...",
+    "choices": ["Recessive", "Dominant", "Homozygous", "Epistatic"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What molecule carries genetic instructions in the form of a sequence of bases?",
+    "choices": ["Protein", "Lipid", "DNA", "Carbohydrate"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many pairs of chromosomes does a typical human cell contain?",
+    "choices": ["23", "46", "92", "32"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which bases are found in RNA but not in DNA?",
+    "choices": ["Adenine", "Uracil", "Guanine", "Thymine"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A permanent change in the sequence of DNA is called a...",
+    "choices": ["Translation", "Mutation", "Replication", "Transcription"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In a monohybrid cross between two heterozygous parents, what fraction of offspring are homozygous?",
+    "choices": ["3/4", "1/4", "1/2", "1"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The basic unit of heredity that controls a specific trait is called a...",
+    "choices": ["Chromosome", "Gene", "Nucleotide", "Ribosome"],
+    "correctIndex": 1,
+    "difficulty": 0.09
+  },
+  {
+    "text": "What is the name of the process where DNA unwinds and separates into single strands?",
+    "choices": ["Replication", "Translation", "Unwinding", "Denaturation"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which genetic disorder is caused by having three copies of chromosome 21?",
+    "choices": ["Hemophilia", "Cystic fibrosis", "Down syndrome", "Turner syndrome"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Gregor Mendel's experiments primarily used which plant species?",
+    "choices": ["Tomato", "Corn", "Pea", "Wheat"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "An organism with two identical alleles for a trait is called...",
+    "choices": ["Heterozygous", "Homozygous", "Hemizygous", "Haploid"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the term for an individual's observable characteristics?",
+    "choices": ["Genotype", "Phenotype", "Karyotype", "Allotype"],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "In a dihybrid cross involving two independently assorting genes, what is the expected phenotypic ratio?",
+    "choices": ["1:2:1", "1:1:1:1", "9:3:3:1", "3:1"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which of the following is an example of a point mutation that does not change the amino acid produced?",
+    "choices": ["Frameshift mutation", "Nonsense mutation", "Silent mutation", "Missense mutation"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The region of DNA where an enzyme begins transcription is called the...",
+    "choices": ["Terminator", "Promoter", "Enhancer", "Silencer"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which genetic condition is characterized by a deficiency of the enzyme phenylalanine hydroxylase?",
+    "choices": ["Galactosemia", "Phenylketonuria", "Maple syrup urine disease", "Tay-Sachs"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In bacterial genetics, what is a plasmid?",
+    "choices": ["A gene segment", "A viral particle", "An extrachromosomal DNA molecule", "A protein coating"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the name of the process by which mRNA is synthesized from a DNA template?",
+    "choices": ["Translation", "Replication", "Transcription", "Mutation"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which enzyme is responsible for unwinding the DNA double helix during replication?",
+    "choices": ["Ligase", "Polymerase", "Helicase", "Primase"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "A cross between an individual with a dominant phenotype and a homozygous recessive individual is called a...",
+    "choices": ["Testcross", "Backcross", "Reciprocal cross", "Three-point cross"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which of the following inheritance patterns shows a 1:1 ratio in males but not females?",
+    "choices": ["Autosomal dominant", "Autosomal recessive", "X-linked recessive", "Incomplete dominance"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In his experiments with Drosophila, Thomas Hunt Morgan discovered the phenomenon of...",
+    "choices": ["Mutation", "Gene linkage", "Polyploidy", "Pleiotropy"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What term describes genes located on the X chromosome?",
+    "choices": ["Autosomal", "X-linked", "Y-linked", "Mitochondrial"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "A frameshift mutation typically results in which type of change?",
+    "choices": ["Loss of function only", "Gain of function only", "Dramatic protein change", "No change"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In the lac operon, what molecule acts as a repressor of transcription?",
+    "choices": ["Lactose", "Glucose", "The lac repressor protein", "RNA polymerase"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which genetic disorder involves abnormal hemoglobin molecules due to a point mutation?",
+    "choices": ["Hemophilia", "Thalassemia", "Sickle cell disease", "Huntington's disease"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the term for two alleles that produce a blend of phenotypes in heterozygotes?",
+    "choices": ["Complete dominance", "Incomplete dominance", "Codominance", "Epistasis"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The phenomenon where one gene affects multiple traits is called...",
+    "choices": ["Epistasis", "Pleiotropy", "Heteroplasmy", "Aneuploidy"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which of the following best describes the relationship between genotype and environment in determining phenotype?",
+    "choices": ["Genotype alone determines phenotype", "Phenotype = Genotype + Environment", "Environment alone determines phenotype", "They are independent factors"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In the context of DNA repair, excision repair primarily removes which type of damage?",
+    "choices": ["Single-strand breaks", "Thymine dimers", "Base mismatches", "Double-strand breaks"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the primary function of histones in eukaryotic cells?",
+    "choices": ["DNA replication", "DNA packaging", "Protein synthesis", "mRNA processing"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A color-blind female must be...",
+    "choices": ["Homozygous for the recessive allele", "Heterozygous for the recessive allele", "Homozygous for the dominant allele", "Carrying only one X chromosome"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which epigenetic modification is commonly associated with gene silencing?",
+    "choices": ["DNA acetylation", "DNA methylation", "Histone phosphorylation", "DNA circularization"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The process of X-inactivation in female mammals results in...",
+    "choices": ["Loss of one X chromosome", "Random silencing of one X chromosome", "Expression of both X chromosomes", "Duplication of X chromosomes"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In genetic mapping, one map unit is equivalent to a recombination frequency of...",
+    "choices": ["0.5%", "1%", "2%", "5%"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which type of mutation is most likely to have a significant effect on protein function?",
+    "choices": ["Synonymous mutation", "Frameshift mutation", "Intron mutation", "Wobble pair mutation"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The phenomenon of genetic anticipation is most commonly observed in which type of disorder?",
+    "choices": ["Bacterial infections", "Mitochondrial diseases", "Trinucleotide repeat disorders", "Single-gene recessive traits"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which model best explains the inheritance of traits controlled by multiple genes?",
+    "choices": ["Mendelian inheritance", "Blending inheritance", "Polygenic inheritance", "Cytoplasmic inheritance"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In Hfr strains of bacteria, the 'Hfr' designation refers to...",
+    "choices": ["High-frequency recombination", "High-frequency resistance", "High-functioning ribosomes", "Highly-fragmented replicons"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The codon that signals the end of translation is called a...",
+    "choices": ["Start codon", "Stop codon", "Wobble codon", "Sense codon"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which enzyme catalyzes the formation of phosphodiester bonds between nucleotides during DNA replication?",
+    "choices": ["Helicase", "DNA polymerase", "Ligase", "Primase"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The compensatory evolution of interacting proteins to maintain functional compatibility is called...",
+    "choices": ["Convergent evolution", "Coevolution", "Directional selection", "Balancing selection"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which of the following best describes the process of meiosis I?",
+    "choices": ["Separation of sister chromatids", "Reduction of chromosome number through separation of homologous pairs", "Duplication of DNA", "Random mutation of alleles"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The recombination frequency between two linked genes is 12%. What is the expected distance between these genes on a chromosome map?",
+    "choices": ["6 map units", "12 map units", "24 map units", "1.2 map units"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which genetic phenomenon explains why an offspring may have a phenotype neither parent exhibits?",
+    "choices": ["Mutation alone", "Complementation of recessive alleles", "Environmental influence alone", "Gene expression regulation"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  }
+]

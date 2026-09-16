@@ -1,0 +1,290 @@
+[
+  {
+    "text": "In this tragedy, Prince Hamlet feigns madness while seeking revenge for his father's murder.",
+    "choices": ["The Tempest", "Othello", "Macbeth", "Romeo and Juliet"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which play features the Scottish general who murders the king to seize the throne?",
+    "choices": ["King Lear", "Macbeth", "Julius Caesar", "Antony and Cleopatra"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In 'A Midsummer Night's Dream,' what magical being manipulates the lovers' affections?",
+    "choices": ["Ariel", "Puck", "Caliban", "Prospero"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Two young lovers from feuding families die tragically in which play?",
+    "choices": ["Much Ado About Nothing", "Twelfth Night", "Romeo and Juliet", "The Merchant of Venice"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In 'The Tempest,' who is the rightful duke that Prospero seeks to restore?",
+    "choices": ["Alonso", "Antonio", "Prospero himself", "Ferdinand"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which comedy features the witty banter between Beatrice and Benedick?",
+    "choices": ["Twelfth Night", "As You Like It", "Much Ado About Nothing", "All's Well That Ends Well"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In 'Othello,' what object does Iago use as false evidence of infidelity?",
+    "choices": ["A ring", "A letter", "A handkerchief", "A bracelet"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who rules the fairy kingdom in 'A Midsummer Night's Dream'?",
+    "choices": ["Titania and Oberon", "Lysander and Hermia", "Puck and Cobweb", "Theseus and Hippolyta"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In 'King Lear,' the protagonist divides his kingdom among his daughters based on their flattery.",
+    "choices": ["True", "False", "Only partly true", "It's about his sons"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Roman leader is betrayed by his trusted friend Brutus?",
+    "choices": ["Mark Antony", "Julius Caesar", "Pompey", "Octavian"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In 'As You Like It,' who famously says 'All the world's a stage'?",
+    "choices": ["Rosalind", "Jacques", "Orlando", "Duke Senior"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the mischievous fairy servant in 'A Midsummer Night's Dream'?",
+    "choices": ["Moth", "Puck", "Peaseblossom", "Oberon"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In 'The Merchant of Venice,' what is the penalty if Antonio cannot repay his debt?",
+    "choices": ["A year of servitude", "Double the sum in gold", "A pound of his flesh", "His entire fortune"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which play opens with a tempest that shipwrecks a group of nobles on an island?",
+    "choices": ["The Tempest", "The Winter's Tale", "Twelfth Night", "Pericles"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In 'Twelfth Night,' Viola disguises herself as a young man named what?",
+    "choices": ["Cesario", "Antonio", "Sebastian", "Orsino"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who is the scheming villain that orchestrates Othello's downfall through manipulation?",
+    "choices": ["Cassio", "Iago", "Montano", "Brabantio"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In 'Macbeth,' what do the three witches predict about Macbeth becoming king?",
+    "choices": ["Never", "Through prophecy alone", "None of woman born shall harm him", "Within a fortnight"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which play features the jealous Leontes who mistakenly believes his wife is unfaithful?",
+    "choices": ["The Winter's Tale", "Measure for Measure", "Cymbeline", "Troilus and Cressida"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In 'Hamlet,' what word does Hamlet use to describe how he'll kill the king?",
+    "choices": ["Dagger", "Poison", "Sword", "Treachery"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who is the wise old magician and rightful ruler in 'The Tempest'?",
+    "choices": ["Alonso", "Prospero", "Antonio", "Gonzalo"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In 'Much Ado About Nothing,' what appears to die but returns to expose Don John's deception?",
+    "choices": ["Hero's reputation", "Hero herself", "Claudio's honor", "Beatrice's affections"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which tragedy portrays the decline of an Egyptian queen and her relationship with a Roman general?",
+    "choices": ["Cleopatra", "Antony and Cleopatra", "The Queen of Egypt", "Octavian's Conquest"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In 'Romeo and Juliet,' what is the profession of Romeo's confidant Mercutio?",
+    "choices": ["Apothecary", "Servant", "Nobleman", "Friar"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which play contains the famous line 'To be, or not to be'?",
+    "choices": ["Macbeth", "Hamlet", "King Lear", "Othello"],
+    "correctIndex": 1,
+    "difficulty": 0.05
+  },
+  {
+    "text": "In 'Taming of the Shrew,' what transformation does Katherine undergo?",
+    "choices": ["She becomes wealthier", "She becomes submissive and obedient to her husband", "She becomes independent", "She leaves to join a convent"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In which play is a Roman leader assassinated on the Ides of March by senators including his friend Brutus?",
+    "choices": ["Antony and Cleopatra", "Julius Caesar", "Coriolanus", "Titus Andronicus"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In 'A Midsummer Night's Dream,' what spell causes Titania to fall in love with Bottom?",
+    "choices": ["A potion from Puck", "Oberon's curse", "Love's flower juice", "An enchanted flower"],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which play features the character Falstaff, a rotund, comic knight?",
+    "choices": ["Hamlet", "Henry IV Part 1", "The Merry Wives of Windsor", "King Lear"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In 'Othello,' Othello's race is central to the tragedy. He is a Moorish what?",
+    "choices": ["Prince", "General", "Duke", "Emperor"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the primary genre of 'The Tempest'?",
+    "choices": ["Tragedy", "Comedy", "Historical drama", "Romance"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In 'King Lear,' the storm scene symbolizes what aspect of the protagonist's condition?",
+    "choices": ["His wealth", "His inner turmoil and madness", "His political power", "His love for his daughters"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which female character in 'Hamlet' drinks poison and drowns in a brook?",
+    "choices": ["Gertrude", "Ophelia", "Marcella", "Valeria"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In 'Romeo and Juliet,' the feud is between two families. Name one of them.",
+    "choices": ["Montague", "Capulet", "Both of these", "Neither"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What literary device is frequently used in 'A Midsummer Night's Dream' involving mistaken identities among the lovers?",
+    "choices": ["Soliloquy", "Comic confusion and magical intervention", "Foreshadowing", "Tragedy"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In 'Macbeth,' Lady Macbeth initially appears more ambitious than her husband. She later experiences guilt and what?",
+    "choices": ["Ambition", "Madness and suicide", "Redemption", "Betrayal"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Shakespeare play is set primarily in Venice and deals with themes of prejudice and racial conflict?",
+    "choices": ["The Merchant of Venice", "Othello", "Twelfth Night", "The Tempest"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In 'As You Like It,' the Forest of Arden represents what symbolic space?",
+    "choices": ["Danger and wilderness", "Exile and a place of transformation", "Wealth and nobility", "Darkness and evil"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the name of the shipwrecked duke in 'The Tempest' who uses magic to orchestrate events?",
+    "choices": ["Alonso", "Antonio", "Prospero", "Gonzalo"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In 'Hamlet,' the ghost of Hamlet's father reveals that he was murdered by whom?",
+    "choices": ["Claudius", "Horatio", "Gertrude", "Polonius"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Shakespeare play explores proportional justice through a corrupt magistrate named Angelo in Vienna?",
+    "choices": ["Hamlet", "Measure for Measure", "The Merchant of Venice", "Much Ado About Nothing"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In 'King Lear,' Cordelia is Lear's youngest daughter. What does she refuse to do that angers him?",
+    "choices": ["Marry a suitor", "Flatter him excessively", "Speak at all", "Support his division of the kingdom"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What tragic flaw ('hamartia') does Othello's jealousy lead to in the play?",
+    "choices": ["Financial ruin", "The murder of his innocent wife and his own suicide", "Exile from Venice", "Loss of his military rank"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In 'The Tempest,' what magical creature does Prospero control to his bidding?",
+    "choices": ["Caliban", "Ariel", "Miranda", "Ferdinand"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which play ends with the marriage of multiple couples and the establishment of harmonious order?",
+    "choices": ["Hamlet", "Macbeth", "A Midsummer Night's Dream", "King Lear"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In 'Twelfth Night,' the subplot involves Sir Toby Belch and his drinking companion. What is their humorous purpose?",
+    "choices": ["To advance the main plot", "To provide comic relief and commentary", "To antagonize Viola", "To marry Olivia"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the primary tragic outcome in 'Julius Caesar'—the event that shapes the entire narrative?",
+    "choices": ["Caesar's exile", "Caesar's assassination on the Ides of March", "Caesar's loss of power", "Caesar's suicide"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "In 'Romeo and Juliet,' Romeo believes Juliet is dead. What does he do in response?",
+    "choices": ["He leaves Verona", "He kills himself with poison", "He waits for her to wake", "He seeks revenge on the Capulets"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which Shakespearean tragedy explores themes of ambition, guilt, and moral corruption through a couple's descent into tyranny?",
+    "choices": ["Othello", "Hamlet", "Macbeth", "King Lear"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  }
+]

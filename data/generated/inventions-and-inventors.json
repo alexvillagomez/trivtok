@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Who invented the printing press around 1440?",
+    "choices": ["Gutenberg", "Caxton", "da Vinci", "Aldus"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In what year did Thomas Edison patent the practical incandescent light bulb?",
+    "choices": ["1876", "1879", "1881", "1885"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who developed the telephone, first patented in 1876?",
+    "choices": ["Edison", "Bell", "Tesla", "Morse"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The steam engine was significantly improved by which Scottish engineer in the 1760s–1770s?",
+    "choices": ["James Newcomen", "Thomas Watt", "George Stephenson", "Richard Trevithick"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who discovered penicillin in 1928?",
+    "choices": ["Flemming", "Florey", "Chain", "Pasteur"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which scientist is credited with the first practical electric motor, developed in the 1830s?",
+    "choices": ["Volta", "Ampere", "Faraday", "Ohm"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The internet was originally developed as a military research project called ARPANET. In what decade?",
+    "choices": ["1950s", "1960s", "1970s", "1980s"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who invented the airplane, successfully flying at Kitty Hawk in 1903?",
+    "choices": ["Otto Lilienthal", "Wright Brothers", "Glenn Curtiss", "Samuel Langley"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The first successful photograph was taken by whom in 1826?",
+    "choices": ["Talbot", "Daguerre", "Niepce", "Fox"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The steam turbine, crucial to modern power generation, was invented by which engineer?",
+    "choices": ["Charles Parsons", "George Curtis", "Henrik de Laval", "Nikola Tesla"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who invented the telegraph and Morse code in the 1830s–1840s?",
+    "choices": ["Dot Morse", "Samuel Morse", "Alfred Vail", "Francis Hopkins"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "The microscope was pioneered by which Dutch scientist in the late 1600s?",
+    "choices": ["Hooke", "van Leeuwenhoek", "Huygens", "Boyle"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who developed the practical vacuum cleaner in 1901?",
+    "choices": ["Booth", "Spangler", "Hoover", "Murray"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The safety pin was patented by which American inventor in 1849?",
+    "choices": ["Walter Hunt", "Charles Goodyear", "Eli Whitney", "Isaac Singer"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who is credited with inventing the zipper (patented as a 'Clasp Locker') in 1891?",
+    "choices": ["Whitely", "Gideon Sundback", "Joshua Pusey", "Charles Macintosh"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The phonograph, a device that could record and play back sound, was invented by whom in 1877?",
+    "choices": ["Edison", "Berliner", "Volta", "Hertz"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Scottish veterinarian invented the hypodermic syringe in 1853?",
+    "choices": ["Alexander Wood", "John Hunter", "Ambrose Paré", "Louis Pasteur"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The barometer was invented in 1643 by whom?",
+    "choices": ["Torricelli", "Boyle", "Pascal", "Galileo"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who developed the battery as a source of electrical current in 1800?",
+    "choices": ["Ampere", "Volta", "Faraday", "Coulomb"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The friction match was commercially developed by which inventor in Sweden, 1855?",
+    "choices": ["John Walker", "Jöns Jacob Berzelius", "Gustaf Pasch", "Philibert Ascanio"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who invented the X-ray technology in 1895?",
+    "choices": ["J.J. Thomson", "Ernest Rutherford", "Wilhelm Röntgen", "Henri Becquerel"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The thermometer as we know it was standardized by which scientist around 1740?",
+    "choices": ["Fahrenheit", "Celsius", "Réaumur", "Gay-Lussac"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who patented the first practical typewriter in 1868?",
+    "choices": ["Remington", "Sholes", "Glidden", "Soule"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The sewing machine was refined and patented by which inventor in 1846?",
+    "choices": ["Elias Howe", "Walter Hunt", "Isaac Singer", "Barthélemy Thimonnier"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which inventor developed the first practical internal combustion engine?",
+    "choices": ["Daimler", "Benz", "Lenoir", "Otto"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who invented the barbed wire fence in 1874?",
+    "choices": ["Joseph Glidden", "Michael Kelly", "Jacob Haish", "Henry Rose"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The aspirin was first synthesized by which company in 1897?",
+    "choices": ["Merck", "Bayer", "Hoffmann-La Roche", "Novartis"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who created the first functioning parachute design, tested in 1783?",
+    "choices": ["André-Jacques Garnerin", "Luigi Lenzi", "François Blanchard", "Jean-Pierre Blanchard"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The gyroscope was invented by which French scientist in 1852?",
+    "choices": ["Léon Foucault", "Jean Coriolis", "Auguste Comte", "Urbain Le Verrier"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who invented the stethoscope in 1816?",
+    "choices": ["René Laennec", "William Stokes", "John Dalton", "Pierre-Louis Cadet"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The electric lamp filament made from tungsten was developed by whom?",
+    "choices": ["Coolidge", "Langmuir", "Ennor", "Crookes"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Who patented the gasoline-powered automobile in 1885–1886?",
+    "choices": ["Nicolaus Otto", "Karl Benz", "Gottlieb Daimler", "Wilhelm Maybach"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which scientist invented the mercury thermometer in 1714?",
+    "choices": ["Gabriel Fahrenheit", "Anders Celsius", "Daniel Fahrenheit", "René Réaumur"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The elastic band (rubber band) was patented in what century?",
+    "choices": ["18th", "19th", "20th", "21st"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who invented the spinning jenny, a key textile machine, around 1764?",
+    "choices": ["Edmund Cartwright", "James Hargreaves", "Richard Arkwright", "Samuel Crompton"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The practical submarine was pioneered by which engineer in the early 1800s?",
+    "choices": ["Robert Fulton", "David Bushnell", "Cornelis Drebbel", "Holland"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who developed the first working electric light bulb before Edison?",
+    "choices": ["Humphry Davy", "Warren de la Rue", "Joseph Swan", "Hiram Maxim"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The lawn mower was invented by whom in 1830?",
+    "choices": ["Alexander Parkes", "Edwin Budding", "George Bailey", "James Bateman"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who invented the escalator and obtained its patent in 1891?",
+    "choices": ["Charles Seeberger", "Daniel Cumfort", "Wilhelm Siemens", "Leo Levi"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The modern toilet (water closet) was designed by whom in the 1590s?",
+    "choices": ["John Harington", "Thomas Crapper", "Alexander Cummings", "Joseph Bramah"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who developed the photographic process using silver compounds in 1835?",
+    "choices": ["William Henry Fox Talbot", "Hippolyte Bayard", "Louis Daguerre", "Nicéphore Niépce"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The electric generator was invented by whom in 1831?",
+    "choices": ["Michael Faraday", "James Clerk Maxwell", "Samuel Morse", "Charles Wheatstone"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who invented the safety match (self-igniting match) in 1844?",
+    "choices": ["John Walker", "Gustaf Pasch", "Philibert Ascanio", "Samuel Jones"],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The pocket watch was perfected by which Swiss manufacturer in the 1700s–1800s?",
+    "choices": ["Patek Philippe", "Longines", "Omega", "Breitling"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  }
+]

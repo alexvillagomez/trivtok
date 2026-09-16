@@ -1,0 +1,266 @@
+[
+  {
+    "text": "In what year did Columbus sail across the Atlantic?",
+    "choices": ["1487", "1492", "1498", "1505"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which explorer reached the southern tip of Africa in 1488?",
+    "choices": ["Vasco da Gama", "Bartolomeu Dias", "Pedro Cabral", "Afonso de Albuquerque"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who sailed from Portugal to India by rounding the Cape of Good Hope in 1498?",
+    "choices": ["Bartolomeu Dias", "Vasco da Gama", "Pedro Álvares Cabral", "Henry Hudson"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Portuguese explorer accidentally discovered Brazil in 1500?",
+    "choices": ["Bartolomeu Dias", "Pedro Álvares Cabral", "João Pereira", "Gaspar Corte-Real"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was the primary goal of Columbus's westward voyage?",
+    "choices": ["To discover the Americas", "To find a route to Asia across the Atlantic", "To establish trade with the Caribbean", "To map unknown territories"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Ferdinand Magellan's expedition achieved what geographic feat?",
+    "choices": ["First European voyage to India", "First European circumnavigation of Earth", "First European settlement in the Pacific", "First charting of Australia"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In what year did Magellan's fleet depart for its circumnavigation voyage?",
+    "choices": ["1515", "1519", "1525", "1530"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Where did Magellan die during his voyage?",
+    "choices": ["In the Pacific Ocean", "In the Philippines at the Battle of Mactan", "In the Strait of Magellan", "While crossing the Indian Ocean"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which explorer piloted the Victoria, the first ship to complete a circumnavigation?",
+    "choices": ["Ferdinand Magellan", "Juan Sebastian Elcano", "Bartolomeu Dias", "Henry Hudson"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Sir Francis Drake circumnavigated the globe between which years?",
+    "choices": ["1572–1577", "1577–1580", "1580–1585", "1588–1593"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was Drake primarily known for besides exploration?",
+    "choices": ["Scientific discovery", "Naval warfare and privateering against Spain", "Cartography", "Establishing colonies"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which nation sponsored Columbus's 1492 voyage?",
+    "choices": ["Portugal", "Spain", "England", "France"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Captain James Cook's expeditions were primarily focused on exploring which ocean?",
+    "choices": ["The Atlantic", "The Indian Ocean", "The Pacific Ocean", "The Arctic"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the Columbian Exchange?",
+    "choices": ["A trade agreement signed by Spanish monarchs", "Exchange of goods, plants, animals, and diseases between Old and New Worlds", "Columbus's attempt to trade directly with Asian kingdoms", "A system of colonial taxation"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which disease devastated Native American populations after European contact?",
+    "choices": ["Typhus", "Smallpox", "Plague", "Yellow fever"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which crop from the Americas became essential to European agriculture?",
+    "choices": ["Wheat", "Rice", "The potato", "Barley"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What instrument was improved during the Age of Exploration to determine latitude at sea?",
+    "choices": ["The telescope", "The astrolabe", "The barometer", "The thermometer"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which country established the first permanent European settlement in North America?",
+    "choices": ["Spain", "England", "France", "Portugal"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Treaty of Tordesillas divided colonial claims between",
+    "choices": ["England and France", "Spain and Portugal", "Spain and England", "Portugal and the Dutch"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What type of ship was primarily used by Portuguese explorers during their voyages?",
+    "choices": ["Galleon", "Caravel", "Brigantine", "Cog"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which explorer is credited with establishing trade posts along the African coast?",
+    "choices": ["Vasco da Gama", "Prince Henry the Navigator", "Pedro Cabral", "Bartolomeu Dias"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Columbus's first voyage reached which island group?",
+    "choices": ["The Azores", "The Canary Islands", "The Caribbean", "The Cape Verde Islands"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Aztec emperor faced conquest by Spanish conquistadors led by Hernán Cortés?",
+    "choices": ["Huitzilopotchli", "Montezuma II", "Cuauhtémoc", "Itzcóatl"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In which ocean did Magellan give his name to a strait connecting two major seas?",
+    "choices": ["The Indian Ocean", "The Pacific Ocean", "The Atlantic Ocean", "The Southern Ocean"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Henry Hudson explored which river in search of a northwest passage?",
+    "choices": ["The St. Lawrence", "The Hudson River", "The Mississippi", "The Colorado"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which explorer searched for the Northwest Passage through North America?",
+    "choices": ["Vasco da Gama", "Samuel de Champlain", "John Cabot", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What was the primary economic motivation for Portuguese exploration?",
+    "choices": ["To find gold in Africa", "To establish a sea route to Asia and bypass middlemen in spice trade", "To convert native populations to Christianity", "To map unknown coastlines for prestige"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which explorer is credited with exploring the St. Lawrence River in North America?",
+    "choices": ["Henry Hudson", "Samuel de Champlain", "Jacques Cartier", "John Smith"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In what century did the Age of Exploration primarily occur?",
+    "choices": ["14th century", "15th and 16th centuries", "17th century", "18th century"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which explorer discovered that the Americas were not part of Asia?",
+    "choices": ["Ferdinand Magellan", "Amerigo Vespucci", "John Cabot", "Bartolomeu Dias"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the name of Magellan's largest ship when the expedition began?",
+    "choices": ["Victoria", "Trinidad", "San Antonio", "Concepción"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Portuguese explorer established the first European trading post in India?",
+    "choices": ["Vasco da Gama", "Pedro Álvares Cabral", "Afonso de Albuquerque", "Bartolomeu Dias"],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What animal was most valuable to indigenous populations after the Columbian Exchange?",
+    "choices": ["Sheep", "Cattle", "Horses", "Pigs"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which explorer sailed for which country was often debated due to his mixed heritage and service?",
+    "choices": ["Christopher Columbus", "Ferdinand Magellan", "Amerigo Vespucci", "Both B and C"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What military advantage did European explorers hold over indigenous populations?",
+    "choices": ["Superior numbers", "Better ships", "Steel weapons and firearms", "More advanced navigation"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The areas explored by Columbus were initially believed to be part of which continent?",
+    "choices": ["Africa", "Asia", "An undiscovered new continent", "Australia"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which explorer died before completing his voyage around the world?",
+    "choices": ["Francis Drake", "James Cook", "Ferdinand Magellan", "Vasco da Gama"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Spanish conquistador who conquered the Inca Empire was",
+    "choices": ["Diego Velásquez", "Hernán Cortés", "Francisco Pizarro", "Pedro de Alvarado"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What spice was the most sought-after commodity driving European exploration to Asia?",
+    "choices": ["Cinnamon", "Black pepper", "Nutmeg", "Cloves"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Cook's first voyage of discovery had a scientific objective related to",
+    "choices": ["Measuring Earth's circumference", "Observing the transit of Venus", "Locating the magnetic pole", "Charting ocean currents"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which explorer is the Americas named after?",
+    "choices": ["Christopher Columbus", "Amerigo Vespucci", "Ferdinand Magellan", "Vasco da Gama"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Drake's raid on Spanish treasure galleons made him a hero to which nation?",
+    "choices": ["Spain", "England", "France", "Portugal"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What navigation technique using the sun and stars was essential for oceanic exploration?",
+    "choices": ["Dead reckoning", "Celestial navigation", "Magnetic compass only", "Wave pattern reading"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "How many major voyages did Columbus make to the Americas?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  }
+]

@@ -1,0 +1,284 @@
+[
+  {
+    "text": "Which Italian composer wrote 'La Bohème', set in Paris and centered on young bohemians?",
+    "choices": ["Gioachino Rossini", "Giuseppe Verdi", "Giacomo Puccini", "Gaspare Spontini"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the highest female voice classification in operatic terms?",
+    "choices": ["Mezzo-soprano", "Contralto", "Soprano", "Soprano-alto"],
+    "correctIndex": 2,
+    "difficulty": 0.08
+  },
+  {
+    "text": "La Scala, one of the world's premier opera venues, is located in which Italian city?",
+    "choices": ["Rome", "Venice", "Milan", "Naples"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Wolfgang Amadeus Mozart composed 'The Magic Flute' in which century?",
+    "choices": ["17th century", "18th century", "19th century", "20th century"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A castrato singer was a male performer whose voice was altered by what procedure?",
+    "choices": ["Vocal cord injection", "Surgical modification during childhood", "Special breathing technique", "Lifetime abstinence from speech"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Verdi's 'Aida' is famously set in which ancient civilization?",
+    "choices": ["Ancient Persia", "Ancient Rome", "Ancient Egypt", "Ancient Mesopotamia"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which voice type sits between soprano and contralto in range?",
+    "choices": ["Tenor", "Baritone", "Mezzo-soprano", "Countertenor"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Giuseppe Verdi's 'Rigoletto' features which of these famous opera elements?",
+    "choices": ["The 'Anvil Chorus'", "The 'La donna è mobile' aria", "The 'Hallelujah' chorus", "The 'Toreador Song'"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "An aria in opera is best defined as what?",
+    "choices": ["A chorus sung by all performers", "A solo vocal piece for one singer", "An instrumental interlude", "A spoken dialogue section"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Gioachino Rossini composed 'The Barber of Seville', a famous comic opera. What is its original Italian title?",
+    "choices": ["Il Barbiere di Genova", "Il Barbiere di Siviglia", "Il Parrucchiere di Spagna", "Il Barbiere di Roma"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the lowest male voice type in operatic classification?",
+    "choices": ["Tenor", "Baritone", "Bass", "Bass-baritone"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Vienna's State Opera (Staatsoper) is the national opera house of which country?",
+    "choices": ["Germany", "Austria", "Czech Republic", "Hungary"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Mozart's 'Don Giovanni', the protagonist is characterized as a what?",
+    "choices": ["Merchant prince", "Aristocratic seducer", "Poor musician", "Foreign ambassador"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Greek-born soprano Maria Callas is most famous for her interpretation of which operatic role?",
+    "choices": ["Butterfly in Madame Butterfly", "Tosca in Tosca", "Violetta in La Traviata", "Lucia in Lucia di Lammermoor"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A tenor voice type is situated between which two other male voice classifications?",
+    "choices": ["Bass and countertenor", "Baritone and soprano", "Bass and baritone", "Countertenor and bass-baritone"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Verdi's 'Il Trovatore' features the famous 'Anvil Chorus'. What does this opera's title mean in English?",
+    "choices": ["The Troubadour", "The Finder", "The Seeker", "The Wanderer"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In Puccini's 'Tosca', the title character is primarily a what?",
+    "choices": ["Duchess", "Opera singer", "Countess", "Courtier"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The so-called 'Three Tenors' featured which world-renowned Italian tenor alongside José Carreras and Plácido Domingo?",
+    "choices": ["Andrea Bocelli", "Luciano Pavarotti", "Enrico Caruso", "Dino Formenti"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The term 'prima donna' literally translates from Italian to mean what in English?",
+    "choices": ["Female lead role", "First lady", "Lead voice", "Starring soprano"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Verdi's 'La Traviata' centers on a character named Violetta, who works as a what?",
+    "choices": ["Noble widow", "Courtesan", "Nun", "Merchant's wife"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Georges Bizet's famous opera 'Carmen' features which memorable song?",
+    "choices": ["The Toreador Song", "The Soldier's Chorus", "The March of the Toreadors", "The Bullfighter's Aria"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Recitative in opera is a style of singing that most closely resembles what?",
+    "choices": ["Speaking voice", "Instrumental melody", "Choral harmony", "Rapid coloratura"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Giacomo Puccini composed 'Madame Butterfly', which is set in which Asian country?",
+    "choices": ["China", "Vietnam", "Japan", "Thailand"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A baritone voice type in opera occupies what range in the male voice spectrum?",
+    "choices": ["Highest", "Between tenor and bass", "Lowest", "Equal to tenor"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Mozart's 'The Magic Flute', the Queen of the Night is particularly famous for singing what?",
+    "choices": ["Low, dark arias", "High coloratura passages", "Spoken monologues", "Comic duets"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "An operatic overture is an instrumental piece that serves what function?",
+    "choices": ["Final encore", "Introduction to the opera", "Between-act interlude", "Solo violin showcase"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Charles Gounod's 'Faust' is based on a German literary work. In the opera, who is Méphistophélès?",
+    "choices": ["A disguised nobleman", "The Devil or demon tempter", "A scholarly rival", "A vengeful alchemist"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Metropolitan Opera House in New York opened in 1883 and is home to which professional company?",
+    "choices": ["New York Philharmonic Orchestra", "New York Opera Company", "Metropolitan Opera", "Carnegie Hall Ensemble"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Gioachino Rossini's operatic career was remarkably short. By what age had he largely retired from composition?",
+    "choices": ["35 years old", "45 years old", "55 years old", "65 years old"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Verdi's opera 'Nabucco' retells the biblical story of which king?",
+    "choices": ["King David", "King Solomon", "King Nebuchadnezzar", "King Cyrus"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which mezzo-soprano is particularly renowned for her interpretation of the title role in 'Carmen'?",
+    "choices": ["Joan Sutherland", "Birgit Nilsson", "Cecilia Bartoli", "Montserrat Caballé"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The famous countertenor castrato Carlo Broschi performed under what stage name throughout Europe?",
+    "choices": ["Senesino", "Siface", "Farinelli", "Caffarelli"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Richard Wagner's 'The Ring Cycle', how many main operas comprise the complete work?",
+    "choices": ["Three", "Four", "Five", "Six"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Verdi's 'Othello' is based on a tragedy by which famous playwright?",
+    "choices": ["Christopher Marlowe", "William Shakespeare", "Jean Racine", "Friedrich Schiller"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Beverly Sills was a legendary American soprano known for her performances in bel canto operas. What does 'bel canto' literally mean?",
+    "choices": ["Beautiful voice", "Beautiful singing", "Beautiful tone", "Excellent performance"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Luciano Pavarotti, the famous Italian tenor, was known for his rendition of which Puccini aria?",
+    "choices": ["Che gelida manina", "La donna è mobile", "Nessun dorma", "Cielo e mar"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Donizetti's 'Lucia di Lammermoor', Lucia's final scene features which type of dramatic moment?",
+    "choices": ["Triumphant victory", "Mad scene", "Romantic reconciliation", "Comedic farce"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The role of Escamillo in 'Carmen' is typically sung by which male voice type?",
+    "choices": ["Tenor", "Bass", "Baritone", "Countertenor"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Bellini's 'Norma' is set in Roman-occupied where?",
+    "choices": ["Egypt", "Gaul (ancient France)", "Britain", "Hispania"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Joan Sutherland, an Australian soprano, was particularly celebrated for mastering which challenging vocal style?",
+    "choices": ["Wagner's dramatic soprano roles", "Coloratura soprano repertoire", "Mezzo-soprano transitions", "Character soprano parts"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Verdi's 'La Forza del Destino', what is the primary theme of the opera?",
+    "choices": ["Power of love", "Power of destiny", "Power of redemption", "Power of war"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Enrico Caruso, one of the first great recording artists, was known for possessing which vocal range?",
+    "choices": ["Lyric baritone", "Dramatic tenor", "Spinto tenor", "Heldentenor"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The opera 'I Pagliacci' by Ruggero Leoncavallo features a troupe of what?",
+    "choices": ["Medieval knights", "Traveling performers", "Court jesters", "Circus acrobats"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Montserrat Caballé, a legendary mezzo-soprano from Spain, dueted with which famous rock musician for 'Barcelona'?",
+    "choices": ["David Bowie", "Freddie Mercury", "Sting", "Bruce Springsteen"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Mozart's 'Così fan tutte', what is the premise of the plot?",
+    "choices": ["Two sisters test their lovers' faithfulness by disguising themselves", "An officer tests whether women remain faithful", "A test of romantic commitment between four lovers", "Sisters compete for the same lover's affections"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Glyndebourne Festival Opera is located in which country and region?",
+    "choices": ["Scotland", "Wales", "Sussex, England", "Northern Ireland"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Verdi's last completed opera, 'Falstaff', is based on a character from which author's works?",
+    "choices": ["Ben Jonson", "Christopher Marlowe", "William Shakespeare", "Edmund Spenser"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  }
+]

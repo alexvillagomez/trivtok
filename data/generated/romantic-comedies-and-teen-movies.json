@@ -1,0 +1,992 @@
+[
+  {
+    "text": "Who says 'You had me at hello' in Jerry Maguire?",
+    "choices": [
+      "Dorothy Boyd",
+      "Avery Bishop",
+      "Laurel Boyd",
+      "Bob Sugar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Julia Roberts film features the line 'Big mistake. Big. Huge.'?",
+    "choices": [
+      "Notting Hill",
+      "Pretty Woman",
+      "My Best Friend's Wedding",
+      "Runaway Bride"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In 10 Things I Hate About You, what is the surname of sisters Kat and Bianca?",
+    "choices": [
+      "Verona",
+      "Stratford",
+      "Houseman",
+      "Sawyer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In She's the Man, Viola disguises herself as her twin brother to attend which school?",
+    "choices": [
+      "Cornwall Prep",
+      "Elyria Academy",
+      "Illyria Prep",
+      "Devon School"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Sleepless in Seattle, what is the name of Tom Hanks's widowed character?",
+    "choices": [
+      "Jack Trainer",
+      "Sam Baldwin",
+      "Joe Fox",
+      "Bill Pullman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which 1999 teen film updates Shakespeare's The Taming of the Shrew?",
+    "choices": [
+      "Cruel Intentions",
+      "She's All That",
+      "10 Things I Hate About You",
+      "Drive Me Crazy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who directed When Harry Met Sally...?",
+    "choices": [
+      "Nora Ephron",
+      "Penny Marshall",
+      "Rob Reiner",
+      "Garry Marshall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Easy A, Olive Penderghast compares herself to which literary heroine in the film's framing setup?",
+    "choices": [
+      "Jo March",
+      "Hester Prynne",
+      "Catherine Earnshaw",
+      "Daisy Buchanan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actress plays Kat Stratford in 10 Things I Hate About You?",
+    "choices": [
+      "Claire Danes",
+      "Julia Stiles",
+      "Rachael Leigh Cook",
+      "Jennifer Love Hewitt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Notting Hill, what job does Hugh Grant's character William Thacker have?",
+    "choices": [
+      "Travel writer",
+      "Restaurant owner",
+      "Bookshop owner",
+      "Art dealer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which film features the quote 'As if!'?",
+    "choices": [
+      "Clueless",
+      "Jawbreaker",
+      "Bring It On",
+      "Can't Hardly Wait"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Bring It On, what is the name of the Rancho Carne Toros captain played by Kirsten Dunst?",
+    "choices": [
+      "Missy Pantone",
+      "Courtney Shayne",
+      "Torrance Shipman",
+      "Big Red"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which director made the 1995 adaptation of Jane Austen's Emma that inspired Clueless indirectly by sharing the same source novel?",
+    "choices": [
+      "Douglas McGrath",
+      "Ang Lee",
+      "Kenneth Branagh",
+      "Roger Michell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In My Best Friend's Wedding, what is the name of Cameron Diaz's character, the bride-to-be?",
+    "choices": [
+      "Kimmy Wallace",
+      "Rachel Greenleaf",
+      "Georgia King",
+      "Samantha Newhouse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Never Been Kissed, Drew Barrymore's undercover journalist returns to high school under what first name?",
+    "choices": [
+      "Jessica",
+      "Josie",
+      "Jamie",
+      "Jenna"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the title of the poem Patrick reads in 10 Things I Hate About You near the end of the film?",
+    "choices": [
+      "Ten Things",
+      "I Hate the Way",
+      "The Stratford Poem",
+      "A Verona Sonnet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actress plays Laney Boggs in She's All That?",
+    "choices": [
+      "Jodi Lyn O'Keefe",
+      "Rachel Leigh Cook",
+      "Anna Paquin",
+      "Mena Suvari"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In Love Actually, Andrew Lincoln's character is named what?",
+    "choices": [
+      "Mark",
+      "Jamie",
+      "Daniel",
+      "Karl"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which filmmaker directed The 40-Year-Old Virgin and also directed Bridesmaids, a later genre landmark for studio female-led comedy?",
+    "choices": [
+      "Judd Apatow",
+      "Paul Feig",
+      "Nancy Meyers",
+      "Richard Curtis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In A Cinderella Story, what is the screen name used by Chad Michael Murray's character in his messages with Sam?",
+    "choices": [
+      "PrincetonGuy",
+      "Nomad",
+      "DreamerBoy",
+      "AustinsKey"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Mean Girls, what is the name of the high school attended by Cady Heron?",
+    "choices": [
+      "North Shore High School",
+      "Shermer High",
+      "Evanston North",
+      "Springfield Central"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Cruel Intentions, Kathryn Merteuil and Sebastian Valmont are what to each other within the film's family setup?",
+    "choices": [
+      "Cousins",
+      "Step-siblings",
+      "Exes",
+      "Neighbors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which song does Patrick perform on the bleachers in 10 Things I Hate About You?",
+    "choices": [
+      "'Kiss Me'",
+      "'Can't Take My Eyes Off You'",
+      "'Truly Madly Deeply'",
+      "'Save Tonight'"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who directed Mean Girls?",
+    "choices": [
+      "Amy Heckerling",
+      "Tamra Davis",
+      "Mark Waters",
+      "Peyton Reed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In The Princess Diaries, what is the name of Mia's formidable grandmother and royal mentor?",
+    "choices": [
+      "Queen Clarisse Renaldi",
+      "Lady Clarissa Wentworth",
+      "Princess Marguerite",
+      "Dowager Amelia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Four Weddings and a Funeral, Hugh Grant's character is named what?",
+    "choices": [
+      "Charles",
+      "Bernard",
+      "Matthew",
+      "Tom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which teen comedy features the fictional school East Great Falls High?",
+    "choices": [
+      "Can't Hardly Wait",
+      "American Pie",
+      "Election",
+      "Varsity Blues"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In 13 Going on 30, what magazine does adult Jenna Rink work for?",
+    "choices": [
+      "Poise",
+      "Sparkle",
+      "Flair",
+      "Composure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which actor plays the high-school heartthrob Zack Siler in She's All That?",
+    "choices": [
+      "Freddie Prinze Jr.",
+      "James Van Der Beek",
+      "Joshua Jackson",
+      "Chris Klein"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Say Anything..., what appliance becomes iconic in the scene where Lloyd stands outside Diane's window?",
+    "choices": [
+      "Television",
+      "Cassette deck",
+      "Boombox",
+      "Portable radio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who wrote the screenplay for When Harry Met Sally...?",
+    "choices": [
+      "Nora Ephron",
+      "Nancy Meyers",
+      "Delia Ephron",
+      "Callie Khouri"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Bring It On, the rival cheer squad from East Compton is called what?",
+    "choices": [
+      "The Wildcats",
+      "The Clovers",
+      "The Panthers",
+      "The Rockets"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which actress plays Sam Montgomery in A Cinderella Story?",
+    "choices": [
+      "Amanda Bynes",
+      "Lindsay Lohan",
+      "Hilary Duff",
+      "Mandy Moore"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Clueless, what relation is Josh to Cher before their romance develops?",
+    "choices": [
+      "Her debate partner",
+      "Her ex-boyfriend",
+      "Her former stepbrother",
+      "Her English tutor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Easy A, which rumor does Olive first allow to spread in order to help her friend Brandon?",
+    "choices": [
+      "That she stole a test",
+      "That she slept with him",
+      "That she is moving away",
+      "That she is pregnant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which actor plays Michael Moscovitz in The Princess Diaries?",
+    "choices": [
+      "Erik von Detten",
+      "Robert Schwartzman",
+      "Sean Faris",
+      "Jesse Bradford"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In Notting Hill, Anna Scott is famous for being what?",
+    "choices": [
+      "A bestselling novelist",
+      "An American movie star",
+      "A pop singer",
+      "A television anchor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which teen film features the election rivalry between Tracy Flick and Paul Metzler?",
+    "choices": [
+      "Rushmore",
+      "Election",
+      "Jawbreaker",
+      "Drop Dead Gorgeous"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "In How to Lose a Guy in 10 Days, Kate Hudson's character writes for which magazine section?",
+    "choices": [
+      "Style",
+      "How To",
+      "Celebrities",
+      "Travel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actress plays Dionne Davenport in Clueless?",
+    "choices": [
+      "Stacey Dash",
+      "Nia Long",
+      "Elisa Donovan",
+      "Brittany Murphy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Can't Hardly Wait, which character spends most of the party convinced he's too good for the scene before chasing Amanda?",
+    "choices": [
+      "Kenny Fisher",
+      "Preston Meyers",
+      "Mike Dexter",
+      "William Lichter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Holiday, Cameron Diaz swaps homes with a woman from which English county?",
+    "choices": [
+      "Kent",
+      "Surrey",
+      "Hampshire",
+      "Oxfordshire"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who directed Clueless?",
+    "choices": [
+      "Amy Heckerling",
+      "Martha Coolidge",
+      "Betty Thomas",
+      "Allison Anders"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In My Big Fat Greek Wedding, what is Toula Portokalos's family business at the start of the film?",
+    "choices": [
+      "A diner-style Greek restaurant",
+      "A flower shop",
+      "A travel agency",
+      "A bridal boutique"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays the poetically inclined exchange student Nicky in Easy A?",
+    "choices": [
+      "Penn Badgley",
+      "Dan Byrd",
+      "Thomas Haden Church",
+      "Gaelan Connell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Never Been Kissed, what is the name of the teacher Josie secretly falls for?",
+    "choices": [
+      "Sam Coulson",
+      "Jeff Kester",
+      "Rob Geller",
+      "Tommy Kessler"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Bridget Jones's Diary, what is Bridget's profession at the beginning of the film?",
+    "choices": [
+      "Barrister",
+      "Publisher's assistant",
+      "Television producer",
+      "Book editor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who directed 10 Things I Hate About You?",
+    "choices": [
+      "Gil Junger",
+      "Kevin Smith",
+      "Tommy O'Haver",
+      "Baz Luhrmann"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In She's All That, what event is central to Zack's bet involving Laney?",
+    "choices": [
+      "The senior talent show",
+      "The spring carnival",
+      "The prom queen vote",
+      "Graduation speech selection"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays William Thacker's eccentric roommate Spike in Notting Hill?",
+    "choices": [
+      "Rhys Ifans",
+      "Rupert Everett",
+      "Simon Pegg",
+      "James Dreyfus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Wedding Singer, what decade is the film primarily set in?",
+    "choices": [
+      "The 1970s",
+      "The 1980s",
+      "The 1990s",
+      "The 2000s"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which teen movie features the fictional dance move climax at the school prom called 'the Jam'?",
+    "choices": [
+      "Can't Hardly Wait",
+      "She's All That",
+      "Drive Me Crazy",
+      "Save the Last Dance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In John Tucker Must Die, what sport does John Tucker primarily play?",
+    "choices": [
+      "Basketball",
+      "Lacrosse",
+      "Football",
+      "Soccer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Say Anything..., what is the name of John Cusack's character?",
+    "choices": [
+      "Martin Blank",
+      "Lloyd Dobler",
+      "Lane Meyer",
+      "Denny Lachance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which movie stars Sandra Bullock as Lucy Moderatz, a Chicago Transit Authority token collector?",
+    "choices": [
+      "Hope Floats",
+      "While You Were Sleeping",
+      "Forces of Nature",
+      "28 Days"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Legally Blonde, what is the name of Elle Woods's Chihuahua?",
+    "choices": [
+      "Bruiser",
+      "Baxter",
+      "Bijou",
+      "Binky"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays Christian, Cher's stylish crush in Clueless?",
+    "choices": [
+      "Paul Rudd",
+      "Jeremy Sisto",
+      "Justin Walker",
+      "Breckin Meyer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Princess Diaries, Mia's makeover is orchestrated by which character played by Hector Elizondo?",
+    "choices": [
+      "Joe",
+      "Paolo",
+      "Philippe",
+      "Renaldi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Bring It On, what is the name of the cheer routine stolen from the Clovers by Torrance's predecessor?",
+    "choices": [
+      "Cherry Pop",
+      "Spirit Fingers",
+      "Brr, It's Cold in Here",
+      "Cheer Fever"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1999 film stars Rachael Leigh Cook, Freddie Prinze Jr., Matthew Lillard, and Paul Walker?",
+    "choices": [
+      "Jawbreaker",
+      "She's All That",
+      "Drive Me Crazy",
+      "Teaching Mrs. Tingle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Easy A, Olive's little brother is adopted from which country, as he repeatedly reminds people?",
+    "choices": [
+      "Vietnam",
+      "Ethiopia",
+      "India",
+      "Macedonia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who directed Bring It On?",
+    "choices": [
+      "Peyton Reed",
+      "Anne Fletcher",
+      "Francine McDougall",
+      "Tamra Davis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Holiday, which actress plays the English columnist Iris Simpkins?",
+    "choices": [
+      "Kate Winslet",
+      "Jude Law",
+      "Catherine Zeta-Jones",
+      "Emily Mortimer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which film features the quote 'To me, you are perfect' on cue cards?",
+    "choices": [
+      "Notting Hill",
+      "Love Actually",
+      "About a Boy",
+      "Bridget Jones's Diary"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Cruel Intentions, Sebastian wagers that he can seduce Annette Hargrove, who is known on campus for being what?",
+    "choices": [
+      "Valedictorian",
+      "The headmaster's daughter",
+      "Virtuous and abstinent",
+      "A champion equestrian"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays Jake Ryan, Samantha's crush, in Sixteen Candles?",
+    "choices": [
+      "Andrew McCarthy",
+      "Michael Schoeffling",
+      "Anthony Michael Hall",
+      "John Cusack"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In 13 Going on 30, what snack dust does Jenna famously ask to be shaken into a handbag during the thriller dance party era of her office life?",
+    "choices": [
+      "Pop Rocks",
+      "Pixy Stix",
+      "Razzles",
+      "Fun Dip"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 2006 teen comedy loosely reworks Twelfth Night through soccer and mistaken identity?",
+    "choices": [
+      "Sydney White",
+      "She's the Man",
+      "Aquamarine",
+      "Just My Luck"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In The Wedding Planner, what profession does Jennifer Lopez's character Mary Fiore have?",
+    "choices": [
+      "Architect",
+      "Wedding planner",
+      "Florist",
+      "Event caterer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actress plays Bianca Stratford in 10 Things I Hate About You?",
+    "choices": [
+      "Larisa Oleynik",
+      "Jodi Lyn O'Keefe",
+      "Gabrielle Union",
+      "Mena Suvari"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Clueless, what nickname does Cher give Tai after her makeover begins?",
+    "choices": [
+      "California Barbie",
+      "A Monet",
+      "A Baldwin",
+      "The New You"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays Mark Darcy in Bridget Jones's Diary?",
+    "choices": [
+      "Hugh Grant",
+      "Colin Firth",
+      "Ralph Fiennes",
+      "Rupert Everett"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Mean Girls, what does Glen Coco receive on candy cane gram day?",
+    "choices": [
+      "Four for him",
+      "One from Cady",
+      "A breakup note",
+      "Nothing at all"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actress plays Tai Frasier in Clueless?",
+    "choices": [
+      "Elisa Donovan",
+      "Brittany Murphy",
+      "Stacey Dash",
+      "Alicia Witt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In She's All That, what artistic medium is especially associated with Laney Boggs?",
+    "choices": [
+      "Sculpture",
+      "Photography",
+      "Performance art",
+      "Painting"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays Ben Barry in How to Lose a Guy in 10 Days?",
+    "choices": [
+      "Matthew McConaughey",
+      "Dermot Mulroney",
+      "Luke Wilson",
+      "John Corbett"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Save the Last Dance, what is the first name of Sean Patrick Thomas's character?",
+    "choices": [
+      "Marcus",
+      "Derek",
+      "Malik",
+      "Kenny"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1989 Cameron Crowe film is often treated as a foundational modern teen romance?",
+    "choices": [
+      "Say Anything...",
+      "Some Kind of Wonderful",
+      "Heathers",
+      "Lucas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In A Cinderella Story, what item does Sam leave behind at the school dance?",
+    "choices": [
+      "A mask",
+      "A cell phone",
+      "A charm bracelet",
+      "A shoe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who directed Legally Blonde?",
+    "choices": [
+      "Robert Luketic",
+      "Peyton Reed",
+      "Nancy Meyers",
+      "Betty Thomas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Never Been Kissed, Josie's humiliating teen nickname is what?",
+    "choices": [
+      "Grossie Josie",
+      "Geeky Girl",
+      "Pizza Face",
+      "Mousey Josie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor plays the secretly sensitive jock Aaron Samuels in Mean Girls?",
+    "choices": [
+      "Jonathan Bennett",
+      "Daniel Franzese",
+      "Shawn Ashmore",
+      "Jesse Bradford"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In While You Were Sleeping, where does Peter first end up after Lucy saves him?",
+    "choices": [
+      "A courthouse",
+      "A newspaper office",
+      "A coma in the hospital",
+      "His brother's apartment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actress plays the queen bee Courtney Shayne in Jawbreaker?",
+    "choices": [
+      "Rose McGowan",
+      "Rebecca Gayheart",
+      "Julie Benz",
+      "Judy Greer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Love Actually, what relation is Thomas Brodie-Sangster's character Sam to Liam Neeson's character Daniel?",
+    "choices": [
+      "Biological son",
+      "Stepson",
+      "Nephew",
+      "Younger brother"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which teen movie includes a high-school social hierarchy described as 'the cruelest people you'll ever meet' by one of the protagonists?",
+    "choices": [
+      "Clueless",
+      "Mean Girls",
+      "The Craft",
+      "Jawbreaker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Pretty Woman, Edward Lewis makes his fortune primarily through what kind of business activity?",
+    "choices": [
+      "Book publishing",
+      "Corporate raiding and restructuring",
+      "Hotel ownership",
+      "Fashion merchandising"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Clueless, the phrase 'She's a full-on Monet' means what?",
+    "choices": [
+      "She is wealthy but shallow",
+      "She looks good from far away but not up close",
+      "She dresses like a French painter",
+      "She copies everything Cher does"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actress plays Anna Scott in Notting Hill?",
+    "choices": [
+      "Julia Roberts",
+      "Andie MacDowell",
+      "Meg Ryan",
+      "Sandra Bullock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which film popularized the phrase 'On Wednesdays we wear pink'?",
+    "choices": [
+      "Jawbreaker",
+      "Mean Girls",
+      "Clueless",
+      "The Hot Chick"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "text": "Sumerian is most commonly described typologically as what kind of language?",
+    "choices": ["Fusional", "Agglutinative", "Introflexive", "Isolating"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which broad alignment pattern is most often used to describe core argument marking in Sumerian?",
+    "choices": ["Nominative-accusative", "Ergative-absolutive", "Active-stative", "Tripartite"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In standard descriptions of Sumerian clause structure, the finite verb tends to appear in what position?",
+    "choices": ["Clause-initial", "Second position", "Clause-final", "Free without preference"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What word order is most commonly cited as basic for Sumerian main clauses?",
+    "choices": ["SOV", "SVO", "VSO", "OSV"],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which case is typically associated with the subject of a transitive verb in Sumerian?",
+    "choices": ["Absolutive", "Genitive", "Ergative", "Terminative"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which case is typically associated with the object of a transitive verb in Sumerian?",
+    "choices": ["Ergative", "Absolutive", "Comitative", "Ablative"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Sumerian grammatical relations are often signaled through chains of what attached elements?",
+    "choices": ["Root-internal vowel changes", "Noun class prefixes", "Suffixal case markers", "Tone melodies"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which label is traditionally used for the Sumerian suffix written -e on ergative nouns?",
+    "choices": ["Ergative", "Locative", "Directive", "Genitive"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which suffix is classically associated with the Sumerian genitive?",
+    "choices": ["-ak", "-ra", "-ta", "-gin7"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which suffix is commonly identified as the dative marker in Sumerian?",
+    "choices": ["-e", "-ra", "-da", "-a"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which Sumerian case suffix is commonly used for comitative meaning 'with'?",
+    "choices": ["-da", "-ta", "-še3", "-am3"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which suffix is usually associated with ablative-instrumental functions in Sumerian?",
+    "choices": ["-ta", "-ra", "-gin7", "-ene"],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which suffix is often glossed as terminative or directive 'toward' in Sumerian?",
+    "choices": ["-eš", "-še3", "-bi", "-zu"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which suffix is commonly used for the equative meaning 'like' or 'as'?",
+    "choices": ["-gin7", "-ta", "-ak", "-ani"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which element is commonly cited as the locative case marker in Sumerian nominal morphology?",
+    "choices": ["-a", "-ra", "-da", "-e"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In a noun phrase, Sumerian modifiers generally precede or follow the head noun?",
+    "choices": ["They usually precede it", "They usually follow it", "They stand only clause-initially", "They must be doubled on both sides"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Where does the genitive construction usually stand relative to the head noun in Sumerian?",
+    "choices": ["Before the head noun", "After the head noun", "Inside the verbal chain", "Outside the noun phrase entirely"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which suffix is widely used as the plural marker for personal nouns in Sumerian?",
+    "choices": ["-ene", "-bi", "-am3", "-še"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The contrast between personal and impersonal referents is especially important in which area of Sumerian grammar?",
+    "choices": ["Gender agreement only", "Animate plural marking and pronominal reference", "Stress placement", "Numeral formation only"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How is grammatical gender usually described for Sumerian?",
+    "choices": ["Masculine vs feminine", "Animate vs inanimate only in adjectives", "Personal vs impersonal rather than masculine/feminine", "Three-way masculine/feminine/neuter"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which form is a common 3rd-person possessive suffix in Sumerian?",
+    "choices": ["-bi", "-gin7", "-še3", "-ta"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which suffix is commonly used for 1st-person singular possession in transliterated Sumerian?",
+    "choices": ["-zu", "-ĝu10", "-ani", "-ene"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which suffix is the normal 2nd-person singular possessive marker in Sumerian?",
+    "choices": ["-bi", "-zu", "-meš", "-am3"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In standard grammars, Sumerian finite verbs are famous for their complex arrangement of what?",
+    "choices": ["Infix vowels only", "Prefix chains", "Tone contours", "Postposed particles only"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "The traditional term 'conjugation prefix' in Sumerian refers to an element in which part of the verb?",
+    "choices": ["At the end of the nominal chain", "In the preverbal prefix chain", "After the copula only", "Inside lexical lists only"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which pair names the two major finite verbal patterns often discussed in Sumerian grammar?",
+    "choices": ["Perfect and imperfect", "Maru and hamtu", "Indicative and subjunctive", "Active and mediopassive"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The hamtu versus maru contrast is most closely tied to what grammatical domain?",
+    "choices": ["Case syncretism", "Verbal stem/aspect opposition", "Numeral classifiers", "Loanword phonology"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Sumerian verb is frequently glossed 'to be' and often appears as a copular element?",
+    "choices": ["du", "ĝen", "me", "tuku"],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which verb commonly carries the basic lexical meaning 'to go' in Sumerian?",
+    "choices": ["ĝen", "dug4", "sum", "til"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which verb is commonly used for 'to say' in Sumerian lexical and literary texts?",
+    "choices": ["dug4", "ku4", "ri", "gar"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The Sumerian verb 'du' is often translated with which broad meaning?",
+    "choices": ["To build", "To go", "To eat", "To bless"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which of these is best known as a Sumerian existential or possessive verb meaning 'to have; there is' in many contexts?",
+    "choices": ["tuku", "zig", "pad3", "sar"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What does the label 'eme-gir15' refer to in Sumerian studies?",
+    "choices": ["A temple office", "The main standard dialect of Sumerian", "A case suffix", "An Akkadian loan layer"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is 'eme-sal' in relation to Sumerian?",
+    "choices": ["A numeral system", "A literary dialect/register with distinctive forms", "A late alphabetic script", "A Hittite translation tradition"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Eme-sal is especially associated in literary texts with speech by whom?",
+    "choices": ["Surveyors and merchants only", "Female speakers and certain cultic roles", "Foreign captives only", "Royal scribes exclusively"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which phenomenon makes Sumerian phonology difficult to reconstruct with certainty?",
+    "choices": ["An overabundance of vowel notation", "Its transmission through cuneiform and Akkadian scholarly tradition", "A complete absence of texts", "Its alphabetic spelling reforms"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "How many vowels are most commonly reconstructed for Sumerian in introductory descriptions?",
+    "choices": ["Three", "Four", "Five", "Seven"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which vowel set matches the usual basic reconstruction for Sumerian?",
+    "choices": ["a e i u", "a e i o u", "a i u", "e i o u y"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which consonant written in transliteration with a subscript or superscript marker reflects a sound not straightforwardly represented in English spelling?",
+    "choices": ["b", "l", "ĝ", "m"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In transliterated Sumerian, the sign 'ŋ' or 'ĝ' in older conventions usually points to what kind of consonant?",
+    "choices": ["Labiodental fricative", "Velar nasal", "Uvular trill", "Palatal stop"],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which statement best fits current scholarly caution about Sumerian stress?",
+    "choices": ["Its exact placement is securely known from native grammars", "It is reconstructed with limited confidence", "It always falls on the final syllable", "It is marked explicitly in every lexical list"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What are lexical lists in Mesopotamian scribal culture?",
+    "choices": ["Royal tax decrees", "Ordered word and sign lists used for learning and scholarship", "Only hymn collections", "Astronomical charts"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In the study of Sumerian, bilingual lexical lists are especially valuable because they often pair Sumerian with what language?",
+    "choices": ["Elamite", "Akkadian", "Greek", "Old Persian"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The series often called 'Ea' belongs primarily to which scholarly genre?",
+    "choices": ["Omen compendia", "Lexical lists", "Royal annals", "Law collections"],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What was one major classroom function of lexical lists for apprentice scribes?",
+    "choices": ["Teaching cavalry tactics", "Memorizing signs, words, and categories", "Learning only foreign diplomacy", "Practicing alphabetic punctuation"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Bilingual Sumerian-Akkadian texts are especially important because they help scholars do what?",
+    "choices": ["Date every tablet precisely", "Recover grammatical values and lexical equivalences", "Identify clay sources chemically", "Map canal routes directly"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which institution is most closely associated with the copying of lexical lists and model texts in the Old Babylonian period?",
+    "choices": ["Edubba", "Forum", "Gymnasium", "Cathedral school"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does the modern label 'school tablet' usually imply for a Sumerian text?",
+    "choices": ["It was carved in stone", "It was used in scribal training", "It was reserved for military reports", "It was written outside Mesopotamia"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why do many advanced Sumerian questions depend heavily on variant manuscripts?",
+    "choices": ["Because every text survives in a single autograph", "Because copying traditions preserve divergent spellings and analyses", "Because Sumerian lacks verbal morphology", "Because tablets record only oral performance notes"],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What does 'bilingual' most often mean in a Sumerological edition?",
+    "choices": ["A text written once in alphabetic script and once in cuneiform", "A text or list presenting Sumerian alongside Akkadian", "A tablet with both prose and poetry", "A text copied by two scribes"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In Sumerian literary transmission, why are later first-millennium manuscripts still crucial?",
+    "choices": ["They are always closer to the original composition date", "They preserve scholarly readings of an older learned language", "They prove Sumerian was then widely spoken at home", "They replace all Old Babylonian evidence"],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which term refers to the Sumerian sign-by-sign reading tradition maintained by Akkadian scribes?",
+    "choices": ["Alphabetization", "Scholarly oral glossing and lexical interpretation", "Metrical recitation only", "Diplomatic ciphering"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is a common reason that one cuneiform sign appears with multiple Sumerian values in lists?",
+    "choices": ["Each sign had only one fixed use", "Cuneiform signs are often polyvalent", "Scribes forbade homophony", "The lists are modern inventions"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is a common reason that several different signs can represent the same syllable in transliteration exercises?",
+    "choices": ["The script developed only once and never changed", "Cuneiform permits homophonous spellings", "All syllables were written alphabetically", "Only foreign words were syllabic"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which challenge is central to reading Sumerian verbal prefixes?",
+    "choices": ["They are usually omitted from every manuscript", "Their sequence and function can be historically compressed and orthographically opaque", "They were borrowed only from Greek", "They never interact with case relations"],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The so-called dimensional prefixes in Sumerian verbal grammar are most closely linked to what?",
+    "choices": ["Poetic meter", "Case-like relational meanings such as dative or locative", "Plurality of adjectives", "Sign counts per tablet"],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In many grammatical descriptions, what does the verbal prefix chain help index besides aspectual class?",
+    "choices": ["Relations to participants and local cases", "Only number of tablets copied", "The reign year formula", "Scribal handwriting style"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which description best fits Sumerian copular clauses?",
+    "choices": ["They always require an overt independent pronoun", "They can be expressed with a copular element rather than a full lexical verb", "They ban nominal predicates", "They occur only in legal texts"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does the label 'copula' refer to in Sumerian grammar?",
+    "choices": ["A case suffix marking possession", "An element linking subject and predicate", "A sign list rubric", "A feminine pronoun"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Sumerian relative or subordinate constructions are often described using what broad strategy?",
+    "choices": ["Preposed relative pronouns identical to Latin qui", "Nominalization and suffixal marking", "Mandatory auxiliary do-support", "Clause-medial articles"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which type of evidence is especially important for reconstructing Sumerian syntax beyond isolated words?",
+    "choices": ["Seal iconography alone", "Running administrative and literary texts", "Kiln temperatures only", "Royal portraiture"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Why are administrative texts useful for Sumerian grammar despite their formulaic style?",
+    "choices": ["They avoid nouns completely", "They preserve repeated constructions in large numbers", "They are always bilingual", "They never abbreviate"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What does the term 'logogram' usually mean in a Sumerian-Akkadian scholarly context?",
+    "choices": ["A sign used for a whole word value", "A sign that marks only sentence stress", "A punctuation sign", "An erased sign"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "When Akkadian texts use Sumerograms, what are they doing?",
+    "choices": ["Writing Akkadian words with Sumerian logographic signs", "Translating Akkadian into Greek", "Eliminating all phonetic spelling", "Writing only hymnic refrains"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Why do Sumerograms matter for the study of Sumerian after it ceased to be vernacular?",
+    "choices": ["They show continued scholarly use of Sumerian sign values", "They prove spontaneous spoken fluency across Mesopotamia", "They replace lexical lists entirely", "They eliminate ambiguity in every context"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which sign name is commonly used in transliteration to mark the divine determinative before gods' names?",
+    "choices": ["KI", "DINGIR", "URU", "GIŠ"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the function of determinatives in Sumerian and Akkadian cuneiform practice?",
+    "choices": ["They mark semantic categories without being pronounced as part of the word", "They show only vowel length", "They indicate line breaks", "They serve as decimal numerals"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which determinative commonly signals wooden objects in transliteration conventions?",
+    "choices": ["GIŠ", "MUNUS", "KUR", "AŠ"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which determinative commonly signals places or toponyms in transliteration practice?",
+    "choices": ["URU", "DUB", "NINDA", "LU2"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does the term 'eme' mean in dialect labels such as eme-gir15 and eme-sal?",
+    "choices": ["Tablet", "Tongue/language", "Temple", "Line of text"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which phrase best describes the status of Sumerian in much of the Old Babylonian and later scholarly curriculum?",
+    "choices": ["An everyday village vernacular", "A learned and literate prestige language", "A language banned from temples", "A foreign diplomatic pidgin"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Why are copy exercises important for Sumerian linguistics?",
+    "choices": ["They preserve how students segmented and reproduced forms", "They contain no linguistic information", "They are all exact duplicates", "They are written only in alphabetic glosses"],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a common scholarly use of colophons on later tablets containing Sumerian texts?",
+    "choices": ["Reconstructing the scribal context and textual series", "Identifying spoken accent precisely", "Measuring tablet weight classes", "Dating the invention of cuneiform"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which branch of evidence most directly links Sumerian words with Akkadian equivalents in an ordered pedagogical format?",
+    "choices": ["Boundary stones", "Lexical lists", "Royal reliefs", "Mathematical tables only"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The noun phrase 'lugal kalag-ga' illustrates what common Sumerian pattern?",
+    "choices": ["A head noun followed by an adjective", "A finite verb with dimensional prefixes", "A preposed article system", "A clause with nominative agreement"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which word is the common Sumerian noun for 'king'?",
+    "choices": ["ensi", "lugal", "nin", "dub"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Sumerian noun commonly means 'lady' or 'queen' in lexical and literary texts?",
+    "choices": ["nin", "gal", "ki", "šu"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Sumerian noun commonly means 'hand' and appears in many compounds?",
+    "choices": ["igi", "geš", "šu", "utu"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which Sumerian noun is commonly used for 'mouth' and by extension 'word' in some contexts?",
+    "choices": ["ka", "e2", "abzu", "ur5"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which item is a hallmark of advanced Sumerian philology rather than beginner sign memorization?",
+    "choices": ["Tracking manuscript variants across duplicates", "Learning that clay tablets exist", "Identifying the reed stylus", "Noting that cuneiform is ancient"],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Why can the same Sumerian form receive different analyses in modern editions?",
+    "choices": ["Because editors invent random grammar", "Because orthography can underdetermine morpheme boundaries and function", "Because Sumerian has no morphology", "Because all readings are equally impossible"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which source type most often preserves explicit ancient scholarly interpretation of rare Sumerian words?",
+    "choices": ["Bilingual lexical texts", "Brick stamps only", "Battle reliefs", "Coin legends"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What makes Sumerian a 'learned language' in first-millennium Mesopotamia?",
+    "choices": ["It survived mainly through scribal education and scholarship", "It was spoken by every social class natively", "It was written only in alphabetic marginalia", "It had no literary use"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which phrase best describes the relation between Sumerian and Akkadian in many school texts?",
+    "choices": ["Mutually unintelligible entries arranged as pedagogical pairings", "A single mixed spoken language", "An alphabet and its translation", "Two scripts for the same phonology"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is one reason literary Sumerian can be harder than administrative Sumerian?",
+    "choices": ["It never uses verbs", "It often employs dense traditional phraseology and rarer lexicon", "It lacks case endings entirely", "It is always shorter"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Sumerian studies, what does 'duplicate' usually mean for a literary composition?",
+    "choices": ["A forged modern copy", "Another manuscript witness of the same text", "A verb repeated in one line", "A sign written twice by mistake"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Why are duplicates valuable when editing a Sumerian composition?",
+    "choices": ["They can fill breaks and clarify uncertain readings", "They eliminate all need for philology", "They always match perfectly line for line", "They show only handwriting practice"],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which term refers to a break or missing portion in a cuneiform tablet that affects grammatical interpretation?",
+    "choices": ["Determinative", "Lacuna", "Sumerogram", "Colophon"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does a bracketed restoration in a Sumerian edition usually indicate?",
+    "choices": ["A modern editor's supplied text for a damaged passage", "A determinative never written on the tablet", "A bilingual translation line", "An Akkadian gloss from antiquity"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which type of text is especially likely to preserve formulaic case-marked strings useful for grammar drills?",
+    "choices": ["Administrative records", "Mythic iconography", "Cylinder seal scenes", "Royal statuary"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which statement best captures the role of Akkadian for Sumerian grammatical study?",
+    "choices": ["It is irrelevant because the languages are unrelated", "It provides crucial ancient glossing and translation evidence", "It replaces all direct reading of Sumerian", "It only matters for astronomy"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which feature of Sumerian writing most complicates a direct sound-by-sound reading?",
+    "choices": ["A strict one-letter alphabet", "A mixed logographic-syllabic script with polyvalent signs", "A total absence of homophony", "Mandatory vowel pointing"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "When a scholar speaks of Sumerian 'orthography,' what are they usually discussing?",
+    "choices": ["Temple architecture", "Writing conventions and spellings", "Irrigation terminology only", "Radiocarbon dates"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is one common value of studying lexical lists alongside literary texts?",
+    "choices": ["Lists provide ancient lexical equivalences that can illuminate rare words in literature", "Lists prove every literary line's exact pronunciation", "Lists replace all need for context", "Lists are unrelated to literary language"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which domain is most associated with the preservation of Sumerian after the spoken language disappeared?",
+    "choices": ["Scribal schools and learned textual traditions", "Household conversation in Assyria", "Alphabetic graffiti in Greece", "Roman legal education"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the chief reason advanced Sumerian grammar often remains debated?",
+    "choices": ["No one can read cuneiform at all", "The evidence is rich but indirect, conventionalized, and sometimes ambiguous", "Every tablet is perfectly preserved", "Ancient grammars explain every construction fully"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  }
+]

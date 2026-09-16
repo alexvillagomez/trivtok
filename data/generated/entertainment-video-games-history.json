@@ -1,0 +1,497 @@
+[
+  {
+    "text": "Which company released the first home video game console that achieved mainstream success?",
+    "choices": [
+      "Atari",
+      "Magnavox",
+      "Coleco",
+      "Nintendo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What year was the original Donkey Kong arcade game released?",
+    "choices": [
+      "1979",
+      "1980",
+      "1981",
+      "1982"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Game Boy, released in 1989, was developed by which company?",
+    "choices": [
+      "Sega",
+      "Atari",
+      "Nintendo",
+      "Bandai"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which gaming console is known for popularizing 3D graphics in mainstream gaming?",
+    "choices": [
+      "Sega Genesis",
+      "Sony PlayStation",
+      "Nintendo 64",
+      "Atari Jaguar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the name of Nintendo's hand-held competitor to the Game Boy in the 1990s?",
+    "choices": [
+      "Virtual Boy",
+      "Game Gear",
+      "Sega Nomad",
+      "Atari Lynx"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Legend of Zelda: Ocarina of Time was released exclusively on which console?",
+    "choices": [
+      "Super Nintendo",
+      "Nintendo 64",
+      "GameCube",
+      "Wii"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which developer created the Halo franchise?",
+    "choices": [
+      "Bungie",
+      "343 Industries",
+      "Infinity Ward",
+      "Treyarch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the first Pokémon game released in North America for the Game Boy?",
+    "choices": [
+      "Pokémon Blue",
+      "Pokémon Red",
+      "Pokémon Yellow",
+      "Pokémon Green"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Sega Genesis was released in North America in which year?",
+    "choices": [
+      "1987",
+      "1988",
+      "1989",
+      "1991"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which company developed the Metal Gear Solid franchise?",
+    "choices": [
+      "Kojima Productions",
+      "Capcom",
+      "Konami",
+      "Square Enix"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The arcade game Pac-Man was developed by which Japanese company?",
+    "choices": [
+      "Namco",
+      "Taito",
+      "Midway",
+      "Atari"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which console generation did the PlayStation 2 belong to?",
+    "choices": [
+      "5th generation",
+      "6th generation",
+      "7th generation",
+      "8th generation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What year was the Nintendo Entertainment System (NES) released in North America?",
+    "choices": [
+      "1983",
+      "1984",
+      "1985",
+      "1986"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Super Mario Bros. was developed for which gaming platform?",
+    "choices": [
+      "Commodore 64",
+      "Atari 2600",
+      "Arcade",
+      "Nintendo Entertainment System"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which gaming company created the Sonic the Hedgehog franchise?",
+    "choices": [
+      "Nintendo",
+      "Sega",
+      "Capcom",
+      "Activision"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Xbox console was first released by Microsoft in which region?",
+    "choices": [
+      "Europe",
+      "Japan",
+      "North America",
+      "Asia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which developer created the Final Fantasy series?",
+    "choices": [
+      "Capcom",
+      "Enix",
+      "Square",
+      "Bandai Namco"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Atari 2600 was released in North America in which year?",
+    "choices": [
+      "1975",
+      "1976",
+      "1977",
+      "1978"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Tetris version became the pack-in game for the Game Boy?",
+    "choices": [
+      "Tetris",
+      "Tetris Attack",
+      "Tetris DX",
+      "Puyo Puyo Tetris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Contra was an iconic arcade and NES game developed by which company?",
+    "choices": [
+      "Capcom",
+      "Konami",
+      "Namco",
+      "Taito"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Nintendo 64 was released in North America in which year?",
+    "choices": [
+      "1994",
+      "1995",
+      "1996",
+      "1997"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which arcade game featured the phrase 'Get ready!' as a famous catchphrase?",
+    "choices": [
+      "Ms. Pac-Man",
+      "Space Invaders",
+      "Street Fighter II",
+      "Mortal Kombat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The GameCube was the primary console released by which company during the 6th generation?",
+    "choices": [
+      "Sega",
+      "Microsoft",
+      "Nintendo",
+      "Atari"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Final Fantasy VII was originally released on which gaming platform?",
+    "choices": [
+      "Arcade",
+      "Nintendo 64",
+      "Sega Dreamcast",
+      "Sony PlayStation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The developer of the Crash Bandicoot series was primarily known as which studio?",
+    "choices": [
+      "Insomniac Games",
+      "Naughty Dog",
+      "Sucker Punch",
+      "Santa Monica Studios"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which arcade cabinet by Namco was one of the first successful 3D fighting games?",
+    "choices": [
+      "Tekken",
+      "Soul Calibur",
+      "Virtua Fighter",
+      "Dead or Alive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Sega Dreamcast was discontinued in which year?",
+    "choices": [
+      "2000",
+      "2001",
+      "2002",
+      "2003"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which developer created the Splinter Cell stealth franchise?",
+    "choices": [
+      "Rockstar Games",
+      "Ubisoft",
+      "Bethesda",
+      "Activision"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The original Space Invaders arcade game was developed by which company?",
+    "choices": [
+      "Atari",
+      "Taito",
+      "Namco",
+      "Midway"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which console introduced the Sixaxis wireless controller in 2006?",
+    "choices": [
+      "Xbox 360",
+      "PlayStation 3",
+      "Wii",
+      "Nintendo DS"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Arcade game Centipede was developed by which company?",
+    "choices": [
+      "Atari",
+      "Namco",
+      "Konami",
+      "Williams"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which gaming developer is credited with creating the prototype for the first-person shooter genre with Wolfenstein 3D?",
+    "choices": [
+      "Valve",
+      "id Software",
+      "3D Realms",
+      "Epic Games"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Game Boy Color was released in which year?",
+    "choices": [
+      "1997",
+      "1998",
+      "1999",
+      "2000"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Nintendo franchise debuted on the NES with a game released in 1985?",
+    "choices": [
+      "The Legend of Zelda",
+      "Super Mario Bros.",
+      "Metroid",
+      "Kid Icarus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The arcade game Joust, featuring a knight riding an ostrich, was developed by which company?",
+    "choices": [
+      "Taito",
+      "Williams Electronics",
+      "Namco",
+      "Atari"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which developer created the Castlevania franchise, known for Gothic platforming?",
+    "choices": [
+      "Capcom",
+      "Konami",
+      "Namco",
+      "Sega"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The handheld console Nintendo DS featured a dual-screen design and was released in which year?",
+    "choices": [
+      "2002",
+      "2003",
+      "2004",
+      "2005"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which arcade fighting game, featuring secret characters and fatalities, became iconic in the 1990s?",
+    "choices": [
+      "Street Fighter II",
+      "Mortal Kombat",
+      "King of Fighters",
+      "Virtua Fighter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Atari 5200, released in 1982, was marketed as which generation console?",
+    "choices": [
+      "2nd generation",
+      "3rd generation",
+      "4th generation",
+      "5th generation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which video game, developed by Valve, revolutionized multiplayer FPS gaming with Half-Life 2?",
+    "choices": [
+      "Quake III",
+      "Counter-Strike",
+      "Unreal Tournament",
+      "Team Fortress Classic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Sega Saturn was the company's response to which competitor's console?",
+    "choices": [
+      "Nintendo 64",
+      "PlayStation",
+      "Atari Jaguar",
+      "3DO"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Kirby's Dream Land was released on which handheld device in 1992?",
+    "choices": [
+      "Atari Lynx",
+      "Game Gear",
+      "Game Boy",
+      "Turbo Express"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which arcade cabinet, featuring a jet-fighter theme, was one of the first vector graphics games?",
+    "choices": [
+      "Battlezone",
+      "Asteroids",
+      "Tempest",
+      "Lunar Lander"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The arcade version of Dig Dug was developed by which company?",
+    "choices": [
+      "Taito",
+      "Namco",
+      "Konami",
+      "Capcom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which developer created the Mega Man franchise, known for its challenging platforming and robot masters?",
+    "choices": [
+      "Sega",
+      "Capcom",
+      "Konami",
+      "Namco"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  }
+]

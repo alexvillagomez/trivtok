@@ -1,0 +1,548 @@
+[
+  {
+    "text": "For a process at constant temperature and pressure, a negative value of delta G indicates what?",
+    "choices": ["The process is spontaneous in the forward direction", "The process is at equilibrium", "The process must absorb heat", "The entropy change of the system is negative"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which relation connects standard Gibbs energy change and the equilibrium constant?",
+    "choices": ["delta G standard = -RT ln K", "delta G standard = RT ln K", "delta G = -K ln RT", "delta G standard = -R ln T/K"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "At equilibrium for a reacting system held at constant temperature and pressure, delta G is:",
+    "choices": ["Positive", "Negative", "Zero", "Equal to delta H"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "If Q is less than K for a reaction mixture, the reaction tends to proceed:",
+    "choices": ["Toward reactants", "Toward products", "Nowhere because the system is frozen", "Only if delta H is positive"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which thermodynamic expression determines spontaneity most directly at constant temperature and pressure?",
+    "choices": ["delta U", "delta H - T delta S", "Cp/Cv", "PV/nRT"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "When both delta H and delta S are negative, spontaneity is favored most strongly at:",
+    "choices": ["Low temperature", "High temperature", "The critical temperature", "Infinite pressure only"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "When both delta H and delta S are positive, spontaneity is favored most strongly at:",
+    "choices": ["Low temperature", "High temperature", "Zero pressure", "Only 298 K"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In the equation delta G = delta G standard + RT ln Q, increasing Q makes delta G:",
+    "choices": ["More negative", "Unchanged", "More positive", "Exactly zero"],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which statement about a catalyst is thermodynamically correct?",
+    "choices": ["It changes delta G standard", "It changes K", "It lowers activation energy without changing equilibrium", "It makes nonspontaneous reactions spontaneous"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The chemical potential of a component is the partial molar quantity of which state function?",
+    "choices": ["Entropy", "Enthalpy", "Gibbs energy", "Helmholtz energy"],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "For a pure ideal gas, increasing pressure at constant temperature causes its molar Gibbs energy to:",
+    "choices": ["Decrease", "Remain constant", "Increase", "Become zero"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which quantity replaces pressure most naturally when treating nonideal gases in chemical thermodynamics?",
+    "choices": ["Activity", "Fugacity", "Osmolarity", "Ionic strength"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In an ideal solution, the activity of a component is proportional to its:",
+    "choices": ["Mole fraction", "Molar volume", "Boiling point", "Viscosity"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Raoult's law applies most directly to which kind of liquid mixture?",
+    "choices": ["An ideal solution over the full composition range", "Any electrolyte solution", "A gas mixture at low pressure", "A supercritical fluid"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Henry's law is commonly used for the limiting behavior of:",
+    "choices": ["The solvent near mole fraction 1", "A dilute solute in a liquid", "A pure solid at its melting point", "A gas at its critical point"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "A positive deviation from Raoult's law means the observed vapor pressure is typically:",
+    "choices": ["Lower than ideal because unlike interactions are stronger", "Higher than ideal because unlike interactions are weaker", "Exactly ideal at every composition", "Independent of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A minimum-boiling azeotrope is commonly associated with what deviation from Raoult's law?",
+    "choices": ["Positive deviation", "Negative deviation", "No deviation", "Infinite dilution only"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which colligative property decreases when a nonvolatile solute is dissolved in a solvent?",
+    "choices": ["Boiling point", "Freezing point", "Osmotic pressure", "Chemical potential of the solute"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Osmotic pressure for a dilute solution is analogous in form to which gas-law expression?",
+    "choices": ["PV = nRT", "Boyle's law only", "Charles's law only", "van der Waals equation exactly"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The van 't Hoff factor accounts for the effect of solute particles on:",
+    "choices": ["Reaction enthalpy", "Colligative properties", "Surface tension only", "Vaporization entropy only"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The Clausius-Clapeyron equation is especially useful for estimating how which property varies with temperature?",
+    "choices": ["Heat capacity", "Vapor pressure", "Viscosity", "Dielectric constant"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "At the triple point of a pure substance, how many phases coexist in equilibrium?",
+    "choices": ["One", "Two", "Three", "Four"],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Above the critical temperature of a pure substance, a gas cannot be liquefied by pressure alone because:",
+    "choices": ["Its entropy is zero", "There is no distinct liquid-gas boundary", "Its enthalpy equals zero", "The vapor pressure is negative"],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "For most substances, melting is accompanied by what sign of entropy change?",
+    "choices": ["Negative", "Zero", "Positive", "Undefined"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why does water have a solid-liquid coexistence line with a negative slope near 1 atm?",
+    "choices": ["Ice is denser than liquid water", "Liquid water is denser than ice", "The enthalpy of fusion is negative", "Water has no triple point"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Gibbs phase rule for a nonreacting system is F =",
+    "choices": ["C - P + 2", "C + P - 2", "P - C + 2", "C + P + 2"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "For a one-component system at its triple point, the number of thermodynamic degrees of freedom is:",
+    "choices": ["0", "1", "2", "3"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "At constant temperature and pressure, the maximum non-expansion work obtainable from a process equals:",
+    "choices": ["-delta G", "delta H", "T delta S", "delta U + P delta V"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which thermodynamic potential is minimized for a closed system at constant temperature and volume?",
+    "choices": ["Enthalpy", "Helmholtz free energy", "Gibbs free energy", "Entropy"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which thermodynamic potential is minimized for a closed system at constant temperature and pressure?",
+    "choices": ["Internal energy", "Enthalpy", "Gibbs free energy", "Helmholtz free energy"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "In electrochemistry, the relation delta G = -nFE connects Gibbs energy to:",
+    "choices": ["Heat capacity", "Cell potential", "Reaction quotient", "Osmotic pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "The Nernst equation describes how cell potential depends on:",
+    "choices": ["Heat capacity and pressure", "Reaction quotient and temperature", "Entropy and volume only", "Boiling point and ionic radius"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "If the reaction quotient for a galvanic cell increases while temperature stays fixed, the cell potential usually:",
+    "choices": ["Increases", "Decreases", "Stays exactly unchanged", "Becomes equal to the overpotential"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "When an electrochemical cell reaches equilibrium, its cell potential is:",
+    "choices": ["Maximum", "Minimum negative", "Zero", "Equal to 1 volt"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The standard emf of a cell is related to the equilibrium constant by which expression?",
+    "choices": ["E standard = -(RT/nF) ln K", "E standard = (RT/nF) ln K", "E standard = nF/RT ln K", "E standard = RTF/n ln K"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "For an endothermic reaction with positive delta S, raising temperature tends to make K:",
+    "choices": ["Smaller", "Larger", "Unchanged", "Exactly equal to 1"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "According to the van 't Hoff equation, the slope of a plot of ln K versus 1/T is proportional to:",
+    "choices": ["delta H standard", "-delta H standard/R", "delta S standard/R", "Cp/R"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Le Chatelier's principle predicts that increasing pressure favors which side of a gas-phase equilibrium?",
+    "choices": ["The side with more moles of gas", "The side with fewer moles of gas", "Always the products", "Always the reactants"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Changing the amount of an inert gas at constant volume has what idealized effect on an equilibrium of ideal gases?",
+    "choices": ["It changes K directly", "It shifts equilibrium because all partial pressures rise proportionally", "It does not change the equilibrium composition through Q", "It forces Q to become 1"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "For an ideal gas mixture, the partial molar Gibbs energy of component i is commonly written in terms of:",
+    "choices": ["Its mole fraction or partial pressure", "Its heat capacity ratio", "The total entropy only", "The critical compressibility only"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which quantity measures how the molar Gibbs energy of a real solution component departs from ideal-solution behavior?",
+    "choices": ["Compressibility factor", "Activity coefficient", "Joule-Thomson coefficient", "Virial coefficient"],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "For an ideal solution, the enthalpy of mixing is:",
+    "choices": ["Positive", "Negative", "Zero", "Equal to RT ln x"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "For an ideal solution, the entropy of mixing of two different components is typically:",
+    "choices": ["Negative", "Zero", "Positive", "Infinite"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Gibbs-Duhem equation expresses a constraint among changes in which quantities for mixture components?",
+    "choices": ["Chemical potentials", "Critical temperatures", "Diffusion coefficients", "Stoichiometric coefficients only"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which standard-state choice is commonly used for solutes obeying Henry's law at infinite dilution?",
+    "choices": ["Pure liquid standard state", "Hypothetical ideal dilute solution standard state", "Supercritical standard state", "Vacuum reference state"],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "The entropy change of the universe for any spontaneous process is:",
+    "choices": ["Less than zero", "Equal to zero", "Greater than zero", "Unrelated to spontaneity"],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "The third law of thermodynamics states that the entropy of a perfect crystal approaches what value as temperature approaches 0 K?",
+    "choices": ["Infinity", "R", "1 J mol^-1 K^-1", "Zero"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Residual entropy in some crystals arises because the crystal remains:",
+    "choices": ["Perfectly ordered in every orientation", "Disordered even near 0 K", "At its critical point", "In the vapor phase"],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The Boltzmann relation S = k ln W links entropy to:",
+    "choices": ["Molecular speed", "The number of accessible microstates", "Activation energy", "Molar volume"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Mixing two different ideal gases at the same temperature and pressure produces an entropy change that is usually:",
+    "choices": ["Negative", "Zero", "Positive", "Undefined"],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Mixing identical ideal gases under identical conditions gives an entropy of mixing of:",
+    "choices": ["Positive", "Negative", "Zero", "R ln 2 per mole always"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "For an ideal gas, the Joule expansion into vacuum has delta U equal to:",
+    "choices": ["Positive", "Negative", "Zero", "Equal to -P delta V"],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which process is isenthalpic for a real fluid passing through a throttling valve?",
+    "choices": ["Freezing", "Joule-Thomson expansion", "Reversible adiabatic compression", "Isothermal mixing"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Joule-Thomson coefficient is defined as which derivative?",
+    "choices": ["(dP/dT) at constant H", "(dT/dP) at constant H", "(dV/dT) at constant P", "(dS/dP) at constant T"],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A positive Joule-Thomson coefficient means that throttling to lower pressure causes the gas to:",
+    "choices": ["Warm up", "Cool down", "Keep exactly the same temperature for all states", "Condense regardless of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "For an ideal gas, the Joule-Thomson coefficient is approximately:",
+    "choices": ["Positive", "Negative", "Zero", "Equal to R"],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "In the van der Waals equation, the parameter a primarily accounts for:",
+    "choices": ["Finite molecular size", "Intermolecular attractions", "Heat capacity changes", "Phase-rule constraints"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In the van der Waals equation, the parameter b primarily accounts for:",
+    "choices": ["Excluded volume", "Attractive potential energy", "Reaction stoichiometry", "Entropy generation"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The critical point on an isotherm corresponds mathematically to which condition?",
+    "choices": ["(dP/dV)T = 0 and (d2P/dV2)T = 0", "delta G = 0 only", "Cp = Cv", "P = 0 and V = 0"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Maxwell relation follows from dG = V dP - S dT for a simple compressible system?",
+    "choices": ["(dS/dP)T = -(dV/dT)P", "(dS/dP)T = (dV/dT)P", "(dG/dT)P = V", "(dH/dP)T = S"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "For a pure substance, (dG/dT) at constant pressure is equal to:",
+    "choices": ["V", "S", "-S", "H"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "For a pure substance, (dG/dP) at constant temperature is equal to:",
+    "choices": ["V", "-V", "S", "-S"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The Gibbs-Helmholtz equation is often used to connect temperature dependence of G/T with:",
+    "choices": ["Enthalpy", "Volume", "Compressibility", "Surface area"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "At constant pressure, the temperature derivative of enthalpy is:",
+    "choices": ["Cv", "Cp", "R", "The thermal expansion coefficient"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A first-order phase transition is characterized by discontinuity in which first derivative of Gibbs energy?",
+    "choices": ["Entropy or volume", "Gibbs energy itself", "Temperature only", "Chemical potential only for gases"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "At the critical point, the latent heat of vaporization becomes:",
+    "choices": ["Infinite", "Equal to R", "Zero", "Equal to the triple-point enthalpy"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "For an ideal binary solution, the total vapor pressure above the liquid at fixed temperature is the:",
+    "choices": ["Difference of component vapor pressures", "Sum of partial pressures from Raoult contributions", "Product of pure-component vapor pressures", "Average of liquid densities"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "An equilibrium constant written in terms of activities is strictly dimensionless because:",
+    "choices": ["Activities are defined relative to standard states", "All pressures are measured in pascals", "Concentrations cancel only for ideal gases", "Entropy has no units"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "For the reaction quotient of a heterogeneous equilibrium, the activity of a pure solid is conventionally taken as:",
+    "choices": ["0", "1", "Equal to its density", "Equal to its molar mass"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Adding more of a pure solid reactant to a heterogeneous equilibrium at fixed temperature typically does what to K?",
+    "choices": ["Increases K", "Decreases K", "Leaves K unchanged", "Makes K undefined"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "For a spontaneous endothermic dissolution such as some ammonium salts in water, spontaneity is driven mainly by:",
+    "choices": ["A sufficiently positive entropy term", "A negative enthalpy only", "A drop in vapor pressure only", "A negative cell potential"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which sign combination is most consistent with a process that is nonspontaneous at low temperature but spontaneous at high temperature?",
+    "choices": ["delta H less than 0, delta S greater than 0", "delta H greater than 0, delta S greater than 0", "delta H less than 0, delta S less than 0", "delta H greater than 0, delta S less than 0"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which sign combination is most consistent with a process that is spontaneous at low temperature but nonspontaneous at high temperature?",
+    "choices": ["delta H greater than 0, delta S greater than 0", "delta H less than 0, delta S greater than 0", "delta H less than 0, delta S less than 0", "delta H greater than 0, delta S less than 0"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The standard reaction entropy can be estimated from tabulated absolute entropies by summing:",
+    "choices": ["Products minus reactants", "Reactants minus products", "Products times reactants", "Only gaseous species"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Hess's law works for enthalpy changes primarily because enthalpy is a:",
+    "choices": ["Path function", "State function", "Kinetic variable", "Transport coefficient"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Kirchhoff's law in chemical thermodynamics is used to estimate how reaction enthalpy changes with:",
+    "choices": ["Pressure only", "Temperature via heat capacities", "Cell voltage only", "Catalyst surface area"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The equilibrium constant Kp differs from Kc for gas reactions because of:",
+    "choices": ["Differences in standard states involving pressure versus concentration", "Entropy becoming dimensionless", "Catalyst effects", "The second law failing for gases"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "For the gas reaction aA + bB reversible cC + dD, the relation between Kp and Kc involves RT raised to what power?",
+    "choices": ["c + d + a + b", "delta n gas = (c + d) - (a + b)", "a + b only", "1 - delta n gas"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which electrochemical quantity is an intensive property and therefore does not scale with the stoichiometric multiplication of a balanced cell reaction?",
+    "choices": ["delta G standard", "n", "E standard", "Total charge transferred"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In a concentration cell with identical electrodes, the driving force arises from a difference in:",
+    "choices": ["Standard potentials", "Activities or concentrations", "Numbers of electrons in the metal lattice", "Heat capacities of the salt bridge"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A salt bridge in a galvanic cell serves mainly to:",
+    "choices": ["Increase delta G", "Maintain electrical neutrality while allowing ion migration", "Provide electrons to the cathode", "Fix the equilibrium constant at 1"],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Under standard conditions at 298 K, one decade change in reaction quotient changes the cell potential by approximately:",
+    "choices": ["0.0592/n volts", "n/0.0592 volts", "59.2n volts", "0.0257n volts"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A species with lower chemical potential at the same temperature and pressure is thermodynamically:",
+    "choices": ["Less stable", "More stable", "Always more reactive", "At a higher fugacity by definition"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "For phase equilibrium between two phases alpha and beta of a one-component system, which condition must hold?",
+    "choices": ["S alpha = S beta", "H alpha = H beta", "mu alpha = mu beta", "Cp alpha = Cp beta"],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Metastable supercooled liquid water remains liquid below its freezing point because:",
+    "choices": ["The solid has higher Gibbs energy at all temperatures", "Nucleation kinetics can delay the thermodynamically favored phase change", "delta S of freezing becomes positive", "The triple point disappears"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "For a spontaneous process in a closed system at constant temperature and volume, the Helmholtz free energy change is:",
+    "choices": ["Positive", "Zero only", "Negative", "Equal to pressure"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which quantity is the natural logarithm derivative of fugacity with respect to pressure for a pure gas at constant temperature linked to?",
+    "choices": ["Its molar volume", "Its standard entropy", "Its heat of fusion", "Its dielectric constant"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The common-tangent construction on a molar Gibbs energy versus composition curve identifies:",
+    "choices": ["Heat-capacity maxima", "Coexisting equilibrium compositions", "The critical compressibility", "Only azeotropic points"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Spinodal decomposition occurs in a region where a homogeneous mixture is unstable to infinitesimal composition fluctuations, meaning the Gibbs energy curve is locally:",
+    "choices": ["Strongly concave upward", "Flat at every composition", "Concave downward with respect to composition", "Linear by definition"],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "For a binary liquid-vapor system at fixed pressure, an azeotrope is a composition where liquid and vapor have:",
+    "choices": ["Equal enthalpies", "Equal compositions", "Equal densities", "Equal heat capacities"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "In chemical thermodynamics, affinity of reaction is often identified with a quantity proportional to:",
+    "choices": ["-delta_r G", "delta_r H", "Cp - Cv", "The osmotic coefficient"],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  }
+]

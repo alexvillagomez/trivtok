@@ -1,0 +1,626 @@
+[
+  {
+    "text": "What name was Augustus born with before his adoption by Julius Caesar?",
+    "choices": ["Gaius Octavius", "Marcus Agrippa", "Lucius Antonius", "Publius Scipio"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How was Octavian related to Julius Caesar by blood before adoption?",
+    "choices": ["He was Caesar's nephew", "He was Caesar's great-nephew", "He was Caesar's cousin", "He was Caesar's son-in-law"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What transformed Octavian into Caesar's legal son and heir?",
+    "choices": ["Election by the Senate", "Marriage into the Julian family", "Caesar's posthumous adoption in his will", "A military acclamation at Mutina"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In what year did the Senate grant Octavian the title Augustus?",
+    "choices": ["31 BCE", "23 BCE", "44 BCE", "27 BCE"],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The title princeps was meant to suggest that Augustus was what?",
+    "choices": ["The first citizen", "A hereditary king", "Chief priest of all cults", "Commander of one legion"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which political arrangement is usually called the First Constitutional Settlement of Augustus?",
+    "choices": ["The grant of censorship for life", "The apparent return of powers in 27 BCE paired with control of key provinces", "The division of Italy into four prefectures", "The annexation of Egypt to the Senate"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Second Constitutional Settlement of 23 BCE is especially associated with Augustus receiving what enduring powers?",
+    "choices": ["The dictatorship and censorship", "A permanent consulship and kingship", "Tribunician power and greater proconsular imperium", "The office of magister equitum"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What did tribunicia potestas give Augustus without making him an actual tribune of the plebs?",
+    "choices": ["Control of the treasury at Saturn's temple", "The right to crown client kings", "The command of the Praetorian Guard", "Sacrosanctity and powers associated with the tribunate"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Imperium maius allowed Augustus to do what in relation to other governors?",
+    "choices": ["Override their provincial commands", "Appoint both consuls every year", "Abolish the Senate's decrees", "Serve as censor without election"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which battle in 31 BCE broke the power of Antony and Cleopatra?",
+    "choices": ["Philippi", "Actium", "Naulochus", "Carrhae"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What city fell to Octavian in 30 BCE, ending the last war of the Roman Republic?",
+    "choices": ["Antioch", "Corinth", "Alexandria", "Pergamum"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which member of the Second Triumvirate was eventually pushed aside after his failed power play in Sicily?",
+    "choices": ["Mark Antony", "Cicero", "Sextus Pompey", "Lepidus"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Sextus Pompey was most dangerous to Octavian because he controlled which island base?",
+    "choices": ["Sicily", "Cyprus", "Crete", "Sardinia"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which famous orator was killed during the triumviral proscriptions?",
+    "choices": ["Livy", "Cicero", "Sallust", "Varro"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "At the Battle of Philippi in 42 BCE, Octavian and Antony defeated which pair of Caesar's assassins?",
+    "choices": ["Pompey and Cato", "Lepidus and Sextus Pompey", "Brutus and Cassius", "Dolabella and Hirtius"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who was Augustus's closest military lieutenant and the victor at Actium?",
+    "choices": ["Maecenas", "Tiberius", "Drusus", "Agrippa"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who is most closely associated with literary patronage under Augustus?",
+    "choices": ["Maecenas", "Varus", "Germanicus", "Sejanus"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which woman became Augustus's influential wife and the mother of Tiberius?",
+    "choices": ["Julia", "Livia", "Octavia", "Scribonia"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who was Augustus's only biological child?",
+    "choices": ["Livia Drusilla", "Octavia Minor", "Julia the Elder", "Julia the Younger"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who ultimately succeeded Augustus as princeps in 14 CE?",
+    "choices": ["Agrippa Postumus", "Germanicus", "Marcellus", "Tiberius"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which young relative of Augustus died in 23 BCE after being treated as a likely heir?",
+    "choices": ["Marcellus", "Drusus the Elder", "Lucius Caesar", "Claudius"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which pair of Augustus's adopted grandsons were prominently prepared for succession before dying young?",
+    "choices": ["Germanicus and Drusus", "Gaius and Lucius Caesar", "Tiberius and Agrippa", "Castor and Pollux"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "The disaster of 9 CE in Germania is chiefly associated with the destruction of the forces of which Roman commander?",
+    "choices": ["Agrippa", "Drusus", "Varus", "Corbulo"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which monument celebrated Augustan peace and was dedicated in 9 BCE?",
+    "choices": ["Mausoleum of Hadrian", "Temple of Concord", "Column of Trajan", "Ara Pacis"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the Res Gestae Divi Augusti?",
+    "choices": ["An inscriptional summary of Augustus's achievements", "A secret Senate diary", "A military handbook by Agrippa", "A poem praising Actium"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which poet under Augustus wrote the Aeneid?",
+    "choices": ["Horace", "Virgil", "Propertius", "Ovid"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which Augustan poet was eventually exiled to Tomis on the Black Sea?",
+    "choices": ["Horace", "Tibullus", "Ovid", "Gallus"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Carmen Saeculare performed at the Secular Games of 17 BCE was written by whom?",
+    "choices": ["Virgil", "Propertius", "Livy", "Horace"],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The marriage legislation associated with Augustus aimed chiefly to do what?",
+    "choices": ["Promote lawful marriage and childbearing among the elite", "Abolish dowries", "Permit senators to marry actresses", "Ban adoption into noble families"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What did the Julian adultery law do that was especially striking in Roman terms?",
+    "choices": ["It abolished paternal authority", "It made adultery a public criminal offense", "It allowed women to vote in assemblies", "It replaced juries with priests"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which honor was awarded to Augustus in 2 BCE as father of the Roman community?",
+    "choices": ["Imperator perpetuus", "Rex et pater", "Pater patriae", "Dominus et deus"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "After Lepidus died, which chief priesthood did Augustus finally assume in 12 BCE?",
+    "choices": ["Flamen Dialis", "Rex sacrorum", "Augur maximus", "Pontifex Maximus"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The closing of the gates of Janus under Augustus symbolized what?",
+    "choices": ["Peace throughout the Roman world", "A successful harvest", "The founding of a new colony", "The election of new censors"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the Praetorian Guard in the Augustan system?",
+    "choices": ["A naval squadron at Misenum", "An elite force for the princeps's protection", "A priestly college for imperial cult", "A tax board for Italy"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What was the aerarium militare established by Augustus?",
+    "choices": ["A temple treasury for Mars Ultor", "A reserve fund for senatorial loans", "A military treasury for veterans' discharge payments", "A provincial mint in Gaul"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "How did Augustus commonly deal with demobilized veterans after the civil wars?",
+    "choices": ["He immediately recalled them to service", "He settled all of them inside Rome", "He turned them into tax collectors", "He settled many in colonies and granted rewards"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "After the defeat of Cleopatra, Egypt held what special status under Augustus?",
+    "choices": ["It became an imperial province under his personal control", "It remained an independent allied kingdom", "It was handed to the Senate as a peaceful province", "It was merged into Syria"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who usually governed Roman Egypt under Augustus?",
+    "choices": ["A senator with consular rank", "An equestrian prefect", "A hereditary Ptolemaic prince", "A tribune elected by Alexandrians"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What notable diplomatic success did Augustus achieve with Parthia in 20 BCE?",
+    "choices": ["He annexed Mesopotamia permanently", "He captured Ctesiphon", "He recovered Roman standards lost by Crassus", "He installed himself as king of Parthia"],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Augustus's eastern policy toward Parthia is best described as what?",
+    "choices": ["A relentless program of full conquest", "Withdrawal from all eastern diplomacy", "Abandonment of Armenia", "A preference for diplomacy and client-king management over direct conquest"],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Judaean ruler functioned as an important client king during the age of Augustus?",
+    "choices": ["Herod the Great", "Mithridates VI", "Juba II", "Deiotarus"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What major building dominated the Forum of Augustus?",
+    "choices": ["Temple of Mars Ultor", "Temple of Vesta", "Temple of Serapis", "Temple of Castor and Pollux"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which famous boast is traditionally attributed to Augustus about Rome?",
+    "choices": ["He found it conquered and left it peaceful", "He found it wooden and left it golden", "He found it brick and left it marble", "He found it pagan and left it sacred"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In his role as moral and religious renewer, Augustus claimed to have restored approximately how many temples in Rome?",
+    "choices": ["12", "40", "120", "82"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Under Augustus, the Roman world was broadly divided administratively into which two kinds of provinces?",
+    "choices": ["Senatorial and imperial", "Italian and non-Italian", "Taxed and untaxed", "Greek and Latin"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which body did Augustus repeatedly revise and reduce in size to make it more manageable?",
+    "choices": ["The equestrian order", "The Senate", "The college of augurs", "The tribal assembly"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Why was Augustus's resignation of the annual consulship in 23 BCE important?",
+    "choices": ["It made him a private citizen", "It transferred the empire to Agrippa", "It let him dominate without monopolizing the consulship every year", "It abolished the office of consul"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What urban force did Augustus create to help maintain public order in Rome?",
+    "choices": ["The Evocati", "The Frumentarii", "The Batavian horse guards", "The urban cohorts"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Augustan force became especially associated with firefighting and nighttime policing in Rome?",
+    "choices": ["The vigiles", "The speculatores", "The lictors", "The fetiales"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Augustus is often credited with reducing abuses in provincial taxation by limiting the power of whom?",
+    "choices": ["Legionary centurions", "Tax farmers", "Municipal decurions", "Provincial priests"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What administrative tool was central to assessing tribute in many provinces under Augustus?",
+    "choices": ["Public auctions of priesthoods", "Annual plebiscites", "Censuses and property assessments", "Private loans from senators"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Coins showing Augustus with symbols of victory, peace, or divine favor primarily served what purpose?",
+    "choices": ["They replaced all local currencies at once", "They commemorated only tax payments", "They worked as a form of imperial propaganda", "They were used only inside temples"],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The star or comet linked to Caesar in Octavian's propaganda signified what claim?",
+    "choices": ["That Caesar had become divine", "That Octavian ruled the sea", "That Antony had surrendered", "That the Sibyls backed the Triumvirate"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does the title Divi Filius mean when used by Augustus?",
+    "choices": ["Leader of the sacred colleges", "Son of a deified man", "Founder of the Julian line", "Chosen by the gods"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What city did Octavian found near the site of his victory at Actium?",
+    "choices": ["Caesarea Maritima", "Augusta Emerita", "Nicopolis", "Philippi Nova"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "About how many legions did Augustus leave as the core of Rome's standing army after his settlements?",
+    "choices": ["12", "20", "50", "Around 28"],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What important reward commonly awaited auxiliary soldiers after honorable service under the early Principate?",
+    "choices": ["Roman citizenship", "Automatic senatorial rank", "Free land in Italy only", "A priesthood in Rome"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which frontier line became especially important in Augustus's long-term strategic outlook?",
+    "choices": ["The Indus and Ganges", "The Rhine and Danube", "The Atlas and Sahara", "The Euphrates and Nile only"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "After the Varian disaster, what happened to the project of turning Germania into a stable Roman province east of the Rhine?",
+    "choices": ["It was accelerated under Augustus", "It was transferred to Cleopatra Selene", "It was effectively abandoned", "It was handed to the Senate"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which long conflict in northern Spain occupied Augustus's regime earlier in his reign?",
+    "choices": ["The Social War", "The Mithridatic War", "The Cimbric War", "The Cantabrian Wars"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Anatolian kingdom became the Roman province of Galatia during Augustus's rise to power?",
+    "choices": ["Galatia", "Pontus", "Cappadocia", "Commagene"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which major revolt from 6 to 9 CE severely tested Augustan power in the Balkans before the Teutoburg disaster?",
+    "choices": ["The Boudican revolt", "The Great Illyrian Revolt", "The Servile War of Spartacus", "The Bar Kokhba revolt"],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Where did Augustus die in 14 CE?",
+    "choices": ["Rome", "Capri", "Nola", "Ravenna"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What happened to Augustus after his death in official state religion?",
+    "choices": ["He was buried without honors", "He was condemned by the Senate", "He was remembered only as consul", "He was deified"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which biographer wrote a surviving Life of Augustus in the imperial period?",
+    "choices": ["Suetonius", "Polybius", "Plutarch", "Appian"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which later historian wrote in Greek and provides an important narrative of Augustus's reign in Roman History?",
+    "choices": ["Tacitus", "Cassius Dio", "Josephus", "Ammianus Marcellinus"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which historian begins the Annals with a darkly skeptical account of Augustus's accumulation of power?",
+    "choices": ["Livy", "Velleius Paterculus", "Tacitus", "Strabo"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Modern historians usually use which term for the political order founded by Augustus?",
+    "choices": ["The Dominate", "The Tetrarchy", "The Hellenistic League", "The Principate"],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Augustus's claim to have 'restored the Republic' is treated by many historians chiefly as what?",
+    "choices": ["A carefully framed political fiction", "A literal return to pre-Sullan politics", "A slogan invented only by Tacitus", "A minor religious reform"],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which phrase best captures the difference between Augustus's auctoritas and his formal potestas?",
+    "choices": ["Auctoritas was legal office, potestas was family prestige", "Auctoritas was influence and prestige beyond formal office", "Auctoritas meant military rank only", "Auctoritas was another word for kingship"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why was the date of a princeps's tribunician power useful in Roman imperial documents?",
+    "choices": ["It marked his priestly rank", "It identified his birth year", "It served as a dating formula for his reign", "It listed his legion number"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Lex Papia Poppaea of 9 CE is best understood as what?",
+    "choices": ["A law ending slavery for debt", "A law dissolving the Senate", "A law organizing Egypt", "A supplement to Augustan marriage legislation"],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Augustus reorganized neighborhood cult in Rome by linking the Lares Compitales with whose genius?",
+    "choices": ["His own", "Julius Caesar's only", "Agrippa's", "Romulus's"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Roman month was renamed Augustus in his honor?",
+    "choices": ["June", "Sextilis", "November", "Martius"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What major religious festival did Augustus celebrate in 17 BCE to mark a renewed era for Rome?",
+    "choices": ["The Saturnalia", "The Floralia", "The Secular Games", "The Lupercalia"],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What group increasingly supplied many imperial administrators and prefects under Augustus?",
+    "choices": ["Freed gladiators", "Provincial kings", "Plebeian tribunes", "The equestrian order"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which office under Augustus became especially important for supervising Rome's grain supply?",
+    "choices": ["Praefectus annonae", "Princeps senatus", "Curator aquarum", "Quaestor urbanus"],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Before Tiberius concentrated them more heavily near Rome, Augustus often stationed Praetorian cohorts where?",
+    "choices": ["Only in Alexandria", "Dispersed in towns around Italy", "Only on the Rhine", "Inside the Senate house"],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which victory over Sextus Pompey in 36 BCE was won by Agrippa and helped secure Octavian's west?",
+    "choices": ["Actium", "Philippi", "Naulochus", "Mutina"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which phrase best describes Octavian's public image after his victory in the civil wars?",
+    "choices": ["An eastern-style divine king", "A retired private noble", "A temporary emergency dictator", "A restorer of peace and traditional order"],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which female relative of Augustus was famously used in dynastic marriage politics and later exiled for scandal?",
+    "choices": ["Julia the Elder", "Octavia Minor", "Livia", "Antonia Minor"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which public work in Rome is especially associated with Agrippa's building activity under Augustus?",
+    "choices": ["The Circus of Maxentius", "The Pantheon", "The Baths of Caracalla", "The Arch of Constantine"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which historian was a near-contemporary of Augustus and wrote a vast history of Rome from its origins?",
+    "choices": ["Tacitus", "Suetonius", "Livy", "Dio Chrysostom"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which phrase was not a normal public title of Augustus and would have sounded too monarchical for his image?",
+    "choices": ["Princeps", "Imperator Caesar", "Divi Filius", "Rex"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What was the main purpose of Augustus's Mausoleum in Rome?",
+    "choices": ["A dynastic tomb for his family line", "A military parade ground", "A records office for the Senate", "A temple to Mars Ultor"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which close associate of Augustus briefly fell from favor and later died after a disastrous command in the east?",
+    "choices": ["Maecenas", "Cornelius Gallus", "Messalla Corvinus", "Asinius Pollio"],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which region was turned into a province in 6 CE after the deposition of Archelaus?",
+    "choices": ["Armenia", "Numidia", "Judea", "Mauretania"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which member of Augustus's family was known for major campaigns in Germany before dying in 9 BCE?",
+    "choices": ["Marcellus", "Gaius Caesar", "Agrippa Postumus", "Drusus the Elder"],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which branch of government continued to meet and pass decrees under Augustus, even as real power shifted toward the princeps?",
+    "choices": ["The Senate", "The Amphictyonic Council", "The Delphic priesthood", "The Etruscan league"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which term best captures the way Augustus handled succession?",
+    "choices": ["Open election by the tribes", "Dynastic preparation without a formal hereditary law", "Automatic primogeniture", "Selection by provincial assemblies"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which claim did Augustan art and ideology often make about his rule?",
+    "choices": ["That Rome should become a democracy again", "That civil war was glorious in itself", "That Augustus brought a new golden age", "That expansion should end forever"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which phrase best describes the Augustan settlement according to many modern scholars?",
+    "choices": ["A sudden socialist revolution", "A complete end to aristocratic politics", "A pure military dictatorship with no civilian forms", "A monarchy concealed beneath republican institutions"],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which document of Augustus is especially valuable because it presents his own preferred version of his career?",
+    "choices": ["Res Gestae Divi Augusti", "Annals", "Germania", "Natural History"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which colony in Hispania is named for Augustus and his veterans?",
+    "choices": ["Lugdunum", "Augusta Emerita", "Massilia", "Saguntum"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What office did Augustus carefully avoid accepting despite repeated emergencies, because it carried strong memories of republican collapse?",
+    "choices": ["Pontifex Maximus", "Princeps senatus", "The dictatorship", "Consulship"],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which sea victory helped make possible Octavian's final showdown with Antony?",
+    "choices": ["Mylae", "Salamis", "Ecnomus", "Naulochus"],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which statement about Augustus's rule would most likely fit the view of the sympathetic historian Velleius Paterculus?",
+    "choices": ["It rescued the state from chaos", "It was simply another tyranny no different from Nero's", "It destroyed every Roman institution instantly", "It mattered only in Egypt"],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which relative of Augustus married Mark Antony and is often remembered as a symbol of dignified dynastic politics?",
+    "choices": ["Julia the Elder", "Octavia Minor", "Livia", "Agrippina the Elder"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which phrase best explains why Augustus's coin portraits mattered politically?",
+    "choices": ["They were illegal in the provinces", "They circulated only among senators", "They spread his image and messages across the empire", "They replaced all triumphs"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was unusual about Egypt in the Augustan order from the perspective of Roman senators?",
+    "choices": ["It had no taxation", "It lacked cities", "It was ruled by women", "Senators could not enter it freely without permission"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which campaign slogan-like idea linked Augustus with both peace and victory rather than with simple retreat from war?",
+    "choices": ["Peace through conquest ended in order", "Rule by annual lottery", "Equality of all magistrates", "The abolition of triumphs"],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which office holder under Augustus was responsible for managing Rome's waters and aqueduct system after Agrippa's reforms?",
+    "choices": ["Praefectus vigilum", "Curator aquarum", "Praefectus Aegypti", "Quaestor Ostiensis"],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which pair best represents the two principal heirs adopted by Augustus after the death of Agrippa?",
+    "choices": ["Tiberius and Drusus", "Germanicus and Claudius", "Gaius Caesar and Lucius Caesar", "Agrippa Postumus and Sejanus"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which description best fits Augustus's use of religion in politics?",
+    "choices": ["He privatized all cult", "He ignored priesthoods entirely", "He separated religion from state more than any Roman leader", "He used religious restoration to legitimize his rule"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  }
+]

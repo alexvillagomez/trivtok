@@ -1,0 +1,992 @@
+[
+  {
+    "text": "To which Black Sea city was Ovid banished?",
+    "choices": [
+      "Tomis",
+      "Sinope",
+      "Odessus",
+      "Callatis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What pair of causes does Ovid give for his exile?",
+    "choices": [
+      "war and debt",
+      "a poem and a mistake",
+      "treason and sacrilege",
+      "envy and slander"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which exile collection opens with Ovid sending his little book toward Rome?",
+    "choices": [
+      "Ibis",
+      "Fasti",
+      "Tristia",
+      "Epistulae ex Ponto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "How many books are in the Tristia as transmitted?",
+    "choices": [
+      "Four",
+      "Six",
+      "Three",
+      "Five"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many books make up the Epistulae ex Ponto?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What meter dominates Ovid's exile elegies?",
+    "choices": [
+      "dactylic hexameter",
+      "elegiac couplets",
+      "iambic trimeter",
+      "Sapphic stanzas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which exile work is a single long plea addressed to Augustus?",
+    "choices": [
+      "Tristia 1",
+      "Epistulae ex Ponto 4",
+      "Tristia 2",
+      "Ibis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What formal feature most clearly distinguishes the Epistulae ex Ponto from the Tristia?",
+    "choices": [
+      "it switches to hexameter",
+      "it is written in Greek",
+      "it drops mythological allusion",
+      "it names individual recipients"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which earlier Ovidian poem does Augustus implicitly punish through Ovid's own account of exile?",
+    "choices": [
+      "Ars Amatoria",
+      "Fasti",
+      "Medicamina Faciei",
+      "Heroides"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In exile, Ovid repeatedly calls himself what in relation to his own language?",
+    "choices": [
+      "a second Ennius",
+      "a barbarian",
+      "a new Orpheus",
+      "a silent witness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which poem narrates Ovid's last night in Rome before departure?",
+    "choices": [
+      "Tristia 1.3",
+      "Tristia 3.3",
+      "Ex Ponto 1.2",
+      "Ibis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which peoples are most often invoked as Tomis's threatening neighbors?",
+    "choices": [
+      "Parthians and Medes",
+      "Getae and Sarmatians",
+      "Dacians and Thracians",
+      "Scythians and Persians"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which later emperor is praised in Ex Ponto 4 as a possible source of relief?",
+    "choices": [
+      "Tiberius",
+      "Claudius",
+      "Germanicus",
+      "Marcellus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which unfinished Ovidian work on the Roman calendar survives only half complete?",
+    "choices": [
+      "Metamorphoses",
+      "Tristia",
+      "Ibis",
+      "Fasti"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "How many months are covered by the surviving Fasti?",
+    "choices": [
+      "Six",
+      "Twelve",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Hellenistic poet stands behind Ovid's invective poem Ibis?",
+    "choices": [
+      "Theocritus",
+      "Callimachus",
+      "Aratus",
+      "Apollonius Rhodius"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the primary mode of Ibis?",
+    "choices": [
+      "hymn",
+      "pastoral lament",
+      "learned curse poem",
+      "epic consolation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which figure is most consistently idealized in the exile poetry as Ovid's loyal supporter at Rome?",
+    "choices": [
+      "his daughter",
+      "his freedman",
+      "his old teacher",
+      "his wife"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What recurrent image frames Ovid's poetry itself as a traveler?",
+    "choices": [
+      "the exiled book",
+      "the broken lyre",
+      "the laurel crown",
+      "the funeral torch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What climate complaint becomes a staple of Ovid's Tomitan self-portrait?",
+    "choices": [
+      "flooded summers",
+      "frozen winters",
+      "dust storms",
+      "constant fog"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman ruler is directly addressed in Tristia 2?",
+    "choices": [
+      "Tiberius",
+      "Agrippa",
+      "Augustus",
+      "Germanicus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What sort of fault is Ovid's error usually presented as in the poems themselves?",
+    "choices": [
+      "violent rebellion",
+      "forgery",
+      "failed prophecy",
+      "something seen rather than done"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which phrase best names the genre Ovid adapts most intensely in the exile books?",
+    "choices": [
+      "Roman love elegy",
+      "didactic epic",
+      "civic hymn",
+      "verse satire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What change in authorial stance most marks exile elegy against the Amores?",
+    "choices": [
+      "playfulness yields to petition",
+      "Latin yields to Greek",
+      "myth vanishes entirely",
+      "the beloved becomes Augustus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which work contains Ovid's extended self-defense through a survey of erotic literature before him?",
+    "choices": [
+      "Ex Ponto 2",
+      "Fasti 1",
+      "Tristia 2",
+      "Tristia 5"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which sea is the destination horizon of Ovid's exile corpus?",
+    "choices": [
+      "Adriatic",
+      "Caspian",
+      "Aegean",
+      "Black Sea"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What city remains the emotional center of the exile poems despite Ovid's absence?",
+    "choices": [
+      "Rome",
+      "Athens",
+      "Smyrna",
+      "Alexandria"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which poem imagines Ovid's own funeral and epitaph in exile?",
+    "choices": [
+      "Tristia 1.1",
+      "Ex Ponto 3.1",
+      "Tristia 3.3",
+      "Ibis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What punishment does Ovid insist he suffered instead of execution?",
+    "choices": [
+      "confiscation",
+      "forced military service",
+      "public whipping",
+      "relegation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What legal nuance separates Ovid's exile from the harsher category of deportatio?",
+    "choices": [
+      "relegation did not strip citizenship and property in the same way",
+      "relegation required naval service",
+      "relegation lasted only one year",
+      "relegation applied only to senators"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which deity of poetry and healing is conspicuously unable to rescue Ovid from Augustus?",
+    "choices": [
+      "Apollo",
+      "Jupiter",
+      "Mercury",
+      "Mars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which rhetorical posture dominates Ovid's addresses to powerful Romans from Tomis?",
+    "choices": [
+      "judicial accusation",
+      "supplication",
+      "comic seduction",
+      "triumphal praise"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What landscape feature repeatedly signals Tomis as culturally remote from Rome?",
+    "choices": [
+      "vineyards",
+      "marble temples",
+      "the steppe frontier",
+      "aqueducts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is Ovid asking for most often in the exile books?",
+    "choices": [
+      "a triumph",
+      "senatorial rank",
+      "a military command",
+      "recall or transfer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What relationship does Ovid most want his readers to see between the Ars Amatoria and his exile?",
+    "choices": [
+      "the poem was playful, not criminal",
+      "the poem was forged by enemies",
+      "the poem was unfinished",
+      "the poem had already been burned"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Tristia book consists of only one poem?",
+    "choices": [
+      "Book 2",
+      "Book 3",
+      "Book 4",
+      "Book 5"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What complaint about language becomes sharper in Tomis than in Ovid's earlier poetry?",
+    "choices": [
+      "he can no longer read Greek",
+      "his Latin is being corrupted by barbarian speech",
+      "he has forgotten elegiac meter",
+      "he must dictate through interpreters in Rome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which work's title literally points toward the Pontic region?",
+    "choices": [
+      "Heroides",
+      "Remedia Amoris",
+      "Epistulae ex Ponto",
+      "Medicamina Faciei"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does Ovid most often claim age and suffering have done to his talent?",
+    "choices": [
+      "perfected it",
+      "made it prophetic",
+      "turned it epic",
+      "weakened it"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which audience does Ovid flatter while hoping they will intercede with the princeps?",
+    "choices": [
+      "provincial tax farmers",
+      "friends at Rome",
+      "Alexandrian grammarians",
+      "Parthian envoys"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What emotion is most insistently performed rather than merely reported in the Tristia?",
+    "choices": [
+      "anger",
+      "envy",
+      "grief",
+      "patriotic triumph"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Roman moral program makes the Ars especially awkward in retrospect?",
+    "choices": [
+      "the Gracchan land reforms",
+      "Sullan proscriptions",
+      "the Marian census",
+      "Augustan marriage legislation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which adjective best captures the exile poetry's relation to imperial power?",
+    "choices": [
+      "dependent",
+      "indifferent",
+      "republican",
+      "subversive only by open attack"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What literary tactic lets Ovid expand his self-defense without directly confessing the error?",
+    "choices": [
+      "strategic vagueness",
+      "strict chronology",
+      "epic simile",
+      "mock trial transcripts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which kind of addressee grows more prominent in Ex Ponto than in Tristia?",
+    "choices": [
+      "named patrons and friends",
+      "anonymous heroines",
+      "rival elegists",
+      "dead ancestors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does Ovid fear his books may lose when they travel without him?",
+    "choices": [
+      "meter",
+      "Roman polish",
+      "their papyrus rolls",
+      "their dedications"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which exile poem most resembles a catalog of exempla offered in self-defense?",
+    "choices": [
+      "Tristia 2",
+      "Tristia 1.3",
+      "Ex Ponto 4.16",
+      "Tristia 5.7"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What kind of frontier violence recurs in Ovid's Tomitan descriptions?",
+    "choices": [
+      "pirate raids",
+      "gladiatorial riots",
+      "mounted archery attacks",
+      "urban faction fights"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In generic terms, Ex Ponto is closest to what?",
+    "choices": [
+      "verse letters",
+      "epic books",
+      "stage monologues",
+      "hymnal sequences"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which complaint about publication becomes especially poignant in exile?",
+    "choices": [
+      "too many recitations",
+      "he cannot personally oversee circulation in Rome",
+      "papyrus is too expensive",
+      "booksellers refuse elegy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which social role does Ovid repeatedly deny he ever meant to play through the Ars?",
+    "choices": [
+      "teacher of adultery",
+      "public historian",
+      "temple priest",
+      "military propagandist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which imperial family member becomes a focus of hope after Augustus in the later exile poems?",
+    "choices": [
+      "Agrippina the Younger",
+      "Germanicus",
+      "Drusus the Younger",
+      "Marcellus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the strongest contrast between Rome and Tomis in Ovid's self-fashioning?",
+    "choices": [
+      "center and margin",
+      "sea and mountain",
+      "poverty and wealth",
+      "republic and monarchy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does Ovid ask his wife to preserve above all in Rome?",
+    "choices": [
+      "his vineyards",
+      "his memory and household ties",
+      "his war trophies",
+      "his provincial offices"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which exile collection is less anonymous in social texture because its poems are explicitly directed to named elites?",
+    "choices": [
+      "Heroides",
+      "Metamorphoses",
+      "Epistulae ex Ponto",
+      "Fasti"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What does Ovid most often present poetry as being able to do when politics fails?",
+    "choices": [
+      "win office",
+      "erase guilt",
+      "end winter",
+      "preserve fame"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which work from exile is openly hostile rather than plaintive in tone?",
+    "choices": [
+      "Ibis",
+      "Tristia 1.3",
+      "Ex Ponto 1.1",
+      "Fasti 6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which phrase best describes the political stance of Tristia 2?",
+    "choices": [
+      "a respectful brief for the defense",
+      "a republican manifesto",
+      "a military dispatch",
+      "an anti-elegiac parody"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does Ovid most want from the named addressees of Ex Ponto?",
+    "choices": [
+      "they should compose elegies back to him",
+      "they should intervene at court",
+      "they should finance a revolt",
+      "they should send him Greek tutors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which stylistic feature keeps the exile poetry recognizably Ovidian despite its misery?",
+    "choices": [
+      "dense verbal wit and self-conscious artifice",
+      "complete rejection of rhetoric",
+      "strict archaism",
+      "plain documentary prose"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which biographical uncertainty is deliberately left unresolved by Ovid himself?",
+    "choices": [
+      "his birthplace",
+      "his praenomen",
+      "the exact nature of the error",
+      "the date of the Ars"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does Ovid use most often to make Tomis feel anti-Roman?",
+    "choices": [
+      "genealogical digressions",
+      "jokes about lawyers",
+      "catalogs of temples",
+      "climate and language alienation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which collection contains more of the machinery of recommendation and patronage?",
+    "choices": [
+      "Epistulae ex Ponto",
+      "Amores",
+      "Heroides",
+      "Metamorphoses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is Ovid's usual strategy when speaking of Augustus's power?",
+    "choices": [
+      "he minimizes it",
+      "he magnifies it while begging for mercy",
+      "he mocks it by name",
+      "he treats it as temporary"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What kind of literary immortality does Ovid still claim in exile?",
+    "choices": [
+      "the poet can outlive political ruin through verse",
+      "the emperor will canonize him",
+      "his tomb will become a shrine",
+      "his descendants will become consuls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does Ovid repeatedly say separates his body from Rome but not his mind?",
+    "choices": [
+      "old age",
+      "barbarian customs",
+      "distance",
+      "official silence"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which phrase best describes Ovid's handling of autobiography in the exile books?",
+    "choices": [
+      "neutral chronicle",
+      "judicial deposition",
+      "military memoir",
+      "rhetorically shaped self-dramatization"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Tristia poem begins with the departure of the book rather than the departure of the man?",
+    "choices": [
+      "Tristia 1.1",
+      "Tristia 2",
+      "Tristia 3.3",
+      "Tristia 5.10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which emotion toward his own earlier poetry does Ovid sometimes stage from exile?",
+    "choices": [
+      "proud indifference",
+      "ambivalent regret",
+      "comic delight only",
+      "total disavowal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does Ovid most need the Roman social network to do that poetry alone cannot guarantee?",
+    "choices": [
+      "carry a petition upward",
+      "revive the republic",
+      "restore his youth",
+      "complete the Fasti"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which exile work is the more overtly epistolary continuation of Ovid's Black Sea writing?",
+    "choices": [
+      "Ibis",
+      "Fasti",
+      "Epistulae ex Ponto",
+      "Medicamina Faciei"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What sort of community does Ovid most lack in Tomis?",
+    "choices": [
+      "soldiers",
+      "merchants",
+      "physicians",
+      "a Roman literary audience"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What kind of place is Tomis made to symbolize beyond its geography?",
+    "choices": [
+      "the imperial margin",
+      "the golden age",
+      "the republican forum",
+      "the Greek classroom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which aspect of exile does Ovid most often convert into a literary resource?",
+    "choices": [
+      "suffering",
+      "athletic training",
+      "mercantile travel",
+      "military promotion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What makes Ovid's wife exceptional within his earlier poetic career?",
+    "choices": [
+      "she receives sustained serious praise",
+      "she becomes the target of invective",
+      "she is named in every poem",
+      "she narrates an elegy herself"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which tension drives much of the exile corpus?",
+    "choices": [
+      "art versus empire",
+      "philosophy versus science",
+      "epic versus tragedy",
+      "Roman versus Etruscan religion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does Ovid present as still Roman within him even on the frontier?",
+    "choices": [
+      "his language and memory",
+      "his toga alone",
+      "his legal office",
+      "his cavalry unit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which of these is not one of Ovid's surviving exile-era works?",
+    "choices": [
+      "Tristia",
+      "Epistulae ex Ponto",
+      "Ibis",
+      "Culex"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What literary maneuver often lets Ovid defend himself without sounding openly defiant?",
+    "choices": [
+      "praise mixed with self-abasement",
+      "direct denunciation",
+      "historical annalism",
+      "comic dialogue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which quality of Augustus is emphasized most when Ovid is trying to win relief?",
+    "choices": [
+      "his clemency",
+      "his military rage",
+      "his private grief",
+      "his Greek learning"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does Ovid turn his own bibliography into inside Tristia 2?",
+    "choices": [
+      "a legal dossier",
+      "a burn list",
+      "a priestly archive",
+      "a map of Pontus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What kind of time dominates the emotional world of the exile poems?",
+    "choices": [
+      "festival time",
+      "suspended waiting",
+      "rapid conquest",
+      "comic closure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Ovid's stance toward the city of Rome itself, as opposed to the decree that expelled him?",
+    "choices": [
+      "mostly affectionate",
+      "uniformly hostile",
+      "completely detached",
+      "purely antiquarian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What has Ovid lost most completely at Tomis according to his own self-presentation?",
+    "choices": [
+      "citizenship",
+      "social proximity to power",
+      "metrical skill",
+      "interest in mythology"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is most paradoxical about Ovid's authorship in exile?",
+    "choices": [
+      "banishment generates the poetry that resists oblivion",
+      "silence makes him unreadable",
+      "the frontier makes him anonymous immediately",
+      "petition ends literature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which literary identity never fully disappears from the exile books despite Ovid's suffering?",
+    "choices": [
+      "the witty elegist",
+      "the annalist",
+      "the tragedian",
+      "the antiquarian jurist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What does Ovid make unusually visible in the mechanics of Roman literature from exile?",
+    "choices": [
+      "networks of circulation, patronage, and mediation",
+      "the secret rites of the Vestals",
+      "the Senate's voting procedure in detail",
+      "the economics of gladiatorial schools"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which paired opposition structures many of Ovid's exile complaints?",
+    "choices": [
+      "speech and silence",
+      "summer and harvest",
+      "parents and children",
+      "Asia and Africa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the plainest reason Ovid keeps writing from Tomis?",
+    "choices": [
+      "poetry is his remaining means of presence in Rome",
+      "Augustus ordered a daily poem",
+      "the Getae demanded lessons",
+      "he had retired from all other identities"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What makes Ovid's exile voice distinctive among Roman complaints of misfortune?",
+    "choices": [
+      "it fuses brilliant literary self-awareness with abasement",
+      "it avoids any reference to the state",
+      "it is written entirely in prose letters",
+      "it rejects mythological comparison"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  }
+]

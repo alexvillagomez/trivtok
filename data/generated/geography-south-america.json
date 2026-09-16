@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which South American country is the largest by land area?",
+    "choices": ["Brazil", "Argentina", "Peru", "Colombia"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The Galápagos Islands are located off the coast of which country?",
+    "choices": ["Peru", "Ecuador", "Chile", "Colombia"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which country is home to the most territory of the Amazon rainforest?",
+    "choices": ["Peru", "Colombia", "Brazil", "Bolivia"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Bogotá is a major city located in which South American country?",
+    "choices": ["Venezuela", "Ecuador", "Colombia", "Peru"],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which of these countries does NOT border Brazil?",
+    "choices": ["Chile", "Guyana", "Venezuela", "Peru"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The Atacama Desert, one of the driest places on Earth, is primarily located in which country?",
+    "choices": ["Peru", "Argentina", "Chile", "Bolivia"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Suriname was formerly a colony of which European power?",
+    "choices": ["Spain", "The Netherlands", "Portugal", "France"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country contains Lake Titicaca, the highest navigable lake in the world?",
+    "choices": ["Ecuador and Colombia", "Peru and Bolivia", "Argentina and Chile", "Paraguay and Brazil"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "La Paz, the seat of government, is located in which country?",
+    "choices": ["Argentina", "Bolivia", "Peru", "Paraguay"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which South American country has the longest Pacific coastline?",
+    "choices": ["Peru", "Ecuador", "Chile", "Colombia"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Chocó region, known for extreme rainfall, primarily spans which two countries?",
+    "choices": ["Colombia and Ecuador", "Peru and Colombia", "Brazil and Venezuela", "Chile and Argentina"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Quito is located in which South American country?",
+    "choices": ["Colombia", "Peru", "Ecuador", "Venezuela"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which country shares the longest land border with Brazil?",
+    "choices": ["Argentina", "Peru", "Bolivia", "Venezuela"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The Gran Chaco region is shared by which three countries?",
+    "choices": ["Bolivia, Paraguay, and Argentina", "Brazil, Peru, and Bolivia", "Colombia, Venezuela, and Guyana", "Chile, Argentina, and Paraguay"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which South American country is the smallest by area?",
+    "choices": ["Guyana", "Suriname", "Uruguay", "French Guiana"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Recife and Salvador are major cities located in which region of South America?",
+    "choices": ["Northeast Brazil", "Southern Argentina", "Coastal Peru", "Central Colombia"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The Pantanal, the world's largest tropical wetland, is primarily located in which country?",
+    "choices": ["Peru", "Brazil", "Bolivia", "Paraguay"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which country was named after the Amazon River region?",
+    "choices": ["Amazonas", "Brazil", "Peru", "Colombia"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Falkland Islands (Islas Malvinas) are claimed by which South American country?",
+    "choices": ["Chile", "Argentina", "Paraguay", "Uruguay"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which country in South America has the most Spanish speakers?",
+    "choices": ["Colombia", "Argentina", "Mexico (not SA)", "Brazil"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Santa Cruz de la Sierra is the largest city by population in which country?",
+    "choices": ["Paraguay", "Bolivia", "Peru", "Ecuador"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Orinoco River primarily flows through which two countries?",
+    "choices": ["Colombia and Venezuela", "Brazil and Peru", "Ecuador and Colombia", "Bolivia and Paraguay"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which country shares no border with Brazil?",
+    "choices": ["Colombia", "Chile", "Venezuela", "Guyana"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Asunción is the capital city of which South American country?",
+    "choices": ["Uruguay", "Paraguay", "Argentina", "Bolivia"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Humboldt Current significantly influences the climate of which South American country?",
+    "choices": ["Argentina", "Chile", "Colombia", "Brazil"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which South American country is entirely contained within the Southern Hemisphere?",
+    "choices": ["Paraguay", "Argentina", "Chile", "Uruguay"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Iguazu Falls are located on the border between which two countries?",
+    "choices": ["Brazil and Argentina", "Brazil and Paraguay", "Argentina and Paraguay", "Brazil and Chile"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "French Guiana is the only South American territory that remains under the rule of which nation?",
+    "choices": ["Netherlands", "Spain", "France", "United Kingdom"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which country contains the southern terminus of the Andes mountain range?",
+    "choices": ["Chile", "Argentina", "Peru", "Bolivia"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Medellín, once troubled by cartel violence, is located in which country?",
+    "choices": ["Peru", "Colombia", "Ecuador", "Venezuela"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which country's territory includes the Cape Horn, the southernmost point of South America?",
+    "choices": ["Argentina", "Chile", "Uruguay", "Paraguay"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Atacama Desert borders which ocean?",
+    "choices": ["Atlantic", "Indian", "Pacific", "Arctic"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Valparaíso is a major port city in which country?",
+    "choices": ["Peru", "Chile", "Argentina", "Bolivia"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which South American country was established as a socialist state in 1970?",
+    "choices": ["Argentina", "Chile", "Peru", "Uruguay"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The Cerrado is a tropical savanna biome primarily located in which country?",
+    "choices": ["Colombia", "Brazil", "Peru", "Venezuela"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Córdoba is the second-largest city in which South American country?",
+    "choices": ["Chile", "Argentina", "Colombia", "Peru"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which country in South America has a coastline on both the Caribbean and Atlantic oceans?",
+    "choices": ["Venezuela", "Guyana", "Suriname", "Colombia"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Mount Aconcagua, the highest peak in South America, is located in which country?",
+    "choices": ["Chile", "Argentina", "Peru", "Bolivia"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which country is home to the Nazca Lines, ancient geoglyphs in the desert?",
+    "choices": ["Bolivia", "Chile", "Peru", "Ecuador"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Maracaibo is a major city and oil production center in which country?",
+    "choices": ["Colombia", "Brazil", "Venezuela", "Guyana"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Pampas grasslands are primarily located in which country?",
+    "choices": ["Uruguay", "Brazil", "Argentina", "Paraguay"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Cusco, the ancient Inca capital, is located in which South American country?",
+    "choices": ["Ecuador", "Bolivia", "Peru", "Chile"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which South American country has the highest altitude capital city in the world?",
+    "choices": ["Peru", "Ecuador", "Bolivia", "Colombia"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Sechura Desert is located in which country?",
+    "choices": ["Bolivia", "Peru", "Ecuador", "Chile"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Rosario is a major river port city in which South American country?",
+    "choices": ["Brazil", "Paraguay", "Argentina", "Uruguay"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  }
+]

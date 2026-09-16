@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which deity is the principal sun god in Egyptian mythology?",
+    "choices": ["Ra", "Osiris", "Horus", "Aten"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Anubis is typically depicted with the head of which animal?",
+    "choices": ["Snake", "Jackal", "Falcon", "Bull"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which goddess is strongly associated with magic, motherhood, and devotion?",
+    "choices": ["Nephthys", "Isis", "Sekhmet", "Hathor"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is the falcon-headed god of the sky and son of Osiris?",
+    "choices": ["Set", "Horus", "Khonsu", "Montu"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Thoth is the god of writing and wisdom, often shown with the head of which creature?",
+    "choices": ["Owl", "Ibis", "Crocodile", "Ram"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In Egyptian belief, which god rules over the underworld and the deceased?",
+    "choices": ["Anubis", "Osiris", "Set", "Hades"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the Egyptian underworld called?",
+    "choices": ["Amente", "Duat", "Auru", "Tuat"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Hathor is primarily known as the goddess of what?",
+    "choices": ["War", "Love and joy", "The grain", "Healing"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which god is typically depicted as the enemy of Ra and the storm god?",
+    "choices": ["Osiris", "Set", "Khnum", "Ptah"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Sekhmet is the fierce goddess of plagues and healing, often depicted with which animal head?",
+    "choices": ["Cat", "Lioness", "Cobra", "Hyena"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which goddess represents the concept of truth and justice in Egyptian mythology?",
+    "choices": ["Hathor", "Maat", "Tefnut", "Nephthys"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Sobek is the deity associated with which animal?",
+    "choices": ["Hippopotamus", "Crocodile", "Fish", "Turtle"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which myth describes Osiris being murdered by his jealous brother?",
+    "choices": ["The Contest of Ra and Set", "The Murdering of Osiris", "The Death and Resurrection of Osiris", "The Plot of Set"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "After Osiris is killed, which goddess uses her magical powers to restore him?",
+    "choices": ["Hathor", "Isis", "Nephthys", "Sekhmet"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the name of the sacred ceremonial object associated with the Nile and fertility?",
+    "choices": ["Ankh", "Scarab", "Was scepter", "Sistrum"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Ankh symbol primarily represents what concept in Egyptian belief?",
+    "choices": ["Death and rebirth", "The sun's journey", "Eternal life", "Divine power"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which ceremony in Egyptian funerary practices determines if the soul is worthy of the afterlife?",
+    "choices": ["The Trial of Set", "The Weighing of the Heart", "The Journey of Ra", "The Opening of the Mouth"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In the Weighing of the Heart, against what is the heart weighed?",
+    "choices": ["Gold", "The feather of Maat", "A stone tablet", "Water"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which god is associated with the preservation and mummification of the dead?",
+    "choices": ["Khonsu", "Anubis", "Bes", "Ptah"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Ptah is primarily regarded as the god of what?",
+    "choices": ["War", "Creation and craftsmanship", "The moon", "Chaos"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Egyptian temple is most associated with the worship of Amun?",
+    "choices": ["Luxor Temple", "Karnak Temple", "The Great Temple at Abu Simbel", "The Temple of Dendera"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the name of the serpent demon that tries to prevent Ra's journey through the underworld?",
+    "choices": ["Apophis", "Bastet", "Nut", "Shu"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Nut is the goddess of what natural phenomenon?",
+    "choices": ["The sky", "The earth", "The sea", "The stars"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Shu represents which natural element in Egyptian cosmology?",
+    "choices": ["Water", "Air or atmosphere", "Fire", "Darkness"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "According to Egyptian mythology, which god is associated with the Nile's annual inundation?",
+    "choices": ["Thoth", "Khnum", "Hapi", "Khonsu"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Khnum is depicted with the head of which animal and is associated with creation?",
+    "choices": ["Goat", "Ram", "Bull", "Ibis"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which deity is believed to join Ra on his nightly journey through the underworld?",
+    "choices": ["Iah", "Shu", "Thoth", "Anubis"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Bes is a protective deity depicted as a dwarf with grotesque features. What does he protect?",
+    "choices": ["Warriors", "Children and childbirth", "The dead", "Temples"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the term for the Egyptian afterlife paradise where the blessed reside?",
+    "choices": ["Duat", "Aaru", "Amenta", "Tuat"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "According to the Memphite cosmology, from whose body did the world emerge?",
+    "choices": ["Ra", "Atum", "Ptah", "Khonsu"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which myth recounts how Isis searches for and reassembles the dismembered body of Osiris?",
+    "choices": ["The Quest of Isis", "The Search for Osiris", "The Resurrection Myth", "The Dismemberment of Osiris"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Atum is described as the self-created creator deity. By what method did he create himself?",
+    "choices": ["Divine willpower", "Manifestation through thought", "From the primordial waters", "Through separation from chaos"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In the Egyptian creation myth, what primordial substance or state preceded all creation?",
+    "choices": ["The cosmic egg", "Chaos or Nun", "The void of Apophis", "Divine light"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which famous Egyptian monument is most commonly associated with the divine and the afterlife?",
+    "choices": ["The Sphinx", "The Pyramids", "The Obelisks", "The pylons"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The concept of 'Ka' in Egyptian belief refers to what aspect of the human being?",
+    "choices": ["The shadow", "The life force or spiritual double", "The name", "The memory"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the 'Ba' in Egyptian funerary beliefs?",
+    "choices": ["The body", "The soul or personality", "The breath", "The power"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Khonsu is the god of what celestial body?",
+    "choices": ["The sun", "The moon", "Venus", "Mars"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Sekhmet's power to destroy is balanced by her role in which other domain?",
+    "choices": ["Creation", "The underworld", "Healing", "Fertility"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "According to Egyptian lore, how many times does Ra travel through the body segments of Nut daily?",
+    "choices": ["Six", "Twelve", "Twenty-four", "Seven"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which specific name is used for the negative confessions or declarations made during the Weighing of the Heart?",
+    "choices": ["The Proclamation of Truth", "The Forty-Two Declarations", "The Negative Declarations", "The Divine Oath"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Montu is the god of war and conflict, often depicted with the head of which creature?",
+    "choices": ["Lion", "Falcon", "Bull", "Serpent"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In the Pyramid Texts, what is the term for the resurrection or transformation after death?",
+    "choices": ["Neter", "Ankh", "Akh", "Ren"],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Nephthys is primarily the goddess of what concept despite her association with Set?",
+    "choices": ["Chaos", "Mourning and lamentation", "War", "The desert"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "According to the Amduat, through how many hours or regions must the soul travel during the night?",
+    "choices": ["Six", "Ten", "Twelve", "Twenty-four"],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which triad of gods are Osiris, Isis, and Horus collectively known as?",
+    "choices": ["The Divine Family", "The Osirian Triad", "The Family of Abydos", "The Sacred Three"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  }
+]

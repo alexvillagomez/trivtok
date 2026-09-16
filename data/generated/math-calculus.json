@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What is the derivative of x²?",
+    "choices": ["2x", "x", "x²/2", "2"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is ∫2x dx?",
+    "choices": ["x²", "x + C", "2x + C", "x² + C"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is lim (x→0) sin(x)/x?",
+    "choices": ["1", "0", "π", "-1"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is d/dx(e^x)?",
+    "choices": ["e^x", "1", "xe^x", "2e^x"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is ∫x³ dx?",
+    "choices": ["x⁴/4 + C", "4x² + C", "x²/2 + C", "3x² + C"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is d/dx(tan(x))?",
+    "choices": ["sec(x)", "sec²(x)", "tan(x)", "1 + tan²(x)"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is ∫1 dx?",
+    "choices": ["1", "x", "0", "x + C"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is lim (x→0) e^x?",
+    "choices": ["e", "∞", "2", "1"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is d/dx(cos(x))?",
+    "choices": ["-sin(x)", "sin(x)", "-cos(x)", "tan(x)"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is ∫cos(x) dx?",
+    "choices": ["-sin(x) + C", "sin(x) + C", "cos(x) + C", "tan(x) + C"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is d/dx(5x³)?",
+    "choices": ["5x²", "15x", "15x²", "3x²"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is lim (x→∞) 1/x?",
+    "choices": ["∞", "1", "-1", "0"],
+    "correctIndex": 3,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Using the chain rule, what is d/dx(sin(x²))?",
+    "choices": ["2x·cos(x²)", "cos(x²)", "sin(2x)", "2x·sin(x²)"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is ∫x·e^x dx using integration by parts?",
+    "choices": ["x·e^x + C", "xe^x - e^x + C", "e^x + C", "xe^x + e^x + C"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is lim (x→0) (cos(x) - 1)/x²?",
+    "choices": ["0", "1/2", "-1/2", "1"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "By the Fundamental Theorem, what is ∫₀³ x² dx?",
+    "choices": ["27", "0", "6", "9"],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the sum of the series Σ(1/n²) from n=1 to ∞?",
+    "choices": ["π²/6", "1", "π/2", "∞"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is d/dx(ln(x))?",
+    "choices": ["1", "1/x", "x", "ln(x)/x"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is ∫(1/x) dx?",
+    "choices": ["-1/x² + C", "x + C", "ln|x| + C", "1/x"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The Taylor series expansion of e^x is?",
+    "choices": ["Σ x^n", "Σ x^n/n", "Σ (-1)^n x^n", "Σ x^n/n!"],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Using L'Hôpital's rule, what is lim (x→0) (e^x - 1)/x?",
+    "choices": ["1", "0", "-1", "e"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is d/dx(x^π)?",
+    "choices": ["π·x^π", "π·x^(π-1)", "x^(π-1)", "π"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is ∫sin(x)cos(x) dx?",
+    "choices": ["cos²(x) + C", "sin(x)cos(x)/2 + C", "sin²(x)/2 + C", "sin²(x) + C"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "According to Rolle's Theorem, if f is continuous on [a,b] and f(a)=f(b), then ∃c∈(a,b) with?",
+    "choices": ["f(c) = 0", "f'(c) = 1", "f'(c) = f(c)", "f'(c) = 0"],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "The power series Σ x^n converges when?",
+    "choices": ["|x| < 1", "|x| < 0", "|x| > 1", "|x| ≤ π"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "By the Mean Value Theorem, ∃c∈(a,b) such that f'(c) equals?",
+    "choices": ["f(b) - f(a)", "(f(b) - f(a))/(b - a)", "f(b)/f(a)", "(b - a)/(f(b) - f(a))"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "For the ratio test, if lim |a_(n+1)/a_n| = L < 1, the series Σa_n is?",
+    "choices": ["divergent", "oscillating", "convergent", "undefined"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is d/dx(x^x)?",
+    "choices": ["x^(x-1)", "x^x·ln(x)", "x·x^(x-1)", "x^x(ln(x) + 1)"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is ∫√x dx?",
+    "choices": ["2x^(3/2)/3 + C", "x^(3/2) + C", "2√x + C", "x^(1/2)/3 + C"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "By the Fundamental Theorem of Calculus (Part 1), what is d/dx(∫₀ˣ f(t)dt)?",
+    "choices": ["f'(x)", "f(x)", "F(x)", "x"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In the rigorous ε-δ definition of a limit, lim (x→a) f(x) = L means ∀ε>0, ∃δ>0 such that?",
+    "choices": ["|f(x)| < ε", "|x - a| < ε", "|f(x) - L| < ε when 0 < |x - a| < δ", "f(a) = L"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is d/dx(log_b(x)) where b ≠ e?",
+    "choices": ["1/x", "ln(b)/x", "1/(b·ln(x))", "1/(x·ln(b))"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "By the Comparison Test, if 0 ≤ a_n ≤ b_n and Σb_n converges, then Σa_n is?",
+    "choices": ["convergent", "divergent", "oscillating", "inconclusive"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is d/dx(arcsin(x))?",
+    "choices": ["1/(1 + x²)", "1/√(1 - x²)", "-1/√(1 - x²)", "1/√(x² - 1)"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is ∫(1/(1 + x²)) dx?",
+    "choices": ["ln|1 + x²| + C", "1/(2(1 + x²)) + C", "arctan(x) + C", "-1/(1 + x²) + C"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The Cauchy-Schwarz inequality for integrals states that (∫fg)² ≤?",
+    "choices": ["∫f² + ∫g²", "(∫f·∫g)²", "(∫f)²(∫g)²", "∫f²·∫g²"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Alternating Series Test states that Σ(-1)^n a_n converges if a_n→0 and?",
+    "choices": ["a_n is decreasing", "a_n > 0", "a_n is bounded", "a_n is monotone"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "For f(x) = x³ - 3x + 1 on [-2, 2], by Rolle's Theorem there exists c where f'(c) = 0. What is f'(x)?",
+    "choices": ["x² - 3", "3x² - 3", "3x - 3", "3x² + 3"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is d/dx(∫₀ˣ sin(t²)dt)?",
+    "choices": ["sin(x)", "cos(x²)", "sin(x²)", "2x·sin(x²)"],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A Taylor polynomial T_n(x) centered at a satisfies T_n^(k)(a) = ? for k ≤ n",
+    "choices": ["f(a)", "0", "f'(a)", "f^(k)(a)"],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "By the Bounded Monotone Convergence Theorem, if {a_n} is increasing and bounded above, then?",
+    "choices": ["lim a_n exists", "lim a_n = ∞", "lim a_n oscillates", "the sequence diverges"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is ∫₀^(π/2) sin(x)cos(x) dx?",
+    "choices": ["0", "1/2", "1", "π/4"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "For the Root Test, if lim ∜|a_n| = L, the series Σa_n converges when?",
+    "choices": ["L = 1", "L > 1", "L < 1", "L ≤ 0"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is d/dx(e^x - x²)?",
+    "choices": ["e^x - x", "e^x", "e^x - 2x", "e^x - x²"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Integral Test states that if f(x) ≥ 0, decreasing, and continuous, then Σf(n) converges iff?",
+    "choices": ["∫₁^∞ f(x)dx converges", "f(x)→0", "f'(x) < 0", "∫₀¹ f(x)dx is finite"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  }
+]

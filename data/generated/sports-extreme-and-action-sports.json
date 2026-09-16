@@ -1,0 +1,314 @@
+[
+  {
+    "text": "What is the name of the vertical board sport where athletes perform tricks on rails and jumps?",
+    "choices": ["Skateboarding", "Inline skating", "Roller derby", "Longboarding"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which legendary skateboarder was the first to land a 900?",
+    "choices": ["Bob Burnquist", "Tony Hawk", "Rodney Mullen", "Andy Macdonald"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In surfing, what is the sport of riding on a smaller board while being towed by a jet ski called?",
+    "choices": ["Wave riding", "Bodyboarding", "Tow-in surfing", "Skimboarding"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What winter sport involves riding down a snowy mountain on a board strapped to both feet?",
+    "choices": ["Skiing", "Sledding", "Snowboarding", "Luge"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which X Games discipline involves riding a bicycle on a dirt track with large jumps?",
+    "choices": ["Trials", "Dirt jumping", "BMX racing", "Street BMX"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What is the term for a skateboarding trick where you flip the board while riding?",
+    "choices": ["Kickflip", "Pop-shove-it", "Manual", "Boneless"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In rock climbing, what is the sport of climbing artificial walls indoors commonly called?",
+    "choices": ["Crag climbing", "Sport climbing", "Bouldering", "Gym climbing"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Snowboarding's slopestyle discipline primarily challenges athletes on which factor?",
+    "choices": ["Speed", "Accuracy", "Style and technical skills on varied terrain", "Distance"],
+    "correctIndex": 3,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which trick in skateboarding involves snapping the tail while turning the board sideways?",
+    "choices": ["Kickflip", "Heelflip", "Pop shove-it", "Ollie"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the term for a skateboard move where you balance on the back two wheels?",
+    "choices": ["Shove-it", "Manual", "Nollie", "Fakie"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In surfing, what is the hollow section of a wave called?",
+    "choices": ["Barrel", "Tube", "Curl", "Face"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which BMX discipline involves performing tricks on a flat dirt or paved area?",
+    "choices": ["Race", "Flatland", "Vert", "Street"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the primary focus of the X Games Summer Skateboarding Street competition?",
+    "choices": ["Speed and distance", "Technical tricks on urban architecture", "Longest grind", "Most flip combinations"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In rock climbing, what is the route-setting practice called where climbers ascend without ropes?",
+    "choices": ["Sport climbing", "Bouldering", "Top-rope climbing", "Aid climbing"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which snowboarder won multiple gold medals for the slopestyle event at the Winter X Games?",
+    "choices": ["Mark McMorris", "Shaun White", "Chloe Kim", "Jamie Anderson"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the skateboarding trick called when a skater launches off the board and lands back on it?",
+    "choices": ["Kickflip", "Kickflop", "Varial flip", "Impossible"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In surfing terminology, what is the face of the wave where surfers ride?",
+    "choices": ["The shoulder", "The wall", "The line", "The pocket"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which pioneer of modern street skateboarding is known for inventing the kickflip?",
+    "choices": ["Ryan Sheckler", "Rodney Mullen", "Eric Koston", "Jason Jesse"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What BMX trick involves riding backward while balancing on the handlebars and rear wheel?",
+    "choices": ["Tailwhip", "Wheelie", "Endo", "Backward wheelie"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In snowboarding, what is the discipline where riders race head-to-head down a steep course?",
+    "choices": ["Halfpipe", "Slopestyle", "Boardercross", "Big air"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which rock climbing discipline involves climbers attempting the hardest routes possible on natural cliffs?",
+    "choices": ["Sport climbing", "Trad climbing", "Bouldering", "Ice climbing"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the skateboarding term for riding on the nose or tail of the board with the other end elevated?",
+    "choices": ["Boneless", "Manual", "Nollie", "Fakie"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In big wave surfing, what technology is used to help surfers paddle into massive waves quickly?",
+    "choices": ["Jet ski tow-in", "Helicopter drop", "Cable assistance", "Wave machine"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which X Games discipline requires athletes to navigate an obstacle course on snowboards?",
+    "choices": ["Halfpipe", "Slopestyle", "Big air", "Boardercross"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What BMX freestyle discipline involves performing tricks on a course with specially designed obstacles?",
+    "choices": ["Vert", "Park", "Dirt jumping", "Street BMX"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In skateboarding, what is the name of the ramp shaped like an inverted cone where skaters ride on walls?",
+    "choices": ["Halfpipe", "Pyramid", "Bowl", "Vert ramp"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which legendary big wave surfer survived a shark bite while surfing in Hawaii in 2013?",
+    "choices": ["Garrett McNamara", "Ross Clarke-Jones", "Mark Richards", "Kai Lenny"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the rock climbing discipline where athletes compete on indoor walls to reach the highest point?",
+    "choices": ["Speed climbing", "Lead climbing", "Bouldering", "Sport climbing"],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In snowboarding's halfpipe, what is the vertical section at the end of the pipe called?",
+    "choices": ["Transition", "Coping", "Lip", "Bank"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which skateboarding legend is known for developing the modern kickflip and numerous variations?",
+    "choices": ["Tony Hawk", "Rodney Mullen", "Nyjah Huston", "Bob Burnquist"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the BMX discipline where riders compete on a track with jumps and berms, racing against others?",
+    "choices": ["Flatland", "Vert", "BMX racing", "Street BMX"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In big wave surfing, what measurement is used to describe wave height from trough to crest?",
+    "choices": ["Hawaiian scale", "Face height", "European scale", "Impact scale"],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which snowboarder won the first Winter X Games halfpipe gold medal in 1997?",
+    "choices": ["Shaun White", "Ross Powers", "Danny Kass", "Terje Haakonsen"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What rock climbing protection method involves placing removable chocks into cracks and crevices?",
+    "choices": ["Spring-loaded cams", "Passive protection", "Bolts", "Pitons"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In skateboarding's streetstyle, which trick involves flipping while rotating the board 360 degrees?",
+    "choices": ["Shove-it", "Kickflip", "Heelflip", "360 flip"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which pioneering surfer is credited with inventing the modern shortboard in the 1960s?",
+    "choices": ["Duke Kahanamoku", "Shaun Tomson", "Mark Richards", "Bob Simmons"],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the BMX trick where the rider completes a full rotation while the bike does a 180-degree spin?",
+    "choices": ["Tailwhip", "Barspins", "360 spin", "Funky chicken"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In rock climbing's speed discipline, climbers race to ascend a standardized wall of how many meters?",
+    "choices": ["12 meters", "15 meters", "18 meters", "20 meters"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the snowboarding discipline where athletes launch from a ramp and spin multiple rotations in the air?",
+    "choices": ["Slopestyle", "Big air", "Halfpipe", "Quarterpipe"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which legendary skateboarding icon landed the first-ever 900 in competition at the X Games?",
+    "choices": ["Bob Burnquist", "Rodney Mullen", "Evel Knievel", "Andrew Reynolds"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What surfing term refers to the moment when a surfer's body is positioned low during a cutback maneuver?",
+    "choices": ["Trim", "Pump", "Bottom turn", "Rail grab"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In BMX vert, what is the horizontal bar at the top of a vert ramp that riders launch from called?",
+    "choices": ["Handlebars", "Lip", "Coping", "Edge"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which rock climbing athlete holds the record for the fastest speed climb on the standardized wall?",
+    "choices": ["Aleksandra Miroslaw", "Natalia Kuziutina", "Tomoa Narasaki", "Sam Watson"],
+    "correctIndex": 2,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What is the skateboarding trick called when a skater grinds on an obstacle with the tail of the board hanging over?",
+    "choices": ["Willy grind", "5-0 grind", "Boardslide", "Nosegrind"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In big wave surfing, which Hawaiian beach is known as one of the most dangerous and prestigious breaks?",
+    "choices": ["Oahu North Shore", "Pipeline", "Waimea Bay", "Sunset Beach"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What snowboarding discipline requires competitors to navigate between gates while racing downhill?",
+    "choices": ["Slopestyle", "Halfpipe", "Boardercross", "Parallel slalom"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which BMX pioneer popularized the sport globally and invented numerous tricks that defined modern BMX freestyle?",
+    "choices": ["Matt Hoffman", "Ryan Nyquist", "Taj Mihelich", "Dave Mirra"],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In rock climbing, what is the technique called when a climber places their entire body weight on their arms to ascend?",
+    "choices": ["Mantel shelf", "Chimney technique", "Jug usage", "Dyno"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "What is the skateboarding discipline where skaters perform tricks on a vert ramp with a 12-foot transition?",
+    "choices": ["Halfpipe", "Street", "Park", "Vert skating"],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which surf spot is known as the coldest major big wave destination in the world?",
+    "choices": ["Sunset Beach", "Jaws", "Mavericks", "Mullaghmore Head"],
+    "correctIndex": 1,
+    "difficulty": 0.90
+  },
+  {
+    "text": "In snowboarding, what is the Olympic discipline that combines slopestyle and big air into one event?",
+    "choices": ["Halfpipe", "Big air slopestyle", "Slopestyle big air", "Combined disciplines"],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What rock climbing term describes a crack climb requiring the climber to insert parts of their body into a rock crack?",
+    "choices": ["Jugs", "Slopers", "Offwidth climbing", "Crimps"],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  }
+]

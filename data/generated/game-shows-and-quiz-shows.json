@@ -1,0 +1,420 @@
+[
+  {
+    "text": "Which game show is famous for contestants choosing from a board of hidden prizes and answering in a head-to-head lightning round?",
+    "choices": [
+      "Jeopardy!",
+      "Wheel of Fortune",
+      "The Price Is Right",
+      "Let's Make a Deal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which quiz show is known for its answer-and-question format and the Tournament of Champions?",
+    "choices": [
+      "Jeopardy!",
+      "Who Wants to Be a Millionaire?",
+      "The Chase",
+      "The Weakest Link"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which daytime game show is famous for the phrase 'Come on down!'?",
+    "choices": [
+      "The Price Is Right",
+      "Deal or No Deal",
+      "Family Feud",
+      "Press Your Luck"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which game show has long featured contestants trying to win cash by avoiding the Big Bank and the Whammy?",
+    "choices": [
+      "Press Your Luck",
+      "Supermarket Sweep",
+      "Beat the Clock",
+      "Card Sharks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which game show is associated with a giant money board, car prices, and Plinko?",
+    "choices": [
+      "The Price Is Right",
+      "Family Feud",
+      "Let’s Make a Deal",
+      "The Match Game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which show asked contestants to survey top answers and became famous for the phrase 'Good answer!'",
+    "choices": [
+      "Family Feud",
+      "The Newlywed Game",
+      "Wheel of Fortune",
+      "The Weakest Link"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which host became especially associated with Family Feud after Richard Dawson and later Steve Harvey?",
+    "choices": [
+      "Steve Harvey",
+      "Bob Barker",
+      "Alex Trebek",
+      "Pat Sajak"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which game show featured contestants opening briefcases held by models to reveal hidden dollar amounts?",
+    "choices": [
+      "Deal or No Deal",
+      "The Price Is Right",
+      "Cash Cab",
+      "Pyramid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which British import is known for quick cash rounds, a shrinking money ladder, and the phrase 'The weakest link is...'? ",
+    "choices": [
+      "The Weakest Link",
+      "The Chase",
+      "Tipping Point",
+      "Countdown"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which quiz show centers on a contestant riding in a taxi and answering questions for fares?",
+    "choices": [
+      "Cash Cab",
+      "Are You Smarter Than a 5th Grader?",
+      "1 vs. 100",
+      "Who Wants to Be a Millionaire?"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which 1990s show featured a giant head-shaped 'double dare' challenge, physical slime, and obstacle courses?",
+    "choices": [
+      "Double Dare",
+      "Legends of the Hidden Temple",
+      "GUTS",
+      "Nick Arcade"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Nick game show is known for temple runs, Silver Monkey, and the Olmec host?",
+    "choices": [
+      "Legends of the Hidden Temple",
+      "Global Guts",
+      "Figure It Out",
+      "What Would You Do?"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which game show had contestants climbing a dueling mountain and used the catchphrase 'Get ready to GUTS!'?",
+    "choices": [
+      "GUTS",
+      "Double Dare",
+      "Wild and Crazy Kids",
+      "Nickelodeon Guts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which game show is famous for the phrase 'Survey says!' and asking families to guess the most popular answers?",
+    "choices": [
+      "Family Feud",
+      "Password",
+      "The Newlywed Game",
+      "Match Game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which long-running NBC game show is associated with a spinning wheel, bankrupt spaces, and solving puzzles?",
+    "choices": [
+      "Wheel of Fortune",
+      "Jeopardy!",
+      "The Price Is Right",
+      "Hollywood Squares"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which host is most associated with Wheel of Fortune's long daytime run before taking over the prime-time era as well?",
+    "choices": [
+      "Pat Sajak",
+      "Alex Trebek",
+      "Bob Barker",
+      "Monty Hall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which game show paired contestants with celebrities to guess phrases in a mostly word-association format?",
+    "choices": [
+      "Password",
+      "Match Game",
+      "Pyramid",
+      "Card Sharks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which game show was notorious for witty panelists, zany fill-in-the-blank questions, and Charles Nelson Reilly?",
+    "choices": [
+      "Match Game",
+      "The Newlywed Game",
+      "Hollywood Squares",
+      "The Gong Show"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which classic NBC game show used celebrity panelists on a tic-tac-toe board and later became a pop-culture staple of 1970s TV?",
+    "choices": [
+      "Hollywood Squares",
+      "Match Game",
+      "Pyramid",
+      "Password"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show is remembered for absurd amateur performances and an unpredictable judge in a giant swinging booth?",
+    "choices": [
+      "The Gong Show",
+      "Star Search",
+      "American Bandstand",
+      "Name That Tune"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which host became a defining figure of The Gong Show and its deliberately chaotic energy?",
+    "choices": [
+      "Chuck Barris",
+      "Gene Rayburn",
+      "Bob Eubanks",
+      "Merv Griffin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show features contestants climbing a money ladder by answering increasingly difficult trivia questions?",
+    "choices": [
+      "Who Wants to Be a Millionaire?",
+      "The Chase",
+      "Jeopardy!",
+      "Tic Tac Dough"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show pits a contestant against a team of expert quizzers with a money-board strategy?",
+    "choices": [
+      "The Chase",
+      "Jeopardy!",
+      "Weakest Link",
+      "Who Wants to Be a Millionaire?"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which ABC game show was hosted by Regis Philbin at the height of its pop-culture dominance?",
+    "choices": [
+      "Who Wants to Be a Millionaire?",
+      "Deal or No Deal",
+      "1 vs. 100",
+      "The Moment of Truth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show has contestants unscrambling vocabulary clues with the help of letters and a 'Pyramid' structure?",
+    "choices": [
+      "The $25,000 Pyramid",
+      "Password",
+      "Tic Tac Dough",
+      "Concentration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which quiz show was revived by Fox and later became known for buzzer strategy and aggressive question selection?",
+    "choices": [
+      "The Weakest Link",
+      "Jeopardy!",
+      "Are You Smarter Than a 5th Grader?",
+      "The Chase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show used a celebrity host, a contestant's mobility around the city, and trivia-based income?",
+    "choices": [
+      "Cash Cab",
+      "Beat Shazam",
+      "Family Feud",
+      "The Price Is Right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Nickelodeon game show asked kids to identify slime-covered mystery objects and answer goofy trivia?",
+    "choices": [
+      "Figure It Out",
+      "Double Dare",
+      "Nick Arcade",
+      "Legends of the Hidden Temple"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which 1980s game show became known for physical challenges and the phrase 'Beat the Clock'?",
+    "choices": [
+      "Beat the Clock",
+      "Guts",
+      "Double Dare",
+      "Supermarket Sweep"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show featured couples competing on the basis of how well they knew each other and was associated with Bob Eubanks?",
+    "choices": [
+      "The Newlywed Game",
+      "Family Feud",
+      "The Dating Game",
+      "Match Game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which show paired a celebrity host with contestants choosing from categories and revealed the phrase 'Come on down' most directly?",
+    "choices": [
+      "The Price Is Right",
+      "Let's Make a Deal",
+      "Press Your Luck",
+      "Card Sharks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show format is based on trading, bargaining, and choosing among hidden prizes?",
+    "choices": [
+      "Let's Make a Deal",
+      "The Price Is Right",
+      "Password",
+      "Pyramid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which contestant-driven show involved a giant supermarket set and shopping carts racing for prize totals?",
+    "choices": [
+      "Supermarket Sweep",
+      "Shop 'Til You Drop",
+      "The Price Is Right",
+      "Shop Smart"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show used board-game-like squares and clues from celebrity panelists in a very 1970s style?",
+    "choices": [
+      "Hollywood Squares",
+      "The Gong Show",
+      "Pyramid",
+      "Password"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which American quiz show is especially associated with Ken Jennings as a record-setting champion and later host figure?",
+    "choices": [
+      "Jeopardy!",
+      "The Chase",
+      "Who Wants to Be a Millionaire?",
+      "The Weakest Link"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show format often uses rapid-fire buzzer rounds, daily doubles, and a Final round with wagered points?",
+    "choices": [
+      "Jeopardy!",
+      "The Chase",
+      "Wheel of Fortune",
+      "Pyramid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which show hosted by Monty Hall made trading and audience participation central to the format?",
+    "choices": [
+      "Let's Make a Deal",
+      "The Price Is Right",
+      "Password",
+      "Family Feud"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game show featured trivia and physical competition on Nickelodeon and was shortened to a single word title?",
+    "choices": [
+      "Nick Arcade",
+      "GUTS",
+      "Double Dare",
+      "Legends"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  }
+]

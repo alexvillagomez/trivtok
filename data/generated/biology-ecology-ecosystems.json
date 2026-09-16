@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Which trophic level consists of organisms that eat plants?",
+    "choices": ["Producer", "Primary consumer", "Decomposer", "Apex predator"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the primary role of decomposers in an ecosystem?",
+    "choices": ["Hunting prey", "Producing food from sunlight", "Breaking down dead organic matter", "Competing for resources"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which biome is characterized by permafrost and extremely low temperatures?",
+    "choices": ["Desert", "Tundra", "Savanna", "Temperate forest"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What type of relationship exists between a clownfish and a sea anemone, where both benefit?",
+    "choices": ["Predation", "Mutualism", "Parasitism", "Competition"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In the nitrogen cycle, which process converts atmospheric nitrogen into a usable form?",
+    "choices": ["Denitrification", "Nitrogen fixation", "Nitrification", "Decomposition"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How much energy is approximately transferred from one trophic level to the next?",
+    "choices": ["50%", "90%", "10%", "75%"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which of the following is an abiotic factor in an ecosystem?",
+    "choices": ["Predator population", "Plant species", "Soil pH", "Insect behavior"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What term describes the variety of all species in an ecosystem?",
+    "choices": ["Biodiversity", "Succession", "Adaptation", "Mutation"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In a food web, an organism that eats both plants and animals is called a(n)",
+    "choices": ["Herbivore", "Carnivore", "Omnivore", "Scavenger"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which biome has the most rainfall and the highest biodiversity?",
+    "choices": ["Grassland", "Tropical rainforest", "Boreal forest", "Wetland"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the name of the relationship where a tapeworm lives inside a host and harms it?",
+    "choices": ["Mutualism", "Parasitism", "Commensalism", "Predation"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which process releases carbon dioxide back into the atmosphere in the carbon cycle?",
+    "choices": ["Photosynthesis", "Respiration", "Fossilization", "Decomposition"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "A population of rabbits in a forest has access to abundant food and no predators. What will likely happen?",
+    "choices": ["Steady decline", "Exponential growth", "Remain constant", "Migrate elsewhere"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In aquatic ecosystems, which zone receives the most sunlight and contains most photosynthetic organisms?",
+    "choices": ["Benthic zone", "Twilight zone", "Photic zone", "Abyssal zone"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which type of symbiosis exists when one organism benefits and the other is unaffected?",
+    "choices": ["Mutualism", "Parasitism", "Commensalism", "Competition"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What happens to nutrients as they cycle through the biotic and abiotic components of an ecosystem?",
+    "choices": ["They are lost to space", "They accumulate in organisms", "They are recycled", "They decrease over time"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In the phosphorus cycle, where is the largest reservoir of phosphorus stored?",
+    "choices": ["Atmosphere", "Rocks and soil", "Living organisms", "Clouds"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which of these is NOT a density-dependent limiting factor for population growth?",
+    "choices": ["Competition for food", "Disease", "Earthquake", "Predation"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the primary driver of ecological succession in a previously barren area?",
+    "choices": ["Animal migration", "Pioneer species colonization", "Climate change", "Human intervention"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which conservation strategy involves protecting large areas of habitat to maintain ecosystem integrity?",
+    "choices": ["Species reintroduction", "Protected reserves", "Captive breeding", "Habitat restoration"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In a food web with 1,000 kcal of energy at the producer level, approximately how much energy is available to apex predators?",
+    "choices": ["100 kcal", "10 kcal", "1 kcal", "500 kcal"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the carrying capacity of an environment?",
+    "choices": ["The growth rate of a population", "The maximum population size an environment can sustain", "The minimum population needed for survival", "The rate of resource consumption"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which forest biome experiences the most dramatic seasonal changes in temperature and daylight?",
+    "choices": ["Tropical rainforest", "Boreal forest", "Temperate deciduous forest", "Savanna"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In the water cycle, what is the process by which water evaporates from plant leaves?",
+    "choices": ["Condensation", "Transpiration", "Infiltration", "Precipitation"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which type of ecosystem has the lowest biodiversity?",
+    "choices": ["Coral reef", "Desert", "Temperate forest", "Estuary"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What ecological principle explains why there are fewer top predators than herbivores?",
+    "choices": ["Limiting factors", "Energy transfer efficiency", "Logistic growth", "Density dependence"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Primary succession typically occurs after",
+    "choices": ["A forest fire", "A volcanic eruption creating new land", "A flood", "Logging"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which of these organisms plays the most crucial role in nutrient cycling?",
+    "choices": ["Apex predators", "Herbivores", "Decomposers", "Producers"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "How do mycorrhizal fungi assist plants in their survival?",
+    "choices": ["By providing shade", "By decomposing dead matter", "By absorbing water and nutrients from soil", "By fixing nitrogen"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the primary threat to biodiversity in tropical rainforests?",
+    "choices": ["Pollution", "Climate change", "Habitat loss from deforestation", "Invasive species"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which of the following best describes an invasive species' impact on native ecosystems?",
+    "choices": ["They always improve ecosystem health", "They can outcompete native species and disrupt food webs", "They have no significant effect", "They help restore habitats"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In lake ecosystems, eutrophication occurs when",
+    "choices": ["Fish populations increase dramatically", "Excess nutrients lead to algal blooms and oxygen depletion", "Water temperature drops", "Predator populations decline"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The term 'keystone species' refers to an organism that",
+    "choices": ["Is the most abundant in an ecosystem", "Has a disproportionately large effect on ecosystem structure despite small population size", "Is at the top of the food chain", "Migrates seasonally"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which process is responsible for maintaining the oxygen levels in Earth's atmosphere?",
+    "choices": ["Respiration by decomposers", "Nitrogen fixation", "Photosynthesis by producers", "Combustion of fossil fuels"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In predator-prey dynamics, what typically happens to the prey population after predators decline?",
+    "choices": ["It remains stable", "It increases initially, then declines as predators recover", "It decreases permanently", "It remains at carrying capacity"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which adaptation allows desert plants to survive with minimal water?",
+    "choices": ["Large, thin leaves", "Reduced root systems", "Thick, waxy cuticles and deep roots", "Rapid reproduction cycles"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The concept of 'ecological niche' most accurately describes",
+    "choices": ["An organism's geographic location", "An organism's role and habitat requirements in its environment", "The size of an organism's population", "An organism's predators"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which of the following is an example of resource partitioning in an ecosystem?",
+    "choices": ["Two predators hunting the same prey", "Two bird species nesting at different heights in the same tree", "Multiple predators competing for territory", "Parasites infecting the same host"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In the sulfur cycle, bacteria play a role in converting sulfur between",
+    "choices": ["Atmospheric and aquatic forms", "Different oxidation states in soil and water", "Organic and inorganic compounds", "Living and dead matter"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the trophic level efficiency, and why does energy decrease at each level?",
+    "choices": ["90%; energy is stored as fat", "10%; most energy is lost as heat during metabolic processes", "50%; some organisms don't get eaten", "30%; predators are less efficient"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which of these processes contributes most to genetic diversity within populations?",
+    "choices": ["Predation", "Mutation and recombination", "Ecosystem succession", "Climate variation"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "How does the Allee effect influence small population dynamics?",
+    "choices": ["It increases population growth rate", "It decreases fitness when population size becomes too small", "It prevents emigration", "It promotes resource abundance"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In mangrove ecosystems, what is the primary ecological function they provide?",
+    "choices": ["Oxygen production", "Nutrient cycling only", "Nursery habitat for fish and protection from erosion", "Carbon sequestration exclusively"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which adaptation demonstrates convergent evolution in desert ecosystems across continents?",
+    "choices": ["Identical DNA sequences", "Similar body structures despite different evolutionary origins", "Identical behavioral patterns", "Shared parasites"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How do biogeochemical cycles differ between carbon and nitrogen cycles in their primary reservoirs?",
+    "choices": ["Both are primarily in the atmosphere", "Carbon is primarily in rocks/ocean; nitrogen is primarily in the atmosphere", "Nitrogen is primarily in rocks; carbon is in the atmosphere", "Both cycles have equal atmospheric reservoirs"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the mechanism by which shade-tolerant species outcompete shade-intolerant species during secondary succession?",
+    "choices": ["They grow faster", "They reproduce earlier", "They grow under reduced light conditions as pioneers create shade", "They have larger seeds"],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In the context of meta-population dynamics, how do immigration and emigration affect population viability?",
+    "choices": ["They have no effect on survival", "Connectivity between patches increases survival probability of small populations", "They always lead to population decline", "Immigration always causes competitive exclusion"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which of the following best explains the biomagnification of persistent toxins through food webs?",
+    "choices": ["Toxins are metabolized faster in predators", "Toxins are excreted in herbivores", "Toxins accumulate in tissues and concentrate at higher trophic levels", "Toxins dissipate with each energy transfer"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  }
+]

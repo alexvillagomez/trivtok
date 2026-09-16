@@ -1,0 +1,497 @@
+[
+  {
+    "text": "What was Muhammad Ali's birth name?",
+    "choices": [
+      "Cassius Marcellus Clay Jr.",
+      "Louisville Clay",
+      "Elijah Muhammad",
+      "Angelo Dundee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "In 1997, Mike Tyson bit off part of which opponent's ear during their heavyweight title fight?",
+    "choices": [
+      "Lennox Lewis",
+      "Evander Holyfield",
+      "Frank Bruno",
+      "Larry Holmes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the lightest weight class in professional boxing?",
+    "choices": [
+      "Featherweight",
+      "Super Flyweight",
+      "Strawweight",
+      "Minimum Weight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Floyd Mayweather Jr. retired with an undefeated professional record. How many wins?",
+    "choices": [
+      "48",
+      "50",
+      "52",
+      "54"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which sport is Ronda Rousey primarily known for competing in?",
+    "choices": [
+      "Mixed Martial Arts",
+      "Professional Wrestling",
+      "Kickboxing",
+      "Muay Thai"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What does UFC stand for in combat sports?",
+    "choices": [
+      "Ultra Fighting Championship",
+      "Ultimate Fighting Championship",
+      "Universal Fight Collective",
+      "Unified Fighting Code"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In the famous 'Rumble in the Jungle' in 1974, who did Muhammad Ali defeat?",
+    "choices": [
+      "Joe Frazier",
+      "George Foreman",
+      "Sonny Liston",
+      "Cleveland Williams"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Tyson Fury is famously known by what nickname?",
+    "choices": [
+      "The King",
+      "The Gypsy King",
+      "The Steel Hammer",
+      "The British Bomb"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the standard number of rounds in a professional heavyweight boxing match?",
+    "choices": [
+      "12",
+      "15",
+      "10",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Conor McGregor is from which country?",
+    "choices": [
+      "England",
+      "Scotland",
+      "Ireland",
+      "Wales"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Judo, what is the highest rank a practitioner can achieve?",
+    "choices": [
+      "5th Dan",
+      "10th Dan",
+      "8th Dan",
+      "6th Dan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Canelo Alvarez's real first name is?",
+    "choices": [
+      "Carlos",
+      "Santos",
+      "Saul",
+      "Miguel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What year did the underdog James Buster Douglas defeat Mike Tyson in a major upset?",
+    "choices": [
+      "1988",
+      "1989",
+      "1990",
+      "1991"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In boxing, what is a 'clinch'?",
+    "choices": [
+      "Holding the opponent to avoid striking",
+      "A knockout blow",
+      "A scoring technique",
+      "Excessive swinging"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many Olympic gold medals did Muhammad Ali win as an amateur boxer?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Manny Pacquiao, known as 'Pac-Man', primarily competed in which weight classes during his career?",
+    "choices": [
+      "Welterweight and Middleweight",
+      "Flyweight through Middleweight",
+      "Lightweight through Welterweight",
+      "Middleweight and Super Middleweight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the term for a throw in Judo that scores the maximum points?",
+    "choices": [
+      "Waza-ari",
+      "Shido",
+      "Ippon",
+      "Matte"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In MMA, what is the primary grappling position called when one fighter controls an opponent from above?",
+    "choices": [
+      "Mount",
+      "Guard",
+      "Side Control",
+      "Back Control"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which of these boxers never fought Muhammad Ali?",
+    "choices": [
+      "Joe Frazier",
+      "George Foreman",
+      "Lennox Lewis",
+      "Sonny Liston"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Anderson Silva held the UFC Middleweight title for how many consecutive title defenses?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does Greco-Roman wrestling primarily emphasize compared to freestyle?",
+    "choices": [
+      "Leg attacks",
+      "Upper body techniques only",
+      "Ground fighting",
+      "Speed over strength"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In boxing, a fighter receives how many official warnings (Shido equivalent) before disqualification?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which boxer was nicknamed 'The Real Deal' and held multiple heavyweight titles?",
+    "choices": [
+      "Lennox Lewis",
+      "Evander Holyfield",
+      "Frank Bruno",
+      "Big George Foreman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "When modern professional boxing began, what were the standard Queensberry Rules minimum glove weight?",
+    "choices": [
+      "6 ounces",
+      "8 ounces",
+      "10 ounces",
+      "12 ounces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Jon Jones has competed primarily in which UFC weight class?",
+    "choices": [
+      "Middleweight",
+      "Heavyweight",
+      "Light Heavyweight",
+      "Welterweight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the point value awarded for a successful throw in Judo competition?",
+    "choices": [
+      "2 points",
+      "3 points",
+      "4 points",
+      "5 points"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In 1974, the 'Thriller in Manila' was the third heavyweight bout between Muhammad Ali and?",
+    "choices": [
+      "Joe Frazier",
+      "George Foreman",
+      "Evander Holyfield",
+      "Larry Holmes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Khabib Nurmagomedov was an undefeated fighter in which combat sport?",
+    "choices": [
+      "Judo",
+      "Wrestling",
+      "Mixed Martial Arts",
+      "Kickboxing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a 'checkmate' position called in wrestling terminology?",
+    "choices": [
+      "Pinfall",
+      "Fall",
+      "Mat position",
+      "Lock"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How many weight classes exist in standard professional boxing sanctioning organizations?",
+    "choices": [
+      "15",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In MMA, what is the standard cage size used in professional UFC events?",
+    "choices": [
+      "25 feet diameter",
+      "30 feet diameter",
+      "35 feet diameter",
+      "40 feet diameter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Lennox Lewis held heavyweight titles in which era?",
+    "choices": [
+      "1980s-1990s",
+      "1990s-2000s",
+      "1970s-1980s",
+      "2000s-2010s"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the minimum number of rounds required for a boxing match to be declared official?",
+    "choices": [
+      "2 rounds",
+      "3 rounds",
+      "4 rounds",
+      "Half the scheduled rounds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Judo, what position is called 'Ne-waza'?",
+    "choices": [
+      "Standing techniques",
+      "Throwing techniques",
+      "Grappling on the ground",
+      "Balance techniques"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which boxer famously changed his name from Cassius Clay for religious reasons?",
+    "choices": [
+      "Malcolm X",
+      "Muhammad Ali",
+      "Nation of Islam",
+      "Joe Louis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was Mike Tyson's record as an undefeated heavyweight champion (before his first loss)?",
+    "choices": [
+      "35-0",
+      "37-0",
+      "40-0",
+      "45-0"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In boxing scoring, what is a 'round' typically worth in points?",
+    "choices": [
+      "5 points",
+      "10 points",
+      "15 points",
+      "Variable based on judges"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Goro Takeda and which legendary wrestler brought professional wrestling legitimacy to Japan?",
+    "choices": [
+      "Antonio Inoki",
+      "Giant Baba",
+      "Riki Choshu",
+      "Masa Saito"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the formal name of boxing's most prestigious amateur championship?",
+    "choices": [
+      "World Amateur Boxing Organization",
+      "Amateur Boxing Association",
+      "Amateur International Boxing Federation",
+      "International Amateur Boxing Association"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In UFC title fights, how many rounds are typically scheduled?",
+    "choices": [
+      "3",
+      "5",
+      "7",
+      "10"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What combat sport features eight 'points of contact' for scoring strikes?",
+    "choices": [
+      "Muay Thai",
+      "Kickboxing",
+      "Karate",
+      "Taekwondo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "During the peak of the 'Thrilla in Manila', what physical issue nearly stopped Muhammad Ali?",
+    "choices": [
+      "Broken rib",
+      "Eye damage",
+      "Cut above eyebrow",
+      "Swollen ankle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the professional boxing term for a punch that travels in a circular arc?",
+    "choices": [
+      "Jab",
+      "Cross",
+      "Hook",
+      "Uppercut"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many judges typically score a professional boxing match?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was Sugar Ray Leonard's most famous hand speed technique called?",
+    "choices": [
+      "The Sugar Shuffle",
+      "The Leonard Combination",
+      "The Flicker",
+      "The Speed Blur"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "text": "Which ancient kingdom is credited with inventing the world's first standardized coins?",
+    "choices": ["Ancient Egypt", "The Kingdom of Lydia", "The Roman Empire", "Ancient Persia"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What precious metal dominated ancient Greek coinage?",
+    "choices": ["Gold", "Bronze", "Silver", "Copper"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The Silk Road primarily connected which two regions?",
+    "choices": ["Africa and Europe", "Asia and Europe", "North America and Asia", "South America and Africa"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Under the gold standard, what was the currency directly tied to?",
+    "choices": ["Grain production", "A fixed weight of precious metal", "Government bonds", "Land value"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In what year did the stock market crash trigger the Great Depression?",
+    "choices": ["1927", "1929", "1931", "1933"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which term describes the 1987 stock market collapse?",
+    "choices": ["Crash Thursday", "Black Monday", "Red Tuesday", "Dark Friday"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "A central bank's primary role is to do what?",
+    "choices": ["Manage individual customer accounts", "Control the money supply and set interest rates", "Own all commercial banks", "Print currency without oversight"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which civilization pioneered the use of paper money?",
+    "choices": ["Ancient Rome", "Medieval Europe", "Medieval China", "Islamic Golden Age"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Byzantine Empire widely used gold coins known as what?",
+    "choices": ["Denarii", "Solidi", "Dinars", "Dirhams"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What was the name of the primary Roman coin used for centuries?",
+    "choices": ["Aureus", "Denarius", "Sestertius", "Dupondius"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which trading route was essential for the spice trade between Asia and Europe?",
+    "choices": ["The Amber Road", "The Incense Route", "The Spice Route", "The Tea Road"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was the most valued spice driving European trade with Asia in the 16th century?",
+    "choices": ["Cinnamon", "Black pepper", "Turmeric", "Nutmeg"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Hanseatic League dominated trade in which region during the medieval period?",
+    "choices": ["Mediterranean", "Baltic Sea", "North Sea", "Atlantic Coast"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country first formally adopted the gold standard as a monetary system?",
+    "choices": ["France", "Germany", "The United States", "Great Britain"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What economic policy did the Smoot-Hawley Tariff impose during the Great Depression era?",
+    "choices": ["Direct government subsidies to farmers", "High taxes on imported goods", "Currency devaluation measures", "Wage controls"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which president ordered the end of the US gold standard?",
+    "choices": ["Franklin Roosevelt", "John Kennedy", "Richard Nixon", "Gerald Ford"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What international monetary agreement followed World War II?",
+    "choices": ["Marshall Plan", "Bretton Woods Conference", "Paris Peace Treaty", "Geneva Accord"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The Dutch controlled which major trade commodity in the 17th century?",
+    "choices": ["Silk", "Spices", "Furs", "Opium"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What was the primary cause of the Great Depression's severity?",
+    "choices": ["Drought across America", "Speculative excess and bank failures", "Foreign invasion", "Plague"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Chinese explorer led voyages that opened new maritime trade routes?",
+    "choices": ["Kublai Khan", "Zheng He", "Marco Polo", "Genghis Khan"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What was the approximate unemployment rate at the peak of the Great Depression?",
+    "choices": ["Around 5%", "Around 15%", "Around 25%", "Around 40%"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The first stock exchange in the modern sense was established in which city?",
+    "choices": ["London", "Amsterdam", "Venice", "Paris"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What major financial innovation was developed by the Dutch trading companies?",
+    "choices": ["Paper currency", "Joint-stock company", "Central banking", "Paper checks"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which early central bank was established in Sweden in 1668?",
+    "choices": ["Riksbank", "Sveriges Bank", "Stockholm Bank", "Nordic Bank"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What commodity formed the backbone of the East India Company's trade?",
+    "choices": ["Tea", "Spices", "Textiles", "Porcelain"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In what year did the US abandon the gold standard?",
+    "choices": ["1944", "1960", "1971", "1985"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which financial crisis occurred in 2008 due to subprime mortgages?",
+    "choices": ["Dot-com bubble", "Savings and loan crisis", "Global financial crisis", "Tulip mania"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What were the banking crises of the 1930s primarily triggered by?",
+    "choices": ["Foreign competition", "War reparations", "Stock market collapse and speculation", "Foreign currency manipulation"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which financial instrument was central to the 2008 financial crisis?",
+    "choices": ["Treasury bonds", "Collateralized debt obligations (CDOs)", "Stock options", "Currency derivatives"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What percentage did US stock values decline during the Great Depression?",
+    "choices": ["Around 50%", "Around 70%", "Around 90%", "Almost 100%"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In what year was the New York Stock Exchange (NYSE) founded?",
+    "choices": ["1776", "1792", "1817", "1850"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The dot-com bubble burst in which year?",
+    "choices": ["1995", "2000", "2005", "2010"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which bank is considered the world's oldest surviving bank?",
+    "choices": ["The Bank of England", "Monte dei Paschi di Siena", "The Federal Reserve", "JP Morgan"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What was the name of the Persian gold coins of antiquity?",
+    "choices": ["Aureus", "Daric", "Solidus", "Nomisma"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In what year did hyperinflation devastate the Weimar German economy?",
+    "choices": ["1920", "1923", "1926", "1930"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which economic measure was used to combat the Great Depression?",
+    "choices": ["Currency manipulation", "The Federal Deposit Insurance Corporation (FDIC)", "Trade wars", "Increased military spending"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What commodity was traded most heavily on the Silk Road?",
+    "choices": ["Precious metals", "Silk", "Spices", "Wine"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which event led to the adoption of the Bretton Woods system?",
+    "choices": ["The Great Depression", "The end of World War II", "The oil crisis", "The Vietnam War"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The monetary system that pegged currencies to the US dollar was known as what?",
+    "choices": ["The gold standard", "The currency peg", "Bretton Woods", "The reserve standard"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What Italian city-state pioneered modern banking in the Renaissance?",
+    "choices": ["Rome", "Florence", "Venice", "Milan"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which medieval trade organization protected merchants in northern Europe?",
+    "choices": ["The Venetian Republic", "The Hanseatic League", "The Medici Bank", "The Ottoman Sultanate"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What caused the tulip mania crisis in 17th-century Netherlands?",
+    "choices": ["Actual flower scarcity", "Speculative trading in bulb futures", "Agricultural disease", "Trade embargo"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which trade route carried goods between the Middle East and China?",
+    "choices": ["The Spice Route", "The Silk Road", "The Incense Route", "The Amber Road"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What institution prints currency and manages money supply in most modern nations?",
+    "choices": ["The commercial banks", "The treasury department", "The central bank", "The stock exchange"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  }
+]

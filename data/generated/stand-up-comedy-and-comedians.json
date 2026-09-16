@@ -1,0 +1,992 @@
+[
+  {
+    "text": "Which comedian's 1983 concert film made the white suit and red tie an enduring signature look?",
+    "choices": [
+      "George Carlin",
+      "Steve Martin",
+      "Eddie Murphy",
+      "Richard Pryor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who released the stand-up special Killin' Them Softly in 2000?",
+    "choices": [
+      "Chris Rock",
+      "Dave Chappelle",
+      "Cedric the Entertainer",
+      "D.L. Hughley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian hosted The Daily Show from 1999 to 2015?",
+    "choices": [
+      "Stephen Colbert",
+      "Jon Stewart",
+      "Craig Kilborn",
+      "John Oliver"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What legendary Los Angeles club is closely associated with Mitzi Shore and generations of stand-ups?",
+    "choices": [
+      "The Laugh Factory",
+      "The Ice House",
+      "The Comedy Store",
+      "Flappers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian's breakthrough 1996 HBO special was titled Bring the Pain?",
+    "choices": [
+      "Chris Tucker",
+      "Chris Rock",
+      "Martin Lawrence",
+      "Bernie Mac"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who became widely known for the blue-collar catchphrase 'You might be a redneck if...?'",
+    "choices": [
+      "Bill Engvall",
+      "Larry the Cable Guy",
+      "Jeff Foxworthy",
+      "Ron White"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian created and starred in the FX series Louie?",
+    "choices": [
+      "Louis C.K.",
+      "Marc Maron",
+      "Patton Oswalt",
+      "Jim Gaffigan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian is the voice behind the observational routine about 'Hot Pockets' in a famous 2000s act?",
+    "choices": [
+      "Mitch Hedberg",
+      "Jim Gaffigan",
+      "Brian Regan",
+      "Lewis Black"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who performed the celebrated 1984 special Delirious wearing a red leather outfit?",
+    "choices": [
+      "Richard Pryor",
+      "Arsenio Hall",
+      "Eddie Murphy",
+      "Redd Foxx"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which New York club in Greenwich Village is famous for surprise drop-ins by major comics and its cramped basement room?",
+    "choices": [
+      "Carolines",
+      "The Stand",
+      "Gotham Comedy Club",
+      "Comedy Cellar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who released the Netflix special Baby Cobra while visibly pregnant?",
+    "choices": [
+      "Ali Wong",
+      "Taylor Tomlinson",
+      "Michelle Buteau",
+      "Fortune Feimster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comic's 2018 special Nanette became a major cultural flashpoint for rethinking stand-up form?",
+    "choices": [
+      "Tig Notaro",
+      "Hannah Gadsby",
+      "Mae Martin",
+      "Aisling Bea"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian was nicknamed 'The Pride of Waukegan' and starred in several 1970s stand-up concert films?",
+    "choices": [
+      "George Carlin",
+      "Richard Pryor",
+      "Robert Klein",
+      "Robin Williams"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What annual Montreal festival has long been one of stand-up's biggest industry showcases?",
+    "choices": [
+      "Moontower Comedy Festival",
+      "Netflix Is a Joke Fest",
+      "Just for Laughs",
+      "Melbourne International Comedy Festival"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian's album The Button-Down Mind of ... won the Grammy for Album of the Year in 1961?",
+    "choices": [
+      "Mort Sahl",
+      "Shelley Berman",
+      "Bob Newhart",
+      "Jonathan Winters"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comic is known for the recurring one-liner structure 'Here's a little trick I learned...' and deadpan absurdity in albums like Strategic Grill Locations?",
+    "choices": [
+      "Steven Wright",
+      "Mitch Hedberg",
+      "Demetri Martin",
+      "Emo Philips"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who wrote and performed the Broadway hit The New One after becoming known for brutally candid stand-up?",
+    "choices": [
+      "John Mulaney",
+      "Mike Birbiglia",
+      "Neal Brennan",
+      "Bo Burnham"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which comedian's Grammy-winning spoken-word albums included Class Clown and Occupation: Foole?",
+    "choices": [
+      "George Carlin",
+      "Lenny Bruce",
+      "David Steinberg",
+      "David Brenner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who became a mainstream film star after stand-up success and the 1987 special Raw?",
+    "choices": [
+      "Martin Lawrence",
+      "Eddie Murphy",
+      "Chris Rock",
+      "Tracy Morgan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comic's stage persona 'The Bumbling Everyman' helped make him a staple on The Tonight Show with Johnny Carson?",
+    "choices": [
+      "Buddy Hackett",
+      "Rodney Dangerfield",
+      "Robert Klein",
+      "Garry Shandling"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who released the stand-up special Elephant in the Room in 2008?",
+    "choices": [
+      "Kevin Hart",
+      "Patrice O'Neal",
+      "Jo Koy",
+      "Gabriel Iglesias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian's first major Netflix hour was titled The Tennessee Kid?",
+    "choices": [
+      "Mark Normand",
+      "Nate Bargatze",
+      "Shane Gillis",
+      "Dusty Slay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who turned his life story into the one-man show Sleepwalk with Me before adapting it into a film?",
+    "choices": [
+      "Mike Birbiglia",
+      "Pete Holmes",
+      "Hasan Minhaj",
+      "Jerrod Carmichael"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who hosted the podcast WTF, which became a major venue for long-form interviews with comedians?",
+    "choices": [
+      "Joe Rogan",
+      "Marc Maron",
+      "Pete Holmes",
+      "Bert Kreischer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian's 2022 special Rothaniel was directed by Bo Burnham and structured around a confessional revelation?",
+    "choices": [
+      "Jerrod Carmichael",
+      "Neal Brennan",
+      "Ramy Youssef",
+      "Mo Amer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who famously said he wanted his epitaph to read 'He never got no respect'?",
+    "choices": [
+      "Don Rickles",
+      "Henny Youngman",
+      "Rodney Dangerfield",
+      "Jackie Mason"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian released the 2013 special Oh My God on HBO after a long string of concert films and books?",
+    "choices": [
+      "George Lopez",
+      "George Carlin",
+      "Louis C.K.",
+      "Jim Gaffigan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian's 2017 special Kid Gorgeous was filmed at Radio City Music Hall?",
+    "choices": [
+      "John Mulaney",
+      "Hasan Minhaj",
+      "Aziz Ansari",
+      "Bo Burnham"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who was the frequent host of HBO's Def Comedy Jam and also the star of Martin?",
+    "choices": [
+      "Cedric the Entertainer",
+      "Martin Lawrence",
+      "Bernie Mac",
+      "Steve Harvey"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who wrote the autobiographical stand-up vehicle Homecoming King before becoming a correspondent and dinner host on Patriot Act?",
+    "choices": [
+      "Hasan Minhaj",
+      "Kumail Nanjiani",
+      "Aasif Mandvi",
+      "Hari Kondabolu"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian's 2010 special Hilarious was his final HBO stand-up hour before moving to self-released work?",
+    "choices": [
+      "Patton Oswalt",
+      "Louis C.K.",
+      "Bill Burr",
+      "Daniel Tosh"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which veteran comic released the acclaimed 2022 special Selective Outrage?",
+    "choices": [
+      "Chris Rock",
+      "Dave Chappelle",
+      "Wanda Sykes",
+      "Cedric the Entertainer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who was the first host of Comedy Central's The Man Show alongside Adam Carolla?",
+    "choices": [
+      "Jimmy Kimmel",
+      "Daniel Tosh",
+      "Doug Stanhope",
+      "Nick Di Paolo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian is closely linked to the phrase 'Git-R-Done'?",
+    "choices": [
+      "Bill Engvall",
+      "Larry the Cable Guy",
+      "Ron White",
+      "Jeff Foxworthy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian won a Peabody for his 2021 special Inside, largely created alone during lockdown?",
+    "choices": [
+      "Bo Burnham",
+      "Jerrod Carmichael",
+      "Julio Torres",
+      "Neal Brennan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who headlined the 2008 concert film Let It Go after years as a regular panelist on Tough Crowd with Colin Quinn?",
+    "choices": [
+      "Colin Quinn",
+      "Bill Burr",
+      "Patrice O'Neal",
+      "Rich Vos"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian's Netflix special The Closer was released in 2021?",
+    "choices": [
+      "Dave Chappelle",
+      "Ricky Gervais",
+      "Chris Rock",
+      "Kevin Hart"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who was the host and namesake of the 1980s A&E showcase An Evening at the Improv?",
+    "choices": [
+      "Budd Friedman",
+      "Richard Belzer",
+      "Paul Provenza",
+      "Richard Lewis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comedian's act often featured graph paper, acoustic guitar stings, and drawn visual aids on Comedy Central?",
+    "choices": [
+      "Demetri Martin",
+      "Zach Galifianakis",
+      "Eugene Mirman",
+      "Reggie Watts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who released the widely quoted special Me Doing Stand-Up in 2011?",
+    "choices": [
+      "Hannibal Buress",
+      "Pete Holmes",
+      "Norm Macdonald",
+      "Norman Lear"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which comic's 2014 special I'm Sorry You Feel That Way was presented entirely in black and white?",
+    "choices": [
+      "Jim Norton",
+      "Louis C.K.",
+      "Bill Burr",
+      "Patrice O'Neal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who was known as 'The King of One-Liners' and popularized the gag 'Take my wife... please'?",
+    "choices": [
+      "Henny Youngman",
+      "Milton Berle",
+      "Shecky Greene",
+      "Jack Carter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who created the mock-pundit persona at the center of The Colbert Report?",
+    "choices": [
+      "Steve Carell",
+      "Stephen Colbert",
+      "Andy Richter",
+      "Paul Dinello"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's 1998 HBO special You Are All Diseased opened with a long meditation on germs and the planet's 'owner'?",
+    "choices": [
+      "George Carlin",
+      "Dennis Miller",
+      "Lewis Black",
+      "Sam Kinison"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who turned a fake Greek diner duo into the Broadway show Oh, Hello with John Mulaney?",
+    "choices": [
+      "Nick Kroll",
+      "Jason Mantzoukas",
+      "Fred Armisen",
+      "Taran Killam"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian had a breakthrough with the special Mr. Universe after building a cult following from alt-comedy rooms and a sitcom called Lucky Louie?",
+    "choices": [
+      "Louis C.K.",
+      "Patton Oswalt",
+      "Marc Maron",
+      "Todd Barry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian released Caligula in 2021 after years of podcasting with his wife on Your Mom's House?",
+    "choices": [
+      "Tom Segura",
+      "Bert Kreischer",
+      "Theo Von",
+      "Andrew Santino"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comic's special Live at the Purple Onion was directed by Lance Bangs and later became a key recommendation among comedy nerds?",
+    "choices": [
+      "Eugene Mirman",
+      "Patton Oswalt",
+      "Maria Bamford",
+      "Todd Barry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's stand-up identity is strongly tied to a shirtless, machine-story persona?",
+    "choices": [
+      "Bert Kreischer",
+      "Joey Diaz",
+      "Big Jay Oakerson",
+      "Ari Shaffir"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who was the original creator and host of Chappelle's Show alongside co-creator Neal Brennan?",
+    "choices": [
+      "Dave Chappelle",
+      "Donnell Rawlings",
+      "Charlie Murphy",
+      "Paul Mooney"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's 2022 special Someone You Love was the first stand-up hour released under A24?",
+    "choices": [
+      "Taylor Tomlinson",
+      "Sarah Silverman",
+      "Nikki Glaser",
+      "Jena Friedman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's early-2020s rise included the special Look at You and later Have It All?",
+    "choices": [
+      "Taylor Tomlinson",
+      "Sam Jay",
+      "Iliza Shlesinger",
+      "Jessica Kirson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who created the one-person Broadway show 700 Sundays centered on stories about his family and youth on Long Island?",
+    "choices": [
+      "Billy Crystal",
+      "Martin Short",
+      "Alan Zweibel",
+      "Harvey Fierstein"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comic's 2019 special Son of Patricia was named partly after a tribute to his mother?",
+    "choices": [
+      "Trevor Noah",
+      "Hasan Minhaj",
+      "Ronny Chieng",
+      "Kumail Nanjiani"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who was famous for the cigar, tuxedo, and insult-comic persona that made him a frequent Vegas and talk-show guest?",
+    "choices": [
+      "Don Rickles",
+      "Shecky Greene",
+      "George Gobel",
+      "Alan King"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's special The Age of Spin paired with Deep in the Heart of Texas as a two-hour Netflix release on the same day?",
+    "choices": [
+      "Bill Burr",
+      "Dave Chappelle",
+      "Chris Rock",
+      "Neal Brennan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian was one of the original members of the Blue Collar Comedy Tour and known for sipping scotch onstage?",
+    "choices": [
+      "Bill Engvall",
+      "Jeff Foxworthy",
+      "Ron White",
+      "Larry the Cable Guy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who authored and performed the one-man show 3 Mics, structured around three separate microphone setups for different modes of material?",
+    "choices": [
+      "Neal Brennan",
+      "Mike Birbiglia",
+      "Jerrod Carmichael",
+      "Bo Burnham"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who released the Netflix special Quarter-Life Crisis in 2020?",
+    "choices": [
+      "Taylor Tomlinson",
+      "Ali Wong",
+      "Nikki Glaser",
+      "Aparna Nancherla"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's signature act often used a stool, bottled water, and stories about family, panic, and social discomfort in specials like New in Town?",
+    "choices": [
+      "John Mulaney",
+      "Pete Holmes",
+      "Mike Birbiglia",
+      "Gary Gulman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's 2020 special Sincerely Louis CK marked his first self-released stand-up film after returning to touring?",
+    "choices": [
+      "Bill Burr",
+      "Louis C.K.",
+      "Dave Attell",
+      "Jim Norton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who is the comedian behind the autobiographical series Mo after years of stand-up rooted in Houston and Palestinian-American identity?",
+    "choices": [
+      "Ramy Youssef",
+      "Maz Jobrani",
+      "Mo Amer",
+      "Ahmed Ahmed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which festival in Austin is named after a Richard Linklater film and has become a major stand-up gathering?",
+    "choices": [
+      "Outside Lands",
+      "Moontower Comedy Festival",
+      "South by Southwest Comedy",
+      "Skankfest"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who was the principal subject of the documentary Comedian, which follows the rebuilding of an act after sitcom fame?",
+    "choices": [
+      "Chris Rock",
+      "Jerry Seinfeld",
+      "Larry David",
+      "Paul Reiser"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's act often features hyper-detailed bits about language, candy, and teaching, including a famed routine about stand-up's oldest advice?",
+    "choices": [
+      "Gary Gulman",
+      "Brian Regan",
+      "Todd Barry",
+      "Paul F. Tompkins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who released the confessional special Jigsaw in 2022 after years of hosting reality dating and radio projects?",
+    "choices": [
+      "Iliza Shlesinger",
+      "Nikki Glaser",
+      "Michelle Wolf",
+      "Whitney Cummings"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who took the title role in the 1990s sitcom Grace Under Fire after a stand-up career built on tough, autobiographical material?",
+    "choices": [
+      "Roseanne Barr",
+      "Brett Butler",
+      "Paula Poundstone",
+      "Sandra Bernhard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's 2008 special Red, White and Screwed spotlighted family stories and arena-level delivery?",
+    "choices": [
+      "Gabriel Iglesias",
+      "Kevin Hart",
+      "Russell Peters",
+      "Larry the Cable Guy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who released The Comeback Kid in 2015, the first of several widely watched Netflix stand-up specials?",
+    "choices": [
+      "John Mulaney",
+      "Trevor Noah",
+      "Bill Burr",
+      "Jim Jefferies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's sardonic, semi-whispered stage style became central to The Larry Sanders Show's creation as well as his own stand-up legend?",
+    "choices": [
+      "Richard Lewis",
+      "Albert Brooks",
+      "Garry Shandling",
+      "David Brenner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who hosted the White House Correspondents' Dinner in 2006 and delivered a set remembered for confronting the Bush administration directly?",
+    "choices": [
+      "Wanda Sykes",
+      "Stephen Colbert",
+      "Seth Meyers",
+      "Cecily Strong"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian is associated with the long-running podcast Monday Morning Podcast?",
+    "choices": [
+      "Bill Burr",
+      "Joe Rogan",
+      "Bobby Lee",
+      "Andrew Schulz"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who became a Netflix stand-up star with specials such as Elder Millennial and War Paint before creating Good on Paper?",
+    "choices": [
+      "Iliza Shlesinger",
+      "Whitney Cummings",
+      "Michelle Wolf",
+      "Chelsea Peretti"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comic's late-1980s rise included leather outfits, nursery-rhyme bits, and a massive Madison Square Garden crowd in the concert film The Day the Laughter Died material's orbit?",
+    "choices": [
+      "Sam Kinison",
+      "Andrew Dice Clay",
+      "Dicey Reilly",
+      "Gilbert Gottfried"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who released the special Tamborine in 2018, his first stand-up hour in about a decade?",
+    "choices": [
+      "Dave Chappelle",
+      "Chris Rock",
+      "Aziz Ansari",
+      "Kevin Hart"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's club in Hermosa Beach is famous for a no-nonsense room where Jay Leno has long performed regularly?",
+    "choices": [
+      "The Comedy Store",
+      "The Ice House",
+      "The Comedy and Magic Club",
+      "Brea Improv"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who was the co-host with Tom Segura on the podcast 2 Bears, 1 Cave?",
+    "choices": [
+      "Bert Kreischer",
+      "Joey Diaz",
+      "Theo Von",
+      "Andrew Santino"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian released Beer Hall Putsch in 2012 and later created the semi-autobiographical series Baskets with Louis C.K. and Jonathan Krisel?",
+    "choices": [
+      "Nick Kroll",
+      "Zach Galifianakis",
+      "Marc Maron",
+      "TJ Miller"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who performed in and co-created the documentary-style special 8:46 in 2020 as a surprise YouTube release?",
+    "choices": [
+      "Dave Chappelle",
+      "Chris Rock",
+      "W. Kamau Bell",
+      "Hannibal Buress"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who won the 2008 season of Last Comic Standing and later became known for highly crafted jokes and the special In This Economy??",
+    "choices": [
+      "Iliza Shlesinger",
+      "Felipe Esparza",
+      "Nate Bargatze",
+      "Michelle Wolf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who released the 2024 special Someday You'll Die after earlier work such as Mostly Sex Stuff and a daily late-night series on HBO Max?",
+    "choices": [
+      "Nikki Glaser",
+      "Sarah Silverman",
+      "Taylor Tomlinson",
+      "Atsuko Okatsuka"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Budd Friedman venue brand became synonymous with career-launching sets on TV showcases and club marquees?",
+    "choices": [
+      "The Punch Line",
+      "The Improv",
+      "Gotham Comedy Club",
+      "The Comedy Cellar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who released the 2019 special Sticks & Stones after a long break from traditional stand-up specials?",
+    "choices": [
+      "Chris Rock",
+      "Dave Chappelle",
+      "Bill Burr",
+      "Eddie Murphy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's act is strongly tied to the phrase 'Fluffy' and stories about family, food, and touring?",
+    "choices": [
+      "Jo Koy",
+      "Gabriel Iglesias",
+      "Felipe Esparza",
+      "Ralph Barbosa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which longtime late-night host launched a podcast whose title says he 'Needs a Friend'?",
+    "choices": [
+      "Conan O'Brien",
+      "Craig Ferguson",
+      "Andy Richter",
+      "Dana Carvey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian's acclaimed 2017 special The Bird Revelation was staged in a much smaller room than his arena work and focused on folklore, race, and memory?",
+    "choices": [
+      "Chris Rock",
+      "Dave Chappelle",
+      "Trevor Noah",
+      "Hasan Minhaj"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who was the longtime host of Last Week Tonight after serving as a Daily Show correspondent?",
+    "choices": [
+      "Trevor Noah",
+      "John Oliver",
+      "Samantha Bee",
+      "Hasan Minhaj"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian released You People Are All the Same in 2012 before later issuing Paper Tiger and Live at Red Rocks?",
+    "choices": [
+      "Bill Burr",
+      "Tom Segura",
+      "Jim Jefferies",
+      "Anthony Jeselnik"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who was the stand-up comic behind the groundbreaking sitcom Roseanne?",
+    "choices": [
+      "Brett Butler",
+      "Roseanne Barr",
+      "Sandra Bernhard",
+      "Bonnie Hunt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which comedian recorded a classic 1972 Carnegie Hall set later released as an influential album of autobiographical, New York-centered material?",
+    "choices": [
+      "Robert Klein",
+      "David Steinberg",
+      "Mort Sahl",
+      "George Carlin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  }
+]

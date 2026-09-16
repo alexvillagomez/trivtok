@@ -1,0 +1,554 @@
+[
+  {
+    "text": "What is the approximate dry adiabatic lapse rate in Earth's lower atmosphere?",
+    "choices": ["9.8 C per km", "6.5 C per km", "3.0 C per km", "12.5 C per km"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "A rising unsaturated air parcel cools mainly because it:",
+    "choices": ["Expands as pressure decreases", "Radiates strongly to space", "Mixes instantly with colder air", "Loses water vapor by diffusion"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which variable is the ratio of water vapor mass to dry air mass?",
+    "choices": ["Relative humidity", "Mixing ratio", "Specific heat", "Virtual temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Relative humidity reaches 100 percent when air is:",
+    "choices": ["Saturated", "Absolutely dry", "Neutrally stratified", "At sea-level pressure only"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "The temperature to which air must be cooled at constant pressure to become saturated is the:",
+    "choices": ["Wet-bulb temperature", "Potential temperature", "Dew point", "Equivalent temperature"],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which process directly releases latent heat into an air parcel?",
+    "choices": ["Evaporation", "Condensation", "Sublimation of ice to vapor", "Melting"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Why is the moist adiabatic lapse rate usually smaller in magnitude than the dry adiabatic lapse rate?",
+    "choices": ["Condensation offsets some cooling", "Water vapor increases gravity", "Moist air conducts heat faster", "Clouds eliminate expansion"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which atmospheric layer contains most weather and most of the atmosphere's water vapor?",
+    "choices": ["Mesosphere", "Thermosphere", "Troposphere", "Exosphere"],
+    "correctIndex": 2,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Potential temperature is the temperature an air parcel would have if brought adiabatically to:",
+    "choices": ["500 hPa", "850 hPa", "1000 hPa", "The lifting condensation level"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "An atmosphere is absolutely unstable when the environmental lapse rate is greater than the:",
+    "choices": ["Moist adiabatic lapse rate only", "Dry adiabatic lapse rate", "Mixing ratio lapse rate", "Isothermal rate"],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "If the environmental lapse rate lies between the dry and moist adiabatic lapse rates, the layer is:",
+    "choices": ["Absolutely stable", "Conditionally unstable", "Absolutely unstable", "Barotropic"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which quantity typically increases as temperature rises, allowing air to hold more water vapor at saturation?",
+    "choices": ["Saturation vapor pressure", "Surface tension of mercury", "Planetary vorticity", "Molar mass of dry air"],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Cloud base for convective cumulus often forms near the level where a lifted parcel first becomes:",
+    "choices": ["Unsaturated", "Supercooled", "Saturated", "Hydrostatically neutral"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The lifting condensation level is best described as the level where a rising parcel first:",
+    "choices": ["Reaches 0 C", "Becomes saturated", "Stops cooling", "Matches the environmental pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which instrument uses wet-bulb and dry-bulb temperatures to estimate humidity?",
+    "choices": ["Barograph", "Psychrometer", "Ceilometer", "Pyranometer"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Evaporation from a wet surface tends to lower the temperature mainly because it:",
+    "choices": ["Consumes latent heat", "Increases pressure instantly", "Removes nitrogen first", "Raises albedo"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "For equal temperature and pressure, moist air is less dense than dry air primarily because water vapor has a:",
+    "choices": ["Higher heat capacity", "Lower molecular weight", "Higher boiling point", "Lower emissivity"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Virtual temperature is the temperature dry air would need to have in order to match the density of:",
+    "choices": ["A saturated parcel", "The moist air parcel", "An isothermal column", "The underlying surface"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In hydrostatic balance, vertical pressure change with height is set by the weight of the:",
+    "choices": ["Overlying air", "Underlying ground", "Nearby ocean", "Latent heat field"],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "A temperature inversion is a layer in which temperature:",
+    "choices": ["Falls rapidly with height", "Stays exactly constant", "Increases with height", "Oscillates around freezing"],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "A strong low-level inversion generally suppresses convection because displaced parcels become:",
+    "choices": ["Warmer than the environment", "More buoyant upward", "Colder than the environment", "Instantly saturated"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The rate at which saturation vapor pressure changes with temperature is described by the:",
+    "choices": ["Clausius-Clapeyron relation", "Navier-Stokes equation", "Ideal gas law only", "Hypsometric rule"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "When air is cooled to its dew point without changing its water vapor content, relative humidity becomes:",
+    "choices": ["0 percent", "50 percent", "100 percent", "Dependent only on wind"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which phase change corresponds to deposition in cloud physics?",
+    "choices": ["Ice directly to vapor", "Liquid to solid", "Vapor directly to ice", "Solid to liquid"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The Bergeron-Findeisen process depends on the fact that saturation vapor pressure is lower over:",
+    "choices": ["Warm water than cold water", "Ice than liquid water", "Salt water than fresh water", "Large droplets than small droplets"],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which cloud-forming mechanism is most closely associated with air forced up a mountain slope?",
+    "choices": ["Radiative lifting", "Orographic lifting", "Subsidence warming", "Geostrophic descent"],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Frontal lifting occurs because air of one density is forced to rise over air of:",
+    "choices": ["Identical temperature", "Lower salinity", "Different density", "Equal potential vorticity only"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Convective available potential energy, or CAPE, measures the vertically integrated parcel:",
+    "choices": ["Moisture deficit", "Positive buoyancy", "Pressure perturbation", "Radiative cooling"],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Convective inhibition, or CIN, refers to the energy barrier that must be overcome before parcels can reach:",
+    "choices": ["Their dew point", "The level of free convection", "The tropopause", "Hydrostatic balance"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "The level of free convection is the height above which a lifted parcel becomes:",
+    "choices": ["Saturated for the first time", "Warmer than its environment", "Colder than the ground", "Unable to condense"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The equilibrium level in a sounding is where a rising buoyant parcel again becomes:",
+    "choices": ["Colder than the environment", "Equal in temperature to the environment", "Unsaturated by definition", "At 1000 hPa"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Dryline convection is often sensitive to horizontal gradients in which near-surface variable?",
+    "choices": ["Ozone concentration", "Humidity", "Coriolis parameter", "Solar constant"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What happens to unsaturated descending air under adiabatic compression?",
+    "choices": ["It cools at the moist adiabatic rate", "It warms at the dry adiabatic rate", "Its temperature stays fixed", "It must condense immediately"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Foehn or chinook winds are warm and dry on the lee side mainly because descending air:",
+    "choices": ["Expands and cools", "Compresses and warms after losing moisture windward", "Receives direct ocean spray", "Has no pressure change"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which thermodynamic diagram commonly uses skewed temperature lines and pressure as the vertical coordinate?",
+    "choices": ["Hovmoller chart", "Skew-T log-P diagram", "Stuve ellipse", "Tephigram map only"],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "On a Skew-T, parcel ascent paths above saturation usually follow a:",
+    "choices": ["Moist adiabat", "Constant mixing-ratio line", "Horizontal isotherm", "Geopotential contour"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Equivalent potential temperature generally increases when an air parcel gains:",
+    "choices": ["Dry static stability only", "Moisture and heat", "Surface friction", "Coriolis acceleration"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which property is approximately conserved for unsaturated adiabatic motion?",
+    "choices": ["Relative humidity", "Potential temperature", "Dew point depression", "Geopotential height"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The wet-bulb temperature is the temperature air approaches through:",
+    "choices": ["Dry adiabatic descent", "Evaporative cooling at nearly constant pressure", "Radiative equilibrium in vacuum", "Compression without moisture change"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "For unsaturated air, the dew point is usually:",
+    "choices": ["Higher than the air temperature", "Equal to the air temperature", "Lower than the air temperature", "Unrelated to humidity"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "If air temperature and dew point are very close, the air is likely:",
+    "choices": ["Very dry", "Nearly saturated", "Absolutely unstable", "Below sea level"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Radiation fog most often forms overnight when the surface cools the adjacent air to its:",
+    "choices": ["Potential temperature", "Dew point", "Equivalent temperature", "Adiabatic ceiling"],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Advection fog commonly develops when moist air moves over a surface that is:",
+    "choices": ["Warmer than the air", "At exactly the same temperature", "Cooler than the air", "Rapidly rising"],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Steam fog forms when cold air passes over warmer water and the near-surface air becomes saturated by:",
+    "choices": ["Mixing with evaporated moisture", "Compression at high pressure", "Strong subsidence", "Ozone photolysis"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which statement about absolute humidity is correct?",
+    "choices": ["It is vapor mass per unit volume", "It equals vapor pressure divided by pressure", "It is conserved in vertical motion", "It cannot vary with temperature"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Specific humidity differs from mixing ratio because it is the ratio of water vapor mass to:",
+    "choices": ["Dry air mass only", "Total air mass", "Total pressure", "Saturation deficit"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Saturation mixing ratio usually decreases with height in the troposphere mainly because temperature generally:",
+    "choices": ["Increases", "Oscillates unpredictably", "Decreases", "Matches the dew point exactly"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "A parcel's buoyancy is positive when the parcel is:",
+    "choices": ["Less dense than its environment", "More humid than the ocean", "At lower pressure than sea level", "Moving faster than the wind"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which condition favors vigorous daytime thermals over land?",
+    "choices": ["Strong surface heating", "A deep marine inversion", "Widespread nocturnal cooling", "Weak solar input under thick stratus"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "In a superadiabatic surface layer, the temperature decreases with height faster than the:",
+    "choices": ["Moist adiabatic rate only", "Dry adiabatic rate", "Rate of pressure decrease", "Freezing-point lapse rate"],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The environmental lapse rate is measured from:",
+    "choices": ["The actual surrounding atmosphere", "An ideal parcel held saturated", "Only descending air", "A standard ocean profile"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which process usually makes a cloud droplet grow fastest after activation in warm clouds?",
+    "choices": ["Diffusional condensation alone forever", "Collision and coalescence", "Molecular dissociation", "Dry deposition"],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Cloud condensation nuclei help droplets form because they lower the supersaturation needed for:",
+    "choices": ["Nucleation", "Subsidence", "Freezing-point depression", "Hydrostatic support"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "According to the Kelvin effect, smaller droplets require higher equilibrium vapor pressure because of their:",
+    "choices": ["Lower salinity", "Greater curvature", "Higher fall speed", "Weaker latent heat"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The solute effect on cloud droplet activation is commonly described by which law for water activity?",
+    "choices": ["Raoult's law", "Hooke's law", "Beer-Lambert law", "Snell's law"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Kohler theory combines the curvature effect with the effect of dissolved:",
+    "choices": ["Dust only", "Salts and other solutes", "Nitrogen molecules", "Ice crystals"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Why can the moist adiabatic lapse rate vary from one situation to another?",
+    "choices": ["Latent heating depends on temperature and water content", "Gravity changes sign in storms", "Pressure is constant with height", "Cloud droplets remove all heat capacity"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A pseudoadiabatic ascent assumes condensed water is:",
+    "choices": ["Retained in the parcel", "Instantly re-evaporated", "Removed as it forms", "Converted to dry air"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A reversible moist adiabat differs from a pseudoadiabat because condensed water is:",
+    "choices": ["Removed immediately", "Retained with the parcel", "Ignored in the energy budget", "Frozen at all temperatures"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The lifted index compares the environment at 500 hPa with the temperature of a parcel lifted from near:",
+    "choices": ["The surface", "The tropopause", "The jet core", "The stratosphere"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A negative lifted index usually indicates that the lifted parcel is:",
+    "choices": ["Colder than the environment", "Warmer than the environment", "Drier than saturation", "Unable to condense"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The hypsometric equation relates layer thickness to the layer's mean:",
+    "choices": ["Virtual temperature", "Relative humidity", "Zonal wind", "Rain rate"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "For a given pressure difference, a warmer atmospheric layer is typically:",
+    "choices": ["Thinner", "Thicker", "At identical geometric thickness", "Statically impossible"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Mixing dry air into a cloud can cause evaporation that tends to make the cloudy air:",
+    "choices": ["Cooler and potentially denser", "Warmer and more buoyant", "Unaffected thermodynamically", "Instantly saturated everywhere"],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Entrainment in cumulus clouds refers to the incorporation of:",
+    "choices": ["Environmental air into the cloud", "Raindrops into the soil", "Ocean water into the parcel", "Lightning into downdrafts"],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Downdrafts in thunderstorms are often strengthened by which thermodynamic process?",
+    "choices": ["Condensational warming", "Evaporative cooling", "Compression heating alone", "Radiative absorption by ozone"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The wet-bulb zero level is the altitude where the:",
+    "choices": ["Wet-bulb temperature equals 0 C", "Dew point reaches 100 percent", "Potential temperature is minimum", "Parcel pressure equals sea level pressure"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which term describes the temperature change caused by compression or expansion without heat exchange?",
+    "choices": ["Adiabatic", "Isohaline", "Geostrophic", "Baroclinic"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "A well-mixed daytime boundary layer often has potential temperature that is nearly:",
+    "choices": ["Constant with height", "Decreasing sharply with height", "Undefined above the surface", "Equal to dew point"],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "If nighttime cooling creates a shallow stable layer near the ground, that layer is commonly called the:",
+    "choices": ["Mixed layer", "Residual layer", "Nocturnal boundary layer", "Tropopause fold"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which humidity variable remains unchanged when only dry air and water vapor masses are scaled by the same factor?",
+    "choices": ["Mixing ratio", "Dew point in all cases", "Relative humidity always", "Wet-bulb depression only"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The difference between air temperature and dew point is often used as a quick proxy for:",
+    "choices": ["Static stability", "Cloud-top height", "Near-saturation versus dryness", "Wind shear direction"],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which type of instability is associated with a decrease of equivalent potential temperature with height?",
+    "choices": ["Convective instability", "Inertial instability", "Symmetric neutrality", "Radiative balance"],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Conditional instability requires parcels to become buoyant only after they are lifted high enough to become:",
+    "choices": ["Geostrophic", "Saturated", "Isothermal", "Supersynoptic"],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which quantity is most directly reduced when rain evaporates into unsaturated air below cloud base?",
+    "choices": ["Dew point depression", "Air temperature", "Surface pressure", "Geopotential constant"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "In the atmosphere, latent heat of fusion is released when water:",
+    "choices": ["Evaporates", "Freezes", "Sublimates", "Condenses only to liquid"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "The latent heat of sublimation equals the sum of the latent heats of:",
+    "choices": ["Condensation and mixing", "Vaporization and fusion", "Fusion and conduction", "Melting and radiation"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which process cools the surface layer most efficiently on clear, calm nights?",
+    "choices": ["Longwave radiative loss", "Compressional warming", "Latent heating by condensation", "Mechanical mixing from strong winds"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Why do strong winds often reduce the likelihood of radiation fog?",
+    "choices": ["They increase solar heating at night", "They enhance mixing and disrupt shallow cooling", "They remove all water vapor instantly", "They force pressure to remain constant"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "The saturation vapor pressure over liquid water compared with over ice at the same subfreezing temperature is usually:",
+    "choices": ["Lower", "Higher", "Exactly equal", "Independent of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the main thermodynamic reason a desert can have a large day-night temperature range?",
+    "choices": ["Dry air and sparse clouds limit greenhouse trapping and latent buffering", "High humidity stores more latent heat", "Ocean currents fix the surface temperature", "Air pressure doubles after sunset"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which quantity is represented by the area between parcel and environmental temperature curves where the parcel is warmer on a thermodynamic diagram?",
+    "choices": ["CIN", "CAPE", "LCL", "PWAT"],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Precipitable water is the depth of liquid water produced if all vapor in a column were:",
+    "choices": ["Condensed and precipitated", "Compressed dry adiabatically", "Mixed into one parcel", "Frozen at the tropopause"],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which sounding feature most directly signals a capping inversion?",
+    "choices": ["A layer where temperature rises with height", "A saturated layer at the surface", "A decrease in pressure with height", "A moist adiabat above 500 hPa"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The parcel method for diagnosing stability compares the temperature of a displaced parcel with the:",
+    "choices": ["Surface skin temperature", "Environmental temperature at the same level", "Climatological mean temperature", "Ocean mixed-layer temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which cloud type is most associated with shallow convection capped by a stable inversion?",
+    "choices": ["Cirrus", "Altostratus", "Cumulus humilis", "Nimbostratus"],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "A parcel descending from aloft with no phase changes will usually see its relative humidity:",
+    "choices": ["Increase toward 100 percent", "Decrease as temperature rises", "Stay fixed by conservation", "Oscillate independently of temperature"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which thermodynamic quantity combines sensible heat, potential energy, and latent energy in a moist parcel?",
+    "choices": ["Moist static energy", "Absolute vorticity", "Refractive index", "Geostrophic streamfunction"],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In the absence of diabatic heating and mixing, moist static energy is especially useful because it is nearly:",
+    "choices": ["Random", "Conserved", "Zero", "Equal to pressure"],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which term refers to the amount by which vapor pressure falls short of saturation vapor pressure?",
+    "choices": ["Saturation deficit", "Virtual potential", "Static pressure", "Supersaturation index only"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Supersaturation means the ambient vapor pressure is:",
+    "choices": ["Less than saturation vapor pressure", "Equal to saturation vapor pressure", "Greater than saturation vapor pressure", "Negative relative to dry air"],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which cloud microphysical outcome is favored when many cloud condensation nuclei compete for limited water vapor?",
+    "choices": ["Fewer but larger droplets", "More numerous but smaller droplets", "Instant hail formation", "No condensation at all"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  }
+]

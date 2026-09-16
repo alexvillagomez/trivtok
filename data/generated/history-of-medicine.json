@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which ancient Greek physician had his work studied for over 1,000 years despite many inaccuracies, such as theories about the four humors?",
+    "choices": ["Hippocrates", "Galen", "Avicenna", "Celsus"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In the late 1700s, who performed the first successful smallpox vaccination using material from cowpox?",
+    "choices": ["Louis Pasteur", "Lady Mary Wortley Montagu", "Edward Jenner", "Jonas Salk"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which German physician developed the stethoscope to hear internal sounds without placing his ear directly on the patient?",
+    "choices": ["René Laënnec", "Hermann von Helmholtz", "Rudolf Virchow", "Carl Ludwig"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What did most medieval and ancient healers incorrectly believe caused disease?",
+    "choices": ["Tiny invisible organisms", "'Miasma' or bad air", "Imbalanced body temperature", "Excess water in the lungs"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which Renaissance anatomist produced detailed illustrations of human organs and challenged Galen's long-held errors?",
+    "choices": ["Andreas Vesalius", "Michelangelo", "Paracelsus", "William Harvey"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What controversial practice of trephining, or drilling holes in the skull, was performed by prehistoric and ancient cultures, likely to relieve what?",
+    "choices": ["Skull fractures and headaches", "Infection only", "Purely religious ritual", "To implant healing herbs"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Louis Pasteur's work demonstrated that fermentation and disease were caused by living microscopic organisms, advancing which scientific theory?",
+    "choices": ["Spontaneous generation", "Germ theory", "Vitalism", "Miasma theory"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In 1842, a surgeon first publicly demonstrated the use of ether as an anesthetic during surgery, eliminating pain. What was his name?",
+    "choices": ["William T. G. Morton", "James Simpson", "Nicolas Rene Desormeau", "Charles Bell"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which physician is credited with discovering that childbed fever was transmitted by doctors' contaminated hands and advocated for handwashing?",
+    "choices": ["Florence Nightingale", "Ignaz Semmelweis", "Joseph Lister", "Oliver Wendell Holmes Sr."],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What device did Robert Hooke invent that allowed scientists to observe tiny structures like cells for the first time?",
+    "choices": ["The telescope", "The microscope", "The barometer", "The thermometer"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Who formulated four criteria—now called Koch's postulates—for proving that a specific microbe causes a specific disease?",
+    "choices": ["Louis Pasteur", "Robert Koch", "Joseph Lister", "Paul Ehrlich"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In 1895, which physicist's accidental discovery of penetrating radiation revolutionized diagnosis and became known as X-rays?",
+    "choices": ["Wilhelm Röntgen", "Marie Curie", "Henri Becquerel", "Ernest Rutherford"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What anesthetic gas, discovered in 1772 and used in dentistry, was often administered at social gatherings for entertainment despite its risks?",
+    "choices": ["Ether", "Chloroform", "Nitrous oxide", "Oxygen"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which nursing pioneer is famous for revolutionizing hospital sanitation and establishing evidence-based hygiene practices during the Crimean War?",
+    "choices": ["Clara Barton", "Florence Nightingale", "Louisa May Alcott", "Anna Sewell"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Karl Landsteiner's discovery in 1901 identified four distinct blood types. What are they?",
+    "choices": ["A, B, C, and D", "A, B, AB, and O", "Type I, II, III, and IV", "Red, Blue, Green, and Yellow"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What surgical technique, pioneered by Joseph Lister, involved spraying carbolic acid to prevent infection during operations?",
+    "choices": ["Sterilization", "Antiseptic surgery", "Quarantine", "Cauterization"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Alexander Fleming's discovery of penicillin in 1928 came from observing what unexpected growth on his bacterial culture?",
+    "choices": ["Mold", "Yeast", "Fungus", "Algae"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which scientist successfully isolated insulin in 1921, providing the first effective treatment for diabetes?",
+    "choices": ["Frederick Grant Banting", "John Macleod", "Charles Best", "Bernard Courtois"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Aspirin, originally derived from willow bark used by ancient healers, was synthesized as acetylsalicylic acid by which company in 1899?",
+    "choices": ["Merck", "Bayer", "Pfizer", "Roche"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What Muslim physician and polymath wrote the influential 'Canon of Medicine,' which remained authoritative for centuries?",
+    "choices": ["Al-Razi", "Avicenna", "Al-Ghazali", "Ibn Sina"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Antonie van Leeuwenhoek, using self-made microscopes, was the first to observe and describe what microscopic life forms?",
+    "choices": ["Cells", "Bacteria and protozoa", "Viruses", "Fungi"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which practice, where material from a pustule of an infected person was introduced into a healthy person, preceded vaccination and originated in Asia?",
+    "choices": ["Inoculation", "Variolation", "Prophylaxis", "Immunization"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Paul Ehrlich's work on chemotherapy sought to find substances that could destroy disease-causing organisms without harming the patient. What did he call this ideal?",
+    "choices": ["Universal cure", "Magic bullet", "Perfect medicine", "Miracle drug"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Ambroise Paré revolutionized battlefield surgery in the 1500s by replacing cauterization with what gentler method?",
+    "choices": ["Amputation", "Bandaging with turpentine and egg yolk", "Bloodletting", "Trepanation"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which anatomist documented blood circulation through the lungs and challenged the Galenic model of blood movement?",
+    "choices": ["Andreas Vesalius", "William Harvey", "Marcello Malpighi", "Bartolomeo Eustachi"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Thomas Sydenham, a 17th-century physician, earned the nickname 'English Hippocrates' for pioneering which approach to medicine?",
+    "choices": ["Experimental surgery", "Clinical observation", "Humoral theory", "Phrenology"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Marcello Malpighi used the microscope to discover the tiny air sacs in the lungs called what?",
+    "choices": ["Bronchi", "Alveoli", "Trachea", "Diaphragm"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "James Simpson introduced which anesthetic to replace ether in surgery, though it was later found to be more toxic?",
+    "choices": ["Nitrous oxide", "Chloroform", "Ether-alcohol mixture", "Opium"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "René Laënnec invented the stethoscope to listen to internal sounds. What did he originally use as the first stethoscope?",
+    "choices": ["A hollow wooden tube", "A funnel and hose", "A rolled-up paper cone", "Brass tubing"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The eradication of smallpox in 1980 was achieved through a global vaccination campaign supported primarily by which organization?",
+    "choices": ["The Red Cross", "UNICEF", "The World Health Organization", "UNESCO"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Edwin Chadwick's 1842 report on sanitation conditions in industrial cities helped establish which public health principle?",
+    "choices": ["Germ theory", "Environmental sanitation", "Vaccination", "Antisepsis"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Jules Bordet discovered the whooping cough bacterium and won the Nobel Prize. What important immune system component did he first describe?",
+    "choices": ["Antibodies", "Complement", "T cells", "Lymphocytes"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Paracelsus challenged Galenic medicine in the 1500s by claiming that toxicity and dose determine the effect of substances. What is this principle known as?",
+    "choices": ["Empiricism", "The dose makes the poison", "Alchemy", "Vitalism"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "William Harvey's discovery of blood circulation contradicted the Galenic model and was based primarily on what method?",
+    "choices": ["Anatomical dissection", "Mathematical calculation", "Microscopic observation", "Patient interviews"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Fleming's discovery of penicillin's antibacterial properties was developed into a usable drug by which two scientists?",
+    "choices": ["Florey and Chain", "Salk and Koprowski", "Pasteur and Koch", "Ehrlich and Metchnikoff"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which cardiac glycoside, derived from the foxglove plant, became a cornerstone treatment for heart disease in the 18th century?",
+    "choices": ["Quinine", "Digitalis", "Atropine", "Curare"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Christian Eijkman's work with chickens fed white rice led to the discovery of the first what?",
+    "choices": ["Antibiotics", "Vitamins", "Hormones", "Vaccines"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Marie-Sophie Willock, known as 'Madame Boivin,' pioneered early ultrasound technology in medicine. What did she use to develop the first version?",
+    "choices": ["Mechanical vibrations", "Ultrasonic waves", "Radio waves", "Electromagnetic pulses"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Elias Metchnikoff's work on phagocytes and cellular immunity earned him the Nobel Prize. What immune process did he pioneer the study of?",
+    "choices": ["Antibody production", "Inflammation and immune defense", "Vaccination response", "Blood clotting"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Otto Loewi's experiments with frog hearts demonstrated the existence of what chemical messengers between nerves and organs?",
+    "choices": ["Hormones", "Neurotransmitters", "Enzymes", "Antibodies"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The stethoscope was first used primarily to diagnose diseases of which organ system?",
+    "choices": ["The heart and lungs", "The digestive system", "The nervous system", "The lymphatic system"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which surgeon pioneered the use of antiseptics in obstetrics, dramatically reducing childbed fever mortality in the 1880s?",
+    "choices": ["Joseph Lister", "James Paget", "Charles Bell", "Theodor Billroth"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Georg Hauser's observation of bacterial spore production occurred in what context?",
+    "choices": ["Studying fermentation", "Observing wound infections", "Examining dust particles", "Analyzing milk samples"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Christiaan Huygens observed the first evidence of microorganisms through improved lenses. What did he believe caused these organisms?",
+    "choices": ["Spontaneous generation from matter", "Divine creation", "Chemical reactions", "Cosmic particles"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Rudolph Virchow proposed 'Cellularpathologie,' asserting that diseases arise from changes in individual what?",
+    "choices": ["Organs", "Cells", "Tissues", "Molecules"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which scientist won Nobel Prizes in both physics and chemistry?",
+    "choices": ["Marie Curie", "Lise Meitner", "Barbara McClintock", "Vera Rubin"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Rosa Parks refused to give up her bus seat in which city in 1955?",
+    "choices": ["Atlanta", "Montgomery", "Birmingham", "Selma"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who led French forces as the 'Maid of Orleans' during the Hundred Years' War?",
+    "choices": ["Catherine de Medici", "Joan of Arc", "Anne Boleyn", "Mary Queen of Scots"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Ada Lovelace is recognized as a computing pioneer for her work on which 19th-century device?",
+    "choices": ["The typewriter", "The Analytical Engine", "The telephone exchange", "The printing press"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Frida Kahlo's self-portraits often depicted which physical affliction?",
+    "choices": ["Blindness", "Deafness", "A monobrow and pain from spinal injuries", "Partial paralysis"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Wangari Maathai founded the Green Belt Movement in which African nation?",
+    "choices": ["Uganda", "Kenya", "Tanzania", "Ethiopia"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Amelia Earhart disappeared during an attempt to fly around which part of the world?",
+    "choices": ["A polar route", "The equator", "The Atlantic Ocean", "The Pacific Ocean"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Harriet Tubman escaped slavery and later risked her life helping others escape via which route?",
+    "choices": ["The Mississippi Railroad", "The Underground Railroad", "The Freedom Trail", "The Liberty Path"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Susan B. Anthony was arrested for which act in 1872?",
+    "choices": ["Burning her corset in public", "Illegally voting in a presidential election", "Trespassing on government property", "Disrupting a congressional session"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Elizabeth Cady Stanton co-organized which landmark women's rights convention in 1848?",
+    "choices": ["The Boston Women's Convention", "The Seneca Falls Convention", "The Philadelphia Women's Meeting", "The Albany Assembly"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Florence Nightingale earned the nickname the 'Lady with the Lamp' during which conflict?",
+    "choices": ["The Boer War", "The Crimean War", "The American Civil War", "The Franco-Prussian War"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which speech delivered at a women's convention contains the phrase 'Ain't I a Woman?'",
+    "choices": ["By Harriet Tubman", "By Sojourner Truth", "By Susan B. Anthony", "By Lucretia Mott"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Nellie Bly became famous as a pioneer in what profession?",
+    "choices": ["Aviation", "Investigative journalism", "Medicine", "Photography"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Emmeline Pankhurst led the suffrage movement primarily in which nation?",
+    "choices": ["France", "Great Britain", "The United States", "Canada"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which ancient Egyptian pharaoh had legendary diplomatic and romantic relationships?",
+    "choices": ["Hatshepsut", "Nefertiti", "Cleopatra VII", "Ahmose I"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Eleanor Roosevelt championed which cause during her time as First Lady?",
+    "choices": ["Prohibition", "Civil rights and human dignity", "Naval expansion", "Agricultural subsidies"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Simone de Beauvoir authored which influential work on women and society?",
+    "choices": ["The Female Eunuch", "The Second Sex", "Sexual Politics", "The Feminine Mystique"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Rachel Carson warned the public about the dangers of which pesticide in 'Silent Spring'?",
+    "choices": ["Rotenone", "DDT", "Parathion", "Lindane"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Ruth Bader Ginsburg served as a justice on which high court?",
+    "choices": ["The International Criminal Court", "The U.S. Supreme Court", "The Hague International Court", "The U.S. Court of Appeals"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Malala Yousafzai was shot by terrorists for advocating which right?",
+    "choices": ["Women's suffrage", "Education for girls", "Environmental protection", "Labor rights"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Anne Frank's diary was written while she hid from the persecution of which regime?",
+    "choices": ["Fascist Italy", "Soviet Union", "Nazi Germany", "Imperial Japan"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Mother Teresa worked with the poor and dying in which Indian metropolis?",
+    "choices": ["Mumbai", "Bangalore", "Kolkata", "Delhi"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Josephine Baker performed as a cabaret entertainer and resistance spy in which nation during WWII?",
+    "choices": ["Germany", "France", "Italy", "Spain"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Hypatia of Alexandria was renowned for her contributions to which disciplines?",
+    "choices": ["Law and rhetoric", "Mathematics and astronomy", "Medicine and botany", "Literature and drama"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Catherine II, known as the Great, ruled which empire for over three decades?",
+    "choices": ["The Ottoman Empire", "The Austro-Hungarian Empire", "The Russian Empire", "The Prussian Empire"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which English monarch declared 'I have the heart and stomach of a king' in a speech to her troops?",
+    "choices": ["Mary I", "Anne", "Elizabeth I", "Victoria"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Helen Keller achieved recognition despite which pair of disabilities?",
+    "choices": ["Deafness and paralysis", "Blindness and deafness", "Mutism and blindness", "Blindness and mutism"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Indira Gandhi served three terms as the Prime Minister of which South Asian nation?",
+    "choices": ["Pakistan", "Bangladesh", "India", "Sri Lanka"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Margaret Thatcher became the first female to hold the highest political office in which country?",
+    "choices": ["Australia", "New Zealand", "The United Kingdom", "Canada"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Victoria Woodhull made history in 1872 by running for which U.S. office?",
+    "choices": ["U.S. Senate", "U.S. President", "Governor", "House of Representatives"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Lucretia Mott and Elizabeth Cady Stanton met at a reform conference centered around which cause?",
+    "choices": ["Labor rights", "Abolition of slavery", "Temperance", "Public education"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Vera Rubin's astronomical research demonstrated evidence for the existence of which cosmic phenomenon?",
+    "choices": ["Black holes", "Dark matter", "Neutron stars", "Gravitational waves"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Hedy Lamarr, besides being an actress, contributed significantly to development of which technology?",
+    "choices": ["Early television", "Frequency-hopping wireless communications", "Radio broadcasting", "Telephone switching"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Billie Holiday earned which stage name reflecting her vocal artistry?",
+    "choices": ["The Songbird", "Lady Day", "The Nightingale", "Jazz Angel"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which soul singer was known as the 'Queen of Soul' and performed 'Respect'?",
+    "choices": ["Diana Ross", "Aretha Franklin", "Ella Fitzgerald", "Bessie Smith"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Audre Lorde's essay collection 'Sister Outsider' examined intersections of which social categories?",
+    "choices": ["Class and economy", "Race, gender, and sexuality", "Religion and politics", "Nationality and culture"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Gloria Steinem co-founded which groundbreaking women's magazine in 1972?",
+    "choices": ["Cosmopolitan", "Ms.", "Vogue", "Redbook"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Betty Friedan's 1963 book critiqued the expectation that women should find fulfillment primarily in which role?",
+    "choices": ["Political activism", "The homemaker", "Military service", "Manual labor"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Simone Weil was a 20th-century philosopher and activist in which European country?",
+    "choices": ["Germany", "Italy", "France", "Spain"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Maya Angelou's debut autobiography, published in 1969, shares its title with a phrase by which poet?",
+    "choices": ["Langston Hughes", "Paul Laurence Dunbar", "William Blake", "Ralph Ellison"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Toni Morrison, the first African American recipient of which prize, wrote 'Beloved'?",
+    "choices": ["The Pulitzer Prize", "The Nobel Prize in Literature", "The National Book Award", "The PEN/Faulkner Award"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Katharine Johnson calculated launch trajectories and re-entry paths for which U.S. space program?",
+    "choices": ["The U.S. Air Force Space Command", "NASA", "The Defense Advanced Research Projects Agency", "The Naval Research Laboratory"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Dorothy Hodgkin used X-ray crystallography to reveal the structure of which molecule critical to medicine?",
+    "choices": ["Insulin", "Vitamin B12", "Penicillin", "Hemoglobin"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Lise Meitner provided key theoretical insights into which nuclear process, fundamental to atomic energy?",
+    "choices": ["Radioactive decay", "Nuclear fission", "Neutron capture", "Fusion reactions"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Barbara McClintock discovered which genetic elements that can move within chromosomes?",
+    "choices": ["Telomeres", "Jumping genes", "Centromeres", "Satellite DNA"],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  }
+]

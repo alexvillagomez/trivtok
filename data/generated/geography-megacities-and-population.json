@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which city is the most populous in the world by metropolitan area?",
+    "choices": ["Shanghai", "Tokyo", "Delhi", "Mumbai"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Tokyo is the capital of which country?",
+    "choices": ["South Korea", "Japan", "China", "Vietnam"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Mumbai is located in which country?",
+    "choices": ["India", "Indonesia", "Bangladesh", "Pakistan"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "São Paulo is the largest city in which country?",
+    "choices": ["Colombia", "Venezuela", "Argentina", "Brazil"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Lagos is a megacity in which West African country?",
+    "choices": ["Nigeria", "Senegal", "Ivory Coast", "Ghana"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Mexico City is located in which country?",
+    "choices": ["Guatemala", "Mexico", "Honduras", "Central America"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Cairo, one of the world's largest cities, is in which country?",
+    "choices": ["Sudan", "Egypt", "Libya", "Algeria"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Beijing is the capital of which country?",
+    "choices": ["Vietnam", "Thailand", "China", "Mongolia"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Jakarta is the capital and largest city of which country?",
+    "choices": ["Vietnam", "Philippines", "Thailand", "Indonesia"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Karachi is the largest city in which country?",
+    "choices": ["India", "Pakistan", "Afghanistan", "Bangladesh"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Bangkok is the capital and largest city of which country?",
+    "choices": ["Vietnam", "Thailand", "Cambodia", "Myanmar"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Kolkata is one of India's largest cities. Which state is it in?",
+    "choices": ["Bihar", "Odisha", "Jharkhand", "West Bengal"],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the approximate population of Tokyo's metropolitan area?",
+    "choices": ["35+ million", "25 million", "15 million", "20 million"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which city's metropolitan area has recently surpassed Tokyo as the world's most populous?",
+    "choices": ["Shanghai", "Delhi", "Beijing", "Mumbai"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Shenzhen grew from a fishing village to a megacity in approximately how many years?",
+    "choices": ["10 years", "20 years", "30 years", "40 years"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which of these cities is NOT typically classified as a megacity (10+ million)?",
+    "choices": ["Tokyo", "Delhi", "Shanghai", "Amsterdam"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Rio de Janeiro is located in which region of Brazil?",
+    "choices": ["Southeast", "Northeast", "South", "North"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Chongqing is one of the world's most populous cities. In which country?",
+    "choices": ["India", "Indonesia", "China", "Vietnam"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which megacity has the largest metropolitan population in Africa?",
+    "choices": ["Cairo", "Lagos", "Kinshasa", "Johannesburg"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Istanbul straddles which two continents?",
+    "choices": ["Africa and Asia", "Europe and Asia", "Europe and Africa", "Asia and Americas"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which major Asian city with 10+ million people is NOT located in China?",
+    "choices": ["Wuhan", "Xi'an", "Ho Chi Minh City", "Shenyang"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the approximate population of Dhaka, Bangladesh's capital?",
+    "choices": ["12 million", "21 million", "8 million", "15 million"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Kinshasa is the capital of which African country?",
+    "choices": ["Uganda", "Angola", "Democratic Republic of the Congo", "Zambia"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which of these Asian cities is a megacity but NOT a national capital?",
+    "choices": ["Bangkok", "Shanghai", "Jakarta", "Manila"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Los Angeles metropolitan area ranks approximately how many in the world?",
+    "choices": ["5th", "15th", "25th", "35th"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Osaka is the second-largest metropolitan area in which country?",
+    "choices": ["South Korea", "Japan", "China", "Taiwan"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Manila, one of the world's most densely populated cities, is in which country?",
+    "choices": ["Vietnam", "Philippines", "Thailand", "Indonesia"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Moscow's population exceeds approximately how many million?",
+    "choices": ["8 million", "12 million", "18 million", "25 million"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Guangzhou is a major megacity in which region of China?",
+    "choices": ["North", "Central", "South", "Northeast"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The São Paulo metropolitan area has an approximate population of:",
+    "choices": ["12 million", "22 million", "32 million", "8 million"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Suzhou experienced rapid urban growth and is now a megacity near which Chinese metropolis?",
+    "choices": ["Beijing", "Shanghai", "Guangzhou", "Hangzhou"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In terms of metropolitan population, which American city is the largest?",
+    "choices": ["Los Angeles", "Chicago", "Houston", "New York"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which megacity is currently experiencing the fastest population growth rate?",
+    "choices": ["Delhi", "Shanghai", "Lagos", "Beijing"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Luanda is the capital of which African country?",
+    "choices": ["Zambia", "Zimbabwe", "Angola", "Mozambique"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Southeast Asian megacity is notorious for extreme traffic congestion?",
+    "choices": ["Bangkok", "Ho Chi Minh City", "Manila", "Jakarta"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Wuhan's population exceeded 10 million by which decade?",
+    "choices": ["1980s", "1990s", "2000s", "2010s"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Nanjing is one of China's major historical cities. In which province is it located?",
+    "choices": ["Anhui", "Jiangsu", "Shandong", "Zhejiang"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Among major Indian cities, which has the fastest economic growth rate?",
+    "choices": ["Mumbai", "Bangalore", "Pune", "Hyderabad"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which city's metropolitan area recently surpassed Tokyo's population to become the world's largest?",
+    "choices": ["Shanghai", "Delhi", "Jakarta", "Beijing"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Abuja became Nigeria's capital city in which decade?",
+    "choices": ["1970s", "1980s", "1990s", "2000s"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which megacity's rapid urbanization is primarily driven by rural-to-urban migration?",
+    "choices": ["Tokyo", "Beijing", "Lagos", "Shanghai"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Xi'an, with a population exceeding 10 million, is in which Chinese province?",
+    "choices": ["Henan", "Shaanxi", "Gansu", "Qinghai"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Pearl River Delta urban area includes which three major cities?",
+    "choices": ["Shanghai, Hangzhou, Suzhou", "Wuhan, Chongqing, Chengdu", "Guangzhou, Shenzhen, Zhuhai", "Beijing, Tianjin, Tangshan"],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Hyderabad's rapid tech-sector boom has made it India's largest city by which metric?",
+    "choices": ["Total population", "GDP growth rate", "Tech sector jobs", "Urban land area"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which megacity faces the most critical water scarcity and infrastructure challenges?",
+    "choices": ["Delhi", "Cairo", "Lagos", "Jakarta"],
+    "correctIndex": 1,
+    "difficulty": 0.80
+  }
+]

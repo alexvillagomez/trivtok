@@ -1,0 +1,542 @@
+[
+  {
+    "text": "Which actor played Indiana Jones in the original film series?",
+    "choices": ["Harrison Ford", "Tom Selleck", "Sean Connery", "Richard Gere"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who starred as Holly Golightly in Breakfast at Tiffany's?",
+    "choices": ["Audrey Hepburn", "Grace Kelly", "Elizabeth Taylor", "Ingrid Bergman"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which actress played Elle Woods in Legally Blonde?",
+    "choices": ["Reese Witherspoon", "Cameron Diaz", "Sarah Jessica Parker", "Jennifer Aniston"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Who portrayed Tony Soprano on The Sopranos?",
+    "choices": ["James Gandolfini", "Ray Liotta", "Edie Falco", "Michael Imperioli"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which actor played the Joker in The Dark Knight?",
+    "choices": ["Heath Ledger", "Joaquin Phoenix", "Jared Leto", "Christian Bale"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who starred as Hermione Granger in the Harry Potter films?",
+    "choices": ["Emma Watson", "Bonnie Wright", "Evanna Lynch", "Katie Leung"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actor played Walter White in Breaking Bad?",
+    "choices": ["Bryan Cranston", "Aaron Paul", "Bob Odenkirk", "Dean Norris"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who played Katniss Everdeen in The Hunger Games films?",
+    "choices": ["Jennifer Lawrence", "Shailene Woodley", "Lily Collins", "Emma Stone"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Which actress won the Oscar for La La Land?",
+    "choices": ["Emma Stone", "Natalie Portman", "Anne Hathaway", "Meryl Streep"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who played Forrest Gump in the 1994 film?",
+    "choices": ["Tom Hanks", "Kevin Costner", "Robin Williams", "Billy Crystal"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress starred as Catwoman in The Batman (2022)?",
+    "choices": ["Zoë Kravitz", "Anne Hathaway", "Margot Robbie", "Jurnee Smollett"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who portrayed Jack Dawson in Titanic?",
+    "choices": ["Leonardo DiCaprio", "Matt Damon", "Brad Pitt", "Tobey Maguire"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress played Olivia Pope on Scandal?",
+    "choices": ["Kerry Washington", "Viola Davis", "Taraji P. Henson", "Regina King"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who starred as Don Vito Corleone in The Godfather?",
+    "choices": ["Marlon Brando", "Al Pacino", "Robert De Niro", "James Caan"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which actress played Sansa Stark in Game of Thrones?",
+    "choices": ["Sophie Turner", "Maisie Williams", "Natalie Dormer", "Carice van Houten"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who played the title role in Gandhi (1982)?",
+    "choices": ["Ben Kingsley", "Alec Guinness", "Om Puri", "Richard Attenborough"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which actress played Carrie Bradshaw on Sex and the City?",
+    "choices": ["Sarah Jessica Parker", "Kim Cattrall", "Cynthia Nixon", "Kristin Davis"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who portrayed Deadpool in the modern film franchise?",
+    "choices": ["Ryan Reynolds", "Chris Pratt", "Chris Evans", "Hugh Jackman"],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which actor won Best Actor for Philadelphia?",
+    "choices": ["Tom Hanks", "Denzel Washington", "Morgan Freeman", "Kevin Spacey"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who starred as Dorothy in The Wizard of Oz?",
+    "choices": ["Judy Garland", "Shirley Temple", "Debbie Reynolds", "June Allyson"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which actress played Princess Leia in Star Wars?",
+    "choices": ["Carrie Fisher", "Sigourney Weaver", "Faye Dunaway", "Linda Hamilton"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Who played Severus Snape in the Harry Potter films?",
+    "choices": ["Alan Rickman", "Gary Oldman", "Ian McKellen", "Ralph Fiennes"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which actress won an Oscar for Silver Linings Playbook?",
+    "choices": ["Jennifer Lawrence", "Amy Adams", "Jessica Chastain", "Naomi Watts"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who portrayed James Bond in Dr. No?",
+    "choices": ["Sean Connery", "Roger Moore", "George Lazenby", "Timothy Dalton"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actor played Sherlock Holmes in the BBC series Sherlock?",
+    "choices": ["Benedict Cumberbatch", "Martin Freeman", "Tom Hiddleston", "Jude Law"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who starred as Eleven in Stranger Things?",
+    "choices": ["Millie Bobby Brown", "Sadie Sink", "Natalia Dyer", "Peyton List"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress played Clarice Starling in The Silence of the Lambs?",
+    "choices": ["Jodie Foster", "Michelle Pfeiffer", "Sigourney Weaver", "Susan Sarandon"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who starred as Ethan Hunt in the Mission: Impossible films?",
+    "choices": ["Tom Cruise", "Brad Pitt", "Keanu Reeves", "George Clooney"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which actress played Wonder Woman in the 2017 film?",
+    "choices": ["Gal Gadot", "Charlize Theron", "Brie Larson", "Mila Kunis"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who played Atticus Finch in To Kill a Mockingbird (1962)?",
+    "choices": ["Gregory Peck", "Henry Fonda", "James Stewart", "Robert Mitchum"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actress portrayed Frida Kahlo in Frida?",
+    "choices": ["Salma Hayek", "Penélope Cruz", "Eva Mendes", "Jacqueline Bisset"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who played the lead role in Top Gun: Maverick?",
+    "choices": ["Tom Cruise", "Val Kilmer", "Miles Teller", "Glen Powell"],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which actress won the Academy Award for The Queen?",
+    "choices": ["Helen Mirren", "Judi Dench", "Cate Blanchett", "Maggie Smith"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who starred as Neo in The Matrix?",
+    "choices": ["Keanu Reeves", "Will Smith", "Laurence Fishburne", "Josh Hartnett"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Which actress played Amy Dunne in Gone Girl?",
+    "choices": ["Rosamund Pike", "Amy Adams", "Blake Lively", "Rachel McAdams"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who portrayed Chandler Bing on Friends?",
+    "choices": ["Matthew Perry", "David Schwimmer", "Matt LeBlanc", "Jon Cryer"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress played Rue in Euphoria?",
+    "choices": ["Zendaya", "Amandla Stenberg", "Yara Shahidi", "Storm Reid"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who starred as Michael Corleone in The Godfather Part II?",
+    "choices": ["Al Pacino", "Robert Duvall", "James Caan", "John Cazale"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which actress won Best Actress for Blue Jasmine?",
+    "choices": ["Cate Blanchett", "Nicole Kidman", "Amy Adams", "Julianne Moore"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who played Marty McFly in Back to the Future?",
+    "choices": ["Michael J. Fox", "Christopher Lloyd", "C. Thomas Howell", "Emilio Estevez"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Which actress portrayed Midge Maisel in The Marvelous Mrs. Maisel?",
+    "choices": ["Rachel Brosnahan", "Alex Borstein", "Marin Hinkle", "Maisie Richardson-Sellers"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who starred as Black Panther in the MCU?",
+    "choices": ["Chadwick Boseman", "Michael B. Jordan", "Anthony Mackie", "John Boyega"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which actress played Erin Brockovich in the 2000 film?",
+    "choices": ["Julia Roberts", "Sandra Bullock", "Demi Moore", "Gwyneth Paltrow"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who portrayed Michael Scott on The Office (US)?",
+    "choices": ["Steve Carell", "Rainn Wilson", "John Krasinski", "B.J. Novak"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress played Lisbeth Salander in the 2011 film adaptation of The Girl with the Dragon Tattoo?",
+    "choices": ["Rooney Mara", "Noomi Rapace", "Natalie Dormer", "Jessica Biel"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who starred as Hannibal Lecter in The Silence of the Lambs?",
+    "choices": ["Anthony Hopkins", "Jeremy Irons", "Sir Ian McKellen", "Michael Caine"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which actress played Olivia Benson on Law & Order: SVU?",
+    "choices": ["Mariska Hargitay", "Kelli Giddish", "S. Epatha Merkerson", "Minnie Driver"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who played Hannibal Lecter in the 2001 sequel Hannibal?",
+    "choices": ["Anthony Hopkins", "Brian Cox", "Mads Mikkelsen", "Philip Seymour Hoffman"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which actress starred as Moira Rose in Schitt's Creek?",
+    "choices": ["Catherine O'Hara", "Eugene Levy", "Annie Murphy", "Jennifer Robertson"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who played the title role in The King's Speech?",
+    "choices": ["Colin Firth", "Benedict Cumberbatch", "Ralph Fiennes", "Michael Sheen"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which actress won an Oscar for Monster?",
+    "choices": ["Charlize Theron", "Nicole Kidman", "Halle Berry", "Sandra Bullock"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who portrayed Aragorn in The Lord of the Rings trilogy?",
+    "choices": ["Viggo Mortensen", "Orlando Bloom", "Sean Bean", "Ian McKellen"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which actress played Daenerys Targaryen in Game of Thrones?",
+    "choices": ["Emilia Clarke", "Carice van Houten", "Natalie Dormer", "Michelle Fairley"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who starred as Rocky Balboa in the Rocky series?",
+    "choices": ["Sylvester Stallone", "Arnold Schwarzenegger", "Bruce Willis", "Dolph Lundgren"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress played Joan of Arc in The Messenger?",
+    "choices": ["Milla Jovovich", "Kate Winslet", "Nicole Kidman", "Diane Lane"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who portrayed the title role in Joker (2019)?",
+    "choices": ["Joaquin Phoenix", "Jared Leto", "Cillian Murphy", "Christian Bale"],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which actress played Rachel Green on Friends?",
+    "choices": ["Jennifer Aniston", "Courteney Cox", "Lisa Kudrow", "Julia Roberts"],
+    "correctIndex": 0,
+    "difficulty": 0.09
+  },
+  {
+    "text": "Who won Best Actor for Training Day?",
+    "choices": ["Denzel Washington", "Will Smith", "Jamie Foxx", "Morgan Freeman"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which actress starred as Captain Marvel?",
+    "choices": ["Brie Larson", "Elizabeth Olsen", "Scarlett Johansson", "Zoe Saldana"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who played the title role in Oppenheimer?",
+    "choices": ["Cillian Murphy", "Matt Damon", "Robert Downey Jr.", "Josh Brolin"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actress played Mulan in the 2020 live-action film?",
+    "choices": ["Liu Yifei", "Gemma Chan", "Constance Wu", "Awkwafina"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who portrayed the title role in Lincoln?",
+    "choices": ["Daniel Day-Lewis", "Liam Neeson", "Gary Oldman", "Tom Wilkinson"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which actress won an Oscar for The Blind Side?",
+    "choices": ["Sandra Bullock", "Hilary Swank", "Kate Winslet", "Reese Witherspoon"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who played Han Solo in the original Star Wars trilogy?",
+    "choices": ["Harrison Ford", "Mark Hamill", "Alec Guinness", "Billy Dee Williams"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which actress starred in Roman Holiday and won the Oscar for it?",
+    "choices": ["Audrey Hepburn", "Grace Kelly", "Olivia de Havilland", "Deborah Kerr"],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who played the title character in Man of Steel?",
+    "choices": ["Henry Cavill", "Ben Affleck", "Chris Hemsworth", "Armie Hammer"],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which actress played the title role in Annie Hall?",
+    "choices": ["Diane Keaton", "Mia Farrow", "Bette Midler", "Goldie Hawn"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who starred as the lead in The Shining?",
+    "choices": ["Jack Nicholson", "Robert Duvall", "James Stewart", "Gene Hackman"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which actress played Peggy Olson on Mad Men?",
+    "choices": ["Elisabeth Moss", "January Jones", "Christina Hendricks", "Kiernan Shipka"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who portrayed Malcolm X in Malcolm X (1992)?",
+    "choices": ["Denzel Washington", "Laurence Fishburne", "Morgan Freeman", "Forest Whitaker"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which actress played the title role in Wonder Woman 1984?",
+    "choices": ["Gal Gadot", "Kristen Wiig", "Robin Wright", "Connie Nielsen"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who starred as the T-800 in The Terminator?",
+    "choices": ["Arnold Schwarzenegger", "Sylvester Stallone", "Kurt Russell", "Jean-Claude Van Damme"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which actress won Best Actress for Monster's Ball?",
+    "choices": ["Halle Berry", "Jodie Foster", "Nicole Kidman", "Julianne Moore"],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who played the title role in Raging Bull?",
+    "choices": ["Robert De Niro", "Al Pacino", "Joe Pesci", "Robert Duvall"],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which actress starred as Cher in Clueless?",
+    "choices": ["Alicia Silverstone", "Rachael Leigh Cook", "Jennifer Love Hewitt", "Tiffani Thiessen"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Who portrayed Dr. Gregory House on House?",
+    "choices": ["Hugh Laurie", "Patrick Dempsey", "Neal Patrick Harris", "Michael Sheen"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which actress played the title character in Ma Rainey's Black Bottom?",
+    "choices": ["Viola Davis", "Octavia Spencer", "Angela Bassett", "Taraji P. Henson"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who starred as Spider-Man in the first Sam Raimi film trilogy?",
+    "choices": ["Tobey Maguire", "Andrew Garfield", "Tom Holland", "Shawn Ashmore"],
+    "correctIndex": 0,
+    "difficulty": 0.11
+  },
+  {
+    "text": "Which actress played Wednesday Addams in Wednesday?",
+    "choices": ["Jenna Ortega", "Christina Ricci", "Chloë Grace Moretz", "Maya Hawke"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who won the first Academy Award for Best Actor?",
+    "choices": ["Emil Jannings", "Walter Brennan", "Douglas Fairbanks", "George Arliss"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which actress was the first Black woman to win the Best Actress Oscar?",
+    "choices": ["Halle Berry", "Whoopi Goldberg", "Cicely Tyson", "Viola Davis"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Who played Alfred Borden in The Prestige?",
+    "choices": ["Christian Bale", "Hugh Jackman", "Michael Caine", "David Bowie"],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which actress portrayed Norma Rae in Norma Rae?",
+    "choices": ["Sally Field", "Shirley MacLaine", "Jane Fonda", "Jessica Lange"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who starred as the title character in Jack Reacher?",
+    "choices": ["Tom Cruise", "Jeremy Renner", "Vin Diesel", "Gerard Butler"],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which actress played Carol Burnett-style attorney Ruth Bader Ginsburg in On the Basis of Sex?",
+    "choices": ["Felicity Jones", "Amy Adams", "Carey Mulligan", "Katherine Waterston"],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Who portrayed the title role in Elvis (2022)?",
+    "choices": ["Austin Butler", "Ansel Elgort", "Jacob Elordi", "Timothée Chalamet"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which actress starred as Carrie in Carrie (1976)?",
+    "choices": ["Sissy Spacek", "Piper Laurie", "Bette Davis", "Linda Blair"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who played the title role in Django Unchained?",
+    "choices": ["Jamie Foxx", "Will Smith", "Idris Elba", "Denzel Washington"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actress played the title role in The Iron Lady?",
+    "choices": ["Meryl Streep", "Judi Dench", "Helen Mirren", "Glenda Jackson"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who starred as Rick Blaine in Casablanca?",
+    "choices": ["Humphrey Bogart", "Clark Gable", "Cary Grant", "Gary Cooper"],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  }
+]

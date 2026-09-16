@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which competition was rebranded as the UEFA Champions League in 1992?",
+    "choices": [
+      "European Cup",
+      "UEFA Cup",
+      "Cup Winners' Cup",
+      "Intertoto Cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which club won the inaugural European Cup in 1955-56?",
+    "choices": [
+      "Bayern Munich",
+      "Real Madrid",
+      "Benfica",
+      "Milan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which club won the first Champions League final in 1993?",
+    "choices": [
+      "Ajax",
+      "Barcelona",
+      "Marseille",
+      "Porto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which club won the first UEFA Cup in 1971-72?",
+    "choices": [
+      "Liverpool",
+      "Borussia Monchengladbach",
+      "Juventus",
+      "Tottenham Hotspur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which club won the last European Cup Winners' Cup in 1999?",
+    "choices": [
+      "Lazio",
+      "Parma",
+      "Rangers",
+      "Ajax"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which club won the first FIFA Club World Cup in 2000?",
+    "choices": [
+      "Real Madrid",
+      "Corinthians",
+      "Palmeiras",
+      "Manchester United"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which club won the re-launched FIFA Club World Cup in 2005?",
+    "choices": [
+      "Liverpool",
+      "Boca Juniors",
+      "Sao Paulo",
+      "Milan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which club won the first Champions League final after the rebrand?",
+    "choices": [
+      "Porto",
+      "AC Milan",
+      "Barcelona",
+      "Marseille"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which club has won the most European Cup or Champions League titles?",
+    "choices": [
+      "Real Madrid",
+      "Liverpool",
+      "AC Milan",
+      "Bayern Munich"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which manager led Porto to the 2004 Champions League title?",
+    "choices": [
+      "Carlo Ancelotti",
+      "Jose Mourinho",
+      "Jurgen Klopp",
+      "Pep Guardiola"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which club won the 1960 European Cup final at Hampden Park?",
+    "choices": [
+      "Eintracht Frankfurt",
+      "Barcelona",
+      "Real Madrid",
+      "Benfica"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which club won the 1962 European Cup final by beating Real Madrid?",
+    "choices": [
+      "Milan",
+      "Ajax",
+      "Barcelona",
+      "Benfica"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which club became the first British champion of Europe in 1967?",
+    "choices": [
+      "Celtic",
+      "Rangers",
+      "Benfica",
+      "Feyenoord"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which club won the 1970 European Cup final against Celtic?",
+    "choices": [
+      "Ajax",
+      "Feyenoord",
+      "Leeds United",
+      "Anderlecht"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which club won three consecutive European Cups from 1971 to 1973?",
+    "choices": [
+      "Bayern Munich",
+      "Liverpool",
+      "Ajax",
+      "Real Madrid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which club won three consecutive European Cups from 1974 to 1976?",
+    "choices": [
+      "Nottingham Forest",
+      "AC Milan",
+      "Manchester United",
+      "Bayern Munich"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which manager led Nottingham Forest to back-to-back European Cups?",
+    "choices": [
+      "Brian Clough",
+      "Bob Paisley",
+      "Arrigo Sacchi",
+      "Rinus Michels"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which club won the 1985 European Cup final at Heysel?",
+    "choices": [
+      "Hamburg",
+      "Juventus",
+      "Liverpool",
+      "Steaua Bucuresti"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which club won the 1986 European Cup final on penalties in Seville?",
+    "choices": [
+      "Barcelona",
+      "Juventus",
+      "Steaua Bucuresti",
+      "Porto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which club won the 1989 European Cup final 4-0 against Steaua Bucuresti?",
+    "choices": [
+      "Real Madrid",
+      "PSV Eindhoven",
+      "Bayern Munich",
+      "AC Milan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which manager was in charge of Milan during their 1989 and 1990 European Cup wins?",
+    "choices": [
+      "Arrigo Sacchi",
+      "Fabio Capello",
+      "Marcello Lippi",
+      "Carlo Ancelotti"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 1992 European Cup final at Wembley?",
+    "choices": [
+      "Sampdoria",
+      "Barcelona",
+      "Marseille",
+      "Milan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which club won the 1998 Champions League final by beating Juventus 1-0?",
+    "choices": [
+      "Manchester United",
+      "Ajax",
+      "Real Madrid",
+      "Porto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which club won the 1999 Champions League final with two late goals against Bayern Munich?",
+    "choices": [
+      "Chelsea",
+      "Liverpool",
+      "Real Madrid",
+      "Manchester United"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which club won the 2000 Intercontinental Cup by beating Real Madrid 2-1 in Tokyo?",
+    "choices": [
+      "Boca Juniors",
+      "Corinthians",
+      "Benfica",
+      "Milan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 2001 Intercontinental Cup on penalties after a 1-1 draw with Boca Juniors?",
+    "choices": [
+      "Bayern Munich",
+      "Real Madrid",
+      "Liverpool",
+      "Palmeiras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which club won the 2002 Champions League final with Zinedine Zidane's volley?",
+    "choices": [
+      "Bayer Leverkusen",
+      "Barcelona",
+      "Real Madrid",
+      "Juventus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which club won the 2004 Champions League final against Monaco?",
+    "choices": [
+      "Monaco",
+      "PSG",
+      "Chelsea",
+      "Porto"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which club won the 2005 Champions League final after trailing 0-3 at halftime?",
+    "choices": [
+      "Liverpool",
+      "Milan",
+      "Arsenal",
+      "Juventus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which club won the 2006 Champions League final against Arsenal?",
+    "choices": [
+      "Milan",
+      "Barcelona",
+      "Chelsea",
+      "Bayern Munich"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which club won the 2009 Champions League final against Manchester United?",
+    "choices": [
+      "Inter Milan",
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which club won the 2010 Champions League final against Bayern Munich?",
+    "choices": [
+      "Barcelona",
+      "Chelsea",
+      "Porto",
+      "Inter Milan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which club won the 2011 Champions League final at Wembley?",
+    "choices": [
+      "Barcelona",
+      "Manchester United",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which club won the 2012 Champions League final on penalties?",
+    "choices": [
+      "Bayern Munich",
+      "Chelsea",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which manager led Chelsea to the 2012 title?",
+    "choices": [
+      "Thomas Tuchel",
+      "Jose Mourinho",
+      "Roberto Di Matteo",
+      "Carlo Ancelotti"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which club won the 2013 Champions League final?",
+    "choices": [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which club won the 2014 Champions League final after Sergio Ramos's late equalizer?",
+    "choices": [
+      "Real Madrid",
+      "Atletico Madrid",
+      "Bayern Munich",
+      "Juventus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which club won the 2015 Champions League final against Juventus?",
+    "choices": [
+      "Real Madrid",
+      "Barcelona",
+      "Bayern Munich",
+      "Porto"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which club won the 2016 Champions League final on penalties against Atletico Madrid?",
+    "choices": [
+      "Barcelona",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which manager led Real Madrid to the 2016 title?",
+    "choices": [
+      "Pep Guardiola",
+      "Rafael Benitez",
+      "Jurgen Klopp",
+      "Zinedine Zidane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which club won the 2017 Champions League final against Juventus?",
+    "choices": [
+      "Real Madrid",
+      "Barcelona",
+      "Liverpool",
+      "Bayern Munich"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which club won the 2018 Champions League final against Liverpool?",
+    "choices": [
+      "Chelsea",
+      "Real Madrid",
+      "Tottenham Hotspur",
+      "Manchester City"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which club won the 2019 Champions League final against Tottenham Hotspur?",
+    "choices": [
+      "Manchester City",
+      "Real Madrid",
+      "Liverpool",
+      "Ajax"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which club won the 2020 Champions League final in Lisbon?",
+    "choices": [
+      "PSG",
+      "Liverpool",
+      "Manchester City",
+      "Bayern Munich"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which manager guided Bayern to the 2020 title?",
+    "choices": [
+      "Hansi Flick",
+      "Jurgen Klopp",
+      "Pep Guardiola",
+      "Thomas Tuchel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which club won the 2021 Champions League final against Manchester City?",
+    "choices": [
+      "Liverpool",
+      "Chelsea",
+      "Real Madrid",
+      "Inter Milan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 2022 Champions League final against Liverpool?",
+    "choices": [
+      "Bayern Munich",
+      "Manchester City",
+      "Real Madrid",
+      "Juventus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 2023 Champions League final against Inter Milan?",
+    "choices": [
+      "Manchester United",
+      "Bayern Munich",
+      "Barcelona",
+      "Manchester City"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which club won the 2024 Champions League final against Borussia Dortmund?",
+    "choices": [
+      "Real Madrid",
+      "Chelsea",
+      "Paris Saint-Germain",
+      "Arsenal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which stadium hosted the 2024 Champions League final?",
+    "choices": [
+      "Santiago Bernabeu",
+      "Wembley Stadium",
+      "San Siro",
+      "Camp Nou"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which competition pairs the winners of the European Cup and the Cup Winners' Cup?",
+    "choices": [
+      "UEFA Europa Conference League",
+      "Intercontinental Cup",
+      "UEFA Super Cup",
+      "Mitropa Cup"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which club won the first official UEFA Super Cup in 1973?",
+    "choices": [
+      "Milan",
+      "Liverpool",
+      "Bayern Munich",
+      "Ajax"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which competition replaced the old Inter-Cities Fairs Cup name in 1971?",
+    "choices": [
+      "European Cup",
+      "Inter-Cities Fairs Cup",
+      "Cup Winners' Cup",
+      "Balkans Cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In which season was the UEFA Cup renamed the Europa League?",
+    "choices": [
+      "2007-08",
+      "2009-10",
+      "2011-12",
+      "2013-14"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which club won the inaugural UEFA Cup Winners' Cup in 1961?",
+    "choices": [
+      "Rangers",
+      "Real Madrid",
+      "Fiorentina",
+      "Tottenham Hotspur"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which club won the 1994-95 Champions League title?",
+    "choices": [
+      "Milan",
+      "Juventus",
+      "Barcelona",
+      "Ajax"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which club won the 1996 final on penalties?",
+    "choices": [
+      "Juventus",
+      "Ajax",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 1997 final against Juventus?",
+    "choices": [
+      "Juventus",
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Monaco"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 2003 final after a 0-0 draw and penalty shootout?",
+    "choices": [
+      "Juventus",
+      "Real Madrid",
+      "AC Milan",
+      "Bayern Munich"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which club won the 2007 final in Athens?",
+    "choices": [
+      "Liverpool",
+      "Barcelona",
+      "Juventus",
+      "AC Milan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which club won the 2008 final at Moscow's Luzhniki Stadium?",
+    "choices": [
+      "Manchester United",
+      "Chelsea",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 2011 final at Wembley?",
+    "choices": [
+      "Manchester United",
+      "Barcelona",
+      "Bayern Munich",
+      "Real Madrid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which club won the 2013 final at Wembley?",
+    "choices": [
+      "Borussia Dortmund",
+      "Real Madrid",
+      "Bayern Munich",
+      "Barcelona"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which club won the 2016 final at San Siro?",
+    "choices": [
+      "Atletico Madrid",
+      "Juventus",
+      "Bayern Munich",
+      "Real Madrid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which club won the 2021 final after it was moved from Istanbul to Porto?",
+    "choices": [
+      "Chelsea",
+      "Manchester City",
+      "Real Madrid",
+      "PSG"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which club won the 2022 final at the Stade de France?",
+    "choices": [
+      "Liverpool",
+      "Real Madrid",
+      "Manchester City",
+      "Juventus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 2023 final in Istanbul?",
+    "choices": [
+      "Inter Milan",
+      "Real Madrid",
+      "Manchester City",
+      "Bayern Munich"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which club won the 2024 final at Wembley?",
+    "choices": [
+      "Chelsea",
+      "Borussia Dortmund",
+      "Manchester City",
+      "Real Madrid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which season introduced the 32-team Champions League group stage?",
+    "choices": [
+      "1999-2000",
+      "1997-98",
+      "2001-02",
+      "2003-04"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In which season did UEFA abolish the away goals rule?",
+    "choices": [
+      "2019-20",
+      "2021-22",
+      "2022-23",
+      "2023-24"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which club earned permanent possession of the original European Cup trophy first?",
+    "choices": [
+      "Ajax",
+      "Bayern Munich",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which club was the first English winner of the European Cup?",
+    "choices": [
+      "Liverpool",
+      "Manchester United",
+      "Arsenal",
+      "Nottingham Forest"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which club won the 1988 European Cup final and became the first Dutch champions?",
+    "choices": [
+      "PSV Eindhoven",
+      "Ajax",
+      "Feyenoord",
+      "Utrecht"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which club won the 1991 European Cup final and became the only Serbian champion?",
+    "choices": [
+      "Partizan",
+      "Red Star Belgrade",
+      "Dinamo Zagreb",
+      "Hajduk Split"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which club won the 1994 Champions League final 4-0?",
+    "choices": [
+      "Barcelona",
+      "AC Milan",
+      "Ajax",
+      "Juventus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 1995 Champions League final over Milan on penalties?",
+    "choices": [
+      "Juventus",
+      "Porto",
+      "Real Madrid",
+      "Ajax"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which club won the 2010 FIFA Club World Cup?",
+    "choices": [
+      "Inter Milan",
+      "Chelsea",
+      "Barcelona",
+      "Bayern Munich"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 2011 FIFA Club World Cup?",
+    "choices": [
+      "Santos",
+      "Barcelona",
+      "Corinthians",
+      "Real Madrid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which club won the 2013 FIFA Club World Cup?",
+    "choices": [
+      "Barcelona",
+      "Real Madrid",
+      "Bayern Munich",
+      "Chelsea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 2015 FIFA Club World Cup?",
+    "choices": [
+      "River Plate",
+      "Real Madrid",
+      "Liverpool",
+      "Barcelona"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which club won the 2016 FIFA Club World Cup?",
+    "choices": [
+      "Real Madrid",
+      "Kashima Antlers",
+      "Atletico Nacional",
+      "Gremio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which club won the 2017 FIFA Club World Cup?",
+    "choices": [
+      "Gremio",
+      "Real Madrid",
+      "Al Ain",
+      "Liverpool"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 2018 FIFA Club World Cup?",
+    "choices": [
+      "Liverpool",
+      "Chelsea",
+      "Real Madrid",
+      "River Plate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which club won the 2019 FIFA Club World Cup?",
+    "choices": [
+      "Bayern Munich",
+      "Flamengo",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which club won the 2020 FIFA Club World Cup?",
+    "choices": [
+      "Bayern Munich",
+      "Tigres",
+      "Palmeiras",
+      "Chelsea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which club won the 2021 FIFA Club World Cup?",
+    "choices": [
+      "Real Madrid",
+      "Chelsea",
+      "Palmeiras",
+      "Al Hilal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which club won the 2022 FIFA Club World Cup?",
+    "choices": [
+      "Flamengo",
+      "Manchester City",
+      "Real Madrid",
+      "Al Ahly"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 2023 FIFA Club World Cup?",
+    "choices": [
+      "Fluminense",
+      "Real Madrid",
+      "Chelsea",
+      "Manchester City"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which club won the 2000 Intercontinental Cup in Tokyo?",
+    "choices": [
+      "Boca Juniors",
+      "Real Madrid",
+      "Bayern Munich",
+      "Porto"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which club won the 2001 Intercontinental Cup on penalties?",
+    "choices": [
+      "Boca Juniors",
+      "Bayern Munich",
+      "Milan",
+      "Palmeiras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which club won the 2004 Intercontinental Cup, the last under that name?",
+    "choices": [
+      "Real Madrid",
+      "Boca Juniors",
+      "Porto",
+      "Santos"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which competition paired the champions of Europe and South America before the Club World Cup?",
+    "choices": [
+      "UEFA Super Cup",
+      "Latin Cup",
+      "Intercontinental Cup",
+      "Club World Cup"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which city was the Intercontinental Cup final chiefly associated with from 1980 onward?",
+    "choices": [
+      "Tokyo",
+      "Madrid",
+      "Buenos Aires",
+      "Milan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which club won the first European Super Cup in 1973?",
+    "choices": [
+      "Milan",
+      "Ajax",
+      "Bayern Munich",
+      "Liverpool"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which manager led Manchester City to their first Champions League crown in 2023?",
+    "choices": [
+      "Jurgen Klopp",
+      "Carlo Ancelotti",
+      "Pep Guardiola",
+      "Roberto Mancini"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which manager led Liverpool to the 2019 Champions League title?",
+    "choices": [
+      "Jose Mourinho",
+      "Pep Guardiola",
+      "Carlo Ancelotti",
+      "Jurgen Klopp"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which manager led Milan to the 2007 Champions League title?",
+    "choices": [
+      "Carlo Ancelotti",
+      "Fabio Capello",
+      "Arrigo Sacchi",
+      "Massimiliano Allegri"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which club won the 1993 final thanks to Basile Boli's goal?",
+    "choices": [
+      "Milan",
+      "Marseille",
+      "Barcelona",
+      "Porto"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which club won the 1977 European Cup final against Borussia Monchengladbach?",
+    "choices": [
+      "Ajax",
+      "Bayern Munich",
+      "Liverpool",
+      "Real Madrid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which club won the 1981 European Cup final against Real Madrid?",
+    "choices": [
+      "Juventus",
+      "Bayern Munich",
+      "Real Madrid",
+      "Liverpool"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  }
+]

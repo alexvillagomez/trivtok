@@ -1,0 +1,272 @@
+[
+  {
+    "text": "How many semitones are in a perfect fifth interval?",
+    "choices": ["5 semitones", "7 semitones", "8 semitones", "9 semitones"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the relative minor key of C major?",
+    "choices": ["A minor", "B minor", "D minor", "E minor"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In 4/4 time, how many beats does a half note receive?",
+    "choices": ["1 beat", "2 beats", "3 beats", "4 beats"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which interval is the opposite of a major third?",
+    "choices": ["minor sixth", "minor third", "diminished third", "augmented third"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What scale degree is the third note of a major scale?",
+    "choices": ["tonic", "mediant", "subdominant", "dominant"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many sharps are in the D major key signature?",
+    "choices": ["1 sharp", "2 sharps", "3 sharps", "4 sharps"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What interval is created between C and E?",
+    "choices": ["major second", "major third", "minor third", "perfect fourth"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which mode is also known as the natural minor scale?",
+    "choices": ["Dorian", "Aeolian", "Phrygian", "Locrian"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In a C major triad, what notes are included?",
+    "choices": ["C, D, E", "C, E, G", "C, F, G", "C, E, A"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a flat symbol in notation lower a note by?",
+    "choices": ["1 semitone", "2 semitones", "3 semitones", "a whole step"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many flats are in the F major key signature?",
+    "choices": ["0 flats", "1 flat", "2 flats", "3 flats"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which chord type includes a root, major third, and perfect fifth?",
+    "choices": ["diminished triad", "major triad", "minor triad", "augmented triad"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the chromatic distance from C to C-sharp?",
+    "choices": ["1 semitone", "2 semitones", "a whole step", "a whole tone"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the pentatonic scale, how many notes does it contain?",
+    "choices": ["4 notes", "5 notes", "6 notes", "7 notes"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the fifth scale degree called in harmonic analysis?",
+    "choices": ["leading tone", "dominant", "submediant", "subdominant"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many semitones are in a whole step?",
+    "choices": ["1 semitone", "2 semitones", "3 semitones", "4 semitones"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which interval spans from the first to the eighth scale degree?",
+    "choices": ["octave", "seventh", "sixth", "fifth"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What does a diminished seventh chord consist of in terms of intervals?",
+    "choices": ["root, major third, perfect fifth, major seventh", "root, minor third, diminished fifth, diminished seventh", "root, major third, diminished fifth, minor seventh", "root, minor third, perfect fifth, minor seventh"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In G major, what is the leading tone?",
+    "choices": ["F natural", "F-sharp", "G-sharp", "A"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How many beats are in a measure of 3/4 time?",
+    "choices": ["2 beats", "3 beats", "4 beats", "6 beats"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What interval is the inversion of a major second?",
+    "choices": ["minor seventh", "major seventh", "diminished seventh", "perfect fifth"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which mode has a raised fourth degree compared to the major scale?",
+    "choices": ["Lydian", "Mixolydian", "Phrygian", "Dorian"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What are the notes in the A natural minor scale?",
+    "choices": ["A, B, C, D, E, F, G", "A, B, C-sharp, D, E, F-sharp, G-sharp", "A, B, C, D, E, F-sharp, G-sharp", "A, B, D, E, F, G, A"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In a dominant seventh chord built on G, what is the seventh?",
+    "choices": ["G-sharp", "F natural", "F-sharp", "B"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the enharmonic equivalent of F-sharp?",
+    "choices": ["G-flat", "E-sharp", "F-natural", "G-natural"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many accidentals (sharps or flats) are in the B-flat major scale?",
+    "choices": ["0 accidentals", "1 accidental", "2 accidentals", "3 accidentals"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the interval from C to B-natural?",
+    "choices": ["major seventh", "minor seventh", "major sixth", "perfect fifth"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In harmonic analysis, what functional role does the IV chord serve?",
+    "choices": ["dominant", "subdominant", "tonic", "leading"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a natural sign in notation do?",
+    "choices": ["raises a note by a semitone", "lowers a note by a semitone", "cancels a previous sharp or flat", "extends a note by half"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many sharps are in the A major key signature?",
+    "choices": ["2 sharps", "3 sharps", "4 sharps", "5 sharps"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the tritone interval also called?",
+    "choices": ["diminished fifth", "augmented fourth", "both diminished fifth and augmented fourth", "neither of the above"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In the Mixolydian mode, which scale degree is lowered compared to major?",
+    "choices": ["second", "fourth", "fifth", "seventh"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What chord is built using the root, third, and seventh scale degrees?",
+    "choices": ["seventh chord", "triad", "suspended chord", "power chord"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How many flats are in the G-flat major key signature?",
+    "choices": ["4 flats", "5 flats", "6 flats", "7 flats"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the tonal center in a key called?",
+    "choices": ["tonic", "dominant", "mediant", "subdominant"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In compound meter, how is 6/8 time typically subdivided?",
+    "choices": ["two groups of three", "three groups of two", "six groups of one", "three groups of three"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does a half diminished seventh chord lack compared to a full diminished seventh?",
+    "choices": ["a minor third", "a minor seventh", "a diminished fifth", "a root note"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which interval is composed of exactly 11 semitones?",
+    "choices": ["major seventh", "minor seventh", "major ninth", "diminished octave"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What scale degree is skipped when playing a power chord?",
+    "choices": ["second", "third", "fourth", "fifth"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In E-flat major, what is the third scale degree?",
+    "choices": ["G natural", "G-flat", "G-sharp", "F-sharp"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the relationship between a major chord and its relative minor?",
+    "choices": ["same root note", "same notes", "same key signature", "inverted intervals"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In the Dorian mode, how many notes differ from the relative natural minor?",
+    "choices": ["1 note", "2 notes", "3 notes", "4 notes"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the interval from E to B-flat?",
+    "choices": ["perfect fifth", "diminished fifth", "augmented fourth", "major sixth"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "How many sharps are in the F-sharp major scale?",
+    "choices": ["4 sharps", "5 sharps", "6 sharps", "7 sharps"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In harmonic function, which chord can lead to the dominant?",
+    "choices": ["I chord", "II chord", "IV chord", "V chord"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  }
+]

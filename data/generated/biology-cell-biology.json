@@ -1,0 +1,497 @@
+[
+  {
+    "text": "Which organelle is responsible for producing ATP through aerobic respiration?",
+    "choices": [
+      "Lysosome",
+      "Mitochondrion",
+      "Golgi apparatus",
+      "Smooth endoplasmic reticulum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "What is the primary function of the ribosome?",
+    "choices": [
+      "Breaking down waste molecules",
+      "Synthesizing proteins",
+      "Storing genetic information",
+      "Producing lipids"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which of the following structures is found in prokaryotic cells but NOT eukaryotic cells?",
+    "choices": [
+      "Nucleoid region",
+      "Cell membrane",
+      "Ribosomes",
+      "Cytoplasm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does the smooth endoplasmic reticulum primarily synthesize?",
+    "choices": [
+      "Proteins",
+      "Nucleic acids",
+      "Lipids",
+      "Carbohydrates"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which organelle contains digestive enzymes?",
+    "choices": [
+      "Peroxisome",
+      "Lysosome",
+      "Golgi apparatus",
+      "Vacuole"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "During which phase of mitosis do chromosomes line up at the cell's equator?",
+    "choices": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the basic difference between prokaryotic and eukaryotic cells?",
+    "choices": [
+      "Prokaryotes have no cell membrane",
+      "Eukaryotes have a nucleus; prokaryotes do not",
+      "Prokaryotes are larger",
+      "Eukaryotes cannot photosynthesize"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which structure controls what enters and exits the cell?",
+    "choices": [
+      "Nucleus",
+      "Cell membrane",
+      "Cytoplasm",
+      "Ribosome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In photosynthesis, which part of the chloroplast contains chlorophyll?",
+    "choices": [
+      "Stroma",
+      "Thylakoid membrane",
+      "Matrix",
+      "Cristae"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Meiosis results in how many daughter cells from one parent cell?",
+    "choices": [
+      "One",
+      "Two",
+      "Four",
+      "Eight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which organelle is responsible for packaging and shipping proteins?",
+    "choices": [
+      "Golgi apparatus",
+      "Ribosome",
+      "Lysosome",
+      "Nucleolus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the primary product of glycolysis?",
+    "choices": [
+      "Acetyl-CoA",
+      "Pyruvate",
+      "Glucose",
+      "CO2"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Where does the light-dependent reaction of photosynthesis occur?",
+    "choices": [
+      "Stroma",
+      "Thylakoid membrane",
+      "Mitochondrial matrix",
+      "Outer membrane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which phase of meiosis includes the separation of homologous chromosomes?",
+    "choices": [
+      "Meiosis I",
+      "Meiosis II",
+      "Both equally",
+      "Neither phase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the role of the nuclear envelope in eukaryotic cells?",
+    "choices": [
+      "To store genetic material",
+      "To separate the nucleus from the cytoplasm",
+      "To synthesize ATP",
+      "To break down proteins"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which of these is a characteristic of cell membranes?",
+    "choices": [
+      "Rigid protein structure",
+      "Fluid mosaic of lipids and proteins",
+      "Solid carbohydrate barrier",
+      "Impermeable to all substances"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In the Krebs cycle, how many CO2 molecules are released?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What process involves the separation of sister chromatids?",
+    "choices": [
+      "Meiosis I",
+      "Prophase",
+      "Anaphase",
+      "Cytokinesis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which organelle would be most abundant in a cell specialized for active transport?",
+    "choices": [
+      "Golgi apparatus",
+      "Mitochondria",
+      "Lysosome",
+      "Ribosome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the main function of peroxisomes?",
+    "choices": [
+      "Protein synthesis",
+      "Breaking down fatty acids and detoxifying hydrogen peroxide",
+      "Photosynthesis",
+      "Chromosomal replication"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "During the Calvin cycle, what molecule is used to fix carbon dioxide?",
+    "choices": [
+      "Glucose",
+      "Ribulose-1,5-bisphosphate",
+      "Pyruvate",
+      "Acetyl-CoA"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which of the following best describes the relationship between mitochondrial structure and function?",
+    "choices": [
+      "Cristae increase surface area for oxidative phosphorylation",
+      "The outer membrane contains all ATP synthase",
+      "The matrix contains the electron transport chain",
+      "Cristae are only found in plant cells"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the primary role of kinetochores during meiosis and mitosis?",
+    "choices": [
+      "Breaking down the nuclear envelope",
+      "Attaching spindle fibers to centromeres",
+      "Synthesizing new proteins",
+      "Separating the Golgi apparatus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In active transport, what energy molecule is directly consumed?",
+    "choices": [
+      "NADH",
+      "NADPH",
+      "ATP",
+      "GTP"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "How many ATP molecules are typically produced per glucose in aerobic respiration?",
+    "choices": [
+      "2",
+      "12",
+      "30–32",
+      "64"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What distinguishes the cell cycle checkpoint G2/M from G1/S?",
+    "choices": [
+      "G2/M checks DNA damage after replication; G1/S checks before",
+      "G1/S is absent in prokaryotes",
+      "G2/M only occurs in plant cells",
+      "Neither checkpoint can be overridden"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which cellular structure houses the enzymes of the electron transport chain?",
+    "choices": [
+      "Cytoplasm",
+      "Inner mitochondrial membrane",
+      "Ribosome",
+      "Lysosome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "During meiosis II, which process is most similar to mitosis?",
+    "choices": [
+      "Spindle formation and cytokinesis",
+      "Homologous chromosome separation",
+      "Synapsis of bivalents",
+      "Crossing over"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the function of the centriole in animal cells?",
+    "choices": [
+      "ATP production",
+      "Organizing microtubules",
+      "Protein synthesis",
+      "DNA replication"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which phase of interphase is most critical for DNA replication?",
+    "choices": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "G0 phase"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What role do chlorophyll molecules play in photosynthesis?",
+    "choices": [
+      "They directly produce glucose",
+      "They absorb light energy and transfer it to reaction centers",
+      "They break water molecules into oxygen",
+      "They synthesize ATP without light"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In the electron transport chain, what is the final electron acceptor in aerobic respiration?",
+    "choices": [
+      "NAD+",
+      "FAD",
+      "Oxygen",
+      "Cytochrome c"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which of the following is a key difference between osmosis and active transport?",
+    "choices": [
+      "Osmosis requires ATP; active transport does not",
+      "Active transport moves against concentration gradient; osmosis follows it",
+      "Osmosis only occurs in plant cells",
+      "Active transport does not require a membrane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What determines the number of chromosomes after telophase II?",
+    "choices": [
+      "Half the original number",
+      "The same as the original number",
+      "Double the original number",
+      "Dependent on random assortment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In prokaryotes, which structure performs the function of mitochondria?",
+    "choices": [
+      "Mesosomes",
+      "Cell wall",
+      "Flagella",
+      "Nucleoid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the primary advantage of the large surface area of thylakoid membranes?",
+    "choices": [
+      "It increases glucose production",
+      "It maximizes light absorption and electron transport capacity",
+      "It reduces the need for water",
+      "It allows for direct ATP synthesis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "During anaphase I of meiosis, what specifically moves toward opposite poles?",
+    "choices": [
+      "Sister chromatids",
+      "Homologous chromosomes",
+      "Individual genes",
+      "Centrosomes only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the role of cytochrome oxidase in the electron transport chain?",
+    "choices": [
+      "Donating electrons to oxygen",
+      "Synthesizing NADH",
+      "Breaking glucose",
+      "Producing pyruvate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "How does the organization of membranes in eukaryotes enable compartmentalization?",
+    "choices": [
+      "It separates metabolic pathways and increases efficiency",
+      "It prevents all molecular movement",
+      "It requires no energy expenditure",
+      "It eliminates the need for the cell membrane"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which complex in the electron transport chain pumps protons using energy from NADH oxidation?",
+    "choices": [
+      "Complex I",
+      "Complex II",
+      "Complex III",
+      "Complex IV"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the primary consequence of crossing over during meiosis I?",
+    "choices": [
+      "Genetic variation in daughter cells",
+      "Doubling of chromosome number",
+      "Prevention of anaphase",
+      "Elimination of homologous chromosomes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In the light-independent reaction (Calvin cycle), where do carbohydrates accumulate as the cycle repeats?",
+    "choices": [
+      "Thylakoid lumen",
+      "Stroma",
+      "Outer chloroplast membrane",
+      "Granum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which adaptor molecule carries amino acids to the ribosome during translation?",
+    "choices": [
+      "mRNA",
+      "tRNA",
+      "rRNA",
+      "hnRNA"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the minimum number of ATP molecules required to establish a proton gradient in chemiosmosis?",
+    "choices": [
+      "Zero; the gradient is established by electron transport alone",
+      "One per proton",
+      "Two per ATP synthase complex",
+      "It varies by organism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "During metaphase II, what is the spatial arrangement of chromosomes?",
+    "choices": [
+      "Aligned at the cell equator as individual chromosomes",
+      "Tetrads aligned at the equator",
+      "Dispersed randomly in the cytoplasm",
+      "Condensed but attached to opposite poles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  }
+]

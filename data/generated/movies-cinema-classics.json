@@ -1,0 +1,530 @@
+[
+  {
+    "text": "Who directed Casablanca?",
+    "choices": ["Michael Curtiz", "Billy Wilder", "John Huston", "William Wyler"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which actress played Dorothy in The Wizard of Oz?",
+    "choices": ["Judy Garland", "Margaret Hamilton", "Lana Turner", "Ava Gardner"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which film won the first Academy Award for Best Picture?",
+    "choices": ["Wings", "The Jazz Singer", "Sunrise", "The Crowd"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who directed Citizen Kane?",
+    "choices": ["Orson Welles", "George Cukor", "Fritz Lang", "Howard Hawks"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is Rick's surname in Casablanca?",
+    "choices": ["Blaine", "Bennet", "Blake", "Baines"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who played Scarlett O'Hara in Gone with the Wind?",
+    "choices": ["Vivien Leigh", "Bette Davis", "Joan Crawford", "Ingrid Bergman"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who directed Psycho?",
+    "choices": ["Alfred Hitchcock", "Carol Reed", "Robert Wise", "Stanley Donen"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which studio was most closely associated with 1930s gangster films?",
+    "choices": ["Warner Bros.", "MGM", "RKO", "Paramount"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which film is famous for the line 'Here's looking at you, kid'?",
+    "choices": ["Casablanca", "Notorious", "The Maltese Falcon", "Now, Voyager"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Who played the Cowardly Lion in The Wizard of Oz?",
+    "choices": ["Bert Lahr", "Jack Haley", "Ray Bolger", "Frank Morgan"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What fictional town is central to It's a Wonderful Life?",
+    "choices": ["Bedford Falls", "Mayberry", "Pleasantville", "Breezy Point"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is the name of the boat in Jaws?",
+    "choices": ["Orca", "Nautilus", "Pequod", "Andrea Gail"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who directed Seven Samurai?",
+    "choices": ["Akira Kurosawa", "Yasujirō Ozu", "Kenji Mizoguchi", "Sadao Yamanaka"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which actress starred as Holly Golightly in Breakfast at Tiffany's?",
+    "choices": ["Audrey Hepburn", "Grace Kelly", "Kim Novak", "Natalie Wood"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which film won Best Picture at the 1950 Academy Awards?",
+    "choices": ["All About Eve", "Sunset Boulevard", "The Asphalt Jungle", "Broken Arrow"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who directed The Third Man?",
+    "choices": ["Carol Reed", "David Lean", "John Huston", "Michael Powell"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Who composed the score for The Godfather?",
+    "choices": ["Nino Rota", "Bernard Herrmann", "Ennio Morricone", "Miklós Rózsa"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who directed Sunset Boulevard?",
+    "choices": ["Billy Wilder", "George Stevens", "William Wellman", "Elia Kazan"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which actress played Norma Desmond?",
+    "choices": ["Gloria Swanson", "Marlene Dietrich", "Joan Fontaine", "Mary Pickford"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which film won Best Picture at the 1953 Academy Awards?",
+    "choices": ["From Here to Eternity", "An American in Paris", "High Noon", "The Greatest Show on Earth"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who played George Bailey in It's a Wonderful Life?",
+    "choices": ["James Stewart", "Cary Grant", "Henry Fonda", "William Holden"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who directed La Dolce Vita?",
+    "choices": ["Federico Fellini", "Vittorio De Sica", "Luchino Visconti", "Michelangelo Antonioni"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which film is often credited with kick-starting the modern summer blockbuster era?",
+    "choices": ["Jaws", "The Poseidon Adventure", "Airport", "The Towering Inferno"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who played Michael Corleone in The Godfather trilogy?",
+    "choices": ["Al Pacino", "Robert De Niro", "James Caan", "Dustin Hoffman"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who directed The 400 Blows?",
+    "choices": ["François Truffaut", "Jean Renoir", "Jean-Pierre Melville", "Claude Chabrol"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the detective in The Maltese Falcon?",
+    "choices": ["Sam Spade", "Philip Marlowe", "Mike Hammer", "Perry Mason"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who directed Lawrence of Arabia?",
+    "choices": ["David Lean", "Anthony Mann", "Richard Brooks", "William Wyler"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which actor portrayed Vito Corleone in The Godfather?",
+    "choices": ["Marlon Brando", "Al Pacino", "Robert Duvall", "James Caan"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who starred in Roman Holiday opposite Audrey Hepburn?",
+    "choices": ["Gregory Peck", "Cary Grant", "William Holden", "Gary Cooper"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What was Disney's first feature-length animated film?",
+    "choices": ["Snow White and the Seven Dwarfs", "Pinocchio", "Fantasia", "Bambi"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who directed The Graduate?",
+    "choices": ["Mike Nichols", "Arthur Penn", "Hal Ashby", "Sidney Lumet"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which film includes the famous crop-duster chase?",
+    "choices": ["North by Northwest", "Vertigo", "Rear Window", "Strangers on a Train"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who played Rick Blaine in Casablanca?",
+    "choices": ["Humphrey Bogart", "Cary Grant", "Clark Gable", "Gary Cooper"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who directed Vertigo?",
+    "choices": ["Alfred Hitchcock", "George Stevens", "Robert Aldrich", "Otto Preminger"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who directed The Godfather Part II?",
+    "choices": ["Francis Ford Coppola", "Martin Scorsese", "Brian De Palma", "William Friedkin"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which film won Best Picture at the 1975 Academy Awards?",
+    "choices": ["The Godfather Part II", "Chinatown", "The Conversation", "Lenny"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which silent comedian starred in City Lights?",
+    "choices": ["Charlie Chaplin", "Buster Keaton", "Harold Lloyd", "Roscoe Arbuckle"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the ship called in Mutiny on the Bounty?",
+    "choices": ["HMS Bounty", "HMS Victory", "HMS Endeavour", "HMS Beagle"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who directed The Seventh Seal?",
+    "choices": ["Ingmar Bergman", "Satyajit Ray", "Carl Theodor Dreyer", "Lars von Trier"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who directed Taxi Driver?",
+    "choices": ["Martin Scorsese", "Francis Ford Coppola", "Brian De Palma", "John Cassavetes"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which film ends with the word Rosebud?",
+    "choices": ["Citizen Kane", "Sunset Boulevard", "The Third Man", "The Big Sleep"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who directed The Bridge on the River Kwai?",
+    "choices": ["David Lean", "John Sturges", "Fred Zinnemann", "Billy Wilder"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which actor portrayed T. E. Lawrence in Lawrence of Arabia?",
+    "choices": ["Peter O'Toole", "Richard Burton", "Alec Guinness", "Laurence Olivier"],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Who directed 8½?",
+    "choices": ["Federico Fellini", "Roberto Rossellini", "Luchino Visconti", "Vittorio De Sica"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who played Travis Bickle in Taxi Driver?",
+    "choices": ["Robert De Niro", "Al Pacino", "Harvey Keitel", "Jon Voight"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which film contains the song 'Diamonds Are a Girl's Best Friend'?",
+    "choices": ["Gentlemen Prefer Blondes", "How to Marry a Millionaire", "The Seven Year Itch", "Some Like It Hot"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who directed Breathless?",
+    "choices": ["Jean-Luc Godard", "François Truffaut", "Éric Rohmer", "Claude Lelouch"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which film won Best Picture at the 1994 Academy Awards?",
+    "choices": ["Schindler's List", "The Fugitive", "In the Name of the Father", "The Piano"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who directed Raiders of the Lost Ark?",
+    "choices": ["Steven Spielberg", "George Lucas", "Richard Donner", "Irvin Kershner"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which actor played James Bond in Dr. No?",
+    "choices": ["Sean Connery", "Roger Moore", "George Lazenby", "Timothy Dalton"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What was the first James Bond film?",
+    "choices": ["Dr. No", "From Russia with Love", "Goldfinger", "Thunderball"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who directed Rear Window?",
+    "choices": ["Alfred Hitchcock", "Billy Wilder", "Howard Hawks", "Nicholas Ray"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who played Maximus in Gladiator?",
+    "choices": ["Russell Crowe", "Joaquin Phoenix", "Jude Law", "Colin Farrell"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who directed Bicycle Thieves?",
+    "choices": ["Vittorio De Sica", "Federico Fellini", "Roberto Rossellini", "Michelangelo Antonioni"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who directed Apocalypse Now?",
+    "choices": ["Francis Ford Coppola", "Oliver Stone", "Stanley Kubrick", "Terrence Malick"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which actress played Margo Channing in All About Eve?",
+    "choices": ["Bette Davis", "Anne Baxter", "Joan Crawford", "Myrna Loy"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is the name of the spaceship in 2001: A Space Odyssey?",
+    "choices": ["Discovery One", "Enterprise", "Nostromo", "Endurance"],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Who played the title role in Ben-Hur (1959)?",
+    "choices": ["Charlton Heston", "Marlon Brando", "Gregory Peck", "Robert Taylor"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who directed The Searchers?",
+    "choices": ["John Ford", "Howard Hawks", "Anthony Mann", "Henry Hathaway"],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which film is the best-known screen adaptation of Heart of Darkness set in Vietnam?",
+    "choices": ["Apocalypse Now", "The Deer Hunter", "Full Metal Jacket", "Platoon"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who directed The Umbrellas of Cherbourg?",
+    "choices": ["Jacques Demy", "Jean Renoir", "Agnès Varda", "Louis Malle"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which actress starred in Gilda?",
+    "choices": ["Rita Hayworth", "Greta Garbo", "Lauren Bacall", "Barbara Stanwyck"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which film won Best Picture at the 1968 Academy Awards?",
+    "choices": ["Oliver!", "2001: A Space Odyssey", "The Lion in Winter", "Funny Girl"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who directed Metropolis?",
+    "choices": ["Fritz Lang", "F.W. Murnau", "G.W. Pabst", "Ernst Lubitsch"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Who directed The Great Dictator?",
+    "choices": ["Charlie Chaplin", "Buster Keaton", "Ernst Lubitsch", "Frank Capra"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who played Nina in Black Swan?",
+    "choices": ["Natalie Portman", "Mila Kunis", "Winona Ryder", "Rooney Mara"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who directed Dr. Strangelove?",
+    "choices": ["Stanley Kubrick", "Alfred Hitchcock", "Sidney Lumet", "George Cukor"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Who directed A Clockwork Orange?",
+    "choices": ["Stanley Kubrick", "Arthur Penn", "Roman Polanski", "John Boorman"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which film is the source of 'I coulda been a contender'?",
+    "choices": ["On the Waterfront", "A Streetcar Named Desire", "Guys and Dolls", "East of Eden"],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which film won Best Picture at the 1960 Academy Awards?",
+    "choices": ["The Apartment", "Psycho", "Spartacus", "Elmer Gantry"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who directed Roman Holiday?",
+    "choices": ["William Wyler", "Billy Wilder", "George Cukor", "John Ford"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which film features Norma Desmond as its fallen star?",
+    "choices": ["Sunset Boulevard", "Singin' in the Rain", "All About Eve", "The Bad and the Beautiful"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who directed Touch of Evil?",
+    "choices": ["Orson Welles", "Anthony Mann", "Robert Siodmak", "Nicholas Ray"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which film won Best Picture at the 1952 Academy Awards?",
+    "choices": ["An American in Paris", "A Place in the Sun", "Quo Vadis", "A Streetcar Named Desire"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who played Maria in West Side Story?",
+    "choices": ["Natalie Wood", "Shirley Jones", "Debbie Reynolds", "Patricia Neal"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which film launched the Indiana Jones franchise?",
+    "choices": ["Raiders of the Lost Ark", "The Last Crusade", "Temple of Doom", "Indiana Jones and the Kingdom of the Crystal Skull"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who directed The African Queen?",
+    "choices": ["John Huston", "Howard Hawks", "Elia Kazan", "John Ford"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which actor played Indiana Jones?",
+    "choices": ["Harrison Ford", "Tom Selleck", "Mel Gibson", "Richard Gere"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was Disney's first full-length animated feature?",
+    "choices": ["Snow White and the Seven Dwarfs", "Dumbo", "Fantasia", "Bambi"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who directed The Treasure of the Sierra Madre?",
+    "choices": ["John Huston", "Sam Peckinpah", "King Vidor", "John Ford"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which film won Best Picture at the 1964 Academy Awards?",
+    "choices": ["My Fair Lady", "Mary Poppins", "Becket", "Dr. Strangelove"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who directed The Battle of Algiers?",
+    "choices": ["Gillo Pontecorvo", "Costa-Gavras", "Luchino Visconti", "Michelangelo Antonioni"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who won Best Director for Ben-Hur?",
+    "choices": ["William Wyler", "David Lean", "John Huston", "George Stevens"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who was the cinematographer credited with the deep focus look in Citizen Kane?",
+    "choices": ["Gregg Toland", "Georges Périnal", "Lee Garmes", "Karl Freund"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which film is known for the song 'As Time Goes By'?",
+    "choices": ["Casablanca", "Notorious", "To Have and Have Not", "The Big Sleep"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which 1927 film is widely treated as the breakthrough sound feature of Hollywood?",
+    "choices": ["The Jazz Singer", "The Broadway Melody", "Sunrise", "Wings"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Who created the character of Sam Spade?",
+    "choices": ["Dashiell Hammett", "Raymond Chandler", "Erle Stanley Gardner", "Ross Macdonald"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who directed M?",
+    "choices": ["Fritz Lang", "G.W. Pabst", "Robert Siodmak", "Erich von Stroheim"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  }
+]

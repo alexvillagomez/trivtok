@@ -1,0 +1,278 @@
+[
+  {
+    "text": "Who delivered the famous speech at the 1963 March on Washington that began 'I have a dream'?",
+    "choices": ["John F. Kennedy", "Martin Luther King Jr.", "Malcolm X", "James Baldwin"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In what year was the Gettysburg Address delivered by President Lincoln?",
+    "choices": ["1860", "1861", "1863", "1865"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which memoir chronicles Malala Yousafzai's fight for education and survival?",
+    "choices": ["The Glass Castle", "I Am Malala", "Educated", "The Book of Margery Kempe"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Ralph Waldo Emerson's essay 'Self-Reliance' was published in which year?",
+    "choices": ["1830", "1841", "1855", "1876"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who wrote the influential essay 'Civil Disobedience' in response to the Mexican-American War?",
+    "choices": ["Thoreau", "Emerson", "Whitman", "Fuller"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the opening line of the Gettysburg Address?",
+    "choices": ["Four score and seven years ago", "We hold these truths to be self-evident", "It was the best of times", "Call me Ishmael"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Winston Churchill's 'We shall never surrender' speech was delivered during which conflict?",
+    "choices": ["WWI", "WWII", "The Cold War", "Korean War"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Michelle Obama's memoir is titled:",
+    "choices": ["Becoming", "My American Dream", "Resilience", "The Long Way Home"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In which century did Frederick Douglass write his most famous autobiography?",
+    "choices": ["18th century", "19th century", "20th century", "21st century"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "JFK's 'Ask not what your country can do for you' was from which speech?",
+    "choices": ["State of the Union", "Inaugural address", "Berlin speech", "Moon landing speech"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who authored the essay 'A Room of One's Own', a foundational feminist text?",
+    "choices": ["Simone de Beauvoir", "Virginia Woolf", "Germaine Greer", "Susan Sontag"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "The Declaration of Independence was primarily drafted by which founding father?",
+    "choices": ["Alexander Hamilton", "Thomas Jefferson", "George Washington", "Benjamin Franklin"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In his 'Letter from Birmingham Jail', MLK addresses criticism from which group?",
+    "choices": ["White supremacists", "Moderate white clergymen", "Black separatists", "Federal agents"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Maya Angelou's autobiography 'I Know Why the Caged Bird Sings' covers her early life until what age?",
+    "choices": ["16", "18", "21", "25"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the primary theme of Thoreau's 'Walden'?",
+    "choices": ["Urban reform", "Simple living in nature", "Industrial progress", "Political revolution"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Who gave the 'Quit India' speech in 1942?",
+    "choices": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "B.R. Ambedkar"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Lincoln's final public speech, delivered days before his assassination, urged reconciliation with which region?",
+    "choices": ["Border states", "The South", "The West", "The North"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Hannah Arendt's 'The Origins of Totalitarianism' was first published in:",
+    "choices": ["1945", "1950", "1956", "1963"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which memoir by Tara Westover details her escape from a survivalist family?",
+    "choices": ["Wild", "Educated", "Shoe Dog", "Amusing Ourselves to Death"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Reagan's 'Tear down this wall' speech targeted which structure?",
+    "choices": ["The Berlin Wall", "The Mexican border wall", "The Hadrian's Wall", "The Great Wall of China"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What year was Betty Friedan's 'The Feminine Mystique' published, launching second-wave feminism?",
+    "choices": ["1955", "1963", "1970", "1975"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In 'Ducks, Newburyport', which author set an entire novel as a single sentence?",
+    "choices": ["Joyce", "Proust", "Ali Smith", "Italo Calvino"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Nelson Mandela's autobiography is titled:",
+    "choices": ["The Rainbow Nation", "Long Walk to Freedom", "My Life", "Free at Last"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Harriet Beecher Stowe's 'Uncle Tom's Cabin' is often credited with what historical impact?",
+    "choices": ["Ending slavery", "Galvanizing abolitionist sentiment", "Starting the Civil War", "Inspiring industrialization"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the subtitle of Susan Sontag's essay 'Against Interpretation'?",
+    "choices": ["Art in Crisis", "Collected Essays", "No subtitle", "On Culture"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who wrote 'The Second Sex', a foundational text on gender and existentialism?",
+    "choices": ["Germaine Greer", "Simone de Beauvoir", "Betty Friedan", "Gloria Steinem"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In which country did Aung San Suu Kyi deliver speeches advocating for democracy and freedom?",
+    "choices": ["Thailand", "Vietnam", "Myanmar", "Cambodia"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the primary subject of Booker T. Washington's autobiography 'Up from Slavery'?",
+    "choices": ["Political activism", "His rise from slavery to prominence", "Industrial innovation", "Educational reform"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The phrase 'survival of the fittest' originated from which thinker's work?",
+    "choices": ["Charles Darwin", "Herbert Spencer", "Thomas Huxley", "Bertrand Russell"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which memoirist documented her experience as a Chinese-American woman in 'The Woman Warrior'?",
+    "choices": ["Amy Tan", "Maxine Hong Kingston", "Jade Snow Wong", "Li-Young Lee"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Obama's 2008 election night speech emphasized which phrase?",
+    "choices": ["Yes we can", "Hope and change", "United we stand", "Moving forward"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who authored 'The Crisis', essays published in The New York Times during the early 20th century?",
+    "choices": ["Ida Tarbell", "W.E.B. Du Bois", "Upton Sinclair", "Ida B. Wells"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does Orwell's 'Politics and the English Language' primarily argue?",
+    "choices": ["Government control of media", "Language reflects and shapes political thought", "English is superior", "Writing is futile"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In what year did Malcolm X deliver his famous 'Ballot or the Bullet' speech?",
+    "choices": ["1962", "1964", "1966", "1968"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who wrote the essay 'Shooting an Elephant', reflecting on imperialism in Burma?",
+    "choices": ["Rudyard Kipling", "George Orwell", "Somerset Maugham", "Graham Greene"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What movement was sparked by Emmeline Pankhurst's suffrage speeches and activism?",
+    "choices": ["Prohibition", "Suffragette movement", "Labor movement", "Temperance movement"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Mary Wollstonecraft's 'A Vindication of the Rights of Woman' was published in which century?",
+    "choices": ["17th", "18th", "19th", "20th"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which speech did Pericles deliver praising Athenian democracy and values?",
+    "choices": ["The Apology", "The Funeral Oration", "The Republic", "The Symposium"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Chimamanda Ngozi Adichie's essay is titled 'The Danger of a Single' what?",
+    "choices": ["Truth", "Story", "Narrative", "Voice"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who delivered the speech 'Give Me Liberty or Give Me Death' during the American Revolution?",
+    "choices": ["Samuel Adams", "Patrick Henry", "Thomas Jefferson", "George Washington"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What is the central argument of John Stuart Mill's essay 'On Liberty'?",
+    "choices": ["Government must control citizens", "Individual freedom is paramount", "Society benefits from conformity", "Liberty requires economic equality"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Anne Frank's diary documents her life during which historical period?",
+    "choices": ["WWI", "The Holocaust / WWII", "The Cold War", "Post-war Europe"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many volumes comprises Simone de Beauvoir's 'Memoirs'?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Audre Lorde's essay 'The Uses of the Erotic' explores connections between which concepts?",
+    "choices": ["Power and sexuality", "Spirituality and creativity", "The erotic and the political", "Poetry and prose"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which abolitionist's speech 'Ain't I a Woman?' challenged racism and sexism at an 1851 convention?",
+    "choices": ["Harriet Tubman", "Sojourner Truth", "Grimké sisters", "Lucretia Mott"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What ideology did Karl Marx and Friedrich Engels promote in 'The Communist Manifesto'?",
+    "choices": ["Anarchism", "Communism", "Socialism", "Fascism"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  }
+]

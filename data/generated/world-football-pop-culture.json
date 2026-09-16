@@ -1,0 +1,530 @@
+[
+  {
+    "text": "How many players does each team have on the field in a standard soccer match?",
+    "choices": ["9", "10", "11", "12"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many halves are played in a standard soccer match?",
+    "choices": ["1", "2", "3", "4"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "How long is a regulation soccer match before stoppage time?",
+    "choices": ["60 minutes", "75 minutes", "90 minutes", "105 minutes"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What color card is shown for a caution?",
+    "choices": ["Blue", "Green", "Yellow", "Red"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What color card is shown for a send-off?",
+    "choices": ["Yellow", "Red", "Orange", "White"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is a hat trick?",
+    "choices": ["Three saves by a keeper", "Three goals in one game", "Three yellow cards", "Three assists"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which organization governs world football?",
+    "choices": ["UEFA", "FIFA", "CAF", "CONCACAF"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In which year was the first FIFA World Cup held?",
+    "choices": ["1928", "1930", "1934", "1938"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which country won the first men's World Cup?",
+    "choices": ["Argentina", "Brazil", "Uruguay", "Italy"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which country has won the men's World Cup the most times?",
+    "choices": ["Germany", "Argentina", "Brazil", "France"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the area directly in front of the goal called?",
+    "choices": ["Center circle", "Penalty area", "Touchline", "Goal line"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is added time at the end of a half called?",
+    "choices": ["Extra spacing", "Stoppage time", "Overtime", "Bonus time"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which team won the 1966 World Cup?",
+    "choices": ["England", "Portugal", "Spain", "Netherlands"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which team won the 2018 World Cup?",
+    "choices": ["Croatia", "Brazil", "France", "Belgium"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which player is famous for the Hand of God goal?",
+    "choices": ["Pele", "Zinedine Zidane", "Diego Maradona", "Andres Iniesta"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which country did Pele represent internationally?",
+    "choices": ["Argentina", "Brazil", "Portugal", "Mexico"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What nickname is commonly used for England's men's team?",
+    "choices": ["The Blues", "The Three Lions", "The Eagles", "The Reds"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What nickname is commonly used for Argentina's men's team?",
+    "choices": ["La Albiceleste", "La Roja", "Azzurri", "The Celeste"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What nickname is commonly used for Brazil's men's team?",
+    "choices": ["Les Bleus", "Selecao", "The Oranje", "The Green Army"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which club plays at Old Trafford?",
+    "choices": ["Liverpool", "Manchester United", "Arsenal", "Chelsea"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which club plays at Anfield?",
+    "choices": ["Liverpool", "Everton", "Manchester City", "Tottenham Hotspur"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which club plays at Camp Nou?",
+    "choices": ["Real Madrid", "Barcelona", "Atletico Madrid", "Sevilla"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which club is known as the Gunners?",
+    "choices": ["Chelsea", "Arsenal", "Newcastle United", "Aston Villa"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which club is known as the Red Devils?",
+    "choices": ["Manchester United", "Benfica", "Roma", "Bayern Munich"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which club is known as the Rossoneri?",
+    "choices": ["Juventus", "Inter Milan", "AC Milan", "Napoli"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which club is known as the Bianconeri?",
+    "choices": ["Juventus", "Lazio", "Fiorentina", "Torino"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which club completed the treble in 1999?",
+    "choices": ["Manchester United", "Ajax", "Inter Milan", "Chelsea"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which country won the 1998 World Cup as hosts?",
+    "choices": ["Germany", "France", "Brazil", "Spain"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which country co-hosted the 2002 World Cup with Japan?",
+    "choices": ["China", "South Korea", "Thailand", "Australia"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which country won the 2006 World Cup?",
+    "choices": ["Italy", "France", "Germany", "Argentina"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which country won the 2010 World Cup?",
+    "choices": ["Netherlands", "Spain", "Portugal", "Brazil"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which country won the 2014 World Cup?",
+    "choices": ["Argentina", "Germany", "Colombia", "Chile"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which country won the 2019 Women's World Cup?",
+    "choices": ["United States", "England", "Germany", "Sweden"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does VAR stand for?",
+    "choices": ["Video Assistant Referee", "Virtual Action Review", "Video Applied Replay", "Verified Advantage Rule"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "What restart is used when the ball crosses the touchline?",
+    "choices": ["Corner kick", "Throw-in", "Goal kick", "Drop ball"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What restart is usually awarded when the ball goes out over the goal line last touched by a defender?",
+    "choices": ["Throw-in", "Penalty kick", "Corner kick", "Indirect free kick"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What restart is awarded for a foul inside the penalty area?",
+    "choices": ["Corner kick", "Free kick", "Penalty kick", "Goal kick"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What rule describes a player in an illegal forward position when the ball is played?",
+    "choices": ["Handball", "Offside", "Advantage", "Obstruction"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many points is a win worth in most soccer leagues?",
+    "choices": ["1", "2", "3", "4"],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "How many points is a draw worth in most soccer leagues?",
+    "choices": ["0", "1", "2", "3"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is a clean sheet?",
+    "choices": ["A match with no cards", "A match with no goals conceded", "A match won by penalties", "A match with no offsides"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which position is usually responsible for scoring most goals?",
+    "choices": ["Fullback", "Striker", "Sweeper", "Goalkeeper"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which position is usually the last line of defense?",
+    "choices": ["Midfielder", "Defender", "Goalkeeper", "Winger"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which tournament is contested by Europe's national teams?",
+    "choices": ["Copa America", "UEFA European Championship", "AFC Asian Cup", "Africa Cup of Nations"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which tournament is contested by South American national teams?",
+    "choices": ["UEFA Nations League", "Copa America", "Gold Cup", "World Cup"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which tournament is contested by African national teams?",
+    "choices": ["AFC Asian Cup", "Africa Cup of Nations", "Copa America", "Euros"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which tournament is contested by Asian national teams?",
+    "choices": ["AFC Asian Cup", "Gold Cup", "Copa America", "Arab Cup"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which tournament is contested by North and Central American national teams?",
+    "choices": ["Gold Cup", "Nations League", "Copa America", "Asian Cup"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What does UEFA stand for?",
+    "choices": ["United European Football Alliance", "Union of European Football Associations", "European Football Union", "United European Athletic Federation"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which region does CONMEBOL oversee?",
+    "choices": ["South America", "Europe", "Africa", "Asia"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which region does CAF oversee?",
+    "choices": ["Asia", "South America", "Africa", "North America"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which region does AFC oversee?",
+    "choices": ["Asia", "Africa", "Europe", "Oceania"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which region does CONCACAF oversee?",
+    "choices": ["South America", "North and Central America and the Caribbean", "Africa", "Europe"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which country won the first Women's World Cup in 1991?",
+    "choices": ["Norway", "United States", "Germany", "China"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which country won Euro 2020, played in 2021?",
+    "choices": ["England", "Italy", "Spain", "France"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which player scored England's winning goal in the 1966 final?",
+    "choices": ["Bobby Charlton", "Geoff Hurst", "Jimmy Greaves", "Bobby Moore"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which player captained France to the 1998 World Cup title?",
+    "choices": ["Thierry Henry", "Patrick Vieira", "Didier Deschamps", "Zinedine Zidane"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which club is based in Munich and wears red and white?",
+    "choices": ["Borussia Dortmund", "Bayern Munich", "Bayer Leverkusen", "RB Leipzig"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which club is based in Turin and wears black and white stripes?",
+    "choices": ["Juventus", "Torino", "Napoli", "Roma"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Spanish club is famous for the Santiago Bernabeu?",
+    "choices": ["Barcelona", "Real Madrid", "Sevilla", "Valencia"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which club won the 2021 UEFA Champions League final?",
+    "choices": ["Manchester City", "Chelsea", "Real Madrid", "Paris Saint-Germain"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which club won the 2005 FIFA Club World Championship in Japan?",
+    "choices": ["Sao Paulo", "Liverpool", "Barcelona", "AC Milan"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which club won the first European Cup final after the competition was renamed the Champions League?",
+    "choices": ["Ajax", "Marseille", "AC Milan", "Benfica"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which stadium is most associated with Brazil's national team in Rio de Janeiro?",
+    "choices": ["Wembley", "Maracana", "Soccer City", "Lusail Stadium"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which stadium hosted the 2010 World Cup final?",
+    "choices": ["Wembley Stadium", "Soccer City", "Maracana", "Camp Nou"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which stadium hosted the 1966 World Cup final?",
+    "choices": ["San Siro", "Wembley Stadium", "Bernabeu", "Luzhniki"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which stadium hosted the 2022 World Cup final?",
+    "choices": ["Lusail Stadium", "Al Bayt Stadium", "Education City Stadium", "King Fahd Stadium"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which player won the 2014 World Cup Golden Boot?",
+    "choices": ["Thomas Muller", "James Rodriguez", "Miroslav Klose", "Lionel Messi"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which player won the 2018 World Cup Golden Boot?",
+    "choices": ["Harry Kane", "Antoine Griezmann", "Luka Modric", "Kylian Mbappe"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which national team is nicknamed the Samurai Blue?",
+    "choices": ["South Korea", "Japan", "China", "Saudi Arabia"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which national team is nicknamed Les Bleus?",
+    "choices": ["France", "Italy", "Belgium", "Croatia"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which national team is nicknamed the Azzurri?",
+    "choices": ["Spain", "Italy", "Portugal", "Greece"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which national team is nicknamed La Roja?",
+    "choices": ["Mexico", "Chile", "Spain", "Colombia"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which club is Bayern Munich's major Bundesliga rival in Der Klassiker?",
+    "choices": ["Borussia Dortmund", "Schalke 04", "Hamburg", "Werder Bremen"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which club won the 1993 UEFA Champions League final?",
+    "choices": ["Marseille", "Barcelona", "Ajax", "Bayern Munich"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which club won the first FIFA Club World Championship in 2000?",
+    "choices": ["Corinthians", "Real Madrid", "Manchester United", "Vasco da Gama"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which player scored the winning goal in the 2010 World Cup final?",
+    "choices": ["David Villa", "Andres Iniesta", "Xavi", "Fernando Torres"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which manager led Spain to the 2010 World Cup title?",
+    "choices": ["Luis Aragones", "Vicente del Bosque", "Pep Guardiola", "Javier Clemente"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which player is famous for scoring five goals against Switzerland in a 1954 World Cup match?",
+    "choices": ["Ferenc Puskas", "Sandor Kocsis", "Nandor Hidegkuti", "Zoltan Czibor"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which country reached the 2022 World Cup final against Argentina?",
+    "choices": ["Croatia", "France", "Morocco", "Portugal"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which club won the 2020 UEFA Champions League final?",
+    "choices": ["Paris Saint-Germain", "Bayern Munich", "Liverpool", "Atletico Madrid"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which club won the 2022-23 UEFA Champions League final?",
+    "choices": ["Inter Milan", "Manchester City", "Real Madrid", "Napoli"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which club won the 2021-22 Serie A title?",
+    "choices": ["Inter Milan", "AC Milan", "Juventus", "Napoli"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which club won the 2022-23 Premier League title?",
+    "choices": ["Arsenal", "Liverpool", "Manchester City", "Chelsea"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which country won the 2023 Women's World Cup?",
+    "choices": ["Spain", "England", "United States", "Japan"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which country won the 1994 World Cup hosted by the United States?",
+    "choices": ["Italy", "Brazil", "Germany", "Argentina"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which player became the first African Ballon d'Or winner?",
+    "choices": ["George Weah", "Roger Milla", "Didier Drogba", "Samuel Eto'o"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which player set the men's World Cup single-tournament scoring record with 13 goals in 1958?",
+    "choices": ["Gerd Muller", "Just Fontaine", "Pele", "Sandor Kocsis"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  }
+]

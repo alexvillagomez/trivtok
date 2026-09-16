@@ -1,0 +1,236 @@
+[
+  {
+    "text": "Which long-running manga and anime series follows a boy ninja who hosts a sealed fox spirit?",
+    "choices": ["Naruto", "Bleach", "One Piece", "Black Clover"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which pirate adventure follows a stretchy captain searching for the world's greatest treasure?",
+    "choices": ["Dragon Ball", "One Piece", "Bleach", "Naruto"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which supernatural battle series follows a teenager who becomes a substitute Soul Reaper?",
+    "choices": ["Bleach", "Death Note", "Yu Yu Hakusho", "Jujutsu Kaisen"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which martial-arts adventure introduced Son Goku as its child protagonist?",
+    "choices": ["Dragon Ball", "One Piece", "Naruto", "Slam Dunk"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which volleyball manga follows Karasuno High's boys' team?",
+    "choices": ["Haikyu!!", "Kuroko's Basketball", "Slam Dunk", "Blue Lock"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which basketball manga centers on Kuroko and the Generation of Miracles?",
+    "choices": ["Kuroko's Basketball", "Slam Dunk", "Ahiru no Sora", "Eyeshield 21"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which hero series follows a boy who inherits a top hero's power and enrolls at U.A.?",
+    "choices": ["My Hero Academia", "Jujutsu Kaisen", "Black Clover", "Chainsaw Man"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which comedy-action manga stars Yusuke Urameshi, a delinquent turned spirit detective?",
+    "choices": ["Yu Yu Hakusho", "Rurouni Kenshin", "City Hunter", "Death Note"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which manga about a notebook that kills anyone whose name is written in it became a global hit?",
+    "choices": ["Death Note", "Bleach", "Naruto", "Dr. Slump"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which sword-fighting manga follows a former assassin wandering Japan after the Meiji Restoration?",
+    "choices": ["Rurouni Kenshin", "Samurai Deeper Kyo", "City Hunter", "Slam Dunk"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which manga about a robot girl in Penguin Village was created by Akira Toriyama?",
+    "choices": ["Dr. Slump", "Dragon Ball", "One Piece", "Black Clover"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which manga follows a freelance gunman and fixer in a crime-ridden city?",
+    "choices": ["City Hunter", "Monster", "Death Note", "Naruto"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which sports manga follows Ryoma Echizen at Seishun Academy?",
+    "choices": ["The Prince of Tennis", "Haikyu!!", "Kuroko's Basketball", "Blue Lock"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which manga follows Yuji Itadori and his classmates at Tokyo Jujutsu High?",
+    "choices": ["Jujutsu Kaisen", "Bleach", "Blue Exorcist", "Chainsaw Man"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which manga follows Denji after he becomes a Public Safety devil hunter?",
+    "choices": ["Chainsaw Man", "Demon Slayer", "Death Note", "Black Clover"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which manga follows an orphanage escape plan centered on Grace Field House?",
+    "choices": ["The Promised Neverland", "Attack on Titan", "Fullmetal Alchemist", "Dr. Stone"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which weekly magazine serialized many of these blockbuster series?",
+    "choices": ["Weekly Shonen Jump", "Weekly Young Jump", "Monthly Shonen Gangan", "Weekly Shonen Sunday"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which basketball manga follows the red-haired delinquent Hanamichi Sakuragi?",
+    "choices": ["Slam Dunk", "Kuroko's Basketball", "Haikyu!!", "Eyeshield 21"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which demon-hunting organization does Tanjiro join?",
+    "choices": ["Demon Slayer Corps", "Akatsuki", "Gotei 13", "Phantom Troupe"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which manga follows a rival mage with an anti-magic grimoire in a kingdom of magic knights?",
+    "choices": ["Black Clover", "Fairy Tail", "Blue Exorcist", "Jujutsu Kaisen"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which mangaka created the pirate saga about the Straw Hat crew and the search for the ultimate treasure?",
+    "choices": ["Eiichiro Oda", "Masashi Kishimoto", "Tite Kubo", "Yoshihiro Togashi"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which mangaka created the ninja saga built around a boy hosting a sealed fox spirit?",
+    "choices": ["Eiichiro Oda", "Tite Kubo", "Masashi Kishimoto", "Akira Toriyama"],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which mangaka created the Soul Reaper series known for Bankai transformations?",
+    "choices": ["Akira Toriyama", "Tite Kubo", "Hirohiko Araki", "Yoshihiro Togashi"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which mangaka created the Hunter series built around Nen?",
+    "choices": ["Yusei Matsui", "Masashi Kishimoto", "Yoshihiro Togashi", "Eiichiro Oda"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the signature energy attack most associated with Goku?",
+    "choices": ["Masenko", "Kamehameha", "Galick Gun", "Final Flash"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the name of the early Dragon Ball tournament where fighters compete on a martial-arts stage?",
+    "choices": ["Cell Games", "World Martial Arts Tournament", "Dark Tournament", "Chunin Exams"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the hidden village Naruto comes from?",
+    "choices": ["Sunagakure", "Kirigakure", "Konohagakure", "Kumogakure"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the name of Ichigo's sword spirit?",
+    "choices": ["Zangetsu", "Senbonzakura", "Hyorinmaru", "Zabimaru"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the clone technique Naruto uses to overwhelm opponents?",
+    "choices": ["Shadow Clone Jutsu", "Rasengan", "Chidori", "Flying Thunder God"],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the name of the Straw Hats' later ship?",
+    "choices": ["Going Merry", "Thousand Sunny", "Red Force", "Moby Dick"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the power system used by Hunters in Hunter x Hunter?",
+    "choices": ["Chakra", "Nen", "Reiatsu", "Haki"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What school does Midoriya attend?",
+    "choices": ["Seishun Academy", "U.A. High School", "Karasuno High", "Tokyo Jujutsu High"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which pirate crew is led by Shanks?",
+    "choices": ["Whitebeard Pirates", "Heart Pirates", "Red Hair Pirates", "Kid Pirates"],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which JoJo story arc follows Giorno Giovanna in Italy?",
+    "choices": ["Stardust Crusaders", "Golden Wind", "Stone Ocean", "Steel Ball Run"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What transformation turns a Saiyan's hair gold and raises their power dramatically?",
+    "choices": ["Super Saiyan", "Kaio-ken", "Ultra Instinct", "Great Ape"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which rogue ninja group is marked by red clouds?",
+    "choices": ["Akatsuki", "Anbu", "Gotei 13", "Phantom Troupe"],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which infamous criminal organization in Hunter x Hunter is known for spider tattoos?",
+    "choices": ["Gotei 13", "Phantom Troupe", "Akatsuki", "The Ginyu Force"],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which captain leads Bleach's 13th Division and is known for his gentle manner?",
+    "choices": ["Byakuya Kuchiki", "Jushiro Ukitake", "Kenpachi Zaraki", "Sajin Komamura"],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which technique does Ichigo unleash as a crescent-shaped blast?",
+    "choices": ["Getsuga Tensho", "Cero", "Rasengan", "Final Flash"],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  }
+]

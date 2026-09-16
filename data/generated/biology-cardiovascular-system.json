@@ -1,0 +1,290 @@
+[
+  {
+    "text": "Which chamber of the heart pumps blood to the lungs?",
+    "choices": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many chambers does a human heart have?",
+    "choices": ["2", "4", "6", "8"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which blood vessels carry blood away from the heart?",
+    "choices": ["Veins", "Arteries", "Capillaries", "Valves"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the thick muscular layer of the heart called?",
+    "choices": ["Endocardium", "Myocardium", "Pericardium", "Epicardium"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which type of blood cell carries oxygen?",
+    "choices": ["White blood cells", "Platelets", "Red blood cells", "Plasma cells"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What is the protein in red blood cells that binds oxygen?",
+    "choices": ["Myoglobin", "Hemoglobin", "Chlorophyll", "Collagen"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which valve prevents blood from flowing back into the left ventricle?",
+    "choices": ["Tricuspid valve", "Mitral valve", "Pulmonary valve", "Aortic valve"],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Where is the sinoatrial node located?",
+    "choices": ["Right ventricle", "Right atrium", "Left ventricle", "Left atrium"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the average resting heart rate for an adult?",
+    "choices": ["40-60 bpm", "60-100 bpm", "100-120 bpm", "120-140 bpm"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which artery is the main vessel carrying blood from the heart?",
+    "choices": ["Pulmonary artery", "Aorta", "Superior vena cava", "Inferior vena cava"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is the term for abnormally high blood pressure?",
+    "choices": ["Hypotension", "Hypertension", "Arrhythmia", "Cardiomyopathy"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Which vessels have the smallest diameter and allow gas exchange?",
+    "choices": ["Arteries", "Veins", "Capillaries", "Arterioles"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What percentage of the heart's output goes to the brain?",
+    "choices": ["5%", "15%", "25%", "35%"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which type of blood has the lowest oxygen content?",
+    "choices": ["Arterial blood", "Oxygenated blood", "Venous blood", "Pulmonary blood"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of the protective membrane surrounding the heart?",
+    "choices": ["Myocardium", "Pericardium", "Epicardium", "Endocardium"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which vessels return blood to the right atrium from the body?",
+    "choices": ["Pulmonary arteries", "Pulmonary veins", "Vena cava", "Aorta"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the function of platelets in blood?",
+    "choices": ["Transport oxygen", "Fight infections", "Form blood clots", "Carry nutrients"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How many times per minute does the typical heart beat at rest?",
+    "choices": ["30-50", "60-100", "110-130", "140-160"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which chamber receives oxygenated blood from the lungs?",
+    "choices": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the term for the period of heart relaxation?",
+    "choices": ["Systole", "Diastole", "Atrial kick", "Ventricular stasis"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which artery carries deoxygenated blood to the lungs?",
+    "choices": ["Aorta", "Coronary artery", "Pulmonary artery", "Carotid artery"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What role does the AV node play in the heart?",
+    "choices": ["Generates electrical impulses", "Delays impulses between atria and ventricles", "Contracts the atria", "Pumps blood to the lungs"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which condition involves irregular heartbeat?",
+    "choices": ["Bradycardia", "Arrhythmia", "Tachycardia", "Stenosis"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the normal range for systolic blood pressure in mmHg?",
+    "choices": ["80-90", "90-110", "120-130", "140-160"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which nutrient is essential for maintaining healthy blood vessel walls?",
+    "choices": ["Vitamin C", "Iron", "Potassium", "Calcium"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How does the heart muscle receive its own blood supply?",
+    "choices": ["From blood in the chambers", "Via coronary arteries", "From the aorta directly", "It doesn't; it extracts oxygen from passing blood"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the primary function of anticoagulants in the bloodstream?",
+    "choices": ["Kill bacteria", "Increase oxygen transport", "Prevent excessive clotting", "Destroy damaged cells"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which hormone increases heart rate and blood pressure?",
+    "choices": ["Insulin", "Epinephrine", "Prolactin", "Glucagon"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the relationship between blood pressure and vascular resistance?",
+    "choices": ["Inverse relationship", "Direct proportional relationship", "No relationship", "Logarithmic relationship"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What role do baroreceptors play in cardiovascular regulation?",
+    "choices": ["Monitor oxygen levels", "Sense blood pressure changes", "Regulate heart valve function", "Control red blood cell production"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which condition occurs when plaque builds up in arteries?",
+    "choices": ["Aneurysm", "Atherosclerosis", "Thrombosis", "Embolism"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the function of the Bundle of His?",
+    "choices": ["Pump blood", "Conduct electrical impulses to ventricles", "Store blood", "Regulate heart valve opening"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How does the lymphatic system relate to cardiovascular function?",
+    "choices": ["It has no connection", "It returns interstitial fluid to blood circulation", "It produces blood cells", "It filters all blood"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What percentage of cardiac output is distributed to the skin at rest?",
+    "choices": ["3%", "5%", "10%", "20%"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which type of hypertension has no identifiable secondary cause?",
+    "choices": ["Secondary hypertension", "Chronic hypertension", "Essential hypertension", "Renal hypertension"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the significance of the P wave on an ECG?",
+    "choices": ["Ventricular depolarization", "Atrial depolarization", "Ventricular repolarization", "Heart valve closure"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "How is oxygen primarily transported in the bloodstream?",
+    "choices": ["Dissolved in plasma", "Bound to hemoglobin in RBCs", "Carried by white blood cells", "Attached to platelets"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the Starling mechanism in cardiac physiology?",
+    "choices": ["Relationship between ventricular stretch and contractile force", "Rate of heart contraction", "Blood pressure regulation", "Oxygen delivery to tissues"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which ion is critical for the cardiac action potential?",
+    "choices": ["Sodium", "Potassium", "Calcium", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does the QRS complex represent on an ECG?",
+    "choices": ["Atrial contraction", "Ventricular depolarization", "Atrial repolarization", "Atrioventricular delay"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How does sympathetic stimulation affect cardiac function?",
+    "choices": ["Decreases heart rate and contractility", "Increases heart rate and contractility", "Stops the heart temporarily", "No effect on the heart"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the primary determinant of pulse pressure?",
+    "choices": ["Total peripheral resistance", "Arterial compliance", "Cardiac output alone", "Ventricular wall thickness"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which compensatory mechanism occurs during chronic hypertension?",
+    "choices": ["Ventricular hypertrophy", "Chamber dilation", "Valve prolapse", "Coronary aneurysm"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the relationship between hematocrit and blood viscosity?",
+    "choices": ["Inverse relationship", "No relationship", "Direct proportional relationship", "Exponential relationship"],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How does endothelial nitric oxide contribute to vascular tone?",
+    "choices": ["It constricts blood vessels", "It causes vasodilation through smooth muscle relaxation", "It increases blood viscosity", "It prevents platelet aggregation only"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the autoregulation mechanism in coronary circulation?",
+    "choices": ["SNS control of coronary vessels", "Metabolic adjustment of vessel diameter to match metabolic demand", "Fixed vessel diameter", "Baroreceptor feedback only"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which factors contribute to the formation of atherosclerotic plaques?",
+    "choices": ["LDL oxidation and inflammatory response", "Excess HDL only", "Physical exercise", "Low blood pressure"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the Frank-Starling mechanism's role in maintaining cardiac output?",
+    "choices": ["Regulates heart rate only", "Adjusts stroke volume based on ventricular filling", "Controls blood viscosity", "Manages neural input exclusively"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  }
+]

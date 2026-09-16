@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Which attack brought the United States into World War II on December 7, 1941?",
+    "choices": ["Attack on Pearl Harbor", "Battle of Midway", "Invasion of Guadalcanal", "Bombing of Tokyo"],
+    "correctIndex": 0,
+    "difficulty": 0.05
+  },
+  {
+    "text": "What was the date of the attack on the U.S. naval base in Hawaii?",
+    "choices": ["December 7, 1941", "November 8, 1941", "January 15, 1942", "March 3, 1942"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many U.S. battleships were sunk or damaged at Pearl Harbor?",
+    "choices": ["8 battleships", "5 battleships", "12 battleships", "3 battleships"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Pacific island group did Japan attack on December 8, 1941?",
+    "choices": ["Philippines", "Guam", "Wake Island", "Hawaii"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who was the U.S. Admiral commanding the Pacific Fleet during Pearl Harbor?",
+    "choices": ["Husband Kimmel", "Chester Nimitz", "William Halsey", "Raymond Spruance"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In what year did the Battle of Midway occur?",
+    "choices": ["1942", "1941", "1943", "1944"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which battle is considered the turning point in the Pacific War?",
+    "choices": ["Midway", "Coral Sea", "Guadalcanal", "Philippine Sea"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The U.S. strategy of capturing islands by island-hopping toward Japan is known as?",
+    "choices": ["Leapfrogging", "Blitzkrieg", "Scorched Earth", "Operation Downfall"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which U.S. General led the campaign to retake the Philippines?",
+    "choices": ["Douglas MacArthur", "Dwight Eisenhower", "George Patton", "Edmund Almond"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What famous phrase did General MacArthur speak upon returning to the Philippines?",
+    "choices": ["I shall return", "Remember Pearl Harbor", "Victory or death", "No surrender"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Japanese Admiral planned the attack on Pearl Harbor?",
+    "choices": ["Isoroku Yamamoto", "Hideki Tojo", "Chuichi Nagumo", "Osami Nagano"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Japan's surprise attack relied on which of the following?",
+    "choices": ["Carrier-based aircraft", "Battleship bombardment", "Submarine warfare", "Land-based bombers"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Battle of Midway was fought primarily between which types of ships?",
+    "choices": ["Aircraft carriers", "Battleships", "Cruisers", "Destroyers"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which U.S. naval operation code was used for the Midway campaign?",
+    "choices": ["Operation Vengeance", "Operation Cartwheel", "Operation Downfall", "Operation Olympic"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In the Battle of Midway, how many Japanese aircraft carriers were sunk?",
+    "choices": ["4", "3", "6", "2"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which American codebreakers helped predict the Japanese attack at Midway?",
+    "choices": ["Station Hypo", "Magic Intercepts", "GCHQ", "Army Signal Intelligence"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Guadalcanal was significant because it was the first major American what?",
+    "choices": ["Offensive against Japan", "Naval victory", "Amphibious landing", "Air raid"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What was the primary objective of the Guadalcanal campaign?",
+    "choices": ["To prevent Japanese expansion southward", "To protect Australia", "To establish a staging area", "All of the above"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which island chain did the U.S. target in Operation Cartwheel?",
+    "choices": ["Solomon Islands", "Mariana Islands", "Marshall Islands", "Gilbert Islands"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Admiral Chester Nimitz commanded which theatre of WWII?",
+    "choices": ["Pacific Ocean Areas", "Southwest Pacific", "Central Pacific", "Northern Pacific"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Battle of the Philippine Sea in 1944 is often called what?",
+    "choices": ["Great Marianas Turkey Shoot", "Second Pearl Harbor", "Final Carrier Battle", "Eastern Defense Line"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Iwo Jima's volcanic terrain made it strategically valuable for what purpose?",
+    "choices": ["Airbase for B-29 raids on Japan", "Naval base operations", "Radar station", "Supply depot"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many U.S. Marines died in the Battle of Iwo Jima?",
+    "choices": ["Nearly 7,000", "About 3,000", "Around 10,000", "Roughly 2,000"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The iconic photograph of the flag-raising at Iwo Jima was taken by?",
+    "choices": ["Joe Rosenthal", "Alfred Eisenstaedt", "Robert Capa", "Margaret Bourke-White"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Battle of Okinawa lasted how many days?",
+    "choices": ["82 days", "45 days", "60 days", "120 days"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Japanese technique used pilots to crash aircraft into ships?",
+    "choices": ["Kamikaze", "Banzai", "Shokaku", "Akagi"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Japan's Prime Minister during most of the Pacific War was?",
+    "choices": ["Hideki Tojo", "Isoroku Yamamoto", "Fumimaro Konoye", "Kantaro Suzuki"],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The island-hopping strategy allowed the U.S. to bypass heavily fortified what?",
+    "choices": ["Japanese garrisons", "Aircraft", "Supply lines", "Coastlines"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which code-breaking effort was crucial to defeating Japan in the Pacific?",
+    "choices": ["JN-25", "Purple Code", "Enigma", "Lorenz"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The U.S. captured the Mariana Islands primarily to position what?",
+    "choices": ["B-29 Superfortress bombers", "Long-range guns", "Radar stations", "Fleet anchorages"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In what year did the atomic bombs fall on Japan?",
+    "choices": ["1945", "1944", "1943", "1946"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which island hosted the atomic bomb research facility at Los Alamos?",
+    "choices": ["New Mexico", "Hawaii", "California", "Arizona"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The Potsdam Declaration in July 1945 demanded Japan's what?",
+    "choices": ["Unconditional surrender", "Territorial concessions", "Military disarmament", "Emperor's abdication"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Japan formally surrendered on September 2, 1945, aboard which vessel?",
+    "choices": ["USS Missouri", "USS Arizona", "USS Hornet", "USS Enterprise"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The firebombing campaign against Japanese cities was led by which Air Force?",
+    "choices": ["U.S. Army Air Forces", "U.S. Navy Air Service", "U.S. Marine Corps Aviation", "British RAF"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Operation Downfall was the planned invasion of which Japanese island?",
+    "choices": ["Honshu", "Hokkaido", "Kyushu", "Shikoku"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which American general was Supreme Commander of Allied Powers in the Pacific?",
+    "choices": ["Douglas MacArthur", "Chester Nimitz", "Dwight Eisenhower", "Edmund Almond"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "The U-boat campaigns in the Pacific were less significant than in the Atlantic because?",
+    "choices": ["Japan relied on fast combat ships", "The Pacific is too large", "Aircraft dominated naval warfare", "Supply lines were shorter"],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Admiral Yamamoto was killed in 1943 after his aircraft was intercepted via what?",
+    "choices": ["Intelligence from code-breaking", "Radar tracking", "Scout plane sighting", "Radio direction finding"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which experimental Japanese weapon saw limited deployment in the Pacific War?",
+    "choices": ["Balloon bombs (Fu-Go)", "Suicide tanks", "Robot aircraft", "Directed energy weapons"],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The Battle of Leyte Gulf in October 1944 was the largest naval battle by what metric?",
+    "choices": ["Number of ships engaged", "Tonnage of vessels", "Casualty count", "Geographic area"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Japan's 'Greater East Asia Co-Prosperity Sphere' was ideologically framed as opposing what?",
+    "choices": ["Western imperialism", "Soviet communism", "Chinese nationalism", "Free trade"],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which island saw the highest Japanese and American casualty ratios in the Pacific?",
+    "choices": ["Okinawa", "Iwo Jima", "Guadalcanal", "Tarawa"],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "The occupation of Japan after WWII lasted approximately how many years?",
+    "choices": ["7", "5", "10", "3"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "General Curtis LeMay pioneered which tactic that devastated Japanese cities?",
+    "choices": ["Low-altitude firebombing", "Precision daylight bombing", "Cluster bomb strategies", "Incendiary carpet bombing"],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  }
+]

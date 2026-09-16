@@ -1,0 +1,278 @@
+[
+  {
+    "text": "In what year was the state of Israel officially established?",
+    "choices": ["1945", "1948", "1952", "1950"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which country became independent from the Ottoman Empire in 1923 after World War I?",
+    "choices": ["Syria", "Iraq", "Turkey", "Lebanon"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "The Suez Canal crisis occurred in which year?",
+    "choices": ["1952", "1956", "1960", "1967"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Saudi Arabia's capital city is known as:",
+    "choices": ["Jeddah", "Mecca", "Riyadh", "Medina"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Middle Eastern nation is the world's largest oil exporter?",
+    "choices": ["Iran", "Iraq", "Kuwait", "Saudi Arabia"],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The 1973 war between Israel and Arab states is called the:",
+    "choices": ["Six-Day War", "Yom Kippur War", "Sinai War", "Ramadan War"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the primary state religion of Iran?",
+    "choices": ["Sunni Islam", "Shia Islam", "Zoroastrianism", "Christianity"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Suez Canal connects the Mediterranean Sea to the:",
+    "choices": ["Persian Gulf", "Red Sea", "Arabian Sea", "Dead Sea"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which leader transformed Egypt during the mid-20th century?",
+    "choices": ["Hosni Mubarak", "Gamal Abdel Nasser", "Anwar Sadat", "Muhammad Ali"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "Israel's 1967 military victory is known as the:",
+    "choices": ["Yom Kippur War", "Six-Day War", "Sinai Campaign", "War of Attrition"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "The Palestinian uprising that began in 1987 was called the:",
+    "choices": ["Al-Aqsa", "Intifada", "Fatah", "Hamas"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which treaty formally ended Ottoman rule after World War I?",
+    "choices": ["Treaty of Versailles", "Treaty of Sèvres", "Treaty of Ankara", "Treaty of Paris"],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The Sykes-Picot Agreement divided territories between which two powers?",
+    "choices": ["France and Germany", "Britain and France", "Britain and Russia", "France and Spain"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which international body issued the Balfour Declaration supporting a Jewish homeland?",
+    "choices": ["League of Nations", "British Government", "United Nations", "Zionist Congress"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Iraq invaded Kuwait in what year?",
+    "choices": ["1988", "1989", "1990", "1991"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Palestine Mandate was granted by the:",
+    "choices": ["Ottoman Empire", "League of Nations", "United Nations", "British Parliament"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Middle Eastern leader was known as 'The Lion of the Desert'?",
+    "choices": ["Mustafa Kemal", "Lawrence of Arabia", "Glubb Pasha", "Omar Mukhtar"],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Egypt's Aswan High Dam was built with support from which superpower?",
+    "choices": ["United States", "France", "Soviet Union", "Britain"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Palestinian faction was founded by George Habash?",
+    "choices": ["Fatah", "PFLP", "Hamas", "Democratic Front"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Balfour Declaration was issued in what year?",
+    "choices": ["1915", "1917", "1920", "1922"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Turkey's founder after World War I was:",
+    "choices": ["İsmet İnönü", "Mustafa Kemal Atatürk", "Talat Pasha", "Enver Pasha"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The Iranian Revolution occurred in which year?",
+    "choices": ["1975", "1977", "1979", "1981"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Palestinian leader signed the Oslo Accords?",
+    "choices": ["Hamas leader", "Yasser Arafat", "Mahmoud Abbas", "George Habash"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "The Iran-Iraq War lasted from 1980 to:",
+    "choices": ["1985", "1986", "1988", "1990"],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which country is officially named the Hashemite Kingdom?",
+    "choices": ["Saudi Arabia", "Jordan", "Palestine", "Lebanon"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Egypt's president who signed a peace treaty with Israel was:",
+    "choices": ["Gamal Abdel Nasser", "Anwar Sadat", "Hosni Mubarak", "Muhammad Morsi"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "The 1948 Palestine War ended with armistices called the:",
+    "choices": ["Rhodes Accords", "UN Resolutions", "Rhodes Armistice Agreements", "Peace Pacts"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Arab country was the first to sign a peace treaty with Israel?",
+    "choices": ["Palestine", "Egypt", "Jordan", "Lebanon"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The PLO was founded by which leader?",
+    "choices": ["Yasser Arafat", "George Habash", "Ahmad Shukeiri", "Mahmoud Abbas"],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Anwar Sadat was assassinated in which year?",
+    "choices": ["1979", "1980", "1981", "1982"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The UN Partition Plan for Palestine was adopted in what year?",
+    "choices": ["1945", "1946", "1947", "1948"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which organization did Gamal Abdel Nasser help establish to promote Arab unity?",
+    "choices": ["Arab NATO", "Arab League", "United Arab Republic", "Pan-Arab Union"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Lavon Affair was a covert operation by which country?",
+    "choices": ["Egypt", "Palestine", "Israel", "Britain"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Arab leader was assassinated in 1975?",
+    "choices": ["Nasser", "King Faisal", "Sadat", "Arafat"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The Camp David Accords were signed between Egypt, Israel, and which country's mediation?",
+    "choices": ["UN", "United States", "Soviet Union", "France"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Middle Eastern country became a modern state in 1971?",
+    "choices": ["Kuwait", "Bahrain", "United Arab Emirates", "Qatar"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "The Stern Gang was a militant organization in which territory?",
+    "choices": ["Egypt", "Syria", "Palestine", "Iraq"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Ottoman empire territory became the nation of Lebanon?",
+    "choices": ["Syria Vilayetate", "Greater Syria", "Mount Lebanon Mutasarrifate", "Adana Vilayet"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Berlin-Baghdad Railway project was initiated by which empire?",
+    "choices": ["Russian", "Ottoman", "French", "British"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Palestinian leader led the First Intifada?",
+    "choices": ["Yasser Arafat", "Mahmoud Abbas", "Grass-roots uprising", "Hamas leadership"],
+    "correctIndex": 2,
+    "difficulty": 0.63
+  },
+  {
+    "text": "The Ramadan War of 1973 was timed to coincide with the Islamic holy month primarily to:",
+    "choices": ["Increase recruitment", "Surprise Israel during holiday", "Gain Arab Muslim support", "Avoid international interference"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Which Arab leader led a pan-Arab nationalist movement across multiple states?",
+    "choices": ["King Abdullah", "Habib Bourguiba", "Gamal Abdel Nasser", "Houari Boumediene"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The Suez Crisis was precipitated by Egypt nationalizing which asset?",
+    "choices": ["Oil fields", "Suez Canal", "Cotton exports", "Aswan Dam"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which twentieth-century Middle Eastern leader was inspired by Nazi ideology?",
+    "choices": ["King Saud", "Nasser", "Amin al-Husseini", "Ibn Saud"],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The 1948 Arab-Israeli War is known in Arabic historiography as the:",
+    "choices": ["Palestine Disaster", "Nakba", "Great Loss", "Territory War"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Middle Eastern nation declared itself an Islamic Republic in 1979?",
+    "choices": ["Saudi Arabia", "Pakistan", "Iran", "Afghanistan"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  }
+]

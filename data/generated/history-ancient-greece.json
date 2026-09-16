@@ -1,0 +1,272 @@
+[
+  {
+    "text": "What term describes an independent city-state in ancient Greece?",
+    "choices": ["Empire", "Polis", "Democracy", "Monarchy"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which ancient Greek city was renowned for its military training and discipline?",
+    "choices": ["Athens", "Sparta", "Thebes", "Corinth"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Athens pioneered which political system in the 5th century BC?",
+    "choices": ["Oligarchy", "Tyranny", "Rule by the people", "Monarchy"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What was the central marketplace and social hub called in ancient Greek cities?",
+    "choices": ["Forum", "Agora", "Stoa", "Theater"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Which Persian emperor led the massive invasion of Greece in 480 BC?",
+    "choices": ["Darius I", "Xerxes I", "Cyrus II", "Artaxerxes I"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "The Greeks defeated a much larger Persian force at which battle in 490 BC?",
+    "choices": ["Marathon", "Salamis", "Thermopylae", "Plataea"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which man tutored Alexander the Great in philosophy and science?",
+    "choices": ["Plato", "Socrates", "Aristotle", "Pythagoras"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a system in which citizens vote on laws and policy called?",
+    "choices": ["Autocracy", "Oligarchy", "Rule by the people", "Theocracy"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Who was the famous student of Socrates known for founding the Academy?",
+    "choices": ["Xenophon", "Plato", "Aristotle", "Aristophanes"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What military formation of tightly packed, heavily armored soldiers did Greeks employ?",
+    "choices": ["Legion", "Phalanx", "Cohort", "Testudo"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which city-state emerged victorious from the prolonged Peloponnesian conflict?",
+    "choices": ["Athens", "Sparta", "Thebes", "Corinth"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A trireme was what type of vessel in ancient Greece?",
+    "choices": ["A religious temple", "A warship with three rows of oars", "A political office", "A ceremonial object"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In which city-state was the philosopher Socrates tried and executed?",
+    "choices": ["Sparta", "Thebes", "Athens", "Corinth"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was the most celebrated athletic and religious competition in ancient Greece?",
+    "choices": ["Isthmian Games", "Olympic Games", "Nemean Games", "Pythian Games"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "The sea separating Greece from Asia Minor is called the __ Sea.",
+    "choices": ["Adriatic", "Ionian", "Aegean", "Mediterranean"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "The Delian League was primarily formed to accomplish what goal?",
+    "choices": ["Trade with Persian merchants", "Unite city-states against Persian threats", "Establish new colonies", "Control Mediterranean commerce"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which statesman led Athens during its most glorious cultural period in the 5th century BC?",
+    "choices": ["Themistocles", "Pericles", "Cleisthenes", "Solon"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In which century BC did Alexander the Great rapidly expand his empire across Asia?",
+    "choices": ["5th century", "4th century", "3rd century", "6th century"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What term did the ancient Greeks use for non-Greek peoples?",
+    "choices": ["Heathens", "Pagans", "Barbarians", "Outsiders"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Greek philosopher founded an influential school called the Academy?",
+    "choices": ["Socrates", "Plato", "Aristotle", "Diogenes"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "What was the Athenian practice of voting to temporarily banish an unpopular leader called?",
+    "choices": ["Exile", "Ostracism", "Persecution", "Proscription"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Persian monarch was defeated by Alexander at the Battle of Gaugamela?",
+    "choices": ["Xerxes I", "Darius III", "Artaxerxes II", "Cyrus II"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Thirty Tyrants were what in post-Peloponnesian War Athens?",
+    "choices": ["A military generals' council", "An oligarchic regime imposed by Sparta", "A philosophical sect", "A democratic faction"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which architect is credited with designing the Parthenon on the Acropolis?",
+    "choices": ["Phidias", "Ictinus", "Callicrates", "Hermogenes"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What agreement temporarily halted the war between Athens and Sparta?",
+    "choices": ["Treaty of Nicias", "Treaty of Antalkidas", "Peace of Callias", "Treaty of Corinth"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which philosopher was famous for living ascetically and is often depicted with a barrel?",
+    "choices": ["Zeno", "Diogenes", "Epicurus", "Pyrrhus"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Acropolis served primarily as what in ancient Athens?",
+    "choices": ["Residence for the poor", "A fortified center with temples", "Military barracks", "Slave marketplace"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In approximately which year did Cleisthenes introduce democratic reforms in Athens?",
+    "choices": ["510 BC", "490 BC", "508 BC", "525 BC"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The Battle of Thermopylae was fought primarily to accomplish what objective?",
+    "choices": ["Conquer Persian territory", "Slow the Persian invasion of Greece", "Establish trade routes", "Settle Spartan-Athenian conflicts"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which naval engagement proved decisive in defeating Xerxes' invasion fleet?",
+    "choices": ["Battle of Salamis", "Battle of Lepanto", "Battle of Actium", "Battle of Eurymedon"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was the helot system in Sparta?",
+    "choices": ["A religious ceremony", "State-owned serfs bound to the land", "A military rank", "A voting procedure"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Alexander founded which famous city in Egypt as his capital in the East?",
+    "choices": ["Babylon", "Alexandria", "Tyre", "Damascus"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What role did the Oracle at Delphi play in ancient Greek religious life?",
+    "choices": ["Enforced legal codes", "Provided divine prophecies and guidance", "Conducted military training", "Collected taxes"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which of Alexander's generals became the founder of the Ptolemaic dynasty?",
+    "choices": ["Seleucus", "Antigonus", "Ptolemy", "Lysimachus"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Sparta maintained a unique system combining monarchy with which other form?",
+    "choices": ["Democracy", "Oligarchy through its council of elders", "Tyranny", "Theocracy"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Ionian Revolt was led primarily by which city-state against Persian rule?",
+    "choices": ["Miletus", "Ephesus", "Smyrna", "Chios"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the literal meaning of the Greek word 'symposium'?",
+    "choices": ["Public debate forum", "A social gathering for drinking and conversation", "Academic lecture", "Political assembly"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which playwright wrote tragedies including 'Oedipus Rex'?",
+    "choices": ["Euripides", "Sophocles", "Aeschylus", "Aristophanes"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What philosophical school taught that simple living and mental tranquility were virtues?",
+    "choices": ["Stoicism", "Skepticism", "Epicureanism", "Cynicism"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In which battle did the Greeks decisively defeat the Persian army after Marathon?",
+    "choices": ["Battle of Plataea", "Battle of Salamis", "Battle of Thermopylae", "Battle of Mycale"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What was the primary purpose of the gymnasia in ancient Greek society?",
+    "choices": ["Religious worship sites", "Political meeting halls", "Centers for physical training and intellectual development", "Commercial marketplaces"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which philosopher from Citium founded the Stoic school of thought?",
+    "choices": ["Zeno of Citium", "Epicurus", "Diogenes", "Heraclitus"],
+    "correctIndex": 0,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What distinct architectural elements did the Greeks develop and perfect?",
+    "choices": ["Arches and vaults", "Doric, Ionic, and Corinthian column orders", "Flying buttresses", "Ribbed domes"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "How did the Peloponnesian War proceed after the initial phase under the Peace of Nicias?",
+    "choices": ["It ended permanently", "It resumed after a brief peace, lasting until Spartan victory", "It expanded to include Persia", "It became a series of small raids"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "On what economic foundation was Spartan power largely built?",
+    "choices": ["Sea trade and naval commerce", "Agriculture controlled through enslaved helots", "Mining precious metals", "Mercenary military services"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "text": "Who directed Jurassic Park (1993)?",
+    "choices": ["Steven Spielberg", "James Cameron", "Robert Zemeckis", "Joe Johnston"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In The Matrix, what color pill does Neo take?",
+    "choices": ["Red", "Blue", "Green", "Purple"],
+    "correctIndex": 0,
+    "difficulty": 0.10
+  },
+  {
+    "text": "Which film won Best Picture at the 1995 Academy Awards?",
+    "choices": ["Forrest Gump", "Pulp Fiction", "The Shawshank Redemption", "Se7en"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the name of the island in King Kong (2005)?",
+    "choices": ["Skull Island", "Kong Island", "Monster Island", "Dark Island"],
+    "correctIndex": 0,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Who plays the lead role in the Bourne film series?",
+    "choices": ["Matt Damon", "Tom Cruise", "Brad Pitt", "George Clooney"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In Inception, what object does Cobb use as his totem?",
+    "choices": ["A spinning top", "A coin", "A watch", "A ring"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which director is known for his non-linear storytelling in films like Memento and Interstellar?",
+    "choices": ["Christopher Nolan", "Quentin Tarantino", "Paul Thomas Anderson", "Denis Villeneuve"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What year was the first Avatar film released?",
+    "choices": ["2009", "2010", "2008", "2011"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In The Dark Knight, what does the Joker represent philosophically?",
+    "choices": ["Chaos and anarchy", "Justice and order", "Redemption", "Greed"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who won the Best Director Oscar for Brokeback Mountain?",
+    "choices": ["Ang Lee", "Paul Haggis", "Joel Coen", "Martin Scorsese"],
+    "correctIndex": 0,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the final twist in The Sixth Sense?",
+    "choices": ["Bruce Willis' character is already dead", "The villain is the therapist", "Cole was lying the whole time", "There is no supernatural element"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which film trilogy features a lead character named Sarah Connor?",
+    "choices": ["Terminator", "Alien", "Predator", "RoboCop"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Gladiator, what is the name of Russell Crowe's character?",
+    "choices": ["Maximus Decimus Meridius", "Commodus", "Juba", "Lucilla"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who directed Slumdog Millionaire?",
+    "choices": ["Spike Jonze", "Danny Boyle", "David Fincher", "Ang Lee"],
+    "correctIndex": 1,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What is the name of the supervillain team in The Avengers (2012)?",
+    "choices": ["The Sinister Six", "The Black Order", "Hydra", "The Chitauri"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In Titanic, what is the name of the diamond Kate Winslet's character wears?",
+    "choices": ["The Hope Diamond", "The Heart of the Ocean", "The Star of David", "The Midnight Star"],
+    "correctIndex": 1,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Which Christopher Nolan film features Tom Hardy as Bane?",
+    "choices": ["The Dark Knight", "The Dark Knight Rises", "Batman Begins", "Inception"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does 'IMAX' stand for in cinema technology?",
+    "choices": ["Integrated Maximum Experience", "Image Maximum Aspect", "Inter-film Maximum Audio", "Immersive Maximum Experience"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In The Truman Show, what is the name of the artificial world Truman lives in?",
+    "choices": ["Seahaven Island", "Truman Bay", "Artificial Island", "Paradise"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who directed Children of Men, known for its long unbroken takes?",
+    "choices": ["Roger Deakins", "Alfonso Cuarón", "Guillermo del Toro", "Denis Villeneuve"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "In No Country for Old Men, what object becomes central to the plot's conflict?",
+    "choices": ["A briefcase", "A drug shipment", "A map", "A car"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "What is the primary setting of Blade Runner 2049?",
+    "choices": ["Tokyo", "Los Angeles", "New Vegas", "San Francisco"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In The Grand Budapest Hotel, what is the main treasure M. Gustave seeks?",
+    "choices": ["Gold coins", "A painting", "Jewels", "A manuscript"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who plays Wolverine in the X-Men film franchise?",
+    "choices": ["Christian Bale", "Hugh Jackman", "Ryan Reynolds", "Viggo Mortensen"],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Fight Club, what is the protagonist's actual profession before the story begins?",
+    "choices": ["A mechanic", "An insurance adjuster", "A boxer", "A factory worker"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which Pixar film features a rat who dreams of being a chef?",
+    "choices": ["Cars", "Ratatouille", "Finding Nemo", "Toy Story"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In Eternal Sunshine of the Spotless Mind, what does the title reference?",
+    "choices": ["A poem by Alexander Pope", "A Romantic painting", "A song lyric", "A Buddhist concept"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What technology allows characters to share dreams in Inception?",
+    "choices": ["A neural implant", "PASIV device", "A machine gun", "Psychotropic drugs"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In The Silence of the Lambs, what does Dr. Hannibal Lecter study and admire?",
+    "choices": ["Classical music", "Renaissance art", "Human psychology", "Philosophy"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who directed A Beautiful Mind?",
+    "choices": ["Gus Van Sant", "Ron Howard", "Clint Eastwood", "Curtis Hanson"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Parasite, what is the poor family's main source of income at the film's start?",
+    "choices": ["Panhandling", "Folding pizza boxes", "Theft", "Day labor"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What makes The Ring horror film so distinctive in its presentation?",
+    "choices": ["Documentary style", "Black and white cinematography", "Distorted video footage", "First-person camera"],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In 12 Angry Men (1997 remake), what crime is the defendant accused of?",
+    "choices": ["Murder", "Robbery", "Assault", "Manslaughter"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who directed Mulholland Drive?",
+    "choices": ["Quentin Tarantino", "David Lynch", "Paul Thomas Anderson", "Spike Jonze"],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Requiem for a Dream, how many main characters are portrayed struggling with addiction?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the name of the island in the film Shutter Island?",
+    "choices": ["Alcatraz", "Riker's Island", "Ashcliffe", "Devil's Island"],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In The Fountain, across how many time periods is the story told?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Who plays the villain in Mission: Impossible - Fallout?",
+    "choices": ["Alec Baldwin", "Henry Cavill", "Tom Cruise", "Rebecca Ferguson"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Moonlight, the protagonist's story is divided into how many chapters?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is unique about the cinematography in Enter the Void?",
+    "choices": ["Black and white only", "Neon colors", "First-person perspective", "Stop-motion"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Pineapple Express, what street food item becomes relevant to the plot?",
+    "choices": ["Hot dogs", "Tacos", "Red vines candy", "Churros"],
+    "correctIndex": 3,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which film won Best Picture at the 2020 Academy Awards?",
+    "choices": ["1917", "Once Upon a Time in Hollywood", "Parasite", "Joker"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In Synecdoche, New York, what does the protagonist theater director create?",
+    "choices": ["A Broadway show", "A life-size replica of New York", "A documentary", "An art installation"],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who won the Best Supporting Actor Oscar for There Will Be Blood?",
+    "choices": ["Paul Dano", "Paul Thomas Anderson (director)", "Javier Bardem", "None of these"],
+    "correctIndex": 3,
+    "difficulty": 0.70
+  },
+  {
+    "text": "In The Social Network, which company does Facebook merge with or face competition from?",
+    "choices": ["MySpace", "Snapchat", "Instagram", "Google"],
+    "correctIndex": 3,
+    "difficulty": 0.50
+  }
+]

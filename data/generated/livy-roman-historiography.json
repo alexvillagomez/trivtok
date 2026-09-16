@@ -1,0 +1,542 @@
+[
+  {
+    "text": "What is the standard short name of Livy's great history of Rome?",
+    "choices": ["Annales", "Ab Urbe Condita", "Histories", "Bellum Civile"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Livy wrote primarily in which language?",
+    "choices": ["Greek", "Latin", "Oscan", "Etruscan"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Livy was born in which Italian city, ancient Patavium?",
+    "choices": ["Capua", "Patavium", "Arretium", "Brundisium"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Livy's history begins with the traditional founding of which city?",
+    "choices": ["Athens", "Rome", "Carthage", "Alexandria"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Roughly how many books did Livy compose in Ab Urbe Condita?",
+    "choices": ["42", "142", "72", "98"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "How much of Livy's full history survives in substantial form?",
+    "choices": ["Almost all of it", "About a quarter", "Only one book", "None beyond fragments"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which pair traditionally founded Rome in Livy's opening narrative?",
+    "choices": ["Romulus and Remus", "Castor and Pollux", "Aeneas and Ascanius", "Numa and Tullus"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which Roman ruler is associated in Livy with the rape of Lucretia and the fall of monarchy?",
+    "choices": ["Servius Tullius", "Tarquinius Superbus", "Ancus Marcius", "Numa Pompilius"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which constitutional change follows the expulsion of the kings in Livy's narrative?",
+    "choices": ["Creation of the republic", "Establishment of the principate", "Founding of the decemvirate as a permanent regime", "Union with Carthage"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Livy's surviving Books 21 to 30 focus chiefly on which war?",
+    "choices": ["Social War", "Second Punic War", "Jugurthine War", "Gallic War"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Carthaginian commander dominates Livy's narrative of Rome's darkest military crisis?",
+    "choices": ["Hamilcar", "Hannibal", "Hasdrubal Gisco", "Mago Barca"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which Roman general eventually defeats Hannibal in Livy's account?",
+    "choices": ["Fabius Maximus", "Scipio Africanus", "Marcellus", "Flamininus"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which city is destroyed by the Gauls in one of Livy's most famous early books?",
+    "choices": ["Veii", "Rome", "Capua", "Syracuse"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Roman hero is linked in Livy to delaying the Gallic capture on the Capitoline?",
+    "choices": ["Camillus", "Mucius Scaevola", "Cincinnatus", "Horatius Cocles"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Roman is called back from the plow to serve as dictator in a classic Livian exemplum?",
+    "choices": ["Cincinnatus", "Brutus", "Appius Claudius", "Scaevola"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What term best describes Livy's frequent use of morally charged historical examples?",
+    "choices": ["Ekphrasis", "Exempla", "Parodos", "Aitia"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which statement best fits Livy's preface?",
+    "choices": ["He rejects moral instruction as a goal", "He presents history as a storehouse of examples", "He claims only eyewitness testimony matters", "He refuses to discuss Rome's origins"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Livy's work is often grouped into sets of ten books known by what name?",
+    "choices": ["Triads", "Decades", "Hexads", "Enneads"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Books 1 to 10 of Livy are commonly divided into what two five-book units?",
+    "choices": ["Dyads", "Pentads", "Heptads", "Tetralogies"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What are the Periochae in relation to Livy's history?",
+    "choices": ["Ancient summaries of the books", "Private letters to Augustus", "A lost commentary by Polybius", "Later medieval translations"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which historian is most often compared with Livy as a more analytical source for the Punic Wars?",
+    "choices": ["Polybius", "Herodotus", "Tacitus", "Josephus"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Compared with Polybius, Livy is often said to emphasize what more strongly?",
+    "choices": ["Constitutional diagrams", "Narrative drama and character", "Exact logistics tables", "Autopsy of battlefields"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which feature appears often in Livy's narrative even when not stenographically historical?",
+    "choices": ["Inserted speeches", "Philosophical dialogues in verse", "Marginal scholia", "Alphabetical catalogues"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In Roman historiography, speeches primarily serve what function for Livy?",
+    "choices": ["Preserving official transcripts", "Revealing motives and framing issues", "Avoiding narrative continuity", "Replacing chronology altogether"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Roman virtue is repeatedly highlighted in Livy's admired figures?",
+    "choices": ["Pietas", "Luxuria", "Desidia", "Vanitas"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Livy's preface contrasts early Roman virtue with what later development?",
+    "choices": ["Naval expansion", "Moral decline born of wealth and ambition", "Greek colonization of Latium", "Christianization of the empire"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which political era forms the contemporary backdrop to Livy's writing career?",
+    "choices": ["Age of the Gracchi", "Age of Augustus", "Reign of Nero", "Tetrarchy"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Livy is best understood as writing under which constitutional order?",
+    "choices": ["The early republic", "The principate", "The dominate", "The decemvirate"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Roman writer reportedly nicknamed Livy 'a Pompeian' because of his sympathies?",
+    "choices": ["Augustus", "Horace", "Seneca the Elder", "Asinius Pollio"],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The label 'Pompeian' suggests Livy was seen as somewhat sympathetic to whose side of the civil wars?",
+    "choices": ["Pompey's", "Antony's", "Catiline's", "Marius's"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which lost Roman annalist is an important prose predecessor to Livy's broad national history?",
+    "choices": ["Quintus Ennius", "Valerius Antias", "Lucan", "Persius"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Roman annalistic history was organized primarily around what recurring framework?",
+    "choices": ["Reigns of emperors", "Year-by-year magistracies", "Genealogies of priests", "Alphabetical topic headings"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What major chronological formula commonly structures Roman annalistic entries and appears in Livy?",
+    "choices": ["By Olympiads", "By consuls of the year", "By indictions", "By regnal years of Ptolemies"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which early Roman episode in Livy centers on a virgin's suicide after sexual violence?",
+    "choices": ["Verginia", "Lucretia", "Tullia", "Claudia Quinta"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which episode in Livy involves a father killing his daughter to save her from a decemvir's abuse?",
+    "choices": ["The death of Virginia", "The trial of Manlius", "The Caudine Forks", "The exile of Coriolanus"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which board of ten magistrates becomes tyrannical in Livy's account of mid-republican crisis?",
+    "choices": ["Censors", "Decemvirs", "Quaestors", "Triumvirs"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who is the most notorious member of Livy's decemviral regime?",
+    "choices": ["Appius Claudius", "Marcus Furius Camillus", "Publius Decius Mus", "Titus Quinctius Flamininus"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Roman hero defends the bridge against the Etruscans in a famous Livian tale?",
+    "choices": ["Horatius Cocles", "Marcus Curtius", "Titus Manlius", "Gaius Duilius"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Roman youth thrusts his hand into the fire before Lars Porsenna in Livy's narrative?",
+    "choices": ["Scipio", "Mucius Scaevola", "Atilius Regulus", "Decius Mus"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which woman is credited in Livy with swimming the Tiber to escape Etruscan captivity?",
+    "choices": ["Cloelia", "Cornelia", "Volumnia", "Marcia"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is distinctive about Livy's treatment of Rome's earliest centuries?",
+    "choices": ["They rely entirely on documentary archives", "They mix legend, memory, and historical reconstruction", "They omit all prodigies", "They are written in dialogue form"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How does Livy often signal uncertainty about very early traditions?",
+    "choices": ["By refusing to narrate them", "By noting variant reports or doubtful evidence", "By quoting official inscriptions in full", "By converting them into poetry"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which statement best captures Livy's historical method in modern terms?",
+    "choices": ["Strictly critical in the modern archival sense", "A literary synthesis of earlier sources with moral interpretation", "Pure invention without sources", "An autobiography disguised as history"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which category of signs does Livy regularly record as part of Rome's public religious life?",
+    "choices": ["Prodigies", "Koans", "Labyrinths", "Syllogisms"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "In Livy, reports of prodigies are usually followed by what sort of response?",
+    "choices": ["Comic interludes", "Expiatory rites ordered by the state", "Private lawsuits", "Immediate military desertion"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Roman enemy at the Caudine Forks humiliates the Roman army in Livy's Samnite books?",
+    "choices": ["Pyrrhus", "The Samnites", "The Aetolians", "The Numantines"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which conqueror of Veii becomes one of Livy's central heroes of the early republic?",
+    "choices": ["Camillus", "Coriolanus", "Paullus", "Sulla"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which exile nearly marches on Rome with Volscian support in Livy's narrative?",
+    "choices": ["Coriolanus", "Catiline", "Marius", "Lepidus"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who famously persuades Coriolanus to spare Rome?",
+    "choices": ["His mother and wife", "The tribunes", "The Vestal Virgins", "A delegation from Sparta"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which office often embodies emergency legitimacy in Livy's republican crises?",
+    "choices": ["Princeps senatus", "Dictator", "Praefectus urbi", "Pontifex maximus"],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which theme runs through Livy's accounts of conflict between patricians and plebeians?",
+    "choices": ["Inevitable collapse of Rome", "Negotiation of social order within the republic", "Triumph of monarchy", "Complete irrelevance of law"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which code of law emerges from the constitutional struggle narrated around the decemvirs?",
+    "choices": ["Twelve Tables", "Lex Gabinia", "Lex Hortensia", "Codex Theodosianus"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Roman family name recurs in Livy as both aristocratic prestige and political controversy?",
+    "choices": ["Claudius", "Severus", "Flavius", "Aurelius"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which battle of 216 BCE appears in Livy as one of Rome's greatest disasters?",
+    "choices": ["Cannae", "Pydna", "Beneventum", "Sentinum"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Roman strategy of delay is associated in Livy's war narrative with Fabius Maximus?",
+    "choices": ["Attrition and avoidance of pitched battle", "Immediate naval assault", "Alliance with Numidia against Rome", "Occupation of Spain before Italy"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Livy's portrait of Hannibal often combines admiration with emphasis on what?",
+    "choices": ["His devotion to Senate procedure", "His dangerous brilliance and cruelty", "His philosophical quietism", "His Christian virtues"],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Roman commander is nicknamed Cunctator in the tradition reflected by Livy?",
+    "choices": ["Fabius Maximus", "Scipio Aemilianus", "Regulus", "Flaccus"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which victory closes Livy's surviving third decade with Rome's triumph over Hannibal?",
+    "choices": ["Zama", "Cynoscephalae", "Magnesia", "Metaurus"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "After Book 30, Livy's surviving books turn largely to Rome's expansion into which region?",
+    "choices": ["Britain", "The Greek East and Hellenistic world", "Arabia", "Sub-Saharan Africa"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Macedonian king is a major opponent in Livy's later surviving books?",
+    "choices": ["Perseus", "Philip V", "Demetrius Poliorcetes", "Antigonus Doson"],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Roman victory over Macedon at Cynoscephalae appears in Livy's Book 33?",
+    "choices": ["Flamininus's", "Sulla's", "Lucullus's", "Pompey's"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which declaration at the Isthmian Games becomes a famous moment in Livy's Greek narrative?",
+    "choices": ["Freedom of the Greeks", "Foundation of Byzantium", "Annexation of Egypt", "Abolition of the consulship"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What narrative unit do modern scholars often call Livy's Books 21 to 30?",
+    "choices": ["First pentad", "Third decade", "Sullan corpus", "Antonian cycle"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What narrative quality is especially associated with Livy's battle scenes?",
+    "choices": ["Tabular statistical precision", "Vivid rhetorical momentum", "Minimal characterization", "Complete absence of speeches"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which criticism did the ancient historian Asinius Pollio reportedly make of Livy's style?",
+    "choices": ["It was too Hellenistic in syntax", "It showed Patavinitas", "It relied too much on legal jargon", "It was indistinguishable from Sallust"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What does the term Patavinitas imply in discussions of Livy?",
+    "choices": ["A Punic bias", "A trace of provincial or Paduan coloration", "A commitment to attic Greek", "A late Christian revision"],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which earlier Roman historian is famous for a terse, archaising style unlike Livy's broader flow?",
+    "choices": ["Sallust", "Suetonius", "Velleius Paterculus", "Ammianus"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Compared with Sallust, Livy's prose is usually described as what?",
+    "choices": ["More expansive and periodic", "More fragmentary and abrupt", "Entirely colloquial", "Written in verse"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Roman historian of the early empire is chronologically later than Livy and often more cynical in tone?",
+    "choices": ["Tacitus", "Nepos", "Caesar", "Cato the Elder"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which phrase best describes Livy's stance toward Rome's rise?",
+    "choices": ["Detached hostility", "Patriotic admiration tempered by moral concern", "Complete indifference", "Open advocacy of monarchy in Book 1"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Livy's work is especially valuable for showing how Romans imagined what kind of past?",
+    "choices": ["Only the Christian past", "Their civic and moral origins", "The prehuman world", "The history of India"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Roman institution's debates are dramatized repeatedly through speeches in Livy?",
+    "choices": ["The Senate", "The imperial consistory", "The Christian episcopate", "The Praetorian prefecture"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which statement best describes Livy's use of source citation?",
+    "choices": ["He always names every source", "He sometimes mentions conflicting authorities but often narrates continuously", "He never alludes to earlier writers", "He quotes archives at full documentary length"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "When Livy gives multiple versions of an event, what does that usually reveal?",
+    "choices": ["That he is parodying history", "That the tradition is contested and he is managing uncertainty", "That the passage is a later forgery", "That Roman chronology has collapsed entirely"],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What best explains why Livy's earliest books remain central despite legendary material?",
+    "choices": ["They preserve exact verbatim state archives", "They shaped Roman cultural memory and political exemplarity", "They are the only surviving Latin prose", "They were written by Augustus himself"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which later political thinker wrote Discourses on Livy?",
+    "choices": ["Machiavelli", "Erasmus", "Bodin", "Montesquieu"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Machiavelli's Discourses engage primarily with which part of Livy's work?",
+    "choices": ["The first decade", "The Hannibal books only", "The lost final books on Augustus", "The Periochae alone"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "For Renaissance humanists, Livy was especially important as a model of what?",
+    "choices": ["Roman historiography and civic thought", "Epic hexameter", "Greek tragedy", "Biblical exegesis"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which medieval survival pattern best describes Livy's text?",
+    "choices": ["The whole work survived in one manuscript", "Different sections survived unevenly in separate manuscript traditions", "Only Arabic translations preserved it", "It survived solely through inscriptions"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which early Roman king in Livy is especially associated with religious institutions and peace?",
+    "choices": ["Numa Pompilius", "Tarquinius Priscus", "Servius Tullius", "Romulus"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which early conflict in Livy centers on the abduction of women from a neighboring people?",
+    "choices": ["War with the Sabines", "War with Carthage", "War with Pyrrhus", "War with the Samnites"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is one major reason modern historians use Livy cautiously for early Rome?",
+    "choices": ["He wrote in Greek", "The surviving evidence for the regal and early republican periods is thin and heavily traditionalized", "He never mentions dates", "His text survives only in translation"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Greek historian did Livy rely on especially for parts of Rome's eastern expansion?",
+    "choices": ["Polybius", "Thucydides", "Xenophon", "Diodorus of Sicily"],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which description best fits Livy's authorial persona?",
+    "choices": ["A campaigning general writing memoirs", "A literary historian and moral interpreter", "A provincial governor defending his administration", "A satirist mocking all patriotic narrative"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which of these is not a typical hallmark of Livian narrative?",
+    "choices": ["Moral framing", "Speeches", "Annalistic chronology", "First-person travel memoir throughout"],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Roman expansion is treated in Livy's surviving books immediately after the Hannibalic struggle?",
+    "choices": ["Wars in Greece and Macedon", "Conquest of Gaul under Caesar", "Trajan's Dacian wars", "Belisarius's Gothic campaigns"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Roman concept of manly excellence frequently informs Livy's praise of commanders and citizens?",
+    "choices": ["Virtus", "Acedia", "Ataraxia", "Hubris"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which statement best describes the relationship between Livy and Augustus?",
+    "choices": ["Livy served as Augustus's admiral", "Livy wrote in the Augustan age without simply functioning as official court propaganda", "Livy was executed by Augustus for treason", "Livy composed only after Augustus's death"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Why do modern scholars often read Livy alongside archaeology and epigraphy for early Rome?",
+    "choices": ["Because Livy banned literary sources", "Because material evidence can check or complicate later literary tradition", "Because inscriptions preserve his lost books word for word", "Because archaeology proves every episode in Book 1"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which phrase best captures why Livy matters in the history of historiography?",
+    "choices": ["He invented biography", "He fused annalistic tradition, literary narrative, and moral interpretation into a monumental Roman past", "He abolished speeches from history", "He wrote the first Christian chronicle"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "text": "On which date was Julius Caesar killed?",
+    "choices": ["Nones of March", "Ides of March", "Kalends of April", "Saturnalia"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "The Ides of March in 44 BCE fell on which day of the month?",
+    "choices": ["March 1", "March 7", "March 15", "March 21"],
+    "correctIndex": 2,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Caesar was stabbed during a Senate meeting held in the theater complex of whom?",
+    "choices": ["Marcellus", "Pompey", "Balbus", "Scaurus"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which pair is most associated with leading the conspiracy against Caesar?",
+    "choices": ["Brutus and Cassius", "Antony and Lepidus", "Cicero and Cato", "Marius and Sulla"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which conspirator was also Caesar's close associate and had served under him in Gaul?",
+    "choices": ["Trebonius", "Cassius", "Decimus Brutus", "Ligarius"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What official title had Caesar recently accepted before the assassination alarmed many senators?",
+    "choices": ["Princeps Senatus", "Dictator perpetuo", "Censor for life", "King of Rome"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The conspirators often called themselves by what collective label after the killing?",
+    "choices": ["Triumviri", "Liberatores", "Optimates", "Decemviri"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which magistrate was kept away from Caesar during the attack by Trebonius?",
+    "choices": ["Lepidus", "Mark Antony", "Dolabella", "Cicero"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Whose statue stood near the place where Caesar fell?",
+    "choices": ["Sulla's", "Romulus's", "Pompey's", "Marius's"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which conspirator struck the first blow, according to the usual ancient version?",
+    "choices": ["Casca", "Brutus", "Cassius", "Cimber"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who approached Caesar with a petition about recalling his exiled brother and used it to begin the attack?",
+    "choices": ["Trebonius", "Tillius Cimber", "Decimus Brutus", "Lucius Piso"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which part of Caesar's clothing was seized as the signal to begin the stabbing?",
+    "choices": ["His sandals", "His laurel wreath", "His toga", "His belt"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which brother of the first attacker was also among the conspirators?",
+    "choices": ["Publius Servilius Casca", "Lucius Calpurnius Piso", "Gaius Trebatius Testa", "Quintus Hortensius Hortalus"],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "How many wounds was Caesar said to have received in the traditional count?",
+    "choices": ["13", "23", "33", "43"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "According to the physician Antistius, how many of Caesar's wounds were fatal in themselves?",
+    "choices": ["One", "Two", "Five", "All of them"],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What did Caesar reportedly do when he saw Brutus among the attackers in one famous tradition?",
+    "choices": ["Called for Antony", "Tried to run", "Pulled his toga over his head", "Grabbed a dagger"],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which famous line associated with Caesar at the assassination is a later literary tradition rather than secure contemporary evidence?",
+    "choices": ["Veni, vidi, vici", "Alea iacta est", "Et tu, Brute?", "Carthago delenda est"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which source preserves the Greek phrase 'Kai su, teknon' as Caesar's reported words?",
+    "choices": ["Suetonius", "Tacitus", "Livy", "Josephus"],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which conspirator allegedly urged Caesar to attend the Senate despite ominous warnings?",
+    "choices": ["Decimus Brutus", "Cassius", "Ligarius", "Casca"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What warning phrase is traditionally associated with the soothsayer's advice to Caesar?",
+    "choices": ["Remember Pharsalus", "Trust no senator", "Beware the Ides of March", "Shun the Forum"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which wife of Caesar reportedly dreamed of his death on the eve of the assassination?",
+    "choices": ["Cornelia", "Calpurnia", "Pompeia", "Servilia"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What public office did Marcus Junius Brutus hold in 44 BCE?",
+    "choices": ["Praetor", "Consul", "Censor", "Tribune"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Gaius Cassius Longinus had most notably fought on which side before reconciling with Caesar?",
+    "choices": ["Pompey's", "Sulla's", "Marius's", "Antony's"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which future emperor was Caesar's adopted heir in the will opened after his death?",
+    "choices": ["Tiberius", "Octavian", "Claudius", "Nero"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Before adoption, Octavian was originally named what?",
+    "choices": ["Gaius Octavius", "Marcus Agrippa", "Lucius Caesar", "Publius Rufus"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which consul and ally of Caesar delivered the funeral speech that inflamed the crowd?",
+    "choices": ["Lepidus", "Dolabella", "Mark Antony", "Hirtius"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The conspirators hoped Caesar's death would restore which political system?",
+    "choices": ["The monarchy", "The republic", "The decemvirate", "The Latin League"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which building became a temporary meeting place for the Senate because the usual Curia was being rebuilt?",
+    "choices": ["Curia Hostilia", "Curia Pompeia", "Temple of Castor", "Basilica Aemilia"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Caesar was due to depart shortly after the Ides for a campaign against which eastern enemy?",
+    "choices": ["Carthage", "Numidia", "Parthia", "Macedon"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Roman historian wrote that the conspirators numbered more than sixty?",
+    "choices": ["Appian", "Tacitus", "Ammianus", "Sallust"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which conspirator later became notorious for defecting from the assassins' cause and dying at Actium?",
+    "choices": ["Trebonius", "Decimus Brutus", "Sextius Naso", "Lucius Tillius Cimber"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who was Caesar's master of the horse and initially controlled troops in Rome after the murder?",
+    "choices": ["Lepidus", "Cassius", "Brutus", "Trebonius"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Where did the conspirators retreat immediately after the assassination?",
+    "choices": ["Capitoline Hill", "Palatine Hill", "Campus Martius", "Aventine Hill"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What title did some Romans fear Caesar was aiming to assume, especially after the Lupercalia episode?",
+    "choices": ["Censor", "King", "Pontiff", "Tribune"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "At the Lupercalia shortly before the assassination, who publicly offered Caesar a diadem?",
+    "choices": ["Brutus", "Cassius", "Mark Antony", "Lepidus"],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The office of dictator perpetuo most directly deepened fears that Caesar had ended what principle?",
+    "choices": ["Annual magistracies", "Military discipline", "Patronage", "Pontifical law"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What did Artemidorus attempt to give Caesar on his way to the Senate?",
+    "choices": ["A sacrificial knife", "A written warning", "A laurel crown", "A legal decree"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Artemidorus's message would have exposed what?",
+    "choices": ["A grain shortage", "A mutiny in Gaul", "The conspiracy", "A forged will"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What was Caesar doing when the attackers crowded around him?",
+    "choices": ["Offering sacrifice", "Taking his seat", "Reading his will", "Inspecting troops"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which conspirator was wounded by his own companions in the confusion of the stabbing?",
+    "choices": ["Cassius", "Brutus", "Casca", "Decimus Brutus"],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "How did the Roman crowd react to the assassination in the immediate aftermath?",
+    "choices": ["They acclaimed the conspirators at once", "They panicked and scattered", "They elected Brutus consul", "They marched on Antony immediately"],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which compromise did Antony initially accept with the conspirators in the tense days after the murder?",
+    "choices": ["Caesar's laws were voided", "The conspirators were exiled immediately", "An amnesty paired with validation of Caesar's acts", "Octavian was named consul"],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Caesar's acts and appointments were preserved after his death under the Roman term for what kind of official acts?",
+    "choices": ["Acta", "Fasti", "Auspicia", "Munera"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which body formally granted amnesty to the assassins shortly after the Ides?",
+    "choices": ["The plebeian council", "The Senate", "The college of augurs", "The equestrian order"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What happened to Caesar's body at his funeral?",
+    "choices": ["It was buried quietly at night", "It was cremated in the Forum by an aroused crowd", "It was sent to Arpinum", "It was carried to Alexandria"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which object displayed at the funeral helped stir outrage by showing Caesar's wounds to the people?",
+    "choices": ["A wax image", "His signet ring alone", "A military standard", "A triumphal crown"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "After the funeral riot, whose houses were attacked by the mob?",
+    "choices": ["Brutus and Cassius", "Antony and Lepidus", "Octavian and Agrippa", "Cicero and Piso"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which innocent man was mistaken for one of the conspirators and killed by the mob after Caesar's funeral?",
+    "choices": ["Cinna the poet", "Aulus Hirtius", "Lucius Calenus", "Pansa the consul"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which conspirator had been designated for a future province in Gaul but lost the political struggle with Antony soon after Caesar's death?",
+    "choices": ["Decimus Brutus", "Casca", "Trebonius", "Cimber"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What relationship did Servilia, mother of Brutus, reportedly have with Caesar?",
+    "choices": ["Sister", "Political ward", "Former mistress", "Daughter-in-law"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which feast held in February 44 BCE became politically charged when a royal symbol was offered to Caesar?",
+    "choices": ["Saturnalia", "Parilia", "Lupercalia", "Lemuria"],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which office did Caesar already hold that made him Rome's chief priest at the time of his death?",
+    "choices": ["Augur", "Pontifex Maximus", "Flamen Dialis", "Rex sacrorum"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which conspirator had served as one of Caesar's legates during the Gallic campaigns before turning on him?",
+    "choices": ["Trebonius", "Brutus", "Decimus Brutus", "Both Trebonius and Decimus Brutus"],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which conspirator was not present at the stabbing but was central to the plot by delaying Antony?",
+    "choices": ["Trebonius", "Casca", "Brutus", "Ligarius"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which of these men was not one of Caesar's assassins?",
+    "choices": ["Publius Servilius Casca", "Marcus Junius Brutus", "Gaius Cassius Longinus", "Marcus Tullius Cicero"],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which phrase best describes the political alignment from which many conspirators came?",
+    "choices": ["Radical populares", "Senatorial aristocracy", "Italian rebel confederates", "Samnite warlords"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which ancient author wrote parallel biographies of Caesar and Brutus that heavily shape the later story of the assassination?",
+    "choices": ["Plutarch", "Livy", "Frontinus", "Valerius Maximus"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which later Roman historian gives an extended Greek narrative of the conspiracy and its aftermath in Book 44?",
+    "choices": ["Cassius Dio", "Sallust", "Nepos", "Florus"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Shakespeare's dramatized version, what request does Metellus Cimber make just before the attack begins?",
+    "choices": ["A pardon for his banished brother", "A triumph for Antony", "A senate adjournment", "A tax remission for Asia"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which conspirator's provincial command in Syria gave him access to eastern forces after the assassination?",
+    "choices": ["Brutus", "Cassius", "Casca", "Trebonius"],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which conspirator eventually took Macedonia as his power base in the struggle that followed?",
+    "choices": ["Brutus", "Trebonius", "Cimber", "Decimus Brutus"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which assassins were defeated by Antony and Octavian at Philippi in 42 BCE?",
+    "choices": ["Trebonius and Casca", "Brutus and Cassius", "Decimus and Cimber", "Antony and Lepidus"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Where did Brutus and Cassius meet final defeat?",
+    "choices": ["Actium", "Mutina", "Philippi", "Perusia"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which conspirator was captured and executed in Asia by Dolabella before Philippi?",
+    "choices": ["Trebonius", "Brutus", "Casca", "Ligarius"],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which conspirator died in Cisalpine Gaul after being deserted by his troops and hunted down in 43 BCE?",
+    "choices": ["Cassius", "Decimus Brutus", "Casca", "Cimber"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What was one major reason the conspirators failed politically after killing Caesar?",
+    "choices": ["They abolished the Senate", "They had no coherent plan for power after the deed", "They lost all support in the army before the attack", "They immediately crowned Brutus king"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which ally of Caesar quickly became the conspirators' most effective political opponent in Rome?",
+    "choices": ["Mark Antony", "Cicero", "Sextus Pompey", "Labienus"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who eventually joined Antony and Lepidus in the legally constituted Second Triumvirate?",
+    "choices": ["Brutus", "Octavian", "Cassius", "Dolabella"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which senator and philosopher joined the conspiracy while seriously ill, reportedly carried into the plot out of devotion to Brutus?",
+    "choices": ["Favonius", "Ligarius", "Trebatius", "Calenus"],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which coin type later issued by Brutus celebrated the assassination with daggers and a liberty cap?",
+    "choices": ["SPQR Victory denarius", "EID MAR denarius", "CAESAR DIVI F denarius", "Aureus of Mutina"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "On the EID MAR coin of Brutus, the central cap between the daggers symbolizes what?",
+    "choices": ["A priesthood", "A triumph", "Liberty", "Mourning"],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Roman month name appears abbreviated on Brutus's famous assassination coin?",
+    "choices": ["MART", "MAR", "MRT", "IDM"],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which conspirator was a brother-in-law of Brutus and an especially sharp advocate of violent action?",
+    "choices": ["Cassius", "Trebonius", "Casca", "Piso"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Who was Brutus's wife, later famed for testing her own endurance and sharing in his anxieties?",
+    "choices": ["Atia", "Portia", "Calpurnia", "Octavia"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Portia was the daughter of which prominent opponent of Caesar?",
+    "choices": ["Pompey", "Cato the Younger", "Cicero", "Bibulus"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which of Caesar's reforms or honors especially fed suspicion by concentrating authority in his own person?",
+    "choices": ["Allowing more grain imports", "Lifetime dictatorship", "Repairing roads in Italy", "Founding colonies overseas"],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why did the conspirators choose daggers rather than a military ambush with soldiers?",
+    "choices": ["Roman law banned swords in the city", "They wanted a senatorial deed without open civil war at the moment of attack", "Caesar refused to meet armed men", "The army was away in Spain"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Roman political taboo made any hint of kingship especially explosive in Caesar's case?",
+    "choices": ["Rome had abolished monarchy and defined liberty against kings", "Kings were forbidden only outside Italy", "Only plebeians could be kings", "The censors elected kings every five years"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which one of these men was a conspirator but later held the consulship only after Caesar's death through the continuing force of Caesar's appointments?",
+    "choices": ["Trebonius", "Cassius", "Casca", "Ligarius"],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What strategic mistake did the conspirators make regarding Antony on the day of the assassination?",
+    "choices": ["They executed him too early", "They let him live and organize the Caesarian response", "They appointed him dictator", "They sent him to Parthia"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which proposal to kill Antony as well was reportedly rejected by Brutus as too much like butchery?",
+    "choices": ["Cassius's", "Trebonius's", "Cicero's", "Calpurnia's"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which element of Caesar's will won public favor after his death by granting benefits directly to Roman citizens?",
+    "choices": ["Abolishing debts", "Cash bequests to the populace", "Free land in Gaul for all senators", "Immediate elections for king"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Besides money, what leisure ground did Caesar leave to the Roman people in his will according to tradition?",
+    "choices": ["The Campus Martius", "His gardens across the Tiber", "The Capitoline precinct", "The Circus Maximus"],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which phrase names the senatorial meeting place within Pompey's complex where Caesar was murdered?",
+    "choices": ["Curia Julia", "Curia Pompeia", "Curia Cornelia", "Curia Octavia"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which conspirator shared the same nomen 'Junius Brutus' as Rome's legendary expeller of kings, giving the plot symbolic weight?",
+    "choices": ["Marcus Junius Brutus", "Decimus Junius Brutus", "Both of them", "Neither of them"],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which of the two prominent Brutuses was more important in the practical organization of the assassination day itself?",
+    "choices": ["Marcus Brutus", "Decimus Brutus", "Neither; Cassius alone handled it", "Lucius Brutus the elder"],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which outcome followed less than two decades after the Ides of March?",
+    "choices": ["Restoration of the old Republic in full", "A stable diarchy of Senate and people", "The principate of Augustus", "The return of the Tarquin kings"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which of Caesar's supporters became known as Divi filius after the posthumous political use of Caesar's deification?",
+    "choices": ["Brutus", "Octavian", "Cassius", "Lepidus"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What celestial event seen after Caesar's death was later used as propaganda for his deification?",
+    "choices": ["A lunar eclipse", "A comet", "A meteor shower over Philippi", "Halos around the sun at Mutina"],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which title did the Senate later grant Caesar posthumously, helping anchor Octavian's claims?",
+    "choices": ["Divus Julius", "Pater Patriae", "Augustus", "Rex Sacrorum"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What made the assassination especially shocking even by Roman standards of violence?",
+    "choices": ["It happened during a foreign war in Spain", "It was carried out by senators against a sitting dictator inside a Senate session", "It involved poison in a temple", "It was ordered by Cleopatra"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  }
+]

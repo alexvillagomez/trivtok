@@ -1,0 +1,530 @@
+[
+  {
+    "text": "In what city is Friends primarily set?",
+    "choices": ["Boston", "New York", "Chicago", "Seattle"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "On The Simpsons, what is Homer Simpson's job?",
+    "choices": ["Factory manager", "Nuclear power plant safety inspector", "Postal clerk", "School bus driver"],
+    "correctIndex": 1,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Breaking Bad originally aired on which cable network?",
+    "choices": ["HBO", "Showtime", "AMC", "FX"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which city is Cheers set in?",
+    "choices": ["Boston", "Philadelphia", "San Francisco", "Detroit"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which network first aired Seinfeld?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the name of the coffee shop hangout in Friends?",
+    "choices": ["Central Perk", "The Grind", "Mocha Hut", "Perk Up"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which network originally broadcast Star Trek in the 1960s?",
+    "choices": ["ABC", "CBS", "NBC", "Syndication"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which sitcom is centered on Dunder Mifflin's Scranton branch?",
+    "choices": ["Parks and Recreation", "The Office", "Brooklyn Nine-Nine", "Superstore"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which city is Frasier primarily set in?",
+    "choices": ["Seattle", "Boston", "Denver", "Portland"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who created The Simpsons?",
+    "choices": ["Seth MacFarlane", "Matt Groening", "Mike Judge", "Trey Parker"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which show is set in the fictional town of Pawnee, Indiana?",
+    "choices": ["Community", "Parks and Recreation", "Arrested Development", "The Middle"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which network aired The Golden Girls?",
+    "choices": ["ABC", "NBC", "CBS", "Fox"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which actor portrayed Archie Bunker on All in the Family?",
+    "choices": ["Carroll O'Connor", "Bob Newhart", "Alan Alda", "Sherman Hemsley"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which network aired The Brady Bunch?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which sitcom starred Mary Richards as a Minneapolis newsroom producer?",
+    "choices": ["The Mary Tyler Moore Show", "Designing Women", "Murphy Brown", "WKRP in Cincinnati"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which network originally aired M*A*S*H?",
+    "choices": ["ABC", "NBC", "CBS", "PBS"],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which cable network broadcast Mad Men?",
+    "choices": ["AMC", "FX", "HBO", "Showtime"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which network aired The X-Files for most of its original run?",
+    "choices": ["Fox", "CBS", "NBC", "The WB"],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which premium channel premiered The Sopranos?",
+    "choices": ["HBO", "Showtime", "Starz", "Cinemax"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which network aired Lost?",
+    "choices": ["ABC", "NBC", "CBS", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which network was the original home of The West Wing?",
+    "choices": ["ABC", "NBC", "CBS", "Fox"],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which network has aired The Big Bang Theory?",
+    "choices": ["CBS", "NBC", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which network first aired The Fresh Prince of Bel-Air?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which network premiered 30 Rock?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which fictional college campus is central to Community?",
+    "choices": ["Pawnee State", "Greendale Community College", "Winslow College", "Columbia Heights Community College"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which family is at the center of Arrested Development?",
+    "choices": ["The Bluths", "The Hecks", "The Conners", "The Barones"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which sitcom featured Steve Urkel?",
+    "choices": ["Perfect Strangers", "Family Matters", "Step by Step", "Saved by the Bell"],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which network aired Married... with Children?",
+    "choices": ["Fox", "CBS", "NBC", "ABC"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which network aired The Nanny?",
+    "choices": ["CBS", "ABC", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which network aired Who's the Boss?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which family name belongs to the sitcom Full House?",
+    "choices": ["Tanner", "Walker", "Henderson", "Parker"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which network aired The Jeffersons?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which network broadcast Three's Company?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which network aired The Cosby Show?",
+    "choices": ["ABC", "NBC", "CBS", "Fox"],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which network airs This Is Us?",
+    "choices": ["NBC", "ABC", "CBS", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which premium network aired Game of Thrones?",
+    "choices": ["HBO", "Showtime", "Starz", "AMC"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where does the Simpson family live?",
+    "choices": ["742 Evergreen Terrace", "221B Baker Street", "31 Spooner Street", "124 Conch Street"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Which channel aired The Wire?",
+    "choices": ["FX", "HBO", "AMC", "CBS"],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which network originally aired Buffy the Vampire Slayer?",
+    "choices": ["The WB", "UPN", "Fox", "ABC"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which network was the original home of Saturday Night Live?",
+    "choices": ["CBS", "NBC", "ABC", "Fox"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which public broadcasting series introduced Big Bird and Elmo?",
+    "choices": ["Mister Rogers' Neighborhood", "Reading Rainbow", "Sesame Street", "Schoolhouse Rock!"],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which network aired House during its original run?",
+    "choices": ["Fox", "NBC", "ABC", "CBS"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which network first aired Gossip Girl?",
+    "choices": ["The CW", "MTV", "ABC Family", "NBC"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which sitcom follows Ted Mosby and his friends?",
+    "choices": ["How I Met Your Mother", "Friends", "New Girl", "Happy Endings"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actress played Leslie Knope on Parks and Recreation?",
+    "choices": ["Amy Poehler", "Tina Fey", "Maya Rudolph", "Kristen Wiig"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who played Chandler Bing on Friends?",
+    "choices": ["Matt LeBlanc", "Matthew Perry", "David Schwimmer", "Paul Rudd"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who portrayed Michael Scott on The Office?",
+    "choices": ["Steve Carell", "Rainn Wilson", "John Krasinski", "Ed Helms"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which actress played Elaine Benes on Seinfeld?",
+    "choices": ["Julia Louis-Dreyfus", "Jane Kaczmarek", "Patricia Heaton", "Lauren Graham"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which character is Peggy Olson in?",
+    "choices": ["The West Wing", "Mad Men", "The Americans", "ER"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who created The Sopranos?",
+    "choices": ["David Chase", "Matthew Weiner", "Dan Harmon", "Chuck Lorre"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which actor played President Josiah Bartlet on The West Wing?",
+    "choices": ["Martin Sheen", "Rob Lowe", "James Gandolfini", "Michael J. Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which actor portrayed Captain Jean-Luc Picard?",
+    "choices": ["William Shatner", "Leonard Nimoy", "Patrick Stewart", "Avery Brooks"],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the name of the bar in Cheers?",
+    "choices": ["Cheers", "Moe's Tavern", "The Max", "Central Perk"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Who starred as the title character in The Fresh Prince of Bel-Air?",
+    "choices": ["Will Smith", "Jaleel White", "T.J. Miller", "Marlon Wayans"],
+    "correctIndex": 0,
+    "difficulty": 0.08
+  },
+  {
+    "text": "Who played Sheldon Cooper on The Big Bang Theory?",
+    "choices": ["Jim Parsons", "Johnny Galecki", "Simon Helberg", "Kunal Nayyar"],
+    "correctIndex": 0,
+    "difficulty": 0.1
+  },
+  {
+    "text": "Who played Liz Lemon on 30 Rock?",
+    "choices": ["Amy Poehler", "Tina Fey", "Samantha Bee", "Jane Krakowski"],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which network originally aired Brooklyn Nine-Nine?",
+    "choices": ["Fox", "NBC", "ABC", "CBS"],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which sitcom revolves around the Heck family?",
+    "choices": ["The Middle", "Malcolm in the Middle", "Modern Family", "The Goldbergs"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which series is set in Cicely, Alaska?",
+    "choices": ["Northern Exposure", "Everwood", "Heartland", "Doc Martin"],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Jeffersons began as a spin-off of which sitcom?",
+    "choices": ["All in the Family", "Maude", "Good Times", "Sanford and Son"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Frasier was spun off from which earlier sitcom?",
+    "choices": ["Cheers", "Taxi", "Wings", "Coach"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Better Call Saul is a spin-off of which series?",
+    "choices": ["Breaking Bad", "Mad Men", "The Wire", "Dexter"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which network aired Family Ties?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which network aired Designing Women?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which network originally aired ALF?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which premium channel airs Curb Your Enthusiasm?",
+    "choices": ["HBO", "Showtime", "Starz", "AMC"],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which premium channel is home to Veep?",
+    "choices": ["HBO", "Showtime", "Starz", "Paramount+"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who created Community?",
+    "choices": ["Dan Harmon", "Greg Daniels", "Chuck Lorre", "Seth MacFarlane"],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which network originally aired 3rd Rock from the Sun?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which network first aired Taxi?",
+    "choices": ["ABC", "NBC", "CBS", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which network aired the 1960s live-action series The Addams Family?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which animated sitcom is widely regarded as the first prime-time cartoon family show?",
+    "choices": ["The Jetsons", "The Flintstones", "Top Cat", "Hong Kong Phooey"],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which network originally aired The Jetsons?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which network first aired Desperate Housewives?",
+    "choices": ["ABC", "CBS", "NBC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which network aired ER for most of its run?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which network is associated with Law & Order's original run?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which sitcom is set in New Rochelle and follows the Van Dykes' life?",
+    "choices": ["The Dick Van Dyke Show", "Leave It to Beaver", "The Donna Reed Show", "My Three Sons"],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which sitcom is set in the fictional town of Mayberry?",
+    "choices": ["The Andy Griffith Show", "The Waltons", "Green Acres", "The Beverly Hillbillies"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which sitcom featured Ralph Kramden as a bus driver?",
+    "choices": ["The Honeymooners", "The Munsters", "Car 54, Where Are You?", "The Phil Silvers Show"],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which network aired The Mary Tyler Moore Show?",
+    "choices": ["CBS", "NBC", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which city is the primary setting for The Golden Girls?",
+    "choices": ["Miami", "Atlanta", "Tampa", "Orlando"],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is the surname of Roseanne's family in Roseanne?",
+    "choices": ["Conner", "Baxter", "Sullivan", "Harris"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who created the U.S. version of The Office?",
+    "choices": ["Greg Daniels", "Dan Harmon", "Steve Carell", "Ricky Gervais"],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which network aired Sanford and Son?",
+    "choices": ["NBC", "CBS", "ABC", "Fox"],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which actress played Fran Fine on The Nanny?",
+    "choices": ["Fran Drescher", "Diane Keaton", "Megan Mullally", "Jane Lynch"],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which actor played Frasier Crane in Cheers and Frasier?",
+    "choices": ["Kelsey Grammer", "Ted Danson", "John Ratzenberger", "Woody Harrelson"],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which family name is shared by the sitcom Married... with Children?",
+    "choices": ["Bundy", "Taylor", "Walker", "Douglas"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What major television honors are presented by the Television Academy?",
+    "choices": ["Emmy Awards", "Peabody Awards", "Tony Awards", "Golden Globes"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  }
+]

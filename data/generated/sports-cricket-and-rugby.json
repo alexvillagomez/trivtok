@@ -1,0 +1,296 @@
+[
+  {
+    "text": "In cricket, how many balls make up a standard over?",
+    "choices": ["5 balls", "6 balls", "8 balls", "10 balls"],
+    "correctIndex": 1,
+    "difficulty": 0.08
+  },
+  {
+    "text": "How many runs does a batsman score when hitting the ball past the boundary line in cricket?",
+    "choices": ["2 runs", "3 runs", "4 runs", "5 runs"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In rugby, how many points is a try worth?",
+    "choices": ["3 points", "4 points", "5 points", "6 points"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What does 'ODI' stand for in cricket?",
+    "choices": ["Old Day International", "One Day International", "Olympic Day International", "Open Duration International"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many players per side are on the field in rugby union?",
+    "choices": ["13 players", "14 players", "15 players", "16 players"],
+    "correctIndex": 2,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In cricket, the distance between the two sets of stumps is:",
+    "choices": ["18 yards", "20 yards", "22 yards", "25 yards"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the term for a cricket batsman being dismissed for zero runs?",
+    "choices": ["Stumped", "Caught", "Duck", "Bowled"],
+    "correctIndex": 2,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In rugby, the H-shaped goal structure is called:",
+    "choices": ["Goal line", "Goalposts", "Try zone", "Conversion frame"],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What do cricket players use to hit the ball?",
+    "choices": ["Stick", "Racket", "Bat", "Club"],
+    "correctIndex": 2,
+    "difficulty": 0.10
+  },
+  {
+    "text": "In cricket, how many batsmen from one team are batting simultaneously?",
+    "choices": ["1 batsman", "2 batsmen", "3 batsmen", "4 batsmen"],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In rugby sevens, how many players does each team have?",
+    "choices": ["5 per side", "7 per side", "9 per side", "11 per side"],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A cricket pitch is traditionally made of:",
+    "choices": ["Artificial turf", "Grass", "Clay", "Sand"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In what year did India win the Cricket World Cup for the first time?",
+    "choices": ["1975", "1979", "1983", "1987"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country won the 2019 ICC Cricket World Cup?",
+    "choices": ["Australia", "New Zealand", "India", "England"],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In cricket, what is a 'maiden over'?",
+    "choices": ["First over of the match", "An over bowled by a female cricketer", "An over where no runs are scored", "The final over of an innings"],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the term for when a cricket bowler takes three wickets in three consecutive deliveries?",
+    "choices": ["Double", "Triple", "Hat-trick", "Full house"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "Which nation has won the Rugby World Cup the most times?",
+    "choices": ["South Africa", "England", "New Zealand", "Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In what year was the first Rugby World Cup held?",
+    "choices": ["1975", "1987", "1995", "2000"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In rugby, what is a 'lineout'?",
+    "choices": ["A penalty formation", "A formation to restart play after the ball goes out of bounds", "A scrummage formation", "A backward pass formation"],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How many points is a conversion worth in rugby?",
+    "choices": ["1 point", "2 points", "3 points", "4 points"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the highest individual score in an ODI cricket match?",
+    "choices": ["210 runs", "237 runs", "264 runs", "285 runs"],
+    "correctIndex": 2,
+    "difficulty": 0.50
+  },
+  {
+    "text": "In cricket, what position does the 'wicket-keeper' play?",
+    "choices": ["Behind the batsman at the crease", "At short leg", "At mid-wicket", "At point"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who won the 2015 Cricket World Cup?",
+    "choices": ["India", "Pakistan", "South Africa", "Australia"],
+    "correctIndex": 3,
+    "difficulty": 0.40
+  },
+  {
+    "text": "In rugby, deliberately stopping the ball carrier is called:",
+    "choices": ["Rucking", "Mauling", "Tackling", "Blocking"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the term for when a cricket ball moves sideways off the seam?",
+    "choices": ["Loft", "Swing", "Yorker", "Googly"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who won the 2019 Rugby World Cup?",
+    "choices": ["New Zealand", "England", "South Africa", "Australia"],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In cricket, a 'yorker' is a ball that:",
+    "choices": ["Bounces twice", "Lands at the batsman's feet at full length", "Lands outside the crease", "Bounces twice before reaching the crease"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In rugby, what does the term 'advantage' mean?",
+    "choices": ["An extra tackle attempt", "Play continues after a minor infringement if the non-offending team has gained benefit", "A bonus point awarded", "An additional penalty"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Who was the captain of India during the 1983 Cricket World Cup victory?",
+    "choices": ["Ajay Jadeja", "Kapil Dev", "Sunil Gavaskar", "Sandeep Patil"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In cricket T20, how many overs does each side bat?",
+    "choices": ["10 overs", "15 overs", "20 overs", "25 overs"],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In rugby, the 'offside' rule means:",
+    "choices": ["A player cannot pass the ball backward", "A player is in an illegal position if they are ahead of the ball", "A player cannot kick the ball forward", "A player must stay within their half"],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which cricket player holds the record for most Test match centuries?",
+    "choices": ["Virat Kohli", "Sachin Tendulkar", "Kumar Sangakkara", "Ricky Ponting"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In what year did Sachin Tendulkar retire from international cricket?",
+    "choices": ["2010", "2012", "2013", "2015"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the highest partnership record in Test cricket?",
+    "choices": ["411 runs", "595 runs", "664 runs", "738 runs"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "Who was the first batsman to score a T20 World Cup century?",
+    "choices": ["Rohit Sharma", "Virat Kohli", "Chris Gayle", "AB de Villiers"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In cricket, what does 'LBW' stand for?",
+    "choices": ["Low Boundary Wicket", "Leg Before Wicket", "Long Batting Wide", "Leg Ball Wicket"],
+    "correctIndex": 1,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which cricketer was the first to score a double century in ODI cricket?",
+    "choices": ["Virat Kohli", "Sachin Tendulkar", "Kumar Sangakkara", "Rohit Sharma"],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In rugby, what is a 'ruck'?",
+    "choices": ["A formation to restart play after the ball goes out", "A loose scrum where players compete for the ball on the ground", "A penalty awarded for foul play", "A backward pass formation"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who holds the record for most ODI wickets in cricket?",
+    "choices": ["Wasim Akram", "Shane Warne", "Lasith Malinga", "Javed Miandad"],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In cricket, what is the 'Duckworth-Lewis method'?",
+    "choices": ["A batting technique", "A method to calculate targets in rain-affected matches", "A fielding formation", "A bowling strategy"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who won the 2011 Cricket World Cup?",
+    "choices": ["Australia", "Pakistan", "India", "South Africa"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "What is the record for most Test centuries by an Indian batsman?",
+    "choices": ["46", "51", "53", "57"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In rugby, who is the player that puts the ball into the lineout?",
+    "choices": ["Fly-half", "Lock", "Hooker", "Number 8"],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who was the first player to play 100 Test matches for Australia?",
+    "choices": ["Steve Waugh", "Mark Taylor", "Greg Chappell", "David Boon"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In cricket, what is the highest Test match score in a single innings?",
+    "choices": ["375", "400", "452", "594"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which nation won the 2007 Cricket World Cup?",
+    "choices": ["South Africa", "West Indies", "Australia", "Pakistan"],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In rugby league, how many points is a try worth?",
+    "choices": ["3 points", "4 points", "5 points", "6 points"],
+    "correctIndex": 1,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the term for when a cricket bowler delivers the ball in an illegal way?",
+    "choices": ["Beamer", "No-ball", "Wide", "Full toss"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who holds the record for most international rugby tries for any nation?",
+    "choices": ["Dan Sheehan", "Jonny Wilkinson", "Dan Carter", "Darius James-Henry"],
+    "correctIndex": 0,
+    "difficulty": 0.80
+  }
+]

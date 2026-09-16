@@ -1,0 +1,278 @@
+[
+  {
+    "text": "In Perrault's version, what material are Cinderella's slippers made of?",
+    "choices": ["Glass", "Silk", "Crystal", "Satin"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many dwarfs help Snow White in the Brothers Grimm tale?",
+    "choices": ["Five", "Seven", "Nine", "Six"],
+    "correctIndex": 1,
+    "difficulty": 0.10
+  },
+  {
+    "text": "What prevents Rapunzel from leaving her tower in the original Grimm version?",
+    "choices": ["A curse", "Thick walls", "Long hair", "A locked door"],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What color hood does the protagonist wear in the classic European tale?",
+    "choices": ["Blue", "Yellow", "Green", "Red"],
+    "correctIndex": 3,
+    "difficulty": 0.08
+  },
+  {
+    "text": "In Grimm's Sleeping Beauty, which fairy casts the curse of endless slumber?",
+    "choices": ["The dark fairy Maleficent", "A jealous witch", "The uninvited dark fairy", "The fairy of shadows"],
+    "correctIndex": 2,
+    "difficulty": 0.30
+  },
+  {
+    "text": "Hans Christian Andersen's tale about an unlikely creature describes it becoming what?",
+    "choices": ["A swan", "A prince", "An angel", "A butterfly"],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What moral lesson does Aesop's fable about a slow-moving reptile and speedy mammal teach?",
+    "choices": ["Hard work beats laziness", "Slow and steady wins the race", "Pride comes before a fall", "Persistence overcomes obstacles"],
+    "correctIndex": 1,
+    "difficulty": 0.20
+  },
+  {
+    "text": "In the Grimm tale 'The Town Musicians of Bremen,' what are the four animals?",
+    "choices": ["Horse, ox, donkey, rooster", "Donkey, dog, cat, rooster", "Horse, dog, cat, rooster", "Cow, dog, cat, rooster"],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What are Hansel and Gretel to each other in the Grimm tale?",
+    "choices": ["Cousins", "Siblings", "Neighbors", "Twins"],
+    "correctIndex": 1,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In Charles Perrault's tale, what creature helps the poor farmer's youngest son?",
+    "choices": ["A talking cat", "A magical bird", "A clever donkey", "A wise mouse"],
+    "correctIndex": 0,
+    "difficulty": 0.20
+  },
+  {
+    "text": "How many bowls does Goldilocks find in the house she enters?",
+    "choices": ["Two", "Four", "Three", "Five"],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What do the three pigs build their homes from in order of increasing strength?",
+    "choices": ["Straw, wood, brick", "Hay, straw, stone", "Mud, sticks, clay", "Paper, leaves, concrete"],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In Hans Christian Andersen's tale, what is the little mermaid willing to give up?",
+    "choices": ["Her voice", "Her tail", "Her immortality", "Her crown"],
+    "correctIndex": 0,
+    "difficulty": 0.40
+  },
+  {
+    "text": "What does Rumpelstiltskin demand from the miller's daughter in exchange for spinning straw into gold?",
+    "choices": ["Her firstborn child", "Her wedding ring", "Her golden hair", "Her soul"],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In the Grimm version, what object does the witch in the gingerbread house use to trap children?",
+    "choices": ["A spell", "An enchanted door", "A cage", "Magical bindings"],
+    "correctIndex": 2,
+    "difficulty": 0.40
+  },
+  {
+    "text": "How many times must the frog be kissed to break the curse in most traditional versions?",
+    "choices": ["Twice", "Once", "Three times", "Seven times"],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In Perrault's tale, what transforms into a carriage for Cinderella?",
+    "choices": ["A squash", "A melon", "A pumpkin", "A gourd"],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In 'One Thousand and One Nights,' what does Scheherazade use to save her life?",
+    "choices": ["Her beauty", "Her storytelling", "Her wit", "Her wealth"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which Grimm tale features a girl who must guess a creature's name to escape?",
+    "choices": ["Rapunzel", "Rumpelstiltskin", "Snow White", "Hansel and Gretel"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What poisoned item causes Snow White to fall into deep sleep in the Grimm version?",
+    "choices": ["A poisoned apple", "A cursed rose", "A dark spell", "An enchanted comb"],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In the Pied Piper tale, which city is plagued by rats before the piper arrives?",
+    "choices": ["Berlin", "Hamelin", "Stuttgart", "Munich"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does the frog promise the princess in the Grimm tale in exchange for his help?",
+    "choices": ["Marriage", "A wish", "Companionship", "Gold"],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In Perrault's version, what does the king offer at the grand ball where Cinderella dances?",
+    "choices": ["A marriage proposal", "A position at court", "A reward for dancing", "A magical gift"],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What must the protagonist retrieve from a demon's cave in the Arabian Nights tale?",
+    "choices": ["A magic lamp", "Forty thieves' gold", "An enchanted rope", "A sacred ring"],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In the Grimm tale, what is the occupation of the man who marries the farmer's daughter?",
+    "choices": ["A soldier", "A prince", "A merchant", "A king"],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What animal helps the protagonist in Charles Perrault's tale about a poor boy?",
+    "choices": ["A fox", "A cat", "A dog", "A bird"],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In Andersen's tale, what material is the soldier who remains steadfast made of?",
+    "choices": ["Lead", "Tin", "Iron", "Bronze"],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "How many tasks must the protagonist complete in the Grimm tale 'Three Spinning Fairies'?",
+    "choices": ["Two", "Three", "Four", "Five"],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What crime does Bluebeard's wife discover in the forbidden chamber?",
+    "choices": ["Treasure hoarding", "Murder of previous wives", "Magic rituals", "Cursed artifacts"],
+    "correctIndex": 1,
+    "difficulty": 0.50
+  },
+  {
+    "text": "Which European author wrote 'East of the Sun, West of the Moon'?",
+    "choices": ["Asbjørnsen and Moe", "Charles Perrault", "Brothers Grimm", "Hans Christian Andersen"],
+    "correctIndex": 0,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is the primary subject of Aesop's fable about a tortoise and creatures of speed?",
+    "choices": ["Perseverance", "Humility", "Competition", "Nature"],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "In Grimm's 'The Devil's Three Golden Hairs,' what does the protagonist pull from the devil's head?",
+    "choices": ["Three golden hairs", "Golden strands", "Hairs of gold", "Three precious hairs"],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What nationality were the Brothers Grimm?",
+    "choices": ["Austrian", "Swiss", "German", "Danish"],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "From where does Andersen's Little Match Girl watch the New Year celebrations?",
+    "choices": ["A storefront", "A street corner", "An alley", "A frozen river"],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does the Snow Queen use to control Kai's mind in Andersen's tale?",
+    "choices": ["A magical spell", "A mirror's shards", "An icy breath", "A curse"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which oral tradition is ancient Greek fabulist Aesop believed to belong to?",
+    "choices": ["Stoic philosophy", "Slave storytelling", "Court entertainment", "Religious teachings"],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In the Grimm version, what does Sleeping Beauty prick herself on?",
+    "choices": ["A needle", "A thorn", "A spindle", "A pin"],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the primary setting of Hans Christian Andersen's tale about a soldier?",
+    "choices": ["A castle", "A town", "A river", "An ocean"],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In 'One Thousand and One Nights,' what are the occupations of the frame tale protagonists?",
+    "choices": ["Merchants and thieves", "Sultan and storyteller", "Princes and scholars", "Sailors and soldiers"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does Thumbelina seek throughout Andersen's tale?",
+    "choices": ["A prince", "True love", "A home", "Freedom"],
+    "correctIndex": 2,
+    "difficulty": 0.60
+  },
+  {
+    "text": "Which Grimm tale features a bride who is actually a beast in human form?",
+    "choices": ["Beauty and the Beast", "The Frog Prince", "Hansel and Gretel", "The Enchanted Prince"],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Perrault's 'Little Thumb,' what substance does the protagonist use to mark the forest path?",
+    "choices": ["Stones", "Breadcrumbs", "Pebbles", "Chalk"],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the true name the protagonist must discover in the Grimm tale 'Rumpelstiltskin'?",
+    "choices": ["Rumpelstiltskin", "Tom Tit Tot", "All variants use the same name", "The name changes by version"],
+    "correctIndex": 3,
+    "difficulty": 0.80
+  },
+  {
+    "text": "Which Danish author created 'The Emperor's New Clothes' as social commentary?",
+    "choices": ["Søren Kierkegaard", "Hans Christian Andersen", "Ludvig Holberg", "Henrik Ibsen"],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Grimm's 'Snow White and Rose Red,' what animal visits the girls regularly?",
+    "choices": ["A wolf", "A stag", "A bear", "A fox"],
+    "correctIndex": 2,
+    "difficulty": 0.70
+  },
+  {
+    "text": "What is Rose Red's connection to Snow White in the Grimm tale?",
+    "choices": ["Cousin", "Sister", "Friend", "Servant"],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  }
+]
