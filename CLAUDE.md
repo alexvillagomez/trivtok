@@ -34,10 +34,19 @@ asserts they agree to 1e-9. Any model change must land in BOTH lib/rec and the S
 (no config drift; keep constants mirrored).
 
 - **Step 1–3 — priority** (`rec/priority.ts`): each user has semantic interest
-  vectors `c_m ∈ R^64` with a strength. Activation `A_m = strength + freshness −
-  fatigue` → softmax → **sample** one primary interest (not argmax) → blend a few
-  compatible secondaries → `p_t = normalize(c_* + α Σ β_j c_j)`. ~10% of the time
-  it explores a predefined topic direction instead (never a random vector).
+  vectors `c_m ∈ R^64` with a strength. Activation is a fixed-weight linear
+  readout (`P_jᵀ S_t` with hand-set weights — the learnable form is the ML
+  roadmap): `A_j = strength + w_f·freshRaw − w_x·fatigue + w_l·likeAdj`, where
+  `likeAdj` is the shrunk, session-mean-centered within-interest like rate (how
+  well cluster j is landing *this session* vs the user's session average, neutral
+  when there's no signal). Softmax → **sample** one primary interest (not argmax)
+  → blend a few compatible secondaries → `p_t = normalize(c_* + α Σ β_j c_j)`.
+  Exploration is an **adaptive** roll — `p_explore = clamp(base + w_s·skipRate −
+  w_l·likeRate, 0.02, 0.4)`, up when the session is skipped, down when it lands
+  likes — and picks a predefined topic direction (never a random vector). Widening
+  the per-interest state + adaptive exploration are mirrored in the SQL
+  (`0007`); the like/fatigue signals come from ONE bounded in-DB scan of this
+  session's `impressions ⟕ interactions` (see [Latency architecture]).
 - **Step 4 — retrieval** (`rec/retrieve.ts` offline; the HNSW query inside
   `next_question()` in prod): top-K questions by `p_t · e_i`, the HNSW
   inner-product index (`ORDER BY embedding <#> p_t`).
@@ -98,6 +107,10 @@ supabase/migrations/
   0003_question_reports  user-submitted question reports
   0004_rec_math          erf-free IRT/ADF math as SQL functions
   0005_next_question     the whole per-swipe pipeline in ONE in-DB function
+  0006_gumbel_guard      map Gumbel-max U off the endpoints so ln(-ln(U)) can't hit ln(0)
+  0007_adaptive_priority widened activation (fatigue + like feature) + adaptive
+                         exploration; also floors rec_score's rating term (ln(0)
+                         guard) and two-sides the Gumbel U map (0006 left U→1 open)
 ```
 
 ## Hard boundaries (enforce these)

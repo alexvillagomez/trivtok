@@ -19,9 +19,11 @@ function uuid() {
 async function main() {
   await sql.unsafe(await readFile("supabase/migrations/0004_rec_math.sql", "utf8"));
   await sql.unsafe(await readFile("supabase/migrations/0005_next_question.sql", "utf8"));
-  // 0006 CREATE OR REPLACEs next_question() with the Gumbel-max U guard; apply it
-  // last so this test exercises the deployed (guarded) function, not the raw 0005.
   await sql.unsafe(await readFile("supabase/migrations/0006_gumbel_guard.sql", "utf8"));
+  // 0007 CREATE OR REPLACEs next_question() with the adaptive priority (widened
+  // activation + adaptive exploration) and a two-sided Gumbel guard; apply it last
+  // so this test exercises the current deployed function.
+  await sql.unsafe(await readFile("supabase/migrations/0007_adaptive_priority.sql", "utf8"));
   console.log("functions applied.\n");
 
   const user = uuid();

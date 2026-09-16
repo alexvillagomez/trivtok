@@ -62,7 +62,7 @@ const fatigued = buildPriorityVector(interests, {
   ...ctx,
   rand: seededRand(7),
   recentInterestIds: Array(10).fill("space"),
-  params: { epsilon: 0 }, // disable exploration so we always see activations here
+  params: { exploreBase: 0, exploreMin: 0 }, // disable exploration so we always see activations here
 });
 const spaceA = fatigued.activations.find((a) => a.id === "space")!;
 console.log(`\nwith heavy "space" fatigue: space A=${spaceA.A.toFixed(3)} (was ${first.activations.find((a) => a.id === "space")!.A.toFixed(3)})`);

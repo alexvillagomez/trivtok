@@ -8,6 +8,12 @@ import {
   difficultyFactor,
 } from "../lib/rec/difficulty";
 import { engagementSignal } from "../lib/rec/update";
+import {
+  likeAdjustment,
+  interestActivation,
+  exploreProbability,
+  DEFAULT_PARAMS,
+} from "../lib/rec/priority";
 import { normalize } from "../lib/vector";
 import type { Ability, Embedding } from "../lib/types";
 
@@ -50,7 +56,12 @@ function checkVec(label: string, ts: number[], db: number[]) {
 
 async function main() {
   // (Re)create the functions so this harness can iterate without the ledger.
+  // 0004 = the ADF/IRT math; 0007 = the adaptive-priority helpers (0005/0006
+  // supply the shared helpers + guarded next_question that 0007 builds on).
   await sql.unsafe(await readFile("supabase/migrations/0004_rec_math.sql", "utf8"));
+  await sql.unsafe(await readFile("supabase/migrations/0005_next_question.sql", "utf8"));
+  await sql.unsafe(await readFile("supabase/migrations/0006_gumbel_guard.sql", "utf8"));
+  await sql.unsafe(await readFile("supabase/migrations/0007_adaptive_priority.sql", "utf8"));
 
   const CASES = 50;
   for (let k = 0; k < CASES; k++) {
@@ -62,9 +73,23 @@ async function main() {
     const answered = Math.random() < 0.7;
     const rt = Math.floor(Math.random() * 4000);
 
+    // adaptive-priority inputs (0006 helpers)
+    const likes = Math.floor(Math.random() * 20);
+    const inters = likes + Math.floor(Math.random() * 20);
+    const sessMean = Math.random();
+    const strength = rand(3);
+    const freshRaw = Math.random();
+    const fatigue = Math.random();
+    const likeAdj = rand(1);
+    const skipRate = Math.random();
+    const likeRate = Math.random();
+
     // Everything the DB should compute for this case, in ONE round-trip.
     const [row] = await sql<
-      { p: number; f: number; g: number; nd: number; nm: number[]; nv: number[] }[]
+      {
+        p: number; f: number; g: number; nd: number; nm: number[]; nv: number[];
+        la: number; ac: number; ep: number;
+      }[]
     >`
       with a as (
         select ${ability.mean}::float8[] as mean, ${ability.variance}::float8[] as variance,
@@ -78,13 +103,19 @@ async function main() {
         rec_engagement(${liked}, ${answered}, ${rt})                                 as g,
         rec_update_difficulty(a.d, a.mean, a.variance, a.e, a.correct, 0.02)         as nd,
         u.new_mean                                                                   as nm,
-        u.new_variance                                                               as nv
+        u.new_variance                                                               as nv,
+        rec_like_adj(${likes}, ${inters}, ${sessMean}::float8)                       as la,
+        rec_activation(${strength}::float8, ${freshRaw}::float8, ${fatigue}::float8, ${likeAdj}::float8) as ac,
+        rec_explore_prob(${skipRate}::float8, ${likeRate}::float8)                   as ep
       from a, u`;
 
     check(`pCorrect[${k}]`, pCorrect(ability, e, d), row.p);
     check(`difficultyFactor[${k}]`, difficultyFactor(pCorrect(ability, e, d)), row.f);
     check(`engagement[${k}]`, engagementSignal({ liked, answered, correct: null, responseTimeMs: rt }), row.g);
     check(`updateDifficulty[${k}]`, updateDifficulty(d, ability, e, correct), row.nd);
+    check(`likeAdj[${k}]`, likeAdjustment(likes, inters, sessMean, DEFAULT_PARAMS.likePrior), row.la);
+    check(`activation[${k}]`, interestActivation(strength, freshRaw, fatigue, likeAdj, DEFAULT_PARAMS), row.ac);
+    check(`exploreProb[${k}]`, exploreProbability(skipRate, likeRate, DEFAULT_PARAMS), row.ep);
     const tsA = updateAbility(ability, e, d, correct);
     checkVec(`updateAbility.mean[${k}]`, tsA.mean, row.nm);
     checkVec(`updateAbility.variance[${k}]`, tsA.variance, row.nv);

@@ -8,33 +8,51 @@ import { sampleIndex, softmax } from "./math";
 //
 // Pipeline (Steps 1–3 of the rec spec):
 //   1. cold start        (no interests yet)
-//   2. exploration roll  (ε chance to ignore interests)
-//   3. activation A_m    → softmax → sample primary m*
+//   2. exploration roll  (adaptive p_explore, up when skipped / down when liked)
+//   3. activation A_j    = strength + freshness − fatigue + like-pref → softmax → sample
 //   4. secondary blend   → p_t = normalize(c_m* + α Σ β_j c_j)
 
 export type PriorityParams = {
   tau: number; // softmax temperature over activations
   alpha: number; // how much secondary interests bend the primary
   topSecondary: number; // how many secondary interests to blend
-  epsilon: number; // exploration probability
   freshWeight: number; // bonus for interests not used recently
   freshHours: number; // hours until the freshness bonus saturates
   fatigueWeight: number; // penalty for interests shown a lot this session
+  likeWeight: number; // weight on the within-interest like adjustment
+  likePrior: number; // shrinkage of the like rate toward the session mean
+  exploreBase: number; // base exploration probability (neutral session)
+  exploreSkipWeight: number; // ↑ explore when the session is being skipped
+  exploreLikeWeight: number; // ↓ explore when the session is landing likes
+  exploreMin: number; // clamp: never explore less than this
+  exploreMax: number; // clamp: never explore more than this
 };
 
 export const DEFAULT_PARAMS: PriorityParams = {
   tau: 0.5,
   alpha: 0.2,
   topSecondary: 3,
-  epsilon: 0.1,
   freshWeight: 0.3,
   freshHours: 24,
   fatigueWeight: 0.4,
+  likeWeight: 0.5,
+  likePrior: 5,
+  exploreBase: 0.1,
+  exploreSkipWeight: 0.3,
+  exploreLikeWeight: 0.2,
+  exploreMin: 0.02,
+  exploreMax: 0.4,
 };
 
 export type PriorityContext = {
   /** Primary interest ids chosen recently this session (most recent last). */
   recentInterestIds?: string[];
+  /** Per-interest engagement this session, keyed by interest id (drives the like feature). */
+  interestSessionStats?: Record<string, { likes: number; interactions: number }>;
+  /** Session-wide like rate (liked / interactions). Centers the like feature + adapts explore. */
+  sessionLikeRate?: number;
+  /** Session-wide skip rate (skipped / interactions). Adapts exploration. */
+  sessionSkipRate?: number;
   /** Predefined topic embeddings for exploration (Step 3). Never random. */
   exploreDirections?: Embedding[];
   /** Injectable RNG for deterministic tests. Defaults to Math.random. */
@@ -63,6 +81,8 @@ export function buildPriorityVector(
   const now = ctx.now ?? Date.now();
   const recent = ctx.recentInterestIds ?? [];
   const explore = ctx.exploreDirections ?? [];
+  const stats = ctx.interestSessionStats ?? {};
+  const sessionMean = ctx.sessionLikeRate ?? 0;
 
   // Step 1 — Cold start: no interests yet, so explore.
   if (interests.length === 0) {
@@ -75,8 +95,10 @@ export function buildPriorityVector(
     };
   }
 
-  // Step 2 — Exploration roll: occasionally ignore known interests.
-  if (explore.length > 0 && rand() < p.epsilon) {
+  // Step 2 — Exploration roll: an adaptive chance to ignore known interests,
+  // rising when the session is being skipped and falling when it lands likes.
+  const pExplore = exploreProbability(ctx.sessionSkipRate ?? 0, sessionMean, p);
+  if (explore.length > 0 && rand() < pExplore) {
     return {
       vector: pickExploreDirection(explore, interests, rand),
       mode: "explore",
@@ -87,7 +109,7 @@ export function buildPriorityVector(
   }
 
   // Step 3 — Activation score per interest, then softmax, then sample.
-  const scores = interests.map((it) => activation(it, recent, now, p));
+  const scores = interests.map((it) => activation(it, recent, now, stats, sessionMean, p));
   const probs = softmax(scores, p.tau);
   const activations = interests.map((it, i) => ({
     id: it.id,
@@ -112,23 +134,69 @@ export function buildPriorityVector(
 
 // --- internals ---------------------------------------------------------------
 
-/** A_m = strength + freshness − fatigue. */
+/**
+ * Shrunk, session-mean-centered within-interest like rate. Small-sample clusters
+ * are pulled toward the session mean by `prior`, and the result is centered so a
+ * cluster performing at the session average contributes exactly 0 (neutral).
+ */
+export function likeAdjustment(
+  likes: number,
+  interactions: number,
+  sessionMean: number,
+  prior: number,
+): number {
+  const rate = (likes + prior * sessionMean) / (interactions + prior);
+  return rate - sessionMean;
+}
+
+/**
+ * A_j = strength + w_f·freshRaw − w_x·fatigue + w_l·likeAdj — the per-interest
+ * activation as a fixed-weight linear readout (P_jᵀ S_t with hand-set weights).
+ * `freshRaw` and `fatigue` are unweighted feature values in [0,1].
+ */
+export function interestActivation(
+  strength: number,
+  freshRaw: number,
+  fatigue: number,
+  likeAdj: number,
+  p: PriorityParams,
+): number {
+  return (
+    strength + p.freshWeight * freshRaw - p.fatigueWeight * fatigue + p.likeWeight * likeAdj
+  );
+}
+
+/** Adaptive exploration probability, clamped to [exploreMin, exploreMax]. */
+export function exploreProbability(
+  skipRate: number,
+  likeRate: number,
+  p: PriorityParams,
+): number {
+  const raw = p.exploreBase + p.exploreSkipWeight * skipRate - p.exploreLikeWeight * likeRate;
+  return Math.min(p.exploreMax, Math.max(p.exploreMin, raw));
+}
+
+/** A_j = strength + freshness − fatigue + like-preference (fixed-weight readout). */
 function activation(
   interest: UserInterest,
   recent: string[],
   now: number,
+  stats: Record<string, { likes: number; interactions: number }>,
+  sessionMean: number,
   p: PriorityParams,
 ): number {
   const hours = (now - Date.parse(interest.lastUsedAt)) / 3_600_000;
-  const freshness = p.freshWeight * Math.min(Math.max(hours, 0) / p.freshHours, 1);
+  const freshRaw = Math.min(Math.max(hours, 0) / p.freshHours, 1);
 
   const fatigue =
     recent.length === 0
       ? 0
-      : p.fatigueWeight *
-        (recent.filter((id) => id === interest.id).length / recent.length);
+      : recent.filter((id) => id === interest.id).length / recent.length;
 
-  return interest.strength + freshness - fatigue;
+  const s = stats[interest.id];
+  const likeAdj = s ? likeAdjustment(s.likes, s.interactions, sessionMean, p.likePrior) : 0;
+
+  return interestActivation(interest.strength, freshRaw, fatigue, likeAdj, p);
 }
 
 /**

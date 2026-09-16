@@ -18,7 +18,8 @@ import { retrieveCandidates } from "./retrieve";
 // τ is the single peakiness knob. This keeps the "must satisfy all" gating of
 // the product while stopping any one factor from steamrolling the rest.
 
-const EPS = 1e-6; // floor for priority so ln() stays finite when semantic ≤ 0
+const EPS = 1e-6; // floor for priority + rating so ln() stays finite when they hit 0
+// (rating can be 0 when the global like-rate is 0 and a candidate has no likes)
 
 export type SelectionParams = {
   k: number; // candidates to retrieve
@@ -76,7 +77,7 @@ export function selectNextQuestion(
     const score =
       params.wSemantic * Math.log(priorityFactor) +
       params.wDifficulty * Math.log(dFactor) +
-      params.wRating * Math.log(rFactor);
+      params.wRating * Math.log(Math.max(EPS, rFactor));
     return {
       question: c.question,
       semantic: c.semantic,
