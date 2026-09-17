@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Vertical stroke of a lowercase letter?",
+    "choices": [
+      "stem",
+      "bowl",
+      "counter",
+      "shoulder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Enclosed space inside a letterform?",
+    "choices": [
+      "aperture",
+      "counter",
+      "spur",
+      "terminal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Feature distinguishing serif type?",
+    "choices": [
+      "uniform monolinear strokes",
+      "handwritten connections",
+      "small finishing strokes",
+      "ornamental swashes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "X-height measures lowercase height relative to baseline.",
+    "choices": [
+      "false",
+      "only capitals",
+      "only numerals",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Baseline is the?",
+    "choices": [
+      "line letters sit upon",
+      "top of capitals",
+      "space between words",
+      "edge of a page"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Aperture is an opening in a partially enclosed letter.",
+    "choices": [
+      "false",
+      "true",
+      "a full enclosure",
+      "a decorative flourish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which pair is serif?",
+    "choices": [
+      "Helvetica and Futura",
+      "Gill Sans and Univers",
+      "Garamond and Baskerville",
+      "DIN and Avant Garde"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which pair is sans serif?",
+    "choices": [
+      "Caslon and Bembo",
+      "Bodoni and Didot",
+      "Georgia and Minion",
+      "Helvetica and Univers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Leading controls?",
+    "choices": [
+      "vertical space between lines",
+      "space between letters",
+      "word width",
+      "ink density"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Kerning adjusts spacing between specific letter pairs.",
+    "choices": [
+      "false",
+      "true",
+      "only line height",
+      "only margins"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Tracking changes?",
+    "choices": [
+      "baseline position",
+      "stroke contrast",
+      "overall letter spacing",
+      "paper grain"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "A descender extends below baseline.",
+    "choices": [
+      "false",
+      "above cap height",
+      "inside a counter",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which letter has a bowl?",
+    "choices": [
+      "o",
+      "i",
+      "l",
+      "t"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "A shoulder is a curved stroke rising from a stem, as in n.",
+    "choices": [
+      "false",
+      "true",
+      "a serif on i",
+      "a lowercase tail"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Terminal means?",
+    "choices": [
+      "inside space",
+      "alignment line",
+      "end of a stroke",
+      "printing plate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which is geometric sans?",
+    "choices": [
+      "Garamond",
+      "Bembo",
+      "Baskerville",
+      "Futura"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which is humanist sans?",
+    "choices": [
+      "Gill Sans",
+      "Didot",
+      "Bodoni",
+      "Clarendon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which has high contrast modern serifs?",
+    "choices": [
+      "Verdana",
+      "Didot",
+      "Arial",
+      "Cooper Black"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A slab serif uses heavy block-like serifs.",
+    "choices": [
+      "false",
+      "only hairline serifs",
+      "true",
+      "no serifs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which is transitional serif?",
+    "choices": [
+      "Futura",
+      "Helvetica",
+      "Brush Script",
+      "Baskerville"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Cap height is?",
+    "choices": [
+      "height of uppercase letters",
+      "height of lowercase x",
+      "line spacing",
+      "width of a column"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Ligature combines characters into one glyph.",
+    "choices": [
+      "false",
+      "true",
+      "only joins words",
+      "is a paragraph mark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Typeface associated with early computer interfaces?",
+    "choices": [
+      "Bodoni",
+      "Trajan",
+      "OCR-A",
+      "Garamond"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Font family contains?",
+    "choices": [
+      "one printed letter",
+      "only punctuation",
+      "a paper size",
+      "related styles and weights"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Monospaced face gives each character equal width.",
+    "choices": [
+      "true",
+      "false",
+      "only capitals equal",
+      "width varies by ink"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Glyph means?",
+    "choices": [
+      "a font file format",
+      "a specific drawn character form",
+      "a paragraph",
+      "a printing press"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Typeface designed by Adrian Frutiger?",
+    "choices": [
+      "Caslon",
+      "Cooper Black",
+      "Frutiger",
+      "Rockwell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Face known for single-storey lowercase a?",
+    "choices": [
+      "Times New Roman",
+      "Georgia",
+      "Baskerville",
+      "Futura"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Type specimen is?",
+    "choices": [
+      "sample showing a typeface",
+      "metal type storage",
+      "paper watermark",
+      "ink recipe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Typeface is design; font is an implementation.",
+    "choices": [
+      "false",
+      "true",
+      "they are always identical",
+      "font means only handwriting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "false",
+      "only increases ink",
+      "true",
+      "replaces proofreading"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "space inside letters",
+      "line spacing",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "true",
+      "false",
+      "only centered",
+      "only ragged right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "ease of distinguishing characters",
+      "amount of ink",
+      "paper grain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "false",
+      "only one size",
+      "true",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "paper binding",
+      "ink drying",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "web font format",
+      "printing plate",
+      "paper standard",
+      "serif classification"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "movable metal type printing",
+      "variable fonts",
+      "laser engraving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "space between columns",
+      "font license",
+      "cutout aiding small-size printing",
+      "paper watermark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "sets word spacing",
+      "is a printing defect",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "true",
+      "false",
+      "only increases ink",
+      "replaces proofreading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "true",
+      "space inside letters",
+      "line spacing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "false",
+      "only centered",
+      "true",
+      "only ragged right"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "amount of ink",
+      "paper grain",
+      "ease of distinguishing characters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "true",
+      "false",
+      "only one size",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "true",
+      "paper binding",
+      "ink drying"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "printing plate",
+      "paper standard",
+      "web font format",
+      "serif classification"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "variable fonts",
+      "laser engraving",
+      "movable metal type printing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "cutout aiding small-size printing",
+      "space between columns",
+      "font license",
+      "paper watermark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "true",
+      "sets word spacing",
+      "is a printing defect"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "false",
+      "only increases ink",
+      "true",
+      "replaces proofreading"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "space inside letters",
+      "line spacing",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "true",
+      "false",
+      "only centered",
+      "only ragged right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "ease of distinguishing characters",
+      "amount of ink",
+      "paper grain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "false",
+      "only one size",
+      "true",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "paper binding",
+      "ink drying",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "web font format",
+      "printing plate",
+      "paper standard",
+      "serif classification"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "movable metal type printing",
+      "variable fonts",
+      "laser engraving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "space between columns",
+      "font license",
+      "cutout aiding small-size printing",
+      "paper watermark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "sets word spacing",
+      "is a printing defect",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "true",
+      "false",
+      "only increases ink",
+      "replaces proofreading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "true",
+      "space inside letters",
+      "line spacing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "false",
+      "only centered",
+      "true",
+      "only ragged right"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "amount of ink",
+      "paper grain",
+      "ease of distinguishing characters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "true",
+      "false",
+      "only one size",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "true",
+      "paper binding",
+      "ink drying"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "printing plate",
+      "paper standard",
+      "web font format",
+      "serif classification"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "variable fonts",
+      "laser engraving",
+      "movable metal type printing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "cutout aiding small-size printing",
+      "space between columns",
+      "font license",
+      "paper watermark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "true",
+      "sets word spacing",
+      "is a printing defect"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "false",
+      "only increases ink",
+      "true",
+      "replaces proofreading"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "space inside letters",
+      "line spacing",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "true",
+      "false",
+      "only centered",
+      "only ragged right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "ease of distinguishing characters",
+      "amount of ink",
+      "paper grain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "false",
+      "only one size",
+      "true",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "paper binding",
+      "ink drying",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "web font format",
+      "printing plate",
+      "paper standard",
+      "serif classification"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "movable metal type printing",
+      "variable fonts",
+      "laser engraving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "space between columns",
+      "font license",
+      "cutout aiding small-size printing",
+      "paper watermark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "sets word spacing",
+      "is a printing defect",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "true",
+      "false",
+      "only increases ink",
+      "replaces proofreading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "true",
+      "space inside letters",
+      "line spacing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "false",
+      "only centered",
+      "true",
+      "only ragged right"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "amount of ink",
+      "paper grain",
+      "ease of distinguishing characters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "true",
+      "false",
+      "only one size",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "true",
+      "paper binding",
+      "ink drying"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "printing plate",
+      "paper standard",
+      "web font format",
+      "serif classification"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "variable fonts",
+      "laser engraving",
+      "movable metal type printing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "cutout aiding small-size printing",
+      "space between columns",
+      "font license",
+      "paper watermark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "true",
+      "sets word spacing",
+      "is a printing defect"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A grid organizes alignment and proportion.",
+    "choices": [
+      "false",
+      "only increases ink",
+      "true",
+      "replaces proofreading"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A margin is space between content and page edge.",
+    "choices": [
+      "false",
+      "space inside letters",
+      "line spacing",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Justified text aligns both left and right edges.",
+    "choices": [
+      "true",
+      "false",
+      "only centered",
+      "only ragged right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is legibility?",
+    "choices": [
+      "speed of printing",
+      "ease of distinguishing characters",
+      "amount of ink",
+      "paper grain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "A variable font can contain a range of weights in one file.",
+    "choices": [
+      "false",
+      "only one size",
+      "true",
+      "only bitmap glyphs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "OpenType supports advanced layout features.",
+    "choices": [
+      "false",
+      "paper binding",
+      "ink drying",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a WOFF file?",
+    "choices": [
+      "web font format",
+      "printing plate",
+      "paper standard",
+      "serif classification"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Gutenberg's key innovation was?",
+    "choices": [
+      "phototypesetting film",
+      "movable metal type printing",
+      "variable fonts",
+      "laser engraving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "An ink trap is?",
+    "choices": [
+      "space between columns",
+      "font license",
+      "cutout aiding small-size printing",
+      "paper watermark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Overshoot lets rounded letters extend past flat alignments.",
+    "choices": [
+      "false",
+      "sets word spacing",
+      "is a printing defect",
+      "true"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

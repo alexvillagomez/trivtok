@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who painted the Mona Lisa?",
+    "choices": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Titian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who painted The Starry Night?",
+    "choices": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Edvard Munch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who painted The Scream?",
+    "choices": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Edvard Munch",
+      "Gustav Klimt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who painted Girl with a Pearl Earring?",
+    "choices": [
+      "Rembrandt",
+      "Peter Paul Rubens",
+      "Jan van Eyck",
+      "Johannes Vermeer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who painted Guernica?",
+    "choices": [
+      "Pablo Picasso",
+      "Joan Miró",
+      "Diego Velázquez",
+      "Francisco Goya"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who painted The Last Supper?",
+    "choices": [
+      "Raphael",
+      "Leonardo da Vinci",
+      "Sandro Botticelli",
+      "Caravaggio"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who painted The Persistence of Memory?",
+    "choices": [
+      "René Magritte",
+      "Max Ernst",
+      "Salvador Dalí",
+      "Joan Miró"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Who painted Water Lilies?",
+    "choices": [
+      "Édouard Manet",
+      "Pierre-Auguste Renoir",
+      "Paul Gauguin",
+      "Claude Monet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who painted American Gothic?",
+    "choices": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Andrew Wyeth",
+      "Thomas Hart Benton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who sculpted The Thinker?",
+    "choices": [
+      "Donatello",
+      "Auguste Rodin",
+      "Bernini",
+      "Henry Moore"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who sculpted David in Florence?",
+    "choices": [
+      "Donatello",
+      "Bernini",
+      "Michelangelo",
+      "Verrocchio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who painted The Birth of Venus?",
+    "choices": [
+      "Titian",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Sandro Botticelli"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who painted The Kiss?",
+    "choices": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Alphonse Mucha",
+      "Oskar Kokoschka"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who painted The Night Watch?",
+    "choices": [
+      "Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Rubens"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who painted Whistler’s Mother?",
+    "choices": [
+      "John Singer Sargent",
+      "Mary Cassatt",
+      "James McNeill Whistler",
+      "Thomas Eakins"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who painted Liberty Leading the People?",
+    "choices": [
+      "Jacques-Louis David",
+      "Théodore Géricault",
+      "Jean-Auguste-Dominique Ingres",
+      "Eugène Delacroix"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who painted Las Meninas?",
+    "choices": [
+      "Diego Velázquez",
+      "El Greco",
+      "Francisco Goya",
+      "Bartolomé Murillo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Who created The Great Wave off Kanagawa?",
+    "choices": [
+      "Hiroshige",
+      "Hokusai",
+      "Utamaro",
+      "Sesshū Tōyō"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who made Campbell’s Soup Cans?",
+    "choices": [
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Andy Warhol",
+      "Robert Rauschenberg"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Who signed the readymade Fountain?",
+    "choices": [
+      "Man Ray",
+      "Kurt Schwitters",
+      "Piet Mondrian",
+      "Marcel Duchamp"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which movement is linked with Monet?",
+    "choices": [
+      "Impressionism",
+      "Cubism",
+      "Dada",
+      "Futurism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Where did the European Renaissance begin?",
+    "choices": [
+      "Germany",
+      "Italy",
+      "England",
+      "The Netherlands"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which movement is linked with Caravaggio?",
+    "choices": [
+      "Romanticism",
+      "Impressionism",
+      "Baroque",
+      "Minimalism"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which movement did Picasso help develop?",
+    "choices": [
+      "Surrealism",
+      "Symbolism",
+      "Realism",
+      "Cubism"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What did Surrealist art often explore?",
+    "choices": [
+      "Dreams and the unconscious",
+      "Only royal portraits",
+      "Geometric engineering plans",
+      "Scientific diagrams"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What did Pop Art often use as subject matter?",
+    "choices": [
+      "Only religious icons",
+      "Popular culture and commercial images",
+      "Ancient star charts",
+      "Landscape geology"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which museum houses the Mona Lisa?",
+    "choices": [
+      "The Prado",
+      "The Uffizi",
+      "The Louvre",
+      "The Hermitage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which museum is in New York and known as MoMA?",
+    "choices": [
+      "The Metropolitan Museum",
+      "The Whitney Museum",
+      "The Guggenheim Museum",
+      "The Museum of Modern Art"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which museum is in Florence?",
+    "choices": [
+      "The Uffizi",
+      "The Prado",
+      "The Tate Modern",
+      "The Rijksmuseum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which museum is in Madrid?",
+    "choices": [
+      "The Louvre",
+      "The Prado",
+      "The National Gallery",
+      "The Hermitage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which museum is in London?",
+    "choices": [
+      "The Uffizi",
+      "The Getty",
+      "Tate Modern",
+      "The Reina Sofía"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which New York museum has a famous spiral building?",
+    "choices": [
+      "The Frick",
+      "The Whitney",
+      "The Morgan Library",
+      "The Guggenheim"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is oil paint made with?",
+    "choices": [
+      "Pigment mixed with drying oil",
+      "Pigment mixed with water only",
+      "Clay mixed with wax",
+      "Ink mixed with sand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is watercolor usually mixed with?",
+    "choices": [
+      "Linseed oil",
+      "Water",
+      "Molten metal",
+      "Dry sand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which material is common in carved sculpture?",
+    "choices": [
+      "Paper only",
+      "Cotton",
+      "Marble",
+      "Glass fiber only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which metal is common in cast sculpture?",
+    "choices": [
+      "Aluminum foil",
+      "Mercury vapor",
+      "Lithium",
+      "Bronze"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is a canvas?",
+    "choices": [
+      "A surface for painting",
+      "A stone carving tool",
+      "A museum ticket",
+      "A type of bronze"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does perspective help show?",
+    "choices": [
+      "Only color temperature",
+      "Depth and distance",
+      "The age of a frame",
+      "The weight of paint"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a portrait?",
+    "choices": [
+      "A painting of fruit only",
+      "A map of a city",
+      "An image of a person",
+      "A design for a building"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a landscape painting?",
+    "choices": [
+      "A painting of one person",
+      "A picture of household objects",
+      "A study of letters",
+      "A painting of scenery"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is a still life?",
+    "choices": [
+      "A work showing arranged objects",
+      "A painting of a battle only",
+      "A moving sculpture",
+      "A portrait of an animal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a self-portrait?",
+    "choices": [
+      "A portrait of a patron",
+      "An artist’s image of themself",
+      "A sculpture of a monarch",
+      "A landscape painted outdoors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is a fresco painted on?",
+    "choices": [
+      "Dry metal",
+      "Glass only",
+      "Wet plaster",
+      "Wooden furniture"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is a triptych?",
+    "choices": [
+      "A work in two colors",
+      "A sculpture with three heads",
+      "A painting made outdoors",
+      "A work in three panels"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does a painter’s palette hold?",
+    "choices": [
+      "Paint colors",
+      "Sculpture tools only",
+      "Museum labels",
+      "Camera lenses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Who painted the ceiling of the Sistine Chapel?",
+    "choices": [
+      "Raphael",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Botticelli"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Who painted the Blue Period works?",
+    "choices": [
+      "Henri Matisse",
+      "Paul Gauguin",
+      "Pablo Picasso",
+      "Joan Miró"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Who is known for many self-portraits and symbolic paintings?",
+    "choices": [
+      "Georgia O’Keeffe",
+      "Tamara de Lempicka",
+      "Louise Bourgeois",
+      "Frida Kahlo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which artist is known for large flower paintings?",
+    "choices": [
+      "Georgia O’Keeffe",
+      "Frida Kahlo",
+      "Mary Cassatt",
+      "Rosa Bonheur"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which artist painted Nighthawks?",
+    "choices": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Jacob Lawrence",
+      "Stuart Davis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Who painted The Arnolfini Portrait?",
+    "choices": [
+      "Rogier van der Weyden",
+      "Hans Holbein the Younger",
+      "Jan van Eyck",
+      "Pieter Bruegel the Elder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What dramatic lighting style is linked with Caravaggio?",
+    "choices": [
+      "Pointillism",
+      "Sfumato",
+      "Frottage",
+      "Chiaroscuro"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who painted The Third of May 1808?",
+    "choices": [
+      "Francisco Goya",
+      "Eugène Delacroix",
+      "J. M. W. Turner",
+      "Théodore Géricault"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who painted The Slave Ship?",
+    "choices": [
+      "John Constable",
+      "J. M. W. Turner",
+      "Caspar David Friedrich",
+      "William Blake"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who painted Olympia?",
+    "choices": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Édouard Manet",
+      "Berthe Morisot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which subject did Cézanne paint repeatedly?",
+    "choices": [
+      "The Eiffel Tower",
+      "The Taj Mahal",
+      "The Colosseum",
+      "Mont Sainte-Victoire"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who painted A Sunday Afternoon on the Island of La Grande Jatte?",
+    "choices": [
+      "Georges Seurat",
+      "Paul Signac",
+      "Henri de Toulouse-Lautrec",
+      "Camille Pissarro"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which artist painted Composition VIII?",
+    "choices": [
+      "Kazimir Malevich",
+      "Wassily Kandinsky",
+      "Paul Klee",
+      "Piet Mondrian"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who painted Black Square?",
+    "choices": [
+      "Wassily Kandinsky",
+      "El Lissitzky",
+      "Kazimir Malevich",
+      "Alexander Rodchenko"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which movement is linked with Mondrian’s grids?",
+    "choices": [
+      "Dada",
+      "Fauvism",
+      "Arte Povera",
+      "De Stijl"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who is known for color-field paintings?",
+    "choices": [
+      "Mark Rothko",
+      "Jackson Pollock",
+      "Robert Rauschenberg",
+      "Roy Lichtenstein"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who developed drip painting in the United States?",
+    "choices": [
+      "Willem de Kooning",
+      "Jackson Pollock",
+      "Mark Rothko",
+      "Barnett Newman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who made Unique Forms of Continuity in Space?",
+    "choices": [
+      "Giacomo Balla",
+      "Marcel Duchamp",
+      "Umberto Boccioni",
+      "Constantin Brâncuși"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who sculpted Bird in Space?",
+    "choices": [
+      "Henry Moore",
+      "Alberto Giacometti",
+      "Alexander Calder",
+      "Constantin Brâncuși"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who created the giant spider sculpture Maman?",
+    "choices": [
+      "Louise Bourgeois",
+      "Yayoi Kusama",
+      "Barbara Hepworth",
+      "Niki de Saint Phalle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who is known for Infinity Mirror rooms?",
+    "choices": [
+      "Marina Abramović",
+      "Yayoi Kusama",
+      "Cindy Sherman",
+      "Tracey Emin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who created Sunflower Seeds at Tate Modern?",
+    "choices": [
+      "Anish Kapoor",
+      "Takashi Murakami",
+      "Ai Weiwei",
+      "Cai Guo-Qiang"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What material is central to El Anatsui’s wall sculptures?",
+    "choices": [
+      "Marble blocks",
+      "Oil on canvas",
+      "Neon tubes",
+      "Bottle tops and metal caps"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who painted The Dance?",
+    "choices": [
+      "Henri Matisse",
+      "André Derain",
+      "Raoul Dufy",
+      "Fernand Léger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which artist is linked with The Son of Man?",
+    "choices": [
+      "Salvador Dalí",
+      "René Magritte",
+      "Max Ernst",
+      "Giorgio de Chirico"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who painted The Two Fridas?",
+    "choices": [
+      "Remedios Varo",
+      "Leonora Carrington",
+      "Frida Kahlo",
+      "Maria Izquierdo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who created the graffiti figure known as Radiant Baby?",
+    "choices": [
+      "Jean-Michel Basquiat",
+      "Banksy",
+      "Shepard Fairey",
+      "Keith Haring"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who created the sculpture The Burghers of Calais?",
+    "choices": [
+      "Auguste Rodin",
+      "Aristide Maillol",
+      "Camille Claudel",
+      "Antoine Bourdelle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who sculpted the Ecstasy of Saint Teresa?",
+    "choices": [
+      "Borromini",
+      "Gian Lorenzo Bernini",
+      "Donatello",
+      "Canova"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Who sculpted the bronze David in the Renaissance?",
+    "choices": [
+      "Michelangelo",
+      "Verrocchio",
+      "Donatello",
+      "Ghiberti"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who sculpted Hermes and the Infant Dionysus?",
+    "choices": [
+      "Phidias",
+      "Polykleitos",
+      "Myron",
+      "Praxiteles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who directed the decoration of the Parthenon sculptures?",
+    "choices": [
+      "Phidias",
+      "Praxiteles",
+      "Polykleitos",
+      "Lysippos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which cave is famous for prehistoric paintings in France?",
+    "choices": [
+      "Altamira",
+      "Lascaux",
+      "Chauvet",
+      "Cosquer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which museum houses The Night Watch?",
+    "choices": [
+      "The Louvre",
+      "The Prado",
+      "The Rijksmuseum",
+      "The Mauritshuis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which museum is especially associated with Impressionist art in Paris?",
+    "choices": [
+      "The Centre Pompidou",
+      "The Musée Rodin",
+      "The Musée de Cluny",
+      "The Musée d’Orsay"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which museum houses Guernica?",
+    "choices": [
+      "The Reina Sofía",
+      "The Prado",
+      "The Thyssen-Bornemisza",
+      "The Uffizi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is sfumato?",
+    "choices": [
+      "A method of carving marble",
+      "A soft blending of tones and edges",
+      "A style of geometric sculpture",
+      "A bright outline around figures"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is pointillism based on?",
+    "choices": [
+      "Large blocks of marble",
+      "Long unbroken brushstrokes",
+      "Small separate dots of color",
+      "Paint mixed with sand"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a grisaille painting?",
+    "choices": [
+      "A painting made only outdoors",
+      "A work on wet plaster",
+      "A portrait with gold leaf",
+      "A work painted mainly in gray tones"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a diptych?",
+    "choices": [
+      "A work in two panels",
+      "A work in four panels",
+      "A sculpture without a base",
+      "A painting on silk only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which movement used cut-up shapes and multiple viewpoints?",
+    "choices": [
+      "Realism",
+      "Cubism",
+      "Neoclassicism",
+      "Rococo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which movement favored intense non-naturalistic colors?",
+    "choices": [
+      "Dada",
+      "Minimalism",
+      "Fauvism",
+      "Neoclassicism"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which movement rejected traditional artistic values after World War I?",
+    "choices": [
+      "Futurism",
+      "Rococo",
+      "Arts and Crafts",
+      "Dada"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What did the Bauhaus unite?",
+    "choices": [
+      "Art, craft, and design",
+      "Only portrait painting",
+      "Only ancient sculpture",
+      "Music and astronomy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which artist designed the cut-paper work Jazz?",
+    "choices": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Paul Klee",
+      "Fernand Léger"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who painted The Garden of Earthly Delights?",
+    "choices": [
+      "Pieter Bruegel the Elder",
+      "Albrecht Dürer",
+      "Hieronymus Bosch",
+      "Hans Memling"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who painted The Calling of Saint Matthew?",
+    "choices": [
+      "Artemisia Gentileschi",
+      "Guido Reni",
+      "Georges de La Tour",
+      "Caravaggio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which artist made The Raft of the Medusa?",
+    "choices": [
+      "Théodore Géricault",
+      "Eugène Delacroix",
+      "Gustave Courbet",
+      "Honoré Daumier"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which artist is associated with the Bauhaus school?",
+    "choices": [
+      "Claude Monet",
+      "Paul Klee",
+      "Francisco Goya",
+      "Auguste Rodin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which museum is home to the Ishtar Gate?",
+    "choices": [
+      "The Louvre",
+      "The British Museum",
+      "The Pergamon Museum",
+      "The Getty"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is encaustic painting made with?",
+    "choices": [
+      "Pigment mixed with egg white",
+      "Ink mixed with water",
+      "Oil mixed with marble dust",
+      "Pigment mixed with hot wax"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a relief sculpture?",
+    "choices": [
+      "A form projecting from a background",
+      "A sculpture that floats freely",
+      "A work made only of cloth",
+      "A painting with no surface"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is chiaroscuro based on?",
+    "choices": [
+      "Tiny dots of pure color",
+      "Strong contrasts of light and dark",
+      "Flat areas with no shading",
+      "Random collage materials"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which artist is linked with the term readymade?",
+    "choices": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Marcel Duchamp",
+      "Andy Warhol"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a patron in art history?",
+    "choices": [
+      "A museum guard",
+      "A type of paint",
+      "A sculptor’s assistant",
+      "A person or institution that supports an artist"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

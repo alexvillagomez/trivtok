@@ -1,6 +1,6 @@
 # Question Coverage Map
 
-Last updated: 2026-09-15
+Last updated: 2026-09-16
 
 > Scope note: this hand-maintained ledger records the focused authored series and
 > its niche notes. The complete machine-generated inventory of every JSON batch is
@@ -11,6 +11,10 @@ Last updated: 2026-09-15
 > Long-scroll topics and the files that jointly supply them are declared in
 > `data/topic-families.json`; the audit fails when a declared topic has fewer
 > questions than its target.
+> Database delivery is tracked separately in `data/insertion-ledger.json`,
+> which currently records 90 inserted long-scroll batches (9,014 questions)
+> as present in the configured Supabase project. Eighty-nine batches contain
+> 100 questions; The Sims contains 114, with 64 easier and 50 harder questions.
 
 ## Deepening wave — 2026-09-06
 
@@ -54,9 +58,12 @@ IRT remains responsible for serving the right level to each user.
 
 | Lane | Domain | Narrow niche | Batch file | Easier | Harder | Status |
 | --- | --- | --- | --- | ---: | ---: | --- |
-| Sports | World Football | Tactics, formations, pressing, buildup, and set pieces | `data/generated/world-football-tactics-and-formations.json` | 50 | 50 | Authored; not inserted |
-| Science | Biology | Cardiovascular anatomy and circulation | `data/generated/cardiovascular-anatomy-and-circulation.json` | 50 | 50 | Authored; not inserted |
-| History | Ancient Egypt | Old Kingdom pyramids, tombs, complexes, and administration | `data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json` | 50 | 50 | Authored; not inserted |
+| Sports | World Football | Tactics, formations, pressing, buildup, and set pieces | `data/generated/world-football-tactics-and-formations.json` | 50 | 50 | Inserted |
+| Science | Biology | Cardiovascular anatomy and circulation | `data/generated/cardiovascular-anatomy-and-circulation.json` | 50 | 50 | Inserted |
+| History | Ancient Egypt | Old Kingdom pyramids, tombs, complexes, and administration | `data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json` | 50 | 50 | Inserted |
+| Science | Astronomy | Exoplanet detection, characterization, atmospheres, and inference | `data/generated/astronomy-exoplanets-detection-and-characterization.json` | 50 | 50 | Inserted |
+| Sports | American Football | NFL strategy, positions, rules, and history | `data/generated/american-football-nfl-strategy-positions-and-history.json` | 50 | 50 | Inserted |
+| History | World War II | Codebreaking and signals intelligence | `data/generated/world-war-two-codebreaking-and-signals-intelligence.json` | 50 | 50 | Inserted |
 
 ## Fandom rabbit-hole wave — 2026-09-06
 
@@ -1135,15 +1142,33 @@ Good adjacent niches for later batches:
 2. For a topic with enough depth, target at least 100 unique questions so an
    interested user can remain in that lane for a long session. Smaller batches
    are acceptable only when the subject is genuinely narrow; record the reason.
-3. Spread questions across recall, chronology, causation, comparison, interpretation, and technical detail.
-4. Cover the full difficulty range. For a 100-question topic, default to 50
+3. Keep every question simple and direct. Ask for one fact or distinction at a
+   time, use familiar wording, and remove unnecessary setup. A good easy stem is
+   “Which country is home to the Great Pyramid of Giza?” A good hard stem is
+   “Which pharaoh commissioned the Bent Pyramid at Dahshur?” The hard question
+   is harder because the fact is more specific—not because the sentence is more
+   complicated.
+4. Prefer short concrete forms such as “Who…?”, “Which country…?”, “What is…?”,
+   “Where…?”, and “Which film…?”. Avoid nested clauses, academic framing,
+   multi-step reasoning, trick wording, and vague prompts such as “is associated
+   with” when a direct verb is available.
+5. Make all four choices equally plausible in appearance. Keep them in the same
+   category and grammatical form, with similar length, specificity, and detail.
+   The correct answer must not stand out as the longest, most intricate, only
+   qualified, or only multi-word choice. Avoid one joke option, “all of the
+   above,” overlapping choices, and distractors from obviously different eras,
+   countries, genres, or subject types.
+6. Spread questions across recall, chronology, causation, comparison,
+   interpretation, and technical detail, while keeping each individual stem
+   plain-language and focused on one answerable point.
+7. Cover the full difficulty range. For a 100-question topic, default to 50
    questions below difficulty `0.70` and 50 at or above it so IRT has both a
    welcoming on-ramp and a deep expert tail. Depart from 50/50 only when the
    niche genuinely demands it, and record that choice in `data/topic-families.json`.
-5. Before insertion, exclude exact normalized question-text matches already present in the database or the new batch.
-6. Give each batch a stable filename and add it to this ledger immediately after insertion.
-7. Put related-but-distinct material in the adjacent-niches list instead of quietly mixing it into the current niche.
-8. Add long-scroll groupings to `data/topic-families.json`, including every file
+8. Before insertion, exclude exact normalized question-text matches already present in the database or the new batch.
+9. Give each batch a stable filename and add it to this ledger immediately after insertion.
+10. Put related-but-distinct material in the adjacent-niches list instead of quietly mixing it into the current niche.
+11. Add long-scroll groupings to `data/topic-families.json`, including every file
    that contributes to the topic's usable depth.
 
 ## Database insertion method

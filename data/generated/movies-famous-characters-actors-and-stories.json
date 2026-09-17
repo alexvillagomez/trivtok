@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who played Jack in Titanic?",
+    "choices": [
+      "Leonardo DiCaprio",
+      "Brad Pitt",
+      "Tom Hanks",
+      "Matt Damon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who directed Jaws?",
+    "choices": [
+      "George Lucas",
+      "Steven Spielberg",
+      "Francis Ford Coppola",
+      "James Cameron"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which city is Batman’s home?",
+    "choices": [
+      "Metropolis",
+      "Star City",
+      "Gotham City",
+      "Central City"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which film follows toys that come to life?",
+    "choices": [
+      "Cars",
+      "Shrek",
+      "Ratatouille",
+      "Toy Story"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who does Dorothy meet in The Wizard of Oz?",
+    "choices": [
+      "The Scarecrow",
+      "The Godfather",
+      "The Terminator",
+      "The Tramp"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Where is the classic film Casablanca set?",
+    "choices": [
+      "Italy",
+      "Morocco",
+      "Brazil",
+      "India"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who played Indiana Jones?",
+    "choices": [
+      "Sean Connery",
+      "Tom Cruise",
+      "Harrison Ford",
+      "Michael Douglas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which film features a DeLorean time machine?",
+    "choices": [
+      "The Terminator",
+      "Jurassic Park",
+      "Speed",
+      "Back to the Future"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who is Luke Skywalker’s twin sister?",
+    "choices": [
+      "Leia Organa",
+      "Padmé Amidala",
+      "Rey",
+      "Jyn Erso"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which family is central to The Godfather?",
+    "choices": [
+      "The Soprinos",
+      "The Corleones",
+      "The Capulets",
+      "The Crawleys"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What kind of visitor arrives in E.T.?",
+    "choices": [
+      "A time traveler",
+      "A pirate",
+      "An extraterrestrial",
+      "A detective"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What animals escape in Jurassic Park?",
+    "choices": [
+      "Sharks",
+      "Wolves",
+      "Dragons",
+      "Dinosaurs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What sport does Rocky Balboa practice?",
+    "choices": [
+      "Boxing",
+      "Baseball",
+      "Tennis",
+      "Wrestling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who is Neo in The Matrix?",
+    "choices": [
+      "A sea captain",
+      "A hacker",
+      "A journalist",
+      "A doctor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which film tells the story of Charles Foster Kane?",
+    "choices": [
+      "Sunset Boulevard",
+      "The Maltese Falcon",
+      "Citizen Kane",
+      "Vertigo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which film follows hobbits toward Mordor?",
+    "choices": [
+      "The Chronicles of Narnia",
+      "The Golden Compass",
+      "The NeverEnding Story",
+      "The Lord of the Rings"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who is Simba’s father in The Lion King?",
+    "choices": [
+      "Mufasa",
+      "Scar",
+      "Timon",
+      "Rafiki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Who played Hermione Granger in the Harry Potter films?",
+    "choices": [
+      "Keira Knightley",
+      "Emma Watson",
+      "Natalie Portman",
+      "Saoirse Ronan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which superhero carries a star-spangled shield?",
+    "choices": [
+      "Iron Man",
+      "Thor",
+      "Captain America",
+      "The Flash"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which filmmaker made Psycho?",
+    "choices": [
+      "Billy Wilder",
+      "John Ford",
+      "David Lean",
+      "Alfred Hitchcock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Where is Avatar’s moon Pandora?",
+    "choices": [
+      "In a distant star system",
+      "In Earth’s orbit",
+      "Under the ocean",
+      "Inside a volcano"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the hotel called in The Shining?",
+    "choices": [
+      "The Grand Budapest",
+      "The Overlook Hotel",
+      "The Bates Motel",
+      "The Continental"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which film centers on the sinking of a famous ocean liner?",
+    "choices": [
+      "Apollo 13",
+      "The Perfect Storm",
+      "Titanic",
+      "Master and Commander"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Who played Willy Wonka in the 1971 film?",
+    "choices": [
+      "Johnny Depp",
+      "Jim Carrey",
+      "Peter Sellers",
+      "Gene Wilder"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What school does the cast attend in Grease?",
+    "choices": [
+      "Rydell High",
+      "Hogwarts",
+      "Ridgemont High",
+      "East High"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Who played T’Challa in Black Panther?",
+    "choices": [
+      "Idris Elba",
+      "Chadwick Boseman",
+      "Daniel Kaluuya",
+      "John Boyega"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who is Jack Sparrow in Pirates of the Caribbean?",
+    "choices": [
+      "A royal prince",
+      "A navy admiral",
+      "A pirate captain",
+      "A shipbuilder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is the child’s name in Home Alone?",
+    "choices": [
+      "Andy Davis",
+      "Charlie Bucket",
+      "Marty McFly",
+      "Kevin McCallister"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which family sings together in The Sound of Music?",
+    "choices": [
+      "The von Trapps",
+      "The Corleones",
+      "The Marches",
+      "The Bennetts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which road does Dorothy follow in Oz?",
+    "choices": [
+      "The Oregon Trail",
+      "The Yellow Brick Road",
+      "The King’s Road",
+      "The Silk Road"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who are the agents in Men in Black?",
+    "choices": [
+      "Medieval knights",
+      "Time-traveling doctors",
+      "Secret alien investigators",
+      "Underwater explorers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the Terminator’s main mission in the first film?",
+    "choices": [
+      "To find a lost treasure",
+      "To rescue a president",
+      "To stop a volcano",
+      "To kill Sarah Connor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who is Miguel’s musical hero in Coco?",
+    "choices": [
+      "Ernesto de la Cruz",
+      "Héctor Rivera",
+      "Mamá Coco",
+      "Dante"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does Nemo become separated from in Finding Nemo?",
+    "choices": [
+      "His sister",
+      "His father",
+      "His school",
+      "His trainer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What lifts the house in Up?",
+    "choices": [
+      "Helicopters",
+      "Wings",
+      "Balloons",
+      "Rocket engines"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "In Frozen, who controls ice and snow?",
+    "choices": [
+      "Anna",
+      "Moana",
+      "Merida",
+      "Elsa"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which film follows a young lion who becomes king?",
+    "choices": [
+      "The Lion King",
+      "Bambi",
+      "The Jungle Book",
+      "Madagascar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the main setting of The Grand Budapest Hotel?",
+    "choices": [
+      "A ranch in Texas",
+      "A hotel in a fictional European country",
+      "A station in Tokyo",
+      "A theater in New York"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which film follows a shy Parisian waitress who secretly improves strangers' lives?",
+    "choices": [
+      "Cléo from 5 to 7",
+      "The Piano",
+      "Amélie",
+      "Roma"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Who directed the Lord of the Rings film trilogy?",
+    "choices": [
+      "James Cameron",
+      "Peter Weir",
+      "Guillermo del Toro",
+      "Peter Jackson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which film follows a family of superheroes called the Parrs?",
+    "choices": [
+      "The Incredibles",
+      "The Avengers",
+      "Sky High",
+      "Megamind"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which object is central to Raiders of the Lost Ark?",
+    "choices": [
+      "The One Ring",
+      "The Ark of the Covenant",
+      "The Maltese Falcon",
+      "The Holy Grail"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who is the main character in The Truman Show?",
+    "choices": [
+      "Edward Bloom",
+      "Forrest Gump",
+      "Truman Burbank",
+      "Billy Elliot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which film centers on a sinking ship called the Poseidon?",
+    "choices": [
+      "The Abyss",
+      "Das Boot",
+      "The Perfect Storm",
+      "The Poseidon Adventure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What kind of film is The Good, the Bad and the Ugly?",
+    "choices": [
+      "A Western",
+      "A musical",
+      "A courtroom drama",
+      "A science documentary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Who played Forrest Gump?",
+    "choices": [
+      "Robin Williams",
+      "Tom Hanks",
+      "Bill Murray",
+      "Tom Cruise"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which film follows a young wizard named Harry?",
+    "choices": [
+      "The Sorcerer’s Apprentice",
+      "The Prestige",
+      "Harry Potter and the Philosopher’s Stone",
+      "Stardust"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which film features the fictional newspaper editor Perry White?",
+    "choices": [
+      "Spider-Man",
+      "Batman Begins",
+      "The Rocketeer",
+      "Superman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the profession of the title character in Erin Brockovich?",
+    "choices": [
+      "A legal clerk",
+      "A detective",
+      "A pilot",
+      "A chef"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which film follows a rat who dreams of becoming a chef?",
+    "choices": [
+      "Chef",
+      "Ratatouille",
+      "The Menu",
+      "Julie & Julia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Who directed Rashomon?",
+    "choices": [
+      "Yasujirō Ozu",
+      "Ingmar Bergman",
+      "Akira Kurosawa",
+      "Federico Fellini"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who played multiple roles in Dr. Strangelove?",
+    "choices": [
+      "Alec Guinness",
+      "Jack Lemmon",
+      "Orson Welles",
+      "Peter Sellers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which film is a landmark of Italian neorealism?",
+    "choices": [
+      "Bicycle Thieves",
+      "The Seventh Seal",
+      "Breathless",
+      "Persona"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who directed Battleship Potemkin?",
+    "choices": [
+      "Vsevolod Pudovkin",
+      "Sergei Eisenstein",
+      "Andrei Tarkovsky",
+      "Dziga Vertov"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which movement is linked to Breathless?",
+    "choices": [
+      "Italian neorealism",
+      "German Expressionism",
+      "The French New Wave",
+      "Dogme 95"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who directed The Cabinet of Dr. Caligari?",
+    "choices": [
+      "Fritz Lang",
+      "F. W. Murnau",
+      "Georg Wilhelm Pabst",
+      "Robert Wiene"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What storytelling device defines Rashomon?",
+    "choices": [
+      "Conflicting accounts of one event",
+      "A story told backward in time",
+      "A narrator who is a ghost",
+      "A film made entirely of newsreel footage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does HAL 9000 control in 2001: A Space Odyssey?",
+    "choices": [
+      "A New York newspaper",
+      "The spacecraft’s systems",
+      "A desert army",
+      "A recording studio"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What are replicants in Blade Runner?",
+    "choices": [
+      "Alien insects",
+      "Police vehicles",
+      "Artificial humans",
+      "Memory cards"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What subject drives Arrival’s central mystery?",
+    "choices": [
+      "Deep-sea treasure",
+      "A royal succession",
+      "A courtroom trial",
+      "Language and communication"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which filmmaker directed Mulholland Drive?",
+    "choices": [
+      "David Lynch",
+      "Paul Thomas Anderson",
+      "Terrence Malick",
+      "Brian De Palma"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is Chihiro’s new name in Spirited Away?",
+    "choices": [
+      "Yubaba",
+      "Sen",
+      "Lin",
+      "Haku"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Japanese director made Seven Samurai?",
+    "choices": [
+      "Masaki Kobayashi",
+      "Kenji Mizoguchi",
+      "Akira Kurosawa",
+      "Satyajit Ray"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who made the 1927 film Metropolis?",
+    "choices": [
+      "F. W. Murnau",
+      "Ernst Lubitsch",
+      "Billy Wilder",
+      "Fritz Lang"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who composed the famous zither score for The Third Man?",
+    "choices": [
+      "Anton Karas",
+      "Bernard Herrmann",
+      "Nino Rota",
+      "Ennio Morricone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who is Scottie in Vertigo?",
+    "choices": [
+      "A newspaper editor",
+      "A former police detective",
+      "A stage magician",
+      "A private surgeon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What conflict drives Chinatown?",
+    "choices": [
+      "A war over oil fields",
+      "A dispute over a theater",
+      "A struggle over water and corruption",
+      "A search for a stolen painting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who is Howard Beale in Network?",
+    "choices": [
+      "A film director",
+      "A police chief",
+      "A record producer",
+      "A television news anchor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which actress stars as Margo Channing in All About Eve?",
+    "choices": [
+      "Bette Davis",
+      "Joan Crawford",
+      "Gloria Swanson",
+      "Katharine Hepburn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who is C. C. Baxter in The Apartment?",
+    "choices": [
+      "A taxi driver",
+      "An office employee",
+      "A hotel detective",
+      "A theater actor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What rating did Midnight Cowboy famously receive in the United States?",
+    "choices": [
+      "G",
+      "PG",
+      "X",
+      "NC-17"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which filmmaker made Lawrence of Arabia?",
+    "choices": [
+      "Michael Powell",
+      "Carol Reed",
+      "William Wyler",
+      "David Lean"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What device shapes the chronology of Memento?",
+    "choices": [
+      "Reverse and fragmented storytelling",
+      "A continuous real-time take",
+      "A series of animated songs",
+      "A courtroom flashback only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who is Anton Chigurh in No Country for Old Men?",
+    "choices": [
+      "A sheriff’s deputy",
+      "A relentless killer",
+      "A ranch owner",
+      "A banker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What industry drives Daniel Plainview in There Will Be Blood?",
+    "choices": [
+      "Railroads",
+      "Publishing",
+      "Oil drilling",
+      "Shipbuilding"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who is Captain Vidal in Pan’s Labyrinth?",
+    "choices": [
+      "A village doctor",
+      "A traveling musician",
+      "A republican pilot",
+      "A fascist officer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which agency employs Gerd Wiesler in The Lives of Others?",
+    "choices": [
+      "The Stasi",
+      "The CIA",
+      "The Gestapo",
+      "MI6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who directed Roma?",
+    "choices": [
+      "Alejandro González Iñárritu",
+      "Alfonso Cuarón",
+      "Guillermo del Toro",
+      "Carlos Reygadas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What structure does Moonlight use?",
+    "choices": [
+      "A story told through letters",
+      "A single courtroom session",
+      "Three chapters in one life",
+      "A series of unrelated sketches"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which filmmaker made Get Out?",
+    "choices": [
+      "Spike Lee",
+      "Ari Aster",
+      "Barry Jenkins",
+      "Jordan Peele"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who directed Parasite?",
+    "choices": [
+      "Bong Joon-ho",
+      "Park Chan-wook",
+      "Lee Chang-dong",
+      "Hirokazu Kore-eda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who is Imperator Furiosa in Mad Max: Fury Road?",
+    "choices": [
+      "A desert queen",
+      "A war captain",
+      "A mechanic’s daughter",
+      "A prison guard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who performed Gollum through motion capture in The Lord of the Rings?",
+    "choices": [
+      "Ian McKellen",
+      "Christopher Lee",
+      "Andy Serkis",
+      "Hugo Weaving"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who directed Schindler’s List?",
+    "choices": [
+      "Roman Polanski",
+      "Sydney Pollack",
+      "Milos Forman",
+      "Steven Spielberg"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which genre best describes Crouching Tiger, Hidden Dragon?",
+    "choices": [
+      "Wuxia",
+      "Film noir",
+      "Spaghetti western",
+      "Musical comedy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who operates the cinema in Cinema Paradiso?",
+    "choices": [
+      "Toto",
+      "Alfredo",
+      "Salvatore’s father",
+      "Peppino"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What game does Death play in The Seventh Seal?",
+    "choices": [
+      "Cards",
+      "Go",
+      "Chess",
+      "Backgammon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which film follows a group of young people in the Paris suburbs after a riot?",
+    "choices": [
+      "The 400 Blows",
+      "Army of Shadows",
+      "A Prophet",
+      "La Haine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which director made The Battle of Algiers?",
+    "choices": [
+      "Gillo Pontecorvo",
+      "Costa-Gavras",
+      "Jean-Pierre Melville",
+      "Ousmane Sembène"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which film cross-cuts between two generations of the Corleone family?",
+    "choices": [
+      "The Godfather Part III",
+      "The Godfather Part II",
+      "Once Upon a Time in America",
+      "The Irishman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which film is known for a long tracking shot through the Copacabana club?",
+    "choices": [
+      "Casino",
+      "Mean Streets",
+      "Goodfellas",
+      "The Departed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which film centers on a mysterious black monolith?",
+    "choices": [
+      "Solaris",
+      "Stalker",
+      "The Tree of Life",
+      "2001: A Space Odyssey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which director made The 400 Blows?",
+    "choices": [
+      "François Truffaut",
+      "Jean-Luc Godard",
+      "Éric Rohmer",
+      "Claude Chabrol"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which film follows a thief who steals a bicycle in postwar Rome?",
+    "choices": [
+      "Umberto D.",
+      "Bicycle Thieves",
+      "Rome, Open City",
+      "La Strada"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which director made both Persona and The Seventh Seal?",
+    "choices": [
+      "Federico Fellini",
+      "Luis Buñuel",
+      "Ingmar Bergman",
+      "Michelangelo Antonioni"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which film uses a fictional film studio to explore Hollywood ambition?",
+    "choices": [
+      "The Conversation",
+      "The Last Picture Show",
+      "The Producers",
+      "The Player"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who directed The Conversation?",
+    "choices": [
+      "Francis Ford Coppola",
+      "William Friedkin",
+      "Sidney Lumet",
+      "Alan J. Pakula"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which film is set largely aboard a German U-boat?",
+    "choices": [
+      "The Hunt for Red October",
+      "Das Boot",
+      "Greyhound",
+      "A Bridge Too Far"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who directed The Piano?",
+    "choices": [
+      "Sofia Coppola",
+      "Claire Denis",
+      "Jane Campion",
+      "Jane Austen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which film centers on a television crew making a fake war broadcast?",
+    "choices": [
+      "The Truman Show",
+      "Network",
+      "Being There",
+      "Wag the Dog"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "How many players are on the field for one team on defense in a standard baseball game?",
+    "choices": [
+      "Nine",
+      "Seven",
+      "Ten",
+      "Eleven"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many bases must a batter touch to complete a home run inside the park?",
+    "choices": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which defensive player normally crouches behind home plate?",
+    "choices": [
+      "Shortstop",
+      "First baseman",
+      "Catcher",
+      "Center fielder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a hit called when a batter reaches second base safely on one hit?",
+    "choices": [
+      "Triple",
+      "Single",
+      "Error",
+      "Double"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the term for a batter reaching first base after four pitches outside the strike zone?",
+    "choices": [
+      "Walk",
+      "Bunt",
+      "Steal",
+      "Balk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does a runner do when taking a stolen base?",
+    "choices": [
+      "Leaves the game after reaching first",
+      "Advances to the next base during the pitch",
+      "Runs back toward home before contact",
+      "Switches defensive positions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a double play?",
+    "choices": [
+      "A hit that reaches two outfielders",
+      "Two consecutive home runs",
+      "One defensive sequence that records two outs",
+      "A game played twice in one day"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a sacrifice fly designed to do?",
+    "choices": [
+      "Give the batter two strikes without a pitch",
+      "Move a fielder into foul territory",
+      "Prevent a stolen base",
+      "Allow a runner to score while the batter is retired"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What usually happens when a batter hits a foul ball with fewer than two strikes?",
+    "choices": [
+      "A strike is added",
+      "The batter is automatically out",
+      "A run is awarded",
+      "The count is reset"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is the primary purpose of a baseball glove?",
+    "choices": [
+      "To add spin to a pitch",
+      "To catch and control the ball",
+      "To mark the batter's box",
+      "To protect the bat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the bullpen?",
+    "choices": [
+      "The umpire's changing room",
+      "The team's batting order",
+      "The area where relief pitchers warm up",
+      "The space behind the scoreboard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Where do players typically sit when their team is batting or fielding?",
+    "choices": [
+      "On the pitcher's mound",
+      "Behind second base",
+      "Inside the batter's box",
+      "In the dugout"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which infielder usually plays between second base and third base?",
+    "choices": [
+      "Shortstop",
+      "First baseman",
+      "Catcher",
+      "Right fielder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which outfield position is located between left field and right field?",
+    "choices": [
+      "Short field",
+      "Center field",
+      "Corner field",
+      "Deep infield"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a walk-off victory?",
+    "choices": [
+      "A game won without any hits",
+      "A victory decided before the ninth inning",
+      "A home-team win that ends the game immediately",
+      "A win earned by walking to first base"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What are extra innings used for?",
+    "choices": [
+      "Practicing before the game begins",
+      "Replacing the batting order",
+      "Reviewing disputed pitches",
+      "Breaking a tie after regulation innings"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a bunt?",
+    "choices": [
+      "A deliberately softly tapped ball",
+      "A pitch thrown with no spin",
+      "A catch made near the wall",
+      "A runner's fake toward second"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a pitcher attempt with a pickoff throw?",
+    "choices": [
+      "Throw directly over the center-field wall",
+      "Catch a baserunner too far from the base",
+      "Replace the catcher",
+      "Force the batter to switch sides"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which player is most associated with the nickname the Sultan of Swat?",
+    "choices": [
+      "Ty Cobb",
+      "Walter Johnson",
+      "Babe Ruth",
+      "Lou Gehrig"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which player was known as the Iron Horse?",
+    "choices": [
+      "Joe DiMaggio",
+      "Stan Musial",
+      "Ernie Banks",
+      "Lou Gehrig"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Roberto Clemente represented which country or territory in his baseball identity?",
+    "choices": [
+      "Puerto Rico",
+      "Cuba",
+      "Japan",
+      "Venezuela"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Negro Leagues star later became famous for pitching in Major League Baseball?",
+    "choices": [
+      "Cool Papa Bell",
+      "Satchel Paige",
+      "Josh Gibson",
+      "Buck O'Neil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which player was nicknamed the Wizard of Oz for his brilliant shortstop defense?",
+    "choices": [
+      "Cal Ripken Jr.",
+      "Robin Yount",
+      "Ozzie Smith",
+      "Barry Larkin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which pitch was Mariano Rivera especially famous for throwing?",
+    "choices": [
+      "Knuckleball",
+      "Eephus",
+      "Forkball",
+      "Cutter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which team plays its home games at Fenway Park?",
+    "choices": [
+      "Boston Red Sox",
+      "Chicago Cubs",
+      "St. Louis Cardinals",
+      "Cleveland Guardians"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which historic ballpark is strongly associated with the Chicago Cubs?",
+    "choices": [
+      "Comiskey Park",
+      "Wrigley Field",
+      "Tiger Stadium",
+      "Ebbets Field"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the Green Monster?",
+    "choices": [
+      "A nickname for a Yankees pitcher",
+      "A baseball-shaped trophy",
+      "The tall left-field wall at Fenway Park",
+      "A mascot of the Chicago Cubs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What trophy is awarded to the winner of the World Series?",
+    "choices": [
+      "The Stanley Cup",
+      "The Lombardi Trophy",
+      "The Claret Jug",
+      "The Commissioner's Trophy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who hit the famous walk-off home run that won the 1960 World Series for Pittsburgh?",
+    "choices": [
+      "Bill Mazeroski",
+      "Roberto Clemente",
+      "Willie Stargell",
+      "Honus Wagner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Who hit a dramatic pinch-hit home run for the Dodgers in Game 1 of the 1988 World Series?",
+    "choices": [
+      "Sandy Koufax",
+      "Kirk Gibson",
+      "Steve Garvey",
+      "Fernando Valenzuela"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which player hit a World Series-winning home run for Toronto in 1993?",
+    "choices": [
+      "Paul Molitor",
+      "Roberto Alomar",
+      "Joe Carter",
+      "John Olerud"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which franchise ended a famously long championship drought by winning the 2016 World Series?",
+    "choices": [
+      "Cleveland Indians",
+      "New York Mets",
+      "Kansas City Royals",
+      "Chicago Cubs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which team overcame a three-games-to-none deficit against the Yankees in the 2004 American League Championship Series?",
+    "choices": [
+      "Boston Red Sox",
+      "St. Louis Cardinals",
+      "New York Mets",
+      "Los Angeles Dodgers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "The Little League World Series is traditionally held in which Pennsylvania town?",
+    "choices": [
+      "Harrisburg",
+      "Williamsport",
+      "Allentown",
+      "Pittsburgh"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the World Baseball Classic?",
+    "choices": [
+      "A minor-league championship series",
+      "A contest for historic ballparks",
+      "An international tournament featuring national teams",
+      "A pitching award voted on by umpires"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Japan's top professional baseball league commonly called?",
+    "choices": [
+      "Japan Major League",
+      "Pacific Baseball Union",
+      "Tokyo Baseball Association",
+      "Nippon Professional Baseball"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The KBO League is the top professional baseball league of which country?",
+    "choices": [
+      "South Korea",
+      "Mexico",
+      "Canada",
+      "Cuba"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Caribbean nation has long been a major source of MLB players and baseball talent?",
+    "choices": [
+      "Iceland",
+      "Dominican Republic",
+      "Morocco",
+      "Nepal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the designated hitter's usual role?",
+    "choices": [
+      "Calling every pitch from the dugout",
+      "Replacing the catcher during steals",
+      "Batting in place of a pitcher without playing a defensive position",
+      "Serving as the game's official scorer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the pitching rubber?",
+    "choices": [
+      "A pad behind home plate",
+      "The circular on-deck mat",
+      "A grip used on a baseball bat",
+      "The raised slab from which the pitcher delivers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "On a traditional baseball scorecard, which letter commonly records a strikeout?",
+    "choices": [
+      "K",
+      "S",
+      "X",
+      "O"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the main purpose of a pitcher's windup?",
+    "choices": [
+      "To signal the next batter",
+      "To begin the delivery while generating timing and momentum",
+      "To measure the mound",
+      "To make a foul ball count as fair"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is a balk?",
+    "choices": [
+      "A ball hit over the foul pole",
+      "A catch made after one bounce",
+      "An illegal pitching motion that can advance runners",
+      "A missed tag at home plate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a baseball umpire signal with a raised right fist after a third strike?",
+    "choices": [
+      "A fair ball",
+      "A stolen base",
+      "A substitution",
+      "An out"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does a batter's on-deck circle indicate?",
+    "choices": [
+      "Where the next batter warms up",
+      "Where a runner must stop",
+      "Where an umpire stands for reviews",
+      "Where a pitcher may leave the field"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is a knuckleball intended to do?",
+    "choices": [
+      "Curve sharply because it is thrown with maximum topspin",
+      "Move unpredictably because it is thrown with very little spin",
+      "Travel faster than every other pitch",
+      "Bounce before reaching home plate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What three statistics traditionally make up a batting Triple Crown?",
+    "choices": [
+      "Hits, stolen bases, and walks",
+      "On-base percentage, slugging, and runs",
+      "Batting average, home runs, and runs batted in",
+      "Doubles, triples, and home runs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "In baseball, what does a force play mean?",
+    "choices": [
+      "A pitcher must throw at maximum speed",
+      "A fielder must leave the game",
+      "A batter must swing at the next pitch",
+      "A runner must advance because the batter became a runner"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the primary job of a first baseman on a routine ground ball?",
+    "choices": [
+      "Receive the throw at first to record the out",
+      "Stand behind the catcher",
+      "Cover the pitcher's mound",
+      "Call the batting order"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which award is given annually to the best pitcher in each MLB league?",
+    "choices": [
+      "Silver Slugger",
+      "Cy Young Award",
+      "Gold Glove",
+      "Hank Aaron Award"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which components are included in the commonly used WHIP pitching statistic?",
+    "choices": [
+      "Wins and home runs per inning pitched",
+      "Wild pitches and hit batters per game",
+      "Walks and hits allowed per inning pitched",
+      "Whiffs and innings per home start"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does FIP try to evaluate primarily?",
+    "choices": [
+      "A fielder's range using only assists",
+      "A team's financial payroll",
+      "A ballpark's foul-territory size",
+      "A pitcher's results using outcomes most under the pitcher's control"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In sabermetrics, BABIP measures batting average on which balls?",
+    "choices": [
+      "Balls put in play, excluding home runs",
+      "Only bunts and sacrifice flies",
+      "All pitches including called strikes",
+      "Fly balls hit to center field"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does launch angle describe for a batted ball?",
+    "choices": [
+      "The horizontal distance between bases",
+      "The vertical angle at which it leaves the bat",
+      "The pitcher's arm angle",
+      "The angle of a catcher's mask"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is exit velocity?",
+    "choices": [
+      "The runner's speed leaving the batter's box",
+      "The pitch speed after it crosses the plate",
+      "The speed of the ball immediately after contact",
+      "The velocity of a throw into the dugout"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a platoon advantage?",
+    "choices": [
+      "A team has more players than its opponent",
+      "A runner starts on second base",
+      "A fielder plays closer to the foul line",
+      "A batter or pitcher benefits from facing an opposite-handed opponent"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a double switch in baseball strategy?",
+    "choices": [
+      "A substitution that changes both a defensive player and the batting order",
+      "Two pitchers warming up at the same time",
+      "A play in which two runners steal together",
+      "A switch from a fastball to a curveball twice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a squeeze play?",
+    "choices": [
+      "A pitch thrown tightly inside",
+      "A bunt play intended to score a runner from third",
+      "A double play started by the catcher",
+      "A defensive alignment with four infielders"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How does a hit-and-run differ from a straight steal attempt?",
+    "choices": [
+      "The runner waits until the ball is caught",
+      "The pitcher must intentionally walk the batter",
+      "The batter is expected to swing as the runner starts",
+      "The batter is removed after contact"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is pitch framing?",
+    "choices": [
+      "A pitcher selecting a uniform number",
+      "A batter adjusting the bat's frame",
+      "A groundskeeper measuring the strike zone",
+      "Subtle catcher movement that may make a borderline pitch appear strike-like"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does a catcher 'block' a pitch mean?",
+    "choices": [
+      "Using the body or gear to keep a pitch in front of the plate",
+      "Catching a pitch without a glove",
+      "Calling time before every pitch",
+      "Standing outside the catcher's box"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a park factor intended to compare?",
+    "choices": [
+      "How quickly fans enter different stadiums",
+      "How a ballpark influences offensive outcomes relative to other parks",
+      "The number of parks a team visits",
+      "The height of each pitcher's mound"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the dead-ball era in baseball history generally associated with?",
+    "choices": [
+      "A period when all games used artificial turf",
+      "An era in which pitchers could not throw curveballs",
+      "Low-scoring play, few home runs, and baseballs that were used extensively",
+      "A decade with no professional leagues"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why is the 1920s often called the beginning of baseball's live-ball era?",
+    "choices": [
+      "Baseball moved entirely indoors",
+      "Teams stopped using gloves",
+      "The bases were reduced from four to three",
+      "Offense and home runs rose sharply as the ball and rules changed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Negro Leagues slugger is often called the Black Babe Ruth?",
+    "choices": [
+      "Josh Gibson",
+      "Monte Irvin",
+      "Ray Dandridge",
+      "Biz Mackey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What was the Federal League's historical significance?",
+    "choices": [
+      "It created the first women's professional league",
+      "It challenged the established major leagues as a third major league in 1914–1915",
+      "It introduced the designated hitter in 1973",
+      "It was the first international baseball tournament"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What event became known as the Black Sox scandal?",
+    "choices": [
+      "A blackout that stopped a 1930s World Series game",
+      "A dispute over black uniforms in the Negro Leagues",
+      "The alleged fixing of the 1919 World Series by Chicago players",
+      "A rainout during the first World Series"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why was the 1968 MLB season nicknamed the Year of the Pitcher?",
+    "choices": [
+      "Every team used only one starting pitcher",
+      "Pitchers were allowed to bat twice each inning",
+      "The season consisted only of exhibition games",
+      "Pitching dominated so strongly that run scoring reached unusually low levels"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What major rule change followed the exceptionally low offense of 1968?",
+    "choices": [
+      "The pitcher's mound was lowered before the 1969 season",
+      "The bases were moved 20 feet apart",
+      "The strike zone was eliminated",
+      "Teams were limited to six innings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What did the reserve clause historically do in professional baseball?",
+    "choices": [
+      "Required every player to serve as a reserve fielder",
+      "Bound a player to a club unless the club traded or released him",
+      "Allowed fans to reserve seats for postseason games",
+      "Limited pitchers to a fixed number of pitches"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What was Curt Flood's important role in baseball labor history?",
+    "choices": [
+      "He invented the split-finger fastball",
+      "He integrated the American League in 1901",
+      "His challenge to the reserve system helped lead toward modern free agency",
+      "He founded the first Japanese professional league"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which 1975 legal case helped establish players' ability to become free agents after their contracts ended?",
+    "choices": [
+      "The Flood–Clemente ruling",
+      "The Ruth–Gehrig agreement",
+      "The Mazeroski–Carter decision",
+      "The Messersmith–McNally arbitration decision"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What happened to the 1994 World Series?",
+    "choices": [
+      "It was canceled because of the players' strike",
+      "It was moved to Japan",
+      "It was won by a replacement-player team",
+      "It was shortened to three games"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which players were central to the famous 1998 MLB home-run race?",
+    "choices": [
+      "Cal Ripken Jr. and Tony Gwynn",
+      "Mark McGwire and Sammy Sosa",
+      "Ken Griffey Jr. and Frank Thomas",
+      "Barry Bonds and Alex Rodriguez"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Japanese star won the 2001 American League Rookie of the Year and MVP awards?",
+    "choices": [
+      "Hideo Nomo",
+      "Hideki Matsui",
+      "Ichiro Suzuki",
+      "Yu Darvish"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which pitcher famously used a bloody sock during the 2004 postseason?",
+    "choices": [
+      "Pedro Martínez",
+      "Mike Mussina",
+      "Keith Foulke",
+      "Curt Schilling"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who was named World Series MVP after his dramatic 2011 performance for St. Louis?",
+    "choices": [
+      "David Freese",
+      "Albert Pujols",
+      "Yadier Molina",
+      "Adam Wainwright"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which pitcher became especially famous for his two-way World Series impact with San Francisco in 2014?",
+    "choices": [
+      "Tim Lincecum",
+      "Madison Bumgarner",
+      "Matt Cain",
+      "Barry Zito"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which country won the inaugural World Baseball Classic in 2006?",
+    "choices": [
+      "Cuba",
+      "South Korea",
+      "Japan",
+      "Dominican Republic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which country won the 2023 World Baseball Classic final?",
+    "choices": [
+      "United States",
+      "Mexico",
+      "Puerto Rico",
+      "Japan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the Caribbean Series?",
+    "choices": [
+      "A tournament among winter-league champions from the Caribbean region",
+      "An MLB division rivalry",
+      "A youth tournament held in Florida",
+      "A series of exhibition games between Japanese clubs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a baseball winter league generally provide?",
+    "choices": [
+      "A league played only on frozen fields",
+      "Off-season competition, especially popular in the Caribbean and Latin America",
+      "A replacement for the World Series",
+      "A tournament limited to pitchers over age 40"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is distinctive about the Australian Baseball League in global baseball?",
+    "choices": [
+      "It uses cricket wickets instead of bases",
+      "It is restricted to national teams",
+      "It provides professional competition during the Northern Hemisphere off-season",
+      "It has no outfield positions"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "How does a cutter differ conceptually from a standard four-seam fastball?",
+    "choices": [
+      "It is always thrown underhand",
+      "It must bounce before reaching the plate",
+      "It is slower because it has no spin",
+      "It has modest late lateral movement from its grip and release"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a split-finger fastball intended to do near the plate?",
+    "choices": [
+      "Drop sharply as it loses speed and reaches the hitter",
+      "Rise above the top of the strike zone",
+      "Curve only toward the pitcher's glove",
+      "Travel with no change from a four-seamer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why can a changeup deceive a hitter even when it resembles a fastball?",
+    "choices": [
+      "It is always thrown from a different mound",
+      "It uses a similar arm action but arrives with reduced speed",
+      "It has no forward movement",
+      "It is delivered only after two strikes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What aerodynamic effect is commonly associated with a four-seam fastball's backspin?",
+    "choices": [
+      "It makes the ball stop in midair",
+      "It guarantees a curve into foul territory",
+      "It can create a rising effect relative to the hitter's expectation",
+      "It eliminates the need for a catcher"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the typical tactical goal of a sinker?",
+    "choices": [
+      "Produce only called strikes above the letters",
+      "Make the batter run before contact",
+      "Replace a pickoff throw",
+      "Induce more ground balls through downward movement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What made George Brett's 1983 pine-tar incident memorable?",
+    "choices": [
+      "His home run was initially nullified over the amount of pine tar on his bat",
+      "He used pine tar to doctor a baseball",
+      "He hit a home run while pitching",
+      "He broke a bat on the pitcher's mound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does Merkle's Boner refer to?",
+    "choices": [
+      "A pitcher throwing four consecutive wild pitches",
+      "A baserunning failure to touch second that affected a 1908 pennant race",
+      "A catcher losing a foul ball in the sun",
+      "A disputed home run in the 1960s"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who hit the 1951 home run known as the Shot Heard 'Round the World?",
+    "choices": [
+      "Willie Mays",
+      "Duke Snider",
+      "Bobby Thomson",
+      "Eddie Mathews"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What defensive error is Bill Buckner remembered for in the 1986 World Series?",
+    "choices": [
+      "He missed a relay throw at home plate",
+      "He dropped a fly ball in center field",
+      "He balked with the bases loaded",
+      "A ground ball went through his legs in Game 6"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a quality start in the traditional MLB statistical definition?",
+    "choices": [
+      "At least six innings pitched while allowing three or fewer earned runs",
+      "At least seven strikeouts with no walks",
+      "A complete game with no home runs",
+      "Five innings with at least ten swinging strikes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a save credited to a relief pitcher for?",
+    "choices": [
+      "Winning any game in which the pitcher appears",
+      "Finishing a qualifying close game while preserving the lead",
+      "Throwing three scoreless innings before the starter",
+      "Recording the first out of a game"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the Mendoza Line?",
+    "choices": [
+      "The boundary between fair and foul territory",
+      "A pitcher's maximum earned-run average",
+      "A baseball expression for a batting average around .200",
+      "The line marking the warning track"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the significance of the number 42 in MLB history?",
+    "choices": [
+      "It marks the number of games in a historical season",
+      "It was Babe Ruth's home-run total in 1927",
+      "It is the standard roster size",
+      "It was Jackie Robinson's uniform number and was retired throughout MLB"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was unusual about the 2020 MLB postseason World Series?",
+    "choices": [
+      "It was played at a neutral site in Arlington, Texas",
+      "It was played entirely in Mexico City",
+      "It used only seven-inning games",
+      "It featured no designated hitters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is an opener strategy in modern pitching usage?",
+    "choices": [
+      "A position player bats first regardless of lineup",
+      "A short-relief pitcher starts before a longer pitcher enters",
+      "A starter throws only in the first inning",
+      "A closer begins every playoff game"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does defensive replacement mean?",
+    "choices": [
+      "A rule forcing a team to replace its catcher",
+      "A replay ruling that changes an out",
+      "A late-game substitution made mainly to improve fielding",
+      "A new glove given to the winning team"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does a fielder's choice mean?",
+    "choices": [
+      "A manager's choice of which umpire reviews a play",
+      "A fan vote for the Gold Glove",
+      "A batter choosing whether to bunt before the pitch",
+      "A play where a fielder retires a different runner while allowing the batter-runner to reach"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  }
+]

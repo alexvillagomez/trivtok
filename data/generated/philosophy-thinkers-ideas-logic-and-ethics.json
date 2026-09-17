@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who wrote the Allegory of the Cave?",
+    "choices": [
+      "Plato",
+      "Aristotle",
+      "Socrates",
+      "Epicurus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which thinker taught the Socratic method?",
+    "choices": [
+      "Socrates",
+      "Plato",
+      "Zeno",
+      "Pythagoras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Aristotle founded which school in Athens?",
+    "choices": [
+      "Lyceum",
+      "Academy",
+      "Stoa",
+      "Garden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Epicurean ethics chiefly values which state?",
+    "choices": [
+      "Honor",
+      "Pleasure",
+      "Power",
+      "Purity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Stoicism emphasizes living according to what?",
+    "choices": [
+      "Chance",
+      "Nature",
+      "Wealth",
+      "Fame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which philosopher wrote Meditations?",
+    "choices": [
+      "Marcus Aurelius",
+      "Seneca",
+      "Epictetus",
+      "Cicero"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "The principle of noncontradiction is associated with whom?",
+    "choices": [
+      "Aristotle",
+      "Hume",
+      "Kant",
+      "Locke"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who wrote The Prince?",
+    "choices": [
+      "Hobbes",
+      "Machiavelli",
+      "Rousseau",
+      "Montesquieu"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Descartes begins his method with what famous certainty?",
+    "choices": [
+      "I think, therefore I am",
+      "God is dead",
+      "Man is the measure",
+      "Knowledge is power"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which empiricist wrote An Essay Concerning Human Understanding?",
+    "choices": [
+      "John Locke",
+      "George Berkeley",
+      "David Hume",
+      "Francis Bacon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "The categorical imperative belongs to which philosopher?",
+    "choices": [
+      "Hegel",
+      "Kant",
+      "Mill",
+      "Bentham"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Utilitarianism judges actions mainly by their what?",
+    "choices": [
+      "Intentions",
+      "Traditions",
+      "Consequences",
+      "Symbols"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who wrote Leviathan?",
+    "choices": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Adam Smith",
+      "Jeremy Bentham"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Rousseau described the state of nature as chiefly what?",
+    "choices": [
+      "Peaceful",
+      "Competitive",
+      "Industrial",
+      "Hierarchical"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which school holds that knowledge begins with sense experience?",
+    "choices": [
+      "Rationalism",
+      "Empiricism",
+      "Idealism",
+      "Skepticism"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Berkeley’s idealism claims that being is what?",
+    "choices": [
+      "Being measured",
+      "Being remembered",
+      "Being doubted",
+      "Being perceived"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Hume’s problem of induction concerns what?",
+    "choices": [
+      "Past facts justifying future expectations",
+      "Moral duties overriding desire",
+      "Language naming physical objects",
+      "Mathematics proving sensory claims"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Kant called space and time forms of what?",
+    "choices": [
+      "Pure intuition",
+      "Moral law",
+      "Natural science",
+      "Historical memory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Hegel’s historical method is often called what?",
+    "choices": [
+      "Phenomenology",
+      "Dialectic",
+      "Atomism",
+      "Verification"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Marx’s theory centers on conflict between which groups?",
+    "choices": [
+      "Priests and poets",
+      "Citizens and rulers",
+      "Generations and elders",
+      "Classes and owners"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Nietzsche announced that which figure was dead?",
+    "choices": [
+      "God",
+      "Reason",
+      "The state",
+      "Science"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Kierkegaard is strongly associated with which outlook?",
+    "choices": [
+      "Existentialism",
+      "Logical positivism",
+      "Structuralism",
+      "Pragmatism"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which philosopher wrote Being and Time?",
+    "choices": [
+      "Sartre",
+      "Heidegger",
+      "Camus",
+      "Jaspers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Sartre’s existentialism emphasizes what condition?",
+    "choices": [
+      "Fixed essence",
+      "Divine command",
+      "Social harmony",
+      "Radical freedom"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Rawls’s thought experiment uses what device?",
+    "choices": [
+      "Veil of ignorance",
+      "State of nature",
+      "Categorical imperative",
+      "Prisoner’s dilemma"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Nozick defended which political ideal?",
+    "choices": [
+      "Minimal state",
+      "Planned economy",
+      "Direct democracy",
+      "Theocracy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Bentham proposed measuring pleasure by what calculus?",
+    "choices": [
+      "Dialectical calculus",
+      "Hedonic calculus",
+      "Modal calculus",
+      "Predicate calculus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The fallacy attacking a person instead of an argument is what?",
+    "choices": [
+      "Straw man",
+      "Appeal to authority",
+      "False dilemma",
+      "Ad hominem"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "A valid argument with true premises is called what?",
+    "choices": [
+      "Sound",
+      "Cogent",
+      "Inductive",
+      "Circular"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does modus ponens infer?",
+    "choices": [
+      "The antecedent from the consequent",
+      "The consequent from affirmed antecedent",
+      "A contradiction from two negatives",
+      "A premise from its conclusion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In propositional logic, ‘and’ is represented by which connective?",
+    "choices": [
+      "∨",
+      "→",
+      "∧",
+      "¬"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A statement true under every interpretation is a what?",
+    "choices": [
+      "Contradiction",
+      "Contingency",
+      "Paradox",
+      "Tautology"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Gödel’s first incompleteness theorem concerns sufficiently strong what?",
+    "choices": [
+      "Formal systems",
+      "Ethical codes",
+      "Physical theories",
+      "Political constitutions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "The liar paradox involves a sentence that refers to what?",
+    "choices": [
+      "Its own truth status",
+      "Another language",
+      "A missing subject",
+      "A future event"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Quine challenged the analytic–synthetic distinction in which essay?",
+    "choices": [
+      "Two Dogmas of Empiricism",
+      "Naming and Necessity",
+      "On Denoting",
+      "The Myth of Sisyphus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Kripke’s necessary a posteriori examples concern what?",
+    "choices": [
+      "Moral virtues",
+      "Rigid designators",
+      "Social contracts",
+      "Dream arguments"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Frege’s distinction between sense and reference uses which terms?",
+    "choices": [
+      "Sinn and Bedeutung",
+      "Dasein and Sorge",
+      "Eidos and hyle",
+      "Logos and pathos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Wittgenstein’s later philosophy emphasizes meaning as what?",
+    "choices": [
+      "Private representation",
+      "Use in language-games",
+      "Innate grammar",
+      "Divine revelation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Logical positivists treated meaningful claims as verifiable or what?",
+    "choices": [
+      "Beautiful",
+      "Falsifiable",
+      "Analytic",
+      "Traditional"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Popper distinguished science by its principle of what?",
+    "choices": [
+      "Verification",
+      "Intuition",
+      "Falsifiability",
+      "Consensus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Aristotle’s virtue ethics aims at what flourishing?",
+    "choices": [
+      "Eudaimonia",
+      "Ataraxia",
+      "Nirvana",
+      "Apotheosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Aristotle’s doctrine of the mean locates virtue between what?",
+    "choices": [
+      "Two vices",
+      "Two truths",
+      "Two laws",
+      "Two rulers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Kantian ethics evaluates an action primarily by what?",
+    "choices": [
+      "Its outcome",
+      "Its intention and maxim",
+      "Its popularity",
+      "Its economic value"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Mill’s harm principle limits coercion to prevent what?",
+    "choices": [
+      "Religious doubt",
+      "Self-regarding mistakes",
+      "Harm to others",
+      "Political disagreement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Care ethics highlights which moral feature?",
+    "choices": [
+      "Relationships",
+      "Universal laws",
+      "Market exchange",
+      "Formal proof"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Contractualism asks whether principles could be what?",
+    "choices": [
+      "Accepted by no one",
+      "Reasonably rejected",
+      "Proven geometrically",
+      "Enforced by nature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The doctrine of double effect permits foreseen harm under what condition?",
+    "choices": [
+      "The harm is intended",
+      "The act is profitable",
+      "The harm is unintended and proportionate",
+      "No alternative is considered"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Aristotle’s distinction between voluntary and involuntary action concerns what?",
+    "choices": [
+      "Knowledge and coercion",
+      "Beauty and utility",
+      "Law and custom",
+      "Faith and reason"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Parfit’s teletransporter case challenges what notion?",
+    "choices": [
+      "Personal identity",
+      "Moral realism",
+      "Free will",
+      "Truth conditions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "The experience machine thought experiment challenges hedonism by appealing to what?",
+    "choices": [
+      "Authentic living",
+      "Divine justice",
+      "Political equality",
+      "Logical necessity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The trolley problem typically contrasts pulling a lever with what?",
+    "choices": [
+      "Breaking a promise",
+      "Pushing a person",
+      "Choosing a career",
+      "Telling a lie"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Moral particularism rejects the necessity of what?",
+    "choices": [
+      "Moral reasons",
+      "Moral principles",
+      "Moral perception",
+      "Moral disagreement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Moral error theory claims ordinary moral judgments are what?",
+    "choices": [
+      "Systematically false",
+      "Always subjective",
+      "Legally binding",
+      "Scientifically verified"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The open question argument targets which reduction?",
+    "choices": [
+      "Goodness to a natural property",
+      "Mind to brain activity",
+      "Truth to consensus",
+      "Justice to equality"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The doctrine of the mean is a feature of whose ethics?",
+    "choices": [
+      "Aristotle’s",
+      "Spinoza’s",
+      "Hobbes’s",
+      "Sartre’s"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Leibniz’s principle of sufficient reason says every fact has what?",
+    "choices": [
+      "A moral cost",
+      "A possible negation",
+      "A sensory image",
+      "An explanation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Spinoza identifies God with what?",
+    "choices": [
+      "Nature",
+      "History",
+      "Mind alone",
+      "Moral law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The mind–body problem asks how mental states relate to what?",
+    "choices": [
+      "Language",
+      "Physical states",
+      "Moral norms",
+      "Social roles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Property dualism differs from substance dualism by positing what?",
+    "choices": [
+      "One substance with distinct properties",
+      "Two immaterial souls",
+      "No mental causation",
+      "Only linguistic minds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Functionalism defines mental states by their what?",
+    "choices": [
+      "Neural chemistry",
+      "First-person feel",
+      "Causal roles",
+      "Cultural origin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The philosophical zombie argument targets what theory?",
+    "choices": [
+      "Physicalism",
+      "Realism",
+      "Nominalism",
+      "Virtue ethics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Chalmers calls the subjective character of experience what problem?",
+    "choices": [
+      "The easy problem",
+      "The hard problem",
+      "The binding problem",
+      "The frame problem"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Gettier cases challenge which definition of knowledge?",
+    "choices": [
+      "Innate justified belief",
+      "Justified true belief",
+      "Reliable true belief",
+      "Practical certainty"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Reliabilism defines justification through what?",
+    "choices": [
+      "Coherent narratives",
+      "Social agreement",
+      "Introspective access",
+      "Reliable belief-forming processes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The epistemic closure principle concerns knowledge under what operation?",
+    "choices": [
+      "Known entailment",
+      "Moral choice",
+      "Memory loss",
+      "Language translation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Descartes’s dream argument raises doubt about what?",
+    "choices": [
+      "Mathematical induction",
+      "Perceptual certainty",
+      "Moral obligation",
+      "Political authority"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The regress problem for justification asks how many reasons are needed?",
+    "choices": [
+      "One final reason",
+      "An infinite chain or stopping point",
+      "Only sensory reasons",
+      "No reasons at all"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Externalism about epistemic justification permits justification without what?",
+    "choices": [
+      "Truth",
+      "Belief",
+      "Evidence",
+      "Reflective access"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Plato’s divided line separates intelligible knowledge from what?",
+    "choices": [
+      "Opinion",
+      "Virtue",
+      "Pleasure",
+      "Memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Aristotle’s four causes include material, formal, efficient, and what?",
+    "choices": [
+      "Final",
+      "Logical",
+      "Political",
+      "Aesthetic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A substance, for Aristotle, exists independently of what?",
+    "choices": [
+      "Its accidents",
+      "Its matter",
+      "Its form",
+      "Its purpose"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The problem of universals asks whether properties are what?",
+    "choices": [
+      "Only mental",
+      "Real or merely nominal",
+      "Always physical",
+      "Morally good"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Ockham’s razor counsels choosing which explanation?",
+    "choices": [
+      "The simplest adequate one",
+      "The oldest one",
+      "The most popular one",
+      "The most surprising one"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Possible-world semantics analyzes necessity as truth in what worlds?",
+    "choices": [
+      "The actual world only",
+      "All possible worlds",
+      "Future worlds only",
+      "Observer-relative worlds"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "The grounding relation is typically understood as what?",
+    "choices": [
+      "A causal force",
+      "A relation of metaphysical dependence",
+      "A linguistic convention",
+      "A temporal sequence"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Lewis’s modal realism treats possible worlds as what?",
+    "choices": [
+      "Useful fictions",
+      "Abstract descriptions",
+      "Mental models",
+      "Concrete realities"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "The principle of identity says each thing is what?",
+    "choices": [
+      "Identical with itself",
+      "Different from itself",
+      "Known by experience",
+      "Morally responsible"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Mereological nihilism denies that composite objects what?",
+    "choices": [
+      "Have properties",
+      "Exist",
+      "Can move",
+      "Are perceivable"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The cosmological argument seeks a cause or explanation for what?",
+    "choices": [
+      "Moral evil",
+      "The universe",
+      "Human language",
+      "Personal identity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The ontological argument infers God’s existence from what?",
+    "choices": [
+      "Observed order",
+      "Religious testimony",
+      "Moral experience",
+      "The concept of a greatest being"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The problem of evil challenges belief in a God who is omnipotent and what?",
+    "choices": [
+      "Omibenevolent",
+      "Finite",
+      "Embodied",
+      "Temporal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Compatibilism holds that free will can coexist with what?",
+    "choices": [
+      "Skepticism",
+      "Determinism",
+      "Dualism",
+      "Relativism"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Frankfurt cases challenge the principle that moral responsibility requires what?",
+    "choices": [
+      "A good character",
+      "Alternative possibilities",
+      "Legal punishment",
+      "Conscious emotion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "The luck objection targets which account of knowledge?",
+    "choices": [
+      "Virtue epistemology",
+      "Coherentism",
+      "Infallibilism",
+      "Justified true belief"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Coherentism explains justification through what structure?",
+    "choices": [
+      "A web of mutually supporting beliefs",
+      "A single basic belief",
+      "A divine guarantee",
+      "A causal chain of events"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Foundationalism posits what at the base of justification?",
+    "choices": [
+      "Basic beliefs",
+      "Infinite doubt",
+      "Social practices",
+      "Moral intuitions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Virtue epistemology emphasizes the intellectual agent’s what?",
+    "choices": [
+      "Social class",
+      "Reliable virtues",
+      "Sensory organs",
+      "Political rights"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "The internalism–externalism debate concerns access to what?",
+    "choices": [
+      "Political power",
+      "Moral emotion",
+      "Physical objects",
+      "Justifying factors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Habermas’s discourse ethics grounds norms in what?",
+    "choices": [
+      "Uncoerced rational communication",
+      "Private intuition",
+      "Economic output",
+      "Historical destiny"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Foucault’s genealogy studies how knowledge and power are what?",
+    "choices": [
+      "Separated",
+      "Intertwined",
+      "Eliminated",
+      "Quantified"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "The Frankfurt School is associated with what tradition?",
+    "choices": [
+      "Analytic philosophy",
+      "Critical theory",
+      "Natural law",
+      "Ordinary language"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Arendt distinguished power from violence by linking power to what?",
+    "choices": [
+      "Solitude",
+      "Wealth",
+      "Technology",
+      "Collective action"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Nozick’s entitlement theory focuses on justice in what?",
+    "choices": [
+      "Holdings",
+      "Outcomes",
+      "Intentions",
+      "Virtues"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Sen’s capability approach evaluates people’s substantive what?",
+    "choices": [
+      "Freedoms",
+      "Income alone",
+      "Preferences",
+      "Legal guilt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "The doctrine of public reason is central to whose political liberalism?",
+    "choices": [
+      "Rawls’s",
+      "Marx’s",
+      "Machiavelli’s",
+      "Schmitt’s"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Aristotle’s syllogistic logic studies what kind of inference?",
+    "choices": [
+      "Categorical inference",
+      "Causal inference",
+      "Statistical inference",
+      "Moral inference"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "The veil of ignorance is designed to model what?",
+    "choices": [
+      "Impartial choice",
+      "Historical memory",
+      "Scientific doubt",
+      "Personal identity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Martha Nussbaum’s list of central capabilities belongs to which approach?",
+    "choices": [
+      "Capability approach",
+      "Libertarian approach",
+      "Divine command approach",
+      "Verification approach"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "The doctrine of non causarum pro causa identifies what error?",
+    "choices": [
+      "False cause",
+      "False analogy",
+      "Begging the question",
+      "Equivocation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "A supererogatory act is morally what?",
+    "choices": [
+      "Forbidden",
+      "Required",
+      "Permitted but beyond duty",
+      "Impossible to assess"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

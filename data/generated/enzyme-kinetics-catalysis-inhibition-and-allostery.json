@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which statement best describes active-site complementarity?",
+    "choices": [
+      "substrate binding and transition-state stabilization",
+      "bulk solvent composition alone",
+      "enzyme concentration only",
+      "product volatility"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which experimental observation most directly supports active-site complementarity?",
+    "choices": [
+      "bulk solvent composition alone",
+      "substrate binding and transition-state stabilization",
+      "enzyme concentration only",
+      "product volatility"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "It is measured as active-site complementarity.",
+    "choices": [
+      "bulk solvent composition alone",
+      "enzyme concentration only",
+      "substrate binding and transition-state stabilization",
+      "product volatility"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which distinction separates active-site complementarity from a superficially similar concept?",
+    "choices": [
+      "bulk solvent composition alone",
+      "enzyme concentration only",
+      "product volatility",
+      "substrate binding and transition-state stabilization"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which statement best describes Michaelis-Menten assumptions?",
+    "choices": [
+      "initial-rate measurement before substantial product accumulates",
+      "equilibrium of free enzyme and product",
+      "irreversible product binding",
+      "constant substrate conversion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which experimental observation most directly supports Michaelis-Menten assumptions?",
+    "choices": [
+      "equilibrium of free enzyme and product",
+      "initial-rate measurement before substantial product accumulates",
+      "irreversible product binding",
+      "constant substrate conversion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "It is measured as Michaelis-Menten assumptions.",
+    "choices": [
+      "equilibrium of free enzyme and product",
+      "irreversible product binding",
+      "initial-rate measurement before substantial product accumulates",
+      "constant substrate conversion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which distinction separates Michaelis-Menten assumptions from a superficially similar concept?",
+    "choices": [
+      "equilibrium of free enzyme and product",
+      "irreversible product binding",
+      "constant substrate conversion",
+      "initial-rate measurement before substantial product accumulates"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which statement best describes Km interpretation?",
+    "choices": [
+      "an apparent kinetic parameter tied to ES behavior",
+      "total enzyme concentration",
+      "the catalytic constant at saturation",
+      "the equilibrium constant of every enzyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which experimental observation most directly supports Km interpretation?",
+    "choices": [
+      "total enzyme concentration",
+      "an apparent kinetic parameter tied to ES behavior",
+      "the catalytic constant at saturation",
+      "the equilibrium constant of every enzyme"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "It is measured as Km interpretation.",
+    "choices": [
+      "total enzyme concentration",
+      "the catalytic constant at saturation",
+      "an apparent kinetic parameter tied to ES behavior",
+      "the equilibrium constant of every enzyme"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which distinction separates Km interpretation from a superficially similar concept?",
+    "choices": [
+      "total enzyme concentration",
+      "the catalytic constant at saturation",
+      "the equilibrium constant of every enzyme",
+      "an apparent kinetic parameter tied to ES behavior"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which statement best describes Vmax meaning?",
+    "choices": [
+      "maximum initial rate at a specified enzyme concentration",
+      "rate at one micromolar substrate",
+      "rate independent of enzyme amount",
+      "product concentration at equilibrium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which experimental observation most directly supports Vmax meaning?",
+    "choices": [
+      "rate at one micromolar substrate",
+      "maximum initial rate at a specified enzyme concentration",
+      "rate independent of enzyme amount",
+      "product concentration at equilibrium"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "It is measured as Vmax meaning.",
+    "choices": [
+      "rate at one micromolar substrate",
+      "rate independent of enzyme amount",
+      "maximum initial rate at a specified enzyme concentration",
+      "product concentration at equilibrium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which distinction separates Vmax meaning from a superficially similar concept?",
+    "choices": [
+      "rate at one micromolar substrate",
+      "rate independent of enzyme amount",
+      "product concentration at equilibrium",
+      "maximum initial rate at a specified enzyme concentration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which statement best describes kcat?",
+    "choices": [
+      "Vmax divided by active enzyme concentration",
+      "substrate concentration at half rate",
+      "binding affinity in molar units",
+      "inhibitor dissociation rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which experimental observation most directly supports kcat?",
+    "choices": [
+      "substrate concentration at half rate",
+      "Vmax divided by active enzyme concentration",
+      "binding affinity in molar units",
+      "inhibitor dissociation rate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "It is measured as kcat.",
+    "choices": [
+      "substrate concentration at half rate",
+      "binding affinity in molar units",
+      "Vmax divided by active enzyme concentration",
+      "inhibitor dissociation rate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which distinction separates kcat from a superficially similar concept?",
+    "choices": [
+      "substrate concentration at half rate",
+      "binding affinity in molar units",
+      "inhibitor dissociation rate",
+      "Vmax divided by active enzyme concentration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which statement best describes Lineweaver-Burk plot?",
+    "choices": [
+      "straight-line intercept relationships for 1/v versus 1/[S]",
+      "direct plot of product versus time",
+      "distribution of enzyme conformers",
+      "thermodynamic energy profile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which experimental observation most directly supports Lineweaver-Burk plot?",
+    "choices": [
+      "direct plot of product versus time",
+      "straight-line intercept relationships for 1/v versus 1/[S]",
+      "distribution of enzyme conformers",
+      "thermodynamic energy profile"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "It is measured as Lineweaver-Burk plot.",
+    "choices": [
+      "direct plot of product versus time",
+      "distribution of enzyme conformers",
+      "straight-line intercept relationships for 1/v versus 1/[S]",
+      "thermodynamic energy profile"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which distinction separates Lineweaver-Burk plot from a superficially similar concept?",
+    "choices": [
+      "direct plot of product versus time",
+      "distribution of enzyme conformers",
+      "thermodynamic energy profile",
+      "straight-line intercept relationships for 1/v versus 1/[S]"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which statement best describes Eadie-Hofstee plot?",
+    "choices": [
+      "a rearrangement with slope related to minus Km",
+      "reciprocal substrate against reciprocal velocity",
+      "a binding-site map",
+      "a stopped-flow trace"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which experimental observation most directly supports Eadie-Hofstee plot?",
+    "choices": [
+      "reciprocal substrate against reciprocal velocity",
+      "a rearrangement with slope related to minus Km",
+      "a binding-site map",
+      "a stopped-flow trace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "It is measured as Eadie-Hofstee plot.",
+    "choices": [
+      "reciprocal substrate against reciprocal velocity",
+      "a binding-site map",
+      "a rearrangement with slope related to minus Km",
+      "a stopped-flow trace"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which distinction separates Eadie-Hofstee plot from a superficially similar concept?",
+    "choices": [
+      "reciprocal substrate against reciprocal velocity",
+      "a binding-site map",
+      "a stopped-flow trace",
+      "a rearrangement with slope related to minus Km"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which statement best describes competitive inhibition?",
+    "choices": [
+      "Km increases while Vmax is unchanged",
+      "Vmax decreases with unchanged Km",
+      "only ES binds inhibitor",
+      "catalysis becomes faster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which experimental observation most directly supports competitive inhibition?",
+    "choices": [
+      "Vmax decreases with unchanged Km",
+      "Km increases while Vmax is unchanged",
+      "only ES binds inhibitor",
+      "catalysis becomes faster"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "It is measured as competitive inhibition.",
+    "choices": [
+      "Vmax decreases with unchanged Km",
+      "only ES binds inhibitor",
+      "Km increases while Vmax is unchanged",
+      "catalysis becomes faster"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which distinction separates competitive inhibition from a superficially similar concept?",
+    "choices": [
+      "Vmax decreases with unchanged Km",
+      "only ES binds inhibitor",
+      "catalysis becomes faster",
+      "Km increases while Vmax is unchanged"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which statement best describes pure noncompetitive inhibition?",
+    "choices": [
+      "Vmax decreases with unchanged Km",
+      "Km increases with unchanged Vmax",
+      "only free enzyme binds",
+      "substrate affinity becomes infinite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which experimental observation most directly supports pure noncompetitive inhibition?",
+    "choices": [
+      "Km increases with unchanged Vmax",
+      "Vmax decreases with unchanged Km",
+      "only free enzyme binds",
+      "substrate affinity becomes infinite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "It is measured as pure noncompetitive inhibition.",
+    "choices": [
+      "Km increases with unchanged Vmax",
+      "only free enzyme binds",
+      "Vmax decreases with unchanged Km",
+      "substrate affinity becomes infinite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which distinction separates pure noncompetitive inhibition from a superficially similar concept?",
+    "choices": [
+      "Km increases with unchanged Vmax",
+      "only free enzyme binds",
+      "substrate affinity becomes infinite",
+      "Vmax decreases with unchanged Km"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which statement best describes uncompetitive inhibition?",
+    "choices": [
+      "both apparent Km and Vmax decrease",
+      "Km rises while Vmax stays fixed",
+      "free enzyme is the only target",
+      "substrate is chemically destroyed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which experimental observation most directly supports uncompetitive inhibition?",
+    "choices": [
+      "Km rises while Vmax stays fixed",
+      "both apparent Km and Vmax decrease",
+      "free enzyme is the only target",
+      "substrate is chemically destroyed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "It is measured as uncompetitive inhibition.",
+    "choices": [
+      "Km rises while Vmax stays fixed",
+      "free enzyme is the only target",
+      "both apparent Km and Vmax decrease",
+      "substrate is chemically destroyed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which distinction separates uncompetitive inhibition from a superficially similar concept?",
+    "choices": [
+      "Km rises while Vmax stays fixed",
+      "free enzyme is the only target",
+      "substrate is chemically destroyed",
+      "both apparent Km and Vmax decrease"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which statement best describes mixed inhibition?",
+    "choices": [
+      "Vmax decreases and Km may shift either direction",
+      "both constants must remain fixed",
+      "only substrate concentration changes",
+      "enzyme concentration becomes irrelevant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which experimental observation most directly supports mixed inhibition?",
+    "choices": [
+      "both constants must remain fixed",
+      "Vmax decreases and Km may shift either direction",
+      "only substrate concentration changes",
+      "enzyme concentration becomes irrelevant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "It is measured as mixed inhibition.",
+    "choices": [
+      "both constants must remain fixed",
+      "only substrate concentration changes",
+      "Vmax decreases and Km may shift either direction",
+      "enzyme concentration becomes irrelevant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which distinction separates mixed inhibition from a superficially similar concept?",
+    "choices": [
+      "both constants must remain fixed",
+      "only substrate concentration changes",
+      "enzyme concentration becomes irrelevant",
+      "Vmax decreases and Km may shift either direction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which statement best describes irreversible inhibition?",
+    "choices": [
+      "active enzyme is removed from the measured population",
+      "rapid reversible occupancy at equilibrium",
+      "substrate binding is strengthened",
+      "product inhibition is eliminated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which experimental observation most directly supports irreversible inhibition?",
+    "choices": [
+      "rapid reversible occupancy at equilibrium",
+      "active enzyme is removed from the measured population",
+      "substrate binding is strengthened",
+      "product inhibition is eliminated"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "It is measured as irreversible inhibition.",
+    "choices": [
+      "rapid reversible occupancy at equilibrium",
+      "substrate binding is strengthened",
+      "active enzyme is removed from the measured population",
+      "product inhibition is eliminated"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which distinction separates irreversible inhibition from a superficially similar concept?",
+    "choices": [
+      "rapid reversible occupancy at equilibrium",
+      "substrate binding is strengthened",
+      "product inhibition is eliminated",
+      "active enzyme is removed from the measured population"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which statement best describes transition-state stabilization?",
+    "choices": [
+      "lowering the activation barrier",
+      "raising substrate ground-state energy",
+      "increasing product concentration",
+      "changing enzyme molecular weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which experimental observation most directly supports transition-state stabilization?",
+    "choices": [
+      "raising substrate ground-state energy",
+      "lowering the activation barrier",
+      "increasing product concentration",
+      "changing enzyme molecular weight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "It is measured as transition-state stabilization.",
+    "choices": [
+      "raising substrate ground-state energy",
+      "increasing product concentration",
+      "lowering the activation barrier",
+      "changing enzyme molecular weight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which distinction separates transition-state stabilization from a superficially similar concept?",
+    "choices": [
+      "raising substrate ground-state energy",
+      "increasing product concentration",
+      "changing enzyme molecular weight",
+      "lowering the activation barrier"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which statement best describes general acid-base catalysis?",
+    "choices": [
+      "a residue shuttles protons during bond making or breaking",
+      "metal permanently replaces substrate",
+      "water is excluded from every active site",
+      "only hydrophobic contacts matter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which experimental observation most directly supports general acid-base catalysis?",
+    "choices": [
+      "metal permanently replaces substrate",
+      "a residue shuttles protons during bond making or breaking",
+      "water is excluded from every active site",
+      "only hydrophobic contacts matter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "It is measured as general acid-base catalysis.",
+    "choices": [
+      "metal permanently replaces substrate",
+      "water is excluded from every active site",
+      "a residue shuttles protons during bond making or breaking",
+      "only hydrophobic contacts matter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which distinction separates general acid-base catalysis from a superficially similar concept?",
+    "choices": [
+      "metal permanently replaces substrate",
+      "water is excluded from every active site",
+      "only hydrophobic contacts matter",
+      "a residue shuttles protons during bond making or breaking"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which statement best describes covalent catalysis?",
+    "choices": [
+      "a catalytic nucleophile forms and later breaks a bond",
+      "enzyme is consumed stoichiometrically",
+      "substrate binds without reaction",
+      "cofactor is always required"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which experimental observation most directly supports covalent catalysis?",
+    "choices": [
+      "enzyme is consumed stoichiometrically",
+      "a catalytic nucleophile forms and later breaks a bond",
+      "substrate binds without reaction",
+      "cofactor is always required"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "It is measured as covalent catalysis.",
+    "choices": [
+      "enzyme is consumed stoichiometrically",
+      "substrate binds without reaction",
+      "a catalytic nucleophile forms and later breaks a bond",
+      "cofactor is always required"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which distinction separates covalent catalysis from a superficially similar concept?",
+    "choices": [
+      "enzyme is consumed stoichiometrically",
+      "substrate binds without reaction",
+      "cofactor is always required",
+      "a catalytic nucleophile forms and later breaks a bond"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which statement best describes metal-ion catalysis?",
+    "choices": [
+      "a coordinated ion organizes charge or nucleophilic water",
+      "metal denatures the protein",
+      "metal substitutes for all residues",
+      "only substrate solubility changes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which experimental observation most directly supports metal-ion catalysis?",
+    "choices": [
+      "metal denatures the protein",
+      "a coordinated ion organizes charge or nucleophilic water",
+      "metal substitutes for all residues",
+      "only substrate solubility changes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "It is measured as metal-ion catalysis.",
+    "choices": [
+      "metal denatures the protein",
+      "metal substitutes for all residues",
+      "a coordinated ion organizes charge or nucleophilic water",
+      "only substrate solubility changes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which distinction separates metal-ion catalysis from a superficially similar concept?",
+    "choices": [
+      "metal denatures the protein",
+      "metal substitutes for all residues",
+      "only substrate solubility changes",
+      "a coordinated ion organizes charge or nucleophilic water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which statement best describes cofactors?",
+    "choices": [
+      "an organic coenzyme or inorganic ion supports chemistry",
+      "a second substrate that is never consumed",
+      "an inactive protein subunit",
+      "a denaturant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which experimental observation most directly supports cofactors?",
+    "choices": [
+      "a second substrate that is never consumed",
+      "an organic coenzyme or inorganic ion supports chemistry",
+      "an inactive protein subunit",
+      "a denaturant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "It is measured as cofactors.",
+    "choices": [
+      "a second substrate that is never consumed",
+      "an inactive protein subunit",
+      "an organic coenzyme or inorganic ion supports chemistry",
+      "a denaturant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which distinction separates cofactors from a superficially similar concept?",
+    "choices": [
+      "a second substrate that is never consumed",
+      "an inactive protein subunit",
+      "a denaturant",
+      "an organic coenzyme or inorganic ion supports chemistry"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which statement best describes cosubstrate versus prosthetic group?",
+    "choices": [
+      "a cosubstrate is released and regenerated elsewhere",
+      "both are permanently covalent",
+      "prosthetic groups are always metals",
+      "cosubstrates cannot change oxidation state"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which experimental observation most directly supports cosubstrate versus prosthetic group?",
+    "choices": [
+      "both are permanently covalent",
+      "a cosubstrate is released and regenerated elsewhere",
+      "prosthetic groups are always metals",
+      "cosubstrates cannot change oxidation state"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "It is measured as cosubstrate versus prosthetic group.",
+    "choices": [
+      "both are permanently covalent",
+      "prosthetic groups are always metals",
+      "a cosubstrate is released and regenerated elsewhere",
+      "cosubstrates cannot change oxidation state"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which distinction separates cosubstrate versus prosthetic group from a superficially similar concept?",
+    "choices": [
+      "both are permanently covalent",
+      "prosthetic groups are always metals",
+      "cosubstrates cannot change oxidation state",
+      "a cosubstrate is released and regenerated elsewhere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which statement best describes steady-state approximation?",
+    "choices": [
+      "formation and breakdown fluxes nearly balance",
+      "all enzyme is substrate-bound",
+      "product concentration is maximal",
+      "binding is infinitely fast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which experimental observation most directly supports steady-state approximation?",
+    "choices": [
+      "all enzyme is substrate-bound",
+      "formation and breakdown fluxes nearly balance",
+      "product concentration is maximal",
+      "binding is infinitely fast"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "It is measured as steady-state approximation.",
+    "choices": [
+      "all enzyme is substrate-bound",
+      "product concentration is maximal",
+      "formation and breakdown fluxes nearly balance",
+      "binding is infinitely fast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which distinction separates steady-state approximation from a superficially similar concept?",
+    "choices": [
+      "all enzyme is substrate-bound",
+      "product concentration is maximal",
+      "binding is infinitely fast",
+      "formation and breakdown fluxes nearly balance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which statement best describes pre-steady-state burst?",
+    "choices": [
+      "a chemical step precedes release or regeneration limitation",
+      "enzyme concentration suddenly doubles",
+      "substrate is absent during the burst",
+      "equilibrium is reached instantly"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which experimental observation most directly supports pre-steady-state burst?",
+    "choices": [
+      "enzyme concentration suddenly doubles",
+      "a chemical step precedes release or regeneration limitation",
+      "substrate is absent during the burst",
+      "equilibrium is reached instantly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "It is measured as pre-steady-state burst.",
+    "choices": [
+      "enzyme concentration suddenly doubles",
+      "substrate is absent during the burst",
+      "a chemical step precedes release or regeneration limitation",
+      "equilibrium is reached instantly"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which distinction separates pre-steady-state burst from a superficially similar concept?",
+    "choices": [
+      "enzyme concentration suddenly doubles",
+      "substrate is absent during the burst",
+      "equilibrium is reached instantly",
+      "a chemical step precedes release or regeneration limitation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which statement best describes isotope kinetic effect?",
+    "choices": [
+      "a bond to the labeled atom contributes to the rate-limiting coordinate",
+      "label changes enzyme concentration",
+      "isotopes alter pH by definition",
+      "only product mass changes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which experimental observation most directly supports isotope kinetic effect?",
+    "choices": [
+      "label changes enzyme concentration",
+      "a bond to the labeled atom contributes to the rate-limiting coordinate",
+      "isotopes alter pH by definition",
+      "only product mass changes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "It is measured as isotope kinetic effect.",
+    "choices": [
+      "label changes enzyme concentration",
+      "isotopes alter pH by definition",
+      "a bond to the labeled atom contributes to the rate-limiting coordinate",
+      "only product mass changes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which distinction separates isotope kinetic effect from a superficially similar concept?",
+    "choices": [
+      "label changes enzyme concentration",
+      "isotopes alter pH by definition",
+      "only product mass changes",
+      "a bond to the labeled atom contributes to the rate-limiting coordinate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which statement best describes diffusion limit?",
+    "choices": [
+      "catalysis cannot greatly exceed molecular collision-controlled rates",
+      "enzyme must be membrane-bound",
+      "substrate binding is always irreversible",
+      "Vmax is independent of temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which experimental observation most directly supports diffusion limit?",
+    "choices": [
+      "enzyme must be membrane-bound",
+      "catalysis cannot greatly exceed molecular collision-controlled rates",
+      "substrate binding is always irreversible",
+      "Vmax is independent of temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "It is measured as diffusion limit.",
+    "choices": [
+      "enzyme must be membrane-bound",
+      "substrate binding is always irreversible",
+      "catalysis cannot greatly exceed molecular collision-controlled rates",
+      "Vmax is independent of temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which distinction separates diffusion limit from a superficially similar concept?",
+    "choices": [
+      "enzyme must be membrane-bound",
+      "substrate binding is always irreversible",
+      "Vmax is independent of temperature",
+      "catalysis cannot greatly exceed molecular collision-controlled rates"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which statement best describes Hill cooperativity?",
+    "choices": [
+      "a Hill coefficient above one indicates positive cooperativity",
+      "sites must be chemically identical",
+      "Km becomes a true binding constant",
+      "there can be no allostery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which experimental observation most directly supports Hill cooperativity?",
+    "choices": [
+      "sites must be chemically identical",
+      "a Hill coefficient above one indicates positive cooperativity",
+      "Km becomes a true binding constant",
+      "there can be no allostery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "It is measured as Hill cooperativity.",
+    "choices": [
+      "sites must be chemically identical",
+      "Km becomes a true binding constant",
+      "a Hill coefficient above one indicates positive cooperativity",
+      "there can be no allostery"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which distinction separates Hill cooperativity from a superficially similar concept?",
+    "choices": [
+      "sites must be chemically identical",
+      "Km becomes a true binding constant",
+      "there can be no allostery",
+      "a Hill coefficient above one indicates positive cooperativity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which statement best describes allosteric regulation?",
+    "choices": [
+      "activity changes without occupying the catalytic substrate site",
+      "only covalent cleavage can regulate",
+      "regulators must be products",
+      "active sites disappear permanently"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which experimental observation most directly supports allosteric regulation?",
+    "choices": [
+      "only covalent cleavage can regulate",
+      "activity changes without occupying the catalytic substrate site",
+      "regulators must be products",
+      "active sites disappear permanently"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "It is measured as allosteric regulation.",
+    "choices": [
+      "only covalent cleavage can regulate",
+      "regulators must be products",
+      "activity changes without occupying the catalytic substrate site",
+      "active sites disappear permanently"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which distinction separates allosteric regulation from a superficially similar concept?",
+    "choices": [
+      "only covalent cleavage can regulate",
+      "regulators must be products",
+      "active sites disappear permanently",
+      "activity changes without occupying the catalytic substrate site"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which statement best describes parameter fitting?",
+    "choices": [
+      "nonlinear regression on untransformed rate data",
+      "choosing parameters from enzyme color",
+      "forcing every plot linear",
+      "ignoring experimental uncertainty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which experimental observation most directly supports parameter fitting?",
+    "choices": [
+      "choosing parameters from enzyme color",
+      "nonlinear regression on untransformed rate data",
+      "forcing every plot linear",
+      "ignoring experimental uncertainty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "It is measured as parameter fitting.",
+    "choices": [
+      "choosing parameters from enzyme color",
+      "forcing every plot linear",
+      "nonlinear regression on untransformed rate data",
+      "ignoring experimental uncertainty"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which distinction separates parameter fitting from a superficially similar concept?",
+    "choices": [
+      "choosing parameters from enzyme color",
+      "forcing every plot linear",
+      "ignoring experimental uncertainty",
+      "nonlinear regression on untransformed rate data"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

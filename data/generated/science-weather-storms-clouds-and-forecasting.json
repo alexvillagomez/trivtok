@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is weather?",
+    "choices": [
+      "The short-term state of the atmosphere",
+      "The average climate over centuries",
+      "The solid interior of Earth",
+      "The daily motion of ocean tides"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In which atmospheric layer does most everyday weather occur?",
+    "choices": [
+      "The stratosphere",
+      "The troposphere",
+      "The mesosphere",
+      "The thermosphere"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which cloud type forms broad, fairly uniform gray layers?",
+    "choices": [
+      "Cumulus",
+      "Cirrus",
+      "Stratus",
+      "Altocumulus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What appearance is typical of fair-weather cumulus clouds?",
+    "choices": [
+      "Thin icy feathers high in the sky",
+      "A uniform dark sheet at ground level",
+      "Rotating funnels reaching the surface",
+      "Puffy, detached heaps with relatively flat bases"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which clouds are thin and wispy and usually found at high altitude?",
+    "choices": [
+      "Cirrus",
+      "Stratus",
+      "Nimbostratus",
+      "Cumulonimbus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which cloud is most strongly associated with thunderstorms?",
+    "choices": [
+      "Cirrostratus",
+      "Cumulonimbus",
+      "Altostratus",
+      "Stratocumulus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What kind of precipitation is commonly produced by nimbostratus clouds?",
+    "choices": [
+      "Only small hailstones",
+      "Dust and sand",
+      "Steady widespread rain or snow",
+      "No precipitation at all"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does humidity measure?",
+    "choices": [
+      "The speed of a storm",
+      "The amount of sunlight at noon",
+      "The salt content of rain",
+      "The amount of water vapor in the air"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the dew point?",
+    "choices": [
+      "The temperature at which air becomes saturated with water vapor",
+      "The highest temperature of the day",
+      "The point where wind stops",
+      "The height of a cloud base above sea level"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which instrument measures atmospheric pressure?",
+    "choices": [
+      "An anemometer",
+      "A barometer",
+      "A hygrometer",
+      "A pyranometer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What does a thermometer measure in weather observing?",
+    "choices": [
+      "Wind direction",
+      "Cloud height",
+      "Air temperature",
+      "Rain acidity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which instrument measures wind speed?",
+    "choices": [
+      "A barometer",
+      "A rain gauge",
+      "A ceilometer",
+      "An anemometer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does a wind vane indicate?",
+    "choices": [
+      "Wind direction",
+      "Wind temperature",
+      "Cloud thickness",
+      "Air pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which instrument collects and measures liquid precipitation?",
+    "choices": [
+      "A radiosonde",
+      "A rain gauge",
+      "A barograph",
+      "A wind profiler"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What does a hygrometer measure?",
+    "choices": [
+      "Visibility",
+      "Pressure",
+      "Humidity",
+      "Solar radiation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a cold front?",
+    "choices": [
+      "A stationary region with no temperature difference",
+      "The center of a hurricane",
+      "A high-altitude cloud boundary",
+      "The leading edge of advancing colder air"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What usually happens as a warm front passes?",
+    "choices": [
+      "Warmer air gradually replaces cooler air",
+      "Cold air suddenly replaces warm air",
+      "The wind always becomes calm",
+      "All cloud cover immediately disappears"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is a stationary front?",
+    "choices": [
+      "A front found only over oceans",
+      "A boundary that moves very little",
+      "A front with hurricane-force winds",
+      "A boundary between day and night"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is an occluded front?",
+    "choices": [
+      "A front that produces only sunshine",
+      "A front found exclusively at the equator",
+      "A front formed when one moving front overtakes another",
+      "A boundary created by ocean tides"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What weather is often associated with a broad high-pressure system?",
+    "choices": [
+      "Persistent rising air and thunderstorms everywhere",
+      "A guaranteed blizzard",
+      "Only dense fog at noon",
+      "Generally sinking air and fairer conditions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What weather is commonly associated with a low-pressure system?",
+    "choices": [
+      "Rising air and increased cloud or precipitation",
+      "Clear skies caused by sinking air",
+      "No wind under any circumstances",
+      "Permanent dry heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What are isobars on a weather map?",
+    "choices": [
+      "Lines connecting equal rainfall",
+      "Lines connecting equal air pressure",
+      "Lines marking cloud tops",
+      "Lines showing ocean salinity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does precipitation include?",
+    "choices": [
+      "Only liquid rain",
+      "Only water vapor",
+      "Water falling from clouds as rain, snow, sleet, or hail",
+      "Sunlight reflected by clouds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is hail?",
+    "choices": [
+      "Frozen fog at the ground",
+      "Snow melted into rain",
+      "Salt crystals blown from beaches",
+      "Balls or lumps of ice formed in strong thunderstorms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is freezing rain?",
+    "choices": [
+      "Liquid rain that freezes on contact with cold surfaces",
+      "Snow that never reaches the ground",
+      "Rain that falls only in summer",
+      "Hail smaller than a pea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What process changes liquid water into water vapor?",
+    "choices": [
+      "Condensation",
+      "Evaporation",
+      "Deposition",
+      "Runoff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What process forms cloud droplets when water vapor cools?",
+    "choices": [
+      "Evaporation",
+      "Sublimation",
+      "Condensation",
+      "Infiltration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Why does rising air often cool in the atmosphere?",
+    "choices": [
+      "It absorbs heat from the stratosphere",
+      "It becomes heavier as it rises",
+      "It loses all water vapor instantly",
+      "It expands as surrounding pressure decreases"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a sea breeze?",
+    "choices": [
+      "A daytime wind blowing from sea toward warmer land",
+      "A nighttime wind from land toward sea",
+      "A wind found only during hurricanes",
+      "A high-altitude jet stream"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a land breeze?",
+    "choices": [
+      "A daytime wind from ocean to beach",
+      "A nighttime wind blowing from cooler land toward the sea",
+      "A wind that circles a tornado",
+      "A wind caused by mountain glaciers only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What causes thunder?",
+    "choices": [
+      "Clouds colliding in the upper atmosphere",
+      "Rain striking the ocean",
+      "The rapid expansion of air heated by lightning",
+      "Ice crystals rubbing against mountains"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is lightning?",
+    "choices": [
+      "A reflection of sunlight from hail",
+      "A column of falling snow",
+      "A pressure line on a weather map",
+      "A large electrical discharge in the atmosphere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is the calm central region of a mature hurricane called?",
+    "choices": [
+      "The eye",
+      "The eyewall",
+      "The rainband",
+      "The outflow jet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Where are a hurricane's strongest sustained winds usually found?",
+    "choices": [
+      "In the eye",
+      "In the eyewall",
+      "Far above the tropopause",
+      "Only in the outermost cloud tops"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the rotating column of air associated with a tornado called?",
+    "choices": [
+      "An isobar",
+      "A monsoon",
+      "A vortex",
+      "A frontolysis zone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which scale is used in the United States to rate tornado damage intensity?",
+    "choices": [
+      "The Saffir-Simpson scale",
+      "The Beaufort scale",
+      "The Fujita-Saffir index",
+      "The Enhanced Fujita scale"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a blizzard in the usual North American definition?",
+    "choices": [
+      "A snowstorm with strong winds and severely reduced visibility",
+      "Any snowfall lasting more than one hour",
+      "A rainstorm with thunder",
+      "A tropical cyclone over cold water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a monsoon?",
+    "choices": [
+      "A single violent thunderstorm",
+      "A seasonal reversal in prevailing winds, often bringing a wet season",
+      "A permanent wind at the poles",
+      "A type of high cloud"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does El Niño describe in the tropical Pacific?",
+    "choices": [
+      "Unusually cold Atlantic waters",
+      "A daily reversal of mountain winds",
+      "Unusually warm central and eastern surface waters",
+      "A permanent shift of Earth's axis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does La Niña describe in the tropical Pacific?",
+    "choices": [
+      "Unusually warm Arctic waters",
+      "A dust storm over Australia",
+      "A weakening of all trade winds",
+      "Unusually cool central and eastern surface waters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is the jet stream?",
+    "choices": [
+      "A narrow band of fast winds high in the atmosphere",
+      "A wind that occurs only inside tornadoes",
+      "A surface current in the ocean",
+      "A stream of falling precipitation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What does a weather forecast attempt to predict?",
+    "choices": [
+      "The exact climate of a century",
+      "Future atmospheric conditions",
+      "The orbit of a satellite only",
+      "The chemical composition of rocks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a weather radar primarily used to detect?",
+    "choices": [
+      "Air temperature inside buildings",
+      "Ocean depth",
+      "Precipitation and its movement",
+      "The composition of the stratosphere"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does a weather satellite observe from orbit?",
+    "choices": [
+      "Only underground water",
+      "The wind inside every home",
+      "Earthquake waves beneath the seafloor",
+      "Clouds, moisture, and atmospheric patterns"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is the main difference between a weather warning and a watch in U.S. terminology?",
+    "choices": [
+      "A warning means hazardous weather is occurring or imminent, while a watch means conditions are favorable",
+      "A watch always means greater danger than a warning",
+      "A warning applies only to winter, while a watch applies only to summer",
+      "They are identical terms used by different airports"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is fog?",
+    "choices": [
+      "Smoke produced by a wildfire",
+      "A cloud at or very near the ground",
+      "Rain that falls only at night",
+      "A layer of ice crystals in the stratosphere"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is an anvil top on a thunderstorm cloud?",
+    "choices": [
+      "The rotating center at the surface",
+      "A narrow rain shaft beneath a cloud",
+      "The flattened, spreading top formed near the tropopause",
+      "A layer of fog inside the eye"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does visibility report in a weather observation?",
+    "choices": [
+      "The height of the highest cloud",
+      "The speed of a storm's movement",
+      "The amount of water in the soil",
+      "The greatest distance at which objects can be clearly seen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "In common North American usage, what is sleet?",
+    "choices": [
+      "Small ice pellets that fall from a winter cloud",
+      "Freezing fog on a runway",
+      "Liquid rain that freezes on contact",
+      "Large balls of thunderstorm ice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a weather station?",
+    "choices": [
+      "A television channel that broadcasts forecasts",
+      "A site equipped to measure atmospheric conditions",
+      "A satellite orbit used for climate models",
+      "A building where only radar is manufactured"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which atmospheric boundary separates the troposphere from the stratosphere?",
+    "choices": [
+      "The mesopause",
+      "The stratopause",
+      "The tropopause",
+      "The ionopause"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What generally happens to temperature with height through the troposphere?",
+    "choices": [
+      "It increases uniformly",
+      "It remains exactly constant",
+      "It alternates every kilometer",
+      "It decreases on average"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does CAPE estimate in convective weather analysis?",
+    "choices": [
+      "The buoyant energy available to rising air",
+      "The amount of rain already measured",
+      "The speed of a surface cold front",
+      "The height of the tropopause only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does convective inhibition, or CIN, represent?",
+    "choices": [
+      "The maximum wind speed in a hurricane",
+      "Energy that suppresses a parcel's initial upward motion",
+      "The electrical charge of a cloud",
+      "The amount of ice in a snowpack"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a negative lifted index generally suggest?",
+    "choices": [
+      "A completely stable atmosphere",
+      "Freezing rain at the surface",
+      "An atmosphere favorable for instability and convection",
+      "A lack of moisture at all levels"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why is vertical wind shear important in severe-storm forecasting?",
+    "choices": [
+      "It determines the salinity of precipitation",
+      "It prevents all cloud formation",
+      "It measures the depth of the ocean",
+      "Changing wind with height can organize and sustain rotating storms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What apparent deflection of moving air results from Earth's rotation?",
+    "choices": [
+      "The Coriolis effect",
+      "The greenhouse effect",
+      "The rain-shadow effect",
+      "The Bernoulli effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a geostrophic wind in an idealized atmosphere?",
+    "choices": [
+      "A wind driven only by local heating",
+      "A wind balanced mainly by pressure-gradient and Coriolis forces",
+      "A wind that always blows downhill",
+      "A wind found only in tropical cyclones"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What are Rossby waves?",
+    "choices": [
+      "Tiny ripples on raindrops",
+      "Waves generated only by ocean tides",
+      "Large-scale meanders in the midlatitude westerly flow",
+      "Circular waves around tornado funnels"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a jet-streak entrance or exit region useful for identifying?",
+    "choices": [
+      "The exact location of a surface rain gauge",
+      "The salinity of an atmospheric river",
+      "The freezing point of hail",
+      "Areas of upper-level divergence or convergence that can support vertical motion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does positive relative vorticity describe?",
+    "choices": [
+      "Counterclockwise rotation in the Northern Hemisphere convention",
+      "Only downward motion in thunderstorms",
+      "A decrease in atmospheric moisture",
+      "Wind blowing directly from east to west everywhere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does QPF stand for in operational forecasting?",
+    "choices": [
+      "Quick Pressure Field",
+      "Quantitative Precipitation Forecast",
+      "Qualified Polar Front",
+      "Quasi-Persistent Fog"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is numerical weather prediction?",
+    "choices": [
+      "Guessing weather from folklore alone",
+      "Measuring rain with a manual gauge",
+      "Using computer models of atmospheric physics to calculate future conditions",
+      "Recording only past temperatures"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why are ensemble forecasts useful?",
+    "choices": [
+      "They guarantee one exact forecast",
+      "They replace all observations",
+      "They measure only yesterday's weather",
+      "They show a range of outcomes from slightly different model states or assumptions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does nowcasting usually cover?",
+    "choices": [
+      "Very short-range prediction over the next few hours",
+      "Climate projections for centuries",
+      "Ocean tides over decades",
+      "Astronomical forecasts for eclipses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does radar reflectivity mainly indicate?",
+    "choices": [
+      "The direction of upper-level winds directly",
+      "The strength of returned energy from targets such as precipitation",
+      "The temperature of the ocean floor",
+      "The concentration of atmospheric oxygen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does Doppler radar velocity estimate?",
+    "choices": [
+      "The total rainfall depth in a season",
+      "The altitude of every cloud exactly",
+      "The component of target motion toward or away from the radar",
+      "The air pressure at the surface"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the radar bright band?",
+    "choices": [
+      "A ring around every tornado",
+      "A radar shadow behind a mountain",
+      "An area with no precipitation",
+      "A band of enhanced echoes near the melting layer where snow becomes rain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What radar signature can suggest a supercell's mesocyclone?",
+    "choices": [
+      "A persistent velocity couplet showing adjacent inbound and outbound motion",
+      "A perfectly circular area of weak reflectivity at every elevation",
+      "A straight line of only light rain",
+      "A bright band below the surface"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a bow echo?",
+    "choices": [
+      "A curved cloud around a hurricane eye",
+      "A bow-shaped line of thunderstorms often associated with strong straight-line winds",
+      "A rainbow visible in radar data",
+      "A snow band caused by lake effect only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a supercell?",
+    "choices": [
+      "Any thunderstorm with hail",
+      "A storm above the stratosphere",
+      "A thunderstorm with a persistent rotating updraft",
+      "A tropical cyclone over land"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a mesocyclone?",
+    "choices": [
+      "The calm center of a hurricane",
+      "A low-pressure center at the ocean surface",
+      "A wave in the jet stream",
+      "A rotating updraft region within a severe thunderstorm"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is an eyewall replacement cycle?",
+    "choices": [
+      "A tropical cyclone process in which a new outer eyewall contracts around the old one",
+      "A hurricane changing its name at landfall",
+      "A daily switch between tropical and extratropical status",
+      "The replacement of a storm's forecast model"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does rapid intensification mean for a tropical cyclone?",
+    "choices": [
+      "A storm moving quickly across the ocean",
+      "A substantial increase in maximum sustained winds over a short period",
+      "A cyclone weakening after landfall",
+      "A change from a watch to a warning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does the Saffir-Simpson scale classify for Atlantic hurricanes?",
+    "choices": [
+      "Total storm rainfall only",
+      "The diameter of the eye",
+      "Category based on maximum sustained wind speed",
+      "The number of tornadoes produced"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is storm surge?",
+    "choices": [
+      "A wave caused only by an earthquake",
+      "A sudden increase in rainfall over mountains",
+      "A tide that occurs every afternoon",
+      "An abnormal rise of seawater driven mainly by a storm's winds and pressure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is an atmospheric river?",
+    "choices": [
+      "A long, narrow corridor transporting large amounts of water vapor",
+      "A permanent river flowing through the stratosphere",
+      "A line of tornadoes over the ocean",
+      "A radar beam aimed at the equator"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is orographic precipitation?",
+    "choices": [
+      "Rain caused by an urban heat island only",
+      "Precipitation produced when terrain forces moist air upward",
+      "Snow formed solely by lake evaporation",
+      "Precipitation from a tropical cyclone's eye"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a rain shadow?",
+    "choices": [
+      "A dark cloud that blocks sunlight",
+      "A radar gap caused by heavy rain",
+      "A relatively dry region on the leeward side of a mountain range",
+      "A daily shadow cast by a thunderstorm"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a foehn wind?",
+    "choices": [
+      "A cold sea breeze at sunset",
+      "A circular wind inside a hurricane eye",
+      "A high-altitude polar easterly",
+      "A warm, dry downslope wind on the lee side of mountains"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a temperature inversion?",
+    "choices": [
+      "A layer in which temperature increases with height instead of decreasing",
+      "A sudden reversal of the seasons",
+      "A cloud that changes into rain",
+      "A switch from Celsius to Fahrenheit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does infrared satellite imagery help meteorologists estimate?",
+    "choices": [
+      "The exact wind speed at every surface point",
+      "Cloud-top temperature and related cloud height",
+      "The salinity of seawater",
+      "The chemical composition of hailstones"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does water-vapor satellite imagery emphasize?",
+    "choices": [
+      "Only liquid water on the ground",
+      "The depth of underground aquifers",
+      "The distribution and motion of moisture in selected atmospheric layers",
+      "The reflectivity of snow on roads"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a radiosonde?",
+    "choices": [
+      "A satellite that maps ocean currents",
+      "A radar dish mounted on a ship",
+      "A sensor buried beneath snow",
+      "An instrument package carried aloft by a weather balloon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does an atmospheric sounding provide?",
+    "choices": [
+      "A vertical profile of variables such as temperature, moisture, pressure, and wind",
+      "A map of only surface rainfall",
+      "A record of ocean tides",
+      "A list of historical hurricane names"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why does higher model resolution often help forecast local weather features?",
+    "choices": [
+      "It eliminates atmospheric chaos",
+      "Smaller grid spacing can represent finer terrain and storm structures",
+      "It makes observations unnecessary",
+      "It guarantees perfect precipitation timing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does ensemble spread generally indicate?",
+    "choices": [
+      "The width of a hurricane's eyewall only",
+      "The distance between weather stations",
+      "How much forecast solutions differ from one another",
+      "The thickness of a cloud layer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why do forecasts become less certain farther into the future?",
+    "choices": [
+      "The atmosphere stops being measurable after one day",
+      "Weather satellites turn off at night",
+      "Air pressure becomes constant globally",
+      "Small initial errors can grow in a chaotic atmosphere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does dual-polarization radar add compared with conventional reflectivity alone?",
+    "choices": [
+      "Information about target shape and type, improving precipitation identification",
+      "A direct measurement of lightning voltage",
+      "A map of underground faults",
+      "A forecast of next year's climate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a tropical cyclone called in the western North Pacific?",
+    "choices": [
+      "A willy-willy",
+      "A typhoon",
+      "A baguio",
+      "A pampero"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a tropical cyclone called in the North Atlantic and eastern North Pacific?",
+    "choices": [
+      "A typhoon",
+      "A cyclone only",
+      "A hurricane",
+      "A norther"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a cold pool in a thunderstorm system?",
+    "choices": [
+      "The frozen center of a hurricane",
+      "A layer of cold ocean water beneath the thermocline",
+      "A cloud-free area above a jet streak",
+      "A spreading region of cooled air produced by precipitation and downdrafts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a gust front?",
+    "choices": [
+      "The leading edge of thunderstorm outflow spreading along the surface",
+      "The strongest wind around a hurricane eye",
+      "A boundary between two ocean currents",
+      "The front edge of a snowplow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is the hook echo on weather radar commonly associated with?",
+    "choices": [
+      "A mature hurricane eye only",
+      "A rotating supercell that may contain a tornado",
+      "A band of light stratiform rain",
+      "A clear-air temperature inversion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the main forecasting significance of a dryline in the Great Plains of the United States?",
+    "choices": [
+      "It marks the boundary between snow and sea ice",
+      "It is a permanent high-pressure ridge",
+      "It separates moist Gulf air from much drier air and can focus thunderstorms",
+      "It is a line of ocean fog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is wind chill intended to describe?",
+    "choices": [
+      "The actual measured air temperature",
+      "The total heat stored in a hurricane",
+      "The speed of wind at the tropopause",
+      "How cold moving air makes exposed skin feel compared with calm air"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is distinctive about a geostationary weather satellite's orbit?",
+    "choices": [
+      "It appears fixed over one longitude while orbiting with Earth's rotation",
+      "It passes over both poles on every orbit",
+      "It remains directly above the North Pole",
+      "It travels only beneath the atmosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why is potential vorticity useful in dynamic meteorology?",
+    "choices": [
+      "It measures only the amount of rain in a cloud",
+      "It combines rotational and stratification information and is conserved in idealized flow",
+      "It gives the exact number of tornadoes in a storm",
+      "It identifies the chemical composition of aerosols"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "How does the moist-adiabatic lapse rate differ from the dry-adiabatic rate?",
+    "choices": [
+      "A saturated parcel always warms faster than the surrounding air",
+      "It applies only below the ocean surface",
+      "A saturated parcel usually cools more slowly because condensation releases latent heat",
+      "It is exactly the same at every temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a baroclinic zone?",
+    "choices": [
+      "A calm area at the center of a tropical cyclone",
+      "A radar blind spot caused by mountains",
+      "A layer made entirely of ice crystals",
+      "A region where pressure surfaces and density or temperature surfaces are not parallel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  }
+]

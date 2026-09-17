@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which planet is closest to the Sun?",
+    "choices": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which planet is known for its prominent rings?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Earth's natural satellite called?",
+    "choices": [
+      "Phobos",
+      "Titan",
+      "Moon",
+      "Europa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which planet is often called the Red Planet?",
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Jupiter",
+      "Mars"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which planet is the largest in the solar system?",
+    "choices": [
+      "Jupiter",
+      "Neptune",
+      "Saturn",
+      "Uranus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which planet has the hottest average surface?",
+    "choices": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which planet is farthest from the Sun among the eight planets?",
+    "choices": [
+      "Uranus",
+      "Saturn",
+      "Neptune",
+      "Jupiter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which planet rotates on its side relative to its orbit?",
+    "choices": [
+      "Mars",
+      "Neptune",
+      "Venus",
+      "Uranus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which planet is famous for its Great Red Spot?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Neptune"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which planet has a day longer than its year?",
+    "choices": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Earth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which planet is Earth's closest planetary neighbor on average?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which moon is the largest moon in the solar system?",
+    "choices": [
+      "Titan",
+      "Triton",
+      "Callisto",
+      "Ganymede"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which moon has a thick nitrogen-rich atmosphere?",
+    "choices": [
+      "Titan",
+      "Europa",
+      "Io",
+      "Enceladus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which moon is known for active sulfurous volcanoes?",
+    "choices": [
+      "Titan",
+      "Io",
+      "Ganymede",
+      "Triton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which moon is especially associated with a subsurface ocean?",
+    "choices": [
+      "Hyperion",
+      "Phobos",
+      "Europa",
+      "Mimas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the asteroid belt mainly located between?",
+    "choices": [
+      "Earth and Mars",
+      "Venus and Earth",
+      "Jupiter and Saturn",
+      "Mars and Jupiter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What category includes Pluto?",
+    "choices": [
+      "Dwarf planet",
+      "Gas giant",
+      "Terrestrial planet",
+      "Comet nucleus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which object is the largest body in the asteroid belt?",
+    "choices": [
+      "Vesta",
+      "Ceres",
+      "Pallas",
+      "Hygiea"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What type of object develops a glowing coma near the Sun?",
+    "choices": [
+      "Asteroid",
+      "Moon",
+      "Comet",
+      "Planet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which NASA mission first landed humans on the Moon?",
+    "choices": [
+      "Apollo 8",
+      "Apollo 15",
+      "Apollo 12",
+      "Apollo 11"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which probe made the first close flyby of Pluto?",
+    "choices": [
+      "New Horizons",
+      "Voyager 2",
+      "Cassini",
+      "Juno"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which mission orbited Saturn and studied its moons?",
+    "choices": [
+      "Galileo",
+      "Cassini-Huygens",
+      "Magellan",
+      "Dawn"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which mission orbited Jupiter beginning in 2016?",
+    "choices": [
+      "MESSENGER",
+      "Rosetta",
+      "Juno",
+      "BepiColombo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which spacecraft visited both Uranus and Neptune?",
+    "choices": [
+      "Voyager 1",
+      "Mariner 10",
+      "Pioneer 10",
+      "Voyager 2"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which mission returned samples from asteroid Ryugu?",
+    "choices": [
+      "Hayabusa2",
+      "OSIRIS-REx",
+      "DART",
+      "Lucy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which mission returned samples from asteroid Bennu?",
+    "choices": [
+      "Dawn",
+      "OSIRIS-REx",
+      "Hayabusa",
+      "Psyche"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which lander operated on Mars in 1976?",
+    "choices": [
+      "InSight",
+      "Phoenix",
+      "Viking 1",
+      "Pathfinder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which rover became famous for its long Mars mission beginning in 2004?",
+    "choices": [
+      "Spirit",
+      "Curiosity",
+      "Sojourner",
+      "Opportunity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which Mars rover landed in Jezero Crater in 2021?",
+    "choices": [
+      "Perseverance",
+      "Curiosity",
+      "Spirit",
+      "Zhurong"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which planet has the shortest orbital period?",
+    "choices": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which planet has the longest orbital period among the eight?",
+    "choices": [
+      "Uranus",
+      "Saturn",
+      "Neptune",
+      "Jupiter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which planet has Olympus Mons?",
+    "choices": [
+      "Earth",
+      "Mercury",
+      "Venus",
+      "Mars"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which planet has clouds containing sulfuric acid?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Neptune"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which planet has the strongest surface winds measured in the solar system?",
+    "choices": [
+      "Jupiter",
+      "Neptune",
+      "Saturn",
+      "Uranus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which moon is larger than the planet Mercury?",
+    "choices": [
+      "Titan",
+      "Callisto",
+      "Ganymede",
+      "Triton"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which moon has prominent geysers of water ice?",
+    "choices": [
+      "Titan",
+      "Europa",
+      "Io",
+      "Enceladus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which moon orbits Neptune in a retrograde path?",
+    "choices": [
+      "Triton",
+      "Nereid",
+      "Proteus",
+      "Larissa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which moon is tidally locked to its planet?",
+    "choices": [
+      "Titan",
+      "Earth's Moon",
+      "Ganymede",
+      "Triton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What powers the Sun's energy production?",
+    "choices": [
+      "Nuclear fission",
+      "Chemical burning",
+      "Nuclear fusion",
+      "Gravitational friction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the Sun mostly made of?",
+    "choices": [
+      "Silicon and sulfur",
+      "Iron and nickel",
+      "Oxygen and carbon",
+      "Hydrogen and helium"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which layer is the Sun's visible surface?",
+    "choices": [
+      "Photosphere",
+      "Corona",
+      "Chromosphere",
+      "Core"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What causes lunar phases?",
+    "choices": [
+      "Earth's shadow always",
+      "Changing Sun-Moon-Earth geometry",
+      "Moon changing shape",
+      "Cloud cover on Earth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What causes a solar eclipse?",
+    "choices": [
+      "Earth between Sun and Moon",
+      "Sun between Earth and Moon",
+      "Moon between Sun and Earth",
+      "Mars blocking sunlight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which spacecraft studied Mercury from orbit?",
+    "choices": [
+      "Pioneer Venus",
+      "Mariner 2",
+      "Galileo",
+      "MESSENGER"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which mission was the first successful soft landing on a comet?",
+    "choices": [
+      "Philae",
+      "Rosetta",
+      "Stardust",
+      "Deep Impact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which mission deliberately struck an asteroid moonlet?",
+    "choices": [
+      "Lucy",
+      "DART",
+      "Dawn",
+      "NEAR Shoemaker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which mission explored the dwarf planet Ceres?",
+    "choices": [
+      "Psyche",
+      "New Horizons",
+      "Dawn",
+      "Galileo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which planet is classified as a terrestrial planet?",
+    "choices": [
+      "Jupiter",
+      "Neptune",
+      "Saturn",
+      "Earth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which planets are called ice giants?",
+    "choices": [
+      "Uranus and Neptune",
+      "Jupiter and Saturn",
+      "Earth and Mars",
+      "Venus and Mercury"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which planet has a hexagonal storm at its north pole?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which spacecraft carried the Huygens lander?",
+    "choices": [
+      "Juno",
+      "Galileo",
+      "Cassini",
+      "Voyager 2"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which moon is the likely source of Saturn's E ring?",
+    "choices": [
+      "Dione",
+      "Mimas",
+      "Rhea",
+      "Enceladus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which resonance links Neptune and Pluto's orbital periods?",
+    "choices": [
+      "3:2 resonance",
+      "2:1 resonance",
+      "5:2 resonance",
+      "1:1 resonance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is Pluto's largest moon?",
+    "choices": [
+      "Nix",
+      "Charon",
+      "Hydra",
+      "Styx"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which moon has a pronounced equatorial ridge likely tied to unusual rotation?",
+    "choices": [
+      "Dione",
+      "Mimas",
+      "Iapetus",
+      "Rhea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the primary cause of Io's intense volcanism?",
+    "choices": [
+      "Solar heating",
+      "Magnetic storms",
+      "Atmospheric friction",
+      "Tidal flexing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which moon is the most volcanically active body known?",
+    "choices": [
+      "Io",
+      "Europa",
+      "Titan",
+      "Enceladus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Saturn moon has a dense atmosphere and methane lakes?",
+    "choices": [
+      "Enceladus",
+      "Titan",
+      "Iapetus",
+      "Dione"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Galilean moon has the strongest evidence for a salty subsurface ocean?",
+    "choices": [
+      "Io",
+      "Ganymede",
+      "Europa",
+      "Callisto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Galilean moon has its own intrinsic magnetic field?",
+    "choices": [
+      "Europa",
+      "Callisto",
+      "Io",
+      "Ganymede"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which moon's surface is divided into bright and dark terrain?",
+    "choices": [
+      "Iapetus",
+      "Titan",
+      "Triton",
+      "Europa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which moon is thought to contain a subsurface ocean beneath nitrogen ice?",
+    "choices": [
+      "Charon",
+      "Triton",
+      "Phobos",
+      "Miranda"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Uranian moon has a giant canyon system?",
+    "choices": [
+      "Umbriel",
+      "Ariel",
+      "Miranda",
+      "Oberon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which moon shows a surface dominated by nitrogen and methane ices?",
+    "choices": [
+      "Ganymede",
+      "Europa",
+      "Rhea",
+      "Triton"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the Kuiper Belt's approximate location?",
+    "choices": [
+      "Beyond Neptune's orbit",
+      "Inside Mercury's orbit",
+      "Between Earth and Mars",
+      "Near the Sun's core"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which scattered-disk object is known for a highly eccentric orbit?",
+    "choices": [
+      "Ceres",
+      "Eris",
+      "Vesta",
+      "Hygiea"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What distinguishes a centaur in solar-system classification?",
+    "choices": [
+      "It is a lunar crater",
+      "It orbits inside Mercury",
+      "It orbits between Jupiter and Neptune",
+      "It is a stellar remnant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which comet has a period of about 76 years?",
+    "choices": [
+      "Swift-Tuttle",
+      "Hale-Bopp",
+      "Encke's Comet",
+      "Halley's Comet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which spacecraft reached interstellar space first?",
+    "choices": [
+      "Voyager 1",
+      "Voyager 2",
+      "Pioneer 10",
+      "New Horizons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What boundary did Voyager 2 cross in 2018?",
+    "choices": [
+      "Asteroid belt",
+      "Heliopause",
+      "Magnetopause of Jupiter",
+      "Lunar orbit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which mission used gravity assists to visit the outer planets?",
+    "choices": [
+      "Viking",
+      "Mariner",
+      "Voyager",
+      "Pioneer Venus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which spacecraft performed the first controlled landing on an asteroid?",
+    "choices": [
+      "Lucy",
+      "Dawn",
+      "Hayabusa2",
+      "NEAR Shoemaker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which asteroid did NEAR Shoemaker orbit and land on?",
+    "choices": [
+      "Eros",
+      "Itokawa",
+      "Bennu",
+      "Vesta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which mission visited asteroid Vesta before Ceres?",
+    "choices": [
+      "Psyche",
+      "Dawn",
+      "OSIRIS-REx",
+      "Rosetta"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which mission is surveying Trojan asteroids near Jupiter?",
+    "choices": [
+      "Dawn",
+      "DART",
+      "Lucy",
+      "BepiColombo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which mission targets the metal-rich asteroid Psyche?",
+    "choices": [
+      "Hayabusa2",
+      "Lucy",
+      "Dawn",
+      "Psyche"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Mercury mission is a joint ESA-JAXA project?",
+    "choices": [
+      "BepiColombo",
+      "MESSENGER",
+      "Mariner 10",
+      "Akatsuki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Venus mission mapped the planet with radar in the 1990s?",
+    "choices": [
+      "Galileo",
+      "Magellan",
+      "Venera 9",
+      "Pioneer  Venus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which probe entered Venus's atmosphere and transmitted surface data in 1982?",
+    "choices": [
+      "Huygens",
+      "Viking 1",
+      "Venera 13",
+      "Pioneer 11"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Mars mission measured interior seismic activity?",
+    "choices": [
+      "Mars Express",
+      "Phoenix",
+      "MAVEN",
+      "InSight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Mars orbiter studies atmospheric loss?",
+    "choices": [
+      "MAVEN",
+      "Mars Odyssey",
+      "Mars Reconnaissance Orbiter",
+      "Mars Global Surveyor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which rover carried the Ingenuity helicopter?",
+    "choices": [
+      "Curiosity",
+      "Perseverance",
+      "Opportunity",
+      "Spirit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which rover discovered evidence of ancient habitable environments in Gale Crater?",
+    "choices": [
+      "Spirit",
+      "Perseverance",
+      "Curiosity",
+      "Sojourner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Mars moon is more likely a captured asteroid?",
+    "choices": [
+      "Triton",
+      "Deimos",
+      "Europa",
+      "Phobos"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which spacecraft is studying Jupiter's icy moons for habitability?",
+    "choices": [
+      "JUICE",
+      "Juno",
+      "Galileo",
+      "Europa Clipper"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which mission is dedicated to repeated Europa flybys?",
+    "choices": [
+      "JUICE",
+      "Europa Clipper",
+      "Juno",
+      "Cassini"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which spacecraft discovered active plumes at Enceladus?",
+    "choices": [
+      "Juno",
+      "Voyager 2",
+      "Cassini",
+      "Galileo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which instrument type most directly detects a moon's induced magnetic field?",
+    "choices": [
+      "Radiometer",
+      "Barometer",
+      "Seismometer",
+      "Magnetometer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which orbital relation helps maintain the Laplace resonance of Io, Europa, and Ganymede?",
+    "choices": [
+      "1:2:4",
+      "1:2:3",
+      "2:3:5",
+      "1:3:5"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which moon participates in the Laplace resonance with Io and Ganymede?",
+    "choices": [
+      "Callisto",
+      "Europa",
+      "Amalthea",
+      "Himalia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What causes Saturn's ring spokes?",
+    "choices": [
+      "Solar flares",
+      "Liquid water eruptions",
+      "Electrostatic dust interactions",
+      "Volcanic ash clouds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Saturn ring division is the prominent gap between A and B rings?",
+    "choices": [
+      "Maxwell Gap",
+      "Encke Gap",
+      "Keeler Gap",
+      "Cassini Division"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which planet's axial tilt is closest to 98 degrees?",
+    "choices": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Mars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which planet has a magnetic field strongly tilted from its rotation axis?",
+    "choices": [
+      "Earth",
+      "Uranus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which planet's magnetosphere is compressed by its weak intrinsic field?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Neptune"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which planet lacks a global intrinsic magnetic field today?",
+    "choices": [
+      "Saturn",
+      "Earth",
+      "Jupiter",
+      "Venus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which exoplanet-like process is responsible for a planet's atmospheric escape under solar wind?",
+    "choices": [
+      "Sputtering",
+      "Accretion",
+      "Condensation",
+      "Crystallization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which solar-system body has the lowest known density among planets?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which planet's average density is lower than liquid water?",
+    "choices": [
+      "Uranus",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which moon has a subsurface ocean inferred from libration measurements?",
+    "choices": [
+      "Phoebe",
+      "Mimas",
+      "Hyperion",
+      "Europa"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  }
+]

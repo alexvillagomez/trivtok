@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which code element represents a dot in Morse code?",
+    "choices": [
+      "A short signal",
+      "A long signal",
+      "A silent interval",
+      "A letter separator"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Who is most associated with the practical electric telegraph?",
+    "choices": [
+      "Guglielmo Marconi",
+      "Alexander Graham Bell",
+      "Samuel Morse",
+      "Claude Shannon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What medium carried early submarine telegraph messages?",
+    "choices": [
+      "Coaxial cable",
+      "Insulated copper cable",
+      "Optical fiber",
+      "Microwave link"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What device converts a telegraph key action into electrical pulses?",
+    "choices": [
+      "A relay",
+      "A telegraph key",
+      "A detector",
+      "A duplexer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a telephone transmitter primarily convert?",
+    "choices": [
+      "Sound into electrical variation",
+      "Light into sound",
+      "Radio into digits",
+      "Voltage into magnetic flux"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the telephone receiver designed to reproduce?",
+    "choices": [
+      "Carrier frequency",
+      "Audible sound",
+      "Binary symbols",
+      "Antenna current"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What switching method establishes a dedicated telephone path?",
+    "choices": [
+      "Packet switching",
+      "Frequency hopping",
+      "Circuit switching",
+      "Store-and-forward"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does PSTN stand for?",
+    "choices": [
+      "Public Signal Transfer Node",
+      "Private Switched Telephone Network",
+      "Packet Service Telecom Network",
+      "Public Switched Telephone Network"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which component separates a telephone line from local loop noise?",
+    "choices": [
+      "A line filter",
+      "A loudspeaker",
+      "A horn antenna",
+      "A patch panel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is a radio antenna used to exchange?",
+    "choices": [
+      "Mechanical gears and torque",
+      "Electromagnetic waves and currents",
+      "Water pressure and flow",
+      "Optical images and pixels"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which scientist demonstrated radio transmission over distance?",
+    "choices": [
+      "Nikola Tesla",
+      "Harry Nyquist",
+      "Heinrich Hertz",
+      "John Bardeen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the usual unit of radio frequency?",
+    "choices": [
+      "Ohm",
+      "Decibel",
+      "Watt",
+      "Hertz"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "In AM broadcasting, what carrier property varies?",
+    "choices": [
+      "Amplitude",
+      "Wavelength only",
+      "Polarization only",
+      "Propagation speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "In FM broadcasting, what carrier property varies?",
+    "choices": [
+      "Amplitude",
+      "Frequency",
+      "Phase sequence",
+      "Antenna height"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is a radio receiver's tuner intended to select?",
+    "choices": [
+      "A cable diameter",
+      "A particular frequency band",
+      "A battery chemistry",
+      "A speaker impedance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does a demodulator recover?",
+    "choices": [
+      "Antenna dimensions",
+      "The original information signal",
+      "A tower foundation",
+      "A cable route"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does a transmitter's power amplifier increase?",
+    "choices": [
+      "Signal power",
+      "Message grammar",
+      "Fiber core diameter",
+      "Packet address length"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is a radio carrier?",
+    "choices": [
+      "A cable shield",
+      "A high-frequency wave that conveys information",
+      "A telephone switch",
+      "A satellite battery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does a decibel commonly express in communications?",
+    "choices": [
+      "A cable length",
+      "A logarithmic ratio of powers or amplitudes",
+      "A symbol alphabet",
+      "A time slot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is line-of-sight microwave communication especially sensitive to?",
+    "choices": [
+      "Keyboard layout",
+      "Obstructions and Earth curvature",
+      "Ink quality",
+      "Dial tone level"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What was Telstar primarily known for?",
+    "choices": [
+      "Early active communications satellite service",
+      "First cellular handset",
+      "First fiber amplifier",
+      "First Morse key"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a geostationary satellite's orbital period?",
+    "choices": [
+      "About 90 minutes",
+      "About 24 hours",
+      "About 7 days",
+      "About 1 year"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What ground equipment points a satellite link toward orbit?",
+    "choices": [
+      "A modem rack",
+      "A directional dish antenna",
+      "A telephone handset",
+      "A coaxial terminator"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is satellite transponder bandwidth used for?",
+    "choices": [
+      "Supporting a specified range of received and retransmitted frequencies",
+      "Cooling solar panels",
+      "Measuring orbital altitude",
+      "Encrypting every handset"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What does a cellular base station provide?",
+    "choices": [
+      "Radio access for nearby mobile devices",
+      "Undersea cable repair",
+      "Only satellite navigation",
+      "Household electrical power"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a cell in a cellular network?",
+    "choices": [
+      "A battery inside a handset",
+      "A geographic radio coverage area",
+      "A fiber connector",
+      "A routing protocol"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is frequency reuse intended to improve?",
+    "choices": [
+      "Handset weight",
+      "Capacity across separated cells",
+      "Antenna corrosion",
+      "Telephone directory size"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What process transfers an active call between cells?",
+    "choices": [
+      "Framing",
+      "Handover",
+      "Scrambling",
+      "Attenuation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What does an optical fiber guide?",
+    "choices": [
+      "Light pulses",
+      "Magnetic pulses",
+      "Acoustic pressure",
+      "Radio towers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which fiber part confines most light?",
+    "choices": [
+      "The jacket",
+      "The core and cladding interface",
+      "The splice tray",
+      "The connector boot"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What causes modal dispersion in multimode fiber?",
+    "choices": [
+      "Different paths arriving at different times",
+      "Battery voltage drift",
+      "Packet headers",
+      "Satellite eclipses"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is an optical fiber splice?",
+    "choices": [
+      "A radio-frequency filter",
+      "A permanent joining of fiber ends",
+      "A telephone billing unit",
+      "A satellite orbit change"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does WDM allow in fiber systems?",
+    "choices": [
+      "Multiple wavelengths on one fiber",
+      "Wireless dialing by voice",
+      "Mechanical switching of cores",
+      "Waterproofing of cables"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is an optical transceiver's function?",
+    "choices": [
+      "Converts between optical and electrical signals",
+      "Assigns telephone numbers",
+      "Launches satellites",
+      "Tunes an AM station"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does attenuation do to a transmitted signal?",
+    "choices": [
+      "Raises its bandwidth",
+      "Reduces its power with distance",
+      "Changes its protocol name",
+      "Adds antenna gain"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What device compensates optical loss without converting to electrical form?",
+    "choices": [
+      "A copper relay",
+      "An optical amplifier",
+      "A patch antenna",
+      "A dialer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is packet switching?",
+    "choices": [
+      "Sharing links by forwarding addressed data units",
+      "Reserving one wire for every call",
+      "Varying only carrier amplitude",
+      "Joining two fiber cores"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which protocol assigns logical addresses on the Internet?",
+    "choices": [
+      "Ethernet",
+      "IP",
+      "Morse",
+      "GSM voice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What does DNS translate?",
+    "choices": [
+      "Voltage into current",
+      "Domain names into network addresses",
+      "Light into heat",
+      "Packets into radio waves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a router's main forwarding decision based on?",
+    "choices": [
+      "Speaker volume",
+      "Destination network information",
+      "Cable color",
+      "Satellite inclination"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does Ethernet primarily define?",
+    "choices": [
+      "Wired LAN signaling and framing",
+      "Telephone speech coding",
+      "Satellite propulsion",
+      "Morse punctuation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a MAC address associated with?",
+    "choices": [
+      "A satellite orbit",
+      "A network interface",
+      "A modulation index",
+      "A fiber wavelength"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does TCP provide above IP?",
+    "choices": [
+      "Antenna polarization",
+      "Reliable, ordered byte delivery",
+      "Optical amplification",
+      "Cell selection"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is latency in a network?",
+    "choices": [
+      "The number of antennas",
+      "Delay from transmission to receipt",
+      "The width of a fiber core",
+      "Signal polarization"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is Nyquist's sampling requirement for a band-limited signal?",
+    "choices": [
+      "At least twice its highest frequency",
+      "Exactly its carrier frequency",
+      "Half its symbol rate",
+      "One sample per packet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is quantization in PCM?",
+    "choices": [
+      "Selecting a satellite",
+      "Mapping sample amplitudes to discrete levels",
+      "Rotating an antenna",
+      "Routing an IP packet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does QAM vary jointly?",
+    "choices": [
+      "Only cable length",
+      "Carrier amplitude and phase",
+      "Only antenna height",
+      "Battery current and temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is spread-spectrum signaling designed to do?",
+    "choices": [
+      "Use a wider band than the information minimum",
+      "Eliminate all noise",
+      "Replace every router",
+      "Reduce a fiber to one mode"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does forward error correction add?",
+    "choices": [
+      "Redundant information for detecting or correcting errors",
+      "Extra telephone subscribers",
+      "A second satellite orbit",
+      "Unshielded copper"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a symbol in a digital modulation scheme?",
+    "choices": [
+      "A complete network cable",
+      "A signal state representing one or more bits",
+      "A satellite solar cell",
+      "A telephone exchange building"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is signal-to-noise ratio?",
+    "choices": [
+      "A routing table size",
+      "Signal power relative to noise power",
+      "A fiber splice count",
+      "A cell's geographic area"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a link budget used to calculate?",
+    "choices": [
+      "A Morse alphabet",
+      "Received power from gains and losses",
+      "A handset contact list",
+      "A protocol version"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does antenna gain describe?",
+    "choices": [
+      "Directional concentration relative to a reference radiator",
+      "The number of users in a cell",
+      "The age of a standard",
+      "The speed of a packet switch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is polarization diversity used to mitigate?",
+    "choices": [
+      "Telephone billing errors",
+      "Fading by using differently polarized paths",
+      "Fiber connector dirt",
+      "Morse timing ambiguity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is coherent detection able to exploit?",
+    "choices": [
+      "Only cable color",
+      "A known carrier phase reference",
+      "Satellite fuel pressure",
+      "A router's MAC table"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the purpose of a telegraph relay?",
+    "choices": [
+      "Regenerate and control a weak switching signal",
+      "Store satellite images",
+      "Measure fiber wavelength",
+      "Encrypt speech"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is duplex telegraph operation?",
+    "choices": [
+      "Sending in both directions over a circuit",
+      "Using two Morse alphabets",
+      "Sending only during daylight",
+      "Using two batteries in series"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What did the telephone local loop connect?",
+    "choices": [
+      "A subscriber premises to a central office",
+      "Two satellites together",
+      "A router to a web browser",
+      "An antenna to a telescope"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a telephone exchange do?",
+    "choices": [
+      "Amplify sunlight",
+      "Connect calls between lines",
+      "Decode satellite telemetry",
+      "Generate Morse punctuation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is sidetone in telephony?",
+    "choices": [
+      "A satellite backup channel",
+      "A user's voice heard in their own receiver",
+      "A fiber reflection",
+      "A cellular frequency plan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is echo cancellation designed to remove?",
+    "choices": [
+      "Delayed replicas of speech",
+      "Carrier frequency",
+      "IP addresses",
+      "Antenna gain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a leased line?",
+    "choices": [
+      "A shared unlicensed radio channel",
+      "A dedicated service rented for a fixed connection",
+      "A temporary satellite orbit",
+      "A disposable handset cable"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does TDM divide among users?",
+    "choices": [
+      "Antenna polarization",
+      "Time intervals",
+      "Fiber jackets",
+      "Telephone directories"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does FDM divide among users?",
+    "choices": [
+      "Packet sequence numbers",
+      "Separate frequency bands",
+      "Satellite launch windows",
+      "Modem passwords"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a guard band?",
+    "choices": [
+      "Unused spectrum separating adjacent channels",
+      "A protective cable jacket",
+      "A satellite shield",
+      "A spare IP address"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does channel coding add before transmission?",
+    "choices": [
+      "A second antenna tower",
+      "Structured redundancy for robustness",
+      "A telephone dial tone",
+      "An optical lens"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is intersymbol interference?",
+    "choices": [
+      "Two operators sharing a tower",
+      "Symbols spreading into neighboring symbol intervals",
+      "A satellite eclipse",
+      "A fiber connector mismatch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is an equalizer intended to counteract?",
+    "choices": [
+      "Telephone numbering",
+      "Channel distortion and frequency-selective loss",
+      "Antenna mounting",
+      "Satellite inclination"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a phase-locked loop commonly used to recover?",
+    "choices": [
+      "Carrier frequency and phase",
+      "A fiber jacket",
+      "An IP route",
+      "A Morse key"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a superheterodyne receiver's intermediate frequency for?",
+    "choices": [
+      "Providing a fixed frequency for selective processing",
+      "Powering the antenna",
+      "Naming the subscriber",
+      "Storing packets"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a crystal oscillator provide?",
+    "choices": [
+      "A stable reference frequency",
+      "A high-gain antenna",
+      "An undersea repeater",
+      "A packet checksum"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is receiver sensitivity?",
+    "choices": [
+      "Maximum tower height",
+      "Minimum input signal level for specified performance",
+      "Number of satellite beams",
+      "Width of a telephone cord"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is adjacent-channel interference?",
+    "choices": [
+      "Unwanted energy from a nearby channel",
+      "A delay in a fiber splice",
+      "A duplicate IP address",
+      "A damaged satellite panel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a repeater used for in a radio link?",
+    "choices": [
+      "Regenerating or retransmitting signals to extend coverage",
+      "Assigning domain names",
+      "Compressing fiber glass",
+      "Charging handsets"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does an RF filter select or reject?",
+    "choices": [
+      "Telephone subscribers",
+      "Specified frequency components",
+      "Satellite launch sites",
+      "Packet payload formats"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is an antenna's radiation pattern?",
+    "choices": [
+      "A list of telephone numbers",
+      "A map of relative radiated strength by direction",
+      "A satellite's maintenance log",
+      "A network routing protocol"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is free-space path loss primarily related to?",
+    "choices": [
+      "Distance and wavelength",
+      "Only handset brand",
+      "Only packet size",
+      "Fiber connector type"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is rain fade especially important for?",
+    "choices": [
+      "Low-frequency telegraph circuits",
+      "High-frequency satellite and microwave links",
+      "Short copper jumpers",
+      "Local Ethernet switches"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a satellite ephemeris describe?",
+    "choices": [
+      "A modem's symbol alphabet",
+      "An object's position and velocity over time",
+      "A fiber's refractive index",
+      "A cellular billing plan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a satellite footprint?",
+    "choices": [
+      "Its solar-panel surface",
+      "The ground area served by a beam",
+      "A launch vehicle tire mark",
+      "A dish connector"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a bent-pipe satellite transponder?",
+    "choices": [
+      "It receives, frequency-translates, amplifies, and retransmits",
+      "It stores every message permanently",
+      "It routes packets by domain name",
+      "It converts light directly to speech"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does GNSS trilateration use?",
+    "choices": [
+      "Morse timing",
+      "Signal travel-time differences from satellites",
+      "Fiber polarization",
+      "Cell handover counts"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is GSM's original service category?",
+    "choices": [
+      "Analog television",
+      "Second-generation digital cellular",
+      "Optical transport",
+      "Submarine telegraphy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is LTE primarily classified as?",
+    "choices": [
+      "A nineteenth-century telegraph code",
+      "A fourth-generation cellular broadband system",
+      "A satellite launch standard",
+      "A copper telephone connector"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does 5G network slicing create?",
+    "choices": [
+      "Logical networks with tailored service characteristics",
+      "Physical slices in fiber glass",
+      "Separate Morse alphabets",
+      "Additional satellite orbits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is OFDM's key arrangement?",
+    "choices": [
+      "One very wide unmodulated carrier",
+      "Many orthogonal closely spaced subcarriers",
+      "Only amplitude pulses",
+      "Two telephone wires per bit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is MIMO used to exploit?",
+    "choices": [
+      "Multiple antennas for spatial streams or diversity",
+      "Multiple Morse keys",
+      "Multiple satellite fuels",
+      "Multiple fiber jackets"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is beamforming?",
+    "choices": [
+      "Printing a radio map",
+      "Coordinating antenna phases to steer energy",
+      "Joining packets at a router",
+      "Polishing fiber ends"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a SIM's core role in cellular networks?",
+    "choices": [
+      "Identifying and authenticating a subscriber",
+      "Amplifying a base-station signal",
+      "Filtering satellite rain",
+      "Encoding Morse dots"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is LTE's OFDMA downlink advantage?",
+    "choices": [
+      "It removes the need for spectrum",
+      "It assigns subcarriers flexibly among users",
+      "It uses only analog voice",
+      "It requires one cell globally"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is fiber chromatic dispersion caused by?",
+    "choices": [
+      "Different wavelengths traveling at different velocities",
+      "Different routers using one address",
+      "Different satellite inclinations",
+      "Different Morse operators"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is single-mode fiber's main long-distance benefit?",
+    "choices": [
+      "It needs no transmitter",
+      "It greatly reduces modal dispersion",
+      "It carries only analog signals",
+      "It eliminates attenuation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is OTDR testing used to locate?",
+    "choices": [
+      "Fiber events such as splices, reflections, and breaks",
+      "Cellular subscribers",
+      "Morse errors",
+      "Satellite launch delays"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does SONET/SDH provide?",
+    "choices": [
+      "An analog radio modulation",
+      "Synchronous optical transport framing and multiplexing",
+      "A satellite navigation fix",
+      "A telephone handset battery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is MPLS label switching based on?",
+    "choices": [
+      "Antenna elevation",
+      "Short labels associated with forwarding paths",
+      "Fiber color codes",
+      "Voice pitch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does BGP exchange?",
+    "choices": [
+      "Audio samples",
+      "Interdomain reachability and path information",
+      "Satellite weather data",
+      "Morse timing pulses"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is an autonomous system in Internet routing?",
+    "choices": [
+      "A network under one routing administration",
+      "A self-powered satellite",
+      "An automatic telephone key",
+      "A fiber mode"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does IPv6 expand compared with IPv4?",
+    "choices": [
+      "The Morse alphabet",
+      "The address space to 128-bit addresses",
+      "The AM broadcast band",
+      "The fiber core count"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is network time synchronization commonly based on?",
+    "choices": [
+      "Antenna gain",
+      "NTP or precision timing protocols",
+      "Telephone cord length",
+      "Satellite paint"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is jitter?",
+    "choices": [
+      "A stable carrier",
+      "Variation in packet delay or timing",
+      "A type of fiber cladding",
+      "A satellite footprint"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What component supports the slide on a compound microscope? during routine teaching",
+    "choices": [
+      "stage",
+      "condenser",
+      "eyepiece",
+      "diaphragm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which knob produces coarse focusing? during routine teaching",
+    "choices": [
+      "fine-adjustment knob",
+      "coarse-adjustment knob",
+      "field diaphragm",
+      "revolving nosepiece"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is the usual function of the objective lens? during routine teaching",
+    "choices": [
+      "holding the specimen",
+      "regulating lamp voltage",
+      "forming the primary magnified image",
+      "supporting the ocular"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which lens is closest to the specimen? during routine teaching",
+    "choices": [
+      "ocular",
+      "condenser",
+      "collector",
+      "objective"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does numerical aperture primarily describe? during routine teaching",
+    "choices": [
+      "light-gathering and angular acceptance",
+      "specimen thickness",
+      "camera pixel count",
+      "stage travel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Why is immersion oil used with a high-power objective? during routine teaching",
+    "choices": [
+      "to cool the lamp",
+      "to reduce refraction at the coverslip interface",
+      "to stain the specimen",
+      "to increase working distance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is total magnification in a light microscope? during routine teaching",
+    "choices": [
+      "objective magnification divided by ocular magnification",
+      "field diameter multiplied by NA",
+      "ocular magnification multiplied by objective magnification",
+      "NA divided by wavelength"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does the iris diaphragm regulate? during routine teaching",
+    "choices": [
+      "objective parfocality",
+      "stage height",
+      "camera exposure only",
+      "illumination cone and contrast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a coverslip used for? during routine teaching",
+    "choices": [
+      "protecting and flattening the specimen",
+      "increasing stain concentration",
+      "removing paraffin",
+      "replacing the objective"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which preparation preserves cells in a thin, stable section? during routine teaching",
+    "choices": [
+      "boiling followed by dilution",
+      "fixation followed by embedding and sectioning",
+      "centrifugation alone",
+      "freezing without support"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does bright-field microscopy usually detect? during routine teaching",
+    "choices": [
+      "electron scattering only",
+      "magnetic domains only",
+      "absorption or amplitude differences",
+      "ultraviolet emission only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is phase contrast especially useful for? during routine teaching",
+    "choices": [
+      "opaque metal blocks",
+      "isolated DNA strands",
+      "vacuum-compatible powders",
+      "unstained transparent cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does differential interference contrast enhance? during routine teaching",
+    "choices": [
+      "optical path gradients with relief-like contrast",
+      "fluorescence lifetime",
+      "electron backscatter",
+      "X-ray absorption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is confocal microscopy designed to reject? during routine teaching",
+    "choices": [
+      "all reflected light",
+      "out-of-focus fluorescence",
+      "specimen fixation",
+      "objective chromatic correction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is a fluorophore? during routine teaching",
+    "choices": [
+      "a lens coating",
+      "a fixation reagent",
+      "a molecule that emits light after excitation",
+      "a vacuum seal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does a dichroic mirror do in fluorescence microscopy? during routine teaching",
+    "choices": [
+      "increases electron energy",
+      "measures specimen thickness",
+      "rotates the stage",
+      "separates excitation and emission by wavelength"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is photobleaching? during routine teaching",
+    "choices": [
+      "irreversible loss of fluorophore signal during illumination",
+      "increase in numerical aperture",
+      "mechanical drift of the stage",
+      "conversion of bright field to dark field"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Why are electron microscopes operated under vacuum? during routine teaching",
+    "choices": [
+      "to keep glass slides sterile",
+      "to let electrons travel without gas scattering",
+      "to prevent fluorescence emission",
+      "to increase visible-light wavelength"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does TEM primarily reveal? during routine teaching",
+    "choices": [
+      "surface topography of bulk samples",
+      "solution pH",
+      "internal ultrastructure in thin sections",
+      "whole-organism behavior"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does SEM primarily reveal? during routine teaching",
+    "choices": [
+      "internal enzyme kinetics",
+      "fluorescence spectra",
+      "optical birefringence",
+      "surface morphology with scanned electrons"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a biological sample commonly fixed with? during routine teaching",
+    "choices": [
+      "cross-linking or precipitating fixative",
+      "immersion oil",
+      "fluorescent mounting dye only",
+      "conductive carbon tape"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What artifact appears when a specimen moves during exposure? during routine teaching",
+    "choices": [
+      "chromatic aberration",
+      "motion blur",
+      "spherical aberration",
+      "vignetting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is chromatic aberration? during routine teaching",
+    "choices": [
+      "the stage drifting laterally",
+      "uneven lamp intensity",
+      "different wavelengths focus at different planes",
+      "a detector saturating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What limits resolution in conventional light microscopy? during routine teaching",
+    "choices": [
+      "coverglass color alone",
+      "stage size",
+      "lamp brand",
+      "wavelength and numerical aperture"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is super-resolution microscopy intended to overcome? during routine teaching",
+    "choices": [
+      "the diffraction-limited resolution barrier",
+      "the need for any labeling",
+      "vacuum requirements",
+      "all sample preparation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What component supports the slide on a compound microscope? when choosing a viewing setup",
+    "choices": [
+      "condenser",
+      "stage",
+      "eyepiece",
+      "diaphragm"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which knob produces coarse focusing? when choosing a viewing setup",
+    "choices": [
+      "fine-adjustment knob",
+      "field diaphragm",
+      "coarse-adjustment knob",
+      "revolving nosepiece"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the usual function of the objective lens? when choosing a viewing setup",
+    "choices": [
+      "holding the specimen",
+      "regulating lamp voltage",
+      "supporting the ocular",
+      "forming the primary magnified image"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which lens is closest to the specimen? when choosing a viewing setup",
+    "choices": [
+      "objective",
+      "ocular",
+      "condenser",
+      "collector"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does numerical aperture primarily describe? when choosing a viewing setup",
+    "choices": [
+      "specimen thickness",
+      "light-gathering and angular acceptance",
+      "camera pixel count",
+      "stage travel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why is immersion oil used with a high-power objective? when choosing a viewing setup",
+    "choices": [
+      "to cool the lamp",
+      "to stain the specimen",
+      "to reduce refraction at the coverslip interface",
+      "to increase working distance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is total magnification in a light microscope? when choosing a viewing setup",
+    "choices": [
+      "objective magnification divided by ocular magnification",
+      "field diameter multiplied by NA",
+      "NA divided by wavelength",
+      "ocular magnification multiplied by objective magnification"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does the iris diaphragm regulate? when choosing a viewing setup",
+    "choices": [
+      "illumination cone and contrast",
+      "objective parfocality",
+      "stage height",
+      "camera exposure only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a coverslip used for? when choosing a viewing setup",
+    "choices": [
+      "increasing stain concentration",
+      "protecting and flattening the specimen",
+      "removing paraffin",
+      "replacing the objective"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which preparation preserves cells in a thin, stable section? when choosing a viewing setup",
+    "choices": [
+      "boiling followed by dilution",
+      "centrifugation alone",
+      "fixation followed by embedding and sectioning",
+      "freezing without support"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What does bright-field microscopy usually detect? when choosing a viewing setup",
+    "choices": [
+      "electron scattering only",
+      "magnetic domains only",
+      "ultraviolet emission only",
+      "absorption or amplitude differences"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is phase contrast especially useful for? when choosing a viewing setup",
+    "choices": [
+      "unstained transparent cells",
+      "opaque metal blocks",
+      "isolated DNA strands",
+      "vacuum-compatible powders"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does differential interference contrast enhance? when choosing a viewing setup",
+    "choices": [
+      "fluorescence lifetime",
+      "optical path gradients with relief-like contrast",
+      "electron backscatter",
+      "X-ray absorption"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is confocal microscopy designed to reject? when choosing a viewing setup",
+    "choices": [
+      "all reflected light",
+      "specimen fixation",
+      "out-of-focus fluorescence",
+      "objective chromatic correction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a fluorophore? when choosing a viewing setup",
+    "choices": [
+      "a lens coating",
+      "a fixation reagent",
+      "a vacuum seal",
+      "a molecule that emits light after excitation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does a dichroic mirror do in fluorescence microscopy? when choosing a viewing setup",
+    "choices": [
+      "separates excitation and emission by wavelength",
+      "increases electron energy",
+      "measures specimen thickness",
+      "rotates the stage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is photobleaching? when choosing a viewing setup",
+    "choices": [
+      "increase in numerical aperture",
+      "irreversible loss of fluorophore signal during illumination",
+      "mechanical drift of the stage",
+      "conversion of bright field to dark field"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Why are electron microscopes operated under vacuum? when choosing a viewing setup",
+    "choices": [
+      "to keep glass slides sterile",
+      "to prevent fluorescence emission",
+      "to let electrons travel without gas scattering",
+      "to increase visible-light wavelength"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What does TEM primarily reveal? when choosing a viewing setup",
+    "choices": [
+      "surface topography of bulk samples",
+      "solution pH",
+      "whole-organism behavior",
+      "internal ultrastructure in thin sections"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does SEM primarily reveal? when choosing a viewing setup",
+    "choices": [
+      "surface morphology with scanned electrons",
+      "internal enzyme kinetics",
+      "fluorescence spectra",
+      "optical birefringence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a biological sample commonly fixed with? when choosing a viewing setup",
+    "choices": [
+      "immersion oil",
+      "cross-linking or precipitating fixative",
+      "fluorescent mounting dye only",
+      "conductive carbon tape"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What artifact appears when a specimen moves during exposure? when choosing a viewing setup",
+    "choices": [
+      "chromatic aberration",
+      "spherical aberration",
+      "motion blur",
+      "vignetting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is chromatic aberration? when choosing a viewing setup",
+    "choices": [
+      "the stage drifting laterally",
+      "uneven lamp intensity",
+      "a detector saturating",
+      "different wavelengths focus at different planes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What limits resolution in conventional light microscopy? when choosing a viewing setup",
+    "choices": [
+      "wavelength and numerical aperture",
+      "coverglass color alone",
+      "stage size",
+      "lamp brand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is super-resolution microscopy intended to overcome? when choosing a viewing setup",
+    "choices": [
+      "the need for any labeling",
+      "the diffraction-limited resolution barrier",
+      "vacuum requirements",
+      "all sample preparation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What component supports the slide on a compound microscope? for a prepared biological slide",
+    "choices": [
+      "condenser",
+      "eyepiece",
+      "stage",
+      "diaphragm"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which knob produces coarse focusing? for a prepared biological slide",
+    "choices": [
+      "fine-adjustment knob",
+      "field diaphragm",
+      "revolving nosepiece",
+      "coarse-adjustment knob"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the usual function of the objective lens? for a prepared biological slide",
+    "choices": [
+      "forming the primary magnified image",
+      "holding the specimen",
+      "regulating lamp voltage",
+      "supporting the ocular"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which lens is closest to the specimen? for a prepared biological slide",
+    "choices": [
+      "ocular",
+      "objective",
+      "condenser",
+      "collector"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does numerical aperture primarily describe? for a prepared biological slide",
+    "choices": [
+      "specimen thickness",
+      "camera pixel count",
+      "light-gathering and angular acceptance",
+      "stage travel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why is immersion oil used with a high-power objective? for a prepared biological slide",
+    "choices": [
+      "to cool the lamp",
+      "to stain the specimen",
+      "to increase working distance",
+      "to reduce refraction at the coverslip interface"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is total magnification in a light microscope? for a prepared biological slide",
+    "choices": [
+      "ocular magnification multiplied by objective magnification",
+      "objective magnification divided by ocular magnification",
+      "field diameter multiplied by NA",
+      "NA divided by wavelength"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does the iris diaphragm regulate? for a prepared biological slide",
+    "choices": [
+      "objective parfocality",
+      "illumination cone and contrast",
+      "stage height",
+      "camera exposure only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a coverslip used for? for a prepared biological slide",
+    "choices": [
+      "increasing stain concentration",
+      "removing paraffin",
+      "protecting and flattening the specimen",
+      "replacing the objective"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which preparation preserves cells in a thin, stable section? for a prepared biological slide",
+    "choices": [
+      "boiling followed by dilution",
+      "centrifugation alone",
+      "freezing without support",
+      "fixation followed by embedding and sectioning"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does bright-field microscopy usually detect? for a prepared biological slide",
+    "choices": [
+      "absorption or amplitude differences",
+      "electron scattering only",
+      "magnetic domains only",
+      "ultraviolet emission only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is phase contrast especially useful for? for a prepared biological slide",
+    "choices": [
+      "opaque metal blocks",
+      "unstained transparent cells",
+      "isolated DNA strands",
+      "vacuum-compatible powders"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does differential interference contrast enhance? for a prepared biological slide",
+    "choices": [
+      "fluorescence lifetime",
+      "electron backscatter",
+      "optical path gradients with relief-like contrast",
+      "X-ray absorption"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is confocal microscopy designed to reject? for a prepared biological slide",
+    "choices": [
+      "all reflected light",
+      "specimen fixation",
+      "objective chromatic correction",
+      "out-of-focus fluorescence"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a fluorophore? for a prepared biological slide",
+    "choices": [
+      "a molecule that emits light after excitation",
+      "a lens coating",
+      "a fixation reagent",
+      "a vacuum seal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does a dichroic mirror do in fluorescence microscopy? for a prepared biological slide",
+    "choices": [
+      "increases electron energy",
+      "separates excitation and emission by wavelength",
+      "measures specimen thickness",
+      "rotates the stage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is photobleaching? for a prepared biological slide",
+    "choices": [
+      "increase in numerical aperture",
+      "mechanical drift of the stage",
+      "irreversible loss of fluorophore signal during illumination",
+      "conversion of bright field to dark field"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why are electron microscopes operated under vacuum? for a prepared biological slide",
+    "choices": [
+      "to keep glass slides sterile",
+      "to prevent fluorescence emission",
+      "to increase visible-light wavelength",
+      "to let electrons travel without gas scattering"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does TEM primarily reveal? for a prepared biological slide",
+    "choices": [
+      "internal ultrastructure in thin sections",
+      "surface topography of bulk samples",
+      "solution pH",
+      "whole-organism behavior"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does SEM primarily reveal? for a prepared biological slide",
+    "choices": [
+      "internal enzyme kinetics",
+      "surface morphology with scanned electrons",
+      "fluorescence spectra",
+      "optical birefringence"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a biological sample commonly fixed with? for a prepared biological slide",
+    "choices": [
+      "immersion oil",
+      "fluorescent mounting dye only",
+      "cross-linking or precipitating fixative",
+      "conductive carbon tape"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What artifact appears when a specimen moves during exposure? for a prepared biological slide",
+    "choices": [
+      "chromatic aberration",
+      "spherical aberration",
+      "vignetting",
+      "motion blur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is chromatic aberration? for a prepared biological slide",
+    "choices": [
+      "different wavelengths focus at different planes",
+      "the stage drifting laterally",
+      "uneven lamp intensity",
+      "a detector saturating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What limits resolution in conventional light microscopy? for a prepared biological slide",
+    "choices": [
+      "coverglass color alone",
+      "wavelength and numerical aperture",
+      "stage size",
+      "lamp brand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is super-resolution microscopy intended to overcome? for a prepared biological slide",
+    "choices": [
+      "the need for any labeling",
+      "vacuum requirements",
+      "the diffraction-limited resolution barrier",
+      "all sample preparation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What component supports the slide on a compound microscope? in a methods comparison",
+    "choices": [
+      "condenser",
+      "eyepiece",
+      "diaphragm",
+      "stage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which knob produces coarse focusing? in a methods comparison",
+    "choices": [
+      "coarse-adjustment knob",
+      "fine-adjustment knob",
+      "field diaphragm",
+      "revolving nosepiece"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the usual function of the objective lens? in a methods comparison",
+    "choices": [
+      "holding the specimen",
+      "forming the primary magnified image",
+      "regulating lamp voltage",
+      "supporting the ocular"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which lens is closest to the specimen? in a methods comparison",
+    "choices": [
+      "ocular",
+      "condenser",
+      "objective",
+      "collector"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does numerical aperture primarily describe? in a methods comparison",
+    "choices": [
+      "specimen thickness",
+      "camera pixel count",
+      "stage travel",
+      "light-gathering and angular acceptance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why is immersion oil used with a high-power objective? in a methods comparison",
+    "choices": [
+      "to reduce refraction at the coverslip interface",
+      "to cool the lamp",
+      "to stain the specimen",
+      "to increase working distance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is total magnification in a light microscope? in a methods comparison",
+    "choices": [
+      "objective magnification divided by ocular magnification",
+      "ocular magnification multiplied by objective magnification",
+      "field diameter multiplied by NA",
+      "NA divided by wavelength"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does the iris diaphragm regulate? in a methods comparison",
+    "choices": [
+      "objective parfocality",
+      "stage height",
+      "illumination cone and contrast",
+      "camera exposure only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a coverslip used for? in a methods comparison",
+    "choices": [
+      "increasing stain concentration",
+      "removing paraffin",
+      "replacing the objective",
+      "protecting and flattening the specimen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which preparation preserves cells in a thin, stable section? in a methods comparison",
+    "choices": [
+      "fixation followed by embedding and sectioning",
+      "boiling followed by dilution",
+      "centrifugation alone",
+      "freezing without support"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does bright-field microscopy usually detect? in a methods comparison",
+    "choices": [
+      "electron scattering only",
+      "absorption or amplitude differences",
+      "magnetic domains only",
+      "ultraviolet emission only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is phase contrast especially useful for? in a methods comparison",
+    "choices": [
+      "opaque metal blocks",
+      "isolated DNA strands",
+      "unstained transparent cells",
+      "vacuum-compatible powders"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does differential interference contrast enhance? in a methods comparison",
+    "choices": [
+      "fluorescence lifetime",
+      "electron backscatter",
+      "X-ray absorption",
+      "optical path gradients with relief-like contrast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is confocal microscopy designed to reject? in a methods comparison",
+    "choices": [
+      "out-of-focus fluorescence",
+      "all reflected light",
+      "specimen fixation",
+      "objective chromatic correction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a fluorophore? in a methods comparison",
+    "choices": [
+      "a lens coating",
+      "a molecule that emits light after excitation",
+      "a fixation reagent",
+      "a vacuum seal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a dichroic mirror do in fluorescence microscopy? in a methods comparison",
+    "choices": [
+      "increases electron energy",
+      "measures specimen thickness",
+      "separates excitation and emission by wavelength",
+      "rotates the stage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is photobleaching? in a methods comparison",
+    "choices": [
+      "increase in numerical aperture",
+      "mechanical drift of the stage",
+      "conversion of bright field to dark field",
+      "irreversible loss of fluorophore signal during illumination"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why are electron microscopes operated under vacuum? in a methods comparison",
+    "choices": [
+      "to let electrons travel without gas scattering",
+      "to keep glass slides sterile",
+      "to prevent fluorescence emission",
+      "to increase visible-light wavelength"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does TEM primarily reveal? in a methods comparison",
+    "choices": [
+      "surface topography of bulk samples",
+      "internal ultrastructure in thin sections",
+      "solution pH",
+      "whole-organism behavior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does SEM primarily reveal? in a methods comparison",
+    "choices": [
+      "internal enzyme kinetics",
+      "fluorescence spectra",
+      "surface morphology with scanned electrons",
+      "optical birefringence"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a biological sample commonly fixed with? in a methods comparison",
+    "choices": [
+      "immersion oil",
+      "fluorescent mounting dye only",
+      "conductive carbon tape",
+      "cross-linking or precipitating fixative"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What artifact appears when a specimen moves during exposure? in a methods comparison",
+    "choices": [
+      "motion blur",
+      "chromatic aberration",
+      "spherical aberration",
+      "vignetting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is chromatic aberration? in a methods comparison",
+    "choices": [
+      "the stage drifting laterally",
+      "different wavelengths focus at different planes",
+      "uneven lamp intensity",
+      "a detector saturating"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What limits resolution in conventional light microscopy? in a methods comparison",
+    "choices": [
+      "coverglass color alone",
+      "stage size",
+      "wavelength and numerical aperture",
+      "lamp brand"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is super-resolution microscopy intended to overcome? in a methods comparison",
+    "choices": [
+      "the need for any labeling",
+      "vacuum requirements",
+      "all sample preparation",
+      "the diffraction-limited resolution barrier"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

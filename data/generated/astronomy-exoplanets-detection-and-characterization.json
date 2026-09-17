@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is an exoplanet?",
+    "choices": [
+      "A planet orbiting a star beyond the Sun",
+      "A moon orbiting a planet",
+      "A star without a companion",
+      "A comet entering a planetary system"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a transit method detect when an exoplanet crosses its star?",
+    "choices": [
+      "A permanent increase in the star's mass",
+      "A temporary dip in the star's brightness",
+      "A burst of radio waves from the planet",
+      "A change in the star's color caused by fusion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What stellar motion is measured by the radial-velocity method?",
+    "choices": [
+      "Motion only across the sky",
+      "Rotation around the star's poles",
+      "Motion toward and away from the observer",
+      "Motion of the planet's atmosphere"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why does a transiting planet make its star appear slightly fainter?",
+    "choices": [
+      "The planet turns off part of the star's fusion",
+      "The planet absorbs all of the star's heat",
+      "The planet pulls the star farther from Earth",
+      "The planet blocks part of the star's light"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which object is normally the light source monitored during an exoplanet transit survey?",
+    "choices": [
+      "The host star",
+      "The planet's moon",
+      "A distant galaxy",
+      "An asteroid belt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What makes repeated, evenly spaced transits especially useful?",
+    "choices": [
+      "They prove the planet has an atmosphere",
+      "They reveal a likely orbital period",
+      "They measure the planet's magnetic field directly",
+      "They show that the star is not rotating"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In a transit light curve, what does the depth of the dip mainly indicate?",
+    "choices": [
+      "The planet's surface temperature",
+      "The star's distance from the galaxy center",
+      "The planet-to-star radius ratio",
+      "The planet's atmospheric pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What causes the Doppler shift used in radial-velocity measurements?",
+    "choices": [
+      "A planet changes the chemical elements in its star",
+      "Dust removes only blue photons",
+      "A telescope magnifies the star's spectrum",
+      "Relative motion changes the observed wavelengths of stellar lines"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which NASA mission famously used a large field of view to search for transiting exoplanets?",
+    "choices": [
+      "Kepler",
+      "Cassini",
+      "Juno",
+      "New Horizons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is TESS primarily designed to find?",
+    "choices": [
+      "Comets entering the Oort Cloud",
+      "Transiting planets around relatively bright nearby stars",
+      "Gravitational waves from merging black holes",
+      "Volcanoes on Jupiter's moons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the habitable zone around a star?",
+    "choices": [
+      "The region containing every planet with life",
+      "The area where stars cannot produce flares",
+      "The orbital region where surface liquid water could be possible",
+      "The ring where all planets have Earth-like gravity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a hot Jupiter?",
+    "choices": [
+      "A rocky planet with active volcanoes",
+      "A Jupiter-sized moon heated by tides",
+      "A planet that orbits only red giant stars",
+      "A large gas giant in a very close, short-period orbit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Why are close-in giant planets often easier to detect with radial velocity?",
+    "choices": [
+      "Their short orbits and large masses produce a larger, faster stellar wobble",
+      "They emit more visible light than their stars",
+      "They always pass directly between Earth and the star",
+      "Their atmospheres amplify the star's spectral lines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does direct imaging attempt to record?",
+    "choices": [
+      "Only the star's radial velocity",
+      "Light from the planet separated from its host star's glare",
+      "A planet's interior seismic waves",
+      "The shadow of a planet on a distant galaxy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What physical effect makes gravitational microlensing sensitive to planets?",
+    "choices": [
+      "A planet reflects a laser beam toward Earth",
+      "A star's atmosphere refracts the planet's radio signal",
+      "A foreground system bends and magnifies light from a background star",
+      "A planet periodically blocks a background galaxy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does astrometry measure in an exoplanet search?",
+    "choices": [
+      "The brightness of a planet's aurora",
+      "The depth of a planet's ocean",
+      "The temperature of a starspot",
+      "A star's tiny position wobble on the sky"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "If an exoplanet has a longer orbital period, what generally happens to the spacing between its transits?",
+    "choices": [
+      "The transits are farther apart",
+      "The transits become permanently deeper",
+      "The star stops showing spectral lines",
+      "The planet loses its orbital inclination"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the semi-major axis of an orbit?",
+    "choices": [
+      "The altitude of the planet's atmosphere",
+      "Half the length of the orbit's longest diameter",
+      "The radius of the host star",
+      "The angle between the orbit and the sky"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which orbital orientation gives the highest chance of seeing a transit?",
+    "choices": [
+      "An orbit viewed face-on",
+      "An orbit perpendicular to the planet's motion",
+      "An orbit nearly edge-on to the observer",
+      "An orbit with zero stellar mass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why can an eclipsing binary mimic a planetary transit?",
+    "choices": [
+      "Its planets always have the same radius as stars",
+      "Binary stars cannot be resolved by any telescope",
+      "The binary's radio emission blocks visible light",
+      "A faint binary companion can produce a periodic brightness dip"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What observation helps confirm that a transit signal is caused by a planet rather than an instrumental artifact?",
+    "choices": [
+      "Independent observations showing the same periodic signal",
+      "A single unusually deep data point",
+      "A spectrum with no stellar lines",
+      "A larger telescope mirror pointed elsewhere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What can transmission spectroscopy reveal about an exoplanet?",
+    "choices": [
+      "The exact number of rocks on its surface",
+      "Wavelength-dependent absorption by gases in its atmosphere",
+      "Its core's crystal structure directly",
+      "Its host star's age without any model"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Why is infrared observing valuable for many exoplanet atmospheres?",
+    "choices": [
+      "Infrared telescopes do not need to block starlight",
+      "Infrared light travels faster than visible light",
+      "Many molecules have strong vibrational features in infrared wavelengths",
+      "Planets emit no infrared radiation of their own"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does an exoplanet's secondary eclipse measure?",
+    "choices": [
+      "The first time the planet crosses in front of its star",
+      "The planet's orbital tilt from astrometry alone",
+      "The star's birth in a molecular cloud",
+      "The system's light when the planet passes behind its star"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is a super-Earth?",
+    "choices": [
+      "A planet more massive than Earth but less massive than the ice giants",
+      "A planet with a surface proven to be superhabitable",
+      "A moon larger than Jupiter",
+      "Any planet orbiting a star larger than the Sun"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a sub-Neptune, in common exoplanet usage?",
+    "choices": [
+      "A planet orbiting below Neptune's orbit in our solar system",
+      "A planet smaller than Neptune, often with a substantial volatile envelope",
+      "A moon inside Neptune's atmosphere",
+      "A star whose temperature is below Neptune's"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a planet's orbital eccentricity?",
+    "choices": [
+      "Its atmospheric concentration of carbon",
+      "Its distance from the center of its galaxy",
+      "A number describing how much its orbit departs from a circle",
+      "The fraction of its surface covered by ocean"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a planet's albedo?",
+    "choices": [
+      "The speed at which it rotates",
+      "The mass of its atmosphere",
+      "The length of its year",
+      "The fraction of incoming light it reflects"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What does equilibrium temperature estimate?",
+    "choices": [
+      "A planet's idealized temperature from absorbed and emitted radiation",
+      "The temperature measured at the planet's core",
+      "The exact daily surface weather",
+      "The temperature at which its star begins fusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Why might a planet orbiting a red dwarf be tidally locked?",
+    "choices": [
+      "Red dwarfs emit no gravity",
+      "Tidal forces can synchronize its rotation with its short orbital period",
+      "Its atmosphere forces it to stop rotating",
+      "The planet is always captured by a passing comet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is tidal locking?",
+    "choices": [
+      "A process that removes a planet from its star",
+      "A method for locking a telescope onto a target",
+      "A state in which one rotation takes the same time as one orbit",
+      "A resonance between two unrelated galaxies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is an exomoon?",
+    "choices": [
+      "A small star orbiting a planet",
+      "A moon located beyond our solar system but not orbiting anything",
+      "An artificial satellite around Earth's Moon",
+      "A natural satellite orbiting an exoplanet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a rogue planet?",
+    "choices": [
+      "A planet not gravitationally bound to a star",
+      "A planet with an unusually large moon",
+      "A planet whose orbit is exactly circular",
+      "A planet that has been directly visited by a probe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which star hosted the first exoplanet found orbiting a Sun-like star?",
+    "choices": [
+      "Sirius",
+      "51 Pegasi",
+      "Betelgeuse",
+      "Vega"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is notable about Proxima Centauri b?",
+    "choices": [
+      "It is the largest exoplanet ever measured",
+      "It was discovered by imaging its oceans",
+      "It is a nearby planet orbiting the red dwarf Proxima Centauri",
+      "It orbits the star Polaris"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is distinctive about the TRAPPIST-1 system?",
+    "choices": [
+      "It contains seven stars all orbiting one planet",
+      "It is the only system with a hot Jupiter",
+      "It was discovered by a lunar lander",
+      "It contains seven known Earth-sized planets around a very small star"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Why is Kepler-186f historically interesting?",
+    "choices": [
+      "It was an early Earth-size planet found in a star's habitable zone",
+      "It is the first planet ever detected by any method",
+      "It is a directly imaged gas giant with rings",
+      "It orbits a neutron star at the speed of light"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What was unusual about HD 209458 b's early characterization?",
+    "choices": [
+      "It was the first planet found around a pulsar",
+      "It was among the first transiting planets whose atmosphere was studied",
+      "It has no host star",
+      "It was detected only through a galaxy's rotation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does a transit's duration depend on besides the orbital period?",
+    "choices": [
+      "Only the planet's atmospheric color",
+      "Only the number of moons",
+      "The star's size, the orbit's geometry, and the planet's speed",
+      "The host galaxy's total mass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does a radial-velocity semi-amplitude describe?",
+    "choices": [
+      "The planet's diameter measured during transit",
+      "The amount of reflected light from the planet",
+      "The width of the star's habitable zone",
+      "The size of the star's line-of-sight velocity variation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Why are multiple transits needed to establish an orbital period confidently?",
+    "choices": [
+      "A period requires measuring the interval between repeated events",
+      "One transit always measures the planet's mass exactly",
+      "The first transit cannot be seen in visible light",
+      "A second transit removes the star's atmosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the main role of adaptive optics in direct imaging?",
+    "choices": [
+      "It increases a planet's intrinsic brightness",
+      "It corrects atmospheric blurring to improve angular resolution",
+      "It changes infrared photons into radio waves",
+      "It measures the planet's mass through chemistry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does a coronagraph do in exoplanet imaging?",
+    "choices": [
+      "It enlarges the planet's atmosphere",
+      "It creates a transit in the light curve",
+      "It suppresses light from the host star",
+      "It removes a planet's reflected light"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is transit timing variation (TTV)?",
+    "choices": [
+      "A change in transit color caused by clouds",
+      "A timing error caused only by Earth's rotation",
+      "The interval between a star's flares",
+      "A change in the expected time of a planet's transit caused by gravitational interactions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Why is being in the habitable zone not proof that a planet is habitable?",
+    "choices": [
+      "Atmosphere, climate, and geological conditions also determine surface habitability",
+      "Every habitable-zone planet is hidden by its star",
+      "The habitable zone exists only around binary stars",
+      "Liquid water is impossible outside Earth's orbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the Rossiter–McLaughlin effect used to investigate?",
+    "choices": [
+      "The abundance of water in a planet's core",
+      "The alignment between a planet's orbit and its star's rotation",
+      "The planet's gravitational lensing mass",
+      "The number of stars in the host cluster"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What does stellar metallicity mean in exoplanet studies?",
+    "choices": [
+      "The fraction of a star made only of iron",
+      "The star's surface reflectivity",
+      "The abundance of elements heavier than helium in a star",
+      "The number of planets made of metal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Why can planets around active stars be harder to characterize?",
+    "choices": [
+      "Active stars have no measurable spectra",
+      "Activity removes the planet's gravitational pull",
+      "Active stars cannot host planets",
+      "Starspots and flares can imitate or obscure planetary signals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the primary advantage of combining transit and radial-velocity data?",
+    "choices": [
+      "Together they can yield both planetary radius and mass",
+      "Together they prove a planet has life",
+      "They eliminate the need to observe the host star",
+      "They directly photograph the planet's surface"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Why is the mass of a transiting planet useful with its radius?",
+    "choices": [
+      "It determines the planet's exact cloud map",
+      "The pair gives its bulk density and constrains composition",
+      "It identifies every moon automatically",
+      "It measures the host star's age without uncertainty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is radial-velocity stellar jitter?",
+    "choices": [
+      "A planet's rapid change in atmospheric pressure",
+      "A telescope's deliberate movement between targets",
+      "Apparent velocity variation produced by stellar activity rather than an orbiting planet",
+      "The velocity of a star leaving its galaxy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why can a starspot crossing during a transit matter?",
+    "choices": [
+      "It proves the planet has a magnetic field",
+      "It removes limb darkening from the data",
+      "It directly measures the planet's ocean salinity",
+      "It can reveal stellar surface structure and bias the inferred transit depth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is limb darkening in a stellar transit light curve?",
+    "choices": [
+      "The stellar disk appears dimmer toward its edge than at its center",
+      "The planet darkens its own limb during an eclipse",
+      "A star's outer layers become transparent at night",
+      "The host star's poles stop rotating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the impact parameter of a transit?",
+    "choices": [
+      "The impact speed of a planet striking its star",
+      "The projected distance of the transit chord from the star's center, scaled by stellar radius",
+      "The planet's mass divided by its orbital period",
+      "The angular distance between two host stars"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why does a grazing transit make the planet's radius harder to infer?",
+    "choices": [
+      "It makes the host star emit no photons",
+      "It guarantees that the planet has rings",
+      "The shallow chord and geometry create stronger radius–impact-parameter degeneracies",
+      "It changes the planet's mass into a lower value"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is photometric dilution in transit analysis?",
+    "choices": [
+      "The planet scatters all photons out of the aperture",
+      "Stellar activity increases the true transit depth",
+      "A detector converts every transit into a radial-velocity signal",
+      "Unrelated or companion-star light makes the observed transit shallower"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What key quantity is left ambiguous by a single-lined radial-velocity orbit?",
+    "choices": [
+      "The true planet mass, because the measurement gives M sin(i)",
+      "The star's spectral type, because no lines are present",
+      "The orbital period, because velocities have no time information",
+      "The planet's radius, because velocity measures a shadow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does the argument of periastron specify?",
+    "choices": [
+      "The tilt of a star's magnetic field",
+      "The orientation of an eccentric orbit's closest-approach point",
+      "The radius of the planet's atmosphere",
+      "The direction of a telescope's primary mirror"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does a secondary-eclipse depth most directly constrain for a hot planet?",
+    "choices": [
+      "Its nightside ocean depth",
+      "Its exact bulk mass",
+      "Its dayside emitted and reflected flux relative to the star",
+      "The host star's parallax"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a phase curve in exoplanet photometry?",
+    "choices": [
+      "A plot of stellar mass against metallicity",
+      "A map of detector pixels during a transit",
+      "A curve showing only a planet's formation age",
+      "Brightness variation over an orbit as the visible illuminated fraction and thermal emission change"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why does an atmospheric transmission spectrum often contain only a few scale heights of signal?",
+    "choices": [
+      "The atmosphere changes the planet's effective radius by only a small amount relative to the star",
+      "The atmosphere blocks the star completely at every wavelength",
+      "A spectrum measures only the planet's solid core",
+      "Telescope mirrors remove all spectral structure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Why can high-altitude clouds flatten a transmission spectrum?",
+    "choices": [
+      "They increase the star's radius during transit",
+      "They set an opaque altitude that hides deeper molecular absorption layers",
+      "They turn all atmospheric molecules into oxygen",
+      "They cause the planet to stop transiting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a common degeneracy in interpreting a nearly featureless transmission spectrum?",
+    "choices": [
+      "Only nitrogen and only oxygen always have identical spectra",
+      "A spectrum cannot depend on temperature",
+      "High clouds, hazes, low abundances, and a high mean molecular weight can produce similar spectra",
+      "A flat spectrum uniquely proves an airless planet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Why is atmospheric retrieval not simply a direct lookup of molecular abundances?",
+    "choices": [
+      "Molecules emit no wavelength-dependent features",
+      "Retrievals use only the planet's orbital period",
+      "Every exoplanet has the same pressure profile",
+      "Different atmospheric structures and assumptions can reproduce the same noisy spectrum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a retrieval prior do in Bayesian exoplanet spectroscopy?",
+    "choices": [
+      "It represents assumptions about plausible parameter values before the data are applied",
+      "It removes the need for a likelihood function",
+      "It converts a transit into an image",
+      "It guarantees the most abundant molecule is detected"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the photoevaporation radius valley?",
+    "choices": [
+      "A gap between a star's photosphere and chromosphere",
+      "A deficit of close-in planets between roughly super-Earth and sub-Neptune sizes",
+      "A missing region in direct images caused by a coronagraph",
+      "A lack of planets beyond the snow line"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "How does core-powered mass loss differ from photoevaporation?",
+    "choices": [
+      "It applies only to planets with metallic cores",
+      "It describes mass transfer between two stars",
+      "It uses a planet's own cooling luminosity to help remove its atmosphere rather than primarily stellar high-energy heating",
+      "It requires a planet to be outside every habitable zone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What climate outcome is associated with a runaway greenhouse?",
+    "choices": [
+      "A planet freezes because all water condenses permanently",
+      "A star's core collapses into a planet",
+      "The atmosphere becomes pure molecular hydrogen",
+      "Increasing water vapor drives strong warming that can prevent a stable surface ocean"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why are flares a special concern for planets around many M dwarfs?",
+    "choices": [
+      "Frequent ultraviolet and X-ray outbursts can erode atmospheres and alter photochemistry",
+      "Flares remove the star's gravitational field for hours",
+      "M dwarfs never have habitable zones",
+      "Flares make radial velocity physically impossible"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is finite-source magnification in a microlensing event?",
+    "choices": [
+      "The lens star's radius is set to zero in the model",
+      "The source star's nonzero angular size smooths and limits the ideal point-source magnification",
+      "A planet's atmosphere magnifies its own reflected light",
+      "A detector averages all stars in the galaxy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Why is direct imaging favored for young giant planets?",
+    "choices": [
+      "Their transits are always deeper than those of old planets",
+      "They have no orbital motion around their stars",
+      "They retain strong internal heat and are self-luminous in infrared wavelengths",
+      "Their atmospheres contain no clouds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is angular differential imaging used to suppress?",
+    "choices": [
+      "The planet's orbital eccentricity",
+      "The star's intrinsic infrared emission",
+      "Cosmic expansion in a radial-velocity spectrum",
+      "Quasi-static starlight speckles by exploiting field rotation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does Gaia astrometry add to some exoplanet studies?",
+    "choices": [
+      "Long-baseline position measurements can constrain a planet's orbit and true mass",
+      "It detects only atmospheres during secondary eclipse",
+      "It measures planets exclusively by microlensing",
+      "It eliminates the need for stellar distances"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a transit injection–recovery test used to estimate?",
+    "choices": [
+      "Whether a planet has a liquid ocean",
+      "How efficiently a survey would detect synthetic signals of different properties",
+      "The true abundance of oxygen in a star",
+      "The age of a telescope mirror"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why must occurrence-rate studies model a survey's window function?",
+    "choices": [
+      "It measures the host star's magnetic field",
+      "It prevents all false positives automatically",
+      "Gaps and cadence determine which orbital periods could have been observed repeatedly",
+      "It converts radius into mass without assumptions"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is red noise in a transit light curve?",
+    "choices": [
+      "Random photon noise with zero correlation",
+      "A spectrum containing only red wavelengths",
+      "Noise produced exclusively by red dwarf stars",
+      "Time-correlated systematic or astrophysical variation that can mimic transit structure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the stellar-density test for a transiting planet?",
+    "choices": [
+      "The transit shape yields a density estimate that can be compared with independent stellar information",
+      "It determines the planet's atmospheric density from one spectral line",
+      "It counts the number of stars in the host galaxy",
+      "It measures only the star's metal content"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Why can an unresolved eclipsing binary create a false planet radius?",
+    "choices": [
+      "Binary eclipses cannot be periodic",
+      "Blended light dilutes its eclipse, while the wrong assumed host-star radius distorts the planetary interpretation",
+      "The binary always produces a larger radial-velocity amplitude than a planet",
+      "A companion star has no effect on photometry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What can transit timing variations reveal in a compact multi-planet system?",
+    "choices": [
+      "The star's exact rotation period without stellar activity",
+      "The planets' surface colors directly",
+      "Planet masses and gravitational interactions through deviations from strict periodicity",
+      "Only the host star's distance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a transit duration variation (TDV) in exomoon searches?",
+    "choices": [
+      "A change in a star's lifetime caused by a planet",
+      "A variation in atmospheric spectral resolution",
+      "A radial-velocity shift caused by stellar metallicity",
+      "A change in transit length that can arise from planet–moon orbital motion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why can a planet's bulk density fail to identify its exact composition?",
+    "choices": [
+      "Different mixtures of rock, metal, ice, and gas can share similar mass and radius",
+      "Density is independent of mass and radius",
+      "Only stars have measurable density",
+      "All planets with the same density have identical interiors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the mass function in a single-lined spectroscopic orbit?",
+    "choices": [
+      "A direct map of the planet's surface mass",
+      "A combination of observable orbital parameters that constrains companion masses but retains inclination dependence",
+      "The number of planets in a transit catalog",
+      "A measure of the host star's atmospheric metallicity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is spin–orbit misalignment?",
+    "choices": [
+      "A planet rotating in the same direction as its star",
+      "A mismatch between a telescope's two mirrors",
+      "A difference between the star's spin axis and the planet's orbital angular-momentum direction",
+      "A disagreement between transit and eclipse depths"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why can the tidal disruption or Roche limit matter for ultra-short-period planets?",
+    "choices": [
+      "It marks the distance where transits become impossible",
+      "It is the outer edge of every habitable zone",
+      "It determines only the star's spectral class",
+      "Inside it, stellar tides can overcome a planet's self-gravity and strip or disrupt the body"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Why is the resonant chain in TRAPPIST-1 dynamically informative?",
+    "choices": [
+      "The near-commensurate periods preserve evidence of migration and constrain planetary masses",
+      "It proves every planet has the same atmosphere",
+      "It makes their host star a blue giant",
+      "It prevents transit timing variations"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is Kozai–Lidov cycling in a hierarchical planetary system?",
+    "choices": [
+      "A star alternates between two spectral classes",
+      "A distant inclined companion can exchange orbital inclination and eccentricity with an inner orbit",
+      "A planet's atmosphere cycles between oxygen and nitrogen",
+      "A transit repeats at twice the orbital frequency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What bias results from requiring several observed transits in a survey baseline?",
+    "choices": [
+      "Short-period planets cannot transit",
+      "Large stars become invisible",
+      "Long-period planets are underrepresented because fewer of their transits occur during observations",
+      "Only planets with atmospheres are selected"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the main degeneracy between atmospheric abundance and reference radius in transmission retrievals?",
+    "choices": [
+      "Radius is measured only by radial velocity",
+      "Abundances never affect opacity",
+      "Reference radius is identical to the star's radius",
+      "Changing the assumed reference pressure or radius can trade off with inferred molecular abundance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Why are high-resolution cross-correlation spectra useful for exoplanet atmospheres?",
+    "choices": [
+      "Many Doppler-shifted molecular lines can be combined to detect a faint moving planetary spectrum",
+      "They directly image the planet's continents",
+      "They remove the need for a host-star spectrum",
+      "They measure only the planet's transit depth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is H-minus opacity especially important for in very hot atmospheres?",
+    "choices": [
+      "It is the only source of molecular oxygen",
+      "Bound-free and free-free H− absorption can provide strong continuum opacity in ultra-hot planets",
+      "It causes all cool planets to become reflective",
+      "It measures a planet's orbital inclination"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Why can the carbon-to-oxygen ratio be informative about formation?",
+    "choices": [
+      "It uniquely determines a planet's surface gravity",
+      "It is independent of atmospheric chemistry",
+      "It can preserve clues about which gas and solid reservoirs contributed to a planet's envelope",
+      "It can be measured from transit timing alone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is an energy-limited atmospheric escape estimate?",
+    "choices": [
+      "A model in which a planet's energy is always conserved with no escape",
+      "A method for measuring orbital energy from a starspot",
+      "A calculation of reflected visible light only",
+      "A model balancing absorbed high-energy stellar power against the work needed to lift gas from the planet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why can stellar activity bias a planet's transmission spectrum?",
+    "choices": [
+      "Unocculted spots or faculae alter the star's apparent spectrum and transit baseline",
+      "Activity changes the planet's radius without changing observations",
+      "Flares occur only behind the planet",
+      "Stellar spectra contain no information during transit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why can a habitable-zone estimate differ between researchers?",
+    "choices": [
+      "The orbit's period changes every time a boundary is calculated",
+      "Clouds, atmospheric composition, stellar spectra, and climate-limit assumptions change the boundaries",
+      "The habitable zone is defined only by telescope aperture",
+      "All stars have identical luminosity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does a planet's secondary-eclipse mapping or phase-curve offset indicate?",
+    "choices": [
+      "It gives the planet's exact core radius",
+      "It identifies the star's birth cluster without a spectrum",
+      "It can constrain eastward or westward heat transport and the location of the hottest region",
+      "It proves the presence of a moon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the fundamental limitation of detecting an exoplanet by a single microlensing anomaly?",
+    "choices": [
+      "Microlensing measures only planets with atmospheres",
+      "The anomaly always repeats after one orbital period",
+      "The method cannot detect planets beyond Earth",
+      "Different lens masses and geometries can produce similar light curves without additional constraints"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the key selection effect in radial-velocity surveys favoring short-period planets?",
+    "choices": [
+      "They complete more cycles during a finite observing campaign and produce easier-to-sample signals",
+      "They are always larger than long-period planets",
+      "Long-period planets have no gravitational effect",
+      "Short-period planets have no stellar jitter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What can asteroseismology contribute to exoplanet characterization?",
+    "choices": [
+      "It directly detects radio emission from an exoplanet",
+      "Stellar oscillations can improve the host star's radius, density, and age estimates",
+      "It measures only the planet's atmospheric clouds",
+      "It replaces all transit observations"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why is an apparent oxygen feature not automatically a biosignature?",
+    "choices": [
+      "Oxygen exists only on planets with life",
+      "Spectroscopy cannot detect oxygen",
+      "Abiotic photochemistry and geological processes can also produce oxygen or ozone",
+      "Oxygen is destroyed by every star"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What combination would provide a stronger, though still model-dependent, life-related atmospheric case?",
+    "choices": [
+      "A single broad brightness dip with no repetition",
+      "A planet's location outside every habitable zone",
+      "A high planetary mass alone",
+      "Multiple gases in chemical disequilibrium plus contextual evidence about the planet and star"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which aircraft part produces most lift?",
+    "choices": [
+      "Wing",
+      "Rudder",
+      "Landing gear",
+      "Propeller"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What surface controls roll?",
+    "choices": [
+      "Aileron",
+      "Elevator",
+      "Rudder",
+      "Spoiler"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What surface controls pitch?",
+    "choices": [
+      "Rudder",
+      "Elevator",
+      "Aileron",
+      "Flap"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What surface controls yaw?",
+    "choices": [
+      "Flap",
+      "Spoiler",
+      "Aileron",
+      "Rudder"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What supports an airplane on the ground?",
+    "choices": [
+      "Empennage",
+      "Landing gear",
+      "Winglet",
+      "Cowling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the fuselage?",
+    "choices": [
+      "A tail surface",
+      "A propeller blade",
+      "The main aircraft body",
+      "A wheel assembly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does a flap generally increase?",
+    "choices": [
+      "Yaw authority",
+      "Fuel temperature",
+      "Lift and drag",
+      "Compass error"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is an aircraft nose wheel?",
+    "choices": [
+      "A tail control",
+      "A forward landing wheel",
+      "An engine inlet",
+      "A wing hinge"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which force opposes weight in level flight?",
+    "choices": [
+      "Lift",
+      "Drag",
+      "Thrust",
+      "Torque"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which force opposes forward motion?",
+    "choices": [
+      "Weight",
+      "Lift",
+      "Drag",
+      "Thrust"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What force moves an airplane forward?",
+    "choices": [
+      "Drag",
+      "Weight",
+      "Thrust",
+      "Lift"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What force pulls an airplane downward?",
+    "choices": [
+      "Lift",
+      "Thrust",
+      "Drag",
+      "Weight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which principle links faster airflow with lower pressure?",
+    "choices": [
+      "Bernoulli principle",
+      "Archimedes principle",
+      "Pascal principle",
+      "Coulomb principle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is angle of attack?",
+    "choices": [
+      "Angle to the horizon",
+      "Angle between chord and relative wind",
+      "Angle of bank",
+      "Angle of descent"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What happens at a stall?",
+    "choices": [
+      "Engine stops always",
+      "Wings lose lift from excessive angle",
+      "Rudder locks",
+      "Fuel flow reverses"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is induced drag greatest during?",
+    "choices": [
+      "High-speed cruise",
+      "Airspeed at rest",
+      "Low-speed high-lift flight",
+      "Descents with idle power"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the chord line?",
+    "choices": [
+      "Line from leading to trailing edge",
+      "Line along fuselage",
+      "Vertical tail axis",
+      "Landing gear centerline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What does aspect ratio compare?",
+    "choices": [
+      "Mass and fuel",
+      "Wingspan with mean chord",
+      "Speed and altitude",
+      "Thrust and power"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is static stability?",
+    "choices": [
+      "Ability to accelerate",
+      "Initial tendency after disturbance",
+      "Maximum speed",
+      "Fuel economy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is dynamic stability?",
+    "choices": [
+      "Control-surface size",
+      "Engine response",
+      "Long-term motion after disturbance",
+      "Runway slope"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a pitot tube sense?",
+    "choices": [
+      "Total pressure",
+      "Humidity",
+      "Magnetic heading",
+      "Outside temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What instrument displays altitude?",
+    "choices": [
+      "Airspeed indicator",
+      "Altimeter",
+      "Heading indicator",
+      "Turn coordinator"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What does an airspeed indicator measure?",
+    "choices": [
+      "Ground distance",
+      "Vertical speed",
+      "Speed through air",
+      "Aircraft heading"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a magnetic compass used to determine?",
+    "choices": [
+      "Engine pressure",
+      "Wind speed",
+      "Altitude",
+      "Magnetic direction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is a VOR?",
+    "choices": [
+      "Radio navigation aid",
+      "Weather radar",
+      "Engine controller",
+      "Runway light"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does GPS primarily provide?",
+    "choices": [
+      "Fuel pressure",
+      "Position and navigation data",
+      "Cabin temperature",
+      "Wing loading"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a waypoint?",
+    "choices": [
+      "A tire mark",
+      "A defined navigation position",
+      "A radio frequency",
+      "A cloud layer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is a heading?",
+    "choices": [
+      "Distance traveled",
+      "Angle of climb",
+      "Speed over ground",
+      "Direction aircraft points"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a bearing?",
+    "choices": [
+      "Direction to or from a point",
+      "Aircraft weight",
+      "Runway width",
+      "Cloud height"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a nautical mile based on?",
+    "choices": [
+      "A statute mile",
+      "A minute of latitude",
+      "A kilometer",
+      "A degree of longitude"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does a transponder transmit?",
+    "choices": [
+      "Wing temperature",
+      "Selected identification code",
+      "Fuel quantity",
+      "Propeller pitch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What does ATC stand for?",
+    "choices": [
+      "Aircraft Trim Control",
+      "Aviation Traffic Course",
+      "Air Transport Cabin",
+      "Air Traffic Control"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a runway threshold?",
+    "choices": [
+      "Beginning of usable landing surface",
+      "Taxiway centerline",
+      "Airport fence",
+      "Apron parking spot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a taxiway?",
+    "choices": [
+      "A runway obstacle",
+      "A path connecting runway and apron",
+      "A flight plan",
+      "A control frequency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is an airport apron?",
+    "choices": [
+      "A weather station",
+      "A climb segment",
+      "An aircraft parking area",
+      "A navigation chart"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What does an airport beacon identify?",
+    "choices": [
+      "Aircraft type",
+      "Runway length",
+      "Pilot identity",
+      "Airport location and type"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What color marks a runway edge light?",
+    "choices": [
+      "White",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What color commonly marks taxiway edge lights?",
+    "choices": [
+      "Red",
+      "Blue",
+      "White",
+      "Amber"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What does a windsock show?",
+    "choices": [
+      "Cloud base",
+      "Runway elevation",
+      "Wind direction and strength",
+      "Visibility range"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a NOTAM?",
+    "choices": [
+      "Aircraft manual",
+      "Pilot license",
+      "Fuel receipt",
+      "Notice about operational information"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who made the first powered controlled flight?",
+    "choices": [
+      "Wright brothers",
+      "Lindbergh brothers",
+      "Bleriot brothers",
+      "Grumman brothers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "In what year was the Wright brothers' first flight?",
+    "choices": [
+      "1901",
+      "1903",
+      "1905",
+      "1910"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What aircraft flew solo across the Atlantic in 1927?",
+    "choices": [
+      "Spirit of St. Louis",
+      "Hindenburg",
+      "Comet",
+      "Concorde"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who piloted the Spirit of St. Louis?",
+    "choices": [
+      "Amelia Earhart",
+      "Howard Hughes",
+      "James Doolittle",
+      "Charles Lindbergh"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which aircraft is a widebody airliner?",
+    "choices": [
+      "Boeing 747",
+      "Cessna 172",
+      "Piper Cub",
+      "Spitfire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which aircraft is a supersonic airliner?",
+    "choices": [
+      "DC-3",
+      "Concorde",
+      "A380",
+      "737"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which aircraft is known as the Queen of the Skies?",
+    "choices": [
+      "Boeing 707",
+      "Airbus A320",
+      "Boeing 747",
+      "Douglas DC-3"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which aircraft was a famous World War II fighter?",
+    "choices": [
+      "B-52",
+      "C-130",
+      "F-117",
+      "Spitfire"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which aircraft is a cargo transport?",
+    "choices": [
+      "C-17 Globemaster III",
+      "F-16 Fighting Falcon",
+      "P-51 Mustang",
+      "SR-71 Blackbird"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a jet engine's compressor for?",
+    "choices": [
+      "Cooling tires",
+      "Compressing incoming air",
+      "Steering aircraft",
+      "Storing fuel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Where does combustion occur in a turbojet?",
+    "choices": [
+      "Turbine",
+      "Nozzle",
+      "Combustor",
+      "Intake lip"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does the turbine extract?",
+    "choices": [
+      "Fuel mass",
+      "Cabin air",
+      "Wing lift",
+      "Energy from exhaust gas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What propeller action creates thrust?",
+    "choices": [
+      "Accelerating air rearward",
+      "Heating the cockpit",
+      "Reducing wing area",
+      "Increasing tire pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is propeller pitch?",
+    "choices": [
+      "Blade angle relative to rotation plane",
+      "Engine temperature",
+      "Aircraft bank angle",
+      "Runway gradient"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a turbofan's bypass flow?",
+    "choices": [
+      "Fuel around tanks",
+      "Air around the core",
+      "Oil through bearings",
+      "Exhaust through brakes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does afterburner add?",
+    "choices": [
+      "Wing area",
+      "Cabin pressure",
+      "Landing drag",
+      "Fuel to exhaust for extra thrust"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is Mach number?",
+    "choices": [
+      "Speed relative to local sound speed",
+      "Altitude relative to sea level",
+      "Fuel flow per hour",
+      "Weight divided by area"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What happens to true airspeed at constant indicated speed as altitude rises?",
+    "choices": [
+      "It generally increases",
+      "It always decreases",
+      "It becomes zero",
+      "It remains identical"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is density altitude?",
+    "choices": [
+      "Runway altitude only",
+      "Pressure altitude corrected for nonstandard density",
+      "Cloud-base altitude",
+      "GPS height above terrain"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is wind shear?",
+    "choices": [
+      "A runway crack",
+      "A fuel imbalance",
+      "A wing vibration",
+      "A rapid change in wind speed or direction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What cloud type often signals thunderstorms?",
+    "choices": [
+      "Cumulonimbus",
+      "Cirrus",
+      "Stratus",
+      "Altocumulus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is icing most hazardous to?",
+    "choices": [
+      "Paint finish",
+      "Lift-producing surfaces",
+      "Cabin seats",
+      "Navigation lights"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does an altimeter setting correct?",
+    "choices": [
+      "Compass deviation",
+      "Engine torque",
+      "Pressure reference",
+      "Radio interference"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a temperature inversion?",
+    "choices": [
+      "Cooling with altitude",
+      "Pressure increase at sea level",
+      "Wind reversal near runway",
+      "Temperature increasing with altitude"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a microburst?",
+    "choices": [
+      "Strong localized downdraft",
+      "Small navigation error",
+      "Minor engine surge",
+      "Short runway marking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What weather radar color often indicates strongest returns?",
+    "choices": [
+      "Green",
+      "Red",
+      "Blue",
+      "Gray"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does relative humidity compare?",
+    "choices": [
+      "Wind to pressure",
+      "Actual moisture to saturation capacity",
+      "Clouds to visibility",
+      "Temperature to altitude"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a frontal boundary?",
+    "choices": [
+      "A runway end",
+      "An engine casing",
+      "A wing spar",
+      "Zone separating air masses"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does swept wing mainly delay?",
+    "choices": [
+      "Compressibility effects",
+      "Fuel consumption",
+      "Landing gear extension",
+      "Radio reception"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a winglet intended to reduce?",
+    "choices": [
+      "Parasite drag only",
+      "Wingtip vortex drag",
+      "Engine noise",
+      "Cabin pressure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a vortex generator used to do?",
+    "choices": [
+      "Store hydraulic fluid",
+      "Energize boundary-layer airflow",
+      "Measure outside pressure",
+      "Lock landing gear"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does a spoiler primarily do in flight?",
+    "choices": [
+      "Increase thrust",
+      "Raise nose attitude",
+      "Add fuel",
+      "Reduce lift and add drag"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is adverse yaw?",
+    "choices": [
+      "Yaw opposite a roll command",
+      "Yaw caused by weather only",
+      "Yaw from braking",
+      "Yaw after landing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is Dutch roll?",
+    "choices": [
+      "Engine vibration",
+      "Coupled yawing and rolling motion",
+      "Landing oscillation",
+      "Propeller slip"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is trim used to reduce?",
+    "choices": [
+      "Fuel density",
+      "Control force",
+      "Runway length",
+      "Cloud cover"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a coordinated turn?",
+    "choices": [
+      "Turn with idle engines",
+      "Turn using rudder alone",
+      "Turn at constant altitude always",
+      "Turn with balanced lateral and directional forces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is load factor in a level turn greater than one?",
+    "choices": [
+      "Lift exceeds aircraft weight",
+      "Thrust exceeds drag",
+      "Drag becomes zero",
+      "Weight decreases"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a spin?",
+    "choices": [
+      "High-speed dive",
+      "Autorotation with stalled wings",
+      "Engine flameout",
+      "Flat landing roll"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does Vne represent?",
+    "choices": [
+      "Best endurance speed",
+      "Never-exceed speed",
+      "Rotation speed",
+      "Engine idle speed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does Vso represent?",
+    "choices": [
+      "Maximum climb speed",
+      "Best glide speed",
+      "Stall speed in landing configuration",
+      "Maximum structural speed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is best glide speed selected to maximize?",
+    "choices": [
+      "Distance over ground",
+      "Rate of descent",
+      "Engine temperature",
+      "Bank angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a constant-speed propeller governor controlling?",
+    "choices": [
+      "Fuel octane",
+      "Blade pitch",
+      "Cabin altitude",
+      "Rudder trim"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does a hydraulic actuator convert?",
+    "choices": [
+      "Heat into fuel",
+      "Fluid pressure into motion",
+      "Radio waves into lift",
+      "Wind into electricity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is an aircraft's center of gravity?",
+    "choices": [
+      "Center of wing lift",
+      "Point where weight acts",
+      "Engine thrust line",
+      "Geometric tail center"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What can an aft center of gravity reduce?",
+    "choices": [
+      "Longitudinal stability",
+      "Fuel temperature",
+      "Runway friction",
+      "Engine compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is flutter?",
+    "choices": [
+      "Controlled yaw input",
+      "Potentially destructive aeroelastic oscillation",
+      "Normal propeller rotation",
+      "A landing-light pattern"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is fatigue failure?",
+    "choices": [
+      "Failure from one overload only",
+      "Cracking from repeated stress cycles",
+      "Loss of radio power",
+      "Sudden weather change"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does pressurization maintain?",
+    "choices": [
+      "Constant wing temperature",
+      "Cabin pressure at altitude",
+      "Fuel level in tanks",
+      "Magnetic heading"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is hypoxia?",
+    "choices": [
+      "Insufficient oxygen reaching body tissues",
+      "Excess cabin pressure",
+      "Low fuel vapor",
+      "High wing loading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a transonic aircraft near?",
+    "choices": [
+      "Stall speed",
+      "Speed of sound",
+      "Walking speed",
+      "Escape velocity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is shock-induced separation?",
+    "choices": [
+      "Propeller imbalance",
+      "Boundary-layer separation after a shock wave",
+      "Fuel pump cavitation",
+      "Runway drainage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a fly-by-wire system transmit?",
+    "choices": [
+      "Mechanical cable tension",
+      "Pilot commands electronically",
+      "Fuel through valves",
+      "Weather data optically"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a glass cockpit?",
+    "choices": [
+      "Electronic flight-display suite",
+      "Transparent fuselage",
+      "Heated windshield",
+      "Synthetic window material"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is RNP navigation based on?",
+    "choices": [
+      "Radio voice reports",
+      "Required navigation performance",
+      "Runway numbering procedure",
+      "Radar noise protection"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is an inertial reference system?",
+    "choices": [
+      "A self-contained motion-sensing navigation system",
+      "A runway lighting controller",
+      "A fuel metering device",
+      "A satellite weather receiver"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does an autothrottle control?",
+    "choices": [
+      "Landing gear position",
+      "Engine thrust setting",
+      "Cabin oxygen level",
+      "Aircraft electrical load"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a ramjet's key feature?",
+    "choices": [
+      "It uses no rotating compressor",
+      "It uses multiple propellers",
+      "It operates only underwater",
+      "It stores compressed fuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a boundary layer?",
+    "choices": [
+      "Airflow region near a surface",
+      "A protected airspace zone",
+      "A fuel tank partition",
+      "A runway safety stripe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is Mach tuck?",
+    "choices": [
+      "Nose-down tendency at high speed",
+      "A locked nose wheel",
+      "A loose engine mount",
+      "A radio navigation error"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a trim tab?",
+    "choices": [
+      "A small adjustable control surface",
+      "A removable fuel cell",
+      "A weather balloon sensor",
+      "A navigation database entry"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

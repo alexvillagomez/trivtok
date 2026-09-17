@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "In Back to the Future, what kind of vehicle is converted into a time machine?",
+    "choices": [
+      "A DeLorean DMC-12",
+      "A Volkswagen Beetle",
+      "A Chevrolet Camaro",
+      "A Ford Mustang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In The Terminator, who is Sarah Connor?",
+    "choices": [
+      "The leader of a space colony",
+      "The woman targeted by the cyborg assassin",
+      "The commander of a police helicopter",
+      "The scientist who built Skynet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the name of the spaceship in Alien (1979)?",
+    "choices": [
+      "Sulaco",
+      "Prometheus",
+      "Nostromo",
+      "Endurance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In Die Hard, where does John McClane confront the terrorists?",
+    "choices": [
+      "LexCorp Tower",
+      "Wayne Tower",
+      "The Pan Am Building",
+      "Nakatomi Plaza"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is the call sign of Pete Mitchell in Top Gun?",
+    "choices": [
+      "Maverick",
+      "Iceman",
+      "Goose",
+      "Viper"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the name of Sylvester Stallone's boxer in Rocky?",
+    "choices": [
+      "Apollo Creed",
+      "Rocky Balboa",
+      "Mickey Goldmill",
+      "Adonis Johnson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who plays John Rambo in the Rambo film series?",
+    "choices": [
+      "Arnold Schwarzenegger",
+      "Dolph Lundgren",
+      "Sylvester Stallone",
+      "Jean-Claude Van Damme"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is Ethan Hunt's occupation in the Mission: Impossible films?",
+    "choices": [
+      "Interpol prosecutor",
+      "Navy pilot",
+      "CIA press officer",
+      "Impossible Missions Force agent"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is Dominic Toretto's usual nickname in the Fast & Furious films?",
+    "choices": [
+      "Dom",
+      "Duke",
+      "Diesel",
+      "Torque"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is Captain Jack Sparrow's profession in Pirates of the Caribbean?",
+    "choices": [
+      "Royal navy admiral",
+      "Pirate captain",
+      "Privateer governor",
+      "Shipwright"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What school does Harry Potter attend?",
+    "choices": [
+      "Durmstrang",
+      "Beauxbatons",
+      "Hogwarts",
+      "Ilvermorny"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the central object sought by many characters in The Lord of the Rings?",
+    "choices": [
+      "The Silmaril",
+      "The Palantír",
+      "The Evenstar",
+      "The One Ring"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who is Bilbo Baggins in The Hobbit?",
+    "choices": [
+      "A hobbit who joins an expedition",
+      "A dwarf prince",
+      "An elven king",
+      "A wizard's apprentice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In Jurassic Park, what preserved material is used to help obtain dinosaur DNA?",
+    "choices": [
+      "Fossilized dinosaur eggs",
+      "Mosquitoes trapped in amber",
+      "Frozen dinosaur blood",
+      "Petrified tree sap alone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Who is left behind in Home Alone?",
+    "choices": [
+      "Buzz McCallister",
+      "Harry Lime",
+      "Kevin McCallister",
+      "Charlie Bucket"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who is Woody in Toy Story?",
+    "choices": [
+      "A space ranger",
+      "A toy dinosaur",
+      "A wind-up soldier",
+      "A cowboy doll"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What kind of fish is Nemo in Finding Nemo?",
+    "choices": [
+      "Clownfish",
+      "Angelfish",
+      "Pufferfish",
+      "Blue tang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which character has ice powers in Frozen?",
+    "choices": [
+      "Anna",
+      "Elsa",
+      "Moana",
+      "Merida"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who is Simba in The Lion King?",
+    "choices": [
+      "A meerkat",
+      "A hyena leader",
+      "A lion prince",
+      "A baboon shaman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What species is Shrek?",
+    "choices": [
+      "Troll",
+      "Giant",
+      "Goblin",
+      "Ogre"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is Gru's main occupation at the beginning of Despicable Me?",
+    "choices": [
+      "Supervillain",
+      "Secret agent",
+      "Toy inventor",
+      "Police detective"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is unusual about the family in The Incredibles?",
+    "choices": [
+      "They are all robots",
+      "Its members have superpowers",
+      "They live underwater",
+      "They are professional musicians"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What holiday tradition is central to Coco?",
+    "choices": [
+      "Lunar New Year",
+      "Diwali",
+      "Día de los Muertos",
+      "Midsummer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does Maui claim to be in Moana?",
+    "choices": [
+      "A sea captain",
+      "A village chief",
+      "A fire spirit",
+      "A demigod"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Who is the elderly protagonist of Up?",
+    "choices": [
+      "Carl Fredricksen",
+      "Russell Kim",
+      "Charles Muntz",
+      "Dug Peterson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Tony Stark's superhero identity?",
+    "choices": [
+      "War Machine",
+      "Iron Man",
+      "Ant-Man",
+      "The Mandarin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What fictional nation is central to Black Panther?",
+    "choices": [
+      "Genosha",
+      "Latveria",
+      "Wakanda",
+      "Sokovia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is Diana's homeland in Wonder Woman?",
+    "choices": [
+      "Atlantis",
+      "Kahndaq",
+      "Apokolips",
+      "Themyscira"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What event begins the alien conflict in Independence Day?",
+    "choices": [
+      "A fleet of alien spacecraft arrives near Earth",
+      "A robot uprising starts in Detroit",
+      "A comet strikes the Moon",
+      "A portal opens under the Atlantic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What device do the agents use in Men in Black to erase memories?",
+    "choices": [
+      "A memory prism",
+      "A neuralyzer",
+      "A flash projector",
+      "A temporal pen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What device is especially associated with the Ghostbusters?",
+    "choices": [
+      "Flux capacitor",
+      "Repulsor core",
+      "Proton pack",
+      "Sonic screwdriver"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the name of the hotel in The Shining?",
+    "choices": [
+      "The Bates Motel",
+      "The Grand Budapest",
+      "The Timberline Lodge",
+      "The Overlook Hotel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who is the killer clown in the It films?",
+    "choices": [
+      "Pennywise",
+      "Art the Clown",
+      "Captain Spaulding",
+      "The Joker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the central survival rule in A Quiet Place?",
+    "choices": [
+      "Stay in direct sunlight",
+      "Remain silent to avoid creatures that hunt by sound",
+      "Never cross running water",
+      "Keep every light turned off"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who is the protagonist of The Silence of the Lambs?",
+    "choices": [
+      "Ellen Ripley",
+      "Marge Gunderson",
+      "Clarice Starling",
+      "Lisbeth Salander"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is William Wallace fighting for in Braveheart?",
+    "choices": [
+      "The English throne",
+      "A Roman province",
+      "A French trade route",
+      "Scottish independence"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What ancient city-state inspires the warriors in 300?",
+    "choices": [
+      "Sparta",
+      "Athens",
+      "Thebes",
+      "Corinth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What historical setting frames The Last Samurai?",
+    "choices": [
+      "China during the Ming dynasty",
+      "Japan during the nineteenth-century Meiji transition",
+      "Korea during the Joseon period",
+      "India under the Mughal Empire"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is the name of the tiger in Life of Pi?",
+    "choices": [
+      "Raja",
+      "Shere Khan",
+      "Richard Parker",
+      "Mowgli"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which adventurous archaeologist is famous for wearing a fedora and carrying a bullwhip?",
+    "choices": [
+      "Alan Grant",
+      "Rick O'Connell",
+      "Nathan Drake",
+      "Indiana Jones"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the main setting of Mad Max: Fury Road?",
+    "choices": [
+      "A post-apocalyptic desert wasteland",
+      "A flooded European capital",
+      "A lunar mining colony",
+      "A prehistoric jungle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In Back to the Future, what year does Marty first travel back to?",
+    "choices": [
+      "1945",
+      "1955",
+      "1965",
+      "1975"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What model designation is used for Arnold Schwarzenegger's protector in Terminator 2?",
+    "choices": [
+      "T-1000",
+      "T-X",
+      "T-800",
+      "HK-Aerial"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Why is John McClane barefoot for much of Die Hard?",
+    "choices": [
+      "He was captured before finding his shoes",
+      "He is disguised as a security guard",
+      "He loses them during a helicopter escape",
+      "He removes his shoes to cope with broken glass in the tower"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Who directed Top Gun (1986)?",
+    "choices": [
+      "Tony Scott",
+      "Ridley Scott",
+      "Michael Bay",
+      "Peter Berg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is Rocky Balboa's opponent in the first Rocky film?",
+    "choices": [
+      "Clubber Lang",
+      "Apollo Creed",
+      "Ivan Drago",
+      "Tommy Gunn"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of the adventurer played by Brendan Fraser in The Mummy (1999)?",
+    "choices": [
+      "Jonathan Carnahan",
+      "Indiana Jones",
+      "Rick O'Connell",
+      "Jack Colton"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does IMF stand for in Mission: Impossible?",
+    "choices": [
+      "International Military Federation",
+      "Intelligence Management Front",
+      "Independent Mission Fleet",
+      "Impossible Missions Force"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which film in the Fast & Furious series is primarily set in Japan and follows Sean Boswell?",
+    "choices": [
+      "Tokyo Drift",
+      "Fast Five",
+      "Hobbs & Shaw",
+      "Furious 7"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who portrays Davy Jones in Pirates of the Caribbean: Dead Man's Chest?",
+    "choices": [
+      "Geoffrey Rush",
+      "Bill Nighy",
+      "Javier Bardem",
+      "Ian McShane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What symbol does Katniss become for resistance in The Hunger Games?",
+    "choices": [
+      "The white rose",
+      "The silver wolf",
+      "The mockingjay",
+      "The golden arrow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What creature inhabits the Chamber of Secrets?",
+    "choices": [
+      "A dragon",
+      "A dementor",
+      "A hippogriff",
+      "A basilisk"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the capital of Rohan in The Lord of the Rings?",
+    "choices": [
+      "Edoras",
+      "Minas Tirith",
+      "Osgiliath",
+      "Bree"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which character in Jurassic Park is a mathematician who discusses chaos theory?",
+    "choices": [
+      "Alan Grant",
+      "Ian Malcolm",
+      "Henry Wu",
+      "Ray Arnold"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What was historically notable about Toy Story (1995)?",
+    "choices": [
+      "It was the first film shot entirely in IMAX",
+      "It was the first animated film with synchronized sound",
+      "It was the first fully computer-animated feature film",
+      "It was the first film made outside a studio system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What species is Dory in Finding Nemo?",
+    "choices": [
+      "Clownfish",
+      "Moorish idol",
+      "Yellow tang",
+      "Blue tang"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which song is strongly associated with Elsa's transformation in Frozen?",
+    "choices": [
+      "Let It Go",
+      "Into the Unknown",
+      "For the First Time in Forever",
+      "Do You Want to Build a Snowman?"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What instrument does Miguel play in Coco?",
+    "choices": [
+      "Violin",
+      "Guitar",
+      "Trumpet",
+      "Accordion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the name of the demigod's fishhook in Moana?",
+    "choices": [
+      "Te Fiti",
+      "Tamatoa",
+      "Manaiakalani",
+      "Kakamora"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who is the explorer Charles Muntz in Up?",
+    "choices": [
+      "A retired police officer who helps Carl",
+      "A scientist who invents the house's balloons",
+      "A neighbor who owns the talking dog",
+      "An adventurer whose airship and dogs threaten Carl's journey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the arc reactor's original narrative purpose in Iron Man?",
+    "choices": [
+      "It powers Tony Stark's equipment and helps keep shrapnel from his heart",
+      "It opens portals to other dimensions",
+      "It controls the Iron Legion remotely",
+      "It creates the vibranium in Wakanda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the Sunken Place in Get Out?",
+    "choices": [
+      "A secret underground laboratory",
+      "A dissociative mental space where a person's awareness is trapped",
+      "A prison beneath the family estate",
+      "A hallucination shared by the guests"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which film introduced the liquid-metal T-1000?",
+    "choices": [
+      "The Terminator",
+      "Terminator 3: Rise of the Machines",
+      "Terminator 2: Judgment Day",
+      "Terminator Genisys"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who composed the electronic score for The Terminator (1984)?",
+    "choices": [
+      "Jerry Goldsmith",
+      "James Horner",
+      "Alan Silvestri",
+      "Brad Fiedel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What song won the Academy Award for Best Original Song from Top Gun?",
+    "choices": [
+      "Take My Breath Away",
+      "Danger Zone",
+      "You've Lost That Lovin' Feelin'",
+      "Playing with the Boys"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the name of the alien species' ship in Independence Day?",
+    "choices": [
+      "The Nostromo",
+      "The destroyer mothership",
+      "The Event Horizon",
+      "The Sulaco"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the Stay Puft Marshmallow Man in Ghostbusters?",
+    "choices": [
+      "A former Ghostbusters mascot robot",
+      "A prototype proton-pack battery",
+      "A giant form chosen by the destructive entity Gozer",
+      "A ghost trapped inside a parade balloon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What do the creatures in A Quiet Place primarily use to hunt?",
+    "choices": [
+      "Infrared vision",
+      "A telepathic network",
+      "Scent alone",
+      "Extremely sensitive hearing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the fictional agency in The Silence of the Lambs where Clarice trains?",
+    "choices": [
+      "The FBI",
+      "The CIA",
+      "The U.S. Marshals Service",
+      "The Bureau of Prisons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Blade Runner, what are replicants?",
+    "choices": [
+      "Robots built from salvaged cars",
+      "Bioengineered humanoids made to resemble humans",
+      "Alien organisms that replace memories",
+      "Clones created from frozen embryos only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which special-effects company developed many of Jurassic Park's digital dinosaur effects?",
+    "choices": [
+      "Weta Workshop",
+      "Digital Domain",
+      "Industrial Light & Magic",
+      "Framestore"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What production technique helped make The Lord of the Rings characters appear different in size?",
+    "choices": [
+      "Only computer-generated body replacement",
+      "Rear projection with painted backdrops",
+      "Underwater motion capture",
+      "Forced perspective and scale doubles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a key distinction between the theatrical cuts and extended editions of The Lord of the Rings films?",
+    "choices": [
+      "The extended editions add substantial scenes and are longer editorial versions",
+      "The extended editions replace all practical effects with animation",
+      "The theatrical cuts were released only on television",
+      "The extended editions use a different fictional language"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which film is widely recognized as the first feature-length computer-animated film?",
+    "choices": [
+      "Shrek",
+      "Toy Story",
+      "A Bug's Life",
+      "Antz"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does motion capture record for a digital character performance?",
+    "choices": [
+      "Only the color of an actor's costume",
+      "The film's final surround mix",
+      "An actor's movement data for use in a computer-generated performance",
+      "The chemical composition of a practical prop"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was unusual about Who Framed Roger Rabbit's visual production?",
+    "choices": [
+      "Every character was computer-generated in three dimensions",
+      "The film was shot without a completed screenplay",
+      "The entire movie was made from stop-motion puppets",
+      "Live-action performers were combined with traditionally animated characters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does the term diegetic sound mean in a film?",
+    "choices": [
+      "Sound that originates within the story world and could be heard by its characters",
+      "Sound added only after the end credits",
+      "Sound recorded outside the cinema",
+      "Sound created exclusively by synthesizers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a practical effect?",
+    "choices": [
+      "A visual effect added only through color grading",
+      "A physical effect created on set rather than generated entirely digitally",
+      "A marketing image made for a poster",
+      "A soundtrack mixed without dialogue"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which filmmaking process creates a seamless transition between photographed material and computer-generated imagery?",
+    "choices": [
+      "Dubbing",
+      "Foley",
+      "Compositing",
+      "Color timing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does foley recording recreate for a finished film?",
+    "choices": [
+      "The composer’s original melody",
+      "The actors' replacement dialogue only",
+      "The film's camera exposure",
+      "Synchronized everyday sound effects such as footsteps and prop handling"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why are green screens used in many blockbuster productions?",
+    "choices": [
+      "They provide a color range that can be separated and replaced in compositing",
+      "They make actors invisible to the camera",
+      "They generate surround sound during filming",
+      "They automatically create motion-capture data"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is an anamorphic lens known for in traditional widescreen filmmaking?",
+    "choices": [
+      "Recording dialogue without microphones",
+      "Optically squeezing a wide image onto a narrower film frame for later unsqueezing",
+      "Converting black-and-white film into color",
+      "Projecting a film at a higher frame rate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a film's aspect ratio describe?",
+    "choices": [
+      "The number of actors in a scene",
+      "The ratio of dialogue to music",
+      "The proportional relationship between the image's width and height",
+      "The amount of film stock exposed per day"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a match cut?",
+    "choices": [
+      "A cut made only when the camera changes lenses",
+      "A reshoot performed by a stunt double",
+      "A splice that removes all ambient sound",
+      "An edit linking two shots through a visual, graphic, or conceptual similarity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a film's cold open do?",
+    "choices": [
+      "Begins with a scene before the main title sequence or customary setup",
+      "Shows only footage from the final scene",
+      "Opens with a silent black frame lasting ten minutes",
+      "Introduces the studio logo after the credits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does a film's production designer oversee?",
+    "choices": [
+      "The final recording of the orchestra only",
+      "The visual design of sets, locations, props, and the overall physical world",
+      "The legal negotiation of actor contracts",
+      "The distribution of tickets to theaters"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a storyboard primarily used to plan?",
+    "choices": [
+      "The final mix of dialogue and effects",
+      "The cast's travel schedule",
+      "The visual progression and shot composition of scenes",
+      "The film's box-office accounting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is ADR in film production?",
+    "choices": [
+      "An analog method of developing film stock",
+      "A director's rehearsal report",
+      "A distribution agreement for regional theaters",
+      "Automated dialogue replacement recorded after principal photography"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the main purpose of a film's color grade?",
+    "choices": [
+      "To adjust and shape the image's color, contrast, and visual consistency",
+      "To rewrite the screenplay's dialogue",
+      "To record foley effects",
+      "To change an actor's performance digitally in every shot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a continuity error?",
+    "choices": [
+      "A deliberate recurring theme in the score",
+      "An unintended mismatch in details between shots or scenes",
+      "A legal dispute over a sequel title",
+      "A camera movement that follows an actor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a director's cut?",
+    "choices": [
+      "A cut made exclusively by the studio accountant",
+      "A version with every scene removed",
+      "A version presented as reflecting the director's preferred editorial choices",
+      "A film shot entirely by a second unit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a film's mise-en-scène?",
+    "choices": [
+      "The order of soundtrack licensing payments",
+      "The film's release schedule across countries",
+      "The number of edits in an action sequence",
+      "The arrangement of visual elements within the frame and scene"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a bottle episode in a film-franchise context?",
+    "choices": [
+      "A story designed around a limited setting and resources",
+      "A film shot inside a glass container",
+      "A sequel released only in a collector's bottle",
+      "A scene built entirely from stock footage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a non-linear narrative?",
+    "choices": [
+      "A story filmed without any edits",
+      "A story presented out of chronological order or through fragmented time",
+      "A plot with no characters or setting",
+      "A narrative shown only through musical notation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a film's diegesis?",
+    "choices": [
+      "The camera's physical lens mount",
+      "The theater's soundproofing system",
+      "The complete story world in which its events and characters exist",
+      "The list of actors in the closing credits"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a spin-off film?",
+    "choices": [
+      "A film released without a title",
+      "A remake with no connection to an earlier story",
+      "A production filmed only during camera rotation",
+      "A film centered on a character, setting, or concept derived from another property"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a crossover film?",
+    "choices": [
+      "A film that brings characters or worlds from separate properties together",
+      "A film that changes from color to black and white",
+      "A film released in two languages only",
+      "A movie that uses no genre conventions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a film's source material?",
+    "choices": [
+      "The chemical coating on a camera lens",
+      "The preexisting work or concept from which the film is developed",
+      "The theater where a premiere occurs",
+      "The final list of catering expenses"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a film's world-building?",
+    "choices": [
+      "The process of building a cinema auditorium",
+      "The construction of a camera crane",
+      "The creation of coherent social, historical, physical, or fictional systems for its story world",
+      "The accounting of soundtrack royalties only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does an unreliable narrator do?",
+    "choices": [
+      "Narrates every event in strict chronological order",
+      "Appears only in the end credits",
+      "Speaks without any relationship to the plot",
+      "Presents information whose accuracy or interpretation is deliberately questionable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  }
+]

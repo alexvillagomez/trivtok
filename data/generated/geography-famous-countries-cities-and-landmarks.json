@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which country is home to the Eiffel Tower?",
+    "choices": [
+      "France",
+      "Italy",
+      "Belgium",
+      "Spain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which country is home to the Great Pyramid of Giza?",
+    "choices": [
+      "Sudan",
+      "Egypt",
+      "Jordan",
+      "Mexico"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which city is Japan’s capital?",
+    "choices": [
+      "Kyoto",
+      "Osaka",
+      "Tokyo",
+      "Hiroshima"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which country contains most of the Amazon rainforest?",
+    "choices": [
+      "Colombia",
+      "Peru",
+      "Bolivia",
+      "Brazil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Where is the Taj Mahal?",
+    "choices": [
+      "India",
+      "Pakistan",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which country is home to the Great Wall?",
+    "choices": [
+      "Mongolia",
+      "China",
+      "Japan",
+      "South Korea"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which country is home to the Sydney Opera House?",
+    "choices": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "Canada"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which country is home to Machu Picchu?",
+    "choices": [
+      "Chile",
+      "Bolivia",
+      "Ecuador",
+      "Peru"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which country is home to the Statue of Liberty?",
+    "choices": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "France"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which country is home to the Acropolis of Athens?",
+    "choices": [
+      "Italy",
+      "Greece",
+      "Turkey",
+      "Cyprus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which city is Canada’s capital?",
+    "choices": [
+      "Toronto",
+      "Montreal",
+      "Ottawa",
+      "Vancouver"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In which city is Big Ben?",
+    "choices": [
+      "Edinburgh",
+      "Dublin",
+      "Manchester",
+      "London"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which country is home to Mount Fuji?",
+    "choices": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Taiwan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which desert covers much of North Africa?",
+    "choices": [
+      "The Gobi",
+      "The Sahara",
+      "The Kalahari",
+      "The Atacama"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which river flows through Egypt?",
+    "choices": [
+      "The Congo",
+      "The Niger",
+      "The Nile",
+      "The Zambezi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which mountain range runs across central Europe?",
+    "choices": [
+      "The Andes",
+      "The Himalayas",
+      "The Rockies",
+      "The Alps"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which waterfall lies on the border of the United States and Canada?",
+    "choices": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls",
+      "Angel Falls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which country is home to Christ the Redeemer?",
+    "choices": [
+      "Argentina",
+      "Brazil",
+      "Colombia",
+      "Portugal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which country is home to the Colosseum?",
+    "choices": [
+      "Greece",
+      "Spain",
+      "Italy",
+      "Croatia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which country is home to the Burj Khalifa?",
+    "choices": [
+      "Qatar",
+      "Saudi Arabia",
+      "Kuwait",
+      "United Arab Emirates"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which country is home to Petra?",
+    "choices": [
+      "Jordan",
+      "Lebanon",
+      "Israel",
+      "Syria"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country contains most of the Serengeti?",
+    "choices": [
+      "Kenya",
+      "Tanzania",
+      "Uganda",
+      "Botswana"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which country owns the Galápagos Islands?",
+    "choices": [
+      "Peru",
+      "Chile",
+      "Ecuador",
+      "Costa Rica"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which country is home to Angel Falls?",
+    "choices": [
+      "Guyana",
+      "Brazil",
+      "Colombia",
+      "Venezuela"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which countries share Victoria Falls?",
+    "choices": [
+      "Zambia and Zimbabwe",
+      "Kenya and Tanzania",
+      "Namibia and Botswana",
+      "South Africa and Lesotho"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which country is home to the Great Barrier Reef?",
+    "choices": [
+      "Indonesia",
+      "Australia",
+      "Philippines",
+      "Fiji"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which sea lies between Jordan and Israel?",
+    "choices": [
+      "The Red Sea",
+      "The Caspian Sea",
+      "The Dead Sea",
+      "The Black Sea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is the capital of Morocco?",
+    "choices": [
+      "Casablanca",
+      "Marrakesh",
+      "Fez",
+      "Rabat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which city is Mexico’s capital?",
+    "choices": [
+      "Mexico City",
+      "Cancún",
+      "Guadalajara",
+      "Monterrey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is the capital of Argentina?",
+    "choices": [
+      "Córdoba",
+      "Buenos Aires",
+      "Rosario",
+      "Mendoza"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the capital of Kenya?",
+    "choices": [
+      "Mombasa",
+      "Kisumu",
+      "Nairobi",
+      "Nakuru"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which city is South Korea’s capital?",
+    "choices": [
+      "Busan",
+      "Incheon",
+      "Daegu",
+      "Seoul"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which city is Thailand’s capital?",
+    "choices": [
+      "Bangkok",
+      "Chiang Mai",
+      "Phuket",
+      "Ayutthaya"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which city is Norway’s capital?",
+    "choices": [
+      "Bergen",
+      "Oslo",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which city is Turkey’s capital?",
+    "choices": [
+      "Istanbul",
+      "Izmir",
+      "Ankara",
+      "Bursa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which city is New Zealand’s capital?",
+    "choices": [
+      "Auckland",
+      "Christchurch",
+      "Dunedin",
+      "Wellington"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which city is Ireland’s capital?",
+    "choices": [
+      "Dublin",
+      "Cork",
+      "Galway",
+      "Limerick"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which Italian city is famous for canals?",
+    "choices": [
+      "Milan",
+      "Venice",
+      "Naples",
+      "Turin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which city lies on both Europe and Asia?",
+    "choices": [
+      "Athens",
+      "Cairo",
+      "Istanbul",
+      "Moscow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which South African city is famous for Table Mountain?",
+    "choices": [
+      "Johannesburg",
+      "Durban",
+      "Pretoria",
+      "Cape Town"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Brazilian city is famous for Copacabana Beach?",
+    "choices": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador",
+      "Brasília"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which mountain is shared by Nepal and China?",
+    "choices": [
+      "K2",
+      "Mount Everest",
+      "Mount Elbrus",
+      "Kangchenjunga"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which country contains the Grand Canyon?",
+    "choices": [
+      "Canada",
+      "Mexico",
+      "United States",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which U.S. state contains most of Yellowstone National Park?",
+    "choices": [
+      "Colorado",
+      "Montana",
+      "Utah",
+      "Wyoming"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which country is home to Uluru?",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "Namibia",
+      "South Africa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which country has the canal linking the Atlantic and Pacific oceans?",
+    "choices": [
+      "Colombia",
+      "Panama",
+      "Costa Rica",
+      "Nicaragua"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which country contains the Suez Canal?",
+    "choices": [
+      "Israel",
+      "Turkey",
+      "Egypt",
+      "Libya"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which country contains Mount Kilimanjaro?",
+    "choices": [
+      "Kenya",
+      "Ethiopia",
+      "Uganda",
+      "Tanzania"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which lake lies between Peru and Bolivia?",
+    "choices": [
+      "Lake Titicaca",
+      "Lake Baikal",
+      "Lake Maracaibo",
+      "Lake Nicaragua"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which city is Portugal’s capital?",
+    "choices": [
+      "Porto",
+      "Lisbon",
+      "Braga",
+      "Coimbra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which pharaoh commissioned the Bent Pyramid at Dahshur?",
+    "choices": [
+      "Khufu",
+      "Ramesses II",
+      "Sneferu",
+      "Djoser"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the capital of Bhutan?",
+    "choices": [
+      "Paro",
+      "Punakha",
+      "Phuntsholing",
+      "Thimphu"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which Uzbek city was a major Silk Road center?",
+    "choices": [
+      "Samarkand",
+      "Tashkent",
+      "Bukhara",
+      "Khiva"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which city is Lesotho’s capital?",
+    "choices": [
+      "Mbabane",
+      "Maseru",
+      "Mafeteng",
+      "Mokhotlong"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which city is Laos’s capital?",
+    "choices": [
+      "Luang Prabang",
+      "Pakse",
+      "Vientiane",
+      "Savannakhet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which city is Kyrgyzstan’s capital?",
+    "choices": [
+      "Osh",
+      "Almaty",
+      "Dushanbe",
+      "Bishkek"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the capital of Madagascar?",
+    "choices": [
+      "Antananarivo",
+      "Toamasina",
+      "Mahajanga",
+      "Antsirabe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is Bhutan’s famous airport city?",
+    "choices": [
+      "Thimphu",
+      "Paro",
+      "Punakha",
+      "Jakar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is Bolivia’s constitutional capital?",
+    "choices": [
+      "La Paz",
+      "Santa Cruz de la Sierra",
+      "Sucre",
+      "Cochabamba"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is Sri Lanka’s legislative capital?",
+    "choices": [
+      "Colombo",
+      "Kandy",
+      "Galle",
+      "Sri Jayawardenepura Kotte"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the capital of Myanmar?",
+    "choices": [
+      "Naypyidaw",
+      "Yangon",
+      "Mandalay",
+      "Bagan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the official capital of Côte d’Ivoire?",
+    "choices": [
+      "Abidjan",
+      "Yamoussoukro",
+      "Bouaké",
+      "Korhogo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the capital of Tanzania?",
+    "choices": [
+      "Dar es Salaam",
+      "Arusha",
+      "Dodoma",
+      "Mwanza"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the capital of Nigeria?",
+    "choices": [
+      "Lagos",
+      "Kano",
+      "Ibadan",
+      "Abuja"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which city is Brazil’s capital?",
+    "choices": [
+      "Brasília",
+      "Rio de Janeiro",
+      "São Paulo",
+      "Salvador"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the capital of Pakistan?",
+    "choices": [
+      "Karachi",
+      "Islamabad",
+      "Lahore",
+      "Peshawar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is South Africa’s executive capital?",
+    "choices": [
+      "Cape Town",
+      "Bloemfontein",
+      "Pretoria",
+      "Johannesburg"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the constitutional capital of the Netherlands?",
+    "choices": [
+      "The Hague",
+      "Rotterdam",
+      "Utrecht",
+      "Amsterdam"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is Eswatini’s administrative capital?",
+    "choices": [
+      "Mbabane",
+      "Lobamba",
+      "Manzini",
+      "Siteki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Peruvian site is famous for giant desert geoglyphs?",
+    "choices": [
+      "Chan Chan",
+      "The Nazca Lines",
+      "Sacsayhuamán",
+      "Lake Titicaca"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Jordanian landscape is known for red desert sandstone?",
+    "choices": [
+      "Wadi Musa",
+      "The Jordan Valley",
+      "Wadi Rum",
+      "Ajloun"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which Turkish region is famous for fairy chimneys?",
+    "choices": [
+      "Pamukkale",
+      "Lycia",
+      "Cilicia",
+      "Cappadocia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Greek site is famous for monasteries on tall rock pillars?",
+    "choices": [
+      "Meteora",
+      "Delphi",
+      "Epidaurus",
+      "Mycenae"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which palace is in Lhasa?",
+    "choices": [
+      "The Forbidden City",
+      "The Potala Palace",
+      "The Summer Palace",
+      "The Jokhang Palace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Cambodian archaeological site contains the temple of Ta Prohm?",
+    "choices": [
+      "Banteay Chhmar",
+      "Preah Vihear",
+      "Angkor",
+      "Sambor Prei Kuk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which Indonesian temple is one of the world’s largest Buddhist monuments?",
+    "choices": [
+      "Prambanan",
+      "Besakih",
+      "Sewu",
+      "Borobudur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which Myanmar site is famous for thousands of ancient temples?",
+    "choices": [
+      "Bagan",
+      "Mandalay",
+      "Yangon",
+      "Mrauk U"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which ancient Persian site was an Achaemenid ceremonial capital?",
+    "choices": [
+      "Pasargadae",
+      "Persepolis",
+      "Susa",
+      "Rayy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which ancient city is near modern Petra in Jordan?",
+    "choices": [
+      "Amman",
+      "Aqaba",
+      "Jerash",
+      "Madaba"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which English prehistoric monument stands on Salisbury Plain?",
+    "choices": [
+      "Avebury",
+      "Hadrian’s Wall",
+      "Tintagel",
+      "Stonehenge"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Spanish palace complex overlooks Granada?",
+    "choices": [
+      "The Alhambra",
+      "The Alcázar of Seville",
+      "El Escorial",
+      "The Mezquita"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which Lisbon landmark guarded the mouth of the Tagus?",
+    "choices": [
+      "São Jorge Castle",
+      "Belém Tower",
+      "Jerónimos Monastery",
+      "Commerce Square"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which French island commune is famous for its tidal abbey?",
+    "choices": [
+      "Île de Ré",
+      "Corsica",
+      "Mont-Saint-Michel",
+      "Île d’Oléron"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which German castle inspired the Disney castle design?",
+    "choices": [
+      "Hohenzollern",
+      "Wartburg",
+      "Heidelberg",
+      "Neuschwanstein"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which city has the famous Astronomical Clock in its Old Town Square?",
+    "choices": [
+      "Prague",
+      "Vienna",
+      "Budapest",
+      "Kraków"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which lake is the world’s deepest freshwater lake?",
+    "choices": [
+      "Lake Superior",
+      "Lake Baikal",
+      "Lake Tanganyika",
+      "Lake Victoria"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which Croatian city has a famous walled Old Town on the Adriatic?",
+    "choices": [
+      "Split",
+      "Zadar",
+      "Dubrovnik",
+      "Pula"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Slovenian lake has a church on an island?",
+    "choices": [
+      "Lake Bohinj",
+      "Lake Cerknica",
+      "Lake Jasna",
+      "Lake Bled"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Georgian church stands beneath Mount Kazbek?",
+    "choices": [
+      "Gergeti Trinity Church",
+      "Svetitskhoveli Cathedral",
+      "Jvari Monastery",
+      "Alaverdi Monastery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Armenian monastery is partly carved into a cliff?",
+    "choices": [
+      "Khor Virap",
+      "Geghard",
+      "Tatev",
+      "Haghpat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Azerbaijani site is famous for ancient rock carvings?",
+    "choices": [
+      "Sheki",
+      "Quba",
+      "Gobustan",
+      "Nakhchivan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Namibian valley is famous for red dunes?",
+    "choices": [
+      "Fish River Canyon",
+      "Skeleton Coast",
+      "Damaraland",
+      "Sossusvlei"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Botswana wetland forms a vast inland delta?",
+    "choices": [
+      "The Okavango Delta",
+      "The Makgadikgadi Pans",
+      "The Chobe Floodplain",
+      "The Limpopo Basin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which city was the Inca imperial capital?",
+    "choices": [
+      "Quito",
+      "Cusco",
+      "La Paz",
+      "Arequipa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which city is known as the White City of Morocco?",
+    "choices": [
+      "Rabat",
+      "Marrakesh",
+      "Casablanca",
+      "Tangier"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which African lake is shared by Tanzania, the Democratic Republic of the Congo, Burundi, and Zambia?",
+    "choices": [
+      "Lake Victoria",
+      "Lake Malawi",
+      "Lake Turkana",
+      "Lake Tanganyika"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which river forms much of the border between the United States and Mexico?",
+    "choices": [
+      "The Rio Grande",
+      "The Colorado",
+      "The Mississippi",
+      "The Arkansas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which strait separates Spain from Morocco?",
+    "choices": [
+      "The Bosporus",
+      "The Strait of Gibraltar",
+      "The Strait of Hormuz",
+      "The Dardanelles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which sea is connected to the Mediterranean by the Dardanelles and Bosporus system?",
+    "choices": [
+      "The Caspian Sea",
+      "The Red Sea",
+      "The Black Sea",
+      "The Adriatic Sea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which city stands at the meeting of the Blue Nile and White Nile?",
+    "choices": [
+      "Cairo",
+      "Juba",
+      "Addis Ababa",
+      "Khartoum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What does sautéing usually involve?",
+    "choices": [
+      "Cooking small pieces quickly in a little hot fat",
+      "Cooking food submerged in cold water",
+      "Baking food in a sealed oven without fat",
+      "Drying food in moving air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is braising?",
+    "choices": [
+      "Boiling food uncovered for a few seconds",
+      "Browning food and then cooking it slowly with a small amount of liquid",
+      "Cooking only raw vegetables over ice",
+      "Whisking a sauce without heat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is poaching?",
+    "choices": [
+      "Cooking food in a very hot dry pan",
+      "Baking dough with steam only",
+      "Gently cooking food in liquid below a simmer",
+      "Preserving food in salt without heat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is blanching vegetables?",
+    "choices": [
+      "Roasting them until completely dry",
+      "Soaking them in oil overnight",
+      "Freezing them without any heat treatment",
+      "Briefly boiling them and often cooling them quickly"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a chef's knife primarily used for?",
+    "choices": [
+      "General chopping, slicing, and dicing",
+      "Opening sealed cans",
+      "Peeling only citrus fruit",
+      "Straining sauces"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Why should flour and sugar be measured by weight in baking?",
+    "choices": [
+      "Weight makes yeast unnecessary",
+      "Weight gives more consistent ingredient quantities than packed volume",
+      "Weight prevents all browning",
+      "Weight removes the need for an oven"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why should raw meat and ready-to-eat foods use separate cutting boards or careful cleaning?",
+    "choices": [
+      "To make vegetables cook faster",
+      "To increase the saltiness of meat",
+      "To reduce cross-contamination",
+      "To prevent a knife from becoming dull overnight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What flavor does umami describe?",
+    "choices": [
+      "A purely sweet taste from sugar",
+      "A cooling sensation from mint",
+      "A sharp sensation from carbonation",
+      "Savory depth associated with compounds such as glutamate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is deglazing a pan?",
+    "choices": [
+      "Adding liquid to loosen browned bits from the bottom",
+      "Removing every drop of fat before cooking",
+      "Freezing a hot pan immediately",
+      "Straining raw meat through a sieve"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a roux?",
+    "choices": [
+      "A raw egg-and-water wash",
+      "A cooked mixture of fat and flour used to thicken sauces",
+      "A fermented vegetable relish",
+      "A stock made only from bones"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a slurry in cooking?",
+    "choices": [
+      "A blend of roasted spices and oil",
+      "A stock reduced until dry",
+      "A starch mixed with cold liquid before adding it to a hot sauce",
+      "A dough made without flour"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is an emulsion?",
+    "choices": [
+      "A dry rub applied to meat",
+      "A solid baked mixture of flour and sugar",
+      "A liquid heated past its boiling point",
+      "A mixture of normally immiscible liquids stabilized together"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the classic role of egg yolk in mayonnaise?",
+    "choices": [
+      "It helps emulsify oil and an aqueous ingredient",
+      "It supplies yeast for fermentation",
+      "It prevents any seasoning from dissolving",
+      "It raises the sauce to a boil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why are eggs often tempered before adding them to a hot mixture?",
+    "choices": [
+      "It removes the yolk's fat",
+      "Gradually warming them reduces the chance of curdling",
+      "It makes the eggs freeze faster",
+      "It replaces the need for whisking"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does gluten provide in many wheat doughs?",
+    "choices": [
+      "The primary source of sweetness",
+      "A natural leavening gas",
+      "An elastic network that helps trap gas and give structure",
+      "A substitute for water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does yeast do in a yeasted dough?",
+    "choices": [
+      "Dissolves all gluten",
+      "Cools the dough below room temperature",
+      "Removes salt from flour",
+      "Ferments sugars and produces gas that leavens the dough"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the main difference between baking soda and baking powder?",
+    "choices": [
+      "Baking soda needs an acid in the formula, while baking powder contains acid salts",
+      "Baking soda is yeast and baking powder is gluten",
+      "Baking soda works only in frozen foods",
+      "Baking powder contains no leavening chemicals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is blind baking?",
+    "choices": [
+      "Baking without any heat source",
+      "Baking a pastry shell before adding its final filling",
+      "Cooking a cake while unable to see the oven",
+      "Baking bread without flour"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does folding mean when combining a delicate foam with batter?",
+    "choices": [
+      "Stirring forcefully until all air is removed",
+      "Rolling the batter into a flat sheet",
+      "Gently incorporating it while preserving as much trapped air as possible",
+      "Freezing the foam before mixing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the usual purpose of resting meat after cooking?",
+    "choices": [
+      "Cooling it until it becomes raw again",
+      "Removing every bit of seasoning",
+      "Making the meat absorb water from the plate",
+      "Allowing juices and internal heat to redistribute before slicing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is carryover cooking?",
+    "choices": [
+      "Food continuing to cook from retained heat after leaving the heat source",
+      "Cooking food twice in two different countries",
+      "Adding a second raw ingredient to a pan",
+      "Moving a dish from a freezer to a refrigerator"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does al dente describe in pasta?",
+    "choices": [
+      "Pasta cooked until it dissolves",
+      "Firm texture with a slight bite",
+      "Pasta dried without cooking",
+      "Pasta fried until crunchy throughout"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a grain pilaf technique?",
+    "choices": [
+      "Grinding grains into a raw flour",
+      "Fermenting grains without moisture",
+      "Toasting grains and then cooking them in seasoned liquid",
+      "Boiling grains in oil only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Why is rice often rinsed before cooking?",
+    "choices": [
+      "To make the grains ferment immediately",
+      "To add gluten to the rice",
+      "To prevent any water absorption",
+      "To remove some surface starch and loose debris"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What happens when potatoes are mashed excessively?",
+    "choices": [
+      "Released starch can make them gluey or elastic",
+      "Their starch disappears completely",
+      "They become crisp like chips without heat",
+      "Their water turns into fat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does julienne mean for a vegetable cut?",
+    "choices": [
+      "Large irregular chunks",
+      "Thin matchstick-like strips",
+      "A round slice",
+      "A finely ground paste"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does brunoise mean?",
+    "choices": [
+      "Long diagonal slices",
+      "A whole roasted vegetable",
+      "Very small, even dice",
+      "A spiral cut made with a peeler"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a chiffonade cut commonly used for?",
+    "choices": [
+      "Large cubes of root vegetables",
+      "Removing bones from fish",
+      "Shaping pastry edges",
+      "Thin ribbons of leafy herbs or greens"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is food-safe refrigeration intended to do?",
+    "choices": [
+      "Slow microbial growth and preserve perishable food",
+      "Sterilize food instantly",
+      "Cook meat evenly from the inside",
+      "Remove every allergen from leftovers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why should leftovers be cooled and stored promptly?",
+    "choices": [
+      "To make them absorb more salt",
+      "To limit the time food spends in temperatures favorable to microbial growth",
+      "To prevent all texture changes forever",
+      "To increase their internal cooking temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "During cooking, what reaction between amino compounds and sugars creates browned flavors?",
+    "choices": [
+      "Caramelization",
+      "Gelatinization",
+      "The Maillard reaction",
+      "Esterification"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is caramelization?",
+    "choices": [
+      "The coagulation of egg proteins",
+      "The development of gluten in flour",
+      "The oxidation of raw meat proteins",
+      "Thermal browning and breakdown of sugars"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why does a crowded pan often brown food poorly?",
+    "choices": [
+      "Released moisture can lower surface temperature and encourage steaming",
+      "Crowding makes the pan too hot for any food",
+      "Food cannot contain sugar when crowded",
+      "Crowding removes all seasoning from the pan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Why is a sauce reduced?",
+    "choices": [
+      "To remove all seasoning",
+      "To evaporate water and concentrate flavor and body",
+      "To turn oil into flour",
+      "To cool the sauce quickly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a mother sauce in classical French cooking?",
+    "choices": [
+      "A sauce made only by a cook's family",
+      "A sauce that cannot be changed or seasoned",
+      "A foundational sauce used as a base for related sauces",
+      "A sauce served only with breakfast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the classical thickener in a béchamel sauce?",
+    "choices": [
+      "Whipped egg whites",
+      "Gelatin sheets",
+      "Ground coffee",
+      "A roux of fat and flour"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a beurre manié?",
+    "choices": [
+      "A kneaded mixture of equal parts butter and flour used to thicken",
+      "A clarified butter made by skimming foam",
+      "A browned butter sauce with lemon",
+      "A fermented butter cultured with yeast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a liaison in sauce making?",
+    "choices": [
+      "A metal strainer for removing herbs",
+      "A finishing mixture, often egg yolk and cream, used to enrich and thicken",
+      "A stock made only from vegetables",
+      "A method of cutting onions into rings"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does mounting a sauce with butter usually do?",
+    "choices": [
+      "Boiling butter until all water is gone",
+      "Replacing stock with flour",
+      "Whisking in cold butter to add gloss, richness, and slight thickening",
+      "Freezing the sauce before service"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is beurre noisette?",
+    "choices": [
+      "Butter blended with hazelnuts while cold",
+      "Butter clarified without any heating",
+      "Butter whipped with egg whites",
+      "Butter heated until its milk solids brown and smell nutty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is clarified butter?",
+    "choices": [
+      "Butter with water and milk solids removed",
+      "Butter mixed with flour and water",
+      "Butter browned until black",
+      "Butter fermented with cream cultures"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the purpose of a sachet or bouquet garni in stock?",
+    "choices": [
+      "To thicken the stock with starch",
+      "To infuse aromatics that can be removed easily",
+      "To make stock ferment",
+      "To add sweetness through caramelization"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a mirepoix?",
+    "choices": [
+      "A pastry made with whipped egg whites",
+      "A fish-cutting technique",
+      "A traditional aromatic mixture of diced vegetables used as a flavor base",
+      "A spice blend containing only pepper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the main culinary difference between stock and broth?",
+    "choices": [
+      "Stock is always dairy-based while broth is always alcoholic",
+      "Broth cannot contain vegetables while stock must",
+      "Stock is served frozen and broth is served dry",
+      "Stock is traditionally built around bones for gelatin and body, while broth may be more meat- or vegetable-forward"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Why does collagen-rich meat become tender during a long, moist cook?",
+    "choices": [
+      "Collagen gradually converts into gelatin",
+      "Muscle fibers turn into starch",
+      "Fat becomes gluten",
+      "Water removes all protein from the meat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a wet brine?",
+    "choices": [
+      "A sauce thickened with wet flour",
+      "A salt-containing liquid used to season and sometimes improve juiciness of food",
+      "A method of frying food in water",
+      "A stock reduced until no liquid remains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the danger zone in food safety commonly described as?",
+    "choices": [
+      "The temperature at which all food becomes sterile",
+      "The range where frozen food is safest",
+      "A temperature range where many bacteria can multiply rapidly",
+      "The internal temperature required for caramelization"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why is a calibrated thermometer more reliable than judging meat by color alone?",
+    "choices": [
+      "It removes pathogens from the food",
+      "It measures salt concentration exactly",
+      "It makes carryover cooking impossible",
+      "It measures internal temperature directly rather than relying on appearance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is sous vide?",
+    "choices": [
+      "Cooking food sealed in a bag in a precisely controlled water bath",
+      "Cooking food directly over a wood fire",
+      "Drying ingredients under vacuum without heat",
+      "Fermenting vegetables in an open pan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does a mandoline slicer do?",
+    "choices": [
+      "Whips cream with a rotating blade",
+      "Cuts thin, uniform slices or julienne when used carefully",
+      "Measures the pH of vegetables",
+      "Removes bones from fish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the culinary purpose of tempering chocolate?",
+    "choices": [
+      "Removing all cocoa solids",
+      "Making chocolate boil without burning",
+      "Controlling cocoa-butter crystals for a glossy finish and clean snap",
+      "Adding yeast to chocolate dough"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a pâte à choux dough unusual for?",
+    "choices": [
+      "It contains no water and is always fried",
+      "It relies only on yeast fermentation",
+      "It must be rolled into many paper-thin layers",
+      "It is cooked on the stovetop before eggs are incorporated and baked"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why does a soufflé rise in the oven?",
+    "choices": [
+      "Expanding air and steam trapped by a protein-stabilized foam push the batter upward",
+      "Yeast produces a large amount of gas after baking",
+      "Sugar crystallizes into a rigid shell",
+      "The dish's ceramic expands dramatically"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is retrogradation in cooked starch?",
+    "choices": [
+      "The browning of sugar at high heat",
+      "Reassociation of starch molecules during cooling or storage, which can change texture",
+      "The breakdown of collagen into gelatin",
+      "The separation of oil from an emulsion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why can bread become stale even when it has not dried completely?",
+    "choices": [
+      "Gluten turns into liquid water",
+      "Yeast becomes active after baking",
+      "Starch retrogradation changes the crumb structure and perception of firmness",
+      "Salt evaporates from the loaf"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does autolyse mean in bread making?",
+    "choices": [
+      "Boiling dough before shaping it",
+      "Freezing yeast to increase fermentation speed",
+      "Adding oil after baking",
+      "Resting flour and water before or alongside later ingredients to begin hydration and gluten development"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is baker's percentage?",
+    "choices": [
+      "Expressing each ingredient's weight as a percentage of the flour weight",
+      "The percentage of a loaf that is crust",
+      "The fraction of yeast that survives baking",
+      "A rating of a bakery's sales"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why must laminated pastry dough and butter stay at compatible consistencies?",
+    "choices": [
+      "So the dough cannot absorb any water",
+      "So the butter forms distinct layers rather than breaking through or smearing into the dough",
+      "So yeast is killed before proofing",
+      "So the pastry browns without heat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is an anglaise-style custard thickened primarily by?",
+    "choices": [
+      "A wheat-flour roux",
+      "Gelatin alone",
+      "Egg yolks coagulating gently in a dairy base",
+      "Whipped egg whites drying in an oven"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the difference between a stock's extraction and its reduction?",
+    "choices": [
+      "Extraction removes water while reduction adds it",
+      "They are two names for whisking eggs",
+      "Reduction always means freezing the stock",
+      "Extraction draws flavor and gelatin into liquid, while reduction removes water to concentrate it"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does water activity describe in food science?",
+    "choices": [
+      "How available water is for microbial growth and chemical reactions",
+      "The total volume of water in a recipe",
+      "The temperature at which water boils",
+      "The hardness of a cooking utensil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why can sugar lower the freezing point of a dessert mixture?",
+    "choices": [
+      "Sugar removes all water from the mixture",
+      "Dissolved sugar interferes with ice-crystal formation and lowers the solution's freezing point",
+      "Sugar raises the freezing point above boiling",
+      "Sugar converts fat into ice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is syneresis in a food mixture?",
+    "choices": [
+      "Air being incorporated into whipped cream",
+      "Sugar browning on a pan",
+      "Liquid separating from a gel or other structured system",
+      "Salt dissolving in water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Why can a starch-thickened sauce become thinner after prolonged vigorous boiling?",
+    "choices": [
+      "Boiling adds gluten to the sauce",
+      "Salt evaporates and removes viscosity",
+      "The pan absorbs all the starch",
+      "Heat and shear can break down the starch network"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the culinary distinction between a stock and a consommé?",
+    "choices": [
+      "A consommé is clarified to produce a clear, refined broth",
+      "A stock is always clear while consommé is always cloudy",
+      "Consommé is a dry spice rub",
+      "Stock contains no water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is clarification by raft in classical consommé making?",
+    "choices": [
+      "A raft of pastry seals a pot of stew",
+      "A protein-rich mixture captures suspended impurities as the liquid gently simmers",
+      "A layer of fat is whipped into foam",
+      "Bones are charred until they float"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the main difference between a French omelet and a browned diner-style omelet?",
+    "choices": [
+      "A French omelet contains no eggs",
+      "A diner omelet is always raw in the center",
+      "A French omelet is typically pale and softly set rather than browned on the outside",
+      "French omelets are made from potatoes instead of eggs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does enzymatic browning in cut fruit require besides susceptible plant tissue?",
+    "choices": [
+      "A yeast culture and boiling water",
+      "High pressure and melted fat",
+      "Gluten and baking powder",
+      "Exposure to oxygen and enzymes such as polyphenol oxidase"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why does acid help slow enzymatic browning in some fruits?",
+    "choices": [
+      "Lower pH can inhibit browning enzymes",
+      "Acid removes all oxygen from the fruit permanently",
+      "Acid converts enzymes into starch",
+      "Acid raises the fruit's surface temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does a critical control point mean in a food-safety plan?",
+    "choices": [
+      "A point where food must always be frozen",
+      "A step where control can prevent, eliminate, or reduce a significant hazard",
+      "The exact center of a cutting board",
+      "A flavor checkpoint chosen by a restaurant critic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the difference between pasteurization and sterilization?",
+    "choices": [
+      "Pasteurization always uses freezing while sterilization uses salt",
+      "Sterilization is gentler than pasteurization",
+      "Pasteurization reduces pathogens under controlled heating, while sterilization aims at far more complete microbial destruction",
+      "They differ only in the color of the package"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Why does a pressure cooker shorten the time needed to tenderize beans or braises?",
+    "choices": [
+      "Pressure removes all liquid from the pot",
+      "Pressure prevents collagen from changing",
+      "The cooker creates dry heat hotter than any oven",
+      "Higher pressure raises water temperature and speeds heat-driven softening"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why can induction cookware heat differently from a conventional burner?",
+    "choices": [
+      "An electromagnetic field induces currents in compatible cookware itself",
+      "Induction heats only the surrounding air",
+      "Induction uses steam instead of electricity",
+      "Induction prevents pans from conducting heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is confit traditionally characterized by?",
+    "choices": [
+      "Rapid boiling in plain water",
+      "Slow cooking food gently submerged in fat or preserved in a concentrated medium",
+      "Cooking food under intense broiler heat",
+      "Whipping a cold sauce with air"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the purpose of deglazing with an acidic liquid such as wine or vinegar?",
+    "choices": [
+      "It prevents any reduction from occurring",
+      "It removes all flavor compounds from the pan",
+      "It loosens fond while adding acidity and aroma to the pan sauce",
+      "It turns starch into gelatin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a water bath or bain-marie useful for in delicate cooking?",
+    "choices": [
+      "Creating direct flame contact with a custard",
+      "Drying pastry faster than an oven",
+      "Freezing a sauce while stirring",
+      "Providing gentle, even heat and limiting temperature swings"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the main structural role of pectin in fruit preserves?",
+    "choices": [
+      "It can form a gel network with the right sugar, acid, and water conditions",
+      "It supplies yeast for bread",
+      "It prevents all crystallization in sugar",
+      "It replaces the fruit's aromatic compounds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why is a small amount of acid often added when making caramel?",
+    "choices": [
+      "It makes sugar unable to brown",
+      "It can help invert sucrose and reduce unwanted crystallization",
+      "It replaces the need for heat",
+      "It converts caramel into gluten"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is the difference between soft and hard wheat flour in baking?",
+    "choices": [
+      "Soft wheat contains yeast while hard wheat contains baking powder",
+      "Hard wheat has no starch",
+      "Hard wheat generally has more protein and gluten-forming potential",
+      "Soft wheat cannot absorb water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is extensibility in dough?",
+    "choices": [
+      "Its ability to resist all deformation",
+      "The amount of sugar on the crust",
+      "The rate at which yeast dies",
+      "Its ability to stretch without tearing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is dough elasticity?",
+    "choices": [
+      "The tendency of dough to return toward its original shape after being stretched",
+      "The tendency of dough to dissolve in water",
+      "The amount of fat in a pastry",
+      "The ability of dough to caramelize before baking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why can an autolyse improve some wheat breads?",
+    "choices": [
+      "It sterilizes the dough and removes gluten",
+      "Flour hydrates and enzymes begin working before intensive mixing, often improving extensibility",
+      "It replaces fermentation entirely",
+      "It dries the flour so it cannot absorb more water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the purpose of docking pastry?",
+    "choices": [
+      "Adding a sugar glaze with a brush",
+      "Folding butter into dough",
+      "Pricking holes to help prevent bubbles or puffing in a pastry shell",
+      "Checking the oven's temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a laminating turn in pastry?",
+    "choices": [
+      "A rotation of a cake pan during baking",
+      "A method of emulsifying a sauce",
+      "A way to turn dough into a sponge",
+      "A planned fold-and-roll sequence that multiplies layers of dough and fat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why does resting a pie dough help before rolling?",
+    "choices": [
+      "Gluten can relax and the fat can firm, reducing shrinkage and tearing",
+      "Yeast produces all the leavening in a shortcrust",
+      "The dough loses all of its water",
+      "Resting caramelizes the flour"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the purpose of a pâte fermentée in bread making?",
+    "choices": [
+      "Adding raw pastry to a custard",
+      "Using a piece of previously fermented dough to contribute flavor and fermentation strength",
+      "A method of clarifying stock",
+      "A technique for removing gluten"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the difference between baking soda and ammonium bicarbonate in some cookies?",
+    "choices": [
+      "Ammonium bicarbonate is a yeast culture",
+      "Baking soda works only in chocolate",
+      "Ammonium bicarbonate can release ammonia effectively in low-moisture baked goods",
+      "They are identical names for salt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why can high-altitude baking require formula adjustments?",
+    "choices": [
+      "Altitude removes all gluten from flour",
+      "Ovens cannot produce heat at elevation",
+      "Sugar cannot dissolve above sea level",
+      "Lower atmospheric pressure changes evaporation, gas expansion, and boiling behavior"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the culinary meaning of nappe consistency?",
+    "choices": [
+      "A sauce thick enough to coat the back of a spoon",
+      "A sauce that has frozen solid",
+      "A stock with no gelatin",
+      "A pastry rolled into a nap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a beurre blanc?",
+    "choices": [
+      "A flour-thickened brown sauce",
+      "An emulsion of butter whisked into a reduced acidic liquid",
+      "A clarified butter infused with coffee",
+      "A cold mayonnaise made without oil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the main distinction between a vinaigrette and mayonnaise?",
+    "choices": [
+      "A vinaigrette always contains dairy while mayonnaise never contains oil",
+      "Mayonnaise is cooked by boiling while vinaigrette is baked",
+      "A vinaigrette is usually an oil-and-acid dressing, while mayonnaise is a stabilized oil-in-water emulsion",
+      "They are two names for clarified butter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the role of mustard in some vinaigrettes?",
+    "choices": [
+      "It supplies gluten for thickening",
+      "It prevents acid from dissolving",
+      "It converts oil into butter",
+      "Its compounds can help stabilize the oil-and-water emulsion while adding flavor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does tempering spices in hot fat do?",
+    "choices": [
+      "Blooms fat-soluble aromas and flavors before the fat is added to a dish",
+      "Freezes spices so they remain raw",
+      "Removes every volatile compound",
+      "Turns whole spices into grains"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is blooming gelatin?",
+    "choices": [
+      "Browning gelatin in a dry pan",
+      "Hydrating gelatin in cool liquid before dissolving it with heat",
+      "Whipping gelatin into a meringue",
+      "Fermenting gelatin with yeast"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the difference between gelatinization and gelation?",
+    "choices": [
+      "Gelatinization only happens to eggs, while gelation only happens to meat",
+      "They both mean caramelization",
+      "Gelatinization is starch swelling with heat and water, while gelation is network formation that sets a mixture",
+      "Gelation is the evaporation of all water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why does adding cold fat to a hot sauce gradually help form a stable finish?",
+    "choices": [
+      "Cold fat removes all water instantly",
+      "It causes the sauce to boil harder",
+      "It converts the sauce's starch into gluten",
+      "Small additions can disperse while the sauce's water phase stabilizes the emulsion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the purpose of a chinois when making a consommé?",
+    "choices": [
+      "To strain fine particles without disturbing the clarified liquid",
+      "To raise pressure around the stock",
+      "To whip the raft into the soup",
+      "To caramelize the broth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why are bones often roasted before making a brown stock?",
+    "choices": [
+      "Roasting removes all collagen from bones",
+      "Browning creates deeper roasted flavors and color before extraction",
+      "It makes the stock boil below room temperature",
+      "It prevents any gelatin from entering the liquid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the culinary meaning of fondant in a sugar context?",
+    "choices": [
+      "A potato always cooked in stock",
+      "A meat glaze made from gelatin",
+      "A sugar-based confection or icing made from controlled crystallization",
+      "A fermented flour starter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is the primary purpose of a chinois's conical shape in professional kitchens?",
+    "choices": [
+      "It causes liquids to freeze from the tip upward",
+      "It measures the volume of a sauce",
+      "It aerates stock more than a whisk",
+      "It concentrates solids toward the narrow end for efficient pressing or straining"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  }
+]

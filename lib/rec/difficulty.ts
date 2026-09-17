@@ -15,7 +15,14 @@ import { EMBEDDING_DIM, type Ability, type Embedding } from "../types";
 // automatic, principled replacement for a fixed learning rate.
 
 export const TARGET_P = 0.7; // aim to show questions the user gets right ~70%
-export const PRIOR_VARIANCE = 1.0; // σ₀² for a fresh user (max uncertainty)
+// σ₀² for a fresh user. High on purpose: with mean 0, a larger prior variance
+// pulls P(correct) harder toward 0.5, so to still hit the 0.70 target the
+// selector must pick EASIER questions — a new user is steered to difficulty
+// ≈0.2 (vs ≈0.32 at σ₀²=1). It also makes each early answer move ability a lot
+// (the ADF update is big when uncertain), so mastery converges fast and the
+// served difficulty climbs to normal as we learn the user. Mirrored in the SQL
+// prior (migration 0008); keep the two in sync.
+export const PRIOR_VARIANCE = 5.0;
 export const BETA = 1.0; // observation noise; larger = each answer moves less
 export const DIFFICULTY_LR = 0.02; // small: difficulty stabilizes across many users
 

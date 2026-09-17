@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which function best describes the German Enigma machine's normal wartime use?",
+    "choices": [
+      "Encryption",
+      "Aerial photography",
+      "Radio broadcasting",
+      "Radar ranging"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What was the Allied wartime name for intelligence obtained from reading German high-grade signals?",
+    "choices": [
+      "Magic",
+      "Ultra",
+      "Jade",
+      "Cobalt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Bletchley Park, the principal British codebreaking center, was in which English county?",
+    "choices": [
+      "Kent",
+      "Devon",
+      "Buckinghamshire",
+      "Norfolk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Alan Turing is most closely associated with wartime work in which field?",
+    "choices": [
+      "Tank design",
+      "Coastal artillery",
+      "Military medicine",
+      "Cryptanalysis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What did a British Bombe chiefly help operators do?",
+    "choices": [
+      "Test possible Enigma settings",
+      "Transmit weather reports",
+      "Photograph submarines",
+      "Repair radar antennas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which country made the first major mathematical reconstruction of the military Enigma before the war?",
+    "choices": [
+      "Canada",
+      "Poland",
+      "Norway",
+      "Italy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Marian Rejewski was a cryptanalyst from which country?",
+    "choices": [
+      "Belgium",
+      "Sweden",
+      "Poland",
+      "Greece"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "In an Enigma machine, what did the interchangeable rotors mainly alter?",
+    "choices": [
+      "The radio frequency",
+      "The paper size",
+      "The antenna height",
+      "The electrical substitution path"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What was the purpose of the Enigma plugboard at the front of the machine?",
+    "choices": [
+      "Swap pairs of letters",
+      "Store printed messages",
+      "Amplify radio signals",
+      "Measure rotor speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "The German Lorenz system was used primarily for messages sent by what kind of equipment?",
+    "choices": [
+      "Field telephone",
+      "Teleprinter",
+      "Semaphore flags",
+      "Optical rangefinder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What was Colossus built to assist with?",
+    "choices": [
+      "Breaking Japanese naval codebooks",
+      "Tracking Allied aircraft",
+      "Analysis of Lorenz teleprinter traffic",
+      "Decoding weather balloons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Tommy Flowers was the British engineer chiefly connected with which wartime machine?",
+    "choices": [
+      "Bombe",
+      "Purple",
+      "H2S radar",
+      "Colossus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "The Japanese Purple system protected much of what type of traffic?",
+    "choices": [
+      "Diplomatic messages",
+      "Tank-control messages",
+      "Merchant shipping manifests",
+      "Medical evacuation reports"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What did the American code name MAGIC refer to during World War II?",
+    "choices": [
+      "A program for weather forecasting",
+      "Intelligence from Japanese diplomatic and other communications",
+      "A radar-guided bomb",
+      "A system of camouflage paint"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "JN-25 was a Japanese system associated especially with which service?",
+    "choices": [
+      "Army medical corps",
+      "Diplomatic courier service",
+      "Navy",
+      "Railway police"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Station HYPO was a major Allied signals unit located in which place?",
+    "choices": [
+      "Ceylon",
+      "Alaska",
+      "Malta",
+      "Hawaii"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Joseph Rochefort is remembered chiefly for leading which kind of work in the Pacific?",
+    "choices": [
+      "U.S. Navy cryptanalysis",
+      "British radar production",
+      "Soviet tank intelligence",
+      "Australian coastal surveying"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What can traffic analysis often reveal even when a message's words remain unread?",
+    "choices": [
+      "The sender's handwriting",
+      "Patterns of communication activity",
+      "The exact fuel level of a vehicle",
+      "The cipher's inventor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is cryptanalysis primarily concerned with?",
+    "choices": [
+      "Designing aircraft engines",
+      "Mapping minefields",
+      "Recovering information from protected communications",
+      "Training radio announcers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "In communications security, what is plaintext?",
+    "choices": [
+      "A list of radio frequencies",
+      "A printed codebook cover",
+      "A signal with no antenna",
+      "The message before encipherment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What term describes readable information after it has been transformed by a cipher?",
+    "choices": [
+      "Ciphertext",
+      "Call sign",
+      "Intercept log",
+      "Frequency plan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the defining idea of a code, as distinct from a simple letter-substitution cipher?",
+    "choices": [
+      "It always uses four rotors",
+      "It can replace words or phrases with code groups",
+      "It requires a telephone line",
+      "It can only encode numbers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What property makes a correctly used one-time pad theoretically secure?",
+    "choices": [
+      "The key is printed in two colors",
+      "The message is sent twice",
+      "A truly random key is used only once",
+      "The cipher has a metal casing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What did a wartime interception station collect for later analysis?",
+    "choices": [
+      "Aircraft spare parts",
+      "Captured uniforms",
+      "Fuel samples",
+      "Enemy signals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "British Y Stations were chiefly involved in which activity?",
+    "choices": [
+      "Intercepting radio transmissions",
+      "Building codebreaking computers",
+      "Guarding royal residences",
+      "Printing ration books"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What did the initials GC&CS stand for in the British wartime intelligence system?",
+    "choices": [
+      "General Command and Coastal Signals",
+      "Government Code and Cypher School",
+      "Government Communications and Courier Service",
+      "Geographic Code and Cipher Section"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Bletchley Park section concentrated mainly on German Army and Air Force Enigma traffic?",
+    "choices": [
+      "Hut 8",
+      "Hut 4",
+      "Hut 6",
+      "Hut 11"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which Bletchley Park section became especially associated with German naval Enigma?",
+    "choices": [
+      "Hut 3",
+      "Hut 6",
+      "Hut 12",
+      "Hut 8"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In codebreaking, what is a crib?",
+    "choices": [
+      "A guessed or known piece of message text",
+      "A spare rotor",
+      "A radio operator's bunk",
+      "A type of antenna"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Why were repeated German message formulas useful to Allied cryptanalysts?",
+    "choices": [
+      "They increased radio power",
+      "They suggested likely plaintext for a crib",
+      "They changed the weather",
+      "They identified Allied ships"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What did an Enigma operator's daily key settings determine?",
+    "choices": [
+      "Which ships carried fuel",
+      "The length of a runway",
+      "How the machine transformed letters",
+      "The color of a signal flag"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Why did German naval messages present a special challenge to Bletchley Park?",
+    "choices": [
+      "They were always sent by courier",
+      "They used only English words",
+      "They were broadcast only at noon",
+      "Naval procedures and machine settings differed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What was one important strategic use of Ultra reporting?",
+    "choices": [
+      "Help commanders make operational decisions",
+      "Replace all aerial reconnaissance",
+      "Publish enemy messages publicly",
+      "Set civilian food prices"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why did the Allies restrict the distribution of decrypted reports?",
+    "choices": [
+      "To save paper only",
+      "To protect the source and method",
+      "To prevent weather warnings",
+      "To keep pilots from learning Morse code"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which kind of intelligence could help locate a transmitter without reading its message?",
+    "choices": [
+      "Codebook translation",
+      "Photo interpretation",
+      "Direction finding",
+      "Prisoner interrogation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does HF/DF equipment primarily help determine?",
+    "choices": [
+      "The content of a cipher",
+      "The altitude of a cloud",
+      "The weight of a codebook",
+      "The direction of a radio signal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which group was responsible for much U.S. Army communications intelligence before and during the war?",
+    "choices": [
+      "Signal Intelligence Service",
+      "Office of War Information",
+      "Army Air Forces Weather Bureau",
+      "Coast Guard Lifesaving Service"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "OP-20-G was associated with which American organization?",
+    "choices": [
+      "British Army air defense",
+      "U.S. Navy signals intelligence",
+      "Soviet naval logistics",
+      "French resistance printing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What did the Polish Cipher Bureau provide to the British and French in 1939?",
+    "choices": [
+      "A fleet of submarines",
+      "A radar network",
+      "Enigma knowledge and working replicas",
+      "Japanese codebooks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which type of Japanese communication did MAGIC most famously illuminate for U.S. leaders?",
+    "choices": [
+      "Submarine sonar returns",
+      "Airfield maintenance tickets",
+      "Civilian newspaper articles",
+      "Diplomatic traffic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What was the main danger of using a decrypted enemy report carelessly?",
+    "choices": [
+      "The enemy might infer the intelligence source",
+      "The message would become longer",
+      "The cipher would decode itself",
+      "The radio would stop transmitting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which operation used a carefully staged discovery to mislead Axis authorities about Allied plans?",
+    "choices": [
+      "Operation Neptune",
+      "Operation Mincemeat",
+      "Operation Torch",
+      "Operation Market Garden"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Operation Fortitude was intended chiefly to support what kind of Allied effort?",
+    "choices": [
+      "Breaking U-boat ciphers",
+      "Building radar sets",
+      "Deception before the Normandy landings",
+      "Evacuating codebreakers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What did the British Double-Cross system primarily exploit?",
+    "choices": [
+      "Captured Enigma rotors",
+      "American weather balloons",
+      "Soviet radio towers",
+      "Turned German agents"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "How could message volume itself provide intelligence?",
+    "choices": [
+      "A sudden increase could signal preparation or activity",
+      "It always revealed the exact battle plan",
+      "It identified the sender's rank",
+      "It made encryption unnecessary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What does radio discipline mean in a signals context?",
+    "choices": [
+      "Using only music on the radio",
+      "Following procedures that reduce an enemy's ability to exploit transmissions",
+      "Replacing radios with telephones",
+      "Sending every message twice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which famous 1942 naval battle benefited from advance warning derived partly from Japanese communications?",
+    "choices": [
+      "Leyte Gulf",
+      "Okinawa",
+      "Midway",
+      "Guadalcanal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was the principal advantage of combining cryptanalysis with other intelligence sources?",
+    "choices": [
+      "It made every report automatically true",
+      "It eliminated the need for analysts",
+      "It prevented all enemy deception",
+      "Independent clues could corroborate one another"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which phrase best describes signals intelligence, or SIGINT?",
+    "choices": [
+      "Intelligence derived from electronic communications and emissions",
+      "Intelligence gathered only from newspapers",
+      "Maps drawn by infantry patrols",
+      "Reports about food production"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What was a codebook used for in many World War II communications systems?",
+    "choices": [
+      "Generating electricity for radios",
+      "Assigning code groups to words or phrases",
+      "Training aircraft crews",
+      "Measuring ocean depth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "At the 1939 Pyry meeting, what did Polish cryptanalysts share with British and French counterparts?",
+    "choices": [
+      "A complete German naval fleet",
+      "A Japanese diplomatic codebook",
+      "Their Enigma reconstruction, replicas, and methods",
+      "The plans for Operation Overlord"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What did Marian Rejewski exploit mathematically in reconstructing the military Enigma?",
+    "choices": [
+      "The machine's radio antenna",
+      "The color of its keyboard",
+      "The weight of its batteries",
+      "Permutation relationships in intercepted indicators"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "The Polish bomba kryptologiczna was designed primarily to do what?",
+    "choices": [
+      "Search for Enigma daily settings",
+      "Translate German into Polish",
+      "Locate radio transmitters by sound",
+      "Print intelligence summaries"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What were Zygalski sheets used to identify?",
+    "choices": [
+      "Japanese naval ship names",
+      "Possible Enigma rotor-order and starting-position relationships",
+      "German aircraft silhouettes",
+      "Radio operator identities"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Gordon Welchman's major improvement to the British Bombe was what?",
+    "choices": [
+      "The paper tape reader",
+      "The naval reflector",
+      "The diagonal board",
+      "The frequency counter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why did Bombe searches rely on a crib rather than simply trying every imaginable message?",
+    "choices": [
+      "A crib increased the machine's voltage",
+      "A crib translated Morse automatically",
+      "A crib identified every radio operator",
+      "A crib supplied testable logical constraints"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Bletchley Park activity became known as the Newmanry?",
+    "choices": [
+      "Machine-assisted attack on Lorenz traffic",
+      "Manual translation of Italian newspapers",
+      "Analysis of Allied weather maps",
+      "Training of naval signalers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Max Newman led the section that developed methods for attacking which German system?",
+    "choices": [
+      "Japanese Purple traffic",
+      "Lorenz teleprinter traffic",
+      "British naval ciphers",
+      "Italian army field telephones"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What structural insight did Bill Tutte provide about the German Lorenz system?",
+    "choices": [
+      "He designed its paper tape",
+      "He operated every Colossus",
+      "He inferred its wheel arrangement from traffic patterns",
+      "He translated all captured messages"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The German Lorenz machine is often identified by which equipment designations?",
+    "choices": [
+      "M3 and M4",
+      "C36 and C38",
+      "Type 97 and Type 99",
+      "SZ40 and SZ42"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What made Lorenz traffic different from ordinary Enigma traffic in its transmission format?",
+    "choices": [
+      "It carried enciphered teleprinter characters on a five-bit code",
+      "It used only spoken messages",
+      "It was written exclusively in Japanese",
+      "It transmitted images rather than text"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What was Colossus Mark II's key operational advantage over the first Colossus?",
+    "choices": [
+      "It used Enigma rotors",
+      "It was faster and included improved programmable controls",
+      "It operated without punched tape",
+      "It was small enough to fit in a submarine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which engineer directed the construction of the Colossus machines at Dollis Hill?",
+    "choices": [
+      "Peter Twinn",
+      "Frank Rowlett",
+      "Tommy Flowers",
+      "John Tiltman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What did a Colossus operator load as the machine compared patterns in intercepted traffic?",
+    "choices": [
+      "Magnetic computer disks",
+      "Microfilm reels",
+      "Wax cylinders",
+      "Punched paper tape"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The German naval Enigma was strengthened in 1942 primarily by adding what?",
+    "choices": [
+      "A fourth rotor and related procedures",
+      "A second plugboard keyboard",
+      "An optical scanner",
+      "A telephone exchange"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What nickname did Allied analysts use for traffic enciphered on the four-rotor German naval Enigma?",
+    "choices": [
+      "Dolphin",
+      "Shark",
+      "Whale",
+      "Swordfish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which method helped Bletchley Park exploit regularities in German naval Enigma traffic?",
+    "choices": [
+      "Bacon's cipher",
+      "Playfair",
+      "Banburismus",
+      "Book cipher"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What did Banburismus help cryptanalysts reduce in naval Enigma work?",
+    "choices": [
+      "The length of every radio transmission",
+      "The size of a U-boat crew",
+      "The number of letters in German",
+      "The number of rotor-order possibilities to test"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Why could a German weather message sometimes aid Allied Enigma work?",
+    "choices": [
+      "Predictable content could provide a crib",
+      "Weather reports used no encryption",
+      "They were sent by Allied officers",
+      "They contained rotor diagrams"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What was the chief cryptographic weakness of reusing a message key or procedure carelessly?",
+    "choices": [
+      "It made the radio louder",
+      "It could create relationships that expose plaintext",
+      "It prevented all interception",
+      "It changed German grammar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The U.S. Army's Signal Intelligence Service was led in important early wartime work by which cryptanalyst?",
+    "choices": [
+      "Dilly Knox",
+      "Alastair Denniston",
+      "William F. Friedman",
+      "Marian Rejewski"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Frank Rowlett played a leading role in the American attack on which Japanese diplomatic machine?",
+    "choices": [
+      "Enigma",
+      "Lorenz",
+      "JN-25",
+      "Purple"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What switching technology did the American Purple machine use in its cryptographic design?",
+    "choices": [
+      "Telephone stepping switches",
+      "Enigma-style mechanical rotors",
+      "Optical prisms",
+      "Magnetic tape loops"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Why was Purple difficult to attack using an Enigma Bombe directly?",
+    "choices": [
+      "It transmitted only photographs",
+      "Its mechanism was based on a different electrical design",
+      "It had no changing key",
+      "It was operated by submarines"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What was a distinctive feature of JN-25 as used by the Japanese Navy?",
+    "choices": [
+      "A four-rotor keyboard machine",
+      "A one-time pad printed on metal",
+      "A codebook combined with additive sequences",
+      "A voice-scrambling telephone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why could progress against JN-25 vary when the Japanese changed its edition or additives?",
+    "choices": [
+      "The radio waves stopped crossing the Pacific",
+      "The messages became written in German",
+      "The codebook became a rotor machine",
+      "The change altered the code groups or masking material analysts needed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Station CAST was an important U.S. Navy signals unit associated with which location?",
+    "choices": [
+      "The Philippines",
+      "Iceland",
+      "Gibraltar",
+      "New Zealand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "FRUMEL, a major Allied signals organization, operated in which Australian city?",
+    "choices": [
+      "Darwin",
+      "Melbourne",
+      "Perth",
+      "Brisbane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What did U.S. Navy analysts at Station HYPO correctly infer about the target designated AF in 1942?",
+    "choices": [
+      "It was Guadalcanal",
+      "It was Pearl Harbor",
+      "It was Midway",
+      "It was the Aleutians"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How did the famous plain-language water-shortage message support the identification of AF?",
+    "choices": [
+      "It revealed the full Japanese invasion timetable",
+      "It disclosed the American fleet's position",
+      "It decoded Purple automatically",
+      "It linked an observed Midway condition to the Japanese designation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What was the principal analytical value of Japanese call-sign changes?",
+    "choices": [
+      "They could help identify units and command relationships",
+      "They revealed the exact cipher alphabet",
+      "They prevented radio interception",
+      "They gave every ship a new engine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does a communications order of battle attempt to map?",
+    "choices": [
+      "The order of soldiers in a parade",
+      "Networks, stations, units, and their relationships",
+      "The sequence of cipher letters",
+      "The cargo inside every ship"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why was an enemy radio operator's change in procedure potentially informative?",
+    "choices": [
+      "It always exposed the complete plaintext",
+      "It meant the transmitter was destroyed",
+      "It could indicate a new unit, command, or security measure",
+      "It proved the operator had defected"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What was a major limitation of World War II communications intelligence?",
+    "choices": [
+      "Every cipher was broken instantly",
+      "Radio traffic never changed",
+      "Analysts had no need for context",
+      "Reports could be incomplete, delayed, or deceptive"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "How did the Allies generally use Ultra without openly revealing they had read a message?",
+    "choices": [
+      "They sought plausible independent cover for resulting actions",
+      "They printed the decrypt in newspapers",
+      "They told every German unit the source",
+      "They stopped all reconnaissance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which German naval intelligence service was known for reading some Allied naval traffic?",
+    "choices": [
+      "Abwehr II",
+      "B-Dienst",
+      "Forschungsamt",
+      "Sicherheitsdienst"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What did the German term Funkaufklärung broadly denote?",
+    "choices": [
+      "Armored vehicle maintenance",
+      "Naval gunnery training",
+      "Radio intelligence and signal interception",
+      "Coded diplomatic pouches"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which British official headed GC&CS during the early part of World War II?",
+    "choices": [
+      "Stewart Menzies",
+      "John Masterman",
+      "Andrew Rutherford",
+      "Alastair Denniston"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Dilly Knox was especially influential in British attacks on which class of systems?",
+    "choices": [
+      "Electromechanical cipher machines",
+      "Coastal radar displays",
+      "Aircraft engine governors",
+      "Submarine periscopes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Banburismus, what did a 'ban' represent?",
+    "choices": [
+      "A naval blockade order",
+      "A measure of evidence favoring a rotor-order hypothesis",
+      "A punched-tape repair mark",
+      "A category of German radio station"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What was the purpose of a bombe stop in an Enigma search?",
+    "choices": [
+      "The end of the war in a theater",
+      "A command to halt all intercepts",
+      "A candidate setting worth checking by further tests",
+      "A replacement for a crib"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why did a valid Bombe stop still require checking on another machine or by an operator?",
+    "choices": [
+      "The Bombe never used electrical circuits",
+      "The answer was always in plain text",
+      "The stop only identified a radio frequency",
+      "Some stops were false and needed confirmation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What was the main role of the British Testery?",
+    "choices": [
+      "Manual cryptanalysis of Lorenz traffic",
+      "Testing aircraft armor",
+      "Inspecting captured submarines",
+      "Translating Japanese newspapers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Bletchley figure was strongly associated with manual work on the Lorenz system before machine processing?",
+    "choices": [
+      "Joan Clarke",
+      "John Tiltman",
+      "Gordon Welchman",
+      "Frank Birch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What did a depth in cryptanalysis usually mean?",
+    "choices": [
+      "A transmitter was underwater",
+      "A codebook had many pages",
+      "Two messages used the same key material or setting in a way that permits comparison",
+      "A signal traveled at low altitude"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Why were two messages sent with reused one-time-pad material especially dangerous?",
+    "choices": [
+      "It doubles the radio frequency",
+      "It hides all repeated letters",
+      "It makes the pad more random",
+      "Combining their ciphertexts can cancel the repeated key"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What information could a traffic analyst derive from an intercepted call sign over time?",
+    "choices": [
+      "A likely association between an identifier and a unit",
+      "The operator's exact home address",
+      "The plaintext of every message",
+      "The machine's internal wiring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does cryptographic key compromise mean?",
+    "choices": [
+      "A radio battery runs out",
+      "An unauthorized party obtains material that enables decryption",
+      "A codebook is translated into Morse",
+      "An operator changes call signs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why did the capture of U-boat code material sometimes have unusually high value?",
+    "choices": [
+      "It permanently broke every German cipher",
+      "It revealed Allied plans directly",
+      "It could provide time-limited access to current naval traffic",
+      "It replaced the need for radio intercepts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What was a key intelligence effect of reading German U-boat traffic in the Atlantic?",
+    "choices": [
+      "It guaranteed that no ship would be sunk",
+      "It disclosed Soviet army movements",
+      "It replaced sonar aboard escorts",
+      "It could help route convoys and direct anti-submarine forces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  }
+]

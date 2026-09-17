@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who wrote the Sherlock Holmes canon?",
+    "choices": [
+      "Arthur Conan Doyle",
+      "Wilkie Collins",
+      "Robert Louis Stevenson",
+      "H. G. Wells"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is Dr. Watson's first name?",
+    "choices": [
+      "James",
+      "John",
+      "Joseph",
+      "Jonathan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What London address is Holmes's best-known residence?",
+    "choices": [
+      "17 Fleet Street",
+      "12 Pall Mall",
+      "221B Baker Street",
+      "3 Savile Row"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which profession does Dr. Watson practice?",
+    "choices": [
+      "Law",
+      "Journalism",
+      "Engineering",
+      "Medicine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In the stories, who usually records Holmes's cases?",
+    "choices": [
+      "Dr. Watson",
+      "Inspector Lestrade",
+      "Mycroft Holmes",
+      "Mrs. Hudson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which institution employs Inspector Lestrade?",
+    "choices": [
+      "The Metropolitan Museum",
+      "Scotland Yard",
+      "The Admiralty",
+      "The Foreign Office"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is Mrs. Hudson's role at Baker Street?",
+    "choices": [
+      "Housekeeper's assistant",
+      "Book publisher",
+      "Landlady",
+      "Police clerk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which relative is Holmes's highly analytical elder brother?",
+    "choices": [
+      "Sherrinford Holmes",
+      "Sigerson Holmes",
+      "James Holmes",
+      "Mycroft Holmes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is Holmes's most characteristic investigative strength?",
+    "choices": [
+      "Observation and deduction",
+      "Forensic chemistry alone",
+      "Physical strength",
+      "Courtroom advocacy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which story centers on a mysterious snake called the speckled band?",
+    "choices": [
+      "The Adventure of the Yellow Face",
+      "The Adventure of the Speckled Band",
+      "The Adventure of the Copper Beeches",
+      "The Adventure of the Crooked Man"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "In which story does Holmes decipher a series of dancing stick figures?",
+    "choices": [
+      "The Adventure of the Bruce-Partington Plans",
+      "The Adventure of the Five Orange Pips",
+      "The Adventure of the Dancing Men",
+      "The Adventure of the Red Circle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What kind of animal carries the Blue Carbuncle in the relevant case?",
+    "choices": [
+      "A pheasant",
+      "A duck",
+      "A turkey",
+      "A goose"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who owns the racehorse Silver Blaze?",
+    "choices": [
+      "Colonel Ross",
+      "Sir Henry Baskerville",
+      "Lord Robert St. Simon",
+      "Alexander Holder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which story features the Red-Headed League?",
+    "choices": [
+      "The Adventure of the Three Garridebs",
+      "The Adventure of the Red-Headed League",
+      "The Adventure of the Golden Pince-Nez",
+      "The Adventure of the Stockbroker's Clerk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who is the disguised criminal revealed in The Red-Headed League?",
+    "choices": [
+      "James Windibank",
+      "Charles Augustus Milverton",
+      "John Clay",
+      "Jonathan Small"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the title of the Holmes story in which a blackmailer is named Charles Augustus Milverton?",
+    "choices": [
+      "The Adventure of the Illustrious Client",
+      "The Adventure of the Second Stain",
+      "The Adventure of the Six Napoleons",
+      "The Adventure of Charles Augustus Milverton"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which royal visitor asks Holmes to recover a compromising photograph in A Scandal in Bohemia?",
+    "choices": [
+      "The King of Bohemia",
+      "The Crown Prince of Norway",
+      "The Duke of Holdernesse",
+      "The King of Scandinavia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is Irene Adler's profession in A Scandal in Bohemia?",
+    "choices": [
+      "Actress",
+      "Opera singer",
+      "Journalist",
+      "Pianist"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Holmes story begins with a supposedly supernatural family legend on Dartmoor?",
+    "choices": [
+      "The Adventure of the Devil's Foot",
+      "The Adventure of the Sussex Vampire",
+      "The Hound of the Baskervilles",
+      "The Adventure of the Creeping Man"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the first Holmes novel published by Conan Doyle?",
+    "choices": [
+      "The Sign of the Four",
+      "The Hound of the Baskervilles",
+      "The Valley of Fear",
+      "A Study in Scarlet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Holmes novel follows A Study in Scarlet in publication order?",
+    "choices": [
+      "The Sign of the Four",
+      "The Valley of Fear",
+      "The Hound of the Baskervilles",
+      "The Case-Book of Sherlock Holmes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which periodical published most of the later Holmes short stories?",
+    "choices": [
+      "Blackwood's Magazine",
+      "The Strand Magazine",
+      "The Cornhill Magazine",
+      "The Illustrated London News"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the title of Holmes's first published case?",
+    "choices": [
+      "The Gloria Scott",
+      "The Adventure of the Empty House",
+      "A Study in Scarlet",
+      "The Speckled Band"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which story explains how Holmes first became acquainted with Victor Trevor?",
+    "choices": [
+      "The Musgrave Ritual",
+      "The Reigate Puzzle",
+      "The Naval Treaty",
+      "The Gloria Scott"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What object links the murders in The Adventure of the Six Napoleons?",
+    "choices": [
+      "Plaster busts of Napoleon",
+      "Porcelain medals",
+      "Marble statues of Caesar",
+      "Bronze busts of Wellington"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which story sends Holmes and Watson to investigate a hydraulic press?",
+    "choices": [
+      "The Adventure of the Stockbroker's Clerk",
+      "The Adventure of the Engineer's Thumb",
+      "The Adventure of the Solitary Cyclist",
+      "The Adventure of the Resident Patient"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Who hires Holmes as a governess in The Adventure of the Copper Beeches?",
+    "choices": [
+      "Mary Sutherland",
+      "Violet Smith",
+      "Violet Hunter",
+      "Kitty Winter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which story's central victim is Colonel James Barclay?",
+    "choices": [
+      "The Adventure of the Abbey Grange",
+      "The Adventure of Black Peter",
+      "The Adventure of the Cardboard Box",
+      "The Adventure of the Crooked Man"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is the name of the suspect's son in The Boscombe Valley Mystery?",
+    "choices": [
+      "James McCarthy",
+      "John Turner",
+      "Victor Trevor",
+      "Percy Phelps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In The Noble Bachelor, who disappears on the wedding day?",
+    "choices": [
+      "Mary Morstan",
+      "Hatty Doran",
+      "Irene Adler",
+      "Violet Hunter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which story concerns the theft of a British submarine document?",
+    "choices": [
+      "The Adventure of the Naval Treaty",
+      "The Adventure of the Second Stain",
+      "The Adventure of the Bruce-Partington Plans",
+      "The Adventure of the Six Napoleons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is the name of the young diplomat whose paper is stolen in The Naval Treaty?",
+    "choices": [
+      "Arthur Cadogan West",
+      "John Openshaw",
+      "Hilton Soames",
+      "Percy Phelps"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which story features a collection of unusual ritual instructions discovered at Hurlstone?",
+    "choices": [
+      "The Musgrave Ritual",
+      "The Gloria Scott",
+      "The Priory School",
+      "The Abbey Grange"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is the name of the servant who disappears in The Musgrave Ritual?",
+    "choices": [
+      "Bannister",
+      "Brunton",
+      "Cunningham",
+      "Stapleton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which case involves five orange pips sent as a threatening warning?",
+    "choices": [
+      "The Adventure of the Red Circle",
+      "The Adventure of the Yellow Face",
+      "The Adventure of the Five Orange Pips",
+      "The Adventure of the Cardboard Box"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Five Orange Pips primarily concerns which secret organization?",
+    "choices": [
+      "The Carbonari",
+      "The Black Hand",
+      "The Fenian Brotherhood",
+      "The Ku Klux Klan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which story marks Holmes's dramatic return after his presumed death at Reichenbach Falls?",
+    "choices": [
+      "The Adventure of the Empty House",
+      "The Adventure of the Second Stain",
+      "The Adventure of the Three Garridebs",
+      "The Adventure of the Veiled Lodger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which waterfall is associated with Holmes's struggle with Professor Moriarty?",
+    "choices": [
+      "Aysgarth Falls",
+      "Reichenbach Falls",
+      "High Force",
+      "Lodore Falls"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who is the principal adversary in The Valley of Fear?",
+    "choices": [
+      "Colonel Sebastian Moran",
+      "Charles Augustus Milverton",
+      "Professor Moriarty",
+      "Baron Gruner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which story includes the line of inquiry known as the 'three-pipe problem'?",
+    "choices": [
+      "The Musgrave Ritual",
+      "The Priory School",
+      "The Crooked Man",
+      "The Red-Headed League"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does Holmes frequently use to disguise himself while investigating?",
+    "choices": [
+      "Makeup and costumes",
+      "A police uniform only",
+      "A false legal identity only",
+      "A mechanical recording device"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Holmes collection was the first to gather twelve of the detective's short cases?",
+    "choices": [
+      "The Memoirs of Sherlock Holmes",
+      "The Adventures of Sherlock Holmes",
+      "The Return of Sherlock Holmes",
+      "His Last Bow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which collection followed The Adventures of Sherlock Holmes?",
+    "choices": [
+      "The Case-Book of Sherlock Holmes",
+      "The Valley of Fear",
+      "The Memoirs of Sherlock Holmes",
+      "His Last Bow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "How many short stories, alongside four novels, are generally counted in the Holmes canon?",
+    "choices": [
+      "Forty-eight",
+      "Sixty-four",
+      "Seventy-two",
+      "Fifty-six"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which of these is one of the four Holmes novels?",
+    "choices": [
+      "The Valley of Fear",
+      "The Adventure of the Empty House",
+      "The Adventure of the Priory School",
+      "The Adventure of the Red Circle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which story is told largely as a document written by Holmes rather than by Watson?",
+    "choices": [
+      "The Adventure of the Abbey Grange",
+      "The Adventure of the Blanched Soldier",
+      "The Adventure of the Naval Treaty",
+      "The Adventure of the Red-Headed League"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who narrates The Adventure of the Blanched Soldier?",
+    "choices": [
+      "James M. Dodd",
+      "Dr. Watson",
+      "Sherlock Holmes",
+      "Percy Phelps"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which late story is narrated by Holmes while he is living at a Sussex retreat?",
+    "choices": [
+      "The Adventure of the Mazarin Stone",
+      "The Adventure of the Veiled Lodger",
+      "The Adventure of the Creeping Man",
+      "The Adventure of the Lion's Mane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which canonical story is notable for using third-person narration rather than Watson's first person?",
+    "choices": [
+      "The Adventure of the Mazarin Stone",
+      "The Adventure of the Three Students",
+      "The Adventure of the Solitary Cyclist",
+      "The Adventure of the Cardboard Box"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "In The Adventure of the Three Students, what has been compromised?",
+    "choices": [
+      "A diplomatic treaty",
+      "An examination paper",
+      "A horse race",
+      "A bank ledger"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who is the university lecturer who calls Holmes in The Adventure of the Three Students?",
+    "choices": [
+      "Percy Phelps",
+      "Victor Trevor",
+      "Hilton Soames",
+      "John Openshaw"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which suspect in The Three Students is the athlete and scholar who ultimately explains the crucial marks?",
+    "choices": [
+      "Bannister",
+      "Daulat Ras",
+      "Soames",
+      "Gilchrist"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What sport is central to the disappearance in The Adventure of the Missing Three-Quarter?",
+    "choices": [
+      "Rugby",
+      "Cricket",
+      "Rowing",
+      "Association football"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who is the missing player in The Adventure of the Missing Three-Quarter?",
+    "choices": [
+      "Cyril Overton",
+      "Godfrey Staunton",
+      "Arthur Cadogan West",
+      "John Garrideb"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which nobleman's son is abducted in The Adventure of the Priory School?",
+    "choices": [
+      "Lord Robert St. Simon",
+      "Lord Bellinger",
+      "Lord Saltire",
+      "Lord Holdhurst"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is Heidegger's role in The Adventure of the Priory School?",
+    "choices": [
+      "Duke's physician",
+      "Local police inspector",
+      "Head groom",
+      "German master at the school"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What weapon kills Peter Carey in The Adventure of Black Peter?",
+    "choices": [
+      "A harpoon",
+      "A stiletto",
+      "A service revolver",
+      "A hunting knife"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What was Peter Carey before his death in The Adventure of Black Peter?",
+    "choices": [
+      "A retired judge",
+      "A whaling captain",
+      "A shipyard owner",
+      "A naval surgeon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who is the victim in The Adventure of the Golden Pince-Nez?",
+    "choices": [
+      "Professor Coram",
+      "Stanley Hopkins",
+      "Willoughby Smith",
+      "Dr. Watson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What field does Professor Coram study in The Golden Pince-Nez?",
+    "choices": [
+      "Astronomy",
+      "Egyptology",
+      "Medieval law",
+      "Russian literature"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which woman is at the center of The Adventure of the Solitary Cyclist?",
+    "choices": [
+      "Violet Smith",
+      "Violet Hunter",
+      "Mary Sutherland",
+      "Kitty Winter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is unusual about the narrator's knowledge in The Adventure of the Yellow Face?",
+    "choices": [
+      "Watson is the suspect",
+      "Holmes's deduction is wrong",
+      "The client is a police officer",
+      "The case is solved before Holmes arrives"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is Grant Munro's relationship to Lucy in The Yellow Face?",
+    "choices": [
+      "He is her brother",
+      "He is her uncle",
+      "He is her stepfather",
+      "He is her teacher"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which story features the Greek interpreter Mycroft as a central participant?",
+    "choices": [
+      "The Adventure of the Bruce-Partington Plans",
+      "The Adventure of the Three Garridebs",
+      "The Adventure of the Second Stain",
+      "The Adventure of the Greek Interpreter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What kind of linguistic work does Mr. Melas perform for clients in a Holmes story?",
+    "choices": [
+      "Interpreter",
+      "Barrister",
+      "Medical student",
+      "Customs officer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who is the murdered secretary in The Adventure of the Bruce-Partington Plans?",
+    "choices": [
+      "Percy Phelps",
+      "Arthur Cadogan West",
+      "Stanley Hopkins",
+      "Hall Pycroft"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What kind of material is stolen in The Adventure of the Second Stain?",
+    "choices": [
+      "A naval blueprint",
+      "A royal photograph",
+      "A diplomatic letter",
+      "A coded will"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which two statesmen seek Holmes's help in The Second Stain?",
+    "choices": [
+      "Lord Holdhurst and Percy Phelps",
+      "The King of Bohemia and Lord St. Simon",
+      "The Duke of Holdernesse and Sir Henry Baskerville",
+      "Lord Bellinger and Trelawney Hope"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is the central deception in The Adventure of the Stockbroker's Clerk?",
+    "choices": [
+      "A fake job offer lures Hall Pycroft",
+      "A forged will changes an inheritance",
+      "A horse is replaced before a race",
+      "A doctor invents a fatal illness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which client is targeted by Baron Adelbert Gruner in The Adventure of the Illustrious Client?",
+    "choices": [
+      "Hatty Doran",
+      "Violet de Merville",
+      "Mary Morstan",
+      "Agatha Wright"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is Baron Gruner's notorious private hobby in The Illustrious Client?",
+    "choices": [
+      "Collecting forged passports",
+      "Breeding racehorses",
+      "Collecting records of his former lovers",
+      "Writing political pamphlets"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What scientific experiment causes Professor Presbury's strange behavior in The Creeping Man?",
+    "choices": [
+      "A hypnotic sound experiment",
+      "A poisonous botanical extract",
+      "An electrical brain transplant",
+      "A rejuvenation treatment involving a langur serum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What racehorse is central to The Adventure of Shoscombe Old Place?",
+    "choices": [
+      "Shoscombe Prince",
+      "Silver Blaze",
+      "The Black Fox",
+      "Basilisk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What creature fatally stings Fitzroy McPherson in The Lion's Mane?",
+    "choices": [
+      "A sea snake",
+      "A Portuguese man-of-war",
+      "A moray eel",
+      "A blue-ringed octopus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which story is set around a dangerous case of alleged vampirism in Sussex?",
+    "choices": [
+      "The Adventure of the Devil's Foot",
+      "The Adventure of the Creeping Man",
+      "The Adventure of the Sussex Vampire",
+      "The Adventure of the Veiled Lodger"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who is the apparent vampire's husband in The Sussex Vampire?",
+    "choices": [
+      "James Barclay",
+      "Grant Munro",
+      "Josiah Amberley",
+      "Robert Ferguson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who is the murdered woman in The Adventure of the Thor Bridge?",
+    "choices": [
+      "Maria Gibson",
+      "Brenda Tregennis",
+      "Mary Fraser",
+      "Lady Frances Carfax"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the unusual physical setting of the death in The Thor Bridge?",
+    "choices": [
+      "A locked conservatory",
+      "A bridge over a ravine",
+      "A railway carriage",
+      "A boathouse on a lake"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which case has Holmes fake a deadly illness to expose Culverton Smith?",
+    "choices": [
+      "The Adventure of the Devil's Foot",
+      "The Adventure of the Retired Colourman",
+      "The Adventure of the Dying Detective",
+      "The Adventure of the Three Garridebs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What poison is associated with Holmes's investigation in The Adventure of the Devil's Foot?",
+    "choices": [
+      "A Himalayan mushroom",
+      "A Persian opiate",
+      "A South American snake venom",
+      "A West African root toxin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who is the circus strongman connected with The Adventure of the Veiled Lodger?",
+    "choices": [
+      "Leonardo",
+      "Ronder",
+      "Steve Dixie",
+      "Josiah Amberley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which character does Holmes question with Inspector Lestrade in The Adventure of the Three Gables?",
+    "choices": [
+      "John Clay",
+      "Steve Dixie",
+      "James Winter",
+      "Baron Gruner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is Mrs. Maberley's problem in The Three Gables?",
+    "choices": [
+      "Her son has vanished at sea",
+      "Her jewels have been replaced",
+      "Her house is being coercively purchased",
+      "Her manuscript has been stolen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Holmes story revolves around an eccentric man named Josiah Amberley?",
+    "choices": [
+      "The Adventure of the Cardboard Box",
+      "The Adventure of the Missing Three-Quarter",
+      "The Adventure of the Crooked Man",
+      "The Adventure of the Retired Colourman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What trade does Josiah Amberley claim in The Retired Colourman?",
+    "choices": [
+      "Colourman and art-supply dealer",
+      "Antique bookseller",
+      "Horse dealer",
+      "Retired shipbuilder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which story involves two severed ears sent through the post?",
+    "choices": [
+      "The Adventure of the Five Orange Pips",
+      "The Adventure of the Cardboard Box",
+      "The Adventure of the Yellow Face",
+      "The Adventure of Black Peter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In The Cardboard Box, what relationship links Susan Cushing to the dead woman?",
+    "choices": [
+      "They are cousins",
+      "They are mother and daughter",
+      "They are sisters",
+      "They are former employer and servant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which story centers on a kidnapped man named Nathan Garrideb?",
+    "choices": [
+      "The Adventure of the Missing Three-Quarter",
+      "The Adventure of the Stockbroker's Clerk",
+      "The Adventure of the Golden Pince-Nez",
+      "The Adventure of the Three Garridebs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is Nathan Garrideb especially known for collecting?",
+    "choices": [
+      "Antiquarian objects and books",
+      "Military medals",
+      "Rare orchids",
+      "Foreign stamps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which story's criminal uses a false identity as John Garrideb?",
+    "choices": [
+      "The Adventure of the Red-Headed League",
+      "The Adventure of the Three Garridebs",
+      "The Adventure of the Second Stain",
+      "The Adventure of the Six Napoleons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the real name of the villain in The Adventure of the Three Garridebs?",
+    "choices": [
+      "John Clay",
+      "James Windibank",
+      "James Winter",
+      "Joseph Harrison"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which story's title refers to Holmes's final secret mission against a German agent?",
+    "choices": [
+      "The Adventure of the Empty House",
+      "The Adventure of the Mazarin Stone",
+      "The Adventure of the Lion's Mane",
+      "His Last Bow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What alias does Holmes use while infiltrating von Bork's household in His Last Bow?",
+    "choices": [
+      "Altamont",
+      "Sigerson",
+      "Captain Basil",
+      "Dr. Hill Barton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which collection is the final major Doyle collection of Holmes short stories?",
+    "choices": [
+      "His Last Bow",
+      "The Case-Book of Sherlock Holmes",
+      "The Return of Sherlock Holmes",
+      "The Memoirs of Sherlock Holmes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which case-book story features a young woman named Kitty Winter seeking revenge on a baron?",
+    "choices": [
+      "The Adventure of the Veiled Lodger",
+      "The Adventure of the Three Gables",
+      "The Adventure of the Illustrious Client",
+      "The Adventure of the Creeping Man"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In which case does Holmes admit that his conclusion was wrong and tell Watson to learn from it?",
+    "choices": [
+      "The Adventure of the Second Stain",
+      "The Adventure of the Blanched Soldier",
+      "The Adventure of the Sussex Vampire",
+      "The Adventure of the Yellow Face"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which story is the canon's first short story to feature Irene Adler?",
+    "choices": [
+      "A Scandal in Bohemia",
+      "The Adventure of the Noble Bachelor",
+      "The Adventure of the Second Stain",
+      "The Adventure of the Greek Interpreter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which story introduces Holmes's brother Mycroft as a member of the Diogenes Club?",
+    "choices": [
+      "The Adventure of the Bruce-Partington Plans",
+      "The Adventure of the Greek Interpreter",
+      "The Adventure of the Empty House",
+      "The Adventure of the Second Stain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the name of the house in which the Musgrave family case takes place?",
+    "choices": [
+      "Birlstone",
+      "Shoscombe",
+      "Hurlstone",
+      "Holdernesse Hall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which collection contains The Adventure of the Three Students?",
+    "choices": [
+      "The Adventures of Sherlock Holmes",
+      "The Memoirs of Sherlock Holmes",
+      "The Case-Book of Sherlock Holmes",
+      "The Return of Sherlock Holmes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  }
+]

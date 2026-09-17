@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a vessel's bow?",
+    "choices": [
+      "Front",
+      "Rear",
+      "Left side",
+      "Right side"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is a vessel's stern?",
+    "choices": [
+      "Keel",
+      "Rear",
+      "Mast",
+      "Bow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which part runs lengthwise along a boat's bottom?",
+    "choices": [
+      "Gunwale",
+      "Transom",
+      "Keel",
+      "Boom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is a boat's side called?",
+    "choices": [
+      "Hull",
+      "Mast",
+      "Beam",
+      "Deck"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which sail is commonly set forward of the mast?",
+    "choices": [
+      "Jib",
+      "Mainsail",
+      "Mizzen",
+      "Spinnaker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What does a boom support?",
+    "choices": [
+      "The anchor chain",
+      "The mainsail's foot",
+      "The rudder blade",
+      "The masthead light"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "A vessel's beam is its greatest what?",
+    "choices": [
+      "Draft",
+      "Length",
+      "Width",
+      "Height"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the rudder primarily used to control?",
+    "choices": [
+      "Speed",
+      "Wind strength",
+      "Displacement",
+      "Direction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which line raises or lowers a sail?",
+    "choices": [
+      "Halyard",
+      "Sheet",
+      "Painter",
+      "Lanyard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "A sheet controls a sail's what?",
+    "choices": [
+      "Height",
+      "Angle",
+      "Color",
+      "Weight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a triangular fore-and-aft sail called?",
+    "choices": [
+      "Square sail",
+      "Gaff sail",
+      "Lateen sail",
+      "Lug sail"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which sail has four sides and hangs from a yard?",
+    "choices": [
+      "Jib",
+      "Bermuda sail",
+      "Storm trysail",
+      "Square sail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does a spinnaker usually provide?",
+    "choices": [
+      "Downwind drive",
+      "Upwind drive",
+      "Extra ballast",
+      "Engine cooling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the mast's main structural role?",
+    "choices": [
+      "Store provisions",
+      "Carry sails and rigging",
+      "Steer the hull",
+      "Measure depth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which side is port when facing forward?",
+    "choices": [
+      "Right",
+      "Upper",
+      "Left",
+      "Lower"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which side is starboard when facing forward?",
+    "choices": [
+      "Left",
+      "Aft",
+      "Windward",
+      "Right"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a boat's draft?",
+    "choices": [
+      "Depth below waterline",
+      "Mast height",
+      "Rudder angle",
+      "Deck width"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which fitting redirects a line?",
+    "choices": [
+      "Keelson",
+      "Fairlead",
+      "Bulkhead",
+      "Davit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is a cleat used for?",
+    "choices": [
+      "Cutting rope",
+      "Reading charts",
+      "Holding a line",
+      "Sealing a hatch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a bilge pump remove?",
+    "choices": [
+      "Wind",
+      "Salt from sails",
+      "Anchor mud",
+      "Bilge water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A bulkhead is a vessel's what?",
+    "choices": [
+      "Internal partition",
+      "Outer rail",
+      "Sail corner",
+      "Propeller blade"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the gunwale?",
+    "choices": [
+      "Bottom of a keel",
+      "Top edge of a hull",
+      "Center of a sail",
+      "Tip of an anchor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which anchor part flukes into the seabed?",
+    "choices": [
+      "Shank",
+      "Crown",
+      "Flukes",
+      "Stock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a nautical chart?",
+    "choices": [
+      "A weather diary",
+      "A rope plan",
+      "A cargo receipt",
+      "A sea map"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What instrument indicates magnetic direction?",
+    "choices": [
+      "Compass",
+      "Barometer",
+      "Log",
+      "Sextant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Latitude measures distance north or south of the what?",
+    "choices": [
+      "Prime meridian",
+      "Equator",
+      "Tropic of Cancer",
+      "Poles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Longitude measures distance east or west of the what?",
+    "choices": [
+      "Equator",
+      "International Date Line",
+      "Prime meridian",
+      "Greenwich tide"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "A nautical mile is based on one minute of what?",
+    "choices": [
+      "Longitude at the equator",
+      "Time",
+      "Arc of the equator",
+      "Latitude"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What does a chart datum provide?",
+    "choices": [
+      "Reference elevation for depths",
+      "A sail trim angle",
+      "A compass correction",
+      "A harbor name"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which tool measures water depth?",
+    "choices": [
+      "Anemometer",
+      "Sounder",
+      "Clinometer",
+      "Barograph"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Dead reckoning primarily uses course, speed, and what?",
+    "choices": [
+      "Cloud cover",
+      "Hull material",
+      "Elapsed time",
+      "Tide height"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is a bearing?",
+    "choices": [
+      "Depth of a channel",
+      "Strength of a knot",
+      "Size of a sail",
+      "Direction to an object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A back bearing differs by how many degrees?",
+    "choices": [
+      "180",
+      "45",
+      "90",
+      "270"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What does a sextant measure directly?",
+    "choices": [
+      "Wind speed",
+      "Angular altitude",
+      "Water depth",
+      "Boat speed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which celestial body is traditionally used for latitude?",
+    "choices": [
+      "Venus",
+      "Moon",
+      "North Star",
+      "Mars"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is set in tidal navigation?",
+    "choices": [
+      "Sail tension",
+      "Compass error",
+      "Anchor weight",
+      "Direction of current"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is drift?",
+    "choices": [
+      "Sideways movement from wind or current",
+      "A planned tack",
+      "A knot type",
+      "A mast failure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which light marks a vessel constrained by draft?",
+    "choices": [
+      "Two white lights",
+      "Three red lights vertically",
+      "One green light",
+      "Red over white"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is a waypoint?",
+    "choices": [
+      "A sail seam",
+      "A harbor fee",
+      "A saved navigation position",
+      "A lifeboat station"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which knot forms a fixed loop?",
+    "choices": [
+      "Clove hitch",
+      "Sheet bend",
+      "Reef knot",
+      "Bowline"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a clove hitch commonly used for?",
+    "choices": [
+      "Temporary attachment to a post",
+      "Joining two equal ropes",
+      "Making a fixed loop",
+      "Shortening a halyard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which knot joins two ropes of unequal size?",
+    "choices": [
+      "Figure-eight",
+      "Sheet bend",
+      "Round turn",
+      "Overhand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does a reef knot join best?",
+    "choices": [
+      "A rope to an anchor",
+      "A line to a rail",
+      "Two similar ropes",
+      "A sheet to a boom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is a stopper knot for?",
+    "choices": [
+      "Joining chain links",
+      "Marking a channel",
+      "Locking a compass",
+      "Preventing a line from running out"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A figure-eight knot is mainly a what?",
+    "choices": [
+      "Stopper knot",
+      "Bend",
+      "Hitch",
+      "Splice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is splicing?",
+    "choices": [
+      "Painting a hull",
+      "Interweaving rope strands",
+      "Reading a tide table",
+      "Tying a temporary hitch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a shackle used to connect?",
+    "choices": [
+      "Sails to battens",
+      "Charts to tables",
+      "Lines or chain to fittings",
+      "Oars to thwarts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is chafe?",
+    "choices": [
+      "Water trapped in a bilge",
+      "A sudden gust",
+      "A rope splice",
+      "Wear from rubbing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which rope fiber is synthetic?",
+    "choices": [
+      "Nylon",
+      "Manila",
+      "Hemp",
+      "Sisal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a rolling hitch designed to resist?",
+    "choices": [
+      "A compass error",
+      "Lengthwise pull",
+      "Sail flapping",
+      "Hull leaks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a cat's paw?",
+    "choices": [
+      "A chart symbol",
+      "A cloud type",
+      "A rope hitch for a hook",
+      "A stern fitting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which knot is readily untied after loading?",
+    "choices": [
+      "Constrictor",
+      "Carrick bend",
+      "Surgeon's knot",
+      "Bowline"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a bitter end?",
+    "choices": [
+      "The free end of a line",
+      "A damaged rope core",
+      "The anchor crown",
+      "A stern wave"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a tack in sailing?",
+    "choices": [
+      "A sail repair",
+      "A change of course through the wind",
+      "An anchor watch",
+      "A chart correction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a gybe?",
+    "choices": [
+      "Turning into a wave",
+      "Dropping an anchor",
+      "Turning with the stern through the wind",
+      "Reducing draft"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which point of sail has wind directly astern?",
+    "choices": [
+      "Close-hauled",
+      "Beam reach",
+      "Broad reach",
+      "Running"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is close-hauled sailing?",
+    "choices": [
+      "Sailing as near the wind as practical",
+      "Sailing directly downwind",
+      "Motoring in harbor",
+      "Heaving an anchor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "A beam reach has wind coming from where?",
+    "choices": [
+      "Ahead",
+      "Directly abeam",
+      "Aft",
+      "Over the mast"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is weather helm?",
+    "choices": [
+      "Tendency to run aground",
+      "Rudder vibration",
+      "Tendency to turn toward the wind",
+      "A storm warning"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is lee helm?",
+    "choices": [
+      "A damaged leeward shroud",
+      "A downwind sail",
+      "A harbor maneuver",
+      "Tendency to turn away from the wind"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which sail is used in heavy weather for control?",
+    "choices": [
+      "Storm trysail",
+      "Full spinnaker",
+      "Drifter",
+      "Code zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does reefing reduce?",
+    "choices": [
+      "Hull length",
+      "Sail area",
+      "Water temperature",
+      "Anchor scope"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is apparent wind?",
+    "choices": [
+      "Forecast wind at sea",
+      "Wind behind a squall",
+      "Wind felt aboard a moving vessel",
+      "Wind measured at a masthead"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does a telltale show?",
+    "choices": [
+      "Water depth",
+      "Engine temperature",
+      "Compass deviation",
+      "Airflow over a sail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a sail's luff?",
+    "choices": [
+      "Its forward edge",
+      "Its lower corner",
+      "Its rear edge",
+      "Its top batten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a sail's leech?",
+    "choices": [
+      "Its mast track",
+      "Its aft edge",
+      "Its forward corner",
+      "Its foot rope"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which weather sign often precedes a cold front?",
+    "choices": [
+      "Steady clear skies",
+      "Warmer calm air only",
+      "Falling pressure and increasing cloud",
+      "No wind shift"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What instrument measures atmospheric pressure?",
+    "choices": [
+      "Hygrometer",
+      "Anemometer",
+      "Thermometer",
+      "Barometer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a squall?",
+    "choices": [
+      "Sudden strong wind and weather burst",
+      "A long gentle swell",
+      "A harbor signal",
+      "A rope failure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a lee shore?",
+    "choices": [
+      "Shore facing offshore current",
+      "Shore toward which wind blows",
+      "A sheltered marina wall",
+      "A charted sandbar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a sea breeze driven by?",
+    "choices": [
+      "The lunar tide alone",
+      "Deep ocean currents",
+      "Daytime land-sea temperature contrast",
+      "A passing cold front"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which cloud can signal strong convection?",
+    "choices": [
+      "Cirrus",
+      "Stratus",
+      "Altostratus",
+      "Cumulonimbus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a storm surge?",
+    "choices": [
+      "Abnormal water rise from a storm",
+      "A wave caused by a wake",
+      "A spring tide",
+      "A sudden anchor release"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why is anchor scope important?",
+    "choices": [
+      "It measures chain corrosion",
+      "It determines holding angle and room",
+      "It predicts wind speed",
+      "It identifies the seabed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is veering wind?",
+    "choices": [
+      "Wind rapidly weakening",
+      "Wind shifting counterclockwise",
+      "Wind shifting clockwise",
+      "Wind blowing only offshore"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is backing wind?",
+    "choices": [
+      "Wind shifting clockwise",
+      "Wind increasing with height",
+      "Wind dropping at night",
+      "Wind shifting counterclockwise"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which maneuver holds a vessel nearly stationary into wind and waves?",
+    "choices": [
+      "Heaving-to",
+      "Tacking downwind",
+      "Anchoring under sail",
+      "Running aground"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a broach in racing?",
+    "choices": [
+      "A perfect starting maneuver",
+      "Sudden loss of control, often downwind",
+      "A measured sail trim",
+      "A type of finish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a spinnaker gybe?",
+    "choices": [
+      "Lowering a mainsail",
+      "Changing a keel angle",
+      "Moving the spinnaker across during a turn",
+      "Rounding a mark upwind"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why do racers start on a line?",
+    "choices": [
+      "To test their engines",
+      "To measure hull draft",
+      "To set an anchor",
+      "To cross at the scheduled start signal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a windward mark?",
+    "choices": [
+      "A mark reached upwind",
+      "A mark inside a harbor",
+      "A mark at the finish only",
+      "A mark for anchoring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which ancient people developed advanced Mediterranean galleys?",
+    "choices": [
+      "Vikings",
+      "Phoenicians",
+      "Aztecs",
+      "Mongols"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What was a Viking longship optimized for?",
+    "choices": [
+      "Heavy artillery",
+      "Deep-sea whaling only",
+      "Speed and shallow-water access",
+      "Canal towing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who led the first expedition to circumnavigate the globe?",
+    "choices": [
+      "Cook's expedition",
+      "Drake's expedition",
+      "Zheng He's fleet",
+      "Magellan's expedition"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which ship carried Darwin on his famous voyage?",
+    "choices": [
+      "HMS Beagle",
+      "HMS Victory",
+      "Endeavour",
+      "Mayflower"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What was the Mayflower's principal 1620 voyage?",
+    "choices": [
+      "Spain to the Philippines",
+      "England to North America",
+      "Portugal to India",
+      "France to Canada"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which explorer reached India by rounding the Cape of Good Hope?",
+    "choices": [
+      "Marco Polo",
+      "Leif Erikson",
+      "Vasco da Gama",
+      "Amerigo Vespucci"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What was a clipper ship prized for?",
+    "choices": [
+      "Armor plating",
+      "Steam propulsion",
+      "Carrying submarines",
+      "Exceptional speed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a caravel?",
+    "choices": [
+      "Small maneuverable sailing ship",
+      "Medieval harbor crane",
+      "Roman oar",
+      "Navigation instrument"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a ship's displacement?",
+    "choices": [
+      "Cargo volume only",
+      "Weight of water displaced",
+      "Engine horsepower",
+      "Keel length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is metacentric height used to assess?",
+    "choices": [
+      "Sail color",
+      "Fuel capacity",
+      "Initial stability",
+      "Radio range"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is freeboard?",
+    "choices": [
+      "Width between gunwales",
+      "Depth of keel",
+      "Length of rudder",
+      "Height from waterline to deck"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a watertight subdivision for?",
+    "choices": [
+      "Limiting flooding",
+      "Increasing sail area",
+      "Reducing radio noise",
+      "Measuring speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a collision bulkhead?",
+    "choices": [
+      "Aft engine platform",
+      "Forward watertight barrier",
+      "Sail-supporting wall",
+      "Cargo net"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a sea anchor designed to do?",
+    "choices": [
+      "Dig into the seabed",
+      "Lift a dinghy",
+      "Reduce drift in open water",
+      "Mark a race course"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "In celestial navigation, what does a meridian altitude chiefly determine?",
+    "choices": [
+      "Wind speed near the mast",
+      "Longitude from chronometer error",
+      "Tidal height at anchorage",
+      "Vessel's latitude at culmination"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Under COLREGs, which vessel is normally stand-on in a crossing situation?",
+    "choices": [
+      "The vessel with the other on her starboard side",
+      "The vessel making the greater speed",
+      "The vessel closest to a traffic lane",
+      "The vessel carrying fewer crew"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What tactical problem does a sailing vessel's leeway angle quantify?",
+    "choices": [
+      "Change in draft during heeling",
+      "Difference between heading and track",
+      "Delay between tacks in a race",
+      "Variation in apparent wind speed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "In an America's Cup match, what is a penalty turn primarily intended to do?",
+    "choices": [
+      "Rebalance ballast after a capsize",
+      "Reset the starting sequence",
+      "Offset an infringement with lost distance",
+      "Signal a change in course marks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What did the ancient Greek trireme's prominent ram chiefly enable?",
+    "choices": [
+      "Recovering anchors in deep water",
+      "Carrying extra grain in the bow",
+      "Steering without a quarter rudder",
+      "Crippling an enemy hull below the waterline"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

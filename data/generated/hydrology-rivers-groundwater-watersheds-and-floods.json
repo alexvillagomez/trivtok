@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a river's source?",
+    "choices": [
+      "Its beginning",
+      "Its widest point",
+      "Its tidal mouth",
+      "Its floodplain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Where does a river usually end?",
+    "choices": [
+      "At its source",
+      "At a divide",
+      "At its mouth",
+      "At a levee"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is a watershed?",
+    "choices": [
+      "A river island",
+      "Land draining to a common outlet",
+      "A groundwater pump",
+      "A flood wall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is groundwater?",
+    "choices": [
+      "Water in clouds",
+      "Water stored below ground",
+      "Water in glaciers",
+      "Water in a canal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does precipitation do in the water cycle?",
+    "choices": [
+      "Falls from the atmosphere",
+      "Turns rock into soil",
+      "Raises a mountain",
+      "Stops evaporation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is evaporation?",
+    "choices": [
+      "Freezing surface water",
+      "Water vapor becoming liquid",
+      "Liquid water becoming vapor",
+      "River water entering soil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is infiltration?",
+    "choices": [
+      "Flow over pavement",
+      "Rain entering the soil",
+      "Ice melting in air",
+      "Water leaving a spring"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A flood is best described as what?",
+    "choices": [
+      "A dry channel",
+      "A high mountain",
+      "Water covering normally dry land",
+      "A deep aquifer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a river channel?",
+    "choices": [
+      "The path carrying flowing water",
+      "The land above a cloud",
+      "A well screen",
+      "A rainfall gauge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is a tributary?",
+    "choices": [
+      "A river's sediment",
+      "A smaller stream joining a larger one",
+      "A coastal dune",
+      "A groundwater divide"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is runoff?",
+    "choices": [
+      "Water moving across land",
+      "Water locked in minerals",
+      "Water vapor in space",
+      "Salt settling underground"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a floodplain?",
+    "choices": [
+      "A stream's source",
+      "A steep bedrock ridge",
+      "A buried water table",
+      "Low land beside a river that can flood"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which force drives stream flow downhill?",
+    "choices": [
+      "Gravity",
+      "Magnetism",
+      "Tides alone",
+      "Wind alone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is a drainage divide?",
+    "choices": [
+      "A sediment bar",
+      "A boundary separating watersheds",
+      "A wetland plant",
+      "A pumping well"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does a meander describe?",
+    "choices": [
+      "A straight aquifer",
+      "A winding river bend",
+      "A rainfall type",
+      "A dam valve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which feature commonly forms on a river's inside bend?",
+    "choices": [
+      "A deep scour hole",
+      "A glacier",
+      "A point bar",
+      "A spring mound"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is erosion?",
+    "choices": [
+      "Removal and transport of material",
+      "Condensation in a cloud",
+      "Storage in an aquifer",
+      "Measurement of discharge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is deposition?",
+    "choices": [
+      "Bedrock melting",
+      "Sediment settling from flow",
+      "Water infiltrating rock",
+      "Rain falling"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Stream discharge is usually calculated from what pair?",
+    "choices": [
+      "Slope and color",
+      "Velocity and cross-sectional area",
+      "Rainfall and humidity",
+      "Depth and salinity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which instrument measures stream velocity?",
+    "choices": [
+      "Barometer",
+      "Thermometer",
+      "Rain gauge",
+      "Current meter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is an aquifer?",
+    "choices": [
+      "Permeable material storing and transmitting groundwater",
+      "A river mouth",
+      "A flood warning",
+      "A cloud layer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the water table?",
+    "choices": [
+      "A river's width",
+      "The upper surface of saturated ground",
+      "A dam's crest",
+      "A rainfall record"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What commonly recharges an aquifer?",
+    "choices": [
+      "Bed-load motion",
+      "Infiltrating precipitation",
+      "Channel widening",
+      "Tidal friction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "A well becomes dry after pumping because of what?",
+    "choices": [
+      "Higher cloud cover",
+      "More river sinuosity",
+      "Reduced porosity",
+      "A lowered water table"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is baseflow?",
+    "choices": [
+      "Groundwater contribution to streamflow",
+      "Peak flood discharge",
+      "Wind-driven waves",
+      "Sediment at a delta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does porosity measure?",
+    "choices": [
+      "Channel slope",
+      "The fraction of void space",
+      "Flood duration",
+      "Water velocity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does permeability describe?",
+    "choices": [
+      "Rainfall intensity",
+      "Ability of water to move through material",
+      "River temperature",
+      "Basin area"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which soil generally permits faster infiltration?",
+    "choices": [
+      "Dense clay",
+      "Frozen silt",
+      "Solid granite",
+      "Coarse sand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a hydrograph?",
+    "choices": [
+      "A graph of flow over time",
+      "A map of rocks",
+      "A groundwater pump",
+      "A floodplain deposit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does a rising limb of a hydrograph show?",
+    "choices": [
+      "Falling groundwater",
+      "Increasing stream discharge",
+      "Constant evaporation",
+      "Declining rainfall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is lag time in a storm hydrograph?",
+    "choices": [
+      "Time between low tides",
+      "Time from rainfall peak to flow peak",
+      "Time for a river to freeze",
+      "Time to drill a well"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Urban pavement often increases flood peaks by doing what?",
+    "choices": [
+      "Increasing infiltration",
+      "Reducing watershed area",
+      "Reducing runoff",
+      "Reducing infiltration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a levee?",
+    "choices": [
+      "A raised bank intended to contain floodwater",
+      "A porous sand lens",
+      "A river gauge",
+      "A weather front"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a dam's reservoir?",
+    "choices": [
+      "A drainage divide",
+      "Stored water behind the dam",
+      "A river's deepest riffle",
+      "An unsaturated zone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which process adds water vapor to air from plants?",
+    "choices": [
+      "Infiltration",
+      "Transpiration",
+      "Deposition",
+      "Percolation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a rain shadow?",
+    "choices": [
+      "A flooded valley",
+      "A gauge shelter",
+      "A dry area leeward of mountains",
+      "A dark cloud base"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a delta?",
+    "choices": [
+      "Sediment deposited where a river enters standing water",
+      "A steep watershed divide",
+      "A deep well",
+      "A flood alarm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is an oxbow lake?",
+    "choices": [
+      "A spring outlet",
+      "An abandoned meander loop",
+      "A glacier pool",
+      "A reservoir intake"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is bankfull stage?",
+    "choices": [
+      "The lowest groundwater level",
+      "Flow contained within the channel banks",
+      "A tide at high water",
+      "A dry-season baseflow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which sediment moves by rolling along a streambed?",
+    "choices": [
+      "Dissolved load",
+      "Wash load",
+      "Suspended load",
+      "Bed load"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a spring?",
+    "choices": [
+      "Groundwater naturally discharging at the surface",
+      "A seasonal flood",
+      "A river bend",
+      "A rainfall unit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is an aquitard?",
+    "choices": [
+      "A fast stream",
+      "A layer that restricts groundwater flow",
+      "A flood sensor",
+      "A sediment fan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which boundary condition fixes hydraulic head?",
+    "choices": [
+      "No-flow boundary",
+      "Recharge boundary",
+      "Constant-head boundary",
+      "Erosion boundary"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What does Darcy's law relate?",
+    "choices": [
+      "Rainfall to cloud height",
+      "Flood stage to warning time",
+      "Sediment size to color",
+      "Groundwater flux to hydraulic gradient"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is hydraulic conductivity?",
+    "choices": [
+      "A material's capacity to transmit water",
+      "A flood frequency",
+      "A channel's width",
+      "A rainfall total"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A gaining stream receives water mainly from what source?",
+    "choices": [
+      "A dam spillway",
+      "The surrounding aquifer",
+      "Ocean tides",
+      "Snow clouds"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a losing stream?",
+    "choices": [
+      "One with no sediment",
+      "One that contributes water to groundwater",
+      "One with high salinity",
+      "One that flows uphill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which cross-section gives discharge most reliably?",
+    "choices": [
+      "One measured only at shore",
+      "One measured during drought only",
+      "One estimated from a map",
+      "One divided into depth-velocity subsections"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is Manning's equation commonly used to estimate?",
+    "choices": [
+      "Open-channel flow velocity",
+      "Aquifer age",
+      "Cloud temperature",
+      "Flood insurance cost"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What does stream stage measure?",
+    "choices": [
+      "Sediment density",
+      "Water-surface elevation relative to a datum",
+      "Groundwater chemistry",
+      "Rainfall duration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a rating curve?",
+    "choices": [
+      "A curve of basin shape",
+      "A relation between stage and discharge",
+      "A map of soil pores",
+      "A flood insurance chart"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a 100-year flood?",
+    "choices": [
+      "A flood lasting 100 years",
+      "The largest possible flood",
+      "A flood occurring exactly every century",
+      "An event with 1% annual exceedance probability"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which basin response is fastest?",
+    "choices": [
+      "A small, steep, urban basin",
+      "A large forested basin",
+      "A flat sandy basin",
+      "A deep karst basin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is detention storage?",
+    "choices": [
+      "Permanent groundwater storage",
+      "Temporary holding that delays runoff",
+      "Sediment trapped in pores",
+      "Water beneath sea level"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which land cover generally lowers runoff?",
+    "choices": [
+      "Concrete",
+      "Bare compacted soil",
+      "Dense vegetation",
+      "Asphalt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a debris flow?",
+    "choices": [
+      "Clear groundwater",
+      "A windstorm",
+      "A tidal current",
+      "A rapid mixture of water and sediment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What causes headward erosion?",
+    "choices": [
+      "Channel extension toward its source",
+      "Sediment settling at a delta",
+      "Aquifer compaction",
+      "Rain evaporation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is stream competence?",
+    "choices": [
+      "Total water volume",
+      "Largest particle a flow can move",
+      "Annual rainfall",
+      "Channel age"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is stream capacity?",
+    "choices": [
+      "The steepest bank",
+      "The number of tributaries",
+      "Amount of sediment a flow can carry",
+      "Aquifer thickness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which flood-control measure restores floodplain storage?",
+    "choices": [
+      "Channel straightening",
+      "Wetland removal",
+      "Impervious paving",
+      "Floodplain reconnection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is hyporheic exchange?",
+    "choices": [
+      "Mixing between stream water and shallow sediment water",
+      "Ocean evaporation",
+      "Rainfall over mountains",
+      "Flow through a dam"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a watershed's time of concentration represent?",
+    "choices": [
+      "Aquifer residence time",
+      "Travel time from hydraulically most distant point to outlet",
+      "Time between droughts",
+      "Duration of a tidal cycle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which model routes rainfall through soil and channels?",
+    "choices": [
+      "A spectral model",
+      "A rainfall-runoff model",
+      "A mineral model",
+      "A tide model"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does a unit hydrograph represent?",
+    "choices": [
+      "A groundwater well log",
+      "A standard flood wall",
+      "A constant river stage",
+      "Runoff response to a unit effective rainfall"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is effective rainfall?",
+    "choices": [
+      "Rainfall becoming direct runoff",
+      "All rain measured by radar",
+      "Rain falling on oceans",
+      "Rain stored permanently in snow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which condition promotes a perched water table?",
+    "choices": [
+      "A highly permeable surface",
+      "A local impermeable lens above the main table",
+      "A wide river mouth",
+      "A dry atmosphere"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is aquifer transmissivity?",
+    "choices": [
+      "Rainfall intensity",
+      "Floodplain width",
+      "Hydraulic conductivity integrated over saturated thickness",
+      "Stream temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is specific yield?",
+    "choices": [
+      "Total pore space",
+      "Water pressure at a dam",
+      "Streamflow per watershed",
+      "Water drainable by gravity from an unconfined aquifer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is artesian flow?",
+    "choices": [
+      "Groundwater rising under confined pressure",
+      "Surface runoff on roads",
+      "Sediment sliding offshore",
+      "Water evaporating from leaves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is saltwater intrusion?",
+    "choices": [
+      "Freshwater entering a river",
+      "Saline water moving into a freshwater aquifer",
+      "Salt settling in a lake",
+      "Ocean rain becoming snow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which observation best indicates groundwater depletion?",
+    "choices": [
+      "A rising snowline",
+      "A falling long-term well hydrograph",
+      "A wider floodplain",
+      "A clearer stream"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a groundwater divide?",
+    "choices": [
+      "A pumping schedule",
+      "A river gauge",
+      "A flood levee",
+      "A subsurface boundary separating flow systems"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is alluvial storage?",
+    "choices": [
+      "Water held in river-deposited sediments",
+      "Water vapor over a basin",
+      "Ice in a glacier",
+      "Tidewater behind a lock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which process can amplify downstream flood peaks?",
+    "choices": [
+      "Distributed detention",
+      "Synchronized tributary peaks",
+      "Riparian planting",
+      "Increased infiltration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is flood-wave attenuation?",
+    "choices": [
+      "A rise in rainfall intensity",
+      "A reduction of flood peak as it travels",
+      "A change from salt to fresh water",
+      "A deepening of an aquifer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does a rating-curve shift often indicate?",
+    "choices": [
+      "Stable channel geometry",
+      "No rainfall",
+      "A change in channel control or shape",
+      "A new watershed divide"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is hysteresis in a sediment rating relation?",
+    "choices": [
+      "Different sediment concentration at equal discharge on rising and falling limbs",
+      "A constant aquifer head",
+      "A repeated tidal cycle",
+      "A frozen river"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does bank erosion usually depend strongly on?",
+    "choices": [
+      "Cloud color",
+      "Near-bank shear stress and bank strength",
+      "Moon phase alone",
+      "Aquifer salinity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a knickpoint?",
+    "choices": [
+      "A groundwater mound",
+      "A sediment grain",
+      "A sudden break in channel slope",
+      "A floodplain forest"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which setting favors karst conduit flow?",
+    "choices": [
+      "Massive clay",
+      "Unfractured shale",
+      "Frozen soil",
+      "Soluble, fractured carbonate rock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does a tracer test estimate in an aquifer?",
+    "choices": [
+      "Travel time and connectivity",
+      "Flood insurance",
+      "Cloud cover",
+      "River width"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is groundwater residence time?",
+    "choices": [
+      "A stream's peak stage",
+      "Time water remains in a subsurface system",
+      "A storm's duration",
+      "A dam's lifespan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does a confined aquifer have above it?",
+    "choices": [
+      "An open channel",
+      "A permeable gravel bar",
+      "A confining layer",
+      "A flood warning"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which method estimates recharge from chloride balance?",
+    "choices": [
+      "Manning routing",
+      "Dye tracing",
+      "Sediment sieving",
+      "An atmospheric chloride mass balance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is storm surge?",
+    "choices": [
+      "Abnormal coastal water rise driven by a storm",
+      "A groundwater spring",
+      "A river's baseflow",
+      "A sediment pulse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which flood type follows intense rainfall over small steep terrain?",
+    "choices": [
+      "Seasonal lake flood",
+      "Flash flood",
+      "Tidal flood",
+      "Groundwater flood"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a breach hydrograph used to describe?",
+    "choices": [
+      "A cloud's lifetime",
+      "A river's chemistry",
+      "Outflow after failure of a dam or levee",
+      "Aquifer recharge"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is nonstationarity in flood-frequency analysis?",
+    "choices": [
+      "A fixed annual climate",
+      "A constant channel",
+      "No uncertainty",
+      "Changing statistics over time"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which distribution is commonly used for annual flood maxima?",
+    "choices": [
+      "Generalized extreme value",
+      "Normal temperature",
+      "Poisson soil",
+      "Uniform tide"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does a confidence interval around a flood quantile express?",
+    "choices": [
+      "Exact future timing",
+      "Uncertainty in the estimated quantile",
+      "Channel roughness",
+      "Aquifer porosity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a paleoflood record?",
+    "choices": [
+      "A modern gauge series",
+      "A groundwater chemistry log",
+      "Evidence of prehistoric floods",
+      "A rainfall forecast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is sediment continuity in a river reach?",
+    "choices": [
+      "Constant water temperature",
+      "A fixed flood stage",
+      "No erosion anywhere",
+      "Balance of sediment inputs, outputs, and storage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a longitudinal profile?",
+    "choices": [
+      "Elevation plotted along a channel length",
+      "A map of well chemistry",
+      "A cross-section of a levee",
+      "A rainfall frequency table"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does stream power combine most directly?",
+    "choices": [
+      "Cloud cover and humidity",
+      "Discharge and channel slope",
+      "Aquifer age and salinity",
+      "Rainfall and temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is critical shear stress?",
+    "choices": [
+      "The average annual flood",
+      "The threshold for initiating particle motion",
+      "A groundwater pressure",
+      "A basin's area"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which condition can cause avulsion?",
+    "choices": [
+      "Stable banks only",
+      "Falling sea level only",
+      "No sediment supply",
+      "Aggradation raising a channel above its floodplain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is hyporheic residence time important for?",
+    "choices": [
+      "Biogeochemical processing in exchanged water",
+      "Measuring ocean tides",
+      "Predicting cloud color",
+      "Sizing a dam gate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does groundwater-surface-water partitioning describe?",
+    "choices": [
+      "Sediment grain shapes",
+      "Relative storage and flow between domains",
+      "Flood insurance zones",
+      "Rainfall units"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is managed aquifer recharge?",
+    "choices": [
+      "Lowering every well",
+      "Redirecting floods to oceans",
+      "Intentional addition of water to an aquifer",
+      "Removing stream gauges"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a coupled surface-subsurface model designed to solve?",
+    "choices": [
+      "Only rainfall totals",
+      "Only sediment color",
+      "Only tidal elevation",
+      "Feedbacks between overland, channel, and groundwater flow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

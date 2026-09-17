@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which term describes igneous rock forms when magma cools?",
+    "choices": [
+      "Granite",
+      "Basalt",
+      "Shale",
+      "Marble"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which term describes sedimentary rock forms from compacted sand?",
+    "choices": [
+      "Slate",
+      "Granite",
+      "Pumice",
+      "Sandstone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which term describes metamorphic rock forms from limestone?",
+    "choices": [
+      "Obsidian",
+      "Marble",
+      "Shale",
+      "Basalt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which term describes mineral hardest on Mohs scale?",
+    "choices": [
+      "Diamond",
+      "Quartz",
+      "Calcite",
+      "Talc"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which term describes mineral with formula SiO2?",
+    "choices": [
+      "Quartz",
+      "Calcite",
+      "Halite",
+      "Gypsum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which term describes mineral that fizzes in dilute acid?",
+    "choices": [
+      "Pyrite",
+      "Quartz",
+      "Feldspar",
+      "Calcite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which term describes mineral commonly called rock salt?",
+    "choices": [
+      "Mica",
+      "Halite",
+      "Quartz",
+      "Gypsum"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which term describes property measuring scratch resistance?",
+    "choices": [
+      "Hardness",
+      "Streak",
+      "Luster",
+      "Cleavage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which term describes property describing powder color?",
+    "choices": [
+      "Streak",
+      "Hardness",
+      "Density",
+      "Luster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which term describes process that breaks rock in place?",
+    "choices": [
+      "Deposition",
+      "Erosion",
+      "Lithification",
+      "Weathering"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which term describes process that transports sediment?",
+    "choices": [
+      "Melting",
+      "Erosion",
+      "Cementation",
+      "Weathering"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which term describes river deposit at its mouth?",
+    "choices": [
+      "Delta",
+      "Moraine",
+      "Dune",
+      "Canyon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which term describes sand ridge shaped by wind?",
+    "choices": [
+      "Dune",
+      "Delta",
+      "Fjord",
+      "Drumlin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which term describes unsorted ridge deposited by glacier?",
+    "choices": [
+      "Yardang",
+      "Esker",
+      "Levee",
+      "Moraine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which term describes U-shaped valley carved by ice?",
+    "choices": [
+      "Karst valley",
+      "Glacial valley",
+      "Rift valley",
+      "River valley"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which term describes V-shaped valley commonly cut by rivers?",
+    "choices": [
+      "River valley",
+      "Glacial valley",
+      "Fjord",
+      "Cirque"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which term describes limestone landscape with sinkholes?",
+    "choices": [
+      "Karst",
+      "Loess",
+      "Badlands",
+      "Tundra"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which term describes hollow impression left by a fossil?",
+    "choices": [
+      "Trace",
+      "Cast",
+      "Varve",
+      "Mold"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which term describes fossil recording footprints?",
+    "choices": [
+      "Microfossil",
+      "Trace fossil",
+      "Index fossil",
+      "Body fossil"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which term describes principle that lower undisturbed layers are older?",
+    "choices": [
+      "Superposition",
+      "Cross-cutting",
+      "Uniformitarianism",
+      "Inclusions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which term describes principle that a cutting fault is younger?",
+    "choices": [
+      "Cross-cutting relationships",
+      "Superposition",
+      "Original horizontality",
+      "Faunal succession"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which term describes study of layered rocks?",
+    "choices": [
+      "Seismology",
+      "Mineralogy",
+      "Volcanology",
+      "Stratigraphy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which term describes dating method based on radioactive decay?",
+    "choices": [
+      "Lichenometry",
+      "Radiometric dating",
+      "Biostratigraphy",
+      "Relative dating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which term describes time required for half an isotope to decay?",
+    "choices": [
+      "Half-life",
+      "Closure age",
+      "Exposure age",
+      "Isotope ratio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which term describes era containing dinosaurs?",
+    "choices": [
+      "Mesozoic",
+      "Cenozoic",
+      "Paleozoic",
+      "Precambrian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which term describes most recent geologic era?",
+    "choices": [
+      "Paleozoic",
+      "Mesozoic",
+      "Precambrian",
+      "Cenozoic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which term describes eon containing most of Earth history?",
+    "choices": [
+      "Cenozoic",
+      "Precambrian",
+      "Archean",
+      "Phanerozoic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which term describes boundary where plates pull apart?",
+    "choices": [
+      "Divergent boundary",
+      "Convergent boundary",
+      "Transform boundary",
+      "Collision zone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which term describes boundary where plates slide sideways?",
+    "choices": [
+      "Transform boundary",
+      "Divergent boundary",
+      "Convergent boundary",
+      "Subduction zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which term describes boundary where plates meet?",
+    "choices": [
+      "Transform boundary",
+      "Divergent boundary",
+      "Spreading center",
+      "Convergent boundary"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which term describes igneous rock forms when magma cools?",
+    "choices": [
+      "Marble",
+      "Granite",
+      "Shale",
+      "Basalt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which term describes sedimentary rock forms from compacted sand?",
+    "choices": [
+      "Sandstone",
+      "Granite",
+      "Slate",
+      "Pumice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which term describes metamorphic rock forms from limestone?",
+    "choices": [
+      "Marble",
+      "Basalt",
+      "Shale",
+      "Obsidian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which term describes mineral hardest on Mohs scale?",
+    "choices": [
+      "Calcite",
+      "Quartz",
+      "Talc",
+      "Diamond"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which term describes mineral with formula SiO2?",
+    "choices": [
+      "Gypsum",
+      "Quartz",
+      "Halite",
+      "Calcite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which term describes mineral that fizzes in dilute acid?",
+    "choices": [
+      "Calcite",
+      "Quartz",
+      "Pyrite",
+      "Feldspar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which term describes mineral commonly called rock salt?",
+    "choices": [
+      "Halite",
+      "Gypsum",
+      "Quartz",
+      "Mica"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which term describes property measuring scratch resistance?",
+    "choices": [
+      "Luster",
+      "Streak",
+      "Cleavage",
+      "Hardness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which term describes property describing powder color?",
+    "choices": [
+      "Luster",
+      "Streak",
+      "Density",
+      "Hardness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which term describes process that breaks rock in place?",
+    "choices": [
+      "Weathering",
+      "Erosion",
+      "Deposition",
+      "Lithification"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which term describes process that transports sediment?",
+    "choices": [
+      "Erosion",
+      "Weathering",
+      "Cementation",
+      "Melting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which term describes river deposit at its mouth?",
+    "choices": [
+      "Dune",
+      "Moraine",
+      "Canyon",
+      "Delta"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which term describes sand ridge shaped by wind?",
+    "choices": [
+      "Drumlin",
+      "Dune",
+      "Fjord",
+      "Delta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which term describes unsorted ridge deposited by glacier?",
+    "choices": [
+      "Moraine",
+      "Esker",
+      "Yardang",
+      "Levee"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which term describes U-shaped valley carved by ice?",
+    "choices": [
+      "Glacial valley",
+      "River valley",
+      "Rift valley",
+      "Karst valley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which term describes V-shaped valley commonly cut by rivers?",
+    "choices": [
+      "Fjord",
+      "Glacial valley",
+      "Cirque",
+      "River valley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which term describes limestone landscape with sinkholes?",
+    "choices": [
+      "Tundra",
+      "Karst",
+      "Badlands",
+      "Loess"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which term describes hollow impression left by a fossil?",
+    "choices": [
+      "Mold",
+      "Cast",
+      "Trace",
+      "Varve"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which term describes fossil recording footprints?",
+    "choices": [
+      "Trace fossil",
+      "Body fossil",
+      "Index fossil",
+      "Microfossil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which term describes principle that lower undisturbed layers are older?",
+    "choices": [
+      "Uniformitarianism",
+      "Cross-cutting",
+      "Inclusions",
+      "Superposition"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which term describes principle that a cutting fault is younger?",
+    "choices": [
+      "Faunal succession",
+      "Cross-cutting relationships",
+      "Original horizontality",
+      "Superposition"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which term describes study of layered rocks?",
+    "choices": [
+      "Stratigraphy",
+      "Mineralogy",
+      "Seismology",
+      "Volcanology"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which term describes dating method based on radioactive decay?",
+    "choices": [
+      "Radiometric dating",
+      "Relative dating",
+      "Biostratigraphy",
+      "Lichenometry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which term describes time required for half an isotope to decay?",
+    "choices": [
+      "Exposure age",
+      "Closure age",
+      "Isotope ratio",
+      "Half-life"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which term describes era containing dinosaurs?",
+    "choices": [
+      "Precambrian",
+      "Mesozoic",
+      "Paleozoic",
+      "Cenozoic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which term describes most recent geologic era?",
+    "choices": [
+      "Cenozoic",
+      "Mesozoic",
+      "Paleozoic",
+      "Precambrian"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which term describes eon containing most of Earth history?",
+    "choices": [
+      "Precambrian",
+      "Phanerozoic",
+      "Archean",
+      "Cenozoic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which term describes boundary where plates pull apart?",
+    "choices": [
+      "Transform boundary",
+      "Convergent boundary",
+      "Collision zone",
+      "Divergent boundary"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which term describes boundary where plates slide sideways?",
+    "choices": [
+      "Subduction zone",
+      "Transform boundary",
+      "Convergent boundary",
+      "Divergent boundary"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which term describes boundary where plates meet?",
+    "choices": [
+      "Convergent boundary",
+      "Divergent boundary",
+      "Transform boundary",
+      "Spreading center"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which term describes igneous rock forms when magma cools?",
+    "choices": [
+      "Granite",
+      "Basalt",
+      "Shale",
+      "Marble"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which term describes sedimentary rock forms from compacted sand?",
+    "choices": [
+      "Slate",
+      "Granite",
+      "Pumice",
+      "Sandstone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which term describes metamorphic rock forms from limestone?",
+    "choices": [
+      "Obsidian",
+      "Marble",
+      "Shale",
+      "Basalt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which term describes mineral hardest on Mohs scale?",
+    "choices": [
+      "Diamond",
+      "Quartz",
+      "Calcite",
+      "Talc"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which term describes mineral with formula SiO2?",
+    "choices": [
+      "Quartz",
+      "Calcite",
+      "Halite",
+      "Gypsum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which term describes mineral that fizzes in dilute acid?",
+    "choices": [
+      "Pyrite",
+      "Quartz",
+      "Feldspar",
+      "Calcite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which term describes mineral commonly called rock salt?",
+    "choices": [
+      "Mica",
+      "Halite",
+      "Quartz",
+      "Gypsum"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which term describes property measuring scratch resistance?",
+    "choices": [
+      "Hardness",
+      "Streak",
+      "Luster",
+      "Cleavage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which term describes property describing powder color?",
+    "choices": [
+      "Streak",
+      "Hardness",
+      "Density",
+      "Luster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which term describes process that breaks rock in place?",
+    "choices": [
+      "Deposition",
+      "Erosion",
+      "Lithification",
+      "Weathering"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which term describes process that transports sediment?",
+    "choices": [
+      "Melting",
+      "Erosion",
+      "Cementation",
+      "Weathering"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which term describes river deposit at its mouth?",
+    "choices": [
+      "Delta",
+      "Moraine",
+      "Dune",
+      "Canyon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which term describes sand ridge shaped by wind?",
+    "choices": [
+      "Dune",
+      "Delta",
+      "Fjord",
+      "Drumlin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which term describes unsorted ridge deposited by glacier?",
+    "choices": [
+      "Yardang",
+      "Esker",
+      "Levee",
+      "Moraine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which term describes U-shaped valley carved by ice?",
+    "choices": [
+      "Karst valley",
+      "Glacial valley",
+      "Rift valley",
+      "River valley"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which term describes V-shaped valley commonly cut by rivers?",
+    "choices": [
+      "River valley",
+      "Glacial valley",
+      "Fjord",
+      "Cirque"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which term describes limestone landscape with sinkholes?",
+    "choices": [
+      "Karst",
+      "Loess",
+      "Badlands",
+      "Tundra"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which term describes hollow impression left by a fossil?",
+    "choices": [
+      "Trace",
+      "Cast",
+      "Varve",
+      "Mold"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which term describes fossil recording footprints?",
+    "choices": [
+      "Microfossil",
+      "Trace fossil",
+      "Index fossil",
+      "Body fossil"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which term describes principle that lower undisturbed layers are older?",
+    "choices": [
+      "Superposition",
+      "Cross-cutting",
+      "Uniformitarianism",
+      "Inclusions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which term describes principle that a cutting fault is younger?",
+    "choices": [
+      "Cross-cutting relationships",
+      "Superposition",
+      "Original horizontality",
+      "Faunal succession"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which term describes study of layered rocks?",
+    "choices": [
+      "Seismology",
+      "Mineralogy",
+      "Volcanology",
+      "Stratigraphy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which term describes dating method based on radioactive decay?",
+    "choices": [
+      "Lichenometry",
+      "Radiometric dating",
+      "Biostratigraphy",
+      "Relative dating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which term describes time required for half an isotope to decay?",
+    "choices": [
+      "Half-life",
+      "Closure age",
+      "Exposure age",
+      "Isotope ratio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which term describes era containing dinosaurs?",
+    "choices": [
+      "Mesozoic",
+      "Cenozoic",
+      "Paleozoic",
+      "Precambrian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which term describes most recent geologic era?",
+    "choices": [
+      "Paleozoic",
+      "Mesozoic",
+      "Precambrian",
+      "Cenozoic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which term describes eon containing most of Earth history?",
+    "choices": [
+      "Cenozoic",
+      "Precambrian",
+      "Archean",
+      "Phanerozoic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which term describes boundary where plates pull apart?",
+    "choices": [
+      "Divergent boundary",
+      "Convergent boundary",
+      "Transform boundary",
+      "Collision zone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which term describes boundary where plates slide sideways?",
+    "choices": [
+      "Transform boundary",
+      "Divergent boundary",
+      "Convergent boundary",
+      "Subduction zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which term describes boundary where plates meet?",
+    "choices": [
+      "Transform boundary",
+      "Divergent boundary",
+      "Spreading center",
+      "Convergent boundary"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which term describes igneous rock forms when magma cools?",
+    "choices": [
+      "Marble",
+      "Granite",
+      "Shale",
+      "Basalt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which term describes sedimentary rock forms from compacted sand?",
+    "choices": [
+      "Sandstone",
+      "Granite",
+      "Slate",
+      "Pumice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which term describes metamorphic rock forms from limestone?",
+    "choices": [
+      "Marble",
+      "Basalt",
+      "Shale",
+      "Obsidian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which term describes mineral hardest on Mohs scale?",
+    "choices": [
+      "Calcite",
+      "Quartz",
+      "Talc",
+      "Diamond"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which term describes mineral with formula SiO2?",
+    "choices": [
+      "Gypsum",
+      "Quartz",
+      "Halite",
+      "Calcite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which term describes mineral that fizzes in dilute acid?",
+    "choices": [
+      "Calcite",
+      "Quartz",
+      "Pyrite",
+      "Feldspar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which term describes mineral commonly called rock salt?",
+    "choices": [
+      "Halite",
+      "Gypsum",
+      "Quartz",
+      "Mica"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which term describes property measuring scratch resistance?",
+    "choices": [
+      "Luster",
+      "Streak",
+      "Cleavage",
+      "Hardness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which term describes property describing powder color?",
+    "choices": [
+      "Luster",
+      "Streak",
+      "Density",
+      "Hardness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which term describes process that breaks rock in place?",
+    "choices": [
+      "Weathering",
+      "Erosion",
+      "Deposition",
+      "Lithification"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

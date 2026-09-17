@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is the approximate speed of light in vacuum?",
+    "choices": [
+      "3.0 × 10^8 m/s",
+      "3.0 × 10^6 m/s",
+      "3.0 × 10^5 km/s",
+      "3.0 × 10^4 m/s"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which phenomenon describes light bouncing from a surface?",
+    "choices": [
+      "Refraction",
+      "Reflection",
+      "Diffusion",
+      "Absorption"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "A rainbow primarily separates sunlight by differences in what property?",
+    "choices": [
+      "Amplitude",
+      "Polarization",
+      "Wavelength",
+      "Intensity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which visible-light color generally has the shortest wavelength?",
+    "choices": [
+      "Red",
+      "Yellow",
+      "Green",
+      "Violet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the normal line used to measure an angle of incidence?",
+    "choices": [
+      "A perpendicular to the surface",
+      "A tangent to the ray",
+      "A parallel to the surface",
+      "The reflected ray"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "A transparent material that bends light is characterized by its what?",
+    "choices": [
+      "Focal length",
+      "Refractive index",
+      "Aperture ratio",
+      "Color temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which mirror has a flat reflecting surface?",
+    "choices": [
+      "Concave mirror",
+      "Parabolic mirror",
+      "Plane mirror",
+      "Convex mirror"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A converging lens is usually thicker at its what?",
+    "choices": [
+      "Edge",
+      "Focal point",
+      "Mount",
+      "Center"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The distance from a lens to its focal point is called its what?",
+    "choices": [
+      "Focal length",
+      "Optical power",
+      "Depth of field",
+      "Radius of aperture"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which device uses a small opening to limit incoming light?",
+    "choices": [
+      "Prism",
+      "Aperture",
+      "Polarizer",
+      "Photodiode"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a photodetector convert into an electrical signal?",
+    "choices": [
+      "Sound waves",
+      "Magnetic fields",
+      "Incident light",
+      "Mechanical pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The apparent bending of a straw in water is caused mainly by what?",
+    "choices": [
+      "Diffraction",
+      "Interference",
+      "Reflection",
+      "Refraction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which color is produced by additive red and green light?",
+    "choices": [
+      "Yellow",
+      "Cyan",
+      "Magenta",
+      "White"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a convex mirror generally produce for a real object?",
+    "choices": [
+      "An enlarged inverted image",
+      "A reduced upright image",
+      "A same-size inverted image",
+      "No reflected image"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which lens corrects nearsightedness?",
+    "choices": [
+      "Cylindrical lens",
+      "Bifocal lens",
+      "Diverging lens",
+      "Converging lens"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The retina is located in which organ?",
+    "choices": [
+      "Ear",
+      "Camera",
+      "Microscope",
+      "Eye"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the primary role of the iris in the eye?",
+    "choices": [
+      "Control pupil size",
+      "Focus the retina",
+      "Detect color",
+      "Produce tears"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which component of a camera focuses light onto its sensor?",
+    "choices": [
+      "Shutter curtain",
+      "Lens",
+      "Tripod",
+      "Viewfinder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A light wave's frequency is measured in what unit?",
+    "choices": [
+      "Meters",
+      "Lumens",
+      "Hertz",
+      "Candela"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a laser emit in a highly organized beam?",
+    "choices": [
+      "Broadband noise",
+      "Coherent light",
+      "Static charge",
+      "Thermal radiation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which quantity describes how much visible light a source produces?",
+    "choices": [
+      "Luminous flux",
+      "Focal ratio",
+      "Refractive index",
+      "Phase delay"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a prism commonly used to do to white light?",
+    "choices": [
+      "Amplify it",
+      "Disperse it",
+      "Polarize it completely",
+      "Stop it"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "In a simple pinhole camera, the image is usually what orientation?",
+    "choices": [
+      "Upright",
+      "Sideways",
+      "Inverted",
+      "Absent"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which surface scatters light most diffusely?",
+    "choices": [
+      "Polished silver",
+      "Clean glass",
+      "Still water",
+      "Rough paper"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Snell's law relates incident and refracted angles to what material property?",
+    "choices": [
+      "Refractive indices",
+      "Surface temperatures",
+      "Light amplitudes",
+      "Object masses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "For a plane mirror, the image distance behind the mirror equals what?",
+    "choices": [
+      "Half the object distance",
+      "The object distance",
+      "Twice the object distance",
+      "The focal length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A concave mirror can form a real image when the object is placed where?",
+    "choices": [
+      "At its edge",
+      "Behind the mirror",
+      "Beyond its focal point",
+      "Inside its coating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Lens optical power is commonly expressed in what unit?",
+    "choices": [
+      "Watts",
+      "Radians",
+      "Diopters",
+      "Teslas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What happens to a ray entering glass from air at normal incidence?",
+    "choices": [
+      "Its direction stays unchanged",
+      "It reverses direction",
+      "It splits into two rays",
+      "It becomes polarized"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Chromatic aberration occurs because a lens focuses colors at different what?",
+    "choices": [
+      "Intensities",
+      "Distances",
+      "Polarizations",
+      "Speeds in vacuum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A camera's f-number compares focal length with what?",
+    "choices": [
+      "Sensor width",
+      "Shutter time",
+      "Aperture diameter",
+      "Pixel count"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Increasing shutter speed generally reduces what in a photograph?",
+    "choices": [
+      "Color saturation",
+      "Lens power",
+      "Focal length",
+      "Motion blur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which eye cells are most sensitive in dim light?",
+    "choices": [
+      "Rods",
+      "Cones",
+      "Ganglion cells",
+      "Bipolar cells"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which eye cells provide most color vision in bright light?",
+    "choices": [
+      "Rods",
+      "Cones",
+      "Optic nerves",
+      "Pupil cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The blind spot occurs where the optic nerve leaves the what?",
+    "choices": [
+      "Cornea",
+      "Lens",
+      "Retina",
+      "Iris"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A polarizing filter transmits light with which selected property?",
+    "choices": [
+      "Selected wavelength only",
+      "Selected propagation speed",
+      "Selected intensity phase",
+      "Selected electric-field orientation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Brewster's angle produces reflected light that is strongly what?",
+    "choices": [
+      "Polarized",
+      "Amplified",
+      "Dispersed",
+      "Absorbed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Thin-film colors on soap bubbles result primarily from what?",
+    "choices": [
+      "Total internal reflection",
+      "Interference",
+      "Fluorescence",
+      "Photoelectric emission"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The bright central spot in a laser diffraction pattern comes from what?",
+    "choices": [
+      "A mirror coating",
+      "The undeviated central maximum",
+      "A detector artifact",
+      "A fluorescent dye"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which aperture shape most directly determines diffraction resolution?",
+    "choices": [
+      "Filter color",
+      "Sensor brand",
+      "Lens coating",
+      "Circular pupil diameter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The Abbe limit describes a microscope's ability to resolve what?",
+    "choices": [
+      "Nearby details",
+      "Color temperature",
+      "Laser power",
+      "Exposure time"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Total internal reflection requires light to travel from higher to what refractive index?",
+    "choices": [
+      "Equal index",
+      "Lower index",
+      "Higher index",
+      "Variable index"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "An optical fiber confines light mainly through what mechanism?",
+    "choices": [
+      "Metallic absorption",
+      "Scattering in air",
+      "Total internal reflection",
+      "Magnetic focusing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The numerical aperture of a microscope objective indicates its ability to collect what?",
+    "choices": [
+      "Electrical charge",
+      "Mechanical vibration",
+      "Image color",
+      "Light over an angular cone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A telescope's light-gathering power is proportional to which aperture measure?",
+    "choices": [
+      "Area",
+      "Circumference",
+      "Focal ratio",
+      "Magnification only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In a reflecting telescope, the primary mirror primarily provides what?",
+    "choices": [
+      "Color filtering",
+      "Light collection and focusing",
+      "Polarization conversion",
+      "Digital sampling"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The Rayleigh criterion concerns resolution of what kind of features?",
+    "choices": [
+      "Magnetic poles",
+      "Sound harmonics",
+      "Two nearby point sources",
+      "Lens temperatures"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A confocal microscope rejects out-of-focus light using what?",
+    "choices": [
+      "A larger eyepiece",
+      "A thermal sensor",
+      "A laser mirror",
+      "A pinhole"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Fluorescence differs from phosphorescence mainly by its what?",
+    "choices": [
+      "Shorter emission persistence",
+      "Higher vacuum requirement",
+      "Absence of photons",
+      "Need for radio waves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which process ejects electrons from a material when light is absorbed?",
+    "choices": [
+      "Compton reflection",
+      "Photoelectric effect",
+      "Brewster scattering",
+      "Raman focusing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Raman spectroscopy detects frequency shifts caused by what?",
+    "choices": [
+      "Lens curvature",
+      "Mirror alignment",
+      "Molecular vibrations",
+      "Detector cooling"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In a Michelson interferometer, moving one mirror changes the path difference by what relative amount?",
+    "choices": [
+      "Half the mirror movement",
+      "The mirror movement",
+      "Four times the movement",
+      "Twice the mirror movement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Coherent sources maintain a nearly constant what relationship?",
+    "choices": [
+      "Phase difference",
+      "Color brightness",
+      "Lens diameter",
+      "Polarizer thickness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The Fourier transform of an aperture describes its far-field what?",
+    "choices": [
+      "Temperature",
+      "Diffraction pattern",
+      "Mass density",
+      "Surface roughness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A quarter-wave plate can convert linear polarization into what?",
+    "choices": [
+      "Unpolarized light only",
+      "Infrared radiation",
+      "Circular polarization",
+      "A focused image"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The ordinary and extraordinary rays occur in which class of crystal?",
+    "choices": [
+      "Amorphous glass",
+      "Metallic mirror",
+      "Liquid water",
+      "Birefringent crystal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Negative dispersion means refractive index generally what as wavelength increases?",
+    "choices": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Oscillates randomly"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "A telecentric lens is designed to keep magnification nearly constant with what?",
+    "choices": [
+      "Wavelength only",
+      "Object distance",
+      "Laser coherence",
+      "Filter density"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Adaptive optics corrects atmospheric blur by adjusting what?",
+    "choices": [
+      "Sensor pixels",
+      "Light color",
+      "A deformable mirror",
+      "Camera battery"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In a Fabry–Pérot etalon, transmission peaks arise from repeated what?",
+    "choices": [
+      "Absorption events",
+      "Lens rotations",
+      "Polarizer heating",
+      "Internal reflections"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A frequency comb consists of many evenly spaced what features?",
+    "choices": [
+      "Optical frequencies",
+      "Mirror surfaces",
+      "Lens apertures",
+      "Image pixels"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Group velocity describes the motion of a wave packet's what?",
+    "choices": [
+      "Carrier color",
+      "Envelope",
+      "Polarizer axis",
+      "Optical coating"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Gouy phase is an extra phase shift acquired near what region?",
+    "choices": [
+      "A flat mirror",
+      "A fiber connector",
+      "A focus",
+      "A color filter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A Gaussian beam's waist is the location of what minimum?",
+    "choices": [
+      "Frequency",
+      "Polarization",
+      "Mirror curvature",
+      "Transverse beam radius"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The M^2 factor measures how closely a beam resembles what ideal profile?",
+    "choices": [
+      "A Gaussian beam",
+      "A plane wave",
+      "A thermal spectrum",
+      "A circular polarizer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Optical heterodyne detection mixes a signal with what reference?",
+    "choices": [
+      "A broadband lamp",
+      "A local oscillator",
+      "A mechanical shutter",
+      "A neutral filter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The Kerr effect makes refractive index depend on what applied quantity?",
+    "choices": [
+      "Object distance",
+      "Mirror mass",
+      "Optical intensity",
+      "Sensor area"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Second-harmonic generation changes a photon frequency to what multiple?",
+    "choices": [
+      "One half",
+      "Three times",
+      "A random value",
+      "Twice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Spontaneous emission differs from stimulated emission because its phase is what?",
+    "choices": [
+      "Random relative to other emissions",
+      "Always locked",
+      "Exactly inverted",
+      "Set by a mirror"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A population inversion is required for what optical process?",
+    "choices": [
+      "Ordinary refraction",
+      "Laser amplification",
+      "Plane-mirror reflection",
+      "Pinhole imaging"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which lens arrangement can reduce chromatic aberration using different glasses?",
+    "choices": [
+      "Single plano lens",
+      "Mirror pair",
+      "Achromatic doublet",
+      "Pinhole stop"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the main imaging consequence of a smaller camera aperture?",
+    "choices": [
+      "Less depth of field",
+      "More depth of field",
+      "Shorter focal length",
+      "Higher sensor noise only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "A diffraction grating separates wavelengths according to what variable?",
+    "choices": [
+      "Diffraction angle",
+      "Lens mass",
+      "Detector voltage",
+      "Mirror temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In a spectrometer, a slit primarily controls what tradeoff?",
+    "choices": [
+      "Color versus polarization",
+      "Resolution versus throughput",
+      "Focus versus gravity",
+      "Power versus frequency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "The Stokes parameters provide a description of what property of light?",
+    "choices": [
+      "Focal distance",
+      "Optical mass",
+      "Polarization state",
+      "Thermal conductivity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Elliptically polarized light has an electric-field tip tracing what?",
+    "choices": [
+      "A straight line only",
+      "A stationary point",
+      "A square path",
+      "An ellipse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "A metasurface controls light using arrays of what subwavelength elements?",
+    "choices": [
+      "Nanostructures",
+      "Water droplets",
+      "Copper wires",
+      "Large mirrors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Near-field optical microscopy probes fields before they become what?",
+    "choices": [
+      "Coherent",
+      "Far-field propagating waves",
+      "Visible",
+      "Polarized"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The van Cittert–Zernike theorem connects source intensity with spatial what?",
+    "choices": [
+      "Temperature",
+      "Magnification",
+      "Coherence",
+      "Absorption"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Optical coherence tomography obtains depth information using what principle?",
+    "choices": [
+      "Polarizer heating",
+      "Mirror magnification",
+      "Color subtraction",
+      "Low-coherence interferometry"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In lidar, target distance is often inferred from what measured quantity?",
+    "choices": [
+      "Return time",
+      "Lens index",
+      "Beam color",
+      "Polarizer angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "A phase-contrast microscope converts phase variations into what visible variation?",
+    "choices": [
+      "Wavelength",
+      "Intensity",
+      "Focal length",
+      "Polarization only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "The optical transfer function is the Fourier transform of the system's what response?",
+    "choices": [
+      "Thermal response",
+      "Polarization axis",
+      "Point-spread response",
+      "Battery curve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does a neutral-density filter ideally reduce without changing?",
+    "choices": [
+      "Focal length",
+      "Aperture shape",
+      "Object distance",
+      "Spectral balance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "A retroreflector sends incident light back toward what direction?",
+    "choices": [
+      "Its source direction",
+      "The horizon",
+      "A random direction",
+      "The lens axis only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "The Brewster angle depends on the refractive indices of which pair?",
+    "choices": [
+      "Source and detector",
+      "Two adjoining media",
+      "Two mirrors only",
+      "Object and image"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which aberration makes image magnification vary with field angle?",
+    "choices": [
+      "Spherical aberration",
+      "Coma",
+      "Distortion",
+      "Astigmatism"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "A Schmidt corrector plate primarily compensates which telescope aberration?",
+    "choices": [
+      "Chromatic blur",
+      "Field curvature",
+      "Polarization loss",
+      "Spherical aberration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "The Airy disk is produced by diffraction from what common aperture?",
+    "choices": [
+      "A circular aperture",
+      "A square mirror",
+      "A fiber core",
+      "A prism edge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "In fluorescence microscopy, a dichroic mirror separates excitation from what?",
+    "choices": [
+      "Laser power",
+      "Emission light",
+      "Object depth",
+      "Detector noise"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "An acousto-optic modulator changes a beam using what interaction?",
+    "choices": [
+      "Thermal radiation",
+      "Static electricity",
+      "Sound-driven diffraction",
+      "Chemical absorption"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A Pockels cell changes polarization through an electric-field-dependent what?",
+    "choices": [
+      "Focal length",
+      "Beam mass",
+      "Mirror angle",
+      "Birefringence"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "The optical theorem relates forward scattering to what property?",
+    "choices": [
+      "Total extinction",
+      "Focal depth",
+      "Lens weight",
+      "Color temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "In quantum optics, a single photon cannot be divided into what classical pair?",
+    "choices": [
+      "Two wavelengths",
+      "Two lower-energy photons by a beam splitter",
+      "Two detector clicks",
+      "Two polarization bases"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Hong–Ou–Mandel interference is observed when identical photons meet at what component?",
+    "choices": [
+      "A telescope",
+      "A polarizer",
+      "A beam splitter",
+      "A diffraction grating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "The Heisenberg relation links uncertainty in position with uncertainty in what?",
+    "choices": [
+      "Color",
+      "Intensity",
+      "Polarization",
+      "Momentum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "A single-mode fiber supports how many spatial propagation modes?",
+    "choices": [
+      "One guided mode",
+      "Two hundred modes",
+      "No guided modes",
+      "One mode per wavelength"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does an optical isolator prevent from returning to a laser?",
+    "choices": [
+      "Desired output",
+      "Back-reflected light",
+      "Pump current",
+      "Cooling air"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "A waveplate's retardance is determined by birefringence and what geometric factor?",
+    "choices": [
+      "Detector area",
+      "Laser power",
+      "Thickness",
+      "Object distance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "In Fourier optics, a lens at its back focal plane produces a spatial what transform?",
+    "choices": [
+      "Temperature",
+      "Mass",
+      "Polarization",
+      "Frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

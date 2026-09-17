@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who is the Greek god of the sky?",
+    "choices": [
+      "Zeus",
+      "Apollo",
+      "Ares",
+      "Hermes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is the Greek goddess of wisdom?",
+    "choices": [
+      "Hera",
+      "Athena",
+      "Aphrodite",
+      "Demeter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who is the Greek god of the sea?",
+    "choices": [
+      "Hades",
+      "Apollo",
+      "Poseidon",
+      "Hephaestus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who rules the Greek underworld?",
+    "choices": [
+      "Zeus",
+      "Hermes",
+      "Dionysus",
+      "Hades"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who is the Greek goddess of love?",
+    "choices": [
+      "Aphrodite",
+      "Athena",
+      "Artemis",
+      "Hestia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who carries messages for the Greek gods?",
+    "choices": [
+      "Ares",
+      "Hermes",
+      "Apollo",
+      "Hephaestus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which Greek god is linked with music and prophecy?",
+    "choices": [
+      "Poseidon",
+      "Hades",
+      "Apollo",
+      "Pan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which Greek goddess is linked with the hunt?",
+    "choices": [
+      "Hera",
+      "Demeter",
+      "Aphrodite",
+      "Artemis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who is the Greek god of war?",
+    "choices": [
+      "Ares",
+      "Hermes",
+      "Apollo",
+      "Cronus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who is the Greek goddess of the harvest?",
+    "choices": [
+      "Hestia",
+      "Demeter",
+      "Athena",
+      "Nike"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who completed the Twelve Labors?",
+    "choices": [
+      "Theseus",
+      "Perseus",
+      "Heracles",
+      "Jason"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who defeated the Minotaur?",
+    "choices": [
+      "Achilles",
+      "Orpheus",
+      "Bellerophon",
+      "Theseus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who killed Medusa in Greek legend?",
+    "choices": [
+      "Perseus",
+      "Heracles",
+      "Odysseus",
+      "Jason"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Greek hero fought in the Trojan War?",
+    "choices": [
+      "Oedipus",
+      "Achilles",
+      "Cadmus",
+      "Bellerophon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who tried to return to Ithaca after the Trojan War?",
+    "choices": [
+      "Menelaus",
+      "Agamemnon",
+      "Odysseus",
+      "Paris"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who flew too close to the Sun?",
+    "choices": [
+      "Daedalus",
+      "Phaethon",
+      "Bellerophon",
+      "Icarus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What did Pandora open?",
+    "choices": [
+      "A jar",
+      "A temple",
+      "A golden apple",
+      "A sea chest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What kind of creature is Pegasus?",
+    "choices": [
+      "A sea serpent",
+      "A winged horse",
+      "A giant eagle",
+      "A three-headed dog"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What guards the Greek underworld?",
+    "choices": [
+      "The Sphinx",
+      "The Minotaur",
+      "Cerberus",
+      "The Chimera"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Where do many Greek gods live?",
+    "choices": [
+      "Mount Parnassus",
+      "Delphi",
+      "Crete",
+      "Mount Olympus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is the Roman name for Zeus?",
+    "choices": [
+      "Jupiter",
+      "Mars",
+      "Neptune",
+      "Mercury"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who is the Norse god linked with wisdom and war?",
+    "choices": [
+      "Thor",
+      "Odin",
+      "Loki",
+      "Balder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What weapon does Thor carry?",
+    "choices": [
+      "Gungnir",
+      "Gram",
+      "Mjölnir",
+      "Excalibur"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Who is the Norse trickster figure?",
+    "choices": [
+      "Odin",
+      "Tyr",
+      "Heimdall",
+      "Loki"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which Norse goddess is linked with love and fertility?",
+    "choices": [
+      "Freyja",
+      "Hel",
+      "Skadi",
+      "Frigg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Where do honored dead warriors go in Norse tradition?",
+    "choices": [
+      "Helheim",
+      "Valhalla",
+      "Asgard",
+      "Midgard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Yggdrasil?",
+    "choices": [
+      "A magic hammer",
+      "A sea serpent",
+      "A cosmic tree",
+      "A hall of warriors"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is Ragnarök?",
+    "choices": [
+      "A marriage feast",
+      "A sacred tree",
+      "A creation tool",
+      "A prophesied cosmic destruction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is Fenrir?",
+    "choices": [
+      "A monstrous wolf",
+      "A giant eagle",
+      "A fire giant",
+      "A magical horse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is Jörmungandr?",
+    "choices": [
+      "A god of poetry",
+      "A world-encircling serpent",
+      "A rainbow bridge",
+      "A dead warrior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who carries fallen warriors to Valhalla?",
+    "choices": [
+      "Norns",
+      "Dwarfs",
+      "Valkyries",
+      "Jötnar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who is the Egyptian sun god?",
+    "choices": [
+      "Anubis",
+      "Osiris",
+      "Thoth",
+      "Ra"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who rules the Egyptian afterlife in many traditions?",
+    "choices": [
+      "Osiris",
+      "Horus",
+      "Set",
+      "Aten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Egyptian goddess is linked with magic and motherhood?",
+    "choices": [
+      "Bastet",
+      "Isis",
+      "Sekhmet",
+      "Ma’at"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Egyptian deity has a jackal association?",
+    "choices": [
+      "Ra",
+      "Horus",
+      "Anubis",
+      "Ptah"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Egyptian god has a falcon association?",
+    "choices": [
+      "Set",
+      "Thoth",
+      "Sobek",
+      "Horus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Egyptian goddess has a cat association?",
+    "choices": [
+      "Bastet",
+      "Isis",
+      "Nephthys",
+      "Hathor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which Egyptian god is linked with disorder and storms?",
+    "choices": [
+      "Osiris",
+      "Set",
+      "Anubis",
+      "Ptah"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What animal is linked with an Egyptian scarab symbol?",
+    "choices": [
+      "A falcon",
+      "A crocodile",
+      "A beetle",
+      "A jackal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What does Ma’at represent in ancient Egyptian tradition?",
+    "choices": [
+      "War and conquest",
+      "The underworld river",
+      "Royal wealth",
+      "Truth and cosmic order"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Hindu deity has an elephant head?",
+    "choices": [
+      "Ganesha",
+      "Vishnu",
+      "Shiva",
+      "Hanuman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Hindu deity is often described as a preserver?",
+    "choices": [
+      "Brahma",
+      "Vishnu",
+      "Shiva",
+      "Indra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Hindu deity is associated with transformation and destruction?",
+    "choices": [
+      "Vishnu",
+      "Ganesha",
+      "Shiva",
+      "Surya"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which figure is a devoted monkey hero in Hindu tradition?",
+    "choices": [
+      "Arjuna",
+      "Rama",
+      "Karna",
+      "Hanuman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who is the central hero of the Ramayana?",
+    "choices": [
+      "Rama",
+      "Arjuna",
+      "Krishna",
+      "Yudhishthira"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Who teaches Arjuna in the Bhagavad Gita?",
+    "choices": [
+      "Rama",
+      "Krishna",
+      "Shiva",
+      "Hanuman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Hindu goddess is linked with learning and the arts?",
+    "choices": [
+      "Lakshmi",
+      "Kali",
+      "Saraswati",
+      "Parvati"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which Hindu goddess is linked with prosperity?",
+    "choices": [
+      "Saraswati",
+      "Durga",
+      "Sita",
+      "Lakshmi"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is Garuda in Hindu tradition?",
+    "choices": [
+      "A bird-like divine figure",
+      "A river goddess",
+      "A serpent king",
+      "A sacred mountain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is Asgard in Norse tradition?",
+    "choices": [
+      "A dragon’s cave",
+      "A realm associated with the gods",
+      "A human king’s ship",
+      "A river of the dead"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "How was Athena born in Greek myth?",
+    "choices": [
+      "From the sea foam",
+      "From a golden apple",
+      "From Zeus’s head",
+      "From a river reed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Greek god is linked with wine and theater?",
+    "choices": [
+      "Apollo",
+      "Hermes",
+      "Hephaestus",
+      "Dionysus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which Greek god works as a divine smith?",
+    "choices": [
+      "Hephaestus",
+      "Ares",
+      "Hermes",
+      "Pan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who tried to bring Eurydice back from the underworld?",
+    "choices": [
+      "Orion",
+      "Orpheus",
+      "Theseus",
+      "Pythagoras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What did Jason seek with the Argonauts?",
+    "choices": [
+      "The Gorgon’s head",
+      "The Apples of the Hesperides",
+      "The Golden Fleece",
+      "The Crown of Crete"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What creature did Oedipus answer a riddle from?",
+    "choices": [
+      "The Chimera",
+      "The Minotaur",
+      "The Sirens",
+      "The Sphinx"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who wasted away while staring at his reflection?",
+    "choices": [
+      "Narcissus",
+      "Tantalus",
+      "Sisyphus",
+      "Midas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who could only repeat the words of others?",
+    "choices": [
+      "Niobe",
+      "Echo",
+      "Ariadne",
+      "Cassandra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who ferries souls across the Greek underworld river?",
+    "choices": [
+      "Hermes",
+      "Thanatos",
+      "Charon",
+      "Minos"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which river is linked with an oath of the Greek gods?",
+    "choices": [
+      "The Lethe",
+      "The Acheron",
+      "The Alpheus",
+      "The Styx"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who fell in love with a statue he created?",
+    "choices": [
+      "Pygmalion",
+      "Daedalus",
+      "Orpheus",
+      "Midas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who is the Trojan hero linked with Rome’s legendary origins?",
+    "choices": [
+      "Hector",
+      "Aeneas",
+      "Paris",
+      "Priam"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who founded Rome with Remus in Roman legend?",
+    "choices": [
+      "Aeneas",
+      "Numa",
+      "Romulus",
+      "Evander"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Norse god is killed before Ragnarök?",
+    "choices": [
+      "Thor",
+      "Odin",
+      "Tyr",
+      "Balder"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is Gungnir?",
+    "choices": [
+      "Odin’s spear",
+      "Thor’s belt",
+      "Loki’s net",
+      "Freyr’s ship"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is Bifröst?",
+    "choices": [
+      "A magic apple",
+      "A rainbow bridge",
+      "A giant wolf",
+      "A sacred oath"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who are the Norns?",
+    "choices": [
+      "Warrior giants",
+      "Sea spirits",
+      "Beings linked with fate",
+      "Dwarven smiths"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who rules the Norse realm of the dead called Hel?",
+    "choices": [
+      "Freyja",
+      "Frigg",
+      "Skadi",
+      "Hel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is Sleipnir?",
+    "choices": [
+      "Odin’s eight-legged horse",
+      "Thor’s hammer",
+      "A serpent around the world",
+      "A hall in Asgard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who weighs a heart in Egyptian afterlife imagery?",
+    "choices": [
+      "Ra",
+      "Anubis",
+      "Horus",
+      "Set"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who killed Osiris in Egyptian tradition?",
+    "choices": [
+      "Horus",
+      "Anubis",
+      "Set",
+      "Thoth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the Book of the Dead?",
+    "choices": [
+      "A Greek epic",
+      "A Norse genealogy",
+      "A Roman law code",
+      "A collection of Egyptian funerary texts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Egyptian god is linked with writing and the ibis?",
+    "choices": [
+      "Thoth",
+      "Ptah",
+      "Sobek",
+      "Khnum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which Egyptian goddess has a lioness form?",
+    "choices": [
+      "Bastet",
+      "Sekhmet",
+      "Isis",
+      "Nephthys"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What was Aten represented as?",
+    "choices": [
+      "A sacred bull",
+      "A river serpent",
+      "A sun disk",
+      "A winged scarab"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who is Arjuna’s mother in the Mahabharata?",
+    "choices": [
+      "Draupadi",
+      "Gandhari",
+      "Sita",
+      "Kunti"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who is Draupadi married to in the Mahabharata?",
+    "choices": [
+      "The five Pandava brothers",
+      "The Kaurava brothers",
+      "The Yadava kings",
+      "The sage Vyasa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Where does Hanuman leap in the Ramayana?",
+    "choices": [
+      "Over Mount Olympus",
+      "Across the sea to Lanka",
+      "Into the underworld",
+      "Across the Ganges to Ayodhya"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is churned in the Hindu story of the cosmic ocean?",
+    "choices": [
+      "The river Ganges",
+      "A sea of fire",
+      "The ocean of milk",
+      "The waters of Yomi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a vahana?",
+    "choices": [
+      "A sacred weapon only",
+      "A temple priest",
+      "A funeral text",
+      "A deity’s vehicle or mount"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who are the three major deities of the Hindu Trimurti?",
+    "choices": [
+      "Brahma, Vishnu, and Shiva",
+      "Rama, Krishna, and Arjuna",
+      "Indra, Agni, and Varuna",
+      "Ganesha, Hanuman, and Surya"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who is the Japanese sun deity?",
+    "choices": [
+      "Susanoo",
+      "Amaterasu",
+      "Izanami",
+      "Inari"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Japanese deity is linked with storms and the sea?",
+    "choices": [
+      "Amaterasu",
+      "Tsukuyomi",
+      "Susanoo",
+      "Hachiman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who are the creators in the Japanese myth of the islands?",
+    "choices": [
+      "Amaterasu and Susanoo",
+      "Raijin and Fujin",
+      "Inari and Hachiman",
+      "Izanagi and Izanami"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is Yomi in Japanese tradition?",
+    "choices": [
+      "The land of the dead",
+      "The first mountain",
+      "A sacred sword",
+      "A rice goddess"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What animal is a kitsune?",
+    "choices": [
+      "A wolf",
+      "A fox",
+      "A crane",
+      "A serpent"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which Mesoamerican figure is often called a feathered serpent?",
+    "choices": [
+      "Tezcatlipoca",
+      "Huitzilopochtli",
+      "Quetzalcoatl",
+      "Tlaloc"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who are the hero twins in the Popol Vuh?",
+    "choices": [
+      "Romulus and Remus",
+      "Castor and Pollux",
+      "Arjuna and Krishna",
+      "Hunahpu and Xbalanque"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which figure is a creator-trickster in many Pacific Northwest traditions?",
+    "choices": [
+      "Raven",
+      "Anansi",
+      "Coyote",
+      "Maui"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which spider figure is central to many Akan stories?",
+    "choices": [
+      "Loki",
+      "Anansi",
+      "Kokopelli",
+      "Maui"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What kind of spirit is Mami Wata in many African traditions?",
+    "choices": [
+      "A mountain warrior",
+      "A sky eagle",
+      "A water spirit",
+      "A hearth goddess"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Polynesian culture hero is linked with fishing up islands?",
+    "choices": [
+      "Pele",
+      "Kupe",
+      "Tāwhaki",
+      "Māui"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Hawaiian deity is associated with volcanoes?",
+    "choices": [
+      "Pele",
+      "Lono",
+      "Kāne",
+      "Maui"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who survives the flood in the Epic of Gilgamesh?",
+    "choices": [
+      "Enkidu",
+      "Utnapishtim",
+      "Urshanabi",
+      "Shamash"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who solves the Sphinx’s riddle?",
+    "choices": [
+      "Theseus",
+      "Perseus",
+      "Oedipus",
+      "Heracles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who pulls the sword Excalibur in Arthurian legend?",
+    "choices": [
+      "Lancelot",
+      "Gawain",
+      "Merlin",
+      "King Arthur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Greek figure is punished by endlessly pushing a stone uphill?",
+    "choices": [
+      "Sisyphus",
+      "Tantalus",
+      "Ixion",
+      "Midas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which figure has an endless appetite and thirst in Greek myth?",
+    "choices": [
+      "Sisyphus",
+      "Tantalus",
+      "Midas",
+      "Orion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What did King Midas wish would happen to everything he touched?",
+    "choices": [
+      "Become invisible",
+      "Fly away",
+      "Turn to gold",
+      "Turn into stone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the Chimera in Greek myth?",
+    "choices": [
+      "A river of the dead",
+      "A sacred temple",
+      "A winged human",
+      "A fire-breathing hybrid creature"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

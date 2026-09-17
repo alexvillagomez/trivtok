@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "The small seed inside a coffee cherry is commonly called what?",
+    "choices": [
+      "A coffee bean",
+      "A coffee pod",
+      "A coffee kernel",
+      "A coffee bud"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Coffee plants belong to which botanical genus?",
+    "choices": [
+      "Camellia",
+      "Coffea",
+      "Theobroma",
+      "Humulus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which species is generally associated with a sweeter, more delicate cup?",
+    "choices": [
+      "Coffea canephora",
+      "Coffea liberica",
+      "Coffea arabica",
+      "Coffea racemosa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Coffea canephora is more commonly known by what commercial name?",
+    "choices": [
+      "Arabica",
+      "Bourbon",
+      "Typica",
+      "Robusta"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Most coffee cultivation takes place in what broad climatic zone?",
+    "choices": [
+      "The tropical coffee belt",
+      "The Arctic Circle",
+      "The temperate steppe",
+      "The polar maritime zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What fruit does a coffee plant produce?",
+    "choices": [
+      "A coffee pod",
+      "A coffee cherry",
+      "A coffee cone",
+      "A coffee drupelet cluster"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What color are ripe coffee cherries most commonly when ready to pick?",
+    "choices": [
+      "Blue",
+      "White",
+      "Red",
+      "Black"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why is coffee often grown under shade trees?",
+    "choices": [
+      "Shade turns the seeds into tea leaves",
+      "Shade removes all caffeine",
+      "Shade prevents the plant from flowering",
+      "Shade can moderate heat and slow ripening"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is selective coffee picking?",
+    "choices": [
+      "Harvesting ripe cherries while leaving unripe fruit on the branch",
+      "Removing every leaf before harvest",
+      "Picking only fallen leaves",
+      "Sorting beans by roast color in a warehouse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the main purpose of removing the outer skin and pulp from a coffee cherry?",
+    "choices": [
+      "To roast the seeds while they are still wet",
+      "To expose the seeds for further processing and drying",
+      "To add sweetness through caramelization",
+      "To remove caffeine before fermentation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which coffee process normally removes the fruit before the seeds are dried?",
+    "choices": [
+      "Dry processing",
+      "Roast processing",
+      "Washed processing",
+      "Steam processing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In natural coffee processing, how are the coffee seeds commonly dried?",
+    "choices": [
+      "After being frozen in tanks",
+      "Inside a metal roaster",
+      "Underwater without fruit",
+      "Inside the intact fruit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does honey processing leave on the coffee seed during drying?",
+    "choices": [
+      "Some sticky fruit mucilage",
+      "A layer of beeswax",
+      "A roasted sugar crust",
+      "A coating of milk proteins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is green coffee?",
+    "choices": [
+      "Coffee flavored with herbs",
+      "Unroasted coffee seed",
+      "Coffee cherries picked while green",
+      "Coffee brewed with leafy vegetables"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the first crack during coffee roasting?",
+    "choices": [
+      "The moment a bean is split with a knife",
+      "A crack in the roaster's drum",
+      "An audible series of pops as expanding beans release steam and gases",
+      "A sound made when a cup is filled"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which chemical family of reactions contributes toasted and bready aromas during roasting?",
+    "choices": [
+      "Photosynthesis reactions",
+      "Neutralization reactions",
+      "Polymerase reactions",
+      "Maillard reactions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is degassing in freshly roasted coffee?",
+    "choices": [
+      "The gradual release of carbon dioxide from the beans",
+      "The removal of all aromatic compounds",
+      "The washing of beans in water",
+      "The grinding of beans into a powder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Compared with a dark roast, a light roast usually preserves more of what?",
+    "choices": [
+      "Carbonized surface oil",
+      "Origin-derived acidity and aroma",
+      "Smoke from the roasting drum",
+      "The original fruit skin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What happens when coffee is ground finer, with other brewing variables held constant?",
+    "choices": [
+      "Water cannot contact it",
+      "The beans become less soluble",
+      "Water usually extracts it more quickly",
+      "The brew ratio automatically doubles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does brew ratio compare?",
+    "choices": [
+      "The number of beans to the number of cups",
+      "The roast time to the grinding time",
+      "The acidity of coffee to its caffeine content",
+      "The mass of dry coffee to the mass of brewing water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which brewing method steeps ground coffee and then separates it with a plunger and metal screen?",
+    "choices": [
+      "French press",
+      "Pour-over cone",
+      "Moka pot",
+      "Vacuum brewer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the defining action of a pour-over brewer?",
+    "choices": [
+      "Coffee grounds boil in an open pan",
+      "Water flows through a bed of grounds and a filter",
+      "Milk is forced through a coffee puck",
+      "Beans are extracted before they are roasted"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A moka pot is designed to brew coffee on what kind of heat source?",
+    "choices": [
+      "A freezer shelf",
+      "A microwave turntable only",
+      "A stovetop or similar direct heater",
+      "A sunlit drying patio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does an AeroPress use to separate brewed coffee from its grounds?",
+    "choices": [
+      "A spinning centrifuge",
+      "A cloth bag hung from a tree",
+      "A steam wand",
+      "A manually pushed plunger and filter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Cold brew is typically made by extracting coffee with what?",
+    "choices": [
+      "Cool or room-temperature water over a long time",
+      "Boiling oil for a few seconds",
+      "Dry air without water",
+      "Carbonated milk under pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Espresso generally uses what grind size?",
+    "choices": [
+      "Very coarse",
+      "Fine",
+      "Flaked whole bean",
+      "Unbroken cherry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a portafilter?",
+    "choices": [
+      "A hand tool for planting coffee seedlings",
+      "A vessel for storing green coffee at origin",
+      "The handled filter basket assembly used in an espresso machine",
+      "A thermometer for roasting drums"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why is espresso coffee tamped before brewing?",
+    "choices": [
+      "To roast the grounds inside the basket",
+      "To remove caffeine by compression",
+      "To turn the grounds into liquid before water arrives",
+      "To create a level, compact bed of grounds for more even flow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is channeling in espresso extraction?",
+    "choices": [
+      "Water finding fast paths through the puck and extracting unevenly",
+      "Coffee traveling through a shipping canal",
+      "Steam entering the grinder hopper",
+      "A method of mixing two roast colors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What sensory term describes the tactile weight of coffee on the palate?",
+    "choices": [
+      "Pitch",
+      "Body",
+      "Bloom",
+      "Finish temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In coffee tasting, acidity usually refers to what?",
+    "choices": [
+      "The amount of sediment in the cup",
+      "The temperature of the brewing water",
+      "A bright, tangy quality that can resemble fruit",
+      "The roast level printed on a bag"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does aroma describe in a coffee evaluation?",
+    "choices": [
+      "The percentage of water in a bean",
+      "The size of the filter pores",
+      "The number of rotations of a grinder burr",
+      "Smells perceived from the coffee before or during tasting"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a coffee cupping?",
+    "choices": [
+      "A standardized tasting practice used to compare coffees",
+      "A machine that cups seedlings",
+      "A way to polish a metal portafilter",
+      "A method of roasting beans in a cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does a burr grinder use to crush coffee?",
+    "choices": [
+      "A single spinning blade only",
+      "Two abrasive surfaces called burrs",
+      "Pressurized water jets",
+      "A heated ceramic cup"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Why do many brewers use filtered water for coffee?",
+    "choices": [
+      "Filtered water automatically roasts the grounds",
+      "It removes all flavor from the coffee",
+      "Water chemistry affects extraction and flavor",
+      "It makes grind size irrelevant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is coffee bloom in a pour-over brew?",
+    "choices": [
+      "A layer of milk foam",
+      "The final roast crack",
+      "A mold intentionally grown on beans",
+      "The initial wetting phase that lets trapped gas escape"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the purpose of a coffee filter?",
+    "choices": [
+      "To retain grounds while allowing brewed liquid to pass",
+      "To increase the caffeine by burning the grounds",
+      "To ripen green coffee cherries",
+      "To measure the elevation of a farm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which part of a coffee plant develops into the fruit after flowering?",
+    "choices": [
+      "The leaf vein",
+      "The ovary of the coffee flower",
+      "The root tip",
+      "The bark cambium only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does decaffeination remove from coffee?",
+    "choices": [
+      "All of its aromatic oils",
+      "Every carbohydrate",
+      "Most of its caffeine",
+      "The coffee seed's outer shell before harvest"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which port city gave its name to a traditional coffee origin term, Mocha?",
+    "choices": [
+      "Alexandria in Egypt",
+      "Mombasa in Kenya",
+      "Surabaya in Indonesia",
+      "Al-Makha in Yemen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Coffeehouses became important social institutions in the Ottoman world for what activity?",
+    "choices": [
+      "Conversation, games, and exchange of news",
+      "Only the storage of coffee cherries",
+      "Training cavalry horses",
+      "Manufacturing porcelain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was a notable role of many seventeenth-century European coffeehouses?",
+    "choices": [
+      "They functioned only as royal kitchens",
+      "They served as places for business, discussion, and information",
+      "They were exclusively botanical gardens",
+      "They were military barracks for roasters"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which species is generally more genetically diverse and caffeine-rich than Arabica in commercial cultivation?",
+    "choices": [
+      "Coffea arabica",
+      "Coffea eugenioides",
+      "Coffea canephora",
+      "Coffea stenophylla"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Arabica coffee is thought to have arisen naturally from a cross involving Coffea canephora and which other species?",
+    "choices": [
+      "Coffea liberica",
+      "Coffea racemosa",
+      "Coffea excelsa",
+      "Coffea eugenioides"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which term describes the coffee plant's botanical fruit rather than the roasted seed?",
+    "choices": [
+      "Cherry",
+      "Bean",
+      "Parchment",
+      "Parchment nut"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is parchment coffee?",
+    "choices": [
+      "A coffee recipe written on paper",
+      "A dried coffee seed still enclosed in its parchment layer",
+      "A roast defect caused by burnt paper",
+      "A ground coffee used in a paper filter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a coffee dry mill commonly do?",
+    "choices": [
+      "Ferment ripe cherries under water",
+      "Roast beans for espresso",
+      "Remove dried husk or parchment and grade the green beans",
+      "Brew samples for café customers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the main commercial distinction between a single-origin coffee and a blend?",
+    "choices": [
+      "A single-origin is always dark roasted while a blend is light",
+      "A blend contains caffeine but a single-origin does not",
+      "A single-origin must be decaffeinated",
+      "A single-origin is sourced from a defined origin while a blend combines origins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which coffee tree disease is caused by the fungus Hemileia vastatrix?",
+    "choices": [
+      "Coffee leaf rust",
+      "Coffee berry borer",
+      "Root-knot nematode",
+      "Bacterial blight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the usual chromosome condition of cultivated Coffea arabica?",
+    "choices": [
+      "It is diploid with 22 chromosomes",
+      "It is allotetraploid with 44 chromosomes",
+      "It is hexaploid with 66 chromosomes",
+      "It is haploid with 11 chromosomes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the usual chromosome count reported for Coffea canephora?",
+    "choices": [
+      "11 chromosomes",
+      "44 chromosomes",
+      "22 chromosomes",
+      "66 chromosomes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Typica and Bourbon are best classified as what within Arabica coffee?",
+    "choices": [
+      "Processing machines",
+      "Roast stages",
+      "Fermentation organisms",
+      "Traditional cultivars or varieties"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The celebrated Geisha or Gesha coffees from Panama are associated with which botanical species?",
+    "choices": [
+      "Coffea arabica",
+      "Coffea canephora",
+      "Coffea liberica",
+      "Coffea eugenioides"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does elevation often influence in coffee cultivation?",
+    "choices": [
+      "It determines whether coffee is a cereal grain",
+      "Cooler conditions can slow fruit maturation and affect flavor development",
+      "It removes the need for any processing",
+      "It converts Arabica plants into Robusta plants"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a common goal of selective hand-picking at harvest?",
+    "choices": [
+      "Collecting only fallen branches",
+      "Avoiding all sorting at the mill",
+      "Maximizing the proportion of ripe cherries",
+      "Picking cherries before flowering"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "During washed processing, what is commonly removed by fermentation and washing?",
+    "choices": [
+      "The coffee embryo itself",
+      "The roasted surface oil",
+      "The caffeine molecule",
+      "Fruit mucilage surrounding the parchment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is coffee mucilage?",
+    "choices": [
+      "A sticky pectin-rich layer around the parchment",
+      "The woody trunk of the coffee plant",
+      "A mineral coating on a roasting drum",
+      "A volatile oil formed only after grinding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is anaerobic coffee fermentation?",
+    "choices": [
+      "Drying beans in direct sunlight only",
+      "Fermentation conducted with limited or absent oxygen",
+      "Roasting without a heat source",
+      "A process that removes every microorganism"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why is water activity monitored while green coffee dries?",
+    "choices": [
+      "It measures the roast color of brewed coffee",
+      "It determines the number of espresso shots",
+      "It helps assess storage stability and mold risk",
+      "It replaces sensory evaluation entirely"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What are quakers in a batch of roasted coffee?",
+    "choices": [
+      "Beans deliberately roasted past second crack",
+      "Fragments of the coffee plant's roots",
+      "Fermented beans with blue mold by definition",
+      "Pale, underdeveloped beans often linked to unripe fruit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the coffee berry borer?",
+    "choices": [
+      "An insect that can burrow into coffee fruit and seeds",
+      "A fungus that colors roasted beans black",
+      "A machine used to sort peaberries",
+      "A bird that pollinates coffee flowers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a peaberry?",
+    "choices": [
+      "A berry-flavored roast additive",
+      "A coffee cherry that develops one rounded seed instead of the usual pair",
+      "A seed that has been split into four pieces",
+      "A cherry picked after it has fallen and fermented"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In roasting, what does rate of rise usually describe?",
+    "choices": [
+      "How fast brewed coffee flows through a filter",
+      "How many cherries a picker harvests per hour",
+      "How quickly the bean or environment temperature is changing",
+      "How quickly a coffee plant grows new roots"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is development time in roast profiling?",
+    "choices": [
+      "The time a seed spends in the nursery before planting",
+      "The interval between flowering and cherry formation",
+      "The time a grinder takes to cool",
+      "The period from first crack to the end of the roast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What generally happens at second crack in a coffee roast?",
+    "choices": [
+      "More advanced structural fracturing begins as gases and pressure continue to build",
+      "The green bean absorbs water and becomes a cherry",
+      "The roaster switches automatically to cold brew",
+      "The bean returns to its original density"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which process describes the thermal breakdown of organic material during roasting?",
+    "choices": [
+      "Osmosis",
+      "Pyrolysis",
+      "Photosynthesis",
+      "Transpiration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why can very dark roasting reduce some origin-specific flavor differences?",
+    "choices": [
+      "Dark roasting preserves more raw fruit pulp",
+      "It removes all volatile compounds before they form",
+      "Roast-derived compounds increasingly dominate the flavor profile",
+      "It makes every coffee genetically identical"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does total dissolved solids, or TDS, measure in brewed coffee?",
+    "choices": [
+      "The mass of whole green beans in a sack",
+      "The temperature of a roasting flame",
+      "The number of coffee grounds retained by a filter",
+      "The concentration of dissolved material in the beverage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is extraction yield in coffee brewing?",
+    "choices": [
+      "The percentage of soluble material removed from the dry grounds",
+      "The percentage of ripe cherries on a farm",
+      "The volume of steam produced by an espresso boiler",
+      "The amount of crema retained after pouring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why can channeling produce both sour and bitter notes in one espresso?",
+    "choices": [
+      "It makes every particle extract identically",
+      "Some areas under-extract while fast water paths over-extract nearby grounds",
+      "It removes acidity before producing bitterness",
+      "It changes Arabica into Robusta during brewing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is bypass water in a percolation brew?",
+    "choices": [
+      "Water used to wash coffee cherries at the mill",
+      "Condensation inside a roasting drum",
+      "Water added around or after the coffee bed without passing through the grounds",
+      "Water trapped inside an unroasted seed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is fines migration?",
+    "choices": [
+      "The movement of coffee farms between countries",
+      "The release of carbon dioxide during first crack",
+      "The grading of beans by export price",
+      "Small ground particles moving through the coffee bed and affecting flow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the primary mechanical difference between a burr grinder and a blade grinder?",
+    "choices": [
+      "Burrs crush between surfaces, while a blade chops with a spinning edge",
+      "Burrs use hot water, while blades use steam",
+      "Burrs roast beans, while blades only cool them",
+      "Burrs remove caffeine, while blades preserve it"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why can calcium and magnesium in brewing water matter to extraction?",
+    "choices": [
+      "They roast the coffee without heat",
+      "They contribute hardness and can interact with coffee acids and soluble compounds",
+      "They determine the coffee plant's chromosome count",
+      "They prevent any soluble material from dissolving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does alkalinity in brewing water primarily help buffer?",
+    "choices": [
+      "Grind size",
+      "Roast airflow",
+      "Acidity",
+      "Bean density"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is preinfusion in espresso brewing?",
+    "choices": [
+      "A second roasting cycle after grinding",
+      "A rinse of the portafilter handle",
+      "A cooling stage after the drink is served",
+      "A brief initial wetting of the puck before full-pressure flow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is pressure profiling on an espresso machine?",
+    "choices": [
+      "Varying pump pressure during the shot rather than holding one level throughout",
+      "Changing the café's water pressure once a month",
+      "Measuring pressure inside green coffee cherries",
+      "Adding pressure to a sealed bag during shipping"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is distinctive about a lever espresso machine?",
+    "choices": [
+      "It grinds beans with a hand lever but cannot brew",
+      "A lever controls piston pressure that drives water through the coffee",
+      "It uses only steam and no water",
+      "It ferments coffee cherries in its group head"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How does a vacuum or siphon brewer move brewed coffee into its lower chamber?",
+    "choices": [
+      "A blade spins the liquid through a mesh",
+      "A pump injects milk into the lower chamber",
+      "Cooling creates a pressure change that draws liquid downward",
+      "Gravity pulls water upward before brewing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What filter characteristic is especially associated with a traditional Chemex brewer?",
+    "choices": [
+      "A perforated metal espresso screen",
+      "A loose wool filter",
+      "A ceramic tile with no openings",
+      "A thick bonded paper filter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The V60 pour-over is named for what physical design feature?",
+    "choices": [
+      "A roughly 60-degree conical angle",
+      "A 60-millimeter metal piston",
+      "A sixty-hole flat plate",
+      "A sixty-minute brew cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What distinguishes a Kalita Wave brewer from a typical conical V-shaped pour-over?",
+    "choices": [
+      "It requires espresso pressure",
+      "It uses a flat-bottom bed and a wave-shaped paper filter",
+      "It brews without water",
+      "It ferments the grounds before filtration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a Vietnamese phin?",
+    "choices": [
+      "A coffee tree cultivar from Ethiopia",
+      "A drum used for first-crack detection",
+      "A small metal gravity brewer that sits atop a cup",
+      "A device for measuring water alkalinity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Coffee cultivation spread from Yemen to other regions after what historical development?",
+    "choices": [
+      "Coffee was first domesticated in Iceland",
+      "European roasters invented the coffee plant",
+      "The Ottoman Empire banned all coffee farming",
+      "Yemen became an early center for organized coffee cultivation and trade"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What was Lloyd's of London originally associated with before becoming an insurance market?",
+    "choices": [
+      "A London coffeehouse where maritime information was exchanged",
+      "A coffee plantation in Jamaica",
+      "A German roasting-machine factory",
+      "A Parisian espresso guild"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which sensory defect is classically associated with some coffees affected by potato taste disease?",
+    "choices": [
+      "A distinct dark-chocolate sweetness",
+      "A raw potato-like aroma and flavor",
+      "A clean jasmine fragrance",
+      "A pronounced toasted almond note"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why are green coffee beans commonly stored in breathable bags rather than sealed while still damp?",
+    "choices": [
+      "Breathable bags continue the roasting reaction",
+      "Sealed bags remove all caffeine",
+      "Managing moisture and airflow helps reduce spoilage risk",
+      "Airflow turns parchment into roasted coffee"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In coffee sensory work, what does finish describe?",
+    "choices": [
+      "The exact roast temperature at first crack",
+      "The final grade assigned to a farm",
+      "The polished metal at the end of a grinder",
+      "The sensations and flavors that remain after swallowing or spitting"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why can a refractometer be useful to a coffee brewer?",
+    "choices": [
+      "It estimates dissolved solids in the brewed coffee",
+      "It identifies the coffee species from leaf shape",
+      "It measures the pressure of a portafilter spring",
+      "It separates ripe cherries from unripe ones"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a roast profile?",
+    "choices": [
+      "A map showing every coffeehouse in a city",
+      "A record of temperature and timing decisions throughout roasting",
+      "A genetic chart of Arabica chromosomes",
+      "A list of drink ingredients on a café menu"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why does coffee density generally change as roasting progresses?",
+    "choices": [
+      "The bean absorbs minerals from the roaster",
+      "Dark roasting adds water to the seed",
+      "Moisture and gases leave while the bean expands, lowering bulk density",
+      "Density is fixed because the cell structure never changes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the main distinction between immersion and percolation brewing?",
+    "choices": [
+      "Immersion always uses pressure, while percolation never uses a filter",
+      "Immersion uses roasted beans, while percolation uses green beans",
+      "Immersion is dry, while percolation uses steam only",
+      "Immersion steeps grounds in water, while percolation passes water through them"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does the term single dosing mean for a coffee grinder?",
+    "choices": [
+      "Grinding one measured batch at a time rather than keeping a full hopper loaded",
+      "Using one dose for an entire harvest",
+      "Brewing a single-origin coffee without a filter",
+      "Roasting only one bean in a drum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a coffee blender's main reason for combining different coffees?",
+    "choices": [
+      "To make Arabica seeds genetically cross during brewing",
+      "To create a desired, consistent flavor profile across components",
+      "To remove all acidity from every component",
+      "To avoid weighing the coffee at all"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In green-coffee grading, what is a primary coffee defect?",
+    "choices": [
+      "A harmless change in cup color caused by a white mug",
+      "A normal variation in roast development",
+      "A serious defect present in the bean itself, such as a full black or sour bean",
+      "A difference between two brewing temperatures"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does the term washed-process coffee most directly indicate?",
+    "choices": [
+      "The roasted beans were rinsed after grinding",
+      "The coffee was brewed in a washing machine",
+      "The plants were irrigated only with distilled water",
+      "The fruit layers were removed with a water-assisted process before drying"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does a moisture meter estimate in a lot of green coffee?",
+    "choices": [
+      "The water content of the beans",
+      "The caffeine level in the brewed cup",
+      "The number of cherries on a branch",
+      "The pressure inside an espresso boiler"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a coffee nursery used for?",
+    "choices": [
+      "Storing roasted coffee for café service",
+      "Raising young coffee seedlings before field planting",
+      "Fermenting ripe cherries after harvest",
+      "Testing espresso pressure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which cultivar is especially associated with high-quality Kenyan coffee?",
+    "choices": [
+      "Caturra",
+      "Pacamara",
+      "SL28",
+      "Maragogipe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the purpose of distributing espresso grounds before tamping?",
+    "choices": [
+      "To heat the coffee bed to roasting temperature",
+      "To remove the bean's caffeine before brewing",
+      "To add water evenly without using a machine",
+      "To create a more even density and reduce likely flow channels"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  }
+]

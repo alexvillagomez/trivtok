@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a newspaper's editorial?",
+    "choices": [
+      "A staff opinion piece",
+      "A classified advertisement",
+      "A weather table",
+      "A photo caption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which medium sends programs through sound?",
+    "choices": [
+      "Radio",
+      "Print",
+      "Cinema",
+      "Billboards"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is a headline?",
+    "choices": [
+      "A story's title",
+      "A reporter's salary",
+      "A studio light",
+      "A station license"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What does a camera record?",
+    "choices": [
+      "Only audio",
+      "A visual image",
+      "A printed edition",
+      "A ratings survey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A person who gathers news is a what?",
+    "choices": [
+      "Journalist",
+      "Advertiser",
+      "Subscriber",
+      "Announcer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a newspaper's front page?",
+    "choices": [
+      "Its opening page",
+      "Its archive index",
+      "Its staff directory",
+      "Its subscription form"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which device receives radio signals?",
+    "choices": [
+      "A scanner",
+      "A receiver",
+      "A projector",
+      "A typewriter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a television schedule?",
+    "choices": [
+      "A list of programs",
+      "A list of advertisers",
+      "A camera manual",
+      "A newsroom map"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a byline?",
+    "choices": [
+      "A writer's credit",
+      "A broadcast delay",
+      "A paper size",
+      "A sound effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is newsprint?",
+    "choices": [
+      "Ink for radio",
+      "Paper for newspapers",
+      "Film for television",
+      "Tape for interviews"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a microphone capture?",
+    "choices": [
+      "Images",
+      "Sound",
+      "Headlines",
+      "Ratings"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a television anchor?",
+    "choices": [
+      "A studio camera",
+      "A news presenter",
+      "A print editor",
+      "A signal tower"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a press release?",
+    "choices": [
+      "An official news statement",
+      "A radio frequency",
+      "A camera lens",
+      "A viewer survey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is broadcasting?",
+    "choices": [
+      "Mailing newspapers",
+      "Sending programs to audiences",
+      "Editing photographs",
+      "Selling subscriptions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is a caption?",
+    "choices": [
+      "A story's lead",
+      "Text explaining an image",
+      "A station slogan",
+      "A reporter's question"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a newsroom?",
+    "choices": [
+      "A theater audience",
+      "A place where news is produced",
+      "A transmitter room",
+      "A printing machine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is an interview?",
+    "choices": [
+      "A question-and-answer exchange",
+      "A printed correction",
+      "A program rating",
+      "A camera movement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is a broadcast signal?",
+    "choices": [
+      "A paper proof",
+      "A transmitted message",
+      "A headline style",
+      "A viewer panel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is a source in journalism?",
+    "choices": [
+      "A source code file",
+      "A person or record providing information",
+      "A studio microphone",
+      "A newspaper section"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a news bulletin?",
+    "choices": [
+      "A long feature article",
+      "A short news update",
+      "A film soundtrack",
+      "A market survey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is the inverted pyramid?",
+    "choices": [
+      "A news structure placing key facts first",
+      "A broadcast antenna design",
+      "A newspaper folding method",
+      "A television camera angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a lead in a news story?",
+    "choices": [
+      "The final paragraph",
+      "The opening summary",
+      "The editor's signature",
+      "The audio track"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is gatekeeping?",
+    "choices": [
+      "Operating a studio door",
+      "Selecting information for publication",
+      "Measuring signal strength",
+      "Selling airtime"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a feature story?",
+    "choices": [
+      "A station identifier",
+      "An in-depth human-interest article",
+      "A short weather read",
+      "A classified listing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is objectivity often intended to provide?",
+    "choices": [
+      "Fair, evidence-based reporting",
+      "Guaranteed audience growth",
+      "Faster camera operation",
+      "Higher printing speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is attribution?",
+    "choices": [
+      "Removing a source's name",
+      "Identifying the origin of information",
+      "Adding music to a report",
+      "Counting newspaper pages"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does libel involve?",
+    "choices": [
+      "False spoken claims",
+      "False published claims harming reputation",
+      "A delayed broadcast",
+      "A camera defect"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is a public service announcement?",
+    "choices": [
+      "A paid product commercial",
+      "A message intended for public welfare",
+      "A private interview",
+      "A ratings report"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a media conglomerate?",
+    "choices": [
+      "A single local station",
+      "A company owning multiple media outlets",
+      "A newsroom assignment desk",
+      "A listener feedback form"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is agenda setting?",
+    "choices": [
+      "Scheduling studio crews",
+      "Influencing which issues seem important",
+      "Writing a station jingle",
+      "Checking microphone levels"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is framing in news?",
+    "choices": [
+      "Mounting a picture frame",
+      "Presenting an issue through a particular angle",
+      "Formatting a newspaper page",
+      "Soundproofing a studio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is a deadline?",
+    "choices": [
+      "A program opening",
+      "A time by which work must be completed",
+      "A camera focus mark",
+      "A subscription renewal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a correction?",
+    "choices": [
+      "A notice fixing a published error",
+      "A new advertising rate",
+      "A replacement microphone",
+      "A camera rehearsal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a stringer?",
+    "choices": [
+      "A studio musician",
+      "A freelance news contributor",
+      "A printing technician",
+      "A television viewer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a news embargo?",
+    "choices": [
+      "A cancelled interview",
+      "A restriction on release until a specified time",
+      "A broken transmitter",
+      "A newspaper strike"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a public broadcaster?",
+    "choices": [
+      "A private advertiser",
+      "An organization serving public communication needs",
+      "A newspaper distributor",
+      "A film producer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What was the significance of the penny press?",
+    "choices": [
+      "It made newspapers cheaper for mass readers",
+      "It introduced color television",
+      "It replaced radio drama",
+      "It eliminated advertising"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What did early radio broadcasting chiefly demonstrate?",
+    "choices": [
+      "Personalized print delivery",
+      "Mass distribution of live sound",
+      "Computerized editing",
+      "Audience paywalls"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is convergence in media?",
+    "choices": [
+      "Separating all media channels",
+      "Combining technologies and media forms",
+      "Increasing paper thickness",
+      "Reducing program length"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a public sphere?",
+    "choices": [
+      "A broadcast studio",
+      "A space for public discussion of shared matters",
+      "A newspaper printing plate",
+      "A ratings database"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is cultivation theory concerned with?",
+    "choices": [
+      "Long-term effects of repeated media portrayals",
+      "Short-term microphone noise",
+      "Newspaper delivery routes",
+      "Camera battery life"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is uses-and-gratifications theory asking?",
+    "choices": [
+      "How stations set prices",
+      "Why audiences choose and use media",
+      "How printers mix inks",
+      "Why cameras zoom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the hypodermic needle model?",
+    "choices": [
+      "A method for editing film",
+      "A model of direct, powerful media effects",
+      "A radio repair technique",
+      "A newspaper layout grid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the two-step flow model?",
+    "choices": [
+      "A two-camera production",
+      "Influence moving through opinion leaders",
+      "A paired newspaper edition",
+      "A two-stage transmission failure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is a media market?",
+    "choices": [
+      "An area served by related media outlets",
+      "A studio shopping event",
+      "A newspaper stock exchange",
+      "A radio repair shop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is audience segmentation?",
+    "choices": [
+      "Combining viewers into one group",
+      "Dividing audiences by relevant characteristics",
+      "Removing audience feedback",
+      "Counting only subscribers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does reach measure?",
+    "choices": [
+      "Program production cost",
+      "The number of distinct people exposed",
+      "The length of a headline",
+      "The loudness of a signal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does frequency measure in advertising?",
+    "choices": [
+      "The station's broadcast band",
+      "How often an audience member is exposed",
+      "The number of newsroom staff",
+      "The speed of a camera"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a focus group?",
+    "choices": [
+      "A moderated discussion used for audience research",
+      "A team of camera operators",
+      "A newspaper editorial board",
+      "A radio transmission crew"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a pilot program?",
+    "choices": [
+      "A program about aviation",
+      "A test episode made before full production",
+      "A broadcast emergency code",
+      "A printed audience profile"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a rundown?",
+    "choices": [
+      "A ratings decline",
+      "An ordered list of program elements",
+      "A newspaper correction",
+      "A studio evacuation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a sound bite?",
+    "choices": [
+      "A microphone malfunction",
+      "A brief selected audio quotation",
+      "A radio frequency shift",
+      "A music copyright notice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a jump cut?",
+    "choices": [
+      "An abrupt edit that disrupts continuous time or space",
+      "A newspaper page break",
+      "A radio signal boost",
+      "A television ratings jump"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is b-roll?",
+    "choices": [
+      "The primary interview audio",
+      "Supplementary footage supporting the main story",
+      "A broadcast license form",
+      "A newspaper's second edition"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a lower third?",
+    "choices": [
+      "A camera placed low",
+      "On-screen text identifying a person or topic",
+      "A newspaper's bottom column",
+      "A radio program segment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is continuity editing designed to do?",
+    "choices": [
+      "Increase commercial frequency",
+      "Maintain a smooth sense of time and space",
+      "Reduce audience research",
+      "Change a station's ownership"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is diegetic sound?",
+    "choices": [
+      "Sound originating within the story world",
+      "Music added after transmission",
+      "Noise from a printing press",
+      "Silence between programs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a master control room?",
+    "choices": [
+      "A newspaper archive",
+      "The broadcast center managing outgoing signals",
+      "A viewer focus group",
+      "A camera repair desk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a news ticker?",
+    "choices": [
+      "A reporter's stopwatch",
+      "Scrolling text carrying brief updates",
+      "A newspaper subscription card",
+      "A studio lighting rig"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is native advertising?",
+    "choices": [
+      "Advertising in a foreign language",
+      "Paid content designed to resemble surrounding editorial material",
+      "A public emergency message",
+      "An unpaid review"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is confirmation bias in reporting?",
+    "choices": [
+      "Favoring information that supports existing beliefs",
+      "Checking two independent sources",
+      "Balancing opposing viewpoints",
+      "Correcting a factual error"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is source verification?",
+    "choices": [
+      "Choosing a catchy headline",
+      "Checking whether information and its origin are reliable",
+      "Editing a broadcast intro",
+      "Measuring audience reach"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a conflict of interest?",
+    "choices": [
+      "A disagreement between viewers",
+      "A personal interest that could compromise professional judgment",
+      "A debate between anchors",
+      "A dispute over signal quality"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is informed consent in interviewing?",
+    "choices": [
+      "Permission to use a studio",
+      "A participant's understanding and agreement to participate",
+      "A producer's approval of a script",
+      "A station's legal registration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the principle of minimizing harm?",
+    "choices": [
+      "Reducing avoidable damage while serving the public interest",
+      "Avoiding every controversial topic",
+      "Removing all anonymous sources",
+      "Limiting broadcasts to short segments"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is media literacy?",
+    "choices": [
+      "Fast newspaper reading",
+      "The ability to access, analyze, evaluate, and create media",
+      "Training in camera repair",
+      "Knowledge of station schedules"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a parasocial relationship?",
+    "choices": [
+      "A contract between broadcasters",
+      "A perceived one-sided relationship with a media figure",
+      "A partnership between newspapers",
+      "A producer's family connection"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is selective exposure?",
+    "choices": [
+      "A camera lens setting",
+      "Choosing media that aligns with one's interests or views",
+      "A station's signal boundary",
+      "A newspaper's subscription filter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is spiral of silence theory?",
+    "choices": [
+      "People may withhold views they believe are unpopular",
+      "Radio listeners prefer quiet programs",
+      "Editors remove unused columns",
+      "Audiences stop watching repeats"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a media effects study?",
+    "choices": [
+      "A test of printing machinery",
+      "Research examining how media may influence people or society",
+      "A survey of camera brands",
+      "An audit of broadcast equipment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is operational broadcasting?",
+    "choices": [
+      "Writing an editorial",
+      "Coordinating technical and scheduling activities for transmission",
+      "Conducting a viewer interview",
+      "Designing a newspaper logo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a format in broadcasting?",
+    "choices": [
+      "A legal ownership record",
+      "A consistent structure and style for a program or station",
+      "A camera storage card",
+      "A newspaper paper grade"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is an omnibus survey?",
+    "choices": [
+      "A survey carrying questions for multiple clients",
+      "A single-station ratings report",
+      "A broadcast of one event",
+      "A newspaper archive search"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a representative sample?",
+    "choices": [
+      "The largest possible audience",
+      "A sample reflecting important traits of the target population",
+      "A group of newsroom managers",
+      "A list of premium subscribers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is reliability in research?",
+    "choices": [
+      "How popular a program is",
+      "The consistency of a measurement or method",
+      "Whether a source is anonymous",
+      "How quickly data are collected"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is validity in audience research?",
+    "choices": [
+      "The number of survey pages",
+      "Whether a measure captures what it claims to measure",
+      "The age of a broadcast license",
+      "The speed of statistical software"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is media ownership concentration?",
+    "choices": [
+      "Control of many outlets by relatively few owners",
+      "A station's audience loyalty",
+      "A newspaper's narrow column width",
+      "A producer's specialist training"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the public interest test?",
+    "choices": [
+      "A commercial price check",
+      "An assessment of whether publication benefits society",
+      "A camera quality test",
+      "A listener preference poll"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is anonymization of a source?",
+    "choices": [
+      "Adding a source's biography",
+      "Protecting identifying details from publication",
+      "Replacing a source with an expert",
+      "Recording an interview off camera"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is editorial independence?",
+    "choices": [
+      "Freedom from all factual checks",
+      "Making content decisions without improper outside influence",
+      "Allowing advertisers to approve stories",
+      "Publishing without an editor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a correction policy?",
+    "choices": [
+      "A procedure for acknowledging and fixing errors",
+      "A plan to increase advertising",
+      "A method for changing camera angles",
+      "A schedule for repeating news"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is source confidentiality?",
+    "choices": [
+      "Publishing every source's identity",
+      "An agreement to protect a source's identity",
+      "A rule against using documents",
+      "A method for rating interviews"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a news values framework?",
+    "choices": [
+      "A station's financial report",
+      "Criteria used to judge a story's newsworthiness",
+      "A newspaper's printing budget",
+      "A camera operator's checklist"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is decontextualization?",
+    "choices": [
+      "Adding historical background",
+      "Removing information from its original context",
+      "Translating a news report",
+      "Moving a story to the front page"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a fact-checking desk?",
+    "choices": [
+      "A team that tests claims against evidence",
+      "A place for selling newspapers",
+      "A radio reception booth",
+      "A television audience panel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is algorithmic curation?",
+    "choices": [
+      "Manual newspaper sorting",
+      "Automated selection and ranking of content",
+      "A radio script format",
+      "A television lighting method"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is filter-bubble theory?",
+    "choices": [
+      "A model of studio acoustics",
+      "The idea that personalization limits exposure to differing views",
+      "A technique for cleaning camera lenses",
+      "A method for reducing print costs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is media agenda building?",
+    "choices": [
+      "Arranging a studio set",
+      "How sources and institutions help shape media attention",
+      "Writing a station's schedule",
+      "Measuring audience memory"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a transnational media flow?",
+    "choices": [
+      "Movement of media content across national borders",
+      "A local newspaper delivery route",
+      "A television signal within one room",
+      "A radio interview technique"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is cultural proximity?",
+    "choices": [
+      "Physical distance from a station",
+      "Audience preference for culturally familiar content",
+      "A newspaper's geographic circulation",
+      "A camera's focus range"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is remediation?",
+    "choices": [
+      "Repairing a transmitter",
+      "Representing one medium through another medium",
+      "Correcting a spelling error",
+      "Restoring an archived film"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is intertextuality?",
+    "choices": [
+      "A text with no references",
+      "Meaning created through relationships among texts",
+      "A television signal overlap",
+      "A newspaper's internal memo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is encoding and decoding?",
+    "choices": [
+      "Producing meaning and interpreting meaning",
+      "Compressing video and printing text",
+      "Encrypting sources and deleting files",
+      "Writing headlines and selling ads"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a preferred reading?",
+    "choices": [
+      "A reader's favorite newspaper",
+      "An interpretation aligned with a text's intended dominant meaning",
+      "A private broadcast subscription",
+      "A producer's first script draft"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is negotiated reading?",
+    "choices": [
+      "Reading only negotiated contracts",
+      "Accepting parts of a dominant meaning while adapting others",
+      "Reading news aloud in a studio",
+      "Comparing two newspaper fonts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is oppositional reading?",
+    "choices": [
+      "Reading a story from its final paragraph",
+      "Interpreting a text against its intended dominant meaning",
+      "Watching television without sound",
+      "Rejecting all audience research"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is media ritual theory?",
+    "choices": [
+      "Viewing media as practices that organize shared social life",
+      "A schedule for religious broadcasts",
+      "A method for repeating advertisements",
+      "A theory of microphone placement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is mediatization?",
+    "choices": [
+      "Digitizing a newspaper archive",
+      "The growing influence of media logic on social institutions",
+      "Reducing broadcast transmission power",
+      "Measuring a program's audience"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the propaganda model concerned with?",
+    "choices": [
+      "Camera framing choices",
+      "Structural factors that shape mass-media content",
+      "Radio music licensing",
+      "Television set design"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is hegemony in media studies?",
+    "choices": [
+      "A system for measuring ratings",
+      "The normalization of dominant ideas through consent and culture",
+      "A method for recording interviews",
+      "A newspaper ownership transfer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

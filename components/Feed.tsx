@@ -25,9 +25,59 @@ type Slot = {
   shownAt: number;
 };
 
+// Tiny persistent game state: everything the top HUD shows. Kept in
+// localStorage so streak/XP/accuracy survive reloads and feel continuous.
+type Stats = {
+  xp: number;
+  streak: number; // current run of consecutive correct answers
+  best: number; // best streak ever
+  answered: number;
+  correct: number;
+};
+
+const ZERO_STATS: Stats = { xp: 0, streak: 0, best: 0, answered: 0, correct: 0 };
+const STATS_KEY = "trivtok-stats";
+const XP_PER_CORRECT = 12;
+
+function loadStats(): Stats {
+  try {
+    const raw = window.localStorage.getItem(STATS_KEY);
+    if (raw) return { ...ZERO_STATS, ...JSON.parse(raw) };
+  } catch {
+    // ignore corrupt/unavailable storage
+  }
+  return ZERO_STATS;
+}
+
 type Props = {
   questions: PublicQuestion[];
 };
+
+// Small line-art glyphs for the HUD — drawn, not emoji.
+function FlameIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M12 23a7 7 0 0 0 7-7c0-2-1-3.9-2.5-5.5.2 1.4-.6 2.6-1.7 3 .8-2.3-.3-4.9-2.3-6.5-.5 3-2.8 4.2-4 6.5-.9 1.7-.6 4 .9 5.4A6.98 6.98 0 0 0 12 23z" />
+    </svg>
+  );
+}
+
+function TargetIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+      <circle cx="12" cy="12" r="8" />
+      <circle cx="12" cy="12" r="3" />
+    </svg>
+  );
+}
+
+function BoltIcon() {
+  return (
+    <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M13 2 4 14h6l-1 8 9-12h-6l1-8z" />
+    </svg>
+  );
+}
 
 function makeSlot(card: {
   nextQuestion: PublicQuestion;
@@ -50,6 +100,8 @@ export default function Feed({ questions }: Props) {
   const [dragY, setDragY] = useState(0);
   const [dragging, setDragging] = useState(false);
   const [saveError, setSaveError] = useState<string | null>(null);
+  const [stats, setStats] = useState<Stats>(ZERO_STATS);
+  const [banner, setBanner] = useState<string | null>(null);
 
   const pointerDown = useRef(false);
   const startY = useRef(0);
@@ -61,11 +113,15 @@ export default function Feed({ questions }: Props) {
   const userId = useRef<string | null>(null);
   const sessionId = useRef<string | null>(null);
 
+  const bannerTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
   // Keep the latest values readable from event handlers without re-binding them.
   const slotsRef = useRef(slots);
   const indexRef = useRef(index);
+  const statsRef = useRef(stats);
   slotsRef.current = slots;
   indexRef.current = index;
+  statsRef.current = stats;
 
   function getIdentity(): { userId: string; sessionId: string } {
     if (!userId.current) {
@@ -121,10 +177,64 @@ export default function Feed({ questions }: Props) {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
+  // Load persisted game state once, then mirror every change back to storage.
+  useEffect(() => {
+    setStats(loadStats());
+  }, []);
+  useEffect(() => {
+    try {
+      window.localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+    } catch {
+      // ignore unavailable storage
+    }
+  }, [stats]);
+
+  useEffect(() => {
+    return () => {
+      if (bannerTimer.current) clearTimeout(bannerTimer.current);
+    };
+  }, []);
+
+  function showBanner(text: string) {
+    setBanner(text);
+    if (bannerTimer.current) clearTimeout(bannerTimer.current);
+    bannerTimer.current = setTimeout(() => setBanner(null), 1800);
+  }
+
   function patchSlot(i: number, patch: Partial<Slot>) {
     setSlots((prev) =>
       prev.map((s, idx) => (idx === i ? { ...s, ...patch } : s)),
     );
+  }
+
+  // The core reward beat: record the answer, fire a haptic, and roll the
+  // streak / XP / accuracy forward. Only the first answer on a card counts.
+  function answer(i: number, slotIndex: number) {
+    const slot = slotsRef.current[slotIndex];
+    if (!slot || slot.selectedIndex !== null) return;
+    patchSlot(slotIndex, { selectedIndex: i });
+
+    const correct = i === slot.question.correctIndex;
+    if (typeof navigator !== "undefined" && navigator.vibrate) {
+      navigator.vibrate(correct ? 18 : [6, 28, 6]);
+    }
+
+    const prev = statsRef.current;
+    const streak = correct ? prev.streak + 1 : 0;
+    const best = Math.max(prev.best, streak);
+    setStats({
+      xp: prev.xp + (correct ? XP_PER_CORRECT : 0),
+      streak,
+      best,
+      answered: prev.answered + 1,
+      correct: prev.correct + (correct ? 1 : 0),
+    });
+
+    if (correct && streak >= 2 && streak > prev.best) {
+      showBanner(`NEW BEST · ${streak}`);
+    } else if (correct && streak > 0 && streak % 5 === 0) {
+      showBanner("TOP 8% TODAY");
+    }
   }
 
   // Move to the next card. Always free (the buffer is preloaded); the first
@@ -284,35 +394,35 @@ export default function Feed({ questions }: Props) {
               <QuestionCard
                 question={slot.question}
                 selectedIndex={slot.selectedIndex}
-                onSelect={(choice) =>
-                  isCurrent && patchSlot(i, { selectedIndex: choice })
+                onSelect={(choice) => isCurrent && answer(choice, i)}
+                liked={slot.liked}
+                reported={slot.reported}
+                onToggleLike={() =>
+                  isCurrent && patchSlot(i, { liked: !slot.liked })
                 }
+                onReport={() => isCurrent && report(i)}
                 onDoubleLike={() => isCurrent && patchSlot(i, { liked: true })}
               />
-              <div className="rail">
-                <button
-                  className={`rail-btn${slot.liked ? " rail-btn--liked" : ""}`}
-                  onClick={() => patchSlot(i, { liked: !slot.liked })}
-                  aria-label={slot.liked ? "Unlike" : "Like"}
-                >
-                  <span className="rail-icon">{slot.liked ? "♥" : "♡"}</span>
-                  <span className="rail-label">Like</span>
-                </button>
-                <button
-                  className={`rail-btn${slot.reported ? " rail-btn--reported" : ""}`}
-                  onClick={() => report(i)}
-                  disabled={slot.reported}
-                  aria-label={slot.reported ? "Reported" : "Report"}
-                >
-                  <span className="rail-icon">{slot.reported ? "✓" : "⚑"}</span>
-                  <span className="rail-label">
-                    {slot.reported ? "Sent" : "Report"}
-                  </span>
-                </button>
-              </div>
             </div>
           );
         })}
+
+        <div className="hud">
+          <div className={`stat stat--streak${stats.streak >= 3 ? " is-hot" : ""}`}>
+            <FlameIcon />
+            {stats.streak}
+          </div>
+          <div className="stat stat--acc">
+            <TargetIcon />
+            {stats.answered ? Math.round((stats.correct / stats.answered) * 100) : 0}%
+          </div>
+          <div className="stat stat--xp">
+            <BoltIcon />
+            {stats.xp.toLocaleString()}
+          </div>
+        </div>
+
+        {banner && <div className="banner">{banner}</div>}
       </div>
 
       {saveError && <div className="toast">{saveError}</div>}

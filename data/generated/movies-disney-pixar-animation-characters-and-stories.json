@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which film features Snow White living with seven dwarfs?",
+    "choices": [
+      "Snow White and the Seven Dwarfs",
+      "Cinderella",
+      "Sleeping Beauty",
+      "The Princess and the Frog"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What object does Cinderella leave behind at the royal ball?",
+    "choices": [
+      "A golden comb",
+      "A glass slipper",
+      "A silver crown",
+      "A jeweled necklace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is the mermaid protagonist of The Little Mermaid?",
+    "choices": [
+      "Belle",
+      "Jasmine",
+      "Ariel",
+      "Tiana"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the name of Aladdin's magical companion?",
+    "choices": [
+      "The Sultan",
+      "The Carpet",
+      "The Vizier",
+      "The Genie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In The Lion King, what kind of animal is Simba?",
+    "choices": [
+      "A lion prince",
+      "A meerkat",
+      "A hyena leader",
+      "A baboon shaman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which heroine agrees to live in a castle with the Beast?",
+    "choices": [
+      "Elsa",
+      "Belle",
+      "Merida",
+      "Pocahontas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What identity does Mulan adopt to join the Chinese army?",
+    "choices": [
+      "A palace chef",
+      "A traveling merchant",
+      "A male soldier",
+      "A royal messenger"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is Hercules in Disney's animated film?",
+    "choices": [
+      "A Roman emperor",
+      "A sea captain",
+      "A forest spirit",
+      "A demigod"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where does much of Tarzan's story take place?",
+    "choices": [
+      "The African jungle",
+      "The Arctic",
+      "A Caribbean island",
+      "The Australian outback"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Stitch originally designed to be?",
+    "choices": [
+      "A lost Hawaiian dog",
+      "An extraterrestrial experiment",
+      "A robot built by Lilo",
+      "A small blue sea spirit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is Tiana's profession before her transformation in The Princess and the Frog?",
+    "choices": [
+      "A royal guard",
+      "A schoolteacher",
+      "A restaurant cook and aspiring owner",
+      "A traveling musician"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is Rapunzel's distinctive physical feature in Tangled?",
+    "choices": [
+      "Wings",
+      "A talking cloak",
+      "A golden mechanical arm",
+      "Extremely long magical hair"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which character has ice and snow powers in Frozen?",
+    "choices": [
+      "Elsa",
+      "Anna",
+      "Olaf",
+      "Kristoff"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Polynesian wayfinder is chosen to help restore the heart of Te Fiti?",
+    "choices": [
+      "Nani",
+      "Moana",
+      "Kida",
+      "Jane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who is the protagonist of Encanto?",
+    "choices": [
+      "Isabela",
+      "Dolores",
+      "Mirabel",
+      "Luisa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What kind of animal is Judy Hopps in Zootopia?",
+    "choices": [
+      "A fox",
+      "A deer",
+      "A mouse",
+      "A rabbit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Baymax designed to be in Big Hero 6?",
+    "choices": [
+      "A healthcare companion robot",
+      "A police drone",
+      "A racing machine",
+      "A household chef"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is unusual about Kuzco at the beginning of The Emperor's New Groove?",
+    "choices": [
+      "He loses his voice",
+      "He is transformed into a llama",
+      "He becomes a frog",
+      "He is turned into a dragon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is the villain associated with the spindle curse in Sleeping Beauty?",
+    "choices": [
+      "Cruella de Vil",
+      "Mother Gothel",
+      "Maleficent",
+      "Yzma"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What kind of creatures are Woody and Buzz Lightyear?",
+    "choices": [
+      "Robots",
+      "Aliens",
+      "Dreams",
+      "Toys"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What species is Nemo in Finding Nemo?",
+    "choices": [
+      "Clownfish",
+      "Blue tang",
+      "Angelfish",
+      "Pufferfish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is Sulley in Monsters, Inc.?",
+    "choices": [
+      "A human child",
+      "A large blue monster",
+      "A robot engineer",
+      "A talking door"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is the race car protagonist of Cars?",
+    "choices": [
+      "Doc Hudson",
+      "Chick Hicks",
+      "Lightning McQueen",
+      "Jackson Storm"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is Carl Fredricksen in Up?",
+    "choices": [
+      "A young explorer",
+      "A talking dog",
+      "A wildlife scientist",
+      "A retired balloon salesman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What are the Parr family known for in The Incredibles?",
+    "choices": [
+      "Superpowers",
+      "Time travel",
+      "Space exploration",
+      "Musical talent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What kind of animal is Remy in Ratatouille?",
+    "choices": [
+      "A mouse",
+      "A rat",
+      "A ferret",
+      "A squirrel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is WALL-E?",
+    "choices": [
+      "A space pilot",
+      "A talking plant",
+      "A waste-collecting robot",
+      "A robot chef"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What do the characters in Inside Out represent?",
+    "choices": [
+      "Animals in a zoo",
+      "Dreams in a theater",
+      "Memories in a museum",
+      "Emotions in a girl's mind"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is Miguel's ambition in Coco?",
+    "choices": [
+      "To become a musician",
+      "To become a chef",
+      "To race motorcycles",
+      "To design shoes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Joe Gardner's passion in Soul?",
+    "choices": [
+      "Classical ballet",
+      "Jazz piano",
+      "Space science",
+      "Painting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What kind of beings are Luca and Alberto in Luca?",
+    "choices": [
+      "Forest spirits",
+      "Small dragons",
+      "Sea monsters who can appear human on land",
+      "Underwater robots"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the central relationship in Onward?",
+    "choices": [
+      "A princess and her dragon",
+      "Two rival chefs",
+      "A robot and a human child",
+      "Two elf brothers on a quest"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is Merida's exceptional skill in Brave?",
+    "choices": [
+      "Archery",
+      "Sailing",
+      "Piano playing",
+      "Potion making"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What type of creatures are the main characters of A Bug's Life?",
+    "choices": [
+      "Reptiles",
+      "Insects",
+      "Birds",
+      "Forest spirits"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is Buzz Lightyear's main identity in Toy Story?",
+    "choices": [
+      "A cowboy doll",
+      "A wind-up soldier",
+      "A space-ranger action figure",
+      "A toy dinosaur"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is Dory in Finding Nemo?",
+    "choices": [
+      "A clownfish's sister",
+      "A sea turtle",
+      "A pelican",
+      "A blue tang with short-term memory loss"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is Dash's superpower in The Incredibles?",
+    "choices": [
+      "Super speed",
+      "Invisibility",
+      "Elasticity",
+      "Shape-shifting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is Mike Wazowski?",
+    "choices": [
+      "A human child",
+      "A one-eyed green monster",
+      "A blue robot",
+      "A talking door"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is Dug in Up?",
+    "choices": [
+      "A talking squirrel",
+      "A trained eagle",
+      "A dog with a collar that translates his thoughts",
+      "A robotic pet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Where is Lightning McQueen stranded in the first Cars film?",
+    "choices": [
+      "Emerald City",
+      "Monstropolis",
+      "Pride Rock",
+      "Radiator Springs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Mexican remembrance celebration shapes Coco's story?",
+    "choices": [
+      "Día de los Muertos",
+      "Lunar New Year",
+      "Diwali",
+      "Midsummer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which villain is Simba's uncle?",
+    "choices": [
+      "Jafar",
+      "Scar",
+      "Hades",
+      "Clayton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is Ariel's crab friend?",
+    "choices": [
+      "Flounder",
+      "Scuttle",
+      "Sebastian",
+      "Chef Louis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is Olaf?",
+    "choices": [
+      "A reindeer",
+      "A mountain troll",
+      "A magical glove",
+      "A snowman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What supernatural status does Maui have in Moana?",
+    "choices": [
+      "A demigod",
+      "A village chief",
+      "A sea captain",
+      "A fire spirit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What kind of animal is Pascal in Tangled?",
+    "choices": [
+      "A gecko",
+      "A chameleon",
+      "A frog",
+      "A lizard-dragon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is notable about Snow White and the Seven Dwarfs in animation history?",
+    "choices": [
+      "It was Pixar's first computer-animated film",
+      "It was the first animated television special",
+      "It was Disney's first feature-length animated film",
+      "It was Disney's first sequel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which animation technique is strongly associated with the visual style of Sleeping Beauty?",
+    "choices": [
+      "Stop-motion puppets",
+      "Live-action rotoscoping throughout",
+      "Clay animation",
+      "Stylized layouts influenced by Eyvind Earle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What production method did One Hundred and One Dalmatians famously help popularize at Disney?",
+    "choices": [
+      "Xerography for transferring animator drawings",
+      "Fully digital 3D rendering",
+      "Clay replacement animation",
+      "Puppet stop-motion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What was notable about The Rescuers Down Under's animation production?",
+    "choices": [
+      "It was Disney's first feature without songs",
+      "It was the first Disney feature to use the CAPS digital ink-and-paint system",
+      "It was made entirely with stop-motion",
+      "It was the first Disney feature released in black and white"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Disney film is often associated with the first substantial use of computer-generated imagery for a ballroom chandelier?",
+    "choices": [
+      "The Black Cauldron",
+      "Oliver & Company",
+      "The Great Mouse Detective",
+      "The Hunchback of Notre Dame"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What historical period is commonly called the Disney Renaissance?",
+    "choices": [
+      "The silent era before synchronized sound",
+      "The 1930s period before color",
+      "The studio's direct-to-video era",
+      "The late 1980s and 1990s revival of major Disney animated features"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which antagonist leads the Hun invasion in Mulan?",
+    "choices": [
+      "Shan Yu",
+      "Jafar",
+      "Scar",
+      "Hades"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who wrote and performed songs for Disney's Tarzan?",
+    "choices": [
+      "Elton John",
+      "Phil Collins",
+      "Alan Menken",
+      "Randy Newman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What visual idea is central to Atlantis: The Lost Empire?",
+    "choices": [
+      "A family of superheroes in suburbia",
+      "A race across the African savanna",
+      "An expedition seeking a technologically advanced lost civilization",
+      "A voyage through a haunted hotel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is distinctive about Treasure Planet's animation approach?",
+    "choices": [
+      "It uses only live-action footage",
+      "It is entirely stop-motion",
+      "It contains no digital effects",
+      "It combines hand-drawn character animation with extensive computer-generated elements"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why is The Princess and the Frog historically notable within modern Disney Animation?",
+    "choices": [
+      "It marked a major return to hand-drawn feature animation after a digital period",
+      "It was Disney's first computer-animated feature",
+      "It was the first Disney film without a princess",
+      "It was animated entirely in stop-motion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What makes Tangled significant in Disney princess-film history?",
+    "choices": [
+      "It was Disney's first feature in widescreen",
+      "It was Disney Animation's first feature-length computer-animated fairy-tale princess film",
+      "It was the first Disney film with a villain",
+      "It was made by Pixar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Big Hero 6 draws its premise and characters from what source?",
+    "choices": [
+      "A Japanese folktale recorded in the Edo period",
+      "A Pixar short film",
+      "A Marvel comic of the same name",
+      "A nineteenth-century novel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is distinctive about Zootopia's society?",
+    "choices": [
+      "It is an underwater city of fish",
+      "It is inhabited entirely by insects",
+      "It is a kingdom of talking toys",
+      "It is populated by anthropomorphic mammals and has no ordinary human population"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What real-world cultural setting informs Encanto?",
+    "choices": [
+      "Colombia",
+      "Greece",
+      "Japan",
+      "Ireland"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What was historically notable about Toy Story?",
+    "choices": [
+      "It was the first animated film with synchronized sound",
+      "It was the first fully computer-animated feature film",
+      "It was Pixar's first hand-drawn feature",
+      "It was the first film released in IMAX"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What was A Bug's Life in relation to Pixar's filmography?",
+    "choices": [
+      "It was Pixar's first feature film",
+      "It was Pixar's first short",
+      "It was Pixar's second feature film",
+      "It was Pixar's first sequel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the relationship between Monsters, Inc. and Monsters University?",
+    "choices": [
+      "Monsters University is a remake",
+      "Monsters University is a musical spin-off",
+      "Monsters University occurs after Monsters, Inc. with no time jump",
+      "Monsters University is a prequel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is Finding Dory's relationship to Finding Nemo?",
+    "choices": [
+      "It is a sequel centered on Dory's search for her family",
+      "It is a prequel about Marlin's childhood",
+      "It is a remake with different characters",
+      "It is a documentary about real fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What genre elements does Cars 2 add to the series?",
+    "choices": [
+      "Medieval fantasy",
+      "International espionage and spy adventure",
+      "Courtroom drama",
+      "Musical theater"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who directed Ratatouille?",
+    "choices": [
+      "Pete Docter",
+      "Andrew Stanton",
+      "Brad Bird",
+      "Lee Unkrich"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is unusual about WALL-E's opening portion?",
+    "choices": [
+      "It takes place entirely underwater",
+      "It is narrated by a human child",
+      "It is presented as a live-action documentary",
+      "It communicates for a long stretch with very little spoken dialogue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What storytelling device is especially famous in Up's opening?",
+    "choices": [
+      "A largely dialogue-free montage of Carl and Ellie's life together",
+      "A courtroom trial",
+      "A sequence told backward from the ending",
+      "A musical number performed by villains"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Where is the headquarters of the emotions located in Inside Out?",
+    "choices": [
+      "Inside a school building",
+      "Inside Riley's mind",
+      "In a city beneath San Francisco",
+      "Inside a memory museum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the Land of the Dead in Coco?",
+    "choices": [
+      "A hidden Mexican village of musicians",
+      "A dream world inside Miguel's guitar",
+      "A colorful afterlife reached during Día de los Muertos",
+      "A magical island in the Gulf"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What occupation does Joe Gardner pursue before his transformative journey in Soul?",
+    "choices": [
+      "Professional baseball player",
+      "Animation director",
+      "Restaurant critic",
+      "Middle-school band teacher and aspiring jazz pianist"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What do Ian and Barley seek in Onward?",
+    "choices": [
+      "A spell or magical means to briefly reunite with their father",
+      "A lost kingdom beneath the sea",
+      "A legendary race car",
+      "A stolen family recipe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who directed Brave?",
+    "choices": [
+      "Jennifer Lee",
+      "Brenda Chapman",
+      "Domee Shi",
+      "Chris Buck"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which short film helped establish Pixar's desk-lamp mascot?",
+    "choices": [
+      "Tin Toy",
+      "Piper",
+      "Luxo Jr.",
+      "Knick Knack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What did Pixar's short Tin Toy win?",
+    "choices": [
+      "The Academy Award for Best Picture",
+      "The Palme d'Or",
+      "A Golden Globe for Best Song",
+      "The Academy Award for Best Animated Short Film"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the Pixar Braintrust?",
+    "choices": [
+      "A group of filmmakers who give candid story feedback during production",
+      "A rendering computer used for lighting",
+      "A legal partnership between Disney and Pixar",
+      "A character group from Toy Story"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which software technology is historically associated with Pixar's rendering work?",
+    "choices": [
+      "CAPS",
+      "RenderMan",
+      "Toon Boom",
+      "Maya Paint"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who was a co-founder of Pixar and an important early leader in computer animation?",
+    "choices": [
+      "Walt Disney",
+      "Don Bluth",
+      "Ed Catmull",
+      "John Musker"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which company acquired Pixar in 2006?",
+    "choices": [
+      "Warner Bros.",
+      "DreamWorks Animation",
+      "Sony Pictures",
+      "The Walt Disney Company"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which actor provides Woody's voice in the Toy Story films?",
+    "choices": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Billy Crystal",
+      "John Goodman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which actor provides Buzz Lightyear's voice in the Toy Story films?",
+    "choices": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Chris Evans",
+      "Albert Brooks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which actor voices Dory in Finding Nemo and Finding Dory?",
+    "choices": [
+      "Bonnie Hunt",
+      "Amy Poehler",
+      "Ellen DeGeneres",
+      "Julia Louis-Dreyfus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which actor voices Marlin in Finding Nemo?",
+    "choices": [
+      "Billy Crystal",
+      "John Ratzenberger",
+      "Jeff Garlin",
+      "Albert Brooks"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which actor voices Mike Wazowski in Monsters, Inc.?",
+    "choices": [
+      "Billy Crystal",
+      "Steve Buscemi",
+      "John Goodman",
+      "Nathan Fillion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Disney film was the first animated feature to receive a Best Picture Academy Award nomination?",
+    "choices": [
+      "The Lion King",
+      "Beauty and the Beast",
+      "Toy Story",
+      "Frozen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who directed Frozen alongside Chris Buck?",
+    "choices": [
+      "Brenda Chapman",
+      "Jennifer Yuh Nelson",
+      "Jennifer Lee",
+      "Walt Dohrn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the central object of the plot in Moana?",
+    "choices": [
+      "A magic slipper",
+      "A lost glass harp",
+      "A royal snow globe",
+      "The heart of Te Fiti"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the main technological setting of The Incredibles 2?",
+    "choices": [
+      "A campaign to make superheroes publicly accepted again",
+      "A mission to colonize Mars",
+      "A tournament of magical kingdoms",
+      "A search for a lost toy factory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Pixar film centers on a chef who is secretly guided by a rat?",
+    "choices": [
+      "Luca",
+      "Ratatouille",
+      "Soul",
+      "The Good Dinosaur"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does the title Coco refer most directly to?",
+    "choices": [
+      "A magical guitar",
+      "The Land of the Dead",
+      "Miguel's great-grandmother, Mamá Coco",
+      "A family nickname for Héctor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What kind of animation is used for most classic Disney feature characters before the studio's computer era?",
+    "choices": [
+      "Stop-motion clay animation",
+      "Live-action puppetry",
+      "Computer-generated virtual reality",
+      "Hand-drawn two-dimensional animation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What makes the sequel Toy Story 2 unusual in its production history?",
+    "choices": [
+      "It was initially developed as a direct-to-video project before becoming a theatrical feature",
+      "It was Pixar's first hand-drawn film",
+      "It was produced before the original Toy Story",
+      "It was made without any returning characters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which director is strongly associated with Pixar films such as Up, Inside Out, and Soul?",
+    "choices": [
+      "Brad Bird",
+      "Pete Docter",
+      "Andrew Stanton",
+      "John Lasseter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which character is the primary antagonist of The Lion King?",
+    "choices": [
+      "Mufasa",
+      "Zazu",
+      "Scar",
+      "Rafiki"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is distinctive about the short film Piper?",
+    "choices": [
+      "It stars a robot cleaning Earth",
+      "It introduces the Toy Story characters",
+      "It is a hand-drawn Disney princess short",
+      "It follows a sandpiper learning to forage by the ocean"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Disney animated film centers on a family with magical gifts in a Colombian home?",
+    "choices": [
+      "Encanto",
+      "Coco",
+      "Raya and the Last Dragon",
+      "The Princess and the Frog"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What kind of animal is Dumbo?",
+    "choices": [
+      "A mouse",
+      "An elephant",
+      "A horse",
+      "A young deer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who is Alice in Disney's adaptation of Alice in Wonderland?",
+    "choices": [
+      "A queen who rules Arendelle",
+      "A fairy who guides Pinocchio",
+      "A girl who follows a rabbit into a strange world",
+      "A princess raised by dwarfs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What type of bird is Donald Duck?",
+    "choices": [
+      "A goose",
+      "A swan",
+      "A penguin",
+      "A duck"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  }
+]

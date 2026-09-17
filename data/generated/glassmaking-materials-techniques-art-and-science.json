@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is the principal glass-forming ingredient in most common soda-lime glass?",
+    "choices": [
+      "Silica sand",
+      "Limestone",
+      "Soda ash",
+      "Borax"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which additive lowers silica's melting temperature in soda-lime glass?",
+    "choices": [
+      "Soda ash",
+      "Alumina",
+      "Cobalt oxide",
+      "Tin oxide"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What tool does a glassblower use to gather molten glass from a furnace?",
+    "choices": [
+      "Pontil",
+      "Marver",
+      "Blowpipe",
+      "Jacks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is the flat steel surface used to shape hot glass called?",
+    "choices": [
+      "Paddling board",
+      "Marver",
+      "Crucible",
+      "Lehr"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What process slowly cools glass to relieve internal stress?",
+    "choices": [
+      "Annealing",
+      "Slumping",
+      "Etching",
+      "Fritting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which furnace is used to keep formed glass hot while it cools?",
+    "choices": [
+      "Lehr",
+      "Glory hole",
+      "Tank furnace",
+      "Cupola"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is finely crushed glass used in kilnwork called?",
+    "choices": [
+      "Cullet",
+      "Frit",
+      "Batch",
+      "Flux"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which colorant commonly produces blue glass?",
+    "choices": [
+      "Manganese dioxide",
+      "Copper oxide",
+      "Iron sulfide",
+      "Cobalt oxide"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a hollow bubble of molten glass called before shaping?",
+    "choices": [
+      "Parison",
+      "Goblet",
+      "Pate de verre",
+      "Canne"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "In stained glass, what metal strip joins pieces of glass?",
+    "choices": [
+      "Lead came",
+      "Copper foil",
+      "Steel wire",
+      "Brass rod"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the transparent colored glass in a stained-glass window?",
+    "choices": [
+      "Opal glass",
+      "Plate glass",
+      "Pot-metal glass",
+      "Safety glass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which technique fuses glass pieces in a kiln?",
+    "choices": [
+      "Casting",
+      "Fusing",
+      "Blowing",
+      "Grinding"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is glass made by pouring molten material into a mold?",
+    "choices": [
+      "Cast glass",
+      "Drawn glass",
+      "Spun glass",
+      "Laminated glass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a pontil mark indicate on some blown vessels?",
+    "choices": [
+      "A cutting line",
+      "A mold seam",
+      "A place held by an iron rod",
+      "A colored overlay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which property makes glass useful for windows?",
+    "choices": [
+      "Electrical conductivity",
+      "Optical transparency",
+      "Magnetic attraction",
+      "High ductility"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the transition from viscous liquid to rigid glass called?",
+    "choices": [
+      "Crystallization",
+      "Vitrification",
+      "Reduction",
+      "Devitrification"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which glass type is known for low thermal expansion?",
+    "choices": [
+      "Borosilicate",
+      "Soda-lime",
+      "Lead crystal",
+      "Acrylic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What material is traditionally used to make a glassblower's blowpipe?",
+    "choices": [
+      "Copper",
+      "Steel",
+      "Ceramic",
+      "Wood"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the reheating chamber beside a glass furnace called?",
+    "choices": [
+      "Lehr",
+      "Annealer",
+      "Glory hole",
+      "Kettle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which glass surface treatment uses abrasive blasting?",
+    "choices": [
+      "Silvering",
+      "Frosting",
+      "Doping",
+      "Tempering"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a glass vessel with a narrow neck generally called?",
+    "choices": [
+      "Bottle",
+      "Tile",
+      "Pane",
+      "Lens"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who is strongly associated with the Tiffany stained-glass style?",
+    "choices": [
+      "Louis Comfort Tiffany",
+      "Émile Gallé",
+      "Dale Chihuly",
+      "René Lalique"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which oxide often makes glass green?",
+    "choices": [
+      "Cobalt oxide",
+      "Gold chloride",
+      "Iron oxide",
+      "Tin oxide"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a thick, rounded glass bead used in jewelry called?",
+    "choices": [
+      "Gob",
+      "Cabochon",
+      "Marble",
+      "Pane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Why is alumina added to many glass batches?",
+    "choices": [
+      "To improve durability",
+      "To create bubbles",
+      "To lower density",
+      "To make it magnetic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does tempering do to architectural glass?",
+    "choices": [
+      "Adds color",
+      "Increases strength and changes breakage",
+      "Makes it opaque",
+      "Removes silica"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is laminated safety glass made by bonding panes with what?",
+    "choices": [
+      "A metal mesh",
+      "A plastic interlayer",
+      "A ceramic glaze",
+      "A salt layer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which process makes a continuous sheet by drawing glass upward?",
+    "choices": [
+      "Float forming",
+      "Fourcault drawing",
+      "Slumping",
+      "Kiln casting"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "In float glass, molten glass floats on a bath of what metal?",
+    "choices": [
+      "Molten tin",
+      "Molten copper",
+      "Molten aluminum",
+      "Molten lead"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What defect appears as tiny bubbles trapped in glass?",
+    "choices": [
+      "Striae",
+      "Seeds",
+      "Check",
+      "Crizzle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What are visible streaks caused by compositional variation called?",
+    "choices": [
+      "Seeds",
+      "Cord",
+      "Chips",
+      "Blisters"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which defect results from unwanted crystal growth on glass?",
+    "choices": [
+      "Crazing",
+      "Devitrification",
+      "Burnishing",
+      "Polishing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a thin layer of colored glass fused over a base called?",
+    "choices": [
+      "Overlay",
+      "Came",
+      "Frit",
+      "Pâte"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which ancient Roman technique forms patterns from bundled colored rods?",
+    "choices": [
+      "Millefiori",
+      "Sgraffito",
+      "Filigrana",
+      "Pâte de verre"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is gold leaf sealed between glass layers called?",
+    "choices": [
+      "Latticino",
+      "Aventurine",
+      "Gold sandwich glass",
+      "Iridescent glass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which glassmaking method uses a mold and centrifugal force for tableware?",
+    "choices": [
+      "Press molding",
+      "Spinning",
+      "Blow molding",
+      "Drawing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What machine presses molten glass into a mold?",
+    "choices": [
+      "Press-and-blow machine",
+      "Lehr",
+      "Marver",
+      "Batch feeder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In container production, what is a gob?",
+    "choices": [
+      "A finished bottle",
+      "A measured portion of molten glass",
+      "A cooling rack",
+      "A mold lubricant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which process forms bottles by first blowing a preform?",
+    "choices": [
+      "Float forming",
+      "Blow-and-blow",
+      "Casting",
+      "Lamination"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the glass transition temperature important for?",
+    "choices": [
+      "Choosing a pigment",
+      "Predicting viscous behavior during cooling",
+      "Measuring refractive index",
+      "Removing surface scratches"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What optical property measures how much glass bends light?",
+    "choices": [
+      "Refractive index",
+      "Viscosity",
+      "Toughness",
+      "Emissivity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which lens aberration produces colored fringes?",
+    "choices": [
+      "Spherical aberration",
+      "Chromatic aberration",
+      "Coma",
+      "Astigmatism"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What glass is formulated for high-index eyeglass lenses?",
+    "choices": [
+      "Flint glass",
+      "Quartz glass",
+      "Water glass",
+      "Enamel glass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which glass fiber property enables optical communication?",
+    "choices": [
+      "Thermal expansion",
+      "Total internal reflection",
+      "Electrical resistance",
+      "Surface tension"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is the central light-carrying region of an optical fiber?",
+    "choices": [
+      "Core",
+      "Cladding",
+      "Jacket",
+      "Ferrule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Why does cladding surround an optical-fiber core?",
+    "choices": [
+      "To absorb all light",
+      "To maintain internal reflection",
+      "To add electrical power",
+      "To prevent annealing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which glass is used for laboratory vessels because it resists thermal shock?",
+    "choices": [
+      "Lead glass",
+      "Borosilicate glass",
+      "Frosted glass",
+      "Opal glass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What furnace atmosphere can help produce reduced-color glass?",
+    "choices": [
+      "Strongly oxidizing",
+      "Inert only",
+      "Water-saturated",
+      "Reducing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the batch in industrial glassmaking?",
+    "choices": [
+      "A measured mixture of raw materials",
+      "A finished shipment",
+      "A cooling cycle",
+      "A polishing compound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Why is cullet added to a glass batch?",
+    "choices": [
+      "To increase crystal growth",
+      "To aid melting and recycle glass",
+      "To make glass flexible",
+      "To remove all color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which chemical species is chiefly responsible for amber glass color?",
+    "choices": [
+      "Silver ions",
+      "Sulfur and iron complexes",
+      "Pure alumina",
+      "Calcium carbonate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the purpose of fining agents in a melt?",
+    "choices": [
+      "Increase viscosity permanently",
+      "Remove dissolved gases and bubbles",
+      "Add mechanical scratches",
+      "Prevent all coloration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which fining compound releases gases that help bubbles rise?",
+    "choices": [
+      "Sodium sulfate",
+      "Alumina",
+      "Silica",
+      "Lithium carbonate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What causes thermal shock failure in glass?",
+    "choices": [
+      "Uniform cooling",
+      "Uneven temperature stresses",
+      "Low refractive index",
+      "High transparency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which surface flaw most readily initiates fracture in glass?",
+    "choices": [
+      "A polished face",
+      "A sharp scratch",
+      "A smooth bead",
+      "A clean edge"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is stress birefringence used to reveal?",
+    "choices": [
+      "Colorant concentration",
+      "Internal strain patterns",
+      "Glass density only",
+      "Mold dimensions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which instrument reveals glass stress through polarized light?",
+    "choices": [
+      "Polariscope",
+      "Pyrometer",
+      "Spectrometer",
+      "Viscometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the primary network former in conventional silicate glass?",
+    "choices": [
+      "Silicon dioxide",
+      "Sodium oxide",
+      "Calcium oxide",
+      "Potassium oxide"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What role does calcium oxide play in soda-lime glass?",
+    "choices": [
+      "It is the main colorant",
+      "It stabilizes the network",
+      "It supplies bubbles",
+      "It acts as a reducing gas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which material is a glass modifier rather than a network former?",
+    "choices": [
+      "Silica",
+      "Boron oxide",
+      "Sodium oxide",
+      "Phosphorus pentoxide"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is phase separation in glass?",
+    "choices": [
+      "Separation into compositionally distinct microscopic regions",
+      "A crack from cooling",
+      "A mold release step",
+      "Removal of cullet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which glass family is noted for high chemical durability and low expansion?",
+    "choices": [
+      "Phosphate glass",
+      "Borosilicate glass",
+      "Soda-lime glass",
+      "Lead crystal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a photosensitive glass designed to do after exposure and heat treatment?",
+    "choices": [
+      "Become metallic",
+      "Form a selectively crystallized pattern",
+      "Dissolve in water",
+      "Turn into a fiber"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which historical culture developed major Islamic glassmaking traditions after late antiquity?",
+    "choices": [
+      "The Inca",
+      "The Han Chinese",
+      "The Maya",
+      "The Abbasid world"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What Roman glass technique uses a core around which molten glass is wound?",
+    "choices": [
+      "Core forming",
+      "Float forming",
+      "Pressing",
+      "Slumping"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Venetian glass style is characterized by delicate white threads?",
+    "choices": [
+      "Murrine",
+      "Latticino",
+      "Cameo glass",
+      "Gold ruby"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is cameo glass made by carving through?",
+    "choices": [
+      "A single clear pane",
+      "A layered glass overlay",
+      "A metal coating",
+      "A powdered mold"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which artist is known for large-scale contemporary blown-glass installations?",
+    "choices": [
+      "Anni Albers",
+      "Barbara Hepworth",
+      "Dale Chihuly",
+      "Henry Moore"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is pâte de verre?",
+    "choices": [
+      "Powdered glass fired in a mold",
+      "Glass drawn into fibers",
+      "A leaded window joint",
+      "A blown vessel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which technique creates a vessel by rotating molten glass inside a mold?",
+    "choices": [
+      "Casting",
+      "Centrifugal casting",
+      "Etching",
+      "Overlaying"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a thermal tempering residual stress profile intended to produce?",
+    "choices": [
+      "A brittle surface",
+      "A compressed surface layer",
+      "A porous core",
+      "A colored edge"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why does chemically strengthened glass resist crack growth?",
+    "choices": [
+      "Its surface is put into compression by ion exchange",
+      "Its core becomes liquid",
+      "Its colorant seals scratches",
+      "Its refractive index reaches zero"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In ion-exchange strengthening, which larger ion commonly replaces sodium?",
+    "choices": [
+      "Potassium",
+      "Lithium",
+      "Hydrogen",
+      "Chloride"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the purpose of a glass-ceramic nucleation step?",
+    "choices": [
+      "To remove all modifiers",
+      "To create sites for controlled crystallization",
+      "To increase bubble size",
+      "To polish the surface"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which property distinguishes glass from a conventional crystal?",
+    "choices": [
+      "It has a repeating long-range lattice",
+      "It lacks long-range periodic order",
+      "It always melts below room temperature",
+      "It cannot transmit light"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the fictive temperature of a glass?",
+    "choices": [
+      "Its exact melting point",
+      "The temperature at which its frozen structure would equilibrate",
+      "The temperature of a furnace wall",
+      "The temperature of a colorant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which spectroscopy method is especially useful for probing glass network connectivity?",
+    "choices": [
+      "Raman spectroscopy",
+      "Mass weighing",
+      "Calorimetry only",
+      "Mechanical sanding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does the Zachariasen-Warren model describe?",
+    "choices": [
+      "Optical lens polishing",
+      "Rules for glass-forming oxide networks",
+      "Stained-glass iconography",
+      "Bottle mold dimensions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which process draws molten glass into continuous fine strands?",
+    "choices": [
+      "Slumping",
+      "Fiberization",
+      "Came cutting",
+      "Cold working"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What coating gives low-emissivity architectural glass its energy-saving behavior?",
+    "choices": [
+      "A thick paint layer",
+      "A thin infrared-reflective film",
+      "A lead came grid",
+      "A frosted abrasive layer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which defect is a network of fine surface cracks often seen in historic glass?",
+    "choices": [
+      "Crizzling",
+      "Cord",
+      "Seed",
+      "Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "In glass science, what is a stone?",
+    "choices": [
+      "A polishing tool",
+      "An unmelted or crystallized inclusion",
+      "A colored thread",
+      "A finished paperweight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does cold working glass include?",
+    "choices": [
+      "Melting and refining",
+      "Cutting, grinding, and polishing",
+      "Blowing and marvering",
+      "Batch charging"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which abrasive is widely used to grind and polish glass?",
+    "choices": [
+      "Table salt",
+      "Diamond",
+      "Wool fiber",
+      "Paraffin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is acid etching of glass commonly used to create?",
+    "choices": [
+      "A frosted or patterned surface",
+      "A stronger core",
+      "A metal filament",
+      "A molten gob"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which acid is traditionally associated with etching silica glass?",
+    "choices": [
+      "Hydrofluoric acid",
+      "Acetic acid",
+      "Citric acid",
+      "Carbonic acid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a dichroic glass coating designed to do?",
+    "choices": [
+      "Absorb every wavelength equally",
+      "Reflect and transmit different wavelengths",
+      "Prevent all reflection",
+      "Increase thermal expansion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which glass component is commonly used to make lead crystal highly refractive?",
+    "choices": [
+      "Barium sulfide",
+      "Lead oxide",
+      "Magnesium chloride",
+      "Silicon carbide"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a glass frit in ceramic decoration?",
+    "choices": [
+      "Granulated glass powder",
+      "A metal mold",
+      "A cooling furnace",
+      "A fiber coating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which method deposits glass droplets to build a three-dimensional object layer by layer?",
+    "choices": [
+      "Glass 3D printing",
+      "Float forming",
+      "Core forming",
+      "Slumping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is the purpose of a refractory crucible in glass melting?",
+    "choices": [
+      "To transmit images",
+      "To contain the corrosive hot melt",
+      "To measure color",
+      "To anneal a window"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which high-temperature property governs how easily a glass can be shaped by blowing?",
+    "choices": [
+      "Density",
+      "Viscosity",
+      "Refractive index",
+      "Electrical resistance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a glass ribbon in a stained-glass design?",
+    "choices": [
+      "A narrow decorative strip",
+      "A furnace shelf",
+      "A polishing wheel",
+      "A fiber bundle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which tool holds a hot glass form while its surface is cut?",
+    "choices": [
+      "A diamond saw",
+      "A batch hopper",
+      "A lehr",
+      "A blowpipe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does thermal expansion mismatch often cause at a glass joint?",
+    "choices": [
+      "Improved transparency",
+      "Cracking or separation",
+      "Lower viscosity",
+      "Stronger color"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which measurement describes how much glass changes length when heated?",
+    "choices": [
+      "Refractive index",
+      "Poisson ratio",
+      "Thermal expansion coefficient",
+      "Color temperature"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a glass seal in an electronic package intended to provide?",
+    "choices": [
+      "An airtight or hermetic closure",
+      "A rough grinding surface",
+      "A color gradient",
+      "A decorative came"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which process joins glass to metal using a compatible softened glass?",
+    "choices": [
+      "Glass-to-metal sealing",
+      "Float forming",
+      "Sand casting",
+      "Cold silvering"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the main purpose of a mold release in glass casting?",
+    "choices": [
+      "Raise the melting point",
+      "Prevent the glass from adhering to the mold",
+      "Add optical power",
+      "Create lead lines"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which feature of a glass surface most increases scattering?",
+    "choices": [
+      "Perfect polish",
+      "Microscopic roughness",
+      "Uniform thickness",
+      "Low iron content"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

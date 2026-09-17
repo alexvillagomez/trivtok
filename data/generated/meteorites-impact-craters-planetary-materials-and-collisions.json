@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a meteorite?",
+    "choices": [
+      "A rock that reaches a planet's surface from space",
+      "A cloud of gas around a star",
+      "A crater made by lava",
+      "A satellite in orbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is the visible streak from a meteoroid entering an atmosphere called?",
+    "choices": [
+      "A meteor",
+      "A meteorite",
+      "A micrometeorite",
+      "A bolide crater"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which term describes a rocky or metallic body while it is still in space?",
+    "choices": [
+      "Meteoroid",
+      "Meteor",
+      "Meteorite",
+      "Tektite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which meteorite class is dominated by metal alloys of iron and nickel?",
+    "choices": [
+      "Stony",
+      "Iron",
+      "Carbonaceous",
+      "Achondritic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A stony-iron meteorite contains substantial amounts of what combination?",
+    "choices": [
+      "Silicate minerals and metal",
+      "Ice and methane",
+      "Basalt and glass only",
+      "Sulfur and carbon only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a bolide?",
+    "choices": [
+      "A meteor producing an exceptionally bright fireball",
+      "A meteorite found in Antarctica",
+      "A crater rim made of ejecta",
+      "A meteor shower's radiant point"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which material commonly makes up ordinary chondrites?",
+    "choices": [
+      "Primitive silicate rock with chondrules",
+      "Pure metallic nickel",
+      "Crystallized impact glass",
+      "Frozen carbon dioxide"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What are chondrules?",
+    "choices": [
+      "Small rounded silicate grains formed as molten droplets",
+      "Fractures radiating from a crater",
+      "Metal veins in an iron meteorite",
+      "Dust trails behind comets"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which meteorite group is especially rich in carbon and volatile compounds?",
+    "choices": [
+      "Carbonaceous chondrites",
+      "Iron meteorites",
+      "HED achondrites",
+      "Mesosiderites"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "The Canyon Diablo meteorites are associated with which crater?",
+    "choices": [
+      "Meteor Crater",
+      "Chicxulub crater",
+      "Vredefort crater",
+      "Lonar crater"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where is Meteor Crater located?",
+    "choices": [
+      "Arizona, United States",
+      "Western Australia",
+      "Northern Chile",
+      "Southern France"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the main source of most meteorites collected on Earth?",
+    "choices": [
+      "Asteroids",
+      "Earth's oceans",
+      "Volcanic eruptions",
+      "Interstellar clouds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which meteorite fall was observed over the town of Chelyabinsk in 2013?",
+    "choices": [
+      "A large atmospheric airburst",
+      "A lunar sample return",
+      "A volcanic ash plume",
+      "A comet landing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a meteorite's fusion crust indicate?",
+    "choices": [
+      "Surface melting during atmospheric entry",
+      "Long burial in ocean water",
+      "Complete interior melting",
+      "Formation inside a planet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which setting is especially useful for finding meteorites because dark stones contrast with ice?",
+    "choices": [
+      "Antarctic blue-ice fields",
+      "Dense tropical rainforest",
+      "Active lava lakes",
+      "Deep ocean trenches"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a meteorite fall?",
+    "choices": [
+      "A meteorite observed while it lands",
+      "Any rock containing quartz",
+      "A crater-forming explosion only",
+      "A meteor shower seen from Earth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a meteorite find?",
+    "choices": [
+      "A meteorite discovered without observing its fall",
+      "A meteor recorded by radar",
+      "A crater mapped from orbit",
+      "A sample collected on an asteroid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which property is commonly measured when classifying an iron meteorite?",
+    "choices": [
+      "Its nickel content and structural pattern",
+      "Its ocean salinity",
+      "Its cloud altitude",
+      "Its magnetic latitude"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the radiant of a meteor shower?",
+    "choices": [
+      "The apparent point from which meteors seem to travel",
+      "The brightest point of a crater",
+      "The location of a meteorite laboratory",
+      "The center of an impact basin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The Perseids are produced mainly by debris from which object?",
+    "choices": [
+      "Comet Swift–Tuttle",
+      "Asteroid Vesta",
+      "The Moon",
+      "Mars's moon Phobos"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a meteorite's hand specimen density help distinguish?",
+    "choices": [
+      "Metal-rich material from porous silicate material",
+      "Its exact landing date",
+      "Its orbital inclination",
+      "Its crater diameter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which meteorite type is generally differentiated rather than primitive?",
+    "choices": [
+      "Achondrite",
+      "Carbonaceous chondrite",
+      "Ordinary chondrite",
+      "Interplanetary dust particle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Why are freshly fallen meteorites often curated quickly?",
+    "choices": [
+      "To limit terrestrial weathering and contamination",
+      "To increase their cosmic-ray exposure",
+      "To make them magnetic",
+      "To remove their fusion crust"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the primary distinction between a meteoroid and a meteorite?",
+    "choices": [
+      "A meteoroid is in space; a meteorite has reached the ground",
+      "A meteoroid is metallic; a meteorite is always stony",
+      "A meteoroid orbits Earth; a meteorite orbits the Sun",
+      "A meteoroid is visible; a meteorite is never visible"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which mineral is a common major phase in many stony meteorites?",
+    "choices": [
+      "Olivine",
+      "Halite",
+      "Gypsum",
+      "Calcite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does an H chondrite's letter generally indicate?",
+    "choices": [
+      "Relatively high total iron content",
+      "A high abundance of water ice",
+      "A hematite-rich crust",
+      "A high helium concentration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a regmaglypt?",
+    "choices": [
+      "A thumbprint-like depression on a meteorite surface",
+      "A glassy crater deposit",
+      "A mineral inclusion in lunar rock",
+      "A meteor shower trajectory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which isotope system is commonly used for absolute dating of very old meteorites?",
+    "choices": [
+      "Uranium–lead",
+      "Carbon–oxygen",
+      "Sodium–chlorine",
+      "Nitrogen–argon only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What does a meteorite's cosmic-ray exposure age estimate?",
+    "choices": [
+      "How long it traveled as a small body in space",
+      "When its parent asteroid formed",
+      "How long it sat in a museum",
+      "The age of Earth's atmosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which meteorite is widely interpreted as originating from Mars?",
+    "choices": [
+      "A shergottite",
+      "A pallasite",
+      "An enstatite chondrite",
+      "A mesosiderite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "How were Martian meteorites identified as Martian?",
+    "choices": [
+      "Their trapped gases match the Martian atmosphere",
+      "They contain Earth's ocean fossils",
+      "They orbit Mars today",
+      "They are all made of iron"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is an impact crater?",
+    "choices": [
+      "A depression formed by a high-speed collision",
+      "A valley carved only by glaciers",
+      "A volcanic cone filled with ash",
+      "A sinkhole formed by groundwater"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which feature is characteristic of a complex impact crater?",
+    "choices": [
+      "A central uplift and terraced walls",
+      "A lava fountain at its center",
+      "A perfectly flat floor without ejecta",
+      "A ring of coral reefs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is ejecta?",
+    "choices": [
+      "Material thrown outward during an impact",
+      "Magma rising beneath a volcano",
+      "Dust emitted by a comet's nucleus",
+      "Sediment deposited by tides"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which crater is commonly linked to the end-Cretaceous mass extinction?",
+    "choices": [
+      "Chicxulub",
+      "Barringer",
+      "Tycho",
+      "Gale"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Chicxulub crater is buried beneath which region?",
+    "choices": [
+      "The Yucatán Peninsula and Gulf of Mexico",
+      "The Greenland ice sheet",
+      "The Sahara Desert",
+      "The Ganges delta"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is shatter cone evidence of?",
+    "choices": [
+      "Shock-wave propagation through rock",
+      "Slow chemical weathering",
+      "A lava flow's cooling front",
+      "Glacial scraping"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which mineral can record high-pressure shock metamorphism?",
+    "choices": [
+      "Quartz",
+      "Muscovite",
+      "Halite",
+      "Graphite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Planar deformation features in quartz are important because they are?",
+    "choices": [
+      "Diagnostic microscopic evidence of impact shock",
+      "A sign of ordinary erosion",
+      "A type of volcanic gas bubble",
+      "Evidence of biological activity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is impact melt?",
+    "choices": [
+      "Rock melted by the energy of an impact",
+      "Ice melted by seasonal sunlight",
+      "Metal refined in a furnace",
+      "Sediment dissolved in groundwater"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which crater is the largest confirmed impact structure on Earth?",
+    "choices": [
+      "Vredefort",
+      "Meteor Crater",
+      "Chicxulub",
+      "Manicouagan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Vredefort impact structure is located in which country?",
+    "choices": [
+      "South Africa",
+      "Canada",
+      "India",
+      "Mexico"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is a tektite?",
+    "choices": [
+      "Natural glass formed from terrestrial material during an impact",
+      "A metallic meteorite from Mars",
+      "A fossilized meteor trail",
+      "A volcanic crystal from a lava tube"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Australasian tektites are best interpreted as ejecta from what?",
+    "choices": [
+      "A large, still-unidentified impact event",
+      "A recent lunar eruption",
+      "A chain of comet nuclei",
+      "A deep-sea volcanic vent"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does an impactor's kinetic energy depend on most directly?",
+    "choices": [
+      "Its mass and the square of its velocity",
+      "Its color and mineral hardness",
+      "Its crater's latitude and longitude",
+      "Its atmospheric humidity alone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Why do larger impactors often create more complex craters?",
+    "choices": [
+      "Their energy causes collapse and central uplift",
+      "They travel more slowly through space",
+      "They contain only metallic material",
+      "They strike only oceanic crust"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which observation can help identify an impact crater when erosion has obscured its rim?",
+    "choices": [
+      "A circular gravity or magnetic anomaly with shock evidence",
+      "A straight river valley with no deformation",
+      "A patch of ordinary soil",
+      "A seasonal snowdrift"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is a peak ring?",
+    "choices": [
+      "An inner ring of uplifted rock in a large complex crater",
+      "A ring of volcanic ash around a cone",
+      "A meteor shower's annual maximum",
+      "A belt of asteroids around Jupiter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which process can preserve impact craters especially well on the Moon?",
+    "choices": [
+      "The lack of wind and liquid-water erosion",
+      "Rapid plate tectonics",
+      "Dense vegetation cover",
+      "Frequent rainfall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Why are lunar craters useful for relative chronology?",
+    "choices": [
+      "Older surfaces generally have more accumulated craters",
+      "All craters form at the same known rate",
+      "Their rocks contain tree rings",
+      "Their rims record Earth's calendar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is crater saturation?",
+    "choices": [
+      "A surface state where new craters tend to erase old ones",
+      "Complete flooding of a crater by lava",
+      "A meteorite filled with water",
+      "An atmosphere saturated with dust"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which method can reveal an impactor's extraterrestrial contribution in a sediment layer?",
+    "choices": [
+      "Measuring an anomalous abundance of platinum-group elements",
+      "Counting local tree species",
+      "Testing river pH alone",
+      "Mapping modern cloud cover"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why is iridium often examined in studies of the K–Pg boundary?",
+    "choices": [
+      "Its abundance can indicate an asteroid-derived component",
+      "It is the main mineral in limestone",
+      "It dates every fossil directly",
+      "It forms only in Earth's core"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does a meteorite's petrologic type primarily describe?",
+    "choices": [
+      "Its degree of thermal and aqueous alteration",
+      "Its location in a museum",
+      "Its fall's eyewitness count",
+      "Its atmospheric entry angle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In chondrite classification, what does the petrologic type 3 generally signify?",
+    "choices": [
+      "Relatively unequilibrated, primitive material",
+      "Completely melted and crystallized metal",
+      "Extreme shock melting only",
+      "A sample formed on Earth's seafloor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is oxygen-isotope analysis used for in meteorite research?",
+    "choices": [
+      "Tracing genetic relationships among planetary materials",
+      "Measuring the meteorite's crater diameter",
+      "Determining its magnetic declination only",
+      "Estimating atmospheric entry brightness"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why are calcium-aluminum-rich inclusions important?",
+    "choices": [
+      "They are among the oldest solids formed in the Solar System",
+      "They are products of modern terrestrial weathering",
+      "They identify all Martian rocks",
+      "They form only in impact craters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is an achondrite's defining broad characteristic?",
+    "choices": [
+      "It lacks chondrules and commonly records igneous differentiation",
+      "It consists entirely of unaltered chondrules",
+      "It is always composed of iron metal",
+      "It must come from a comet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "HED meteorites are commonly linked to which asteroid?",
+    "choices": [
+      "4 Vesta",
+      "16 Psyche",
+      "25143 Itokawa",
+      "101955 Bennu"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a pallasite?",
+    "choices": [
+      "A stony-iron meteorite with olivine crystals in metal",
+      "A glassy tektite from a crater",
+      "A carbon-rich comet fragment",
+      "A basaltic lunar breccia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does Widmanstätten structure reveal about many iron meteorites?",
+    "choices": [
+      "Very slow cooling in a differentiated metallic core",
+      "Rapid freezing in Earth's atmosphere",
+      "Weathering in Antarctic ice",
+      "Melting by a recent volcanic eruption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why is the Widmanstätten pattern usually not reproduced in terrestrial iron?",
+    "choices": [
+      "Earth's iron alloys rarely cool slowly enough to form it",
+      "Earth has no nickel",
+      "The pattern requires liquid water",
+      "It forms only in meteorite craters"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is shock darkening in a meteorite?",
+    "choices": [
+      "Optical darkening caused by shock-driven fracturing and metal redistribution",
+      "Darkening from exposure to sunlight alone",
+      "A black coating applied during curation",
+      "A color found only in carbonaceous chondrites"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which technique can map elemental distributions across a meteorite thin section?",
+    "choices": [
+      "Electron microprobe analysis",
+      "Visual inspection under moonlight",
+      "Barometric pressure logging",
+      "Tidal gauge measurement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does a cosmic-ray exposure age not directly measure?",
+    "choices": [
+      "The absolute age of the meteorite's parent body",
+      "Time spent exposed as a small body in space",
+      "Production of cosmogenic nuclides",
+      "Shielding history inferred from isotopes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why can noble gases date cosmic-ray exposure?",
+    "choices": [
+      "Cosmic rays produce measurable isotopes in minerals",
+      "Noble gases crystallize at crater rims",
+      "They are absent from all terrestrial rocks",
+      "They directly record an eyewitness fall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the Yarkovsky effect?",
+    "choices": [
+      "A small thermal recoil force that changes an asteroid's orbit",
+      "A shock feature in quartz",
+      "A type of iron meteorite structure",
+      "A method for polishing thin sections"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why is the Yarkovsky effect relevant to planetary defense?",
+    "choices": [
+      "It can alter the long-term trajectory of potentially hazardous asteroids",
+      "It makes impact craters easier to date",
+      "It prevents meteoroids from ablating",
+      "It measures an asteroid's surface color"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which strategy changes an asteroid's orbit by transferring momentum without striking it?",
+    "choices": [
+      "A gravity tractor",
+      "A fusion crust",
+      "A tektite shower",
+      "A shock barometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the main purpose of an asteroid kinetic impactor mission?",
+    "choices": [
+      "To measurably change an asteroid's velocity",
+      "To collect every meteorite it produces",
+      "To create a global crater network",
+      "To melt its entire interior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Why is an asteroid's internal structure important for kinetic-impact deflection?",
+    "choices": [
+      "Porosity and rubble-pile structure affect momentum transfer",
+      "It determines the asteroid's apparent color only",
+      "It fixes the impact date precisely",
+      "It prevents all ejecta formation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a rubble-pile asteroid?",
+    "choices": [
+      "A gravitationally bound aggregate of fragments and void space",
+      "A monolithic crystal of pure nickel",
+      "A comet made only of ice",
+      "A crater filled with loose terrestrial soil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which observation best constrains an asteroid's bulk density?",
+    "choices": [
+      "Its mass combined with a volume estimate",
+      "Its visible brightness on one night",
+      "Its meteorite's fusion crust",
+      "The number of craters on Earth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a hypervelocity impact?",
+    "choices": [
+      "A collision at speeds high enough for strong shock and rapid vaporization",
+      "A low-speed collision between drifting boulders",
+      "A meteorite fall observed by radar",
+      "A crater formed only by volcanism"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which signature can indicate impact vapor condensation in a sediment layer?",
+    "choices": [
+      "Spherules enriched in impact-derived elements",
+      "Fresh river pebbles with rounded edges",
+      "Unaltered plant pollen alone",
+      "A layer of ordinary beach sand"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a pseudotachylite in an impact setting?",
+    "choices": [
+      "A frictional or shock-generated melt rock along faults",
+      "A primary mineral in carbonaceous chondrites",
+      "A cometary ice deposit",
+      "A weathering rind on an iron meteorite"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Why can impact-generated melt sheets be valuable for geochronology?",
+    "choices": [
+      "They may crystallize rapidly and record the impact event",
+      "They always contain living organisms",
+      "They never exchange elements with surroundings",
+      "They form only before planetary accretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is an impact breccia?",
+    "choices": [
+      "A rock made of broken fragments assembled or lithified by impact processes",
+      "A meteorite composed only of metal",
+      "A smooth volcanic glass flow",
+      "A sediment formed solely by wind"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which evidence most strongly distinguishes an impact breccia from ordinary fault breccia?",
+    "choices": [
+      "Coexisting shock metamorphism and impact melt features",
+      "A red surface color",
+      "Rounded grains from a river",
+      "A high concentration of clay alone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why do impact simulations use equations of state?",
+    "choices": [
+      "To model material behavior under extreme pressure and temperature",
+      "To classify meteorites by museum shelf",
+      "To calculate a meteor shower's radiant by eyesight",
+      "To identify minerals from color alone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a parent body in meteorite science?",
+    "choices": [
+      "The asteroid or planet from which a meteorite originated",
+      "The field station that collected a specimen",
+      "The crater's central uplift",
+      "The atmosphere crossed during entry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is an impactor?",
+    "choices": [
+      "The body that strikes a target during a collision",
+      "The material deposited by a river",
+      "The uplift at a crater center",
+      "The glass formed by lightning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why can asteroid spectral observations aid meteorite interpretation?",
+    "choices": [
+      "They compare remote surface minerals with laboratory samples",
+      "They directly reveal an asteroid's exact age",
+      "They measure crater depth without images",
+      "They prevent atmospheric fragmentation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a differentiated asteroid?",
+    "choices": [
+      "One separated into compositional layers through melting",
+      "One made entirely of primitive dust",
+      "One that has never experienced impacts",
+      "One composed solely of water ice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which process can create metallic cores inside differentiated planetesimals?",
+    "choices": [
+      "Metal-silicate segregation during planetary melting",
+      "Wind sorting on an asteroid surface",
+      "Condensation in Earth's atmosphere",
+      "Glacial erosion after impact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does shock pressure estimate in an impact study?",
+    "choices": [
+      "The peak pressure experienced by shocked material",
+      "The atmospheric pressure at a fall site",
+      "The pressure inside a museum case",
+      "The pressure of a comet's tail"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Why are impact experiments performed with gas guns?",
+    "choices": [
+      "They reproduce controlled high-speed collisions in the laboratory",
+      "They measure meteorite radioactivity without samples",
+      "They create natural craters on planets",
+      "They determine an asteroid's orbit directly"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is atmospheric ablation?",
+    "choices": [
+      "Loss and heating of a meteoroid's surface during entry",
+      "Cooling of impact melt beneath a crater",
+      "Chemical alteration in Antarctic ice",
+      "Orbital drift caused by sunlight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why can a meteoroid fragment during atmospheric entry?",
+    "choices": [
+      "Aerodynamic pressure exceeds the strength of its structure",
+      "Its orbit suddenly becomes circular",
+      "Its minerals all vaporize before contact",
+      "Its crater ejecta pulls it apart"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a strewn field?",
+    "choices": [
+      "An area where fragments from one fall are distributed",
+      "A ring of peaks inside a crater",
+      "A zone of impact melt beneath bedrock",
+      "A region containing only micrometeorites"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What can meteorite pairing correct for in collection statistics?",
+    "choices": [
+      "Multiple fragments from one fall being counted as separate stones",
+      "Errors in the meteorite's mineral formula",
+      "The crater's original diameter",
+      "The parent body's rotation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Why are contamination controls crucial in returned asteroid samples?",
+    "choices": [
+      "Terrestrial material can obscure indigenous organic or isotopic signals",
+      "Contamination changes the asteroid's orbit",
+      "It prevents samples from forming chondrules",
+      "It makes every grain magnetic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a cosmogenic nuclide?",
+    "choices": [
+      "An isotope produced by cosmic-ray interactions",
+      "A mineral formed only in volcanoes",
+      "A gas released by terrestrial plants",
+      "An isotope created by ocean tides"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does noble-gas retention reveal about a meteorite?",
+    "choices": [
+      "Its thermal history and possible loss events",
+      "Its exact impact angle on Earth",
+      "The color of its fusion crust",
+      "The number of craters on its parent body"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a transient crater?",
+    "choices": [
+      "The short-lived cavity formed immediately after impact",
+      "A permanent volcanic caldera",
+      "A crater filled by an ancient ocean",
+      "A depression made by wind erosion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does crater excavation expose?",
+    "choices": [
+      "Deep target rocks displaced upward and outward",
+      "Only atmospheric dust",
+      "Fresh cometary ice in every case",
+      "A layer of modern soil beneath the rim"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which measurement helps constrain the age of an impact melt?",
+    "choices": [
+      "A radiometric clock reset or crystallized during melting",
+      "The meteorite's apparent brightness",
+      "The crater's compass direction",
+      "The number of eyewitnesses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is impact-induced hydrothermal alteration?",
+    "choices": [
+      "Chemical change driven by hot fluids after an impact",
+      "Melting caused by sunlight on a meteorite",
+      "Sorting of grains by atmospheric wind",
+      "Formation of chondrules in space"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Why can impact structures host hydrothermal mineral deposits?",
+    "choices": [
+      "Fractures and heat allow fluids to circulate through permeable rock",
+      "Crater rims always contain pure metal",
+      "Impacts stop all groundwater movement",
+      "Ejecta are made entirely of salt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the purpose of a meteorite classification committee?",
+    "choices": [
+      "To establish recognized names and classifications for specimens",
+      "To assign planetary defense launch windows",
+      "To predict every meteor shower",
+      "To determine a crater's erosion rate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

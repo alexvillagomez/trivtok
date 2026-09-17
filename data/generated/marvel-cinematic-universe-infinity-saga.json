@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who is Tony Stark's superhero identity in the MCU?",
+    "choices": [
+      "Iron Man",
+      "War Machine",
+      "The Mandarin",
+      "Iron Monger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What powers Iron Man's first armored suit in the MCU?",
+    "choices": [
+      "A Tesseract shard",
+      "An arc reactor",
+      "A Pym particle",
+      "A vibranium core"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the name of Thor's enchanted hammer?",
+    "choices": [
+      "Stormbreaker",
+      "Gungnir",
+      "Mjolnir",
+      "Hofund"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is Thor's home realm?",
+    "choices": [
+      "Vanaheim",
+      "Jotunheim",
+      "Svartalfheim",
+      "Asgard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who is Thor's brother and frequent antagonist?",
+    "choices": [
+      "Loki",
+      "Heimdall",
+      "Balder",
+      "Fandral"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is Steve Rogers transformed into in Captain America: The First Avenger?",
+    "choices": [
+      "An Asgardian",
+      "A super-soldier",
+      "A gamma mutant",
+      "A Kree warrior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who is Steve Rogers's wartime friend in The First Avenger?",
+    "choices": [
+      "Sam Wilson",
+      "Howard Stark",
+      "Bucky Barnes",
+      "Dum Dum Dugan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What organization recruits the Avengers?",
+    "choices": [
+      "HYDRA",
+      "Damage Control",
+      "The World Security Council",
+      "S.H.I.E.L.D."
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which city is attacked during the climax of The Avengers?",
+    "choices": [
+      "New York City",
+      "Washington, D.C.",
+      "London",
+      "Sokovia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who leads the Guardians of the Galaxy?",
+    "choices": [
+      "Rocket",
+      "Peter Quill",
+      "Drax",
+      "Yondu"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is Peter Quill's nickname?",
+    "choices": [
+      "Nova Prime",
+      "The Ravager",
+      "Star-Lord",
+      "Captain Cosmic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What powerful object does Loki use in The Avengers to control minds and open a portal?",
+    "choices": [
+      "The Aether",
+      "The Orb",
+      "The Eye of Agamotto",
+      "The Tesseract"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who is the Winter Soldier?",
+    "choices": [
+      "Bucky Barnes",
+      "Clint Barton",
+      "Sam Wilson",
+      "Brock Rumlow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What agency has secretly been infiltrated by HYDRA in Captain America: The Winter Soldier?",
+    "choices": [
+      "The Nova Corps",
+      "S.H.I.E.L.D.",
+      "The TVA",
+      "The Ten Rings"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which rogue artificial intelligence created by Tony Stark becomes a major Avengers villain?",
+    "choices": [
+      "J.A.R.V.I.S.",
+      "F.R.I.D.A.Y.",
+      "Ultron",
+      "E.D.I.T.H."
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Where is the final battle of Age of Ultron fought?",
+    "choices": [
+      "Wakanda",
+      "Vormir",
+      "Knowhere",
+      "Sokovia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does Scott Lang become in Ant-Man?",
+    "choices": [
+      "The shrinking hero Ant-Man",
+      "A gamma-powered scientist",
+      "A super-soldier",
+      "A Wakandan guard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What team forms the central conflict in Captain America: Civil War?",
+    "choices": [
+      "The Avengers and the Guardians",
+      "Team Captain America and Team Iron Man",
+      "S.H.I.E.L.D. and HYDRA",
+      "Wakanda and Talokan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What agreement divides the heroes in Civil War?",
+    "choices": [
+      "The New York Treaty",
+      "The Vienna Protocol",
+      "The Sokovia Accords",
+      "The Avengers Charter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who trains Stephen Strange in the mystic arts?",
+    "choices": [
+      "Wong",
+      "Odin",
+      "Eitri",
+      "The Ancient One"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the Eye of Agamotto revealed to contain?",
+    "choices": [
+      "The Time Stone",
+      "The Mind Stone",
+      "The Reality Stone",
+      "The Soul Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What planet is ruled by the Grandmaster in Thor: Ragnarok?",
+    "choices": [
+      "Xandar",
+      "Sakaar",
+      "Titan",
+      "Vormir"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is the name of Thor's sister in Thor: Ragnarok?",
+    "choices": [
+      "Sif",
+      "Frigga",
+      "Hela",
+      "Brunnhilde"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the name of the nation ruled by T'Challa?",
+    "choices": [
+      "Genosha",
+      "Latveria",
+      "Sokovia",
+      "Wakanda"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What fictional metal is central to Wakandan technology?",
+    "choices": [
+      "Vibranium",
+      "Adamantium",
+      "Uru",
+      "Carbonadium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who is T'Challa's cousin and opponent in Black Panther?",
+    "choices": [
+      "M'Baku",
+      "Erik Killmonger",
+      "W'Kabi",
+      "N'Jobu"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the name of the alien warlord seeking the Infinity Stones?",
+    "choices": [
+      "Ego",
+      "Ronan",
+      "Thanos",
+      "Kang"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What happens to half of all life at the end of Avengers: Infinity War?",
+    "choices": [
+      "The heroes evacuate it to Titan",
+      "The Mind Stone transforms it",
+      "The Ancient One hides it in the Dark Dimension",
+      "Thanos erases it with the completed Infinity Gauntlet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who is the primary antagonist in Ant-Man and the Wasp?",
+    "choices": [
+      "Ghost",
+      "Yellowjacket",
+      "Elihas Starr",
+      "Sonny Burch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Who is Carol Danvers in Captain Marvel?",
+    "choices": [
+      "A Wakandan scientist",
+      "A human pilot with cosmic powers",
+      "An Asgardian warrior",
+      "A Nova Corps commander"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which alien species is Carol Danvers initially told to serve in Captain Marvel?",
+    "choices": [
+      "The Skrulls",
+      "The Chitauri",
+      "The Kree",
+      "The Ravagers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of Tony Stark's daughter in Avengers: Endgame?",
+    "choices": [
+      "Cassie",
+      "Maya",
+      "Pepper",
+      "Morgan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who becomes Captain America after Steve Rogers retires in Endgame?",
+    "choices": [
+      "Sam Wilson",
+      "Bucky Barnes",
+      "James Rhodes",
+      "Clint Barton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the name of the device used to travel through time in Endgame?",
+    "choices": [
+      "The Tesseract",
+      "The Avengers' quantum time-travel method",
+      "The B.A.R.F. machine",
+      "The Time Stone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is Peter Parker's superhero identity?",
+    "choices": [
+      "Night Monkey",
+      "Silk",
+      "Spider-Man",
+      "Spider-Woman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What school does Peter Parker attend in Homecoming?",
+    "choices": [
+      "Avengers Academy",
+      "Queens Science Institute",
+      "Brooklyn Technical High School",
+      "Midtown School of Science and Technology"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Who is the villain known as the Vulture in Homecoming?",
+    "choices": [
+      "Adrian Toomes",
+      "Quentin Beck",
+      "Mac Gargan",
+      "Herman Schultz"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is Quentin Beck's villain identity in Far From Home?",
+    "choices": [
+      "Hydro-Man",
+      "Mysterio",
+      "The Chameleon",
+      "The Tinkerer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Where does Peter travel with his class in Far From Home?",
+    "choices": [
+      "South America",
+      "Australia",
+      "Europe",
+      "Africa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the name of Thor's axe introduced in Infinity War?",
+    "choices": [
+      "Jarnbjorn",
+      "Gungnir",
+      "Mjolnir Prime",
+      "Stormbreaker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Who is the talking raccoon-like member of the Guardians?",
+    "choices": [
+      "Rocket",
+      "Cosmo",
+      "Kraglin",
+      "Howard the Duck"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which film begins the MCU's Infinity Saga?",
+    "choices": [
+      "The Avengers (2012)",
+      "Iron Man (2008)",
+      "Captain America: The First Avenger (2011)",
+      "Iron Man 2 (2010)"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Infinity Saga film is the first MCU film released after Avengers: Endgame?",
+    "choices": [
+      "Black Widow",
+      "Shang-Chi and the Legend of the Ten Rings",
+      "Spider-Man: Far From Home",
+      "Doctor Strange in the Multiverse of Madness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who directed Iron Man (2008)?",
+    "choices": [
+      "Shane Black",
+      "James Gunn",
+      "Jon Watts",
+      "Jon Favreau"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who directed Thor: Ragnarok?",
+    "choices": [
+      "Taika Waititi",
+      "Kenneth Branagh",
+      "Alan Taylor",
+      "Cate Shortland"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Who directed Black Panther?",
+    "choices": [
+      "Joe Russo",
+      "Ryan Coogler",
+      "Jon Favreau",
+      "Nia DaCosta"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Who directed Captain Marvel?",
+    "choices": [
+      "Chloé Zhao",
+      "Cate Shortland",
+      "Anna Boden and Ryan Fleck",
+      "Destin Daniel Cretton"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which MCU film was the first to feature a post-credit scene that introduced Nick Fury?",
+    "choices": [
+      "The Incredible Hulk",
+      "Iron Man 2",
+      "Thor",
+      "Iron Man"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does Nick Fury's first post-credit appearance in Iron Man foreshadow?",
+    "choices": [
+      "The Avengers Initiative",
+      "The Sokovia Accords",
+      "The Guardians of the Galaxy",
+      "The Infinity Gauntlet's destruction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the fake Mandarin's stage name in Iron Man 3?",
+    "choices": [
+      "Aldrich Killian",
+      "Trevor Slattery",
+      "Colin Hargrove",
+      "Jack Taggart"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who is revealed to be the real power behind the Mandarin imagery in Iron Man 3?",
+    "choices": [
+      "Justin Hammer",
+      "Obadiah Stane",
+      "Aldrich Killian",
+      "Ivan Vanko"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the name of the dark-energy substance called the Aether?",
+    "choices": [
+      "The Power Stone",
+      "The Space Stone",
+      "The Mind Stone",
+      "The Reality Stone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Infinity Stone is housed in the Tesseract?",
+    "choices": [
+      "The Space Stone",
+      "The Time Stone",
+      "The Soul Stone",
+      "The Mind Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Infinity Stone powers the Orb sought in Guardians of the Galaxy?",
+    "choices": [
+      "The Reality Stone",
+      "The Power Stone",
+      "The Mind Stone",
+      "The Time Stone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the name of the prison where several Guardians meet in the first Guardians film?",
+    "choices": [
+      "The Raft",
+      "The Vault",
+      "The Kyln",
+      "The Cube"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the name of the celestial being who is Peter Quill's biological father?",
+    "choices": [
+      "The Collector",
+      "The Grandmaster",
+      "Arishem",
+      "Ego"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Guardians of the Galaxy Vol. 2, what does Yondu's arrow primarily demonstrate?",
+    "choices": [
+      "His control of it through whistling and a fin",
+      "Its ability to summon the Power Stone",
+      "Its connection to Asgardian magic",
+      "Its ability to shrink like Pym technology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the Winter Soldier program's main purpose?",
+    "choices": [
+      "Creating synthetic Infinity Stones",
+      "Turning controlled operatives into HYDRA assassins",
+      "Training S.H.I.E.L.D. pilots",
+      "Protecting Wakanda's royal family"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What hidden identity does Natasha Romanoff reveal to the public in The Winter Soldier's aftermath?",
+    "choices": [
+      "Her royal Wakandan ancestry",
+      "Her Kree military service",
+      "Her work as a former S.H.I.E.L.D. operative",
+      "Her role as a Hydra scientist"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does the Sokovia Accords require of enhanced individuals?",
+    "choices": [
+      "Permanent residence in Wakanda",
+      "Service only under Nick Fury",
+      "Registration as members of the Guardians",
+      "International oversight and authorization for their activities"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why does Zemo target the Avengers in Civil War?",
+    "choices": [
+      "He seeks to fracture them after blaming them for his family's loss in Sokovia",
+      "He wants to obtain the Tesseract for Wakanda",
+      "He is secretly an Ultron program",
+      "He serves the Kree Supreme Intelligence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the Raft in the MCU?",
+    "choices": [
+      "A floating Wakandan research station",
+      "A high-security prison for superpowered detainees",
+      "A Nova Corps battleship",
+      "A portal to the Quantum Realm"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does the Ancient One explain about the Time Stone in Doctor Strange?",
+    "choices": [
+      "It can reverse only physical injuries",
+      "It belongs to Dormammu permanently",
+      "Its use risks dangerous consequences and must be governed by judgment",
+      "It works only on beings from Asgard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What bargain does Doctor Strange make with Dormammu?",
+    "choices": [
+      "He gives up the Eye of Agamotto permanently",
+      "He trades Earth for the Dark Dimension",
+      "He destroys the Sanctums himself",
+      "He traps them in a repeating time loop until Dormammu withdraws"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is unusual about Hela's relationship to Asgard's history?",
+    "choices": [
+      "She was Odin's firstborn and helped build his early empire",
+      "She is Thor's daughter from another timeline",
+      "She is a human transformed by the Tesseract",
+      "She founded the Nova Corps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does the destruction of Asgard represent in Thor: Ragnarok?",
+    "choices": [
+      "The permanent death of every Asgardian",
+      "The end of Asgard as a place, while its people survive as a community",
+      "The loss of the Reality Stone",
+      "The conquest of Earth by Surtur"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why does T'Challa challenge M'Baku in the ritual combat of Black Panther?",
+    "choices": [
+      "To obtain the Heart-Shaped Herb",
+      "To become leader of the Dora Milaje",
+      "To secure his position as Wakanda's king after accepting the challenge",
+      "To claim the Jabari throne"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the Heart-Shaped Herb's narrative function in Black Panther?",
+    "choices": [
+      "It powers Wakanda's vibranium weapons remotely",
+      "It opens a portal to the Quantum Realm",
+      "It creates the Dora Milaje's armor",
+      "It grants the Black Panther enhanced abilities and a spiritual link to ancestors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is distinctive about the Black Panther suit's kinetic-energy feature?",
+    "choices": [
+      "It stores absorbed impacts and releases the energy outward",
+      "It turns the wearer invisible in every light",
+      "It is made from Pym particles",
+      "It draws energy from the Mind Stone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Why can Thanos wield the Infinity Stones together in Infinity War?",
+    "choices": [
+      "He is immune to all cosmic energy",
+      "The Infinity Gauntlet is designed to channel their combined power",
+      "Each stone cancels the others' effects",
+      "The Stones are only illusions created by Loki"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does Thanos sacrifice on Vormir to obtain the Soul Stone?",
+    "choices": [
+      "Nebula",
+      "Natasha Romanoff",
+      "Gamora",
+      "Wanda Maximoff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who is the guardian of the Soul Stone on Vormir?",
+    "choices": [
+      "The Collector",
+      "The Ancient One",
+      "Ebony Maw",
+      "Red Skull"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the main reason the Avengers initially fail to prevent Thanos's snap?",
+    "choices": [
+      "They are divided, lose crucial opportunities, and cannot remove the Gauntlet",
+      "They have already destroyed all six Infinity Stones",
+      "Wakanda refuses to help them",
+      "The Soul Stone is hidden on Earth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does the five-year time jump in Endgame establish?",
+    "choices": [
+      "The Avengers have been trapped in the Quantum Realm for five years",
+      "The surviving world has lived for years with the consequences of the snap",
+      "Thanos has ruled Earth for five years",
+      "Peter Parker has aged normally after the snap"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the Avengers' first objective in their Endgame time-heist plan?",
+    "choices": [
+      "Destroy the Quantum Realm",
+      "Find a new headquarters in Wakanda",
+      "Retrieve the Infinity Stones from earlier points in history",
+      "Rescue Tony Stark from Titan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why does Steve Rogers return the Infinity Stones at the end of Endgame?",
+    "choices": [
+      "To give them to the Collector",
+      "To prevent the Stones from ever existing",
+      "To power the new Avengers headquarters",
+      "To restore the branches of history created by taking them"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is the significance of Steve Rogers passing his shield to Sam Wilson?",
+    "choices": [
+      "He entrusts Sam with the mantle and legacy of Captain America",
+      "He transfers his super-soldier serum",
+      "He makes Sam a member of HYDRA",
+      "He gives Sam control of the Tesseract"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is revealed about the Blip in Far From Home?",
+    "choices": [
+      "Everyone returns as five years older",
+      "People who vanished return five years later at the same apparent age",
+      "Only heroes return from the snap",
+      "The Blip affects only people on Earth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does Mysterio use to make his Elemental attacks appear real?",
+    "choices": [
+      "The Reality Stone",
+      "Skrull shapeshifting",
+      "Drones, holograms, and coordinated special effects",
+      "Stark's time machine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What device does Peter use to give control of Stark's satellite system to Mysterio?",
+    "choices": [
+      "The B.A.R.F. headset",
+      "A modified Web-Shooter",
+      "The Stark Gauntlet",
+      "EDITH glasses"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Infinity Saga film first reveals that HYDRA survived within S.H.I.E.L.D.?",
+    "choices": [
+      "Captain America: The Winter Soldier",
+      "Iron Man 2",
+      "Avengers: Age of Ultron",
+      "Captain America: Civil War"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which film's post-credit scene first shows Thanos wearing or handling an Infinity Gauntlet?",
+    "choices": [
+      "Thor: The Dark World",
+      "Avengers: Age of Ultron",
+      "Guardians of the Galaxy",
+      "Avengers: Infinity War"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the production distinction of Captain Marvel within the Infinity Saga chronology?",
+    "choices": [
+      "It was the first MCU film produced after Endgame",
+      "It is set entirely after Far From Home",
+      "It was released late in the saga but is primarily set in the 1990s",
+      "It contains no connection to the Avengers Initiative"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Infinity Saga film was the first MCU movie to be released with a predominantly African setting and Black superhero lead?",
+    "choices": [
+      "Captain Marvel",
+      "The Incredible Hulk",
+      "Guardians of the Galaxy",
+      "Black Panther"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the key continuity connection between Captain Marvel and The Avengers?",
+    "choices": [
+      "The pager signal Nick Fury sends in the 1990s reaches Carol Danvers before Endgame's events",
+      "Carol founded S.H.I.E.L.D. in the 1940s",
+      "The Tesseract is first destroyed in Captain Marvel",
+      "The Avengers are trained on Hala"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does the mid-credit scene of Ant-Man and the Wasp show in relation to Infinity War?",
+    "choices": [
+      "Scott arrives in Wakanda before the battle",
+      "Scott becomes stranded in the Quantum Realm as the snap occurs",
+      "Hank Pym captures Thanos",
+      "Hope receives the Time Stone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the Quantum Realm's special narrative role in Endgame?",
+    "choices": [
+      "It contains all six Infinity Stones",
+      "It is the home of the Skrulls",
+      "It provides the basis for navigating time through quantum mechanics",
+      "It replaces the multiverse entirely"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does Tony Stark's final act in Endgame accomplish?",
+    "choices": [
+      "He sends the Avengers permanently into the past",
+      "He destroys the Quantum Realm",
+      "He gives the Gauntlet to Peter Parker",
+      "He uses the Stones to defeat Thanos's army at the cost of his life"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which Infinity Saga movie closes with Peter Parker's identity exposed to the public?",
+    "choices": [
+      "Spider-Man: Far From Home",
+      "Spider-Man: Homecoming",
+      "Captain America: Civil War",
+      "Avengers: Endgame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the name of the fictional European country central to the opening of Civil War?",
+    "choices": [
+      "Latveria",
+      "Sokovia",
+      "Slovenia",
+      "Transia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the main reason the Avengers seek Vision's Mind Stone in Infinity War?",
+    "choices": [
+      "It is the only Stone that can open the Quantum Realm",
+      "It is secretly the Soul Stone",
+      "Removing it might save Vision but risks losing a Stone Thanos needs",
+      "It controls the Wakandan shield"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does Wanda Maximoff destroy in Infinity War before Thanos reverses the event?",
+    "choices": [
+      "The Space Stone in the Tesseract",
+      "The Power Stone in the Orb",
+      "The Soul Stone on Vormir",
+      "The Mind Stone in Vision's forehead"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Infinity Saga film introduces the character who later becomes the Sorcerer Supreme?",
+    "choices": [
+      "Doctor Strange",
+      "Thor: Ragnarok",
+      "Iron Man 3",
+      "Guardians of the Galaxy Vol. 2"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the deeper significance of the three Sanctums in Doctor Strange?",
+    "choices": [
+      "They store three Infinity Stones",
+      "Together they protect Earth from mystical threats across key global locations",
+      "They are portals maintained by S.H.I.E.L.D.",
+      "They are prisons for the Celestials"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the central production challenge of the de-aged opening of Captain Marvel?",
+    "choices": [
+      "The scene was filmed before the MCU existed",
+      "Every Skrull was practical makeup",
+      "Samuel L. Jackson's Nick Fury performance was digitally de-aged",
+      "The entire sequence was shot in black and white"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is distinctive about the score or setting approach of Black Panther?",
+    "choices": [
+      "It uses only medieval European instruments",
+      "It is set entirely in outer space",
+      "It avoids any diegetic music",
+      "It combines African musical influences with a technologically advanced Wakandan world"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does the title 'Endgame' refer to within the saga's story?",
+    "choices": [
+      "The final coordinated attempt to undo the snap and confront Thanos",
+      "A chess tournament held by the Avengers",
+      "Tony Stark's first armor design",
+      "The Guardians' prison escape plan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Infinity Saga film was directed by two brothers Anthony and Joe Russo?",
+    "choices": [
+      "Iron Man 2",
+      "Avengers: Infinity War",
+      "Thor",
+      "Captain Marvel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the main continuity difference between Steve Rogers at the beginning and end of Endgame?",
+    "choices": [
+      "He loses all memory of the Avengers",
+      "He becomes a sorcerer instead of a super-soldier",
+      "He moves from a soldier focused on duty to someone who chooses a personal life before passing on the shield",
+      "He joins HYDRA to protect Bucky"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does the final post-credit scene of Far From Home reveal about Nick Fury?",
+    "choices": [
+      "Fury had been Ultron in disguise",
+      "Fury was trapped on Vormir",
+      "Fury had become the new Sorcerer Supreme",
+      "The apparent Fury was Talos while the real Fury worked aboard a Skrull-linked space station"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  }
+]

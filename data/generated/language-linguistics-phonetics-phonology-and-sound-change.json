@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What does phonetics study?",
+    "choices": [
+      "The physical production and perception of speech sounds",
+      "The history of writing systems only",
+      "The social meanings of surnames",
+      "The grammar of written prose"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does phonology primarily study?",
+    "choices": [
+      "How speakers breathe during exercise",
+      "How a language organizes speech sounds",
+      "The origins of alphabetic scripts",
+      "The meanings of individual names"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which organs normally provide the airstream for ordinary speech?",
+    "choices": [
+      "The kidneys",
+      "The stomach",
+      "The lungs",
+      "The sinuses"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Where are the vocal folds located?",
+    "choices": [
+      "Behind the lips",
+      "In the nasal cavity",
+      "At the alveolar ridge",
+      "In the larynx"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which articulator is most directly involved in many tongue sounds?",
+    "choices": [
+      "The tongue",
+      "The eardrum",
+      "The kneecap",
+      "The soft palate only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What place of articulation uses both lips?",
+    "choices": [
+      "Dental",
+      "Bilabial",
+      "Velar",
+      "Glottal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the alveolar ridge?",
+    "choices": [
+      "The opening between the vocal folds",
+      "The back wall of the throat",
+      "The ridge just behind the upper teeth",
+      "The center of the hard palate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What does the velum help control?",
+    "choices": [
+      "Whether the lips round",
+      "Whether the vocal folds vibrate",
+      "Whether a syllable receives stress",
+      "Whether air can pass through the nose"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is the glottis?",
+    "choices": [
+      "The space between the vocal folds",
+      "The tip of the tongue",
+      "The passage between the teeth",
+      "The lower lip muscle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What generally distinguishes a consonant from a vowel in articulation?",
+    "choices": [
+      "A consonant must always be voiced",
+      "A consonant involves greater constriction of the airstream",
+      "A vowel must always be written with a single letter",
+      "A vowel is made only with the lips"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What happens to the vocal folds during a voiced sound?",
+    "choices": [
+      "They close the nasal passage permanently",
+      "They touch the teeth",
+      "They vibrate",
+      "They stop all airflow from the lungs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the International Phonetic Alphabet designed to represent?",
+    "choices": [
+      "Only the spelling of English",
+      "The world's writing systems by age",
+      "The meanings of grammatical morphemes",
+      "Speech sounds with standardized symbols"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "How is the IPA symbol /p/ commonly classified?",
+    "choices": [
+      "Voiceless bilabial stop",
+      "Voiced bilabial nasal",
+      "Voiceless velar fricative",
+      "Voiced alveolar affricate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "How is the IPA symbol /b/ commonly classified?",
+    "choices": [
+      "Voiceless dental fricative",
+      "Voiced bilabial stop",
+      "Voiced velar nasal",
+      "Voiceless alveolar lateral"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "How is the IPA symbol /m/ commonly classified?",
+    "choices": [
+      "Alveolar trill",
+      "Velar stop",
+      "Bilabial nasal",
+      "Labiodental fricative"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "How is the IPA symbol /k/ commonly classified?",
+    "choices": [
+      "Voiced bilabial stop",
+      "Voiceless postalveolar fricative",
+      "Voiced dental nasal",
+      "Voiceless velar stop"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "How is the IPA symbol /f/ commonly classified?",
+    "choices": [
+      "Voiceless labiodental fricative",
+      "Voiced bilabial stop",
+      "Voiceless velar nasal",
+      "Voiced alveolar trill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What sound is conventionally represented by IPA /ʃ/?",
+    "choices": [
+      "A voiced bilabial nasal",
+      "A voiceless postalveolar fricative",
+      "A voiceless dental stop",
+      "A voiced velar stop"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "How is /ŋ/ commonly classified?",
+    "choices": [
+      "Voiceless bilabial stop",
+      "Voiced dental fricative",
+      "Voiced velar nasal",
+      "Alveolar lateral approximant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a diphthong?",
+    "choices": [
+      "A consonant with two closures",
+      "A syllable with two separate stresses",
+      "A pair of unrelated phonemes",
+      "A vowel involving movement between two qualities"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is the nucleus of a syllable?",
+    "choices": [
+      "Its central sonorous element, often a vowel",
+      "Its initial consonant cluster",
+      "Its final consonant only",
+      "Its written accent mark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the onset of a syllable?",
+    "choices": [
+      "The vowel's formant pattern",
+      "The consonant material before the nucleus",
+      "The final consonant material",
+      "The syllable's pitch movement"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is the coda of a syllable?",
+    "choices": [
+      "The first vowel in a word",
+      "The syllable's onset cluster",
+      "The consonant material after the nucleus",
+      "The speaker's regional accent"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does lexical stress usually indicate?",
+    "choices": [
+      "A mandatory pause between clauses",
+      "A change from consonant to vowel",
+      "The spelling origin of a word",
+      "A relatively prominent syllable within a word"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is intonation?",
+    "choices": [
+      "The pattern of pitch across an utterance",
+      "The number of consonants in a syllable",
+      "The speed of lip movement only",
+      "The historical replacement of a sound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "In linguistics, what is an accent?",
+    "choices": [
+      "A mark that must appear over every stressed vowel",
+      "A patterned way of pronouncing a language associated with speakers or groups",
+      "A synonym for a writing system",
+      "A universal rule for correct pronunciation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is a minimal pair?",
+    "choices": [
+      "Two synonyms with different spellings",
+      "Two dialects with identical pronunciation",
+      "Two forms differing in one sound in the same position with different meanings",
+      "Two syllables that always receive stress"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is a phoneme?",
+    "choices": [
+      "Any audible noise made by a speaker",
+      "A letter used in an alphabet",
+      "A syllable without a vowel",
+      "A contrastive sound category in a particular language"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is an allophone?",
+    "choices": [
+      "A contextual or variable realization of a phoneme",
+      "A separate writing system",
+      "A word borrowed from another language",
+      "A unit larger than a sentence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is assimilation in sound change or speech?",
+    "choices": [
+      "A sound becomes less like every neighbor",
+      "One sound becomes more like a neighboring sound",
+      "A word changes its meaning through metaphor",
+      "A syllable gains a new written symbol"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is dissimilation?",
+    "choices": [
+      "Two identical words merge into one",
+      "A vowel loses all pitch",
+      "A sound becomes less like another nearby sound",
+      "A consonant becomes a written digraph"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is epenthesis?",
+    "choices": [
+      "Deletion of a final syllable",
+      "Reversal of two adjacent sounds",
+      "Replacement of a noun by a verb",
+      "Insertion of a sound into a word or sequence"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is sound deletion, or elision?",
+    "choices": [
+      "Loss of a sound in a particular context",
+      "Insertion of an extra vowel",
+      "Movement of stress to the first syllable",
+      "A change from stop to fricative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is metathesis?",
+    "choices": [
+      "A change in which vowels become nasal",
+      "A change in which sounds exchange positions",
+      "A rule assigning grammatical gender",
+      "A shift from oral to written tradition"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What are cognates?",
+    "choices": [
+      "Words borrowed from the same modern publisher",
+      "Words that always rhyme",
+      "Words inherited from a common ancestral form",
+      "Different spellings of one current word"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a regular sound change?",
+    "choices": [
+      "A change that affects only one famous word",
+      "A spelling reform imposed by a school",
+      "A change that happens identically in every language",
+      "A sound correspondence that affects comparable environments systematically"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does Grimm's law describe?",
+    "choices": [
+      "Major consonant correspondences between Proto-Indo-European and Germanic",
+      "The shift from Latin spelling to Greek spelling",
+      "A chain shift in modern American English vowels",
+      "The creation of the IPA"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is voicing assimilation?",
+    "choices": [
+      "A vowel changes its height because of spelling",
+      "A sound becomes more like a neighboring sound in voicing",
+      "A consonant changes into a tone",
+      "A syllable gains an extra written letter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is palatalization?",
+    "choices": [
+      "A sound becomes pharyngeal",
+      "A syllable loses its nucleus",
+      "A sound moves toward a palatal or front-vowel-like articulation",
+      "A word changes from singular to plural"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is lenition?",
+    "choices": [
+      "A strengthening process that always creates ejectives",
+      "The insertion of a tone-bearing vowel",
+      "A change limited to spelling",
+      "A weakening process such as stop-to-fricative change"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is lexical tone?",
+    "choices": [
+      "Pitch differences that can distinguish word or morpheme meanings",
+      "Stress that always falls on the final syllable",
+      "A consonant contrast involving airflow",
+      "The melody of instrumental music"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is vowel harmony?",
+    "choices": [
+      "A rule requiring every word to contain a diphthong",
+      "A pattern in which vowels within a word share selected features",
+      "The loss of vowels in unstressed syllables",
+      "A poetic rhyme between adjacent vowels"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does phonotactics describe?",
+    "choices": [
+      "The historical family tree of languages",
+      "The meanings of phonetic symbols",
+      "The permitted combinations and positions of sounds in a language",
+      "The anatomy of the larynx"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a language family?",
+    "choices": [
+      "Languages spoken only by one biological family",
+      "Dialects with identical accents",
+      "Writing systems sharing the same alphabet",
+      "A group of languages descended from a common ancestor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What are distinctive features used for in phonological analysis?",
+    "choices": [
+      "Representing sound contrasts with properties such as [voice] or [nasal]",
+      "Recording only a speaker's biography",
+      "Measuring word frequency in a corpus",
+      "Describing literary themes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a natural class of sounds?",
+    "choices": [
+      "A group of sounds found only in nature",
+      "A group sharing a set of phonological features",
+      "A list of sounds ordered by spelling",
+      "A category based solely on word meaning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does the sonority hierarchy generally rank?",
+    "choices": [
+      "Words by historical age",
+      "Speakers by regional origin",
+      "Sounds by relative openness or resonance",
+      "Syllables by written length"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a tone language?",
+    "choices": [
+      "A language spoken only in singing",
+      "A language without consonants",
+      "A language whose words all have equal stress",
+      "A language in which pitch contrasts can distinguish lexical meaning"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the usual purpose of an IPA transcription?",
+    "choices": [
+      "To show pronunciation independently of ordinary spelling",
+      "To encode a sentence's syntax",
+      "To identify a speaker's ancestry",
+      "To replace all spoken language with writing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a speech community?",
+    "choices": [
+      "A group that speaks only one possible accent",
+      "A group sharing norms about language use and interpretation",
+      "A biological population with identical vocal tracts",
+      "A community whose language has no variation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a distinctive feature such as [voice]?",
+    "choices": [
+      "A punctuation mark in phonetic spelling",
+      "A measure of sentence length",
+      "An abstract property used to characterize and contrast sounds",
+      "A rule about politeness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is feature spreading?",
+    "choices": [
+      "The distribution of a new alphabet across countries",
+      "The loss of all features from unstressed speech",
+      "The movement of a word between dialects",
+      "The extension of a phonological feature from one segment to another"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does markedness refer to in phonological theory?",
+    "choices": [
+      "The relative structural complexity or special status of a form",
+      "Whether a sound is written with a diacritic",
+      "How loudly a speaker produces a segment",
+      "Whether a word is legally registered"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a syllabic consonant?",
+    "choices": [
+      "A consonant written with two letters",
+      "A consonant functioning as the nucleus of a syllable",
+      "A consonant that can never be voiced",
+      "A consonant occurring only in a coda"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a mora?",
+    "choices": [
+      "A type of consonant closure",
+      "A word-initial accent mark",
+      "A unit of syllable weight used in descriptions of quantity and timing",
+      "A language family subgroup"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a trochee in metrical phonology?",
+    "choices": [
+      "A foot with two equally strong syllables",
+      "A syllable containing a long consonant",
+      "A sequence of three rising tones",
+      "A foot with a strong syllable followed by a weak one"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a pitch-accent system?",
+    "choices": [
+      "A system in which a restricted pitch contrast helps mark prominence",
+      "A system in which every syllable has identical pitch",
+      "A writing system using acute accents only",
+      "A stress system with no phonetic pitch differences"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is tone sandhi?",
+    "choices": [
+      "A consonant mutation caused by spelling",
+      "A tone alternation triggered by neighboring tones or a prosodic context",
+      "The replacement of stress by vowel harmony",
+      "A historical merger of two alphabets"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is downstep in tone phonology?",
+    "choices": [
+      "A loss of tone from every unstressed syllable",
+      "A downward movement of the tongue",
+      "A systematic lowering of the pitch level of a following tone",
+      "A spelling convention for falling intonation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is vowel reduction?",
+    "choices": [
+      "A process that lengthens every stressed vowel",
+      "A shift from oral to nasal consonants",
+      "The deletion of a word-final consonant",
+      "A decrease in vowel articulatory distinctness, often in weak positions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is coarticulation?",
+    "choices": [
+      "The overlap of articulatory gestures for neighboring sounds",
+      "The use of two writing systems in one text",
+      "The merger of two unrelated languages",
+      "The repetition of a syllable for emphasis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does voice onset time measure?",
+    "choices": [
+      "The duration of a whole utterance",
+      "The interval between a stop release and the onset of vocal-fold vibration",
+      "The pitch difference between two vowels",
+      "The distance between the lips and teeth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What do the first two formants, F1 and F2, help describe acoustically?",
+    "choices": [
+      "Stop closure duration only",
+      "Word frequency",
+      "Vowel quality",
+      "Syllable count"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a spectrogram?",
+    "choices": [
+      "A diagram of a language family",
+      "A chart of spelling irregularities",
+      "A map of tongue muscles",
+      "A visual display of acoustic energy across time and frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What physical property is most closely related to fundamental frequency?",
+    "choices": [
+      "The rate of vocal-fold vibration",
+      "The place of tongue constriction",
+      "The duration of a syllable coda",
+      "The width of the oral cavity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is aspiration in phonetics?",
+    "choices": [
+      "A complete closure of the nasal passage",
+      "A period of increased breathy airflow associated with some consonants",
+      "A pitch movement from high to low",
+      "A vowel's change in tongue height"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is prenasalization?",
+    "choices": [
+      "A nasal vowel followed by a glottal stop only",
+      "A process deleting all nasals before vowels",
+      "A nasal portion occurring before an oral stop or other consonant",
+      "A type of written diacritic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a lateral approximant?",
+    "choices": [
+      "A sound made with two complete lip closures",
+      "A nasal stop at the glottis",
+      "A vowel articulated only with the jaw",
+      "A sound made with airflow passing around one or both sides of the tongue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is the sonority sequencing principle?",
+    "choices": [
+      "Syllables tend to rise in sonority toward the nucleus and fall afterward",
+      "Every syllable must begin with a fricative",
+      "Stress must fall on the most open vowel",
+      "All consonants must have equal resonance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is resyllabification?",
+    "choices": [
+      "A change from one alphabet to another",
+      "A change in which segments are assigned to neighboring syllables across a boundary",
+      "A replacement of a phoneme by its spelling",
+      "A rule assigning lexical tone to a morpheme"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is phonological neutralization?",
+    "choices": [
+      "The creation of a new contrast in every environment",
+      "The replacement of speech by writing",
+      "The loss of a contrast in a particular environment",
+      "The merging of two languages' vocabularies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is an archiphoneme in structuralist analysis?",
+    "choices": [
+      "A phoneme found only in religious language",
+      "A sound with four simultaneous places of articulation",
+      "A historical spelling symbol",
+      "A representation of the shared properties of neutralized phonemes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is rule ordering?",
+    "choices": [
+      "The claim that the sequence of phonological rules can affect their output",
+      "The alphabetical ordering of IPA symbols",
+      "The ranking of speakers by pronunciation",
+      "The order in which dictionaries list meanings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is an opaque sound change?",
+    "choices": [
+      "A change that affects only written language",
+      "A change whose surface result obscures the environment or motivation of an earlier rule",
+      "A change audible only under water",
+      "A change that creates no alternations"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the comparative method used to reconstruct?",
+    "choices": [
+      "The correct spelling of a modern dialect",
+      "The acoustic shape of one speaker's vowels",
+      "Earlier forms by comparing regular correspondences among related languages",
+      "The social prestige of a language"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does an asterisk before a reconstructed form signify in historical linguistics?",
+    "choices": [
+      "The form is ungrammatical in every daughter language",
+      "The form is borrowed from Greek",
+      "The form appears only in poetry",
+      "The form is reconstructed rather than directly attested"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is internal reconstruction?",
+    "choices": [
+      "Inferring an earlier stage from alternations within one language",
+      "Comparing unrelated languages across continents",
+      "Reconstructing a script from archaeological ink",
+      "Recovering a speaker's private vocabulary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is analogical leveling?",
+    "choices": [
+      "A regular sound change that affects every language",
+      "The reduction of an irregular alternation by extending one pattern across forms",
+      "The equalization of pitch within a phrase",
+      "The borrowing of a complete writing system"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is grammaticalization?",
+    "choices": [
+      "The invention of a formal grammar book",
+      "A sound change affecting only nouns",
+      "A process by which a lexical item develops grammatical function and may undergo phonological reduction",
+      "The replacement of a spoken language by a script"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is semantic bleaching?",
+    "choices": [
+      "The loss of vowel color in acoustic speech",
+      "The replacement of a word by a homophone",
+      "The deletion of a word's final consonant",
+      "Loss of some lexical meaning as an expression develops a more grammatical or generalized use"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a chain shift?",
+    "choices": [
+      "A linked series of sound changes in which movements affect neighboring categories",
+      "A change caused by one speaker's stutter",
+      "A sequence of borrowed words from one language",
+      "A shift from prose to verse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a push chain in chain-shift theory?",
+    "choices": [
+      "A chain caused only by increased speech rate",
+      "A hypothesized shift in which one category moves and displaces another",
+      "A change where every vowel lowers together",
+      "A sequence of consonant deletions with no interaction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does Verner's law explain in Germanic historical phonology?",
+    "choices": [
+      "The origin of Germanic vowel harmony",
+      "The development of IPA symbols",
+      "Exceptions to Grimm's law conditioned partly by earlier stress placement",
+      "The spread of tone in West Africa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is umlaut in historical Germanic linguistics?",
+    "choices": [
+      "A consonant shift caused by word-initial stress",
+      "A change from a stop to a trill",
+      "The loss of all unstressed syllables",
+      "A vowel change influenced by a vowel or glide in a following syllable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is tonogenesis?",
+    "choices": [
+      "The historical development of lexical tone from earlier consonantal or phonatory contrasts",
+      "The loss of all pitch distinctions from a language",
+      "The creation of a new alphabet for tone languages",
+      "The replacement of stress by consonant harmony"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is areal diffusion?",
+    "choices": [
+      "The inheritance of a feature from a single proto-language",
+      "The spread of a linguistic feature across neighboring languages through contact",
+      "The movement of a language's speakers into one city only",
+      "The diffusion of an alphabet without any spoken change"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does a wave model of language change emphasize?",
+    "choices": [
+      "The idea that every language descends from one recent dialect",
+      "A model of acoustic waves in the ear",
+      "Features spreading through overlapping contact networks rather than only branching from a tree",
+      "The replacement of all dialects by a standard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the feeding relation between two phonological rules?",
+    "choices": [
+      "The first rule prevents the second from ever applying",
+      "Both rules apply only to borrowed words",
+      "The rules have identical outputs",
+      "The first rule creates the environment in which the second can apply"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the bleeding relation between two phonological rules?",
+    "choices": [
+      "The first rule removes the environment required by the second",
+      "The first rule creates a new environment for the second",
+      "Both rules apply simultaneously without interaction",
+      "The second rule changes only spelling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Why are regular sound correspondences important in reconstruction?",
+    "choices": [
+      "They prove all related languages are mutually intelligible",
+      "They distinguish inherited relationships from accidental resemblance or isolated borrowing",
+      "They show spelling never changes",
+      "They identify the oldest surviving manuscript"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a proto-language?",
+    "choices": [
+      "The first written form of any language",
+      "A prestige dialect used by modern governments",
+      "A reconstructed or historically inferred ancestor of a language family",
+      "A language that has no descendants"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the difference between an innovation and a retention in historical linguistics?",
+    "choices": [
+      "An innovation is always borrowed, while a retention is always invented",
+      "An innovation belongs only to writing, while a retention belongs only to speech",
+      "They are two names for the same process",
+      "An innovation is a change in a daughter language, while a retention preserves an older feature"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a sound change's lexical diffusion?",
+    "choices": [
+      "The gradual spread of a change through the vocabulary rather than an instantaneous exceptionless shift",
+      "The spread of a language family across continents",
+      "The diffusion of one phonetic feature through a single syllable",
+      "A change limited to proper names"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is coalescence in historical phonology?",
+    "choices": [
+      "One segment splits into two unrelated words",
+      "Two adjacent segments combine into one segment with properties of both",
+      "A language borrows an entire sentence",
+      "Stress moves from one word to another"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is fortition?",
+    "choices": [
+      "A weakening of stops into glides",
+      "A process creating lexical tone",
+      "A strengthening process such as fricative-to-stop change",
+      "A rule deleting consonant clusters"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is debuccalization?",
+    "choices": [
+      "A change from a glottal stop to a bilabial stop",
+      "The addition of a new place feature to every vowel",
+      "A shift from one writing system to another",
+      "Loss of oral place features, often leaving a glottal or laryngeal articulation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is spirantization?",
+    "choices": [
+      "A change in which a stop becomes a fricative or approximant",
+      "A change in which every fricative becomes a stop",
+      "The insertion of a nasal consonant",
+      "A shift from stress to tone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a long consonant often called in phonological description?",
+    "choices": [
+      "A glide",
+      "A geminate",
+      "A moraic vowel",
+      "A contour tone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a contour tone?",
+    "choices": [
+      "A tone that has no pitch target",
+      "A stress mark placed over two words",
+      "A tone whose pitch changes within one tone-bearing unit",
+      "A consonant articulated with changing place"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the basic contrast between phonetic and phonemic transcription?",
+    "choices": [
+      "Phonemic transcription always uses ordinary spelling",
+      "Phonetic transcription records meaning rather than sound",
+      "They are identical in purpose and level of detail",
+      "Phonetic transcription can show detail, while phonemic transcription abstracts away predictable variation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

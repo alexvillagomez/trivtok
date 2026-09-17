@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a beam bridge?",
+    "choices": [
+      "A bridge whose deck is supported primarily by horizontal beams",
+      "A bridge held up only by a single central cable",
+      "A bridge made entirely from floating pontoons",
+      "A bridge whose roadway hangs below an arch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the defining structural shape of an arch bridge?",
+    "choices": [
+      "A straight cable carrying load only in tension",
+      "A curved member that carries load mainly in compression",
+      "A rotating deck supported by counterweights",
+      "A triangular tower with no foundation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What makes a truss bridge distinctive?",
+    "choices": [
+      "A roadway suspended from one flexible cable only",
+      "A hollow masonry barrel with no joints",
+      "A framework of connected triangles",
+      "A deck supported by inflatable chambers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What supports the roadway of a suspension bridge?",
+    "choices": [
+      "A solid arch beneath the entire deck",
+      "Only vertical concrete columns",
+      "A rigid plate resting on water",
+      "Hangers connected to a main cable draped between towers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How does a cable-stayed bridge support its deck?",
+    "choices": [
+      "Inclined cables run directly from towers to the deck",
+      "A single cable passes under the roadway and through tunnels",
+      "Stone arches support the deck at every meter",
+      "Floating pontoons pull the roadway upward"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a bascule bridge?",
+    "choices": [
+      "A bridge built from stacked stone arches",
+      "A movable bridge section that rotates upward around a hinge",
+      "A bridge supported by a buried tunnel",
+      "A truss that can slide sideways only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a bridge pier?",
+    "choices": [
+      "The paved surface vehicles travel on",
+      "A cable anchorage beyond a tower",
+      "An intermediate vertical support between the ends of a bridge",
+      "The joint that allows thermal movement"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is an abutment?",
+    "choices": [
+      "A short cable hanging from a main cable",
+      "A removable lane barrier",
+      "A device that measures vibration",
+      "An end support that transfers bridge forces into the ground"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does a bridge deck carry?",
+    "choices": [
+      "The roadway, walkway, or rail surface and its traffic loads",
+      "Only the underground foundation",
+      "The main cable's internal wires",
+      "Water flowing beneath the bridge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is a bridge span?",
+    "choices": [
+      "The width of a concrete footing",
+      "The distance between adjacent supports",
+      "The height of a railing",
+      "The length of a construction crane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a dead load on a bridge?",
+    "choices": [
+      "Traffic that moves across the deck",
+      "A temporary construction worker load",
+      "The permanent weight of the structure itself",
+      "Wind that changes direction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a live load on a bridge?",
+    "choices": [
+      "The weight of permanently installed girders",
+      "The weight of the foundation soil",
+      "A load that never changes position",
+      "Variable loads such as vehicles, trains, or pedestrians"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which force tends to stretch a structural member?",
+    "choices": [
+      "Tension",
+      "Compression",
+      "Torsion",
+      "Bearing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which force tends to shorten or squeeze a structural member?",
+    "choices": [
+      "Tension",
+      "Compression",
+      "Shear",
+      "Uplift"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does bending produce in a beam?",
+    "choices": [
+      "Only uniform temperature throughout the member",
+      "A force that acts entirely along the bridge's length",
+      "Curvature with tension on one side and compression on the other",
+      "No internal stress if the beam is horizontal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is shear force in a structural member?",
+    "choices": [
+      "A force that only twists a circular shaft",
+      "A force caused exclusively by sunlight",
+      "A force that acts only at a cable anchorage",
+      "A force tending to make adjacent parts slide past one another"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is torsion?",
+    "choices": [
+      "Twisting about a member's longitudinal axis",
+      "Stretching a member along its length",
+      "Crushing a foundation vertically",
+      "Bending a cable into a straight line"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Why are triangular shapes common in trusses?",
+    "choices": [
+      "Triangles eliminate every force from a bridge",
+      "A triangle is geometrically stable when its member lengths are fixed",
+      "Triangles require no joints or connections",
+      "Triangles can carry load only through bending"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the main structural role of a bridge foundation?",
+    "choices": [
+      "Reduce the number of lanes on the deck",
+      "Prevent all thermal expansion",
+      "Transfer forces safely into the supporting soil or rock",
+      "Carry traffic directly without any superstructure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is scour at a bridge?",
+    "choices": [
+      "Rusting of steel caused by road salt",
+      "Cracking of concrete from drying",
+      "Vibration caused by passing trucks",
+      "Erosion of soil or sediment around foundations by flowing water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why do bridges commonly include expansion joints?",
+    "choices": [
+      "To accommodate movement from temperature changes and other effects",
+      "To increase the permanent weight of the deck",
+      "To stop all traffic from crossing a pier",
+      "To convert compression into electricity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a bridge bearing designed to do?",
+    "choices": [
+      "Hold traffic lights above a roadway",
+      "Transfer loads while allowing specified rotations or movements",
+      "Prevent a foundation from touching soil",
+      "Replace every structural connection with glue"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why is steel widely used in bridge construction?",
+    "choices": [
+      "It cannot corrode in any environment",
+      "It carries loads without any deformation",
+      "It provides high strength and useful ductility for many structural members",
+      "It is always lighter than every other material"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Why is concrete often reinforced with steel bars?",
+    "choices": [
+      "Steel prevents concrete from carrying compression",
+      "Rebar makes concrete completely flexible",
+      "Steel bars are used only for decoration",
+      "Steel helps carry tensile stresses that plain concrete handles poorly"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is prestressed concrete?",
+    "choices": [
+      "Concrete placed with intentional internal compression from tensioned reinforcement",
+      "Concrete mixed without water",
+      "Concrete that is cured only below freezing",
+      "Concrete with no reinforcement and no internal forces"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which famous bridge connects San Francisco and Marin County with a suspension design?",
+    "choices": [
+      "Brooklyn Bridge",
+      "Golden Gate Bridge",
+      "Forth Bridge",
+      "Millau Viaduct"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "London's Tower Bridge uses what type of movable span?",
+    "choices": [
+      "Vertical lift",
+      "Swing",
+      "Bascule",
+      "Retractable truss"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The Brooklyn Bridge is historically recognized primarily as what type?",
+    "choices": [
+      "A concrete box-girder bridge",
+      "A bascule bridge",
+      "A tied-arch bridge",
+      "A suspension bridge"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Millau Viaduct in France is best known as what bridge type?",
+    "choices": [
+      "A multi-span cable-stayed viaduct",
+      "A stone arch aqueduct",
+      "A floating pontoon bridge",
+      "A bascule drawbridge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a Bailey bridge?",
+    "choices": [
+      "A permanent suspension bridge with no roadway",
+      "A portable modular truss bridge developed for rapid assembly",
+      "A Roman masonry arch design",
+      "A bridge made exclusively from prestressed concrete"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a viaduct?",
+    "choices": [
+      "A hinged bridge leaf over a shipping channel",
+      "A cable anchorage buried in rock",
+      "A bridge or series of spans carrying a road or railway across a long low area",
+      "A single beam used only inside a building"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a footbridge intended primarily to carry?",
+    "choices": [
+      "Ocean-going ships",
+      "Aircraft",
+      "Underground water pressure",
+      "Pedestrians"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is a bridge clearance?",
+    "choices": [
+      "The available space for traffic, vessels, or other objects to pass",
+      "The amount of paint on a tower",
+      "The number of bolts in a gusset plate",
+      "The angle of a foundation pile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Why does wind matter in bridge engineering?",
+    "choices": [
+      "Wind affects only the color of a bridge",
+      "Wind can apply static and dynamic forces to the deck, towers, and cables",
+      "Wind cannot act on a rigid structure",
+      "Wind loads occur only during construction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is corrosion in a steel bridge?",
+    "choices": [
+      "A temporary change in traffic direction",
+      "A type of cable-stayed geometry",
+      "Chemical or electrochemical deterioration of metal",
+      "A strengthening method using concrete"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Why are routine bridge inspections important?",
+    "choices": [
+      "They eliminate the need for any original design records",
+      "They prevent all traffic loads permanently",
+      "They make foundations deeper without construction",
+      "They help detect damage and deterioration before safety margins are reduced"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a load path?",
+    "choices": [
+      "The route forces take through structural members into the foundations and ground",
+      "A marked pedestrian route across a bridge",
+      "A shipping route beneath a bridge",
+      "A schedule for delivering construction materials"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a safety factor intended to provide?",
+    "choices": [
+      "A guarantee that a bridge can never be damaged",
+      "Margin between expected demands and a specified capacity",
+      "A way to avoid measuring loads",
+      "A count of emergency vehicles on the deck"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is an indeterminate structure?",
+    "choices": [
+      "A structure with no supports at all",
+      "A bridge designed without any loads",
+      "A structure whose internal forces cannot be found from equilibrium equations alone",
+      "A structure made only from temporary materials"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does Euler buckling theory primarily predict?",
+    "choices": [
+      "The fatigue life of a welded connection",
+      "The water pressure beneath a pier",
+      "The tensile strength of a suspension cable",
+      "The critical instability load of an ideal slender compression member"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is slenderness ratio in column behavior?",
+    "choices": [
+      "A measure relating effective length to a member's radius of gyration",
+      "The ratio of bridge width to traffic volume",
+      "A comparison of concrete strength and steel yield",
+      "The ratio of cable sag to tower height only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is lateral-torsional buckling of a beam?",
+    "choices": [
+      "A vertical crushing failure of a concrete pier",
+      "A stability failure combining sideways deflection with twisting",
+      "A fatigue crack caused only by salt",
+      "A slip between a bearing and its pedestal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is local buckling?",
+    "choices": [
+      "Buckling of an entire bridge deck under a train",
+      "A foundation settlement pattern",
+      "Buckling of a plate element within a member before the whole member buckles",
+      "A cable's vibration at a single frequency"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the P–delta effect?",
+    "choices": [
+      "A chemical reaction between concrete and aggregate",
+      "A change in cable length from humidity",
+      "The difference between live and dead load",
+      "Additional moment caused when an axial load acts through a member's lateral deflection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the neutral axis of a beam in simple bending?",
+    "choices": [
+      "The line where longitudinal bending stress is approximately zero",
+      "The outermost compression fiber",
+      "The line joining two bridge towers",
+      "The axis of a rotating bridge deck"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does section modulus indicate?",
+    "choices": [
+      "The amount of water a foundation displaces",
+      "A cross-section's geometric resistance to bending stress",
+      "The number of lanes in a bridge",
+      "The chemical durability of concrete"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is an influence line used to show?",
+    "choices": [
+      "How steel corrodes over a calendar year",
+      "How a cable is spun during construction",
+      "How a response at a chosen point changes as a load moves across a structure",
+      "How a bridge's color changes with sunlight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is structural fatigue?",
+    "choices": [
+      "Sudden failure caused only by one overload",
+      "Concrete curing under a wet blanket",
+      "Permanent movement from a single temperature change",
+      "Progressive damage from repeated or fluctuating stress cycles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does an S–N curve relate in fatigue analysis?",
+    "choices": [
+      "Stress range or amplitude to the number of cycles to failure",
+      "Soil type to foundation depth",
+      "Span length to bridge color",
+      "Steel chemistry to welding temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why are stress concentrations important near holes and sharp details?",
+    "choices": [
+      "They eliminate all bending in the surrounding member",
+      "They locally amplify stress and can accelerate fatigue cracking",
+      "They make steel immune to corrosion",
+      "They affect only the bridge's appearance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a fracture-critical member?",
+    "choices": [
+      "A member designed to fracture safely during every inspection",
+      "A decorative member with a visible crack by design",
+      "A member whose failure could cause major loss of load-carrying capacity because redundancy is limited",
+      "A cable that is never connected to the deck"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does structural redundancy mean?",
+    "choices": [
+      "Every member has exactly the same dimensions",
+      "A bridge has more lanes than necessary",
+      "A structure is never exposed to dynamic loads",
+      "Alternative load paths can continue carrying load if one component is damaged"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is shear lag in a tension member?",
+    "choices": [
+      "Nonuniform transfer of stress because only part of the cross-section connects directly",
+      "A delayed failure caused by traffic signals",
+      "The loss of shear from a rotating bearing",
+      "A vibration isolated by a tuned mass damper"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is composite action between a steel girder and concrete deck?",
+    "choices": [
+      "The concrete and steel are deliberately prevented from touching",
+      "They act together through a connection such as shear studs to resist load",
+      "The deck carries only temperature loads",
+      "The girder becomes a suspension cable after curing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the role of shear studs in a composite bridge girder?",
+    "choices": [
+      "Prevent all vertical deflection in the girder",
+      "Measure chloride concentration in concrete",
+      "Transfer longitudinal shear so the steel and concrete can act together",
+      "Hold expansion joints open during traffic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is an orthotropic steel deck?",
+    "choices": [
+      "A concrete slab with identical properties in every direction",
+      "A deck supported only by masonry arches",
+      "A deck that contains no welded or bolted parts",
+      "A steel deck stiffened differently in its longitudinal and transverse directions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a gusset plate in a truss?",
+    "choices": [
+      "A plate that connects multiple truss members at a joint",
+      "A thin plate that seals a concrete crack",
+      "A rotating plate inside an expansion bearing",
+      "A cover placed over a bridge's roadway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is the funicular shape of a cable under a uniform horizontal load idealization?",
+    "choices": [
+      "A straight line that carries no tension",
+      "A curve whose form follows the balance of the applied load, often a parabola in bridge models",
+      "A circular arc that always carries only bending",
+      "A polygon that has no reaction forces"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is catenary action?",
+    "choices": [
+      "Compression carried through a rigid masonry arch only",
+      "A local buckling mode in a steel plate",
+      "Tension-dominated load carrying by a sagging cable or flexible member",
+      "A bearing rotation caused by temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why does a suspension cable develop horizontal force at its anchorages?",
+    "choices": [
+      "The cable is always in compression at the towers",
+      "The deck pushes the cable only vertically",
+      "Anchorage force comes only from wind",
+      "Its sagging geometry resolves tension into horizontal and vertical components"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is cable stay vibration often controlled with?",
+    "choices": [
+      "Dampers, cross-ties, or aerodynamic measures",
+      "Extra traffic lanes on the deck",
+      "Removal of all tower saddles",
+      "Unreinforced concrete wrapped around every cable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is aeroelastic flutter?",
+    "choices": [
+      "A one-time gust that causes no continuing response",
+      "A self-excited interaction between aerodynamic forces and structural motion",
+      "A corrosion process inside a cable",
+      "A slow settlement of a bridge abutment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is vortex shedding behind a bridge member?",
+    "choices": [
+      "A method of spinning suspension cables",
+      "A crack pattern caused by chloride",
+      "Alternating vortices that can impose periodic forces at a characteristic frequency",
+      "A type of concrete prestressing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is aerodynamic buffeting?",
+    "choices": [
+      "Self-excited flutter with no incoming turbulence",
+      "A vertical load caused by pedestrians",
+      "A foundation failure from scour",
+      "Forced vibration caused by turbulent, fluctuating wind"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a tuned mass damper used for on a bridge?",
+    "choices": [
+      "Reducing selected vibrations by moving a tuned secondary mass",
+      "Increasing the bridge's dead load to stop all movement",
+      "Replacing the main cable at an anchorage",
+      "Measuring concrete carbonation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is an elastomeric bearing?",
+    "choices": [
+      "A steel cable clamp used in a suspension anchorage",
+      "A layered rubber-like bearing that accommodates load, rotation, and limited movement",
+      "A concrete hinge with no deformable material",
+      "A bearing that allows only vertical uplift"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a pot bearing designed to use?",
+    "choices": [
+      "A wooden wedge that carries only tension",
+      "A suspension cable folded inside a deck",
+      "A confined elastomer that behaves like a hydraulic pad under compression",
+      "A free-floating concrete block with no restraint"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a finger expansion joint?",
+    "choices": [
+      "A joint made from fingers of reinforcing bar welded together",
+      "A fixed connection that permits no movement",
+      "A cable socket used at a tower saddle",
+      "A joint with interlocking projecting plates that accommodate deck movement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a pin-and-hanger assembly in an older bridge?",
+    "choices": [
+      "A suspended connection using pins and hanger plates to join girder segments",
+      "A device for tuning a mass damper",
+      "A steel pile driven through a concrete deck",
+      "A cable-stayed tower with no bearings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does a slip-critical bolted joint rely on?",
+    "choices": [
+      "A loose bolt that slides freely through a hole",
+      "Friction between clamped plates to prevent service-load slip",
+      "Welding at every bolt head",
+      "Compression in a bridge cable"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is creep in concrete?",
+    "choices": [
+      "A sudden brittle fracture during a truck crossing",
+      "Expansion caused only by freezing water",
+      "Time-dependent deformation under sustained stress",
+      "The loss of cement before mixing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is shrinkage in concrete?",
+    "choices": [
+      "A permanent increase in volume caused by traffic",
+      "A steel fatigue mechanism",
+      "A bridge bearing's horizontal translation",
+      "Volume reduction from moisture loss and ongoing material reactions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is alkali–silica reaction in concrete?",
+    "choices": [
+      "A reaction that can form an expansive gel and crack susceptible concrete",
+      "A process that strengthens every aggregate particle",
+      "A steel welding procedure for bridge decks",
+      "A method of reducing cable sag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "How can chloride ions threaten a reinforced-concrete bridge?",
+    "choices": [
+      "They make concrete permanently waterproof",
+      "They can break down steel reinforcement's passive protection and promote corrosion",
+      "They increase the ductility of rusted rebar",
+      "They prevent carbonation in every environment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is carbonation-induced corrosion?",
+    "choices": [
+      "Carbon dioxide freezes inside a cable and causes flutter",
+      "A roasting process used to cure concrete",
+      "CO2-driven chemical change lowers concrete alkalinity and can depassivate reinforcement",
+      "A method of adding carbon to steel after painting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is incremental launching in bridge construction?",
+    "choices": [
+      "Lifting a bridge deck vertically with a crane in one piece",
+      "Spinning cables from one tower to another",
+      "Casting all piers simultaneously underwater",
+      "Pushing a completed or partially completed superstructure out from behind an abutment in stages"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is balanced-cantilever construction?",
+    "choices": [
+      "Building segments outward from a pier with moments balanced on opposing sides",
+      "Building a bridge only from the center of its longest span",
+      "Launching a deck by floating it downstream",
+      "Constructing a cable without any temporary support"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is precast segmental bridge construction?",
+    "choices": [
+      "Pouring one unreinforced slab directly on the riverbed",
+      "Joining factory-made concrete segments into a continuous bridge structure",
+      "Bolting together only timber handrails",
+      "Forming a bridge entirely by soil compaction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is aerial spinning in suspension-bridge construction?",
+    "choices": [
+      "Rotating an entire bridge deck in a storm",
+      "Using a helicopter to grind concrete",
+      "Spinning or placing cable wires across the span between anchorages",
+      "Measuring cable tension with an aerial photograph"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is structural health monitoring?",
+    "choices": [
+      "A visual paint inspection performed only before opening day",
+      "A method that replaces all physical inspections",
+      "A system that controls bridge traffic lights only",
+      "Using sensors and data to track conditions such as strain, acceleration, or corrosion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does modal analysis identify in a bridge?",
+    "choices": [
+      "Natural frequencies and associated mode shapes of vibration",
+      "The chemical composition of concrete aggregate",
+      "The number of lanes that can be painted",
+      "The exact date a foundation was poured"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What can a strain gauge measure on a bridge member?",
+    "choices": [
+      "The depth of scour without water contact",
+      "Small changes in length associated with strain",
+      "The chloride concentration in fresh concrete",
+      "The wind speed at a distant tower"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does ultrasonic testing help reveal in steel bridge components?",
+    "choices": [
+      "The live load of a passing vehicle without sensors",
+      "The color stability of protective paint",
+      "Internal discontinuities or flaws using high-frequency sound",
+      "The age of a concrete aggregate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is fractography in bridge failure investigation?",
+    "choices": [
+      "The mapping of traffic lanes after a collision",
+      "The measurement of a bridge's natural frequencies",
+      "The testing of soil density under an abutment",
+      "The study of fracture surfaces to infer how a crack or break developed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is progressive collapse?",
+    "choices": [
+      "A local failure that propagates and causes disproportionate loss of structural capacity",
+      "A planned sequence for opening bridge lanes",
+      "A slow increase in concrete strength",
+      "A controlled movement at an expansion joint"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why can construction-stage load paths differ from final load paths?",
+    "choices": [
+      "Final bridges carry no loads during construction",
+      "Temporary supports, incomplete connections, and changing geometry alter how forces flow",
+      "Concrete always has its final strength immediately",
+      "Cables carry identical forces before and after the deck is complete"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a bridge load rating?",
+    "choices": [
+      "A ranking based only on a bridge's age",
+      "A count of vehicles that crossed during construction",
+      "An evaluation of the loads a bridge can safely carry under specified conditions",
+      "A measure of paint thickness on the deck"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is a scour countermeasure intended to protect?",
+    "choices": [
+      "Steel cables from fatigue caused by traffic",
+      "Expansion joints from thermal movement",
+      "Concrete from carbonation in dry air",
+      "Soil around piers or abutments from erosive flowing water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does stay-cable force adjustment during construction help control?",
+    "choices": [
+      "The evolving geometry and distribution of forces as the deck is erected",
+      "The chemical composition of hardened concrete",
+      "The number of ships passing under a bridge",
+      "The final color of cable sheathing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a tuned aerodynamic fairing on a bridge deck intended to do?",
+    "choices": [
+      "Increase traffic load by adding a sharp edge",
+      "Modify airflow and reduce wind-induced response",
+      "Prevent all corrosion inside a girder",
+      "Replace the deck's expansion joints"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is corrosion fatigue?",
+    "choices": [
+      "A one-time overload of a rust-free member",
+      "A concrete expansion reaction involving alkalis",
+      "Fatigue damage accelerated by a corrosive environment and repeated stress cycles",
+      "A cable vibration caused only by sunlight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why are welded bridge details inspected carefully for fatigue?",
+    "choices": [
+      "Welds eliminate every stress concentration",
+      "Welding makes steel immune to moisture",
+      "Fatigue occurs only in unconnected castings",
+      "Weld geometry and residual stresses can create crack initiation sites under cyclic loading"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the principal distinction between a suspension bridge's main cable and its hangers?",
+    "choices": [
+      "The main cable carries along its curved length while hangers transfer deck load upward to it",
+      "Hangers support the anchor blocks while the main cable carries no load",
+      "Both are vertical members with identical functions",
+      "The main cable is in compression and hangers are in bending"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a cable saddle on a suspension bridge tower?",
+    "choices": [
+      "A chair for inspectors inside the deck",
+      "A shaped support that lets the main cable pass over or redirect its force at the tower",
+      "A device that anchors rebar to concrete",
+      "A bearing that permits the whole tower to rotate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the purpose of a bridge diaphragm or cross-frame?",
+    "choices": [
+      "Carry all vehicle loads independently of the deck",
+      "Allow a tower to float during floods",
+      "Provide transverse stability and distribute or transfer forces between longitudinal members",
+      "Prevent any longitudinal thermal movement"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a box girder?",
+    "choices": [
+      "A cable enclosed in a flexible fabric tube",
+      "A concrete footing shaped like a cube",
+      "A railing made from stacked steel plates",
+      "A girder with a hollow box-shaped cross-section"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does the tie in a tied-arch bridge primarily resist?",
+    "choices": [
+      "The arch's horizontal outward thrust",
+      "The vertical weight of every vehicle directly",
+      "Wind only at the top of the arch",
+      "Water pressure inside the roadway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a bridge approach?",
+    "choices": [
+      "The highest point of a suspension cable",
+      "The roadway section leading onto or away from the bridge",
+      "A temporary crane platform beneath a pier",
+      "The steel plate joining two truss diagonals"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a bridge guardrail intended primarily to do?",
+    "choices": [
+      "Carry the main tension of a suspension cable",
+      "Prevent concrete from curing too quickly",
+      "Help keep errant vehicles from leaving the roadway",
+      "Measure the bridge's natural frequency"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a proof or load test on an existing bridge intended to assess?",
+    "choices": [
+      "The bridge's architectural style",
+      "The chemical age of its paint only",
+      "The number of foundations visible above water",
+      "Observed structural response under a controlled test load"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  }
+]

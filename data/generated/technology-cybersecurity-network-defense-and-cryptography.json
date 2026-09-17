@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "In the CIA triad, what does confidentiality protect?",
+    "choices": [
+      "Information from unauthorized disclosure",
+      "Systems from every possible outage",
+      "Data from every accidental change",
+      "Networks from physical damage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "In the CIA triad, what does integrity protect?",
+    "choices": [
+      "Information from being viewed by anyone",
+      "Information from unauthorized alteration",
+      "Servers from running out of electricity",
+      "Users from forgetting passwords"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In the CIA triad, what does availability concern?",
+    "choices": [
+      "Keeping every file secret from its owner",
+      "Preventing all changes to a database",
+      "Authorized users being able to access a service when needed",
+      "Proving who wrote a software package"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does authentication establish?",
+    "choices": [
+      "The files a user may open",
+      "The cost of an incident",
+      "The encryption algorithm in a certificate",
+      "The identity of a user or system"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What does authorization determine after a user is authenticated?",
+    "choices": [
+      "Which resources and actions that identity may use",
+      "Whether the identity exists at all",
+      "Whether a packet has an IP address",
+      "How a password is hashed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is multi-factor authentication designed to require?",
+    "choices": [
+      "Two passwords from the same list",
+      "Two or more different factor types",
+      "Two accounts on the same device",
+      "Two antivirus products"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is phishing?",
+    "choices": [
+      "A scan that checks disk sectors",
+      "A protocol for encrypting Wi-Fi",
+      "A deceptive message intended to trick a recipient",
+      "A backup stored on tape"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What makes spear phishing different from broad phishing?",
+    "choices": [
+      "It uses only telephone calls",
+      "It attacks only wireless networks",
+      "It is always sent by a trusted employee",
+      "It targets a particular person or organization with tailored content"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is malware?",
+    "choices": [
+      "Software designed to perform harmful or unauthorized actions",
+      "Any software that has a graphical interface",
+      "A tool used only to compress files",
+      "A physical cable used for networking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is ransomware typically designed to do?",
+    "choices": [
+      "Improve the speed of a database",
+      "Deny access to data or systems and demand payment",
+      "Issue certificates to websites",
+      "Route packets between subnets"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Why is timely security patching important?",
+    "choices": [
+      "It guarantees that no future flaw can exist",
+      "It replaces every user password automatically",
+      "It fixes known flaws that attackers may exploit",
+      "It makes encrypted data readable"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does the principle of least privilege grant?",
+    "choices": [
+      "Every administrator every possible permission",
+      "Anonymous access to public and private data",
+      "A separate password for every network packet",
+      "Only the access needed for an authorized task"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is defense in depth?",
+    "choices": [
+      "Using multiple complementary security controls",
+      "Placing all protection at a single firewall",
+      "Encrypting only files that are already public",
+      "Removing logging to reduce system load"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is the primary function of a network firewall?",
+    "choices": [
+      "Generate random passwords for employees",
+      "Permit or block traffic according to defined rules",
+      "Repair corrupted hard-drive sectors",
+      "Convert domain names into certificates"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does an intrusion detection system generally do?",
+    "choices": [
+      "Automatically encrypt every database",
+      "Assign IP addresses to new devices",
+      "Detect and alert on suspicious activity",
+      "Replace a router's operating system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What distinguishes an intrusion prevention system from a passive IDS?",
+    "choices": [
+      "It cannot inspect network traffic",
+      "It is used only for password storage",
+      "It operates only when a system is offline",
+      "It can take configured action to block or disrupt detected traffic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a vulnerability?",
+    "choices": [
+      "A weakness that could be exploited",
+      "A confirmed criminal identity",
+      "A backup that has passed a restore test",
+      "A packet that has completed routing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a zero-day vulnerability?",
+    "choices": [
+      "A flaw that can be exploited only at midnight",
+      "A newly disclosed or exploited flaw with no established vendor fix available",
+      "A vulnerability in a system with zero users",
+      "A patch that was released zero days ago"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Why are offline or immutable backups valuable against ransomware?",
+    "choices": [
+      "They make every workstation immune to phishing",
+      "They eliminate the need to test restoration",
+      "They are harder for the same attack to encrypt or delete",
+      "They allow anyone to bypass authentication"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is encryption primarily used to provide?",
+    "choices": [
+      "Availability by adding more network bandwidth",
+      "Integrity by deleting old versions",
+      "Authentication by assigning an IP address",
+      "Confidentiality by transforming readable data into protected ciphertext"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What key arrangement does symmetric encryption use?",
+    "choices": [
+      "The same secret key, or a shared secret, for encryption and decryption",
+      "A public key only for both operations",
+      "A different public key for every byte",
+      "No key because the algorithm is one-way"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What key arrangement does public-key encryption use?",
+    "choices": [
+      "One password copied to every recipient",
+      "A mathematically related public key and private key",
+      "A hash value and a salt only",
+      "Two identical secret keys printed in plaintext"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is a cryptographic hash intended to produce?",
+    "choices": [
+      "A reversible copy of the original file",
+      "A routable network address",
+      "A fixed-length digest of input data",
+      "A human-readable encryption password"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Why is a unique salt added when storing a password hash?",
+    "choices": [
+      "It lets a server recover the original password",
+      "It replaces the need for a slow password KDF",
+      "It allows the password to be sent in plaintext",
+      "It makes identical passwords produce different stored hashes and frustrates precomputed tables"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What can a valid digital signature help a recipient verify?",
+    "choices": [
+      "The message's integrity and association with the signer's private key",
+      "That the message is confidential without encryption",
+      "That the sender has administrator access",
+      "That the network route was shortest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What security property does HTTPS add to ordinary HTTP?",
+    "choices": [
+      "A guarantee that the website contains no malware",
+      "TLS protection for the connection, including encryption and server authentication",
+      "A faster DNS resolver",
+      "A replacement for user authorization"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is DNS primarily used to do?",
+    "choices": [
+      "Encrypt files on a workstation",
+      "Assign usernames to employees",
+      "Translate domain names into records such as IP addresses",
+      "Inspect executable code for viruses"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is DHCP primarily used to provide on a network?",
+    "choices": [
+      "Digital signatures for email",
+      "A secure replacement for all web traffic",
+      "A database of password hashes",
+      "Automatic host configuration such as IP addresses and gateway information"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does an IP address identify at the network layer?",
+    "choices": [
+      "A logical network location for an interface or host",
+      "The manufacturer password of a device",
+      "The cryptographic hash of a file",
+      "The physical length of a cable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What reliability feature is associated with TCP?",
+    "choices": [
+      "No connection state and no retransmission",
+      "Ordered, acknowledged delivery with retransmission",
+      "Automatic end-to-end encryption",
+      "Name resolution for web domains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why might an application choose UDP instead of TCP?",
+    "choices": [
+      "It always guarantees delivery more strongly than TCP",
+      "It automatically authenticates every sender",
+      "It can avoid connection-oriented delivery overhead when the application handles loss or timing",
+      "It encrypts payloads without keys"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In networking, what does a port number identify?",
+    "choices": [
+      "The physical socket's voltage",
+      "A user's password age",
+      "A certificate's expiration date",
+      "A service or application endpoint on a host"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a VPN intended to create over an untrusted network?",
+    "choices": [
+      "An authenticated and encrypted tunnel between endpoints",
+      "A public copy of every internal database",
+      "A replacement for endpoint patching",
+      "A way to eliminate all routing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is network segmentation?",
+    "choices": [
+      "Replacing IP addresses with passwords",
+      "Dividing a network into zones with controlled communication between them",
+      "Putting every device on one unrestricted broadcast domain",
+      "Deleting logs at each router"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a SIEM platform mainly used for?",
+    "choices": [
+      "Compiling application source code",
+      "Issuing wireless channel licenses",
+      "Centralizing and correlating security events and logs",
+      "Storing only unencrypted passwords"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In incident response, what is containment intended to accomplish first?",
+    "choices": [
+      "Permanently prove the attacker's identity",
+      "Delete every affected disk immediately",
+      "Publish the incident before evidence is collected",
+      "Limit the incident's spread and ongoing damage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In disaster recovery, what does RTO measure?",
+    "choices": [
+      "The target time to restore a service after disruption",
+      "The maximum tolerable data loss measured in time",
+      "The number of users in a recovery team",
+      "The strength of an encryption key"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is social engineering?",
+    "choices": [
+      "Engineering a more efficient network cable",
+      "Manipulating people into revealing information or taking an unsafe action",
+      "Compressing social-media images",
+      "A mathematical proof of encryption strength"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a brute-force password attack?",
+    "choices": [
+      "Guessing a password from a public biography only",
+      "Changing a password after every login",
+      "Trying many candidate passwords until one succeeds",
+      "Hashing a password once with a random salt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What security objective is most directly threatened by a distributed denial-of-service attack?",
+    "choices": [
+      "Confidentiality",
+      "Non-repudiation",
+      "Data minimization",
+      "Availability"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is SQL injection at a high level?",
+    "choices": [
+      "Untrusted input changes the meaning of a database query",
+      "A database is encrypted with a symmetric key",
+      "A router drops packets with SQL text",
+      "A server stores passwords using a salt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is cross-site scripting (XSS) at a high level?",
+    "choices": [
+      "A browser refuses every valid certificate",
+      "Untrusted content causes a victim's browser to execute unintended script",
+      "A network switch duplicates an Ethernet frame",
+      "A database cannot accept a long password"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does a CSRF attack exploit in a browser session?",
+    "choices": [
+      "A server's inability to calculate a hash",
+      "A firewall's lack of a public IP address",
+      "A victim's authenticated browser is induced to send an unwanted request",
+      "A certificate authority's use of elliptic curves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A database row is altered without authorization but remains available to users. Which CIA property was directly violated?",
+    "choices": [
+      "Confidentiality",
+      "Availability",
+      "Authentication",
+      "Integrity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which control is primarily preventive rather than detective?",
+    "choices": [
+      "A firewall rule that blocks unauthorized inbound traffic",
+      "A report showing last month's login anomalies",
+      "A forensic image collected after an incident",
+      "An alert generated by a network sensor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What additional function is often represented by the third A in the AAA security model?",
+    "choices": [
+      "Availability of a service",
+      "Accounting or auditing of actions",
+      "Asymmetric encryption",
+      "Address allocation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What does single sign-on (SSO) allow a user to do?",
+    "choices": [
+      "Use one password without any identity verification",
+      "Bypass authorization in every application",
+      "Authenticate once and access multiple permitted applications",
+      "Encrypt all applications with one shared key"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the primary distinction between OAuth 2.0 and an authentication protocol?",
+    "choices": [
+      "OAuth is a disk-encryption algorithm",
+      "OAuth guarantees that every access token is permanent",
+      "OAuth replaces TLS for network confidentiality",
+      "OAuth is primarily an authorization delegation framework"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does OpenID Connect add to OAuth 2.0?",
+    "choices": [
+      "An identity layer for authenticating the end user",
+      "A faster symmetric block cipher",
+      "A replacement for DNSSEC",
+      "A physical security token standard only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In SAML-based sign-in, what does an identity provider commonly issue to a service provider?",
+    "choices": [
+      "A raw copy of the user's password",
+      "A signed assertion about the authenticated user",
+      "A DHCP lease for the service",
+      "A symmetric key printed in a URL"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a Kerberos ticket primarily provide to a client?",
+    "choices": [
+      "A permanent plaintext password for every service",
+      "A DNS record signed by a browser",
+      "A time-limited credential for requesting access to a service",
+      "A disk image used for backup restoration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why are passkeys generally resistant to ordinary phishing websites?",
+    "choices": [
+      "The user must type the same password twice",
+      "They transmit a reusable secret in every form",
+      "They work only when JavaScript is disabled",
+      "The credential is cryptographically bound to the legitimate site's origin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which MFA method is generally considered more phishing-resistant?",
+    "choices": [
+      "A FIDO2 security key",
+      "A code read from an email",
+      "A code sent by SMS",
+      "A static security question"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does role-based access control (RBAC) assign permissions through?",
+    "choices": [
+      "The current weather at the user's location",
+      "Roles associated with users or groups",
+      "A separate encryption key for every file",
+      "Only the physical address of a device"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What makes attribute-based access control (ABAC) more context-sensitive than simple RBAC?",
+    "choices": [
+      "It removes all authorization decisions from policy",
+      "It permits access only to anonymous users",
+      "It evaluates attributes such as user, resource, action, and environment",
+      "It uses one role for every employee"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is privileged access management (PAM) intended to govern?",
+    "choices": [
+      "Only public web-page styling",
+      "The physical temperature of a data center",
+      "Randomized names for ordinary files",
+      "High-impact administrator accounts and their use"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a key security difference between a stateless ACL and a stateful firewall?",
+    "choices": [
+      "A stateful firewall tracks connection context while a basic ACL evaluates each packet independently",
+      "A stateless ACL always encrypts traffic while a stateful firewall cannot",
+      "A stateful firewall assigns passwords while an ACL assigns usernames",
+      "A stateless ACL can inspect only files, not packets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the defensive purpose of endpoint detection and response (EDR)?",
+    "choices": [
+      "Replace all network firewalls with antivirus signatures",
+      "Collect endpoint telemetry and support detection and investigation of suspicious behavior",
+      "Issue public certificates to laptops",
+      "Guarantee that an endpoint cannot be compromised"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does network detection and response (NDR) primarily analyze?",
+    "choices": [
+      "Only the battery level of endpoint devices",
+      "The source code of every installed application",
+      "Network traffic and flow behavior for suspicious patterns",
+      "Physical access-card photographs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a honeypot in defensive security?",
+    "choices": [
+      "A production database with no logging",
+      "A password shared by an incident team",
+      "A router configured to trust every host",
+      "A monitored decoy intended to attract or reveal unauthorized activity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why is egress filtering useful in a network defense strategy?",
+    "choices": [
+      "It restricts unauthorized outbound traffic and can limit data exfiltration",
+      "It makes inbound phishing messages impossible",
+      "It replaces identity verification at every application",
+      "It prevents every internal user from browsing the web"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the central idea of a zero-trust security architecture?",
+    "choices": [
+      "Every internal device is trusted permanently",
+      "Access is continuously evaluated rather than implicitly trusted because of network location",
+      "Only internet traffic requires authentication",
+      "A single perimeter firewall is sufficient"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does microsegmentation add beyond broad network segmentation?",
+    "choices": [
+      "A requirement that all traffic use one shared password",
+      "A way to remove identity from access decisions",
+      "Fine-grained controls between individual workloads or small groups of workloads",
+      "A guarantee that lateral movement is impossible"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What security problem does DNSSEC primarily address?",
+    "choices": [
+      "It encrypts all DNS queries from observers",
+      "It replaces IP routing with public-key encryption",
+      "It prevents a domain owner from changing records",
+      "It authenticates DNS data so forged responses can be detected"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What security property does mutual TLS (mTLS) add compared with server-authenticated TLS alone?",
+    "choices": [
+      "Both sides present certificates and authenticate to each other",
+      "It removes the need for certificates on the server",
+      "It makes application authorization automatic",
+      "It uses only one shared password for all clients"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the purpose of a certificate chain in a public-key infrastructure?",
+    "choices": [
+      "It stores a user's plaintext password at every authority",
+      "It links an end-entity certificate to a trusted root through signed intermediates",
+      "It guarantees that a server's application is bug-free",
+      "It encrypts a file by concatenating certificates"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does perfect forward secrecy protect if a long-term server private key is later exposed?",
+    "choices": [
+      "Every future session regardless of new key compromise",
+      "Passwords that were stored without hashing",
+      "Previously captured sessions that used independent ephemeral session keys",
+      "Traffic that was never encrypted"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does an AEAD construction provide together in one authenticated encryption operation?",
+    "choices": [
+      "Password recovery and user authorization",
+      "DNS resolution and IP routing",
+      "Compression and deduplication without keys",
+      "Confidentiality and integrity for ciphertext, with authenticated associated data"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why is nonce reuse dangerous with many stream-like encryption modes?",
+    "choices": [
+      "Reusing the same nonce can reveal relationships between plaintexts or undermine authenticity",
+      "It makes ciphertext longer than plaintext by definition",
+      "It automatically rotates the secret key too often",
+      "It prevents a recipient from knowing the sender's IP address"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What type of flaw is a padding-oracle vulnerability associated with?",
+    "choices": [
+      "A hash that has no possible collisions",
+      "A system that reveals whether decrypted block padding is valid",
+      "A certificate with too many trusted roots",
+      "A firewall that blocks every packet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Why are password-specific key derivation functions such as Argon2 deliberately expensive?",
+    "choices": [
+      "They make passwords reversible for account recovery",
+      "They remove the need for unique salts",
+      "They increase the cost of testing large numbers of guesses",
+      "They guarantee that users will choose long passwords"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What distinguishes a cryptographic hash collision from an ordinary repeated hash result?",
+    "choices": [
+      "A collision requires that the same input be hashed twice",
+      "A collision occurs whenever a hash is salted",
+      "A collision means that encryption was successfully reversed",
+      "A collision means two distinct inputs produce the same digest"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does an HMAC combine to authenticate a message?",
+    "choices": [
+      "A cryptographic hash with a shared secret key",
+      "A public certificate with no secret",
+      "Two unrelated plaintext passwords",
+      "A DNS query with an IP address only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why does a digital signature not by itself provide message confidentiality?",
+    "choices": [
+      "Signatures can be generated only from plaintext that is already encrypted",
+      "A signature authenticates or protects integrity but does not hide the signed message",
+      "A signature always uses a public key to decrypt the message",
+      "Confidentiality is impossible with public-key cryptography"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the purpose of certificate revocation mechanisms such as CRLs or OCSP?",
+    "choices": [
+      "To make an expired certificate valid again",
+      "To generate a private key from a public key",
+      "To signal that a certificate should no longer be trusted before its expiry",
+      "To encrypt DNS queries with a password"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is certificate transparency intended to make easier to detect?",
+    "choices": [
+      "Weak passwords stored inside applications",
+      "Lost encryption keys on offline laptops",
+      "Unauthorized changes to private DNS zones only",
+      "Improperly issued public certificates through publicly auditable logs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why is elliptic-curve cryptography often used instead of RSA at comparable security levels?",
+    "choices": [
+      "It can provide comparable security with smaller keys",
+      "It uses no private key at all",
+      "It is a symmetric cipher with one universal secret",
+      "It makes certificate validation unnecessary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is Diffie–Hellman key exchange designed to establish?",
+    "choices": [
+      "A signed statement proving the sender's legal identity",
+      "A shared secret over a channel where the secret itself was not sent directly",
+      "A permanent password shared with every server",
+      "A hash collision between two messages"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does server-side request forgery (SSRF) cause a vulnerable server to do?",
+    "choices": [
+      "Run script only in a visitor's browser",
+      "Hash a password with too few rounds",
+      "Make requests to unintended destinations using the server's network position",
+      "Sign a certificate without a private key"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "How does command injection differ from SQL injection?",
+    "choices": [
+      "Command injection affects only certificates, while SQL injection affects only DNS",
+      "Command injection always requires a stolen password, while SQL injection never uses input",
+      "They are identical names for the same parser flaw",
+      "Command injection alters operating-system or interpreter commands, while SQL injection targets database queries"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does an XML external entity (XXE) vulnerability involve?",
+    "choices": [
+      "Unsafe XML processing that permits unintended external entity resolution",
+      "A browser executing JavaScript from a trusted page",
+      "A router accepting an invalid MAC address",
+      "A hash function producing a short digest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is path traversal?",
+    "choices": [
+      "Moving laterally between network segments with a firewall rule",
+      "Using crafted path input to access files outside the intended directory",
+      "Walking through a certificate chain to a root authority",
+      "Converting an absolute IP address to a domain name"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "During incident response, what is eradication intended to accomplish?",
+    "choices": [
+      "Temporarily isolate a host without changing it",
+      "Restore business services before evidence is considered",
+      "Remove the threat and its persistence from affected systems",
+      "Notify every external party before confirming scope"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the main distinction between incident-response recovery and containment?",
+    "choices": [
+      "Recovery always occurs before detection, while containment occurs after lessons learned",
+      "Recovery means deleting evidence, while containment means publishing it",
+      "They are two names for collecting volatile memory",
+      "Recovery returns systems to trusted operation after the threat is removed, while containment limits spread"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why is a synchronized incident timeline valuable to investigators?",
+    "choices": [
+      "It helps correlate events across hosts and distinguish cause from consequence",
+      "It proves that every logged event was malicious",
+      "It makes timestamps independent of clock configuration",
+      "It replaces the need to preserve original evidence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does CVSS primarily communicate about a vulnerability?",
+    "choices": [
+      "A guarantee that exploitation is occurring in one organization",
+      "A standardized estimate of severity based on exploitability and impact factors",
+      "The exact number of vulnerable computers worldwide",
+      "A cryptographic proof that a patch is safe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why should a high CVSS score not be treated as a complete remediation priority by itself?",
+    "choices": [
+      "CVSS measures only password length",
+      "A high score means the flaw cannot be patched",
+      "Context such as asset exposure, active exploitation, and business impact also affects priority",
+      "CVSS applies only to physical locks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a supply-chain security risk in signed software updates?",
+    "choices": [
+      "A user may forget to reboot after a patch",
+      "A firewall may block an unsigned web image",
+      "A public key may be shorter than a symmetric key",
+      "A trusted build or signing process could be compromised before distribution"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which evidence most strongly indicates credential stuffing rather than a conventional brute-force attack against one account?",
+    "choices": [
+      "Many known username-password pairs are tried across many accounts with low attempts per account",
+      "One account receives millions of random guesses",
+      "A user enrolls a new hardware security key",
+      "A server rotates its TLS certificate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What distinguishes a replay attack from guessing a secret?",
+    "choices": [
+      "An attacker invents a random password without observing traffic",
+      "An attacker reuses a previously captured valid message or credential",
+      "A defender rotates a key after an incident",
+      "A browser validates a server certificate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What defensive purpose does a nonce or sequence number serve in an authenticated protocol?",
+    "choices": [
+      "It replaces the need for a secret key",
+      "It makes a hash reversible",
+      "It helps detect reuse or reordering of messages",
+      "It authorizes every user in a directory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the main security difference between a salted password hash and encrypted password storage?",
+    "choices": [
+      "Encryption cannot use keys, while hashes always use public keys",
+      "A salt lets any user decrypt a password",
+      "They have exactly the same recovery properties",
+      "A properly designed password hash is intended to be one-way, while encryption is intended to be reversible with a key"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does authenticated associated data in an AEAD protocol allow?",
+    "choices": [
+      "Metadata can remain unencrypted while still being integrity-protected",
+      "Metadata is automatically hidden without any encryption key",
+      "The recipient can change the ciphertext without detection",
+      "Associated data replaces the nonce"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why is certificate hostname validation essential even when a certificate chains to a trusted root?",
+    "choices": [
+      "A trusted root guarantees that every hostname is covered",
+      "Trust also requires that the certificate identify the intended hostname",
+      "Hostname validation is needed only for symmetric ciphers",
+      "It proves that the site's application has no vulnerabilities"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why can an alert from a signature-based IDS miss a novel attack?",
+    "choices": [
+      "Signatures can detect only physical theft",
+      "Novel attacks always use encrypted DNS",
+      "The attack may not match a known signature",
+      "An IDS cannot generate alerts from network traffic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does behavioral detection attempt to identify?",
+    "choices": [
+      "Only files whose names appear on a malware list",
+      "Only packets with invalid checksums",
+      "A user's legal authorization to work remotely",
+      "Activity that deviates from an established baseline or resembles suspicious behavior"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which design best limits lateral movement after one workload is compromised?",
+    "choices": [
+      "Microsegmentation combined with least-privilege service identities",
+      "A single flat network with shared administrator credentials",
+      "Disabling all internal monitoring",
+      "Using one global encryption key for every host"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why should an organization preserve a forensic image before making extensive cleanup changes?",
+    "choices": [
+      "Cleanup always improves evidentiary accuracy",
+      "Preservation supports later analysis of the original state and evidence",
+      "Forensic images automatically identify the attacker",
+      "It prevents the need for containment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the key trust assumption behind a public-key certificate authority?",
+    "choices": [
+      "The authority can recover every private key from a certificate",
+      "The authority encrypts all application traffic itself",
+      "Clients trust the authority to bind a public key to an identity after validation",
+      "The authority guarantees the certificate holder's software is secure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is the most accurate relationship between authentication and authorization in a secure API?",
+    "choices": [
+      "Authorization identifies the caller; authentication checks the database schema",
+      "They are interchangeable names for encryption",
+      "Authentication is needed only after an action is completed",
+      "Authentication identifies the caller; authorization checks whether that caller may perform the requested action"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "How many legs does a typical adult insect have?",
+    "choices": [
+      "Six",
+      "Four",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which three major body regions does an adult insect typically have?",
+    "choices": [
+      "Head, neck, and trunk",
+      "Head, thorax, and abdomen",
+      "Cephalothorax, abdomen, and tail",
+      "Crown, thorax, and foot"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the primary sensory role of an insect's antennae?",
+    "choices": [
+      "Pumping blood through the body",
+      "Grinding food in the gut",
+      "Detecting chemical cues and touch",
+      "Supporting the wings in flight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What kind of eyes do many adult insects use to form a broad view from many facets?",
+    "choices": [
+      "Camera eyes",
+      "Pinhole eyes",
+      "Mirror eyes",
+      "Compound eyes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What material makes up much of an insect's external skeleton?",
+    "choices": [
+      "Chitin",
+      "Keratin",
+      "Cellulose",
+      "Calcium carbonate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which insect body region bears the legs and wings?",
+    "choices": [
+      "Head",
+      "Thorax",
+      "Abdomen",
+      "Cercus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which body region usually contains much of an insect's digestive and reproductive organs?",
+    "choices": [
+      "Head",
+      "Thorax",
+      "Abdomen",
+      "Pronotum"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What are spiracles in insects?",
+    "choices": [
+      "Joints between leg segments",
+      "Cells that produce venom",
+      "Sensory hairs on the antennae",
+      "Openings of the tracheal respiratory system"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is an insect larva?",
+    "choices": [
+      "An immature stage that differs from the adult in many insects",
+      "A permanently wingless adult",
+      "A fertilized egg before it hatches",
+      "A type of insect scale"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a pupa?",
+    "choices": [
+      "An insect's first egg cell",
+      "A developmental stage between larva and adult in complete metamorphosis",
+      "A dormant adult with no metabolism",
+      "A specialized feeding mouthpart"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which sequence describes complete metamorphosis?",
+    "choices": [
+      "Egg, nymph, adult, pupa",
+      "Larva, egg, adult, pupa",
+      "Egg, larva, pupa, adult",
+      "Egg, pupa, nymph, adult"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How does a grasshopper nymph differ from an adult grasshopper?",
+    "choices": [
+      "It is a legless larva that never resembles the adult",
+      "It has a pupal case around its body",
+      "It is always a different species",
+      "It is smaller and wingless or has developing wings"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which sequence describes incomplete metamorphosis?",
+    "choices": [
+      "Egg, nymph, adult",
+      "Egg, larva, pupa, adult",
+      "Egg, pupa, larva, adult",
+      "Nymph, egg, pupa, adult"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Butterflies and moths belong to which insect order?",
+    "choices": [
+      "Coleoptera",
+      "Lepidoptera",
+      "Diptera",
+      "Hemiptera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Beetles belong to which insect order?",
+    "choices": [
+      "Lepidoptera",
+      "Hymenoptera",
+      "Coleoptera",
+      "Odonata"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "True flies, including houseflies, belong to which order?",
+    "choices": [
+      "Orthoptera",
+      "Coleoptera",
+      "Mantodea",
+      "Diptera"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Bees, ants, and wasps belong to which order?",
+    "choices": [
+      "Hymenoptera",
+      "Hemiptera",
+      "Odonata",
+      "Neuroptera"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Dragonflies and damselflies belong to which order?",
+    "choices": [
+      "Lepidoptera",
+      "Odonata",
+      "Blattodea",
+      "Siphonaptera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Grasshoppers and crickets belong to which order?",
+    "choices": [
+      "Coleoptera",
+      "Diptera",
+      "Orthoptera",
+      "Phasmatodea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is pollination?",
+    "choices": [
+      "The digestion of nectar by a bee",
+      "The germination of an insect egg",
+      "The dispersal of seeds by beetles",
+      "The transfer of pollen to a flower's receptive surface"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which insect is one of the best-known animal pollinators?",
+    "choices": [
+      "Honeybee",
+      "Silverfish",
+      "Flea",
+      "Earwig"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What do many flower-visiting insects collect as an energy-rich food?",
+    "choices": [
+      "Pollen tubes",
+      "Nectar",
+      "Tree bark",
+      "Silk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is biological mimicry?",
+    "choices": [
+      "A seasonal change in an insect's body temperature",
+      "The process of shedding an exoskeleton",
+      "A resemblance that gives one organism an advantage in interacting with others",
+      "The movement of insects toward a light source"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is aposematic coloration?",
+    "choices": [
+      "Coloration that always makes an insect invisible",
+      "A pattern used only to attract mates from another species",
+      "A pigment that forms during pupation",
+      "Warning coloration that advertises danger or unpalatability"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is camouflage?",
+    "choices": [
+      "Coloration or shape that makes an organism harder to detect",
+      "A chemical signal used by ants",
+      "A type of complete metamorphosis",
+      "A structure that pumps hemolymph"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What are pheromones?",
+    "choices": [
+      "Digestive enzymes in an insect's midgut",
+      "Chemical signals released to affect other members of the same species",
+      "Pigments found only in butterfly wings",
+      "Minerals used to harden an exoskeleton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is stridulation?",
+    "choices": [
+      "Flying in a precise spiral around a flower",
+      "Shedding the cuticle during growth",
+      "Producing sound by rubbing one body part against another",
+      "Transferring pollen between plants"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Fireflies produce their characteristic light through what process?",
+    "choices": [
+      "Ultraviolet reflection",
+      "Incandescent wing scales",
+      "Thermal radiation from flight muscles",
+      "Bioluminescence"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a honeybee colony's nest commonly called?",
+    "choices": [
+      "A hive",
+      "A mound",
+      "A bivouac",
+      "A gallery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the primary reproductive female in a honeybee colony?",
+    "choices": [
+      "The worker",
+      "The queen",
+      "The drone",
+      "The nurse larva"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the usual sex of a honeybee drone?",
+    "choices": [
+      "Female",
+      "Haploid female",
+      "Male",
+      "Sterile worker"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Honeybee workers are usually what kind of colony members?",
+    "choices": [
+      "Reproductive males",
+      "Larval queens",
+      "Wingless males that guard the entrance",
+      "Sterile or non-reproductive females"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Why are honeybee honeycomb cells commonly hexagonal?",
+    "choices": [
+      "Hexagons pack efficiently while enclosing storage space",
+      "Hexagons are the only shape bees can see",
+      "Hexagons prevent all mites from entering",
+      "Hexagons are formed by the queen's wings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What information does a honeybee waggle dance communicate?",
+    "choices": [
+      "The genetic sex of a new queen",
+      "The direction and approximate distance of a food source",
+      "The temperature of the hive floor",
+      "The age of every worker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which combination is characteristic of eusociality?",
+    "choices": [
+      "Solitary nesting, no parental care, and one annual generation",
+      "Complete absence of communication and mating",
+      "Cooperative brood care, reproductive division of labor, and overlapping generations",
+      "Only nocturnal activity and seasonal migration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Ant colonies are generally organized around what social unit?",
+    "choices": [
+      "A solitary adult that changes species after mating",
+      "A temporary swarm with no brood",
+      "A pair of unrelated predators",
+      "A cooperative colony with reproductive and worker members"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Termites digest much of their cellulose-rich food with help from what?",
+    "choices": [
+      "Microorganisms in their hindgut",
+      "Venom glands in their heads",
+      "Pollen stored in their wings",
+      "Minerals secreted by the queen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is a parasitoid?",
+    "choices": [
+      "A harmless insect that lives only on flowers",
+      "An organism whose immature stage develops in or on a host and ultimately kills it",
+      "A predator that eats many prey as an adult",
+      "A fungus that pollinates orchids"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What are caterpillars?",
+    "choices": [
+      "The pupae of beetles",
+      "Adult dragonflies",
+      "The larvae of butterflies and moths",
+      "The eggs of grasshoppers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Lady beetles are often valued in gardens because many species eat what?",
+    "choices": [
+      "Tree roots",
+      "Nectar only",
+      "Termite queens",
+      "Aphids"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Why do female mosquitoes of many species take a blood meal?",
+    "choices": [
+      "They use nutrients from blood to help develop eggs",
+      "They need blood to produce their wings",
+      "Blood is their only source of flight energy",
+      "They feed blood directly to mosquito larvae"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is an insect's tracheal system?",
+    "choices": [
+      "A set of vessels carrying blood with hemoglobin",
+      "A network of air tubes that delivers oxygen directly to tissues",
+      "A gland system that produces silk",
+      "A row of external digestive sacs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What are elytra in beetles?",
+    "choices": [
+      "Flexible sensory antennae",
+      "Poison glands in the abdomen",
+      "Hardened forewings that protect the hindwings and abdomen",
+      "The paired jaws of beetle larvae"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How does an insect mutualism generally differ from simple predation?",
+    "choices": [
+      "Only the larger partner benefits in a mutualism",
+      "Predation always benefits both species",
+      "Mutualism requires one partner to die",
+      "Both interacting partners gain a net benefit in a mutualism"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What broader group includes insects and is named for having six legs?",
+    "choices": [
+      "Hexapoda",
+      "Chelicerata",
+      "Myriapoda",
+      "Crustacea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the entomological term for the three-part division of an insect body?",
+    "choices": [
+      "Radial symmetry",
+      "Tagmosis into head, thorax, and abdomen",
+      "Bilateral fusion",
+      "Serial budding"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which insect developmental group includes butterflies, beetles, and flies with larva and pupa stages?",
+    "choices": [
+      "Hemimetabola",
+      "Ametabola",
+      "Holometabola",
+      "Paurometabola only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which developmental pattern has juveniles called nymphs that resemble small adults?",
+    "choices": [
+      "Holometabolous development",
+      "Hypermetabolous development",
+      "Ametabolous development with a pupa",
+      "Hemimetabolous development"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is an instar?",
+    "choices": [
+      "A particular immature stage between two molts",
+      "The hardened forewing of a beetle",
+      "A pheromone-producing gland",
+      "The adult stage after mating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is ecdysis?",
+    "choices": [
+      "Laying eggs in a host",
+      "Shedding the old cuticle during growth",
+      "Producing sound with the wings",
+      "Storing pollen in a nest"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which hormone promotes the molting process in insects?",
+    "choices": [
+      "Insulin",
+      "Melatonin",
+      "Ecdysone",
+      "Thyroxine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the main developmental effect of juvenile hormone in insects?",
+    "choices": [
+      "It directly digests cellulose in termite guts",
+      "It hardens the wings by adding calcium",
+      "It carries oxygen through the tracheae",
+      "Its level helps determine whether a molt retains juvenile traits or leads toward adulthood"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is diapause in insect biology?",
+    "choices": [
+      "A hormonally regulated period of suspended or greatly slowed development",
+      "A rapid wingbeat used during courtship",
+      "A permanent caste with no reproductive anatomy",
+      "A type of parasitic wasp"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What are ocelli?",
+    "choices": [
+      "Tiny claws at the end of an insect leg",
+      "Simple light-sensing eyes distinct from compound eyes",
+      "Air sacs inside a beetle's elytra",
+      "Pollen baskets on bee hind legs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a tympanal organ allow many insects to detect?",
+    "choices": [
+      "Sugar concentration in nectar",
+      "Changes in exoskeleton color",
+      "Sound or vibrations",
+      "The oxygen content of soil"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Johnston's organ is a specialized sensory structure located where?",
+    "choices": [
+      "In the abdomen, where it digests cellulose",
+      "In the wing membrane, where it stores pollen",
+      "In the tarsus, where it produces venom",
+      "In the antenna, where it detects movement or vibration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is hemolymph in an insect?",
+    "choices": [
+      "The circulatory fluid that bathes organs in the open body cavity",
+      "A respiratory gas stored in tracheae",
+      "A hormone released by the brain",
+      "The wax coating on a honeycomb"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What are Malpighian tubules primarily involved in?",
+    "choices": [
+      "Pollen collection and storage",
+      "Nitrogenous waste excretion and water-ion regulation",
+      "Sound production in the thorax",
+      "Production of the wing cuticle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the key distinction between Batesian and Müllerian mimicry?",
+    "choices": [
+      "Batesian is only camouflage, while Müllerian is only courtship",
+      "Batesian requires two predators, while Müllerian requires one plant",
+      "Batesian involves a harmless mimic of a defended model, while Müllerian involves multiple defended species resembling one another",
+      "Batesian occurs only in beetles, while Müllerian occurs only in flies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is aggressive mimicry?",
+    "choices": [
+      "A harmless species copies a warning-colored model",
+      "Two defended species converge on the same warning pattern",
+      "A juvenile resembles an adult of its own species",
+      "A predator or parasite resembles something harmless or attractive to approach prey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is floral deception in pollination?",
+    "choices": [
+      "A flower attracts pollinators without providing the expected reward",
+      "A bee hides nectar from every visitor",
+      "A plant changes species after pollination",
+      "An insect pollinates only through wind"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is buzz pollination?",
+    "choices": [
+      "A bee's dance that points to a flower patch",
+      "Vibration by a pollinator that releases pollen from poricidal anthers",
+      "Pollination by a loud flying beetle at night",
+      "The chemical attraction of ants to a seed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does oligolecty mean in bee ecology?",
+    "choices": [
+      "A colony with many queen castes",
+      "A larva that feeds on several animal hosts",
+      "A bee's specialization on a narrow group of pollen plants",
+      "Pollination performed only at night"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is cleptoparasitism among bees?",
+    "choices": [
+      "A bee steals nectar from a flower without touching pollen",
+      "A bee hunts its own species for food",
+      "A bee lives inside a termite mound as a predator",
+      "A bee lays eggs in another bee's nest and uses the host's provisions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does haplodiploidy mean in the sex-determination system of many ants, bees, and wasps?",
+    "choices": [
+      "Males develop from unfertilized eggs and females from fertilized eggs",
+      "Males have two chromosome sets and females have one",
+      "Both sexes develop only from unfertilized eggs",
+      "Sex is determined solely by larval temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "How does kin selection help explain altruistic workers in eusocial insects?",
+    "choices": [
+      "Workers gain genes only by avoiding all relatives",
+      "Helping relatives can spread shared genes even when a worker does not reproduce",
+      "Altruism occurs only when colonies have no queen",
+      "Kin selection requires unrelated colonies to cooperate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is trophallaxis?",
+    "choices": [
+      "The synchronized emergence of adult insects from soil",
+      "The production of a queen from a fertilized egg",
+      "The transfer of liquid food or other substances between social insects",
+      "The use of wing vibrations to pollinate a flower"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is caste polyphenism?",
+    "choices": [
+      "The ability of one insect to change species during its life",
+      "A color pattern shared by unrelated mimic species",
+      "The production of several kinds of eggs by one female",
+      "The development of distinct adult forms from similar larvae in response to social or environmental cues"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What are alates in termite biology?",
+    "choices": [
+      "Winged reproductive termites that leave to establish new colonies",
+      "Wingless worker termites that cultivate fungus",
+      "Immature termites inside royal chambers",
+      "Predatory beetles living in termite galleries"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Leafcutter ants cultivate what as their primary colony food?",
+    "choices": [
+      "Aphids raised for honeydew only",
+      "Fungus grown on harvested plant material",
+      "Pollen stored in wax cells",
+      "Termite larvae captured during raids"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a characteristic feature of army-ant colony movement?",
+    "choices": [
+      "They remain permanently inside a single wooden nest",
+      "They are solitary except when mating",
+      "Many species alternate between nomadic raids and temporary bivouacs",
+      "They depend on a queenless fungal garden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "How do weaver ants use their larvae when constructing nests?",
+    "choices": [
+      "They feed larvae to termites to produce cellulose",
+      "They use larvae as living pollen baskets",
+      "They harden larval skins into wing cases",
+      "They use larval silk to bind leaves together"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In a honeybee waggle dance, what does the angle relative to vertical primarily encode?",
+    "choices": [
+      "The direction of the food source relative to the sun",
+      "The sweetness of the food source",
+      "The age of the dancing worker",
+      "The depth of the hive entrance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Why can a honeybee queen's pheromonal signals influence worker behavior?",
+    "choices": [
+      "They directly fertilize worker eggs",
+      "They help regulate reproductive suppression and colony organization",
+      "They make workers change into termites",
+      "They replace all visual communication in the hive"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is an endoparasitoid?",
+    "choices": [
+      "A parasitoid that never contacts a host",
+      "A parasite that lives only on plant roots",
+      "A parasitoid whose immature stage develops inside the host",
+      "A predator that eats hosts only after adulthood"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is an ectoparasitoid?",
+    "choices": [
+      "A wasp that pollinates flowers from outside a field",
+      "A parasite confined to an insect's tracheae",
+      "A social insect that nests outside its colony",
+      "A parasitoid larva that develops on the outside of its host"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What distinguishes an idiobiont parasitoid from a koinobiont parasitoid?",
+    "choices": [
+      "An idiobiont typically prevents further host development, while a koinobiont allows the host to continue developing for a time",
+      "An idiobiont lives only in plants, while a koinobiont lives only in soil",
+      "An idiobiont is always adult-sized, while a koinobiont has no larva",
+      "An idiobiont feeds on pollen, while a koinobiont feeds on nectar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is host specificity in an insect parasitoid?",
+    "choices": [
+      "The number of eggs laid in a single flower",
+      "The range of host species that the parasitoid can successfully use",
+      "The location of a parasitoid's antennae",
+      "The color pattern shared by a host and its parasite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why are parasitoid wasps used in some biological-control programs?",
+    "choices": [
+      "They pollinate every crop more efficiently than bees",
+      "They turn crop leaves into nitrogen fertilizer",
+      "They can suppress pest populations by developing in or on pest hosts",
+      "They eliminate all insects without affecting ecosystems"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is an inquiline in social-insect ecology?",
+    "choices": [
+      "A worker that leaves its nest to found a new colony alone",
+      "A beetle that only pollinates orchids",
+      "A larva that spins a cocoon outside any host",
+      "A social parasite that lives within another species' nest and exploits its society"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is phoresy?",
+    "choices": [
+      "A non-feeding association in which one organism uses another for transport",
+      "A form of complete metamorphosis with two pupal stages",
+      "A mating system in which all adults are sterile",
+      "A defensive secretion that mimics plant sap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which term describes a social parasite that enters a host colony and replaces or exploits its resident reproductive?",
+    "choices": [
+      "Pollinator",
+      "Inquiline",
+      "Saproxylic",
+      "Detritivore"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a saproxylic insect associated with?",
+    "choices": [
+      "Open ocean plankton",
+      "Living only inside flower nectar",
+      "Dead or dying wood and the organisms dependent on it",
+      "Freshwater ice crystals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does the term myrmecophily refer to?",
+    "choices": [
+      "A disease of butterfly wings",
+      "The study of beetle chromosomes",
+      "A type of dragonfly flight",
+      "An association between ants and other organisms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "How can aphids and ants be mutualists?",
+    "choices": [
+      "Ants receive honeydew while tending or defending aphids",
+      "Aphids pollinate ant flowers and ants provide pollen",
+      "Ants lay eggs inside aphids and both always die",
+      "Aphids digest ants' cellulose and return oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the ecological meaning of phenology?",
+    "choices": [
+      "The classification of insects by mouthpart shape",
+      "The timing of recurring biological events such as emergence or flowering",
+      "The measurement of an insect's wing area",
+      "The study of colony architecture only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Why can insect emergence timing matter for pollination?",
+    "choices": [
+      "Emergence timing determines an insect's chromosome number",
+      "Flowers can be pollinated only by insects that emerge at noon",
+      "Pollinator activity must overlap with the flowering period of potential host plants",
+      "The timing prevents insects from undergoing metamorphosis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the main evolutionary distinction between a predator and a parasitoid?",
+    "choices": [
+      "A predator must live inside one host until adulthood",
+      "A parasitoid never kills the organism it uses",
+      "Predators feed only on plants while parasitoids feed only on animals",
+      "A parasitoid's immature development is tied to a host that is ultimately killed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is automimicry?",
+    "choices": [
+      "Resemblance between different parts or forms within the same species that can deceive an attacker",
+      "A harmless species copying a dangerous species",
+      "Two defended species converging on one warning pattern",
+      "A host copying its parasitoid's life cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does Müllerian convergence predict about multiple defended insect species?",
+    "choices": [
+      "Only one species benefits while the others remain undefended",
+      "Sharing a warning pattern can distribute the cost of predator learning among them",
+      "The species must be genetically identical",
+      "The species must all be harmless to predators"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the usual function of a bee's corbicula, or pollen basket?",
+    "choices": [
+      "Producing venom in the abdomen",
+      "Detecting ultraviolet light in the eye",
+      "Carrying collected pollen on the hind leg",
+      "Storing water inside the thorax"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a parasitoid's host-feeding behavior usually mean?",
+    "choices": [
+      "A larva feeds only on the plant that shelters its host",
+      "A host eats the adult parasitoid before laying eggs",
+      "A parasitoid shares pollen with its host",
+      "An adult parasitoid consumes host fluids or tissue for its own nutrition"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What are mandibles used for in many chewing insects?",
+    "choices": [
+      "Biting, cutting, or grinding food",
+      "Pumping air through spiracles",
+      "Producing eggs in the abdomen",
+      "Detecting ultraviolet light"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Praying mantises belong to which insect order?",
+    "choices": [
+      "Mecoptera",
+      "Mantodea",
+      "Ephemeroptera",
+      "Trichoptera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is an exuvia?",
+    "choices": [
+      "The first egg laid by a queen",
+      "A sensory organ in an antenna",
+      "The shed cuticle left behind after an insect molts",
+      "A fungal garden cultivated by ants"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What are the colorful scales on a butterfly wing?",
+    "choices": [
+      "Pigmented feathers growing from wing bones",
+      "Rows of respiratory spiracles",
+      "Hardened fragments of the pupal case",
+      "Modified flattened setae attached to the wing membrane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is worker policing in a honeybee colony?",
+    "choices": [
+      "Workers removing or suppressing eggs laid by other workers",
+      "Workers guarding the nest from every other bee species",
+      "The queen preventing workers from collecting pollen",
+      "Drones forcing workers to change caste"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does claustral colony founding mean in many ants?",
+    "choices": [
+      "A colony moves permanently between several open nests",
+      "A queen starts a colony in a sealed chamber using stored body reserves until workers emerge",
+      "Workers found colonies without any reproductive female",
+      "A queen captures an existing termite mound and lays no eggs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "How does termite sex determination differ from that of many ants, bees, and wasps?",
+    "choices": [
+      "Termite queens are haploid while workers are diploid",
+      "Termites have no sexual reproduction",
+      "Both termite males and females are typically diploid, rather than males developing from unfertilized eggs",
+      "Termite males develop from pollen and females from wood"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In some ponerine ants, what is a gamergate?",
+    "choices": [
+      "A winged male that disperses from a termite colony",
+      "A larva that produces silk for nest construction",
+      "A parasitic wasp living in an ant's abdomen",
+      "A mated worker that functions as a reproductive female"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  }
+]

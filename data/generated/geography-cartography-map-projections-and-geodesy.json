@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What does a map title tell the reader?",
+    "choices": [
+      "The subject or area represented by the map",
+      "The map's magnetic declination only",
+      "The height of the highest point",
+      "The date of every survey observation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the purpose of a map legend?",
+    "choices": [
+      "Show the map's physical thickness",
+      "Explain symbols and colors used on the map",
+      "Calculate the Earth's circumference",
+      "Identify the mapmaker's birthplace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a north arrow indicate?",
+    "choices": [
+      "The steepest route across the terrain",
+      "The map's publication date",
+      "The direction of north on the map",
+      "The location of the equator only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a graphic scale on a map show?",
+    "choices": [
+      "How high a mountain is above sea level",
+      "How many symbols appear in the legend",
+      "How much the map has been rotated",
+      "How map distances correspond to real-world distances"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a representative fraction such as 1:50,000 express?",
+    "choices": [
+      "One map unit represents 50,000 of the same units on the ground",
+      "The map covers 50,000 square kilometers",
+      "Fifty thousand points were surveyed",
+      "The map has fifty thousand contour lines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does latitude measure?",
+    "choices": [
+      "Distance east or west of the Prime Meridian",
+      "Angular distance north or south of the Equator",
+      "Height above a local benchmark",
+      "Distance from the nearest coastline"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does longitude measure?",
+    "choices": [
+      "Angular distance north or south of the Equator",
+      "Height above the geoid",
+      "Angular distance east or west of a reference meridian",
+      "The width of a map sheet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In a geographic coordinate, what does the letter N usually indicate?",
+    "choices": [
+      "Navigation bearing",
+      "A national datum",
+      "A northing grid value only",
+      "North latitude"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the Prime Meridian's longitude?",
+    "choices": [
+      "0 degrees",
+      "90 degrees east",
+      "180 degrees",
+      "23.5 degrees north"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In the usual written order, what pair identifies a point on Earth?",
+    "choices": [
+      "Longitude followed by elevation only",
+      "Latitude followed by longitude",
+      "Elevation followed by latitude",
+      "Scale followed by bearing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What do contour lines connect on a topographic map?",
+    "choices": [
+      "Points of equal longitude",
+      "Places with the same population",
+      "Points of equal elevation",
+      "Road intersections of equal width"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does a set of closely spaced contour lines usually indicate?",
+    "choices": [
+      "A broad flat plain",
+      "A deep ocean trench on every map",
+      "An area with no measured elevation",
+      "Steep terrain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a contour interval?",
+    "choices": [
+      "The constant elevation difference between adjacent contour lines",
+      "The horizontal distance between two map sheets",
+      "The time between surveying visits",
+      "The change in longitude between lines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does an elevation value on a topographic map refer to?",
+    "choices": [
+      "Distance from the nearest road",
+      "Height relative to a stated vertical reference surface",
+      "The map's scale denominator",
+      "The direction of magnetic north"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a political map primarily designed to show?",
+    "choices": [
+      "Rock types beneath the surface",
+      "Ocean currents only",
+      "Boundaries and administrative units",
+      "The distribution of rainfall at one hour"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a thematic map?",
+    "choices": [
+      "A map with no coordinate system",
+      "A map showing only national borders",
+      "A map drawn without a scale",
+      "A map emphasizing a particular subject or variable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the basic purpose of a map projection?",
+    "choices": [
+      "Represent the curved Earth on a flat surface",
+      "Measure local gravity without instruments",
+      "Eliminate every kind of map distortion",
+      "Determine the age of a landscape"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Why do flat maps of the whole Earth necessarily have some distortion?",
+    "choices": [
+      "Maps contain too many place names",
+      "A curved surface cannot be flattened without changing some distances, areas, shapes, or directions",
+      "The Earth has no coordinate system",
+      "Flat paper cannot show the ocean"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the full name of the satellite-navigation system commonly abbreviated GPS?",
+    "choices": [
+      "Geographic Projection Standard",
+      "Ground Position Survey",
+      "Global Positioning System",
+      "Global Projection Service"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How does a GPS receiver primarily determine its position?",
+    "choices": [
+      "By following the nearest road",
+      "By measuring Earth's magnetic field alone",
+      "By reading a paper map through its antenna",
+      "By timing signals from multiple satellites"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is trilateration in satellite positioning?",
+    "choices": [
+      "Finding a position from measured distances to known points",
+      "Finding direction from three magnetic compasses",
+      "Drawing three latitude lines through a city",
+      "Comparing three map colors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a geodetic datum?",
+    "choices": [
+      "A list of symbols in a map legend",
+      "A reference system defining how coordinates relate to the Earth",
+      "A measurement of annual rainfall",
+      "A type of contour interval"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "WGS84 is best known as what?",
+    "choices": [
+      "A map projection that preserves all areas",
+      "A historical atlas of medieval Europe",
+      "A global geodetic reference system used by GPS",
+      "A standard for contour coloring"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does the Mercator projection preserve locally?",
+    "choices": [
+      "All global distances",
+      "All global areas",
+      "The true size of polar regions",
+      "Angles and local shapes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Why is Mercator useful for many marine navigation charts?",
+    "choices": [
+      "A constant compass bearing plots as a straight line",
+      "It shows every ocean at its true area",
+      "It eliminates scale change toward the poles",
+      "It places every coastline at its true length"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does an equal-area projection preserve?",
+    "choices": [
+      "All local angles",
+      "Relative areas",
+      "Every distance from one central point",
+      "The straightness of every route"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the broad purpose of the Robinson projection?",
+    "choices": [
+      "Preserve exact angles for navigation",
+      "Preserve exact area and shape everywhere",
+      "Offer a visual compromise among several kinds of world-map distortion",
+      "Map only the North Pole without interruption"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is an azimuthal projection?",
+    "choices": [
+      "A projection made only from a cone around the equator",
+      "A projection that uses no central point",
+      "A projection limited to elevation contours",
+      "A projection made from a plane touching or centered on the globe"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What geographic region is often well suited to a conic projection?",
+    "choices": [
+      "Mid-latitude regions extending mainly east to west",
+      "The entire equatorial ocean only",
+      "A tiny circular crater",
+      "Every polar route without distortion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What surface is conceptually wrapped around the Earth in a cylindrical projection?",
+    "choices": [
+      "A cone",
+      "A cylinder",
+      "A plane tangent at one point",
+      "A torus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does UTM divide the Earth into?",
+    "choices": [
+      "One-degree latitude strips only",
+      "Fourteen equal-area continents",
+      "Six-degree-wide longitudinal zones",
+      "A grid of ocean currents"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is grid north?",
+    "choices": [
+      "The direction toward the geographic North Pole on every map",
+      "The direction of a magnetic compass needle",
+      "The highest contour direction",
+      "The north direction indicated by the map projection's coordinate grid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is true north?",
+    "choices": [
+      "The direction toward the geographic North Pole",
+      "The direction of a projected vertical grid line",
+      "The direction a compass always points",
+      "The direction of increasing eastings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is magnetic north?",
+    "choices": [
+      "The direction toward the geographic North Pole",
+      "The direction toward the Earth's magnetic pole indicated by a compass",
+      "The top edge of every map sheet",
+      "The northing axis in UTM"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is magnetic declination?",
+    "choices": [
+      "The angle between latitude and longitude",
+      "The vertical angle of a contour line",
+      "The angle between magnetic north and true north at a location",
+      "The difference between two map scales"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is georeferencing a scanned map?",
+    "choices": [
+      "Converting every symbol into a photograph",
+      "Removing all projection distortion",
+      "Measuring the paper's humidity",
+      "Assigning it a coordinate relationship to real-world locations"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a geoid in physical geodesy?",
+    "choices": [
+      "An equipotential surface approximating global mean sea level",
+      "A perfect mathematical sphere",
+      "A flat map of the oceans",
+      "A satellite orbit around Earth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is an ellipsoid of reference?",
+    "choices": [
+      "A map legend for rock types",
+      "A smooth mathematical surface used to approximate Earth's shape",
+      "A local contour line at sea level",
+      "A satellite signal correction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a survey benchmark?",
+    "choices": [
+      "A temporary road sign showing magnetic north",
+      "A standard map color for high ground",
+      "A physically marked point with a known elevation or coordinate",
+      "A satellite used to measure longitude"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is triangulation in traditional surveying?",
+    "choices": [
+      "Measuring only vertical distances with a barometer",
+      "Projecting a globe onto three flat maps",
+      "Counting three contour intervals at a time",
+      "Determining positions from measured angles in a network of triangles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a total station?",
+    "choices": [
+      "A surveying instrument combining angle measurement and electronic distance measurement",
+      "A station that broadcasts GPS corrections worldwide",
+      "A map projection for railways",
+      "A tide gauge at a harbor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is remote sensing?",
+    "choices": [
+      "Measuring a site only with a tape measure",
+      "Gathering information about an object or area without physical contact",
+      "Redrawing an old map by hand",
+      "Finding north with a compass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is an orthophoto?",
+    "choices": [
+      "A photograph taken only from ground level",
+      "A map drawn with no coordinate reference",
+      "An aerial image corrected for terrain and camera geometry so it has map-like scale",
+      "An image showing only orthogonal buildings"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does GIS stand for?",
+    "choices": [
+      "Global Image Survey",
+      "Geodetic Index Standard",
+      "Grid Interpretation Service",
+      "Geographic Information System"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "In a GIS, what is a raster layer?",
+    "choices": [
+      "A grid of cells or pixels holding values",
+      "A network of linked line segments only",
+      "A table containing no spatial position",
+      "A single physical survey marker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In navigation, what is a rhumb line?",
+    "choices": [
+      "The shortest path on a sphere between two points",
+      "A path that crosses each meridian at a constant angle",
+      "A line of constant elevation",
+      "A boundary between two map datums"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a great-circle route on a sphere?",
+    "choices": [
+      "A route that always keeps a constant compass bearing",
+      "A route following a contour line",
+      "The shortest surface path between two points",
+      "A route that stays on one parallel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the International Date Line broadly associated with?",
+    "choices": [
+      "The Equator at 0 degrees latitude",
+      "The Greenwich meridian",
+      "The Tropic of Capricorn",
+      "The vicinity of 180 degrees longitude"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is cartographic generalization?",
+    "choices": [
+      "Simplifying or selecting map information to suit a scale and purpose",
+      "Increasing every feature's measured accuracy",
+      "Replacing coordinates with street names",
+      "Removing a map's scale bar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does a Tissot indicatrix show on a map projection?",
+    "choices": [
+      "How many symbols fit in a map legend",
+      "How a small circle is distorted in size and shape at different locations",
+      "The path of a satellite over one day",
+      "The change in elevation along a road"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the defining local property of a conformal projection?",
+    "choices": [
+      "It preserves all areas globally",
+      "It preserves every distance globally",
+      "It preserves angles and infinitesimal shapes",
+      "It preserves only compass bearings"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the defining property of an equidistant projection?",
+    "choices": [
+      "It preserves area everywhere",
+      "It preserves every angle at every location",
+      "It makes every meridian parallel",
+      "It preserves true scale along specified lines or from specified points"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a compromise projection intentionally do?",
+    "choices": [
+      "Balance several distortions without preserving one property perfectly",
+      "Preserve exact shape and area simultaneously",
+      "Remove the need for a datum",
+      "Show only one hemisphere without a boundary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a standard parallel in a conic projection?",
+    "choices": [
+      "The longitude through the map's center",
+      "A latitude where the cone intersects or is tangent to the reference surface",
+      "A line of constant magnetic declination",
+      "The boundary between two UTM zones"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the difference between a tangent and a secant projection surface?",
+    "choices": [
+      "A tangent preserves area while a secant preserves angle",
+      "A tangent is used only at the poles",
+      "A tangent surface touches along a line or point, while a secant surface intersects the globe",
+      "A secant projection has no scale variation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the transverse aspect of a cylindrical projection?",
+    "choices": [
+      "The cylinder is placed only over the South Pole",
+      "The projection uses a cone instead of a cylinder",
+      "The map is rotated after printing without changing coordinates",
+      "The cylinder's main line of contact is rotated to follow a meridian rather than the Equator"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is Lambert conformal conic especially useful for?",
+    "choices": [
+      "Mapping mid-latitude east–west regions while preserving local angles",
+      "Mapping global equal-area distributions",
+      "Displaying a single polar point with no distortion",
+      "Navigating along a constant bearing at sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the main purpose of the Albers equal-area conic projection?",
+    "choices": [
+      "Preserve angles for cadastral surveys",
+      "Preserve area in broad mid-latitude regions",
+      "Preserve every distance from one city",
+      "Display only ocean navigation bearings"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which projection is commonly used for polar mapping because its plane is centered on a pole?",
+    "choices": [
+      "Mercator cylindrical",
+      "Lambert cylindrical equal-area",
+      "Polar stereographic",
+      "Sinusoidal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does an azimuthal equidistant projection preserve from its center?",
+    "choices": [
+      "All areas and angles everywhere",
+      "True scale along every parallel",
+      "Constant compass bearing from every location",
+      "Distances and directions from the central point"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does the sinusoidal projection preserve globally?",
+    "choices": [
+      "Area",
+      "Angles",
+      "All distances",
+      "The shape of every continent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the Mollweide projection designed to preserve?",
+    "choices": [
+      "Conformal angles",
+      "Equal area",
+      "True distance along every route",
+      "A constant scale at the poles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is distinctive about Goode's interrupted homolosine projection?",
+    "choices": [
+      "It preserves angles for ocean navigation",
+      "It uses one tangent plane at the North Pole",
+      "It interrupts oceans to reduce land-area and shape distortion",
+      "It has no coordinate grid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the Winkel Tripel projection intended to provide?",
+    "choices": [
+      "Exact equal area for statistical maps",
+      "Exact angles for cadastral boundaries",
+      "A constant-bearing chart for sailors",
+      "A compromise view balancing area, shape, and distance distortions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does ellipsoid flattening describe?",
+    "choices": [
+      "How much the polar dimension is reduced relative to the equatorial dimension",
+      "The amount a map is folded before printing",
+      "The change in scale along a rhumb line",
+      "The height difference between two benchmarks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How does geodetic latitude differ from geocentric latitude on an ellipsoid?",
+    "choices": [
+      "Geodetic latitude uses magnetic north, while geocentric uses grid north",
+      "Geodetic latitude uses the ellipsoid normal, while geocentric latitude uses the line from the center",
+      "Geodetic latitude measures elevation, while geocentric measures longitude",
+      "They are identical everywhere on an ellipsoid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is geoid undulation?",
+    "choices": [
+      "The separation between true north and magnetic north",
+      "The height difference between two contour lines",
+      "The separation between the geoid and a reference ellipsoid at a location",
+      "The distance between adjacent UTM zones"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is orthometric height measured from?",
+    "choices": [
+      "The center of the Earth",
+      "The surface of the reference ellipsoid",
+      "The nearest contour line",
+      "The geoid or mean-sea-level-like reference surface"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is ellipsoidal height measured from?",
+    "choices": [
+      "The reference ellipsoid",
+      "The local geoid only",
+      "The Earth's magnetic pole",
+      "The nearest survey benchmark regardless of datum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why is a geoid model useful when converting GNSS heights?",
+    "choices": [
+      "It converts longitude directly into magnetic declination",
+      "It helps relate ellipsoidal height to an orthometric height system",
+      "It removes ionospheric delay from every satellite signal",
+      "It changes a conformal projection into an equal-area projection"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is an Earth-centered, Earth-fixed coordinate system?",
+    "choices": [
+      "A local grid whose origin is the nearest benchmark",
+      "A latitude-only system fixed to the Prime Meridian",
+      "A Cartesian system with its origin at Earth's center and axes rotating with Earth",
+      "A celestial system that ignores Earth's rotation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a local east-north-up coordinate frame provide?",
+    "choices": [
+      "A global replacement for longitude and latitude",
+      "A projection that preserves area",
+      "A method for measuring only vertical gravity",
+      "Three local axes useful for describing nearby positions and motion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the International Terrestrial Reference Frame designed to realize?",
+    "choices": [
+      "A global, time-dependent terrestrial coordinate frame tied to Earth orientation and station observations",
+      "A historical list of map symbols",
+      "A single static paper map of Europe",
+      "A local magnetic compass grid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why can coordinates in NAD83 and WGS84 differ slightly at the same place?",
+    "choices": [
+      "One is a map projection and the other is a contour interval",
+      "They are distinct reference frames or realizations with different origins, models, and plate-motion treatments",
+      "NAD83 uses only magnetic north while WGS84 uses only grid north",
+      "They use different definitions of latitude but no datum information"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a dynamic geodetic datum?",
+    "choices": [
+      "A datum that changes whenever a map is folded",
+      "A projection that dynamically preserves all distances",
+      "A reference frame that models or accounts for coordinate change through time",
+      "A local benchmark that moves only during surveying"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a Helmert transformation commonly used for?",
+    "choices": [
+      "Converting a raster image into contour lines",
+      "Computing a route with constant compass bearing",
+      "Measuring atmospheric pressure at a benchmark",
+      "Transforming coordinates between reference frames with translations, rotations, and scale"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a seven-parameter datum transformation include?",
+    "choices": [
+      "Three translations, three rotations, and one scale factor",
+      "Seven contour intervals and no rotations",
+      "One latitude, one longitude, and five elevations",
+      "Seven map projections applied in sequence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is GNSS multipath error?",
+    "choices": [
+      "Error from using too many satellites at once",
+      "Error caused when a satellite signal reaches a receiver by reflected as well as direct paths",
+      "Error caused only by a wrong map legend",
+      "A difference between magnetic and true north"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is ionospheric delay in satellite positioning?",
+    "choices": [
+      "A delay caused by surveyors recording a point late",
+      "A delay from a satellite orbiting below the horizon",
+      "A signal-propagation delay caused by charged particles in the ionosphere",
+      "A delay caused by projecting a globe onto a cone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is dilution of precision in GNSS?",
+    "choices": [
+      "A correction for atmospheric temperature only",
+      "The loss of map detail during generalization",
+      "The reduction of ellipsoid flattening near the Equator",
+      "A measure of how satellite geometry amplifies measurement uncertainty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What makes real-time kinematic positioning capable of centimeter-level results in suitable conditions?",
+    "choices": [
+      "Carrier-phase measurements with corrections from a reference station or network",
+      "A magnetic compass attached to the receiver",
+      "Aerial photographs without ground control",
+      "A projection that preserves exact distances"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is post-processed kinematic surveying?",
+    "choices": [
+      "Measuring positions only after a bridge is built",
+      "Computing precise positions afterward from recorded rover and reference data",
+      "Using a kinematic map projection after printing",
+      "A method that requires no satellite observations"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why is least-squares adjustment used in surveying networks?",
+    "choices": [
+      "It discards every observation that disagrees with a map",
+      "It converts all angles directly into elevations",
+      "It estimates the most consistent coordinates by distributing measurement residuals under a chosen model",
+      "It guarantees zero measurement error"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is traverse closure error?",
+    "choices": [
+      "The angle between a meridian and a parallel",
+      "The difference between geodetic and geocentric latitude",
+      "The change in scale across a projection",
+      "The discrepancy between a survey traverse's computed endpoint and its known or intended endpoint"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a backsight in differential leveling?",
+    "choices": [
+      "A reading taken on a point of known or established elevation",
+      "A sight taken backward along a map's longitude",
+      "A distance measured behind a total station only",
+      "A reading from the highest contour on a map"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the purpose of differential leveling?",
+    "choices": [
+      "Determine longitude from star time",
+      "Determine elevation differences from measured staff readings",
+      "Determine magnetic declination from contour lines",
+      "Determine map scale from satellite color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is collimation error in an optical leveling instrument?",
+    "choices": [
+      "A failure of a satellite clock",
+      "A map-projection distortion at the Equator",
+      "A line-of-sight error that can bias elevation differences if not balanced",
+      "A difference between raster and vector data"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does electronic distance measurement in surveying use?",
+    "choices": [
+      "Only a magnetic needle and a paper scale",
+      "Contour intervals measured from an aerial image",
+      "The color of a target prism",
+      "A transmitted signal's travel time or phase to determine distance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why is a rhumb line usually not the shortest route on a sphere?",
+    "choices": [
+      "It maintains constant bearing rather than following the sphere's geodesic",
+      "It changes latitude but never longitude",
+      "It is defined only on a flat map with no Earth model",
+      "It always follows a contour line"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why does a rhumb line appear straight on a Mercator chart?",
+    "choices": [
+      "Mercator preserves all distances along every path",
+      "The projection maps constant-bearing paths to straight lines",
+      "A rhumb line is physically straight on Earth",
+      "The chart removes the Earth's curvature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a geodesic on an ellipsoid?",
+    "choices": [
+      "A line of constant compass bearing everywhere",
+      "A line connecting equal elevations",
+      "A locally shortest path determined by the ellipsoid's geometry",
+      "A line that always follows a map grid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is meridian convergence in a projected coordinate system?",
+    "choices": [
+      "The angle between the geoid and ellipsoid",
+      "The change in contour interval with elevation",
+      "The difference between two satellite clocks",
+      "The angle between grid north and true north, which varies with position"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why are false easting and false northing used in projected coordinates?",
+    "choices": [
+      "To shift coordinate values so they remain convenient and avoid negative numbers",
+      "To falsify survey observations for security",
+      "To remove all projection distortion",
+      "To convert elevation into longitude"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does the central-meridian scale factor in UTM do?",
+    "choices": [
+      "Makes every point in a zone have true scale",
+      "Sets a slight scale adjustment along the central meridian to control zone-wide distortion",
+      "Changes the central meridian's longitude each day",
+      "Converts UTM heights into orthometric heights"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which ancient work compiled coordinates and mapping methods for much of the known world?",
+    "choices": [
+      "The Domesday Book",
+      "The Epic of Gilgamesh",
+      "Ptolemy's Geographia",
+      "The Rosetta Stone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What are portolan charts especially known for?",
+    "choices": [
+      "Accurate inland elevation contours across continents",
+      "Equal-area world maps centered on the poles",
+      "Satellite-derived bathymetric grids",
+      "Detailed coastlines and networks of rhumb lines useful to mariners"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which cartographer's 1507 map is famous for using the name America?",
+    "choices": [
+      "Martin Waldseemüller",
+      "Gerardus Mercator",
+      "Abraham Ortelius",
+      "Claudius Ptolemy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why must a high-precision coordinate include its coordinate reference system?",
+    "choices": [
+      "Coordinates are meaningless unless written in degrees only",
+      "The same numeric coordinates can represent different places under different datums or projections",
+      "A reference system determines the weather at the point",
+      "The reference system replaces all uncertainty information"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the difference between accuracy and precision in surveying?",
+    "choices": [
+      "Accuracy is the number of decimal places, while precision is the map scale",
+      "Accuracy is always greater than precision",
+      "Accuracy concerns closeness to the true value, while precision concerns repeatability",
+      "They are two names for magnetic declination"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is an atlas?",
+    "choices": [
+      "A device that measures magnetic declination",
+      "A mathematical model of Earth's gravity",
+      "A single contour line showing elevation",
+      "A collection of maps, often organized by region or theme"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  }
+]

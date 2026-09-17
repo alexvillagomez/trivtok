@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which chef hosts the U.S. version of MasterChef?",
+    "choices": [
+      "Gordon Ramsay",
+      "Bobby Flay",
+      "Alton Brown",
+      "Guy Fieri"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What kind of cooks compete in the main U.S. MasterChef format?",
+    "choices": [
+      "Only restaurant owners",
+      "Home cooks",
+      "Only pastry-school graduates",
+      "Professional food critics"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the name of the cooking competition led by Gordon Ramsay in a restaurant kitchen?",
+    "choices": [
+      "Chopped",
+      "Beat Bobby Flay",
+      "Hell’s Kitchen",
+      "Cutthroat Kitchen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which celebrity chef faces challengers on a Food Network series built around trying to defeat him?",
+    "choices": [
+      "Robert Irvine",
+      "Michael Symon",
+      "Emeril Lagasse",
+      "Bobby Flay"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is placed in the Chopped basket for contestants to use?",
+    "choices": [
+      "Mystery ingredients",
+      "Restaurant menus",
+      "Pre-cooked cakes only",
+      "Kitchen tools only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which judge is famous for evaluating bread and pastry on The Great British Bake Off?",
+    "choices": [
+      "Tom Colicchio",
+      "Paul Hollywood",
+      "Joe Bastianich",
+      "Jacques Torres"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which judge joined Paul Hollywood on the later Great British Bake Off panel?",
+    "choices": [
+      "Padma Lakshmi",
+      "Christina Tosi",
+      "Prue Leith",
+      "Cat Cora"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the name of the baking competition hosted by Nicole Byer?",
+    "choices": [
+      "Sugar Rush",
+      "Cupcake Wars",
+      "Baking Impossible",
+      "Nailed It!"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which chef is associated with the Food Network show Diners, Drive-Ins and Dives?",
+    "choices": [
+      "Guy Fieri",
+      "Bobby Flay",
+      "Alton Brown",
+      "Alex Guarnaschelli"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the name of Guy Fieri’s grocery-store competition show?",
+    "choices": [
+      "Tournament of Champions",
+      "Guy’s Grocery Games",
+      "Supermarket Stakeout",
+      "Food Network Star"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which show features chefs competing in a bracket hosted by Guy Fieri?",
+    "choices": [
+      "Chopped",
+      "Beat Bobby Flay",
+      "Tournament of Champions",
+      "Iron Chef America"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which chef hosts Cutthroat Kitchen?",
+    "choices": [
+      "Gordon Ramsay",
+      "Guy Fieri",
+      "Michael Symon",
+      "Alton Brown"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What kind of show is Top Chef?",
+    "choices": [
+      "A competition for professional chefs",
+      "A children’s baking show",
+      "A travel documentary only",
+      "A restaurant renovation series"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which longtime host was associated with Top Chef?",
+    "choices": [
+      "Nicole Byer",
+      "Padma Lakshmi",
+      "Valerie Bertinelli",
+      "Anne Burrell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which chef is a longtime head judge on Top Chef?",
+    "choices": [
+      "Paul Hollywood",
+      "Jacques Torres",
+      "Tom Colicchio",
+      "Duff Goldman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the central challenge in Iron Chef-style competitions?",
+    "choices": [
+      "Baking a wedding cake in silence",
+      "Preparing only sandwiches",
+      "Recreating a judge’s childhood meal exactly",
+      "Cooking dishes around a secret ingredient"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Where does Iron Chef America stage its main battles?",
+    "choices": [
+      "Kitchen Stadium",
+      "The Chopped Kitchen",
+      "Flavortown Market",
+      "The Bake Off Tent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which show is known for a recurring “mystery box” challenge?",
+    "choices": [
+      "Hell’s Kitchen",
+      "MasterChef",
+      "The Great British Bake Off",
+      "Beat Bobby Flay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a signature challenge on The Great British Bake Off?",
+    "choices": [
+      "A blind taste test by restaurant critics",
+      "A timed supermarket shop",
+      "A task in which bakers show their own style",
+      "A team service in a hotel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is a technical challenge on The Great British Bake Off?",
+    "choices": [
+      "A challenge involving only kitchen machinery",
+      "A team relay in a restaurant",
+      "A test of food photography",
+      "A standardized bake made with limited instructions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a showstopper challenge on Bake Off?",
+    "choices": [
+      "A centerpiece bake intended to impress",
+      "A dish that must be completed without heat",
+      "A blindfolded knife test",
+      "A challenge to identify a celebrity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the Star Baker award on Bake Off?",
+    "choices": [
+      "A permanent professional contract",
+      "Recognition for the strongest baker of that episode",
+      "A prize for the fastest cleanup",
+      "A judge’s recipe book"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What age group is central to MasterChef Junior?",
+    "choices": [
+      "Retired chefs",
+      "Restaurant managers",
+      "Children",
+      "Professional pastry chefs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which chef is associated with the chocolate-making world and judges Nailed It!?",
+    "choices": [
+      "Tom Colicchio",
+      "Richard Blais",
+      "Graham Elliot",
+      "Jacques Torres"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What type of dessert is the focus of Cupcake Wars?",
+    "choices": [
+      "Cupcakes",
+      "Pies only",
+      "Ice cream sundaes only",
+      "Savory tarts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which show asks contestants to make dishes from ingredients bought at a supermarket by members of the public?",
+    "choices": [
+      "Guy’s Grocery Games",
+      "Supermarket Stakeout",
+      "Chopped",
+      "The Big Brunch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which chef hosts Supermarket Stakeout?",
+    "choices": [
+      "Anne Burrell",
+      "Clare Smyth",
+      "Alex Guarnaschelli",
+      "Padma Lakshmi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which show places struggling cooks in a culinary boot-camp competition?",
+    "choices": [
+      "Hell’s Kitchen",
+      "Restaurant: Impossible",
+      "Nailed It!",
+      "Worst Cooks in America"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which chef is strongly associated with Worst Cooks in America?",
+    "choices": [
+      "Anne Burrell",
+      "Christina Tosi",
+      "Maneet Chauhan",
+      "Cat Cora"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a mise en place?",
+    "choices": [
+      "A dessert served frozen",
+      "Ingredients prepared and organized before cooking",
+      "A type of French oven",
+      "A competition scoring card"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does it mean to sauté?",
+    "choices": [
+      "Cook food entirely under ice",
+      "Bake food in a sealed clay pot",
+      "Cook food quickly in a small amount of fat",
+      "Boil food without liquid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is an emulsion in cooking?",
+    "choices": [
+      "A dry spice blend",
+      "A type of pastry shell",
+      "A cut of beef",
+      "A mixture of liquids that normally separate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does “al dente” usually describe?",
+    "choices": [
+      "Pasta cooked firm to the bite",
+      "A very soft cake crumb",
+      "A browned steak crust",
+      "A whipped cream peak"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does a roux thicken?",
+    "choices": [
+      "A loaf of bread after baking",
+      "A sauce or other liquid",
+      "A raw salad",
+      "A fruit garnish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a reduction?",
+    "choices": [
+      "A dish cut into smaller portions",
+      "A sauce diluted with stock",
+      "A liquid concentrated by simmering away some water",
+      "A method of freezing herbs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which competition eliminates contestants after appetizer, entree, and dessert basket rounds?",
+    "choices": [
+      "Top Chef",
+      "Iron Chef America",
+      "Beat Bobby Flay",
+      "Chopped"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the usual consequence of being chopped on Chopped?",
+    "choices": [
+      "The contestant is eliminated",
+      "The contestant receives immunity",
+      "The contestant changes teams",
+      "The contestant chooses the next basket"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which show is a U.S. adaptation of a Japanese cooking-battle format?",
+    "choices": [
+      "Top Chef",
+      "Iron Chef America",
+      "MasterChef",
+      "Chopped"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is usually kept secret until an Iron Chef battle begins?",
+    "choices": [
+      "The identity of the judges",
+      "The number of burners",
+      "The featured ingredient",
+      "The show’s host"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which chef hosts a challenge where two cooks first compete for the right to face him?",
+    "choices": [
+      "Gordon Ramsay",
+      "Wolfgang Puck",
+      "José Andrés",
+      "Bobby Flay"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the basic premise of Beat Bobby Flay?",
+    "choices": [
+      "A visiting chef tries to defeat Bobby Flay with a chosen dish",
+      "Two bakers renovate a restaurant",
+      "Home cooks compete in a supermarket",
+      "A judge identifies mystery ingredients"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which competition is centered on decorating cakes under a time limit?",
+    "choices": [
+      "Top Chef",
+      "Cake Wars",
+      "The Final Table",
+      "Iron Chef"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which show is built around professional chefs representing different countries and cuisines?",
+    "choices": [
+      "MasterChef Junior",
+      "Worst Cooks in America",
+      "The Final Table",
+      "Nailed It!"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which Australian cooking competition has featured home cooks competing in a long-form kitchen format?",
+    "choices": [
+      "The Great Australian Bake Off",
+      "My Kitchen Rules only",
+      "Junior Bake Off",
+      "MasterChef Australia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which country is the original home of the long-running MasterChef television format?",
+    "choices": [
+      "The United Kingdom",
+      "The United States",
+      "Australia",
+      "France"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which show is known for contestants cooking in a famous white tent?",
+    "choices": [
+      "MasterChef Australia",
+      "The Great British Bake Off",
+      "Top Chef",
+      "Nailed It!"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which TV chef is known for the catchphrase-like concept of “Flavortown”?",
+    "choices": [
+      "Bobby Flay",
+      "Alton Brown",
+      "Guy Fieri",
+      "Gordon Ramsay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is a soufflé?",
+    "choices": [
+      "A raw fish preparation",
+      "A type of pasta machine",
+      "A fried flatbread",
+      "A light baked dish risen by incorporated air"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is a ganache?",
+    "choices": [
+      "A mixture of chocolate and cream",
+      "A fermented cabbage dish",
+      "A clarified stock",
+      "A type of pasta dough"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is a blind bake?",
+    "choices": [
+      "Cooking while wearing an eye covering",
+      "Baking a pastry crust before adding its filling",
+      "Baking without an oven light",
+      "Roasting a dish without seasoning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who won the first season of the U.S. MasterChef?",
+    "choices": [
+      "Christine Ha",
+      "Luca Manfé",
+      "Whitney Miller",
+      "Courtney Lapresi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which MasterChef U.S. winner was known for cooking without sight?",
+    "choices": [
+      "Whitney Miller",
+      "Claudia Sandoval",
+      "Derrick Peltz",
+      "Christine Ha"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who won the first season of Top Chef?",
+    "choices": [
+      "Harold Dieterle",
+      "Sam Talbot",
+      "Stephen Asprinio",
+      "Dave Martin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which chef became the first woman to win Top Chef in the U.S.?",
+    "choices": [
+      "Kristen Kish",
+      "Stephanie Izard",
+      "Brooke Williamson",
+      "Melissa King"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which pair of brothers competed against each other in Top Chef season six?",
+    "choices": [
+      "The Roux brothers",
+      "The Neely brothers",
+      "Michael and Bryan Voltaggio",
+      "The Lee brothers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which chef won Top Chef season six?",
+    "choices": [
+      "Kevin Gillespie",
+      "Bryan Voltaggio",
+      "Jennifer Carroll",
+      "Michael Voltaggio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who won the first season of MasterChef Australia?",
+    "choices": [
+      "Julie Goodwin",
+      "Adam Liaw",
+      "Poh Ling Yeow",
+      "Kate Bracks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who won the first season of the original Great British Bake Off?",
+    "choices": [
+      "Ruth Clemens",
+      "Edd Kimber",
+      "Miranda Gore Browne",
+      "Mary-Anne Boermans"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which host was part of the original presenting team on The Great British Bake Off?",
+    "choices": [
+      "Noel Fielding",
+      "Alison Hammond",
+      "Mel Giedroyc",
+      "Matt Lucas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which host joined Sue Perkins on the original Great British Bake Off presenting team?",
+    "choices": [
+      "Sandi Toksvig",
+      "Noel Fielding",
+      "Matt Lucas",
+      "Mel Giedroyc"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a Hollywood handshake on Bake Off?",
+    "choices": [
+      "Paul Hollywood’s informal sign of strong approval",
+      "A handshake between the two hosts",
+      "A prize for the week’s winner",
+      "A formal elimination ceremony"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which original Iron Chef was known for Chinese cuisine?",
+    "choices": [
+      "Hiroyuki Sakai",
+      "Chen Kenichi",
+      "Katsuhiko Kobayashi",
+      "Masaharu Morimoto"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which original Iron Chef was known as the Iron Chef French?",
+    "choices": [
+      "Chen Kenichi",
+      "Rokusaburo Michiba",
+      "Hiroyuki Sakai",
+      "Masaharu Morimoto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who served as the flamboyant chairman on the original Japanese Iron Chef?",
+    "choices": [
+      "Alton Brown",
+      "Shiro Kashiwagi",
+      "Kazuko Hosoki",
+      "Takeshi Kaga"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which chef became the first female Iron Chef on Iron Chef America?",
+    "choices": [
+      "Cat Cora",
+      "Alex Guarnaschelli",
+      "Amanda Freitag",
+      "Susur Lee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which chef is associated with the “Iron Chef America” role of Iron Chef Morimoto?",
+    "choices": [
+      "Hiroyuki Sakai",
+      "Masaharu Morimoto",
+      "Chen Kenichi",
+      "Rokusaburo Michiba"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does the term “amuse-bouche” mean?",
+    "choices": [
+      "A large shared entrée",
+      "A dessert wine",
+      "A small bite offered before a meal",
+      "A kitchen’s prep list"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which classic French sauce is made mainly from butter, white wine, and shallots?",
+    "choices": [
+      "Béchamel",
+      "Velouté",
+      "Béarnaise",
+      "Beurre blanc"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does “julienne” describe in culinary terminology?",
+    "choices": [
+      "Cutting food into thin matchsticks",
+      "Whisking a sauce over ice",
+      "Folding dough into layers",
+      "Smoking meat over hardwood"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a chiffonade?",
+    "choices": [
+      "A blended soup with cream",
+      "Thin ribbons cut from leafy herbs or greens",
+      "A caramelized sugar dome",
+      "A type of fish stock"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which sauce is traditionally made from egg yolks, butter, and lemon juice?",
+    "choices": [
+      "Béchamel",
+      "Espagnole",
+      "Hollandaise",
+      "Tomato concassé"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which mother sauce is based on milk thickened with a roux?",
+    "choices": [
+      "Hollandaise",
+      "Velouté",
+      "Demi-glace",
+      "Béchamel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a consommé?",
+    "choices": [
+      "A clarified, concentrated broth",
+      "A raw vegetable salad",
+      "A folded omelet",
+      "A type of filled pasta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is tempering chocolate?",
+    "choices": [
+      "Adding salt before melting it",
+      "Controlling its crystal structure through careful heating and cooling",
+      "Freezing it in a mold without heat",
+      "Whipping it with egg whites"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the purpose of a proofing stage in yeast baking?",
+    "choices": [
+      "Cooling a cake before icing",
+      "Removing flour from a work surface",
+      "Allowing dough to ferment and rise",
+      "Setting a gelatin dessert"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which cooking show format has contestants identify a dish chosen by the challenger before Bobby Flay cooks it?",
+    "choices": [
+      "Chopped",
+      "Iron Chef America",
+      "Top Chef",
+      "Beat Bobby Flay"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which program uses a randomizer to determine ingredients, equipment, and constraints in tournament battles?",
+    "choices": [
+      "Tournament of Champions",
+      "Guy’s Grocery Games",
+      "Supermarket Stakeout",
+      "Cutthroat Kitchen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which show’s core twist involves contestants sabotaging one another with money or kitchen disadvantages?",
+    "choices": [
+      "Nailed It!",
+      "Cutthroat Kitchen",
+      "The Final Table",
+      "MasterChef Junior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which chef hosted the U.S. version of The Taste alongside Anthony Bourdain?",
+    "choices": [
+      "Padma Lakshmi",
+      "Cat Cora",
+      "Nigella Lawson",
+      "Gail Simmons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which chef is closely associated with the Food Network series Restaurant: Impossible?",
+    "choices": [
+      "Michael Symon",
+      "Bobby Flay",
+      "Alex Guarnaschelli",
+      "Robert Irvine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Canadian competition series is the country’s version of the Great British baking format?",
+    "choices": [
+      "The Great Canadian Baking Show",
+      "Top Chef Canada",
+      "MasterChef Canada",
+      "Canada’s Worst Cook"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which competition series focuses on home cooks preparing dishes in teams in Australia?",
+    "choices": [
+      "MasterChef Australia",
+      "My Kitchen Rules",
+      "The Great Australian Bake Off",
+      "The Chefs’ Line"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which British competition asks professional chefs to represent regions and create dishes for judges?",
+    "choices": [
+      "MasterChef UK",
+      "The Restaurant",
+      "The Great British Menu",
+      "Chef Wars UK"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which judge is associated with the original Australian MasterChef panel alongside George Calombaris and Matt Preston?",
+    "choices": [
+      "Jock Zonfrillo",
+      "Andy Allen",
+      "Kylie Kwong",
+      "Gary Mehigan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which American pastry chef is associated with the bakery brand Milk Bar and judged MasterChef?",
+    "choices": [
+      "Christina Tosi",
+      "Martha Stewart",
+      "Claudia Fleming",
+      "Sherry Yard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does “resting” meat after cooking generally allow?",
+    "choices": [
+      "The meat to continue freezing",
+      "Its juices to redistribute before slicing",
+      "The crust to become raw",
+      "The pan to lose all heat instantly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the culinary term for rapidly cooking vegetables briefly and then cooling them?",
+    "choices": [
+      "Braising",
+      "Deglazing",
+      "Blanching",
+      "Curing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does deglazing a pan involve?",
+    "choices": [
+      "Removing all seasoning before cooking",
+      "Freezing a pan after roasting",
+      "Cutting vegetables into dice",
+      "Adding liquid to loosen browned bits for a sauce"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which contestant became the first winner of MasterChef U.S. while being blind?",
+    "choices": [
+      "Christine Ha",
+      "Derrick Peltz",
+      "Whitney Miller",
+      "Claudia Sandoval"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "On which show does Ted Allen dismiss an eliminated contestant after the judges reveal a covered plate?",
+    "choices": [
+      "Top Chef",
+      "Chopped",
+      "Hell’s Kitchen",
+      "Iron Chef America"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which sauce is a concentrated reduction of brown stock and espagnole sauce?",
+    "choices": [
+      "Béchamel",
+      "Salsa verde",
+      "Demi-glace",
+      "Crème anglaise"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which competition format pits a challenger against a resident culinary master using a surprise ingredient?",
+    "choices": [
+      "MasterChef",
+      "Top Chef",
+      "Chopped",
+      "Iron Chef"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which television chef is associated with the phrase “Yes, chef” through Hell’s Kitchen?",
+    "choices": [
+      "Gordon Ramsay",
+      "Bobby Flay",
+      "Guy Fieri",
+      "Alton Brown"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which show’s “Restaurant Wars” challenge asks teams to operate pop-up restaurants?",
+    "choices": [
+      "MasterChef",
+      "Top Chef",
+      "Hell’s Kitchen",
+      "The Great British Bake Off"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which judge is known for leading the pastry side of The Great British Bake Off?",
+    "choices": [
+      "Prue Leith",
+      "Mary Berry",
+      "Paul Hollywood",
+      "Noel Fielding"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which former Bake Off judge was known for an elegant style of British home baking?",
+    "choices": [
+      "Prue Leith",
+      "Mary Portas",
+      "Claudia Winkleman",
+      "Mary Berry"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which host is especially associated with the U.S. series Nailed It!?",
+    "choices": [
+      "Nicole Byer",
+      "Maya Rudolph",
+      "Amy Poehler",
+      "Martha Stewart"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which show features professional chefs competing through a sequence of rounds judged by culinary experts and regional guests?",
+    "choices": [
+      "Nailed It!",
+      "The Final Table",
+      "Worst Cooks in America",
+      "Cupcake Wars"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which phrase means tasting and adjusting seasoning before serving?",
+    "choices": [
+      "Proofing",
+      "Scoring",
+      "Seasoning to taste",
+      "Caramelizing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which chef is associated with the U.S. cooking competition show Chopped as a recurring judge?",
+    "choices": [
+      "Prue Leith",
+      "Tom Colicchio",
+      "Christina Tosi",
+      "Alex Guarnaschelli"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

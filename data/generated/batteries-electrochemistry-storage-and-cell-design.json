@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What does a battery convert into electrical energy?",
+    "choices": [
+      "Stored chemical energy",
+      "Stored magnetic energy",
+      "Stored acoustic energy",
+      "Stored nuclear energy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which terminal supplies electrons to an external circuit during discharge?",
+    "choices": [
+      "Negative electrode",
+      "Positive electrode",
+      "Separator layer",
+      "Current collector"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is the main purpose of a battery separator?",
+    "choices": [
+      "Increase voltage",
+      "Block ion motion",
+      "Prevent electrode contact",
+      "Store extra electrolyte"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "In a rechargeable cell, what does charging do?",
+    "choices": [
+      "Consumes the electrodes",
+      "Reverses the cell reaction",
+      "Removes the separator",
+      "Lowers ion concentration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What unit measures electric charge capacity?",
+    "choices": [
+      "Ampere-hour",
+      "Ohm-meter",
+      "Watt-second",
+      "Volt-meter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What unit measures a battery's instantaneous electrical power?",
+    "choices": [
+      "Coulomb",
+      "Watt",
+      "Farad",
+      "Henry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does nominal voltage describe?",
+    "choices": [
+      "Exact voltage at every moment",
+      "Typical operating voltage",
+      "Maximum current rating",
+      "Physical cell diameter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a battery pack?",
+    "choices": [
+      "One atom of electrode material",
+      "A single electrolyte molecule",
+      "Only the cell casing",
+      "Connected cells with supporting hardware"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which device limits current in a simple battery circuit?",
+    "choices": [
+      "Load resistance",
+      "Separator coating",
+      "Electrode binder",
+      "Voltage label"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What does a cell's state of charge indicate?",
+    "choices": [
+      "Its mass",
+      "Its remaining usable charge",
+      "Its color",
+      "Its electrode thickness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which chemistry commonly uses zinc and manganese dioxide?",
+    "choices": [
+      "Lead-acid",
+      "Lithium-ion",
+      "Alkaline",
+      "Sodium-sulfur"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What distinguishes a primary battery?",
+    "choices": [
+      "It uses liquid metal",
+      "It cannot normally be recharged",
+      "It contains no electrolyte",
+      "It always has two packs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which battery is widely used for automotive starting?",
+    "choices": [
+      "Lead-acid",
+      "Nickel-metal hydride",
+      "Zinc-air",
+      "Lithium-sulfur"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is a familiar cathode material in lithium-ion cells?",
+    "choices": [
+      "Copper foil",
+      "Lithium cobalt oxide",
+      "Graphite foil",
+      "Polyethylene separator"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What material commonly hosts lithium in a conventional anode?",
+    "choices": [
+      "Nickel foam",
+      "Manganese oxide",
+      "Graphite",
+      "Glass fiber"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which chemistry is known for strong cycle life and thermal stability?",
+    "choices": [
+      "Lithium cobalt oxide",
+      "Alkaline zinc",
+      "Lithium iron phosphate",
+      "Mercury oxide"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the electrolyte's primary role?",
+    "choices": [
+      "Carry ions between electrodes",
+      "Carry electrons through wires",
+      "Support the cell mechanically",
+      "Measure temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which ion moves through the electrolyte in a lithium-ion cell?",
+    "choices": [
+      "Sodium ion",
+      "Lithium ion",
+      "Chloride ion",
+      "Calcium ion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the usual current collector for a lithium-ion anode?",
+    "choices": [
+      "Aluminum foil",
+      "Copper foil",
+      "Steel mesh",
+      "Titanium rod"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is the usual current collector for a lithium-ion cathode?",
+    "choices": [
+      "Copper foil",
+      "Carbon cloth",
+      "Aluminum foil",
+      "Nickel wire"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Why are electrode particles coated onto a metal foil?",
+    "choices": [
+      "To conduct current to the circuit",
+      "To eliminate chemical reactions",
+      "To increase separator thickness",
+      "To provide wireless charging"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does a battery management system monitor?",
+    "choices": [
+      "Only package color",
+      "Voltage, current, and temperature",
+      "Only ambient humidity",
+      "Only charging cable length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is cell balancing intended to achieve?",
+    "choices": [
+      "Equalize cell states of charge",
+      "Increase electrolyte viscosity",
+      "Remove electrode foil",
+      "Change chemistry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a common reason to place cells in series?",
+    "choices": [
+      "Increase total voltage",
+      "Reduce electrode area",
+      "Remove the BMS",
+      "Prevent ion transport"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is a common reason to place cells in parallel?",
+    "choices": [
+      "Increase capacity and current capability",
+      "Raise separator resistance",
+      "Lower stored charge",
+      "Reverse polarity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which process can damage a lithium-ion cell by depositing metallic lithium?",
+    "choices": [
+      "Slow discharge",
+      "Fast charging at low temperature",
+      "Moderate storage",
+      "Gentle balancing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does overcharge mean?",
+    "choices": [
+      "Discharging below room temperature",
+      "Charging beyond a safe voltage limit",
+      "Using a short cable",
+      "Connecting cells in parallel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What does a fuse in a battery pack help protect against?",
+    "choices": [
+      "Low humidity",
+      "Excessive fault current",
+      "Normal ion diffusion",
+      "Capacity measurement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is thermal runaway?",
+    "choices": [
+      "Self-heating that accelerates chemical reactions",
+      "A planned cooling cycle",
+      "A harmless voltage ripple",
+      "A mechanical balancing method"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which condition generally slows electrochemical reactions?",
+    "choices": [
+      "Higher temperature",
+      "Lower temperature",
+      "Higher surface area",
+      "Shorter current path"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is coulomb counting used to estimate?",
+    "choices": [
+      "Cell height",
+      "State of charge",
+      "Electrolyte color",
+      "Separator porosity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which battery chemistry uses an aqueous sulfuric acid electrolyte?",
+    "choices": [
+      "Nickel-cadmium",
+      "Lead-acid",
+      "Lithium-ion",
+      "Sodium-ion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a major environmental concern with lead-acid batteries?",
+    "choices": [
+      "Lead toxicity if poorly managed",
+      "Excessive lithium supply",
+      "Rare-earth combustion",
+      "Oxygen depletion in chargers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which rechargeable chemistry uses cadmium at its negative electrode?",
+    "choices": [
+      "Nickel-metal hydride",
+      "Nickel-cadmium",
+      "Lithium iron phosphate",
+      "Zinc-carbon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a key advantage of nickel-metal hydride over nickel-cadmium?",
+    "choices": [
+      "Lower cell voltage",
+      "Avoidance of cadmium toxicity",
+      "No need for electrolyte",
+      "Unlimited cycle life"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which chemistry is often selected for high-energy electric vehicles?",
+    "choices": [
+      "Zinc-carbon",
+      "Lithium-ion",
+      "Mercury oxide",
+      "Silver-oxide button cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the main benefit of a solid-state electrolyte?",
+    "choices": [
+      "Potentially improved safety and energy density",
+      "Guaranteed zero degradation",
+      "No need for electrodes",
+      "Infinite operating temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is an aqueous battery electrolyte based on?",
+    "choices": [
+      "A water-containing solution",
+      "A metal foil",
+      "A dry polymer only",
+      "A vacuum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What property describes how easily an electrolyte carries ions?",
+    "choices": [
+      "Hardness",
+      "Ionic conductivity",
+      "Reflectivity",
+      "Magnetization"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Why is separator porosity important?",
+    "choices": [
+      "It permits controlled ion transport",
+      "It creates the external voltage",
+      "It determines pack color",
+      "It eliminates all heat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does internal resistance cause during high-current discharge?",
+    "choices": [
+      "Voltage drop and heat generation",
+      "Capacity creation",
+      "Electrolyte freezing prevention",
+      "Automatic balancing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is the C-rate referenced to?",
+    "choices": [
+      "Cell mass",
+      "Rated capacity",
+      "Electrode color",
+      "Pack volume"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A 2C discharge ideally empties a cell in about how long?",
+    "choices": [
+      "Two hours",
+      "One hour",
+      "Thirty minutes",
+      "Ten minutes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What does constant-current charging hold fixed?",
+    "choices": [
+      "Voltage",
+      "Temperature",
+      "Resistance",
+      "Current"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does constant-voltage charging hold fixed?",
+    "choices": [
+      "Voltage",
+      "Capacity",
+      "Electrode mass",
+      "C-rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Why does charging current taper near full charge?",
+    "choices": [
+      "The cell reaches its voltage limit",
+      "The separator disappears",
+      "The pack loses its terminals",
+      "The electrolyte becomes solid instantly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is trickle charging?",
+    "choices": [
+      "A high-current emergency pulse",
+      "A low current that maintains charge",
+      "A discharge through a resistor",
+      "A cell balancing algorithm"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does depth of discharge measure?",
+    "choices": [
+      "Temperature rise",
+      "Fraction of capacity removed",
+      "Electrode thickness",
+      "Charger efficiency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "How does shallower cycling generally affect battery life?",
+    "choices": [
+      "It can increase cycle life",
+      "It always halves cycle life",
+      "It prevents all aging",
+      "It removes internal resistance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is calendar aging?",
+    "choices": [
+      "Degradation with time even without cycling",
+      "A battery holiday schedule",
+      "A test of clock accuracy",
+      "A manufacturing date code"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is capacity fade?",
+    "choices": [
+      "Growth in nominal voltage",
+      "Loss of usable charge capacity",
+      "Increase in cell mass",
+      "Reduction in package cost"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does impedance rise usually indicate?",
+    "choices": [
+      "Improved power delivery",
+      "Increasing resistance to current flow",
+      "More available capacity",
+      "Lower heat production"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which mechanism can consume cyclable lithium in a lithium-ion cell?",
+    "choices": [
+      "Solid-electrolyte interphase growth",
+      "External fuse opening",
+      "Parallel wiring",
+      "Terminal polishing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the solid-electrolyte interphase?",
+    "choices": [
+      "A protective interfacial film on the anode",
+      "A metal busbar",
+      "A cooling fan",
+      "A battery enclosure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Why can high temperature accelerate aging?",
+    "choices": [
+      "It speeds parasitic reactions",
+      "It stops ion motion",
+      "It removes all electrolyte",
+      "It lowers reaction rates"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a battery's round-trip efficiency compare?",
+    "choices": [
+      "Mass to volume",
+      "Energy out with energy in",
+      "Voltage to current",
+      "Capacity to temperature"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which storage technology is well suited to long-duration grid storage?",
+    "choices": [
+      "Flow battery",
+      "Coin cell",
+      "Phone battery",
+      "Alkaline flashlight cell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is distinctive about a redox-flow battery?",
+    "choices": [
+      "Energy is stored in circulating electrolyte tanks",
+      "It has no electrolyte",
+      "It cannot be scaled",
+      "It uses only solid electrodes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does pumped hydro store primarily?",
+    "choices": [
+      "Electrochemical charge",
+      "Gravitational potential energy",
+      "Magnetic flux",
+      "Chemical hydrogen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why do grid batteries provide frequency regulation?",
+    "choices": [
+      "They respond rapidly to power fluctuations",
+      "They permanently raise demand",
+      "They replace all transmission lines",
+      "They operate without controls"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a battery inverter used for in a grid system?",
+    "choices": [
+      "Convert between DC and AC",
+      "Measure electrolyte pH",
+      "Seal cell pores",
+      "Compress electrode powder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does peak shaving mean in energy storage?",
+    "choices": [
+      "Reducing maximum grid demand with stored energy",
+      "Removing the highest cell from a pack",
+      "Cutting battery capacity",
+      "Sharpening electrode edges"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is arbitrage with a grid battery?",
+    "choices": [
+      "Buying energy cheaply and selling it at higher prices",
+      "Balancing cell temperatures",
+      "Replacing anodes during cycling",
+      "Measuring pack impedance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which characteristic is especially important for backup power?",
+    "choices": [
+      "High idle noise",
+      "Reliable availability during outages",
+      "Unusually bright casing",
+      "Low separator porosity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is second-life use of an electric-vehicle battery?",
+    "choices": [
+      "Using it in a less demanding application after vehicle service",
+      "Using it before first charging",
+      "Doubling its original voltage",
+      "Extracting only its separator"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is battery recycling intended to recover?",
+    "choices": [
+      "Valuable materials from spent cells",
+      "Only the plastic label",
+      "Ambient heat",
+      "The original manufacturing date"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which test measures capacity by controlled charge and discharge?",
+    "choices": [
+      "Visual inspection",
+      "Galvanostatic cycling",
+      "Acoustic imaging",
+      "Colorimetry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does electrochemical impedance spectroscopy vary?",
+    "choices": [
+      "Cell mass",
+      "Small AC perturbation frequency",
+      "Electrode color",
+      "Cooling airflow only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What can differential capacity analysis reveal?",
+    "choices": [
+      "Reaction features during voltage-capacity change",
+      "Pack serial numbers",
+      "Casing strength only",
+      "Charger cable length"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a battery cycler control during laboratory testing?",
+    "choices": [
+      "Current and voltage profiles",
+      "Mine output",
+      "Electrode mineral origin",
+      "Room lighting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a coin cell often used for in research?",
+    "choices": [
+      "Small-scale material and electrode evaluation",
+      "Utility-scale frequency regulation",
+      "Vehicle crash protection",
+      "Grid transformer cooling"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why are pouch cells sealed under controlled conditions?",
+    "choices": [
+      "To limit moisture and contamination",
+      "To increase magnetic fields",
+      "To eliminate current collectors",
+      "To prevent any volume change"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the purpose of formation cycling in cell manufacturing?",
+    "choices": [
+      "Establish and stabilize interfacial layers",
+      "Choose the pack color",
+      "Remove the cathode",
+      "Measure shipping distance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does electrolyte wetting ensure?",
+    "choices": [
+      "Pores are adequately filled for ion transport",
+      "Foils become electrically isolated from tabs",
+      "The casing becomes magnetic",
+      "The charger output doubles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why is moisture especially harmful in many lithium-ion cells?",
+    "choices": [
+      "It can react with electrolyte salts and form corrosive species",
+      "It increases graphite capacity permanently",
+      "It eliminates thermal gradients",
+      "It makes copper nonconductive instantly"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is calendaring of an electrode coating?",
+    "choices": [
+      "Compressing the coating to adjust density and porosity",
+      "Recording the manufacturing date",
+      "Heating the cell during shipping",
+      "Separating lithium isotopes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does electrode loading describe?",
+    "choices": [
+      "Active-material mass per electrode area",
+      "The charger plug shape",
+      "The pack's shipping weight only",
+      "The separator's melting point"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is areal capacity?",
+    "choices": [
+      "Capacity normalized by electrode area",
+      "Capacity normalized by cell color",
+      "Voltage normalized by temperature",
+      "Current normalized by cable length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why can silicon increase lithium-ion anode capacity?",
+    "choices": [
+      "It can alloy with a large amount of lithium",
+      "It blocks all lithium transport",
+      "It replaces the electrolyte",
+      "It cannot undergo volume change"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a principal challenge of silicon anodes?",
+    "choices": [
+      "Large volume changes during lithiation",
+      "No ability to store lithium",
+      "Permanent zero resistance",
+      "Inability to conduct electrons"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does lithiation mean for a negative electrode?",
+    "choices": [
+      "Insertion or alloying of lithium into it",
+      "Removal of its current collector",
+      "Conversion to an electrolyte",
+      "Heating above its melting point"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does delithiation generally occur during?",
+    "choices": [
+      "Charging only",
+      "Discharge of a lithium-ion cell",
+      "Cell assembly before electrolyte fill",
+      "Separator coating"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a conversion reaction in battery electrodes?",
+    "choices": [
+      "A reaction that transforms compounds into new phases while storing ions",
+      "A mechanical change in terminal shape",
+      "A charger communication protocol",
+      "A cooling-loop phase change"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Why are binders used in composite electrodes?",
+    "choices": [
+      "Hold active particles and conductive additives together",
+      "Provide the sole source of lithium",
+      "Replace the separator",
+      "Measure state of health"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does a conductive additive do in an electrode?",
+    "choices": [
+      "Improve electronic pathways through the composite",
+      "Prevent all electrolyte contact",
+      "Raise separator melting point",
+      "Store grid frequency"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is transference number in an electrolyte?",
+    "choices": [
+      "Fraction of current carried by a chosen ion",
+      "Number of cells in a module",
+      "Ratio of mass to volume",
+      "Count of safety vents"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What causes concentration polarization during operation?",
+    "choices": [
+      "Ion concentration gradients near interfaces",
+      "A broken enclosure latch",
+      "Excessive label adhesive",
+      "A parallel busbar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is exchange current density a measure of?",
+    "choices": [
+      "Interfacial reaction kinetics near equilibrium",
+      "Pack energy stored overnight",
+      "Cooling fan speed",
+      "Separator tensile strength"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does Butler-Volmer kinetics relate?",
+    "choices": [
+      "Electrode current to overpotential",
+      "Cell mass to volume",
+      "Voltage to casing color",
+      "Capacity to shipping cost"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is overpotential?",
+    "choices": [
+      "Extra potential required beyond equilibrium",
+      "The cell's physical height",
+      "A separator manufacturing defect",
+      "A pack's nominal capacity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does Nernst behavior describe in a cell?",
+    "choices": [
+      "Potential dependence on composition and activities",
+      "Mechanical compression of a pouch",
+      "Current collector corrosion only",
+      "The inverter's switching frequency"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Why can dendrites be dangerous in rechargeable cells?",
+    "choices": [
+      "They may bridge electrodes and cause internal shorts",
+      "They always increase cycle life",
+      "They reduce all heat generation",
+      "They make electrolyte nonflammable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a thermal propagation test intended to assess?",
+    "choices": [
+      "Whether failure spreads between neighboring cells",
+      "Whether capacity rises at low current",
+      "Whether labels adhere evenly",
+      "Whether electrolyte color matches"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does state of health commonly compare?",
+    "choices": [
+      "Present performance with beginning-of-life performance",
+      "Cell voltage with room humidity",
+      "Pack mass with charger length",
+      "Electrode color with separator color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the purpose of a vent in some cells?",
+    "choices": [
+      "Relieve pressure during abnormal gas generation",
+      "Admit dust during normal operation",
+      "Increase short-circuit current",
+      "Store extra lithium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Why are battery terminals protected against reverse polarity?",
+    "choices": [
+      "To prevent damaging current flow when connected incorrectly",
+      "To increase electrolyte conductivity",
+      "To lower the nominal voltage",
+      "To make cells rechargeable"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What did Alessandro Volta's early pile demonstrate?",
+    "choices": [
+      "Continuous electric current from stacked cells",
+      "Modern lithium-ion cycling",
+      "Flow-battery scalability",
+      "Solid-state polymer safety"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which inventor is associated with the lead-acid battery?",
+    "choices": [
+      "Gaston Planté",
+      "Michael Faraday",
+      "James Watt",
+      "Nikola Tesla"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What commercial advantage helped lithium-ion batteries spread widely?",
+    "choices": [
+      "High energy density with rechargeable operation",
+      "Complete immunity to heat",
+      "Use of no active materials",
+      "Infinite shelf life at any temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is sodium-ion chemistry's notable materials advantage?",
+    "choices": [
+      "It can reduce reliance on lithium resources",
+      "It needs no cathode",
+      "It has no electrolyte",
+      "It cannot be manufactured in cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

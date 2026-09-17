@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which city is Batman's usual home?",
+    "choices": [
+      "Gotham City",
+      "Metropolis",
+      "Central City",
+      "Coast City"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is Superman's Kryptonian birth name?",
+    "choices": [
+      "Jor-El",
+      "Kal-El",
+      "Zod",
+      "Kara-Zor-El"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which hero is the secret identity of Diana Prince?",
+    "choices": [
+      "Supergirl",
+      "Hawkgirl",
+      "Wonder Woman",
+      "Zatanna"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who serves as Bruce Wayne's loyal butler in most Batman stories?",
+    "choices": [
+      "James Gordon",
+      "Lucius Fox",
+      "Harvey Bullock",
+      "Alfred Pennyworth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What mineral is Superman famously vulnerable to?",
+    "choices": [
+      "Kryptonite",
+      "Nth metal",
+      "Promethium",
+      "Element X"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which villain is Batman's clown-themed arch-enemy?",
+    "choices": [
+      "The Riddler",
+      "The Joker",
+      "Two-Face",
+      "The Penguin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the name of Superman's home planet?",
+    "choices": [
+      "Apokolips",
+      "Tamaran",
+      "Krypton",
+      "Daxam"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which newspaper employs Clark Kent in the classic Superman setup?",
+    "choices": [
+      "The Gotham Gazette",
+      "The Daily Bugle",
+      "The Metropolis Herald",
+      "The Daily Planet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the name of Batman's underground headquarters?",
+    "choices": [
+      "The Batcave",
+      "The Hall of Justice",
+      "The Watchtower",
+      "The Fortress of Solitude"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which item does Wonder Woman use to compel honesty?",
+    "choices": [
+      "The Spear of Destiny",
+      "The Lasso of Truth",
+      "The Helm of Fate",
+      "The Sword of Omens"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Barry Allen is the civilian identity of which DC speedster?",
+    "choices": [
+      "Green Lantern",
+      "Blue Beetle",
+      "The Flash",
+      "Atom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the civilian name of Batman?",
+    "choices": [
+      "Clark Kent",
+      "Oliver Queen",
+      "Hal Jordan",
+      "Bruce Wayne"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which hero is known for wielding a power ring as Green Lantern?",
+    "choices": [
+      "Hal Jordan",
+      "Dick Grayson",
+      "Billy Batson",
+      "John Constantine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Superman's adoptive parents raised him in which Kansas town?",
+    "choices": [
+      "Riverdale",
+      "Smallville",
+      "Sunnydale",
+      "Havenport"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the name of Wonder Woman's Amazon homeland?",
+    "choices": [
+      "Atlantis",
+      "Kahndaq",
+      "Themyscira",
+      "Bialya"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which villain uses riddles and question marks against Batman?",
+    "choices": [
+      "The Joker",
+      "Bane",
+      "Man-Bat",
+      "The Riddler"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the name of Batman's sidekick who first wore the Robin costume?",
+    "choices": [
+      "Dick Grayson",
+      "Jason Todd",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which team commonly brings Superman, Batman, and Wonder Woman together?",
+    "choices": [
+      "The Teen Titans",
+      "The Justice League",
+      "The Suicide Squad",
+      "The Legion of Super-Heroes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the name of Batman's police ally in Gotham City?",
+    "choices": [
+      "Commissioner Swanwick",
+      "Detective Chimp",
+      "Commissioner Gordon",
+      "Captain Atom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which villain is a plant-controlling foe often linked to Gotham?",
+    "choices": [
+      "Catwoman",
+      "Blackfire",
+      "Silver Banshee",
+      "Poison Ivy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is the name of Superman's arctic sanctuary?",
+    "choices": [
+      "The Fortress of Solitude",
+      "The Watchtower",
+      "The Batcave",
+      "The Hall of Doom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Batman villain is physically transformed into a giant bat-like creature?",
+    "choices": [
+      "Killer Croc",
+      "Man-Bat",
+      "Clayface",
+      "Hush"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which hero is a cybernetically enhanced member of the Justice League?",
+    "choices": [
+      "Plastic Man",
+      "Booster Gold",
+      "Cyborg",
+      "The Question"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is the real name of Cyborg?",
+    "choices": [
+      "Victor Fries",
+      "Virgil Hawkins",
+      "Val-Zod",
+      "Victor Stone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which team is centered on younger heroes such as Robin and Starfire?",
+    "choices": [
+      "The Teen Titans",
+      "The Justice Society",
+      "The Outsiders",
+      "The Birds of Prey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is the name of the alien princess who joins the Teen Titans?",
+    "choices": [
+      "Mera",
+      "Starfire",
+      "Big Barda",
+      "Blackfire"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Teen Titan is a green shapeshifter?",
+    "choices": [
+      "Raven",
+      "Blue Beetle",
+      "Beast Boy",
+      "Kid Flash"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What supernatural power is especially associated with Raven?",
+    "choices": [
+      "Underwater breathing",
+      "Super-strength from yellow sunlight",
+      "Mechanical armor",
+      "Mystical empathic abilities"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which villain wears a distinctive black-and-white split costume and uses a coin?",
+    "choices": [
+      "Two-Face",
+      "Black Mask",
+      "Deadshot",
+      "Professor Pyg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is Two-Face's former name?",
+    "choices": [
+      "Harvey Bullock",
+      "Harvey Dent",
+      "Roman Sionis",
+      "Hugo Strange"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which Batman villain is known for an elaborate penguin persona?",
+    "choices": [
+      "The Ventriloquist",
+      "The Mad Hatter",
+      "The Penguin",
+      "The Scarecrow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What fear-inducing chemical is associated with the Scarecrow?",
+    "choices": [
+      "Kryptonite dust",
+      "Venom serum",
+      "Joker venom",
+      "Fear toxin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which villain is a hulking strategist who once famously broke Batman's back?",
+    "choices": [
+      "Bane",
+      "Ra's al Ghul",
+      "Black Adam",
+      "Solomon Grundy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is the name of Bane's strength-enhancing drug in many comics?",
+    "choices": [
+      "Mirakuru",
+      "Venom",
+      "Compound V",
+      "Fear toxin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which Superman villain is a bald technological genius?",
+    "choices": [
+      "Brainiac",
+      "General Zod",
+      "Lex Luthor",
+      "Metallo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is Lex Luthor's primary city of operations in many Superman stories?",
+    "choices": [
+      "Gotham City",
+      "Central City",
+      "Fawcett City",
+      "Metropolis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which hero can shrink to microscopic size as The Atom?",
+    "choices": [
+      "Ray Palmer",
+      "Ryan Choi",
+      "Arthur Curry",
+      "Ted Grant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What name is shared by the magic word that transforms Billy Batson into a champion?",
+    "choices": [
+      "Kazam",
+      "Shazam",
+      "Thunder",
+      "Mera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which fictional city is most associated with The Flash?",
+    "choices": [
+      "Metropolis",
+      "Gotham City",
+      "Central City",
+      "Hub City"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which group of immortal assassins is led by Ra's al Ghul?",
+    "choices": [
+      "The Secret Society of Super Villains",
+      "The Court of Owls",
+      "The Fearsome Five",
+      "The League of Assassins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What substance gives many versions of Green Lantern's ring its unusual weakness?",
+    "choices": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "White"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which DC hero is a master detective without innate superpowers?",
+    "choices": [
+      "Superman",
+      "Batman",
+      "Martian Manhunter",
+      "Doctor Fate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the name of Superman's cousin from Krypton?",
+    "choices": [
+      "Lois Lane",
+      "Lana Lang",
+      "Kara Zor-El",
+      "Lyla Michaels"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "In the 1978 film, who played Superman opposite Margot Kidder's Lois Lane?",
+    "choices": [
+      "Michael Keaton",
+      "Brandon Routh",
+      "Henry Cavill",
+      "Christopher Reeve"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which DC hero did Michael Keaton play in Tim Burton's 1989 film?",
+    "choices": [
+      "Batman",
+      "Batman Returns",
+      "Batman Forever",
+      "Batman Begins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which 2001 animated series follows a team led by Superman, Batman, and Wonder Woman?",
+    "choices": [
+      "Batman Beyond",
+      "Justice League",
+      "Young Justice",
+      "Superman: The Animated Series"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which actress portrayed Wonder Woman in the 2017 feature film?",
+    "choices": [
+      "Lynda Carter",
+      "Margot Robbie",
+      "Gal Gadot",
+      "Brie Larson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who created Batman with writer Bill Finger in the late 1930s?",
+    "choices": [
+      "Jack Kirby",
+      "Joe Shuster",
+      "Neal Adams",
+      "Bob Kane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which pair created Superman for Action Comics?",
+    "choices": [
+      "Jerry Siegel and Joe Shuster",
+      "Bob Kane and Bill Finger",
+      "Marv Wolfman and George Pérez",
+      "Alan Moore and Dave Gibbons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the name of the Justice League's orbital headquarters in many modern stories?",
+    "choices": [
+      "The Hall of Doom",
+      "The Watchtower",
+      "The Fortress of Solitude",
+      "The Oblivion Bar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which hero is known as the Martian Manhunter?",
+    "choices": [
+      "John Stewart",
+      "Jon Kent",
+      "J'onn J'onzz",
+      "Jace Fox"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which villain commands the planet Apokolips?",
+    "choices": [
+      "Brainiac",
+      "Mongul",
+      "Vandal Savage",
+      "Darkseid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What are Darkseid's signature eye beams usually called?",
+    "choices": [
+      "Omega Beams",
+      "Phantom Rays",
+      "Entropy Bolts",
+      "Source Lances"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which 1986 comic miniseries reimagined Superman's origin for a modern audience?",
+    "choices": [
+      "Kingdom Come",
+      "The Man of Steel",
+      "All-Star Superman",
+      "Superman: Red and Blue"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Who wrote and illustrated the 1986 Batman story The Dark Knight Returns?",
+    "choices": [
+      "Grant Morrison",
+      "Jeph Loeb",
+      "Frank Miller",
+      "Scott Snyder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In The Dark Knight Returns, what has Bruce Wayne done before returning as Batman?",
+    "choices": [
+      "Moved to Metropolis",
+      "Become police commissioner",
+      "Joined the Justice League full-time",
+      "Retired from crime-fighting"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which writer and artist created the acclaimed Batman: The Long Halloween?",
+    "choices": [
+      "Jeph Loeb and Tim Sale",
+      "Frank Miller and Klaus Janson",
+      "Alan Moore and Brian Bolland",
+      "Scott Snyder and Greg Capullo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Batman storyline introduces the mystery of a criminal called Hush?",
+    "choices": [
+      "Knightfall",
+      "Batman: Hush",
+      "No Man's Land",
+      "The Killing Joke"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who wrote the Batman story The Killing Joke, illustrated by Brian Bolland?",
+    "choices": [
+      "Neil Gaiman",
+      "Grant Morrison",
+      "Alan Moore",
+      "Mark Waid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which 1988 DC storyline asked readers to decide the fate of Jason Todd?",
+    "choices": [
+      "A Lonely Place of Dying",
+      "Under the Hood",
+      "Death of the Family",
+      "A Death in the Family"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Jason Todd later returned to Gotham under which vigilante identity?",
+    "choices": [
+      "Red Hood",
+      "Red Robin",
+      "Nightwing",
+      "Azrael"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which former Robin adopted the name Nightwing after leaving Batman's direct partnership?",
+    "choices": [
+      "Jason Todd",
+      "Dick Grayson",
+      "Tim Drake",
+      "Damian Wayne"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "In the main modern comics continuity, Damian Wayne is whose son?",
+    "choices": [
+      "Clark Kent and Lois Lane",
+      "Oliver Queen and Dinah Lance",
+      "Bruce Wayne and Talia al Ghul",
+      "Harvey Dent and Selina Kyle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Batman organization is secretly composed of wealthy Gotham elites in Scott Snyder's Court of Owls story?",
+    "choices": [
+      "The League of Assassins",
+      "The Black Glove",
+      "The False Face Society",
+      "The Court of Owls"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the name of the Court of Owls' masked assassins?",
+    "choices": [
+      "Talons",
+      "Man-Bats",
+      "Phantoms",
+      "Hushes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Superman storyline features a future in which Superman's ethics are challenged by an authoritarian government?",
+    "choices": [
+      "Red Son",
+      "Injustice: Gods Among Us",
+      "For All Seasons",
+      "Whatever Happened to the Man of Tomorrow?"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Superman: Red Son imagines Superman growing up under which political system?",
+    "choices": [
+      "The Roman Empire",
+      "Amazons of Themyscira",
+      "The Soviet Union",
+      "The United Nations"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which writer created the alternate-world Superman novel Superman: Red Son?",
+    "choices": [
+      "Brian Michael Bendis",
+      "Geoff Johns",
+      "Peter J. Tomasi",
+      "Mark Millar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In DC's Crisis on Infinite Earths, which villain threatens the multiverse with antimatter?",
+    "choices": [
+      "The Anti-Monitor",
+      "The Monitor",
+      "Parallax",
+      "The Time Trapper"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What major continuity event followed Crisis on Infinite Earths in its effort to consolidate DC's worlds?",
+    "choices": [
+      "The formation of the Vertigo imprint",
+      "A universe-wide reboot",
+      "The death of Superman",
+      "The creation of Earth-2"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which 1990s storyline centers on Superman's apparent death and replacement heroes?",
+    "choices": [
+      "Panic in the Sky",
+      "Our Worlds at War",
+      "The Death of Superman",
+      "The Trial of Superman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the name of the Kryptonian warrior who defeats Superman in The Death of Superman?",
+    "choices": [
+      "Mongul",
+      "General Zod",
+      "Mxyzptlk",
+      "Doomsday"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which Superman foe is a fifth-dimensional imp whose name is difficult to pronounce backward?",
+    "choices": [
+      "Mister Mxyzptlk",
+      "Bizarro",
+      "Toyman",
+      "Prankster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "In many Wonder Woman stories, what are her bracelets primarily used to do?",
+    "choices": [
+      "Create Green Lantern constructs",
+      "Deflect bullets and other attacks",
+      "Open portals to Krypton",
+      "Control the tides around Themyscira"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which creator conceived Wonder Woman and also developed a machine intended to measure blood pressure?",
+    "choices": [
+      "Gardner Fox",
+      "Carmine Infantino",
+      "William Moulton Marston",
+      "Julius Schwartz"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "In Wonder Woman mythology, who is typically her divine father in modern comic continuity?",
+    "choices": [
+      "Ares",
+      "Hades",
+      "Hermes",
+      "Zeus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Wonder Woman villain is a brilliant archaeologist named Barbara Minerva?",
+    "choices": [
+      "Cheetah",
+      "Circe",
+      "Doctor Psycho",
+      "Silver Swan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is the civilian identity of the Cheetah most commonly used in modern comics?",
+    "choices": [
+      "Barbara Gordon",
+      "Barbara Minerva",
+      "Selina Kyle",
+      "Pamela Isley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Green Lantern story features Hal Jordan becoming the villain Parallax after Coast City's destruction?",
+    "choices": [
+      "Blackest Night",
+      "Sinestro Corps War",
+      "Emerald Twilight",
+      "Green Lantern: Rebirth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is the name of the corps that uses yellow power rings in opposition to the Green Lantern Corps?",
+    "choices": [
+      "The Red Lantern Corps",
+      "The Indigo Tribe",
+      "The Controllers",
+      "The Sinestro Corps"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which event features the resurrection of many dead heroes through black power rings?",
+    "choices": [
+      "Blackest Night",
+      "Brightest Day",
+      "Infinite Crisis",
+      "Final Crisis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who is the Green Lantern of Earth commonly identified by the name John Stewart?",
+    "choices": [
+      "A Kryptonian scientist",
+      "A former Marine and architect",
+      "An Atlantean king",
+      "A Gotham police detective"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Teen Titans storyline reveals that Terra has betrayed the team?",
+    "choices": [
+      "The Terror of Trigon",
+      "Titans Hunt",
+      "The Judas Contract",
+      "The Future Is Now"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who wrote The Judas Contract, a landmark Teen Titans story?",
+    "choices": [
+      "Keith Giffen",
+      "Dennis O'Neil",
+      "Gail Simone",
+      "Marv Wolfman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the civilian identity of the Teen Titans' character Raven?",
+    "choices": [
+      "Rachel Roth",
+      "Koriand'r",
+      "Donna Troy",
+      "Karen Beecher"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which DC character is the daughter of the demon Trigon?",
+    "choices": [
+      "Zatanna",
+      "Raven",
+      "Rose Wilson",
+      "Cassie Sandsmark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In the comics, what is the real name of Starfire?",
+    "choices": [
+      "Komand'r",
+      "Rachel Roth",
+      "Koriand'r",
+      "Tara Markov"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Titan is also known as Garfield Logan?",
+    "choices": [
+      "Cyborg",
+      "Kid Flash",
+      "Aqualad",
+      "Beast Boy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the name of the sentient extra-dimensional space that houses many DC realities?",
+    "choices": [
+      "The Multiverse",
+      "The Phantom Zone",
+      "The Bleed",
+      "The Speed Force"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which dimension imprisons dangerous Kryptonians in Superman mythology?",
+    "choices": [
+      "The Bleed",
+      "The Phantom Zone",
+      "The Dreaming",
+      "The Source Wall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What energy field grants speedsters access to extraordinary motion in DC Comics?",
+    "choices": [
+      "The Emotional Spectrum",
+      "The Life Equation",
+      "The Speed Force",
+      "The Still Force only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which cosmic concept is famously sought by Darkseid as an equation controlling sentient life?",
+    "choices": [
+      "The Life Equation",
+      "The Omega Sanction",
+      "The Worlog",
+      "The Anti-Life Equation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who created the New Gods and Darkseid for DC Comics?",
+    "choices": [
+      "Jack Kirby",
+      "C.C. Beck",
+      "Will Eisner",
+      "John Byrne"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Kirby-created world is home to Darkseid?",
+    "choices": [
+      "New Genesis",
+      "Apokolips",
+      "Oa",
+      "Thanagar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is the name of the peaceful world ruled by Highfather in the Fourth World mythos?",
+    "choices": [
+      "Apokolips",
+      "Rann",
+      "New Genesis",
+      "Warworld"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which DC imprint originally published Neil Gaiman's The Sandman?",
+    "choices": [
+      "WildStorm",
+      "Milestone",
+      "Impact",
+      "Vertigo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "The central figure of Neil Gaiman's The Sandman is which Endless sibling?",
+    "choices": [
+      "Dream",
+      "Destiny",
+      "Destruction",
+      "Death"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which fictional bar is a recurring meeting place for supernatural characters in DC's Vertigo stories?",
+    "choices": [
+      "The Iceberg Lounge",
+      "The House of Mystery",
+      "The Oblivion Bar",
+      "The Daily Planet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the name of the DC cosmic barrier once associated with the edge of the known universe?",
+    "choices": [
+      "The Phantom Wall",
+      "The Crisis Rim",
+      "The Source Wall",
+      "The Omega Gate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which continuity label usually refers to the primary modern DC comics Earth after several rebrandings?",
+    "choices": [
+      "Earth-2",
+      "Earth-3",
+      "Earth-X",
+      "Earth-0"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  }
+]

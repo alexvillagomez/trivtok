@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "At what temperature does water freeze on the Celsius scale?",
+    "choices": [
+      "0°C",
+      "10°C",
+      "32°C",
+      "100°C"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which gas do humans need to breathe?",
+    "choices": [
+      "Nitrogen",
+      "Oxygen",
+      "Helium",
+      "Hydrogen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What force pulls objects toward Earth?",
+    "choices": [
+      "Friction",
+      "Magnetism",
+      "Gravity",
+      "Buoyancy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is the basic SI unit of length?",
+    "choices": [
+      "The liter",
+      "The gram",
+      "The second",
+      "The meter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which part of an atom contains its protons?",
+    "choices": [
+      "The nucleus",
+      "The electron shell",
+      "The orbit",
+      "The molecule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "At what temperature does water boil at sea level?",
+    "choices": [
+      "50°C",
+      "212°C",
+      "100°C",
+      "0°C"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What kind of energy does a moving object have?",
+    "choices": [
+      "Chemical energy",
+      "Nuclear energy",
+      "Sound energy",
+      "Kinetic energy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which travels faster through empty space?",
+    "choices": [
+      "Light",
+      "Sound",
+      "Wind",
+      "Water waves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which material commonly lets visible light pass through?",
+    "choices": [
+      "Steel",
+      "Glass",
+      "Brick",
+      "Clay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the change from solid to liquid called?",
+    "choices": [
+      "Freezing",
+      "Boiling",
+      "Melting",
+      "Condensation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the change from gas to liquid called?",
+    "choices": [
+      "Evaporation",
+      "Sublimation",
+      "Melting",
+      "Condensation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does Earth orbit?",
+    "choices": [
+      "The Sun",
+      "The Moon",
+      "Mars",
+      "The Milky Way"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Why does the Moon shine?",
+    "choices": [
+      "It makes its own sunlight",
+      "It reflects sunlight",
+      "It burns like a star",
+      "It reflects city lights"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What makes most rainbows visible?",
+    "choices": [
+      "Moonlight and dust",
+      "Fire and smoke",
+      "Sunlight and water droplets",
+      "Wind and ice"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which metal is strongly attracted to common magnets?",
+    "choices": [
+      "Gold",
+      "Copper",
+      "Aluminum",
+      "Iron"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What produces sound in most everyday cases?",
+    "choices": [
+      "Vibrations",
+      "Shadows",
+      "Electric charges",
+      "Reflections of light"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What pH value is neutral?",
+    "choices": [
+      "0",
+      "7",
+      "1",
+      "14"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is ordinary table salt usually called chemically?",
+    "choices": [
+      "Calcium carbonate",
+      "Potassium iodide",
+      "Sodium chloride",
+      "Magnesium sulfate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which gas do plants use during photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Helium",
+      "Neon",
+      "Carbon dioxide"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What molecule stores genetic information in most living things?",
+    "choices": [
+      "DNA",
+      "ATP",
+      "Water",
+      "Starch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which blood cells carry most oxygen?",
+    "choices": [
+      "White blood cells",
+      "Red blood cells",
+      "Platelets",
+      "Stem cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the largest organ of the human body?",
+    "choices": [
+      "Liver",
+      "Heart",
+      "Skin",
+      "Lung"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What gas do green plants release during photosynthesis?",
+    "choices": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Methane",
+      "Oxygen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is a bacterium?",
+    "choices": [
+      "A single-celled organism",
+      "A type of virus",
+      "A tiny mineral",
+      "A plant seed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which organisms are usually producers in a food chain?",
+    "choices": [
+      "Hawks",
+      "Plants",
+      "Mushrooms",
+      "Wolves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What are most ordinary clouds made of?",
+    "choices": [
+      "Smoke only",
+      "Liquid oil",
+      "Tiny water droplets or ice crystals",
+      "Dusty rocks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What kind of discharge is lightning?",
+    "choices": [
+      "A stream of hot water",
+      "A type of wind",
+      "A reflected rainbow",
+      "An electrical discharge"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is wind?",
+    "choices": [
+      "Moving air",
+      "Falling water",
+      "Moving soil",
+      "Rising sunlight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What mainly causes Earth’s seasons?",
+    "choices": [
+      "Earth’s distance from the Moon",
+      "Earth’s tilted axis",
+      "Ocean tides",
+      "The phases of Venus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which body has the strongest effect on Earth’s tides?",
+    "choices": [
+      "Mars",
+      "Jupiter",
+      "The Moon",
+      "The North Star"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which is a fossil fuel?",
+    "choices": [
+      "Sunlight",
+      "Wind",
+      "Tidal water",
+      "Coal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is steel mainly made from?",
+    "choices": [
+      "Iron and carbon",
+      "Copper and zinc",
+      "Aluminum and tin",
+      "Silver and nickel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which material is known for stretching and returning to shape?",
+    "choices": [
+      "Glass",
+      "Rubber",
+      "Concrete",
+      "Chalk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which metal is widely used in electrical wires?",
+    "choices": [
+      "Lead",
+      "Mercury",
+      "Copper",
+      "Titanium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Why does oil usually float on water?",
+    "choices": [
+      "Oil is colder than water",
+      "Oil is magnetic",
+      "Oil dissolves air",
+      "Oil is less dense than water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What do microwave ovens mainly use to heat food?",
+    "choices": [
+      "Microwave radiation",
+      "Ultraviolet light",
+      "Sound waves",
+      "X-rays"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does a refrigerator remove from its inside?",
+    "choices": [
+      "Oxygen",
+      "Heat",
+      "Gravity",
+      "Sound"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the fixed point around which a lever turns called?",
+    "choices": [
+      "The axle",
+      "The piston",
+      "The fulcrum",
+      "The pulley"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which simple machine uses a grooved wheel and a rope?",
+    "choices": [
+      "A wedge",
+      "A screw",
+      "An inclined plane",
+      "A pulley"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does a thermometer measure?",
+    "choices": [
+      "Temperature",
+      "Pressure",
+      "Mass",
+      "Brightness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a lens do to light?",
+    "choices": [
+      "It turns it into sound",
+      "It bends or focuses it",
+      "It removes its color",
+      "It stops all motion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What creates a shadow?",
+    "choices": [
+      "Sound reflecting from a wall",
+      "Water changing state",
+      "An object blocking light",
+      "Air becoming still"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is an echo?",
+    "choices": [
+      "Stored heat",
+      "Refracted color",
+      "Moving air",
+      "Reflected sound"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is evaporation?",
+    "choices": [
+      "Liquid changing into gas",
+      "Gas changing into solid",
+      "Solid changing into liquid",
+      "Liquid changing into solid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is the main source of solar energy?",
+    "choices": [
+      "The Moon",
+      "The Sun",
+      "Earth’s core",
+      "Ocean tides"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which is a renewable energy source?",
+    "choices": [
+      "Coal",
+      "Oil",
+      "Wind",
+      "Natural gas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which gas makes up most of Earth’s atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Argon",
+      "Nitrogen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is Earth’s outer solid layer called?",
+    "choices": [
+      "The crust",
+      "The mantle",
+      "The outer core",
+      "The inner core"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is the chemical formula for water?",
+    "choices": [
+      "CO₂",
+      "H₂O",
+      "O₂",
+      "NaCl"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is the SI unit of force?",
+    "choices": [
+      "The joule",
+      "The watt",
+      "The newton",
+      "The pascal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does acceleration measure?",
+    "choices": [
+      "Amount of matter",
+      "Stored heat",
+      "Electrical resistance",
+      "Change in velocity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What determines an element’s atomic number?",
+    "choices": [
+      "Its number of protons",
+      "Its number of neutrons",
+      "Its number of molecules",
+      "Its number of shells only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How do isotopes of one element differ?",
+    "choices": [
+      "They have different numbers of protons",
+      "They have different numbers of neutrons",
+      "They are different elements",
+      "They have no electrons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What do atoms share in a covalent bond?",
+    "choices": [
+      "Protons",
+      "Neutrons",
+      "Electrons",
+      "Nuclei"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What happens in a typical ionic bond?",
+    "choices": [
+      "Nuclei merge completely",
+      "Neutrons become photons",
+      "Atoms share identical nuclei",
+      "Electrons transfer between atoms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a catalyst usually do in a reaction?",
+    "choices": [
+      "It lowers activation energy",
+      "It becomes the main product",
+      "It raises the temperature permanently",
+      "It adds new atoms to every reactant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does an exothermic reaction release?",
+    "choices": [
+      "Electrons only",
+      "Heat",
+      "Sound only",
+      "Water only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does an endothermic process absorb?",
+    "choices": [
+      "Only oxygen",
+      "Only visible light",
+      "Energy from its surroundings",
+      "Mass from the air"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does the pH scale measure?",
+    "choices": [
+      "Mass and volume",
+      "Brightness and color",
+      "Speed and distance",
+      "Acidity and basicity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does Avogadro’s number count?",
+    "choices": [
+      "Particles in one mole",
+      "Meters in one kilometer",
+      "Seconds in one day",
+      "Atoms in one gram of every element"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which group contains the halogens?",
+    "choices": [
+      "Group 1",
+      "Group 17",
+      "Group 2",
+      "Group 18"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which group contains the noble gases?",
+    "choices": [
+      "Group 17",
+      "Group 1",
+      "Group 18",
+      "Group 14"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which is an allotrope of carbon?",
+    "choices": [
+      "Quartz",
+      "Glass",
+      "Limestone",
+      "Diamond"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which element helps make stainless steel corrosion-resistant?",
+    "choices": [
+      "Chromium",
+      "Helium",
+      "Sodium",
+      "Silicon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which material is commonly used as a semiconductor?",
+    "choices": [
+      "Rubber",
+      "Silicon",
+      "Wood",
+      "Porcelain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What happens to electrical resistance in a superconductor below its critical temperature?",
+    "choices": [
+      "It doubles",
+      "It becomes infinite",
+      "It drops to zero",
+      "It changes into mass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What changes when light enters glass from air?",
+    "choices": [
+      "Its rest mass",
+      "Its electric charge",
+      "Its source",
+      "Its speed and direction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is total internal reflection used in?",
+    "choices": [
+      "Optical fibers",
+      "Steam engines",
+      "Barometers",
+      "Magnetic compasses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does the Doppler effect change for a moving sound source?",
+    "choices": [
+      "The source’s mass",
+      "The observed frequency",
+      "The speed of light",
+      "The air’s chemical formula"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is resonance?",
+    "choices": [
+      "A permanent loss of energy",
+      "A change from solid to gas",
+      "A strong response at a natural frequency",
+      "A type of chemical bond"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the relation between wavelength and frequency for a wave in a fixed medium?",
+    "choices": [
+      "They are always equal",
+      "They are both measures of mass",
+      "They never change together",
+      "They are inversely related"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does entropy describe in thermodynamics?",
+    "choices": [
+      "Energy dispersal or disorder",
+      "The speed of a falling object",
+      "The color of a flame",
+      "The charge of a proton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is absolute zero on the Celsius scale?",
+    "choices": [
+      "0°C",
+      "About −273.15°C",
+      "−100°C",
+      "273.15°C"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which gas absorbs ultraviolet radiation in the stratosphere?",
+    "choices": [
+      "Nitrogen",
+      "Helium",
+      "Ozone",
+      "Hydrogen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is the Coriolis effect caused by?",
+    "choices": [
+      "The Moon’s phases",
+      "Solar eclipses",
+      "Ocean salinity",
+      "Earth’s rotation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is El Niño mainly associated with?",
+    "choices": [
+      "Unusual warming in the tropical Pacific",
+      "Cooling of the Arctic every winter",
+      "A daily land breeze",
+      "A change in Earth’s orbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does the dew point indicate?",
+    "choices": [
+      "The hottest point of a storm",
+      "The temperature at which air becomes saturated",
+      "The freezing point of salt water",
+      "The height of a cloud"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is latent heat used for during a phase change?",
+    "choices": [
+      "Changing mass into light",
+      "Increasing gravity",
+      "Changing state without changing temperature",
+      "Creating a new element"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "How does convection transfer heat?",
+    "choices": [
+      "By direct contact only",
+      "By chemical bonds only",
+      "By empty space only",
+      "By moving fluids"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "How does conduction transfer heat?",
+    "choices": [
+      "Through direct contact",
+      "Through planetary orbits",
+      "Through sound recording",
+      "Through photosynthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a blackbody in physics?",
+    "choices": [
+      "A star with no gravity",
+      "An ideal absorber and emitter of radiation",
+      "A metal that reflects all light",
+      "A body made only of carbon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which layer of Earth is broken into tectonic plates?",
+    "choices": [
+      "The outer core",
+      "The inner core",
+      "The lithosphere",
+      "The lower atmosphere"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which organelle carries out most photosynthesis in plant cells?",
+    "choices": [
+      "The ribosome",
+      "The nucleus",
+      "The lysosome",
+      "The chloroplast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which organelle makes most ATP in a typical animal cell?",
+    "choices": [
+      "The mitochondrion",
+      "The vacuole",
+      "The cell wall",
+      "The Golgi vesicle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What do ribosomes build?",
+    "choices": [
+      "Lipids only",
+      "Proteins",
+      "Chromosomes only",
+      "Cell walls only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does meiosis produce?",
+    "choices": [
+      "Two identical body cells only",
+      "New bacterial species",
+      "Cells with half the usual chromosome number",
+      "Extra organs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a dominant allele usually mean?",
+    "choices": [
+      "It is always more common",
+      "It is found only in males",
+      "It cannot mutate",
+      "Its trait can appear with one copy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does natural selection favor?",
+    "choices": [
+      "Traits linked to greater reproductive success",
+      "The largest organism in every population",
+      "Only newly invented traits",
+      "Traits chosen consciously by individuals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is nitrogen fixation?",
+    "choices": [
+      "Turning oxygen into ozone",
+      "Converting atmospheric nitrogen into usable compounds",
+      "Breaking water into hydrogen",
+      "Making nitrogen radioactive"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a mycorrhiza?",
+    "choices": [
+      "A type of bacterial virus",
+      "A mineral in volcanic rock",
+      "A partnership between fungi and plant roots",
+      "A layer of ocean water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a food web?",
+    "choices": [
+      "A web made by a spider",
+      "A list of cooking ingredients",
+      "A map of ocean currents",
+      "A network of connected food chains"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does PCR do in a laboratory?",
+    "choices": [
+      "It amplifies selected DNA sequences",
+      "It turns proteins into sugars",
+      "It measures air pressure",
+      "It creates fossils"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is CRISPR mainly used for in biology?",
+    "choices": [
+      "Measuring earthquake strength",
+      "Editing targeted genetic sequences",
+      "Separating crude oil",
+      "Dating ancient rocks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does messenger RNA carry?",
+    "choices": [
+      "Oxygen from lungs to cells",
+      "Signals from stars to planets",
+      "Instructions from DNA to a ribosome",
+      "Fat from food to bones"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is carbon-14 useful for dating?",
+    "choices": [
+      "Young volcanic lava only",
+      "Iron tools without carbon",
+      "The age of the Earth itself",
+      "Relatively recent organic remains"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What kind of substance has a pH below 7?",
+    "choices": [
+      "An acid",
+      "A base",
+      "A neutral salt only",
+      "A metal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What kind of rock forms from heat and pressure?",
+    "choices": [
+      "Igneous rock",
+      "Metamorphic rock",
+      "Sedimentary rock",
+      "Pumice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which SI unit measures electric current?",
+    "choices": [
+      "The volt",
+      "The ohm",
+      "The ampere",
+      "The watt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which instrument measures air pressure?",
+    "choices": [
+      "A thermometer",
+      "A hygrometer",
+      "An anemometer",
+      "A barometer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

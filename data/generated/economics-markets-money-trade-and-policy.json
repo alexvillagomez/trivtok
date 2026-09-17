@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "When price rises, what usually happens to quantity demanded?",
+    "choices": [
+      "It decreases",
+      "It increases",
+      "It stays fixed",
+      "It becomes unlimited"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is a market equilibrium price?",
+    "choices": [
+      "Price with excess supply",
+      "Price with matched quantities",
+      "Price set by tax law",
+      "Price below production cost"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which item is commonly used as money?",
+    "choices": [
+      "A grocery receipt",
+      "A national currency",
+      "A theater ticket",
+      "A shipping label"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What does a bank deposit represent for the customer?",
+    "choices": [
+      "A government fine",
+      "A claim on the bank",
+      "A factory machine",
+      "A trade tariff"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Inflation means a sustained rise in what?",
+    "choices": [
+      "Average price levels",
+      "Worker productivity",
+      "Export quantities",
+      "Currency reserves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "GDP measures the value of what?",
+    "choices": [
+      "All household wealth",
+      "Final goods produced domestically",
+      "Only imported services",
+      "Government debt issued"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "A tariff is a tax on what?",
+    "choices": [
+      "Domestic wages",
+      "Imported goods",
+      "Bank deposits",
+      "Corporate dividends"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is unemployment?",
+    "choices": [
+      "Retirement from work",
+      "People seeking work without jobs",
+      "Students attending school",
+      "Workers changing employers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which institution commonly sets a nation's short-term interest rate?",
+    "choices": [
+      "The central bank",
+      "The stock exchange",
+      "The census bureau",
+      "The customs office"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "A budget surplus occurs when government revenue is what?",
+    "choices": [
+      "Below spending",
+      "Equal to spending",
+      "Above spending",
+      "Unrelated to spending"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Perfect competition features many sellers offering what?",
+    "choices": [
+      "Unique protected brands",
+      "Identical products",
+      "Government licenses",
+      "Single exclusive products"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is an economic recession generally?",
+    "choices": [
+      "A currency redesign",
+      "A broad activity decline",
+      "A trade agreement",
+      "A wage negotiation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Opportunity cost is the value of what?",
+    "choices": [
+      "The next best alternative forgone",
+      "A product's advertised price",
+      "A firm's accounting profit",
+      "A government transfer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does liquidity describe?",
+    "choices": [
+      "Asset ownership concentration",
+      "Ease of converting an asset to cash",
+      "Size of a firm's workforce",
+      "Length of a loan contract"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Exports are goods and services sold to whom?",
+    "choices": [
+      "Local retailers",
+      "Foreign buyers",
+      "Domestic regulators",
+      "Household employees"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A loan's principal is what?",
+    "choices": [
+      "Its interest percentage",
+      "Its original amount borrowed",
+      "Its repayment schedule",
+      "Its collateral value"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does a progressive tax rate do as income rises?",
+    "choices": [
+      "Takes a larger percentage",
+      "Takes a smaller percentage",
+      "Keeps the percentage fixed",
+      "Removes every deduction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Productivity is output produced per what?",
+    "choices": [
+      "Unit of input",
+      "Unit of currency",
+      "Unit of debt",
+      "Unit of inventory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A monopoly has how many dominant sellers?",
+    "choices": [
+      "Several equal sellers",
+      "Two competing sellers",
+      "One dominant seller",
+      "No commercial sellers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a trade surplus?",
+    "choices": [
+      "Imports exceed exports",
+      "Exports exceed imports",
+      "Taxes exceed spending",
+      "Savings exceed investment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What backs a fiat currency?",
+    "choices": [
+      "Government authority and public acceptance",
+      "A fixed gold shipment",
+      "A private warehouse receipt",
+      "A commodity futures contract"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Commercial banks mainly earn revenue from what?",
+    "choices": [
+      "Selling passports",
+      "Charging interest on loans",
+      "Printing legal tender",
+      "Collecting customs duties"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "The consumer price index tracks prices paid by whom?",
+    "choices": [
+      "Exporting manufacturers",
+      "Typical consumers",
+      "Central banks",
+      "Foreign governments"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Demand is called elastic when quantity responds how to price?",
+    "choices": [
+      "Less than proportionally",
+      "Exactly proportionally",
+      "Without changing",
+      "More than proportionally"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "A price ceiling set below equilibrium usually creates what?",
+    "choices": [
+      "A shortage",
+      "A surplus",
+      "Higher equilibrium supply",
+      "No market effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "A price floor set above equilibrium usually creates what?",
+    "choices": [
+      "A shortage",
+      "A surplus",
+      "Lower producer revenue",
+      "Fewer willing sellers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which change shifts demand for a normal good rightward?",
+    "choices": [
+      "Lower consumer income",
+      "Higher consumer income",
+      "Higher production costs",
+      "Fewer available substitutes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which change shifts supply rightward?",
+    "choices": [
+      "Higher input prices",
+      "More costly regulation",
+      "Improved production technology",
+      "Fewer participating firms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Real GDP differs from nominal GDP because real GDP adjusts for what?",
+    "choices": [
+      "Price changes",
+      "Population age",
+      "Trade volume",
+      "Tax collections"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which account records a country's exports and imports?",
+    "choices": [
+      "Capital account",
+      "Current account",
+      "Reserve account",
+      "Production account"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Comparative advantage is based on lower what?",
+    "choices": [
+      "Market share",
+      "Opportunity cost",
+      "Wage level",
+      "Tax burden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "An import quota limits what?",
+    "choices": [
+      "Export prices",
+      "Domestic wages",
+      "Foreign investment",
+      "Quantity imported"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A central bank buying government bonds tends to do what?",
+    "choices": [
+      "Increase money supply",
+      "Reduce bank reserves",
+      "Raise import tariffs",
+      "Lower tax revenue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A higher reserve requirement generally leaves banks with what?",
+    "choices": [
+      "More lending capacity",
+      "Less lending capacity",
+      "More export demand",
+      "Less currency circulation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Fiscal stimulus most directly involves higher spending or what?",
+    "choices": [
+      "Higher reserve ratios",
+      "Lower taxes",
+      "Tighter credit standards",
+      "Reduced money supply"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "An automatic stabilizer is a policy that changes with what?",
+    "choices": [
+      "Central-bank elections",
+      "Business cycles",
+      "Exchange-rate pegs",
+      "Tariff negotiations"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A bond's coupon is its stated what?",
+    "choices": [
+      "Interest payment",
+      "Market maturity",
+      "Default probability",
+      "Trading commission"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "When a currency depreciates, its exports usually become what abroad?",
+    "choices": [
+      "More expensive",
+      "Less expensive",
+      "Unchanged in price",
+      "Unavailable to buyers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The natural rate of unemployment excludes which category?",
+    "choices": [
+      "Frictional unemployment",
+      "Cyclical unemployment",
+      "Structural unemployment",
+      "Seasonal unemployment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "A firm reaches profit maximization where marginal revenue equals what?",
+    "choices": [
+      "Average fixed cost",
+      "Total revenue",
+      "Average revenue",
+      "Marginal cost"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Oligopoly is a market dominated by what?",
+    "choices": [
+      "A few interdependent firms",
+      "Many tiny price takers",
+      "One public agency",
+      "No differentiated sellers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A negative externality imposes costs on whom?",
+    "choices": [
+      "Only the producer",
+      "Uninvolved third parties",
+      "Only the purchaser",
+      "The tax authority"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A public good is typically non-rival and what?",
+    "choices": [
+      "Privately patented",
+      "Nonexcludable",
+      "Sold by auction",
+      "Produced by monopolies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The Gini coefficient primarily measures what?",
+    "choices": [
+      "Inflation volatility",
+      "Trade openness",
+      "Output growth",
+      "Income inequality"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Purchasing power parity compares currencies using what?",
+    "choices": [
+      "Relative price levels",
+      "Relative tax rates",
+      "Relative bond maturities",
+      "Relative reserve ratios"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A current-account deficit must be financed by a net inflow in what broad category?",
+    "choices": [
+      "Domestic consumption",
+      "Financial capital",
+      "Labor participation",
+      "Tax receipts"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The Phillips curve traditionally relates inflation to what?",
+    "choices": [
+      "Trade balances",
+      "Unemployment",
+      "Money denominations",
+      "Capital depreciation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A liquidity trap makes monetary policy less effective because rates are near what?",
+    "choices": [
+      "Their historical average",
+      "The tariff ceiling",
+      "The exchange-rate target",
+      "The zero lower bound"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In a closed economy, national saving equals what?",
+    "choices": [
+      "Investment",
+      "Imports",
+      "Tax revenue",
+      "Consumption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Human capital refers to workers' skills and what?",
+    "choices": [
+      "Physical machinery",
+      "Knowledge",
+      "Currency holdings",
+      "Land titles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Menu costs help explain why some prices are what?",
+    "choices": [
+      "Perfectly flexible",
+      "Sticky",
+      "Legally fixed",
+      "Always declining"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A Pigouvian tax is designed to address what?",
+    "choices": [
+      "Public debt",
+      "Trade quotas",
+      "Income mobility",
+      "Negative externalities"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The quantity theory links money, velocity, prices, and what?",
+    "choices": [
+      "Real output",
+      "Tax brackets",
+      "Tariff rates",
+      "Labor unions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A bank run occurs when many depositors try to do what?",
+    "choices": [
+      "Buy shares",
+      "Withdraw funds",
+      "Increase collateral",
+      "Extend maturities"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which measure excludes discouraged workers from its headline count?",
+    "choices": [
+      "Employment-population ratio",
+      "Labor force participation rate",
+      "U-3 unemployment rate",
+      "Real wage index"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The repo rate is the rate for what type of transaction?",
+    "choices": [
+      "Long-term equity issue",
+      "Retail currency exchange",
+      "Tax refund transfer",
+      "Short-term repurchase agreement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Sterilized foreign-exchange intervention offsets its monetary effect through what?",
+    "choices": [
+      "Open-market operations",
+      "Higher export subsidies",
+      "Wage controls",
+      "Capital gains taxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "A Taylor rule typically responds to inflation and what gap?",
+    "choices": [
+      "Trade gap",
+      "Output gap",
+      "Savings gap",
+      "Tariff gap"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The Lucas critique warns that historical policy relationships may change when what changes?",
+    "choices": [
+      "Weather patterns",
+      "Policy rules",
+      "Population counts",
+      "Commodity grades"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The monetary base consists mainly of currency and what?",
+    "choices": [
+      "Corporate profits",
+      "Household savings",
+      "Trade credits",
+      "Bank reserves"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A bank's net interest margin compares lending income with what?",
+    "choices": [
+      "Funding interest expense",
+      "Stock-market volume",
+      "Taxable payroll",
+      "Export receipts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Beveridge curve plots vacancies against what?",
+    "choices": [
+      "Inflation",
+      "Unemployment",
+      "Exchange rates",
+      "Productivity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Ricardian equivalence predicts debt-financed tax cuts may leave consumption unchanged if households expect what?",
+    "choices": [
+      "Lower future wages",
+      "Future tax increases",
+      "Permanent price controls",
+      "Falling interest rates"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The Harrod-Balassa-Samuelson effect links richer countries' higher price levels to greater what?",
+    "choices": [
+      "Tariff protection",
+      "Unemployment insurance",
+      "Money demand",
+      "Tradable-sector productivity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A Tobin tax is levied on what activity?",
+    "choices": [
+      "Financial transactions",
+      "Household purchases",
+      "Imported food",
+      "Payroll earnings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The J-curve describes a trade balance that initially worsens after what?",
+    "choices": [
+      "A tax cut",
+      "Currency depreciation",
+      "A quota removal",
+      "A wage increase"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A terms-of-trade improvement means export prices rise relative to what?",
+    "choices": [
+      "Domestic wages",
+      "Asset prices",
+      "Import prices",
+      "Tax rates"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The Solow residual is commonly interpreted as growth in what?",
+    "choices": [
+      "Labor supply",
+      "Capital intensity",
+      "Government spending",
+      "Total factor productivity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The Diamond-Dybvig model explains bank runs through maturity transformation and what?",
+    "choices": [
+      "Strategic depositor coordination",
+      "Tariff competition",
+      "Flexible exchange rates",
+      "Progressive taxation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A Kaldor-Hicks improvement permits winners to compensate whom?",
+    "choices": [
+      "Only foreign firms",
+      "Losers",
+      "Central bankers",
+      "Tax collectors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "The Coase theorem requires low transaction costs and clearly assigned what?",
+    "choices": [
+      "Inflation targets",
+      "Property rights",
+      "Exchange controls",
+      "Budget rules"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In mechanism design, incentive compatibility means agents prefer what action under the rules?",
+    "choices": [
+      "The costliest action",
+      "The legally required action",
+      "The randomly assigned action",
+      "The action matching their incentives"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The Mundell-Fleming trilemma says a country cannot simultaneously maintain a fixed exchange rate, free capital flows, and what?",
+    "choices": [
+      "Independent monetary policy",
+      "Balanced trade",
+      "Low unemployment",
+      "Flexible wages"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "The impossible trinity is another name for which policy constraint?",
+    "choices": [
+      "Fiscal dominance",
+      "Mundell-Fleming trilemma",
+      "Phillips relationship",
+      "Tinbergen rule"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "A currency board commits to exchange domestic currency for a reserve currency at what kind of rate?",
+    "choices": [
+      "Floating market rate",
+      "Discretionary annual rate",
+      "Fixed rate",
+      "Secret negotiated rate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "The Fisher effect predicts nominal interest rates rise roughly with expected inflation plus what?",
+    "choices": [
+      "The trade deficit",
+      "The real interest rate",
+      "The tax wedge",
+      "The vacancy rate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "The Euler equation in consumption models links consumption growth to the real interest rate and what preference?",
+    "choices": [
+      "Time preference",
+      "Trade preference",
+      "Risk-free accounting",
+      "Tax preference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "A Ricardian consumer smooths consumption by responding primarily to permanent income and what?",
+    "choices": [
+      "Temporary price shocks",
+      "Expected lifetime resources",
+      "Current tariff schedules",
+      "Quarterly money growth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Diamond overlapping-generations model can generate dynamic inefficiency when the economy has excessive what?",
+    "choices": [
+      "Labor turnover",
+      "Money velocity",
+      "Capital accumulation",
+      "Export specialization"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Hurst exponent in financial time series is used to assess what?",
+    "choices": [
+      "Tax progressivity",
+      "Market concentration",
+      "Inflation expectations",
+      "Long-memory dependence"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Barro-Gordon framework highlights time inconsistency in disinflation under what expectations?",
+    "choices": [
+      "Rational expectations",
+      "Static trade expectations",
+      "Backward inventory expectations",
+      "Fixed wage expectations"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "The Lucas supply function implies unexpected inflation can affect output through mistaken what?",
+    "choices": [
+      "Tax payments",
+      "Relative-price signals",
+      "Import quotas",
+      "Capital requirements"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "A Ramsey planner's optimal tax problem balances distortion costs against what financing need?",
+    "choices": [
+      "Export promotion",
+      "Public revenue",
+      "Private monopoly",
+      "Foreign reserves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "The Atkinson index measures inequality while incorporating a chosen level of what?",
+    "choices": [
+      "Exchange-rate flexibility",
+      "Risk aversion",
+      "Tariff protection",
+      "Money neutrality"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "A factor-price-equalization theorem predicts free trade can narrow wage differences when technologies and what are shared?",
+    "choices": [
+      "Goods prices",
+      "Tax bases",
+      "Currency pegs",
+      "Budget balances"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "The Stolper-Samuelson theorem predicts a rise in a good's relative price raises the real return to its intensive what?",
+    "choices": [
+      "Consumer group",
+      "Factor of production",
+      "Trade corridor",
+      "Tax instrument"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "The Rybczynski theorem concerns output changes after an economy receives more of what?",
+    "choices": [
+      "Consumer credit",
+      "Imported demand",
+      "A productive factor",
+      "Government debt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "The Lerner symmetry theorem states an import tariff has effects similar to what?",
+    "choices": [
+      "A wage subsidy",
+      "An export tax",
+      "A capital grant",
+      "A consumption voucher"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "The Melitz model explains trade-driven productivity selection among what?",
+    "choices": [
+      "Heterogeneous firms",
+      "Identical households",
+      "Central banks",
+      "Fixed exchange rates"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "The Grossman-Stiglitz paradox challenges perfectly informative prices because information is what?",
+    "choices": [
+      "Legally restricted",
+      "Costly to acquire",
+      "Always public",
+      "Independent of prices"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "The Diamond search model explains unemployment through costly matching between firms and what?",
+    "choices": [
+      "Tax agencies",
+      "Exporters",
+      "Workers",
+      "Bond dealers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "The Shapiro-Stiglitz model sustains efficiency wages through the threat of what?",
+    "choices": [
+      "Currency depreciation",
+      "Tariff retaliation",
+      "Automatic promotion",
+      "Job loss"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "The Modigliani-Miller proposition requires frictionless markets and no what?",
+    "choices": [
+      "Taxes",
+      "Product differentiation",
+      "Consumer demand",
+      "Labor mobility"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "The Black-Scholes framework prices options using volatility, time, and what underlying input?",
+    "choices": [
+      "Tax revenue",
+      "Asset price",
+      "Trade balance",
+      "Wage index"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "The CAPM beta measures an asset's sensitivity to what risk?",
+    "choices": [
+      "Default risk",
+      "Liquidity risk",
+      "Systematic market risk",
+      "Operational risk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "The efficient-market hypothesis says prices rapidly incorporate available what?",
+    "choices": [
+      "Tax exemptions",
+      "Production quotas",
+      "Private preferences",
+      "Information"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "A Lorenz curve compares cumulative income with cumulative what?",
+    "choices": [
+      "Population share",
+      "Trade volume",
+      "Capital stock",
+      "Price growth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "The Keynesian multiplier is larger when the marginal propensity to consume is what?",
+    "choices": [
+      "Lower",
+      "Higher",
+      "Constant",
+      "Negative"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Seigniorage is revenue obtained by issuing what?",
+    "choices": [
+      "Corporate bonds",
+      "Import licenses",
+      "Currency",
+      "Wage contracts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "The monetary transmission mechanism describes how policy rates affect spending and what?",
+    "choices": [
+      "Tariff schedules",
+      "Population growth",
+      "Trade law",
+      "Inflation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What unit measures electric current?",
+    "choices": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which device converts chemical energy into electrical energy?",
+    "choices": [
+      "Battery",
+      "Transformer",
+      "Turbine",
+      "Insulator"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is the common household frequency of AC power in the United States?",
+    "choices": [
+      "50 Hz",
+      "60 Hz",
+      "75 Hz",
+      "100 Hz"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which material is a good electrical conductor?",
+    "choices": [
+      "Rubber",
+      "Glass",
+      "Copper",
+      "Ceramic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a fuse primarily protect against?",
+    "choices": [
+      "Excess current",
+      "Low voltage",
+      "High frequency",
+      "Weak magnets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which fossil fuel is typically a solid?",
+    "choices": [
+      "Natural gas",
+      "Coal",
+      "Gasoline",
+      "Diesel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Solar photovoltaic cells directly produce electricity from what?",
+    "choices": [
+      "Wind",
+      "Sunlight",
+      "Rainfall",
+      "Biomass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A wind turbine extracts energy mainly from moving what?",
+    "choices": [
+      "Water",
+      "Steam",
+      "Fuel",
+      "Air"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which generator component rotates in a typical alternator?",
+    "choices": [
+      "Rotor",
+      "Stator",
+      "Frame",
+      "Brush"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What voltage does a transformer change?",
+    "choices": [
+      "DC polarity",
+      "AC level",
+      "Wire color",
+      "Current direction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Hydroelectric plants use the motion of what?",
+    "choices": [
+      "Coal",
+      "Sunlight",
+      "Water",
+      "Natural gas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which resource is renewable?",
+    "choices": [
+      "Oil",
+      "Coal",
+      "Uranium",
+      "Geothermal heat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does a watt measure?",
+    "choices": [
+      "Power",
+      "Charge",
+      "Resistance",
+      "Frequency"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "The electrical grid primarily connects generators to what?",
+    "choices": [
+      "Mines",
+      "Consumers",
+      "Refineries",
+      "Weather stations"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the purpose of a circuit breaker?",
+    "choices": [
+      "Store energy",
+      "Interrupt fault current",
+      "Raise fuel quality",
+      "Cool transformers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which fuel is refined from crude oil for many vehicles?",
+    "choices": [
+      "Biogas",
+      "Hydrogen",
+      "Gasoline",
+      "Wood"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What energy conversion occurs in a steam turbine?",
+    "choices": [
+      "Steam to rotation",
+      "Light to heat",
+      "Chemical to sound",
+      "Charge to pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which battery chemistry is common in electric vehicles?",
+    "choices": [
+      "Lead-carbon",
+      "Lithium-ion",
+      "Nickel-iron",
+      "Zinc-air only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Transmission lines use high voltage mainly to reduce what?",
+    "choices": [
+      "Frequency",
+      "Power factor",
+      "Resistive losses",
+      "Generator speed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is biomass energy derived from?",
+    "choices": [
+      "Tides",
+      "Organic matter",
+      "Uranium ore",
+      "Silica"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which plant uses nuclear fission to produce heat?",
+    "choices": [
+      "Nuclear plant",
+      "Solar farm",
+      "Wind farm",
+      "Tidal station"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Demand response changes electricity use in reaction to what?",
+    "choices": [
+      "Rainfall",
+      "Grid conditions",
+      "Fuel color",
+      "Cloud height"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What does an inverter commonly convert?",
+    "choices": [
+      "AC to heat",
+      "DC to AC",
+      "Fuel to steam",
+      "Motion to fuel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which gas is commonly burned in a combined-cycle plant?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Helium",
+      "Natural gas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "A capacitor stores energy in an electric what?",
+    "choices": [
+      "Field",
+      "Current",
+      "Rotor",
+      "Flame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does power factor compare in AC systems?",
+    "choices": [
+      "Voltage and mass",
+      "Real and apparent power",
+      "Fuel and ash",
+      "Heat and light"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which technology stores electricity by pumping water uphill?",
+    "choices": [
+      "Flywheel",
+      "Pumped hydro",
+      "Fuel cell",
+      "Thermal oil"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the main product of hydrogen fuel-cell operation?",
+    "choices": [
+      "Carbon dioxide",
+      "Sulfur",
+      "Water",
+      "Ash"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Who demonstrated practical incandescent electric lighting?",
+    "choices": [
+      "Thomas Edison",
+      "James Watt",
+      "Nikolaus Otto",
+      "Michael Faraday"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does a synchronous generator maintain relative to grid frequency?",
+    "choices": [
+      "Fuel ratio",
+      "Rotor speed",
+      "Boiler pressure",
+      "Cable length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which grid service rapidly balances supply and demand?",
+    "choices": [
+      "Black start",
+      "Frequency regulation",
+      "Fuel blending",
+      "Line painting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A per-unit system normalizes electrical quantities against what?",
+    "choices": [
+      "Ambient temperature",
+      "Base values",
+      "Fuel reserves",
+      "Customer counts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is spinning reserve?",
+    "choices": [
+      "Online unused capacity",
+      "Stored coal",
+      "Idle transmission wire",
+      "Extra battery voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which fault involves a connection between a phase and ground?",
+    "choices": [
+      "Open circuit",
+      "Line-to-ground fault",
+      "Balanced load",
+      "Islanded load"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What protects a transmission line by comparing currents at its ends?",
+    "choices": [
+      "Thermostat",
+      "Differential relay",
+      "Fuel valve",
+      "Surge tank"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Black start capability allows a plant to do what?",
+    "choices": [
+      "Burn black fuel",
+      "Restart without grid power",
+      "Lower emissions instantly",
+      "Synchronize without voltage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which renewable resource is driven by gravitational ocean cycles?",
+    "choices": [
+      "Tidal energy",
+      "Solar energy",
+      "Biomass",
+      "Geothermal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does an electrolyzer use electricity to produce?",
+    "choices": [
+      "Coal",
+      "Hydrogen",
+      "Diesel",
+      "Uranium"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "In a microgrid, islanding means operating apart from what?",
+    "choices": [
+      "A battery",
+      "The utility grid",
+      "A generator rotor",
+      "A fuel tank"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which metric measures annual energy output relative to maximum possible output?",
+    "choices": [
+      "Voltage class",
+      "Capacity factor",
+      "Short-circuit ratio",
+      "Heat rate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a major cause of voltage drop on a distribution feeder?",
+    "choices": [
+      "Impedance under load",
+      "Cloud cover",
+      "Fuel sulfur",
+      "Rotor paint"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which device changes AC voltage while normally preserving frequency?",
+    "choices": [
+      "Rectifier",
+      "Transformer",
+      "Inverter",
+      "Governor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does a governor regulate on a turbine-generator?",
+    "choices": [
+      "Voltage insulation",
+      "Mechanical input",
+      "Line impedance",
+      "Battery chemistry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The N-1 reliability criterion requires the system to withstand what?",
+    "choices": [
+      "One fuel shortage",
+      "One contingency",
+      "One weather year",
+      "One tariff change"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is reactive power primarily associated with?",
+    "choices": [
+      "Electric and magnetic fields",
+      "Fuel combustion",
+      "Water elevation",
+      "Battery mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which method estimates bus voltages and power flows?",
+    "choices": [
+      "Economic dispatch",
+      "Load-flow analysis",
+      "Fuel assay",
+      "Thermal imaging"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does economic dispatch minimize?",
+    "choices": [
+      "Line height",
+      "Generation cost",
+      "Cloud cover",
+      "Battery weight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A synchrophasor measures electrical phasors using what reference?",
+    "choices": [
+      "Local fuel clock",
+      "GPS time",
+      "Water pressure",
+      "Ambient light"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is curtailment of renewable generation?",
+    "choices": [
+      "Reducing available output",
+      "Increasing turbine speed",
+      "Storing all electricity",
+      "Refining the fuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which storage technology uses rotating mass?",
+    "choices": [
+      "Flow battery",
+      "Flywheel",
+      "Pumped reservoir",
+      "Thermal salt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Round-trip efficiency compares energy recovered with energy what?",
+    "choices": [
+      "Generated by coal",
+      "Stored initially",
+      "Lost in wires",
+      "Rated by voltage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is CHP designed to produce together?",
+    "choices": [
+      "Coal and gas",
+      "Electricity and useful heat",
+      "Voltage and current",
+      "Wind and sunlight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which plant type usually follows load quickly?",
+    "choices": [
+      "Open-cycle gas turbine",
+      "Coal baseload plant",
+      "Run-of-river hydro",
+      "Nuclear plant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does a rectifier convert?",
+    "choices": [
+      "DC to AC",
+      "AC to DC",
+      "Heat to motion",
+      "Gas to liquid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A protection relay issues a trip command when it detects what?",
+    "choices": [
+      "Cheap fuel",
+      "Abnormal conditions",
+      "High rainfall",
+      "Low demand only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does the swing equation describe in power systems?",
+    "choices": [
+      "Fuel pricing",
+      "Rotor dynamics",
+      "Solar irradiance",
+      "Battery aging"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Transient stability concerns maintaining synchronism after what?",
+    "choices": [
+      "A major disturbance",
+      "A tariff update",
+      "A fuel delivery",
+      "A routine reading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which control adjusts excitation to regulate generator voltage?",
+    "choices": [
+      "AVR",
+      "PLC fuel map",
+      "Boiler drum",
+      "Tap lock"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is an HVDC link especially useful for?",
+    "choices": [
+      "Local lighting only",
+      "Long-distance bulk transfer",
+      "Increasing AC frequency",
+      "Replacing all transformers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A FACTS device can dynamically control what?",
+    "choices": [
+      "Coal moisture",
+      "Power flow and voltage",
+      "Nuclear enrichment",
+      "Wind direction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the purpose of a load tap changer?",
+    "choices": [
+      "Adjust voltage under load",
+      "Change fuel type",
+      "Store reactive energy",
+      "Measure harmonics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Harmonics in power systems are frequency components at what multiples?",
+    "choices": [
+      "Prime numbers only",
+      "The fundamental frequency",
+      "Battery voltage",
+      "Transformer turns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What can excessive harmonics cause in transformers?",
+    "choices": [
+      "More rainfall",
+      "Additional heating",
+      "Lower fuel density",
+      "Higher water head"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which market product compensates generators for maintaining readiness?",
+    "choices": [
+      "Energy-only bid",
+      "Ancillary service",
+      "Carbon ore",
+      "Retail meter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is locational marginal pricing intended to reflect?",
+    "choices": [
+      "Cost at a grid location",
+      "Solar panel color",
+      "Fuel age",
+      "Turbine diameter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does a battery management system monitor?",
+    "choices": [
+      "River flow",
+      "Cell state and safety",
+      "Coal seams",
+      "Cloud altitude"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which storage medium can provide long-duration chemical storage?",
+    "choices": [
+      "Copper wire",
+      "Hydrogen",
+      "Transformer oil",
+      "Flywheel bearings"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a virtual power plant?",
+    "choices": [
+      "A fictional generator",
+      "Aggregated distributed resources",
+      "An underground cable",
+      "A simulated fuel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which fuel has the highest typical energy density?",
+    "choices": [
+      "Hydrogen",
+      "Coal",
+      "Diesel",
+      "Dry wood"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a steam condenser improve in a thermal plant?",
+    "choices": [
+      "Fuel color",
+      "Cycle efficiency",
+      "Line frequency",
+      "Wind speed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which component removes particulates from flue gas?",
+    "choices": [
+      "Economizer",
+      "Electrostatic precipitator",
+      "Governor",
+      "Exciter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is cogeneration another name for?",
+    "choices": [
+      "Dual-fuel firing",
+      "Combined heat and power",
+      "Parallel transmission",
+      "Split-phase supply"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which resource converts underground heat into electricity?",
+    "choices": [
+      "Geothermal reservoir",
+      "Tidal basin",
+      "Coal seam",
+      "Wind corridor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a busbar in a substation?",
+    "choices": [
+      "Fuel pipe",
+      "Common electrical conductor",
+      "Cooling fan",
+      "Control algorithm"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which relay detects impedance to identify line faults?",
+    "choices": [
+      "Overfrequency relay",
+      "Distance relay",
+      "Thermal relay",
+      "Reverse-power relay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is voltage collapse associated with?",
+    "choices": [
+      "Excess sunlight",
+      "Insufficient reactive support",
+      "Low coal ash",
+      "Fast fuel delivery"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which device supplies reactive power electronically?",
+    "choices": [
+      "STATCOM",
+      "Diesel tank",
+      "Steam drum",
+      "Surge arrester"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does island detection prevent in distributed generation?",
+    "choices": [
+      "Fuel mixing",
+      "Unintended energized islands",
+      "Transformer noise",
+      "Battery charging"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which topology has multiple paths for power delivery?",
+    "choices": [
+      "Radial",
+      "Mesh",
+      "Single-bus",
+      "Dead-end"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a radial distribution feeder characterized by?",
+    "choices": [
+      "Two independent sources",
+      "One primary supply path",
+      "No protective devices",
+      "Only underground cables"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which quantity is conserved at every circuit node?",
+    "choices": [
+      "Charge",
+      "Voltage angle",
+      "Fuel mass",
+      "Rotor inertia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Kirchhoff's current law follows conservation of what?",
+    "choices": [
+      "Energy",
+      "Charge",
+      "Momentum",
+      "Temperature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the main purpose of grounding electrical equipment?",
+    "choices": [
+      "Increase frequency",
+      "Provide a fault-current path",
+      "Raise efficiency",
+      "Reduce fuel use"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which insulation failure can produce an arc flash?",
+    "choices": [
+      "Open switch",
+      "Short circuit",
+      "Low load",
+      "Balanced phase"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does a megawatt-hour measure?",
+    "choices": [
+      "Energy",
+      "Current",
+      "Resistance",
+      "Power factor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which technology captures sunlight as heat for a turbine?",
+    "choices": [
+      "Photovoltaic",
+      "Concentrated solar power",
+      "Wind power",
+      "Battery storage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a pumped-storage plant during low demand?",
+    "choices": [
+      "Generating at full output",
+      "Pumping water uphill",
+      "Burning reserve fuel",
+      "Island operating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which generator is driven directly by falling water?",
+    "choices": [
+      "Gas turbine",
+      "Hydraulic turbine",
+      "Steam turbine",
+      "Diesel engine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does heat rate indicate for a power plant?",
+    "choices": [
+      "Fuel energy per electrical output",
+      "Voltage per kilometer",
+      "Current per phase",
+      "Water per turbine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which plant generally has low operating emissions but high capital cost?",
+    "choices": [
+      "Diesel peaker",
+      "Nuclear plant",
+      "Coal boiler",
+      "Open-cycle gas turbine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is merit order based primarily on?",
+    "choices": [
+      "Plant color",
+      "Marginal generation cost",
+      "Transmission age",
+      "Customer location"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which phenomenon causes frequency to fall after sudden generation loss?",
+    "choices": [
+      "Overvoltage",
+      "Power imbalance",
+      "Fuel vaporization",
+      "Harmonic resonance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is underfrequency load shedding designed to do?",
+    "choices": [
+      "Restore balance quickly",
+      "Increase demand",
+      "Start all turbines",
+      "Raise fuel pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which control area measure tracks interchange error?",
+    "choices": [
+      "AGC",
+      "THD",
+      "SCADA",
+      "LCOE"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does SCADA provide to grid operators?",
+    "choices": [
+      "Fuel refining",
+      "Supervisory monitoring and control",
+      "Turbine lubrication",
+      "Weather forecasts only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which statistic describes variation in renewable output?",
+    "choices": [
+      "Power factor",
+      "Ramp rate",
+      "Capacity voltage",
+      "Fuel index"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is demand forecasting used for?",
+    "choices": [
+      "Planning generation and networks",
+      "Selecting wire colors",
+      "Measuring coal purity",
+      "Setting turbine bearings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which metric estimates lifecycle cost per generated energy?",
+    "choices": [
+      "N-1",
+      "LCOE",
+      "THD",
+      "ROCOF"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What does ROCOF measure after a disturbance?",
+    "choices": [
+      "Voltage magnitude",
+      "Rate of change of frequency",
+      "Fuel flow",
+      "Reactive reserve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which instrument transformer reduces current for protection relays?",
+    "choices": [
+      "Current transformer",
+      "Potential transformer",
+      "Power capacitor",
+      "Bus coupler"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

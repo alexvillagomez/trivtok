@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What animal appears on House Stark's sigil?",
+    "choices": [
+      "A direwolf",
+      "A lion",
+      "A dragon",
+      "A stag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which animal is on House Lannister's sigil?",
+    "choices": [
+      "A kraken",
+      "A lion",
+      "A rose",
+      "A trout"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What creature is featured on House Targaryen's sigil?",
+    "choices": [
+      "A crowned stag",
+      "A white falcon",
+      "A three-headed dragon",
+      "A golden lion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who is the eldest Stark child and Lord of Winterfell at the start of the series?",
+    "choices": [
+      "Jon Snow",
+      "Bran Stark",
+      "Rickon Stark",
+      "Robb Stark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which character is the exiled Targaryen princess seeking to reclaim the Iron Throne?",
+    "choices": [
+      "Daenerys Targaryen",
+      "Margaery Tyrell",
+      "Cersei Lannister",
+      "Yara Greyjoy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who is the witty Lannister known as the Imp?",
+    "choices": [
+      "Jaime Lannister",
+      "Tyrion Lannister",
+      "Tywin Lannister",
+      "Lancel Lannister"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Stark daughter is known for her determined political growth?",
+    "choices": [
+      "Arya Stark",
+      "Lyanna Mormont",
+      "Sansa Stark",
+      "Talisa Stark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Stark daughter trains in disguise and swordplay after leaving Westeros?",
+    "choices": [
+      "Sansa Stark",
+      "Brienne of Tarth",
+      "Meera Reed",
+      "Arya Stark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What supernatural ability does Bran Stark develop?",
+    "choices": [
+      "He can enter or see through other beings and visions",
+      "He can breathe underwater",
+      "He can summon dragons",
+      "He can command the Iron Fleet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who is the leader of the undead army threatening the living?",
+    "choices": [
+      "The Lord of Light",
+      "The Night King",
+      "The Three-Eyed Raven",
+      "The Night's Watch Lord Commander"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What are the undead creatures serving the Night King commonly called?",
+    "choices": [
+      "Wildlings",
+      "Faceless Men",
+      "Wights",
+      "Drowned Men"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What massive defensive structure separates the Seven Kingdoms from the far north?",
+    "choices": [
+      "The Eyrie",
+      "The Neck",
+      "The Kingsroad",
+      "The Wall"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which castle is the headquarters of the Night's Watch?",
+    "choices": [
+      "Castle Black",
+      "Winterfell",
+      "The Red Keep",
+      "The Eyrie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is the ancestral castle of House Stark?",
+    "choices": [
+      "Casterly Rock",
+      "Winterfell",
+      "Highgarden",
+      "Riverrun"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which city contains the Red Keep and the Iron Throne?",
+    "choices": [
+      "Braavos",
+      "Meereen",
+      "King's Landing",
+      "Oldtown"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which eastern continent is home to cities such as Braavos and Meereen?",
+    "choices": [
+      "Westeros",
+      "Sothoryos",
+      "The Summer Isles",
+      "Essos"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What nomadic horse-riding people are led by a khal?",
+    "choices": [
+      "The Dothraki",
+      "The Wildlings",
+      "The Ironborn",
+      "The Unsullied"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which disciplined soldiers does Daenerys acquire in Slaver's Bay?",
+    "choices": [
+      "The Golden Company",
+      "The Unsullied",
+      "The Kingsguard",
+      "The Second Sons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which flower appears on House Tyrell's sigil?",
+    "choices": [
+      "A sunflower",
+      "A lily",
+      "A rose",
+      "A thorn branch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What objects appear on House Martell's sigil?",
+    "choices": [
+      "A lion and crown",
+      "A falcon and moon",
+      "A wolf and sword",
+      "A sun and spear"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which fish appears on House Tully's sigil?",
+    "choices": [
+      "A trout",
+      "A salmon",
+      "A pike",
+      "A carp"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which bird and celestial object appear on House Arryn's sigil?",
+    "choices": [
+      "An eagle and sun",
+      "A falcon and moon",
+      "A raven and star",
+      "A hawk and comet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which adviser is known for whispers and a network of informants?",
+    "choices": [
+      "Littlefinger",
+      "Pycelle",
+      "Varys",
+      "Grand Maester Aemon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who is the master of coin who frequently manipulates political events?",
+    "choices": [
+      "Varys",
+      "Tyrion Lannister",
+      "Davos Seaworth",
+      "Petyr Baelish"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which knight becomes a trusted friend and adviser to Daenerys?",
+    "choices": [
+      "Jorah Mormont",
+      "Barristan Selmy",
+      "Bronn",
+      "Daario Naharis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which warrior from Tarth is famous for her skill and oath of service?",
+    "choices": [
+      "Yara Greyjoy",
+      "Brienne of Tarth",
+      "Osha",
+      "Ellaria Sand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which character is Jaime Lannister's younger twin?",
+    "choices": [
+      "Myrcella Baratheon",
+      "Margaery Tyrell",
+      "Cersei Lannister",
+      "Shae"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the name of Jon Snow's direwolf?",
+    "choices": [
+      "Summer",
+      "Shaggydog",
+      "Grey Wind",
+      "Ghost"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which dragon is known for its dark coloring and is Daenerys's largest dragon?",
+    "choices": [
+      "Drogon",
+      "Rhaegal",
+      "Viserion",
+      "Balerion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Stark ward struggles with his identity after betraying Winterfell?",
+    "choices": [
+      "Robb Stark",
+      "Theon Greyjoy",
+      "Jon Snow",
+      "Bran Stark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which red priestess serves the Lord of Light?",
+    "choices": [
+      "Selyse Baratheon",
+      "Myranda",
+      "Melisandre",
+      "Olenna Tyrell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What event at the Twins changes the course of the War of the Five Kings?",
+    "choices": [
+      "The Purple Wedding",
+      "The Feast of the Harvest",
+      "The Northern Reconciliation",
+      "The Red Wedding"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which battle is fought on Blackwater Bay during the second season?",
+    "choices": [
+      "The Battle of the Blackwater",
+      "The Battle of the Bells",
+      "The Battle of the Whispering Wood",
+      "The Battle of the Fords"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which battle is fought between Jon Snow's forces and Ramsay Bolton?",
+    "choices": [
+      "The Battle of Winterfell",
+      "The Battle of the Bastards",
+      "The Battle of the Trident",
+      "The Battle of the Dawn"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What place is known for an encounter between the living and the army of the dead?",
+    "choices": [
+      "Harrenhal",
+      "The Twins",
+      "Hardhome",
+      "Pentos"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which building in King's Landing is destroyed during the sixth-season finale?",
+    "choices": [
+      "The Red Keep",
+      "The Dragonpit",
+      "The House of Black and White",
+      "The Great Sept of Baelor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What rare metal is prized for making exceptionally strong swords?",
+    "choices": [
+      "Valyrian steel",
+      "Dragonglass",
+      "Castle-forged iron",
+      "Braavosi silver"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What volcanic glass is used as a weapon against the undead?",
+    "choices": [
+      "Valyrian steel",
+      "Dragonglass",
+      "Wildfire",
+      "Obsidian salt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Who is the Three-Eyed Raven's successor in the main series?",
+    "choices": [
+      "Samwell Tarly",
+      "Jon Snow",
+      "Bran Stark",
+      "Jojen Reed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which title does Bran receive at the council after the final battle?",
+    "choices": [
+      "King in the North",
+      "Lord Commander of the Night's Watch",
+      "Prince of Dragonstone",
+      "King of the Andals and the First Men"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which actor portrays Tyrion Lannister?",
+    "choices": [
+      "Peter Dinklage",
+      "Nikolaj Coster-Waldau",
+      "Aidan Gillen",
+      "Conleth Hill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which actor portrays Jon Snow?",
+    "choices": [
+      "Richard Madden",
+      "Kit Harington",
+      "Alfie Allen",
+      "Isaac Hempstead Wright"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which actor portrays Daenerys Targaryen?",
+    "choices": [
+      "Lena Headey",
+      "Sophie Turner",
+      "Emilia Clarke",
+      "Natalie Dormer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which actor portrays Cersei Lannister?",
+    "choices": [
+      "Carice van Houten",
+      "Michelle Fairley",
+      "Indira Varma",
+      "Lena Headey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which actress portrays Arya Stark?",
+    "choices": [
+      "Maisie Williams",
+      "Sophie Turner",
+      "Bella Ramsey",
+      "Nathalie Emmanuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What role does the Hand of the King traditionally perform?",
+    "choices": [
+      "The commander of the Night's Watch",
+      "The monarch's chief governing adviser",
+      "The keeper of royal dragons",
+      "The leader of the Faith Militant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which city is the headquarters of the Iron Bank?",
+    "choices": [
+      "Volantis",
+      "Pentos",
+      "Braavos",
+      "Meereen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is the name of the order of assassins Arya studies with in Braavos?",
+    "choices": [
+      "The Silent Sisters",
+      "The Warlocks of Qarth",
+      "The Brotherhood Without Banners",
+      "The Faceless Men"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which character is called the Hound?",
+    "choices": [
+      "Sandor Clegane",
+      "Gregor Clegane",
+      "Bronn",
+      "Beric Dondarrion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the nickname of Gregor Clegane?",
+    "choices": [
+      "The Hound",
+      "The Mountain",
+      "The Lion",
+      "The Giant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who is the eldest son of Tywin Lannister?",
+    "choices": [
+      "Tyrion Lannister",
+      "Lancel Lannister",
+      "Jaime Lannister",
+      "Kevan Lannister"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which Tyrell matriarch is known for sharp political wit?",
+    "choices": [
+      "Margaery Tyrell",
+      "Alerie Tyrell",
+      "Loras Tyrell",
+      "Olenna Tyrell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the name of the Sand Snakes' mother?",
+    "choices": [
+      "Ellaria Sand",
+      "Oberyn Martell",
+      "Arianne Martell",
+      "Doran Martell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which harbor city is known for the House of Black and White?",
+    "choices": [
+      "Astapor",
+      "Braavos",
+      "Qarth",
+      "Lys"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is the title of the ninth episode of season two?",
+    "choices": [
+      "The Watchers on the Wall",
+      "Battle of the Bastards",
+      "Blackwater",
+      "The Bells"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which episode title is associated with the Red Wedding?",
+    "choices": [
+      "The Lion and the Rose",
+      "The Mountain and the Viper",
+      "Mhysa",
+      "The Rains of Castamere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which season-three episode title refers to the song played during the Red Wedding?",
+    "choices": [
+      "The Rains of Castamere",
+      "And Now His Watch Is Ended",
+      "Second Sons",
+      "Valar Dohaeris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the title of the sixth-season finale?",
+    "choices": [
+      "The Door",
+      "The Winds of Winter",
+      "Blood of My Blood",
+      "The Broken Man"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which season-eight episode title describes the nighttime battle at Winterfell?",
+    "choices": [
+      "A Knight of the Seven Kingdoms",
+      "The Last of the Starks",
+      "The Long Night",
+      "The Iron Throne"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which episode title closes the series?",
+    "choices": [
+      "The Bells",
+      "The Last Watch",
+      "Winterfell",
+      "The Iron Throne"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who composed the main Game of Thrones television score?",
+    "choices": [
+      "Ramin Djawadi",
+      "Bear McCreary",
+      "Hans Zimmer",
+      "Ludwig Göransson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which network originally broadcast Game of Thrones?",
+    "choices": [
+      "AMC",
+      "HBO",
+      "Showtime",
+      "FX"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who developed the television adaptation with David Benioff?",
+    "choices": [
+      "George R. R. Martin alone",
+      "Bryan Cogman",
+      "D. B. Weiss",
+      "Ramin Djawadi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which actor played Tywin Lannister?",
+    "choices": [
+      "Stephen Dillane",
+      "Jonathan Pryce",
+      "Mark Addy",
+      "Charles Dance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which actor played Varys?",
+    "choices": [
+      "Conleth Hill",
+      "Aidan Gillen",
+      "Iain Glen",
+      "Liam Cunningham"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which actor played Petyr Baelish?",
+    "choices": [
+      "Michael McElhatton",
+      "Aidan Gillen",
+      "Pilou Asbæk",
+      "Pedro Pascal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which actor played Samwell Tarly?",
+    "choices": [
+      "Joe Dempsie",
+      "Richard Dormer",
+      "John Bradley",
+      "Jacob Anderson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which actor portrayed Theon Greyjoy?",
+    "choices": [
+      "Rory McCann",
+      "Hafþór Júlíus Björnsson",
+      "Kristofer Hivju",
+      "Alfie Allen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which language was developed for the Dothraki dialogue in the television series?",
+    "choices": [
+      "A constructed Dothraki language developed for the show",
+      "High Valyrian only",
+      "Old Norse",
+      "A direct translation of Latin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who created the constructed Dothraki and Valyrian languages for the series?",
+    "choices": [
+      "George R. R. Martin",
+      "David J. Peterson",
+      "Ramin Djawadi",
+      "David Benioff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does the opening title sequence famously display as the camera travels across?",
+    "choices": [
+      "A genealogy of every character",
+      "A live battle replay",
+      "A mechanical map of Westerosi locations",
+      "A map of only Essos"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which reveal identifies Jon Snow's biological parents?",
+    "choices": [
+      "Ned Stark and Catelyn Tully",
+      "Robert Baratheon and Lyanna Stark",
+      "Aerys Targaryen and Cersei Lannister",
+      "Rhaegar Targaryen and Lyanna Stark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What name is Jon Snow given at birth in the television series?",
+    "choices": [
+      "Aegon Targaryen",
+      "Aemon Targaryen",
+      "Rhaegar Targaryen",
+      "Viserys Targaryen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which historical rebellion ended Targaryen rule before the series begins?",
+    "choices": [
+      "The Greyjoy Rebellion",
+      "Robert's Rebellion",
+      "The War of the Five Kings",
+      "The Dance of the Dragons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which substance does Cersei use to destroy the Great Sept?",
+    "choices": [
+      "Dragonglass",
+      "Valyrian steel dust",
+      "Wildfire",
+      "Dothraki oil"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who kills the Night King in the Battle of Winterfell episode?",
+    "choices": [
+      "Jon Snow",
+      "Bran Stark",
+      "Daenerys Targaryen",
+      "Arya Stark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which dragon melts the Iron Throne after Daenerys's death?",
+    "choices": [
+      "Drogon",
+      "Rhaegal",
+      "Viserion",
+      "Balerion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What political result does Sansa secure at the final council?",
+    "choices": [
+      "The North joins the Iron Islands",
+      "The North becomes an independent kingdom",
+      "Winterfell becomes a free city of Essos",
+      "The North is ruled by the Night's Watch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which character returns to the Night's Watch at the end of the series?",
+    "choices": [
+      "Tyrion Lannister",
+      "Samwell Tarly",
+      "Jon Snow",
+      "Davos Seaworth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which elected Night's Watch leader is betrayed by some of his own brothers at the end of season five?",
+    "choices": [
+      "Jeor Mormont",
+      "Alliser Thorne",
+      "Eddison Tollett",
+      "Jon Snow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which episode reveals Hodor's name through a time-linked vision?",
+    "choices": [
+      "The Door",
+      "The Broken Man",
+      "Home",
+      "The Winds of Winter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does the phrase Hold the Door explain about Hodor?",
+    "choices": [
+      "It identifies him as a secret Targaryen",
+      "It connects his childhood name to the command that shaped his speech",
+      "It names the gate to the Wall",
+      "It is the password to the Iron Bank"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which trial by combat champion fights for Tyrion in season four?",
+    "choices": [
+      "Jaime Lannister",
+      "Bronn",
+      "Oberyn Martell",
+      "Daario Naharis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which nickname does Oberyn Martell use for himself?",
+    "choices": [
+      "The Sand Snake",
+      "The Sun Prince",
+      "The Spear of Dorne",
+      "The Red Viper"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which character secretly arranges the poisoning at the Purple Wedding?",
+    "choices": [
+      "Olenna Tyrell",
+      "Margaery Tyrell",
+      "Petyr Baelish",
+      "Varys"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the name of the great castle ruled by House Lannister?",
+    "choices": [
+      "Harrenhal",
+      "Casterly Rock",
+      "The Twins",
+      "Dragonstone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which island fortress becomes Daenerys's principal Westerosi base?",
+    "choices": [
+      "Pyke",
+      "Bear Island",
+      "Dragonstone",
+      "Tarth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who is the last known surviving member of House Mormont from Bear Island to fight at Winterfell?",
+    "choices": [
+      "Jorah Mormont",
+      "Jeor Mormont",
+      "Maege Mormont",
+      "Lyanna Mormont"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which organization does Samwell visit in Oldtown to train as a maester?",
+    "choices": [
+      "The Citadel",
+      "The House of Black and White",
+      "The Alchemists' Guild",
+      "The Order of the Green Hand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a maester's chain signify?",
+    "choices": [
+      "Rank in the Kingsguard",
+      "Training in different fields of knowledge",
+      "Ownership of a castle",
+      "Membership in the Dothraki khalasar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which fleet is commanded by Euron Greyjoy?",
+    "choices": [
+      "The Royal Fleet",
+      "The Braavosi Fleet",
+      "The Iron Fleet",
+      "The Dragonstone Fleet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who is elected king by the lords after Daenerys's defeat?",
+    "choices": [
+      "Jon Snow",
+      "Tyrion Lannister",
+      "Davos Seaworth",
+      "Bran Stark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which rule does the final council establish for choosing future monarchs?",
+    "choices": [
+      "The king is chosen by the leading lords rather than inheriting automatically",
+      "The crown passes only through House Stark",
+      "The Night's Watch elects every king",
+      "The Iron Bank appoints the monarch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which actor played the older version of Bran Stark?",
+    "choices": [
+      "Jack Gleeson",
+      "Isaac Hempstead Wright",
+      "Dean-Charles Chapman",
+      "Art Parkinson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which city doubled for much of King's Landing in the television production?",
+    "choices": [
+      "Reykjavík",
+      "Prague",
+      "Dubrovnik",
+      "Edinburgh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What production region supplied many of the series' northern filming locations?",
+    "choices": [
+      "Southern Spain",
+      "The Czech Republic",
+      "New Zealand",
+      "Northern Ireland"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which formal title does Daenerys repeatedly claim during the series?",
+    "choices": [
+      "Queen of the Andals and the First Men",
+      "Lady of Winterfell",
+      "Hand of the King",
+      "Lord Commander of the Night's Watch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which event gives Daenerys her first three dragons in the series?",
+    "choices": [
+      "The opening of the Dragonpit",
+      "The funeral pyre of Khal Drogo",
+      "A gift from the Iron Bank",
+      "The sack of King's Landing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the name of the throne made from the swords of Aegon the Conqueror's defeated enemies?",
+    "choices": [
+      "The Dragon Throne",
+      "The Valyrian Seat",
+      "The Iron Throne",
+      "The Conqueror's Chair"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What governing body does Tyrion assemble to advise Bran at the end of the series?",
+    "choices": [
+      "The Kingsguard",
+      "The Night's Watch",
+      "The Citadel conclave",
+      "The king's small council"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  }
+]

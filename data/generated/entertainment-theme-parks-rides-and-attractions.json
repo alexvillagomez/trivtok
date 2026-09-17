@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who co-founded the company behind Disneyland?",
+    "choices": [
+      "Walt Disney",
+      "Walter Knott",
+      "George Ferris",
+      "Carl Laemmle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In which California city did Disneyland open?",
+    "choices": [
+      "San Diego",
+      "Anaheim",
+      "Sacramento",
+      "Santa Barbara"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Where is the Walt Disney World Resort located?",
+    "choices": [
+      "Southern California near San Diego",
+      "Northern Florida near Jacksonville",
+      "Central Florida near Orlando",
+      "Eastern Texas near Dallas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which castle is the visual centerpiece of Magic Kingdom?",
+    "choices": [
+      "Sleeping Beauty Castle",
+      "Beast's Castle",
+      "Enchanted Storybook Castle",
+      "Cinderella Castle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which ride takes guests through scenes featuring singing pirates?",
+    "choices": [
+      "Pirates of the Caribbean",
+      "The Haunted Mansion",
+      "Jungle Cruise",
+      "Peter Pan's Flight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which attraction is known for a supernatural mansion and a ghostly ballroom?",
+    "choices": [
+      "Space Mountain",
+      "The Haunted Mansion",
+      "Pirates of the Caribbean",
+      "The Enchanted Tiki Room"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which classic attraction features a repeated song about children around the world?",
+    "choices": [
+      "The Many Adventures of Winnie the Pooh",
+      "Carousel of Progress",
+      "it's a small world",
+      "World of Motion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Disney park is dedicated especially to science, technology, and world cultures?",
+    "choices": [
+      "Disney's Animal Kingdom",
+      "Disney's Hollywood Studios",
+      "Magic Kingdom",
+      "EPCOT"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which Walt Disney World park focuses on animals and conservation themes?",
+    "choices": [
+      "Disney's Animal Kingdom",
+      "EPCOT",
+      "Magic Kingdom",
+      "Disney's Hollywood Studios"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which Walt Disney World park is themed around movies and entertainment?",
+    "choices": [
+      "EPCOT",
+      "Disney's Hollywood Studios",
+      "Magic Kingdom",
+      "Disney's Animal Kingdom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which company operates Universal Studios Hollywood?",
+    "choices": [
+      "Six Flags",
+      "Cedar Fair",
+      "Universal Destinations & Experiences",
+      "Merlin Entertainments"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which themed land is associated with Harry Potter at Universal parks?",
+    "choices": [
+      "Middle-earth Village",
+      "Hogwarts Harbor",
+      "The Sorcerer's Kingdom",
+      "The Wizarding World of Harry Potter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which dinosaur film series inspired Universal water rides featuring an escape from predators?",
+    "choices": [
+      "Jurassic Park",
+      "The Mummy",
+      "King Kong",
+      "Transformers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What symbol is prominently associated with Universal Studios parks?",
+    "choices": [
+      "A castle turret",
+      "A globe",
+      "A giant peach",
+      "A lighthouse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which park in Ohio is renowned for its concentration of major roller coasters?",
+    "choices": [
+      "Hersheypark",
+      "Knoebels",
+      "Cedar Point",
+      "Kings Island"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which European theme park is located in Rust, Germany?",
+    "choices": [
+      "Efteling",
+      "PortAventura World",
+      "Alton Towers",
+      "Europa-Park"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Disney resort is located near Tokyo?",
+    "choices": [
+      "Tokyo Disney Resort",
+      "Disneyland Paris",
+      "Hong Kong Disneyland Resort",
+      "Shanghai Disney Resort"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Disney resort is located in Marne-la-Vallée near Paris?",
+    "choices": [
+      "Tokyo Disney Resort",
+      "Disneyland Paris",
+      "Shanghai Disney Resort",
+      "Hong Kong Disneyland Resort"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which famous amusement park is located in Copenhagen's Tivoli Gardens?",
+    "choices": [
+      "The Matterhorn",
+      "The Big One",
+      "Rutschebanen",
+      "Python"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which major English theme park grew from a historic Staffordshire estate?",
+    "choices": [
+      "Thorpe Park",
+      "Chessington World of Adventures",
+      "Blackpool Pleasure Beach",
+      "Alton Towers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which Spanish resort is known as PortAventura World?",
+    "choices": [
+      "A theme-park resort near Salou",
+      "A park near Copenhagen",
+      "A park in central Japan",
+      "A park in western Canada"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Where is Ferrari World Abu Dhabi located?",
+    "choices": [
+      "The Dubai Creek district",
+      "Yas Island in the United Arab Emirates",
+      "Bahrain's Muharraq Island",
+      "Doha's Pearl Island"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which park in Denmark is associated with the LEGO brand's origins?",
+    "choices": [
+      "Legoland Windsor",
+      "Legoland California",
+      "Legoland Billund",
+      "Legoland Deutschland"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which California park is associated with the Knott family and a Wild West theme?",
+    "choices": [
+      "Six Flags Magic Mountain",
+      "Adventure City",
+      "California's Great America",
+      "Knott's Berry Farm"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which Tennessee park is associated with country singer Dolly Parton?",
+    "choices": [
+      "Dollywood",
+      "Opryland USA",
+      "Silver Dollar City",
+      "Holiday World"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which Pennsylvania park is associated with the Hershey chocolate company?",
+    "choices": [
+      "Knoebels",
+      "Hersheypark",
+      "Dorney Park",
+      "Dutch Wonderland"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does a roller coaster's lift hill usually do?",
+    "choices": [
+      "Adds fuel to the train",
+      "Brakes the train at the station",
+      "Raises the train to store gravitational potential energy",
+      "Spins each passenger seat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is an inversion on a roller coaster?",
+    "choices": [
+      "A section where the train stops for boarding",
+      "A decorative tunnel",
+      "A queue-line switchback",
+      "A maneuver that turns riders upside down or beyond upright"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is a dark ride?",
+    "choices": [
+      "An enclosed attraction using scenery, effects, and vehicles to tell a story",
+      "A coaster that operates only after sunset",
+      "A ride with no lighting or theme",
+      "A water ride through an unthemed tunnel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is a carousel?",
+    "choices": [
+      "A boat ride through movie scenes",
+      "A rotating ride with seats or figures mounted around a platform",
+      "A vertical drop tower",
+      "A train pulled by a cable"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a flume ride?",
+    "choices": [
+      "A ride using only suspended bicycles",
+      "A rotating observation tower",
+      "A water ride in which boats travel through a channel",
+      "A coaster with no rails"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a Ferris wheel?",
+    "choices": [
+      "A spinning coaster with inversions",
+      "A boat lift for flume rides",
+      "A carousel with horses",
+      "A large rotating wheel carrying passenger gondolas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which character is the best-known mascot of the Walt Disney Company?",
+    "choices": [
+      "Mickey Mouse",
+      "Bugs Bunny",
+      "Snoopy",
+      "Shrek"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which character is the mascot of Universal's Minion-themed attractions?",
+    "choices": [
+      "Mickey Mouse",
+      "A Minion",
+      "SpongeBob SquarePants",
+      "Po"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which land is associated with frontier and Western imagery at many Disney parks?",
+    "choices": [
+      "Tomorrowland",
+      "Fantasyland",
+      "Frontierland",
+      "Adventureland"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Disney land is associated with fairy tales and animated classics?",
+    "choices": [
+      "Frontierland",
+      "World Showcase",
+      "Discoveryland",
+      "Fantasyland"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Disney land traditionally emphasizes the future and technology?",
+    "choices": [
+      "Tomorrowland",
+      "Adventureland",
+      "Fantasyland",
+      "Main Street, U.S.A."
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Disney land commonly features exotic exploration themes?",
+    "choices": [
+      "Tomorrowland",
+      "Adventureland",
+      "Frontierland",
+      "Liberty Square"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a park's queue?",
+    "choices": [
+      "The track section that brakes a train",
+      "The backstage maintenance garage",
+      "The area where guests wait for an attraction",
+      "The park's ticket office only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a ride's station?",
+    "choices": [
+      "The highest point of every coaster",
+      "A park's central fountain",
+      "A type of themed restaurant",
+      "The area where guests board and leave vehicles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a lap bar?",
+    "choices": [
+      "A restraint that secures a rider across the thighs or lap",
+      "A handrail in a queue",
+      "A decorative beam above a ride",
+      "A type of coaster brake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Canadian park is located near Toronto and is known for major coasters?",
+    "choices": [
+      "La Ronde",
+      "Canada's Wonderland",
+      "Playland",
+      "Calaway Park"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Japanese amusement park near Mount Fuji is known for record-seeking roller coasters?",
+    "choices": [
+      "Nagashima Spa Land",
+      "Hirakata Park",
+      "Fuji-Q Highland",
+      "Yomiuriland"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Korean theme park is located in Seoul?",
+    "choices": [
+      "Everland",
+      "Seoul Land",
+      "Gyeongju World",
+      "Lotte World"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Dutch park is famous for fairy-tale theming and the Python coaster?",
+    "choices": [
+      "Efteling",
+      "Walibi Holland",
+      "Toverland",
+      "Duinrell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Hong Kong attraction is a major theme park distinct from Hong Kong Disneyland?",
+    "choices": [
+      "Lotte World",
+      "Ocean Park Hong Kong",
+      "Everland",
+      "Sentosa Island"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a theme park's land?",
+    "choices": [
+      "A vehicle's loading platform",
+      "The legal boundary of a city",
+      "A deliberately designed area built around a setting or story",
+      "A coaster's underground foundation only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a ride's brake run?",
+    "choices": [
+      "A track segment used only for launching",
+      "A queue-line shortcut",
+      "A platform that spins guests",
+      "A section that slows or stops the vehicle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Disney park opened in 1955?",
+    "choices": [
+      "Disneyland in California",
+      "Magic Kingdom in Florida",
+      "EPCOT",
+      "Tokyo Disneyland"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Walt Disney World park opened first in 1971?",
+    "choices": [
+      "EPCOT",
+      "Magic Kingdom",
+      "Disney's Hollywood Studios",
+      "Disney's Animal Kingdom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What was EPCOT's original proposed meaning in Walt Disney's planning?",
+    "choices": [
+      "European Park of Culture and Technology",
+      "Entertainment Pavilion of Central Orlando Tourism",
+      "Experimental Prototype Community of Tomorrow",
+      "Experimental Park of Contemporary Theater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does the term Imagineer combine in Disney design culture?",
+    "choices": [
+      "Image and pioneer",
+      "Imitation and architecture",
+      "Imagine and frontier",
+      "Imagination and engineering"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Disneyland attraction is widely associated with the first tubular-steel continuous-track coaster?",
+    "choices": [
+      "Matterhorn Bobsleds",
+      "Space Mountain",
+      "Big Thunder Mountain Railroad",
+      "Indiana Jones Adventure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Disney attraction uses a large rotating theater to present a historical progress narrative?",
+    "choices": [
+      "The American Adventure",
+      "Carousel of Progress",
+      "Great Moments with Mr. Lincoln",
+      "Hall of Presidents"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which former EPCOT attraction explored transportation and was replaced by Test Track?",
+    "choices": [
+      "Horizons",
+      "Universe of Energy",
+      "World of Motion",
+      "Journey into Imagination"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which former EPCOT attraction explored a futuristic community and multiple possible futures?",
+    "choices": [
+      "World of Motion",
+      "Maelstrom",
+      "The Living Seas",
+      "Horizons"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Disney ride is a motion simulator themed around space travel and a famous film franchise?",
+    "choices": [
+      "Star Tours",
+      "Soarin'",
+      "Mission: SPACE",
+      "Flight of Passage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which attraction presents riders with a simulated hang-gliding experience?",
+    "choices": [
+      "Star Tours",
+      "Soarin'",
+      "The Twilight Zone Tower of Terror",
+      "Kilimanjaro Safaris"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Disney attraction is themed around a haunted hotel and a mysterious elevator?",
+    "choices": [
+      "The Haunted Mansion",
+      "Expedition Everest",
+      "The Twilight Zone Tower of Terror",
+      "Mission: SPACE"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which former Disney attraction was based on the songs and setting of Song of the South?",
+    "choices": [
+      "Pirates of the Caribbean",
+      "The Many Adventures of Winnie the Pooh",
+      "Country Bear Jamboree",
+      "Splash Mountain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Universal attraction combines a dark ride with a roller-coaster section in Gringotts Bank?",
+    "choices": [
+      "Harry Potter and the Escape from Gringotts",
+      "Harry Potter and the Forbidden Journey",
+      "The Amazing Adventures of Spider-Man",
+      "Revenge of the Mummy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Universal attraction uses robotic-arm motion technology inside Hogwarts?",
+    "choices": [
+      "Harry Potter and the Escape from Gringotts",
+      "Harry Potter and the Forbidden Journey",
+      "Jurassic Park River Adventure",
+      "Transformers: The Ride-3D"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Universal attraction is a hybrid dark ride and launch coaster themed to The Mummy?",
+    "choices": [
+      "The Simpsons Ride",
+      "E.T. Adventure",
+      "Revenge of the Mummy",
+      "Men in Black: Alien Attack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Universal attraction is famous for a motion-base adaptation of a Marvel superhero world?",
+    "choices": [
+      "Transformers: The Ride-3D",
+      "Skull Island: Reign of Kong",
+      "Back to the Future: The Ride",
+      "The Amazing Adventures of Spider-Man"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which former Universal attraction simulated a time-traveling journey with a DeLorean?",
+    "choices": [
+      "Back to the Future: The Ride",
+      "The Funtastic World of Hanna-Barbera",
+      "Earthquake: The Big One",
+      "Twister...Ride It Out"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which Cedar Point coaster was the first to exceed 200 feet in height?",
+    "choices": [
+      "Millennium Force",
+      "Magnum XL-200",
+      "Top Thrill Dragster",
+      "Steel Vengeance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a hypercoaster generally defined by?",
+    "choices": [
+      "A coaster that uses only spinning cars",
+      "A coaster with no lift or launch",
+      "A large roller coaster emphasizing height and speed, commonly over 200 feet",
+      "A coaster built entirely indoors"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a launched coaster?",
+    "choices": [
+      "A coaster that launches guests from a cannon",
+      "A coaster with no restraints",
+      "A coaster that operates only in a water channel",
+      "A coaster accelerated by a propulsion system instead of relying solely on a lift hill"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is an inverted coaster?",
+    "choices": [
+      "A coaster in which the track is above the suspended seats",
+      "A coaster that runs backward only",
+      "A coaster with cars inside a tunnel",
+      "A coaster with no inversions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which Swiss coaster manufacturer is famous for an inverted model with four-across seating?",
+    "choices": [
+      "Arrow Development",
+      "Bolliger & Mabillard",
+      "Intamin",
+      "Mack Rides"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a 4D coaster seat designed to do?",
+    "choices": [
+      "Provide four seats in every row with no restraint",
+      "Run on four separate tracks at once",
+      "Rotate or move independently of the coaster's main track motion",
+      "Keep riders upright through every maneuver"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which Japanese coaster is famous for rotating seats that can invert riders forward and backward?",
+    "choices": [
+      "Fuji-Q Dodonpa",
+      "Steel Dragon 2000",
+      "Takabisha",
+      "Eejanaika"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Alton Towers coaster is an early famous example of an inverted coaster?",
+    "choices": [
+      "Nemesis",
+      "The Smiler",
+      "Oblivion",
+      "Thirteen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which Europa-Park coaster is known for spinning cars as trains travel through the ride?",
+    "choices": [
+      "Silver Star",
+      "Euro-Mir",
+      "Blue Fire",
+      "Wodan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which Europa-Park coaster is a launched blue-fire-themed coaster?",
+    "choices": [
+      "Euro-Tower",
+      "Eurosat",
+      "blue fire Megacoaster",
+      "Atlantica SuperSplash"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What does a trackless dark ride use instead of a fixed rail path?",
+    "choices": [
+      "A chain lift attached to every vehicle",
+      "Passenger-controlled bicycles",
+      "A water channel with no vehicles",
+      "Computer-controlled vehicles that navigate a floor or mapped space"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is an omnimover system?",
+    "choices": [
+      "A continuously moving chain of ride vehicles that pass a loading area",
+      "A coaster with four separate lift hills",
+      "A vehicle that can fly outside the park",
+      "A Ferris wheel with rotating gondolas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Disney attraction is a classic example of an omnimover system?",
+    "choices": [
+      "Matterhorn Bobsleds",
+      "Haunted Mansion",
+      "Big Thunder Mountain Railroad",
+      "Splash Mountain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is an animatronic in theme-park design?",
+    "choices": [
+      "A live actor wearing a character costume",
+      "A roller-coaster restraint",
+      "A programmed mechanical figure designed to move and perform effects",
+      "A park's ticket-scanning system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Disney attraction is famous for large-scale audio-animatronic pirates?",
+    "choices": [
+      "Jungle Cruise",
+      "The Enchanted Tiki Room",
+      "The Great Movie Ride",
+      "Pirates of the Caribbean"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a positive-G force on a coaster?",
+    "choices": [
+      "A force that presses riders into the seat or floor during acceleration or turns",
+      "A force that lifts riders completely from the track",
+      "A braking force acting only on the station",
+      "A force caused solely by loud music"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is airtime in roller-coaster terminology?",
+    "choices": [
+      "The time a train spends in the station",
+      "The sensation of reduced pressure or floating over a hill",
+      "The period a ride's lights are on",
+      "The speed of the queue moving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a coaster's block system designed to do?",
+    "choices": [
+      "Increase a train's speed at every hill",
+      "Replace all rider restraints",
+      "Divide track into monitored sections so trains maintain safe separation",
+      "Allow guests to choose the track route"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is the purpose of a coaster's anti-rollback device?",
+    "choices": [
+      "Make a train roll backward through the station",
+      "Reverse the direction of the entire track",
+      "Stop riders from leaving a vehicle",
+      "Prevent a train from rolling backward on a lift hill"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which designer is associated with the original concept of Disneyland's themed lands and park layout?",
+    "choices": [
+      "Walt Disney",
+      "John Hench",
+      "George Ferris",
+      "Michael Eisner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the storytelling purpose of a themed transition between park lands?",
+    "choices": [
+      "To mark a park's legal property line",
+      "To preserve the illusion of entering a distinct setting or narrative world",
+      "To indicate that rides are closed",
+      "To replace the need for a queue"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which attraction type most directly combines scenery, vehicles, sound, lighting, and narrative scenes?",
+    "choices": [
+      "A flat spinning ride",
+      "A midway game",
+      "A dark ride",
+      "A food court"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a park's capacity constraint?",
+    "choices": [
+      "A rule requiring every ride to have the same height",
+      "A limit on the number of themed colors",
+      "A restriction on souvenir designs",
+      "A limit on how many guests or vehicles a system can safely and practically handle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why are ride evacuation routes designed separately from the guest experience?",
+    "choices": [
+      "They provide safe access for staff and guests if a ride must be exited outside normal loading areas",
+      "They make the queue longer for decoration",
+      "They increase coaster speed",
+      "They are used only for parades"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a ride's throughput?",
+    "choices": [
+      "The height of its tallest hill",
+      "The number of guests it can process over a period of time",
+      "The amount of water in its splash pool",
+      "The number of colors in its scenery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which park is famous for the wooden coaster Rutschebanen, opened in 1914?",
+    "choices": [
+      "Efteling",
+      "Europa-Park",
+      "Tivoli Gardens",
+      "Alton Towers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which park's Python is a looping coaster with a long history in the Netherlands?",
+    "choices": [
+      "Phantasialand",
+      "Walibi Belgium",
+      "Europa-Park",
+      "Efteling"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Abu Dhabi park features a roof shaped around the Ferrari logo and racing theme?",
+    "choices": [
+      "Ferrari World Abu Dhabi",
+      "Warner Bros. World Abu Dhabi",
+      "Yas Waterworld",
+      "Motiongate Dubai"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is Miniland in a Legoland park?",
+    "choices": [
+      "A water ride for young children",
+      "A themed area displaying large constructions made from LEGO bricks",
+      "A roller-coaster launch system",
+      "A backstage warehouse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which park is associated with the original Universal Studios tour of a working film studio?",
+    "choices": [
+      "Universal Studios Japan",
+      "Universal Studios Singapore",
+      "Universal Studios Hollywood",
+      "Universal Studios Beijing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was Disneyland's original undersea ride called before its Finding Nemo retheme?",
+    "choices": [
+      "Adventure Thru Inner Space",
+      "Rocket Rods",
+      "America Sings",
+      "Submarine Voyage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which ride system allows a vehicle to rotate to face scenes while moving through a dark ride?",
+    "choices": [
+      "A rotating-platform or turntable vehicle system",
+      "A fixed carousel horse",
+      "A chain lift only",
+      "A standard Ferris-wheel gondola"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a motion simulator attraction?",
+    "choices": [
+      "A coaster with no track",
+      "A ride that synchronizes a moving cabin or platform with projected or physical action",
+      "A walking tour with no vehicle",
+      "A ride that uses only live animals"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the most accurate distinction between an amusement park and a theme park?",
+    "choices": [
+      "An amusement park can have no rides",
+      "A theme park must be indoors",
+      "A theme park organizes areas and attractions around coherent stories or settings, though the terms overlap",
+      "An amusement park cannot have food or shows"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a ride's show building?",
+    "choices": [
+      "The park's ticket booth",
+      "The outdoor queue canopy only",
+      "A coaster's maintenance office",
+      "The structure containing the main themed scenes or ride environment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  }
+]

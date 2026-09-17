@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which U.S. national park is widely recognized as the first, established in 1872?",
+    "choices": [
+      "Yellowstone",
+      "Yosemite",
+      "Grand Canyon",
+      "Sequoia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In which state is most of Grand Canyon National Park located?",
+    "choices": [
+      "Utah",
+      "Arizona",
+      "Nevada",
+      "Colorado"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which California park is famous for Yosemite Valley and Half Dome?",
+    "choices": [
+      "Joshua Tree National Park",
+      "Lassen Volcanic National Park",
+      "Yosemite National Park",
+      "Channel Islands National Park"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which Utah park is known for its immense canyon carved by the Virgin River?",
+    "choices": [
+      "Arches",
+      "Bryce Canyon",
+      "Canyonlands",
+      "Zion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which national park straddles Tennessee and North Carolina?",
+    "choices": [
+      "Great Smoky Mountains",
+      "Shenandoah",
+      "Congaree",
+      "Mammoth Cave"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which Florida national park protects a vast wetland famous for sawgrass?",
+    "choices": [
+      "Biscayne",
+      "Everglades",
+      "Dry Tortugas",
+      "Gulf Islands"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which national park occupies much of Mount Desert Island in Maine?",
+    "choices": [
+      "Cape Cod",
+      "White Sands",
+      "Acadia",
+      "Shenandoah"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which Colorado park contains Trail Ridge Road, Longs Peak, and alpine tundra?",
+    "choices": [
+      "Great Sand Dunes",
+      "Mesa Verde",
+      "Black Canyon of the Gunnison",
+      "Rocky Mountain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which California park is named for distinctive desert trees with spiky branching forms?",
+    "choices": [
+      "Joshua Tree",
+      "Death Valley",
+      "Pinnacles",
+      "Redwood"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which Washington national park includes temperate rainforest, mountains, and Pacific coast?",
+    "choices": [
+      "North Cascades",
+      "Olympic",
+      "Mount Rainier",
+      "San Juan Island"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which Alaska park surrounds North America's highest mountain?",
+    "choices": [
+      "Gates of the Arctic",
+      "Katmai",
+      "Denali",
+      "Wrangell–St. Elias"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Hawaiian national park is known for active volcanic landscapes?",
+    "choices": [
+      "Haleakalā",
+      "Puʻuhonua o Hōnaunau",
+      "Kaloko-Honokōhau",
+      "Hawaiʻi Volcanoes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which Utah park contains Delicate Arch and thousands of natural sandstone openings?",
+    "choices": [
+      "Arches",
+      "Zion",
+      "Bryce Canyon",
+      "Capitol Reef"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Utah park is known for orange and cream hoodoos?",
+    "choices": [
+      "Arches",
+      "Bryce Canyon",
+      "Zion",
+      "Canyonlands"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which California park includes Giant Forest and the General Sherman tree?",
+    "choices": [
+      "Redwood",
+      "Kings Canyon",
+      "Sequoia",
+      "Yosemite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which park is famous for extremely hot, dry desert terrain and Badwater Basin?",
+    "choices": [
+      "Joshua Tree",
+      "Great Basin",
+      "Saguaro",
+      "Death Valley"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Montana park is famous for glaciated peaks and alpine lakes?",
+    "choices": [
+      "Glacier",
+      "Yellowstone",
+      "Grand Teton",
+      "North Cascades"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which Wyoming park is known for the dramatic Teton Range?",
+    "choices": [
+      "Yellowstone",
+      "Grand Teton",
+      "Rocky Mountain",
+      "Glacier"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Virginia park follows a long ridge of the Blue Ridge Mountains?",
+    "choices": [
+      "Great Smoky Mountains",
+      "Blue Ridge Parkway",
+      "Shenandoah",
+      "New River Gorge"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which South Dakota park is known for eroded, multicolored buttes?",
+    "choices": [
+      "Wind Cave",
+      "Custer State Park",
+      "Mount Rushmore National Memorial",
+      "Badlands"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which North Dakota park preserves badlands connected to a future U.S. president's ranching years?",
+    "choices": [
+      "Theodore Roosevelt",
+      "Badlands",
+      "Gateway Arch",
+      "Petrified Forest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Arizona park east and west of Tucson protects forests of giant columnar cacti?",
+    "choices": [
+      "Petrified Forest",
+      "Saguaro",
+      "Organ Pipe Cactus",
+      "Joshua Tree"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Colorado national park preserves cliff dwellings built by Ancestral Puebloans?",
+    "choices": [
+      "Rocky Mountain",
+      "Great Sand Dunes",
+      "Mesa Verde",
+      "Black Canyon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which Kentucky park is famous for an extensive cave system?",
+    "choices": [
+      "Cumberland Gap",
+      "Abraham Lincoln Birthplace",
+      "Great Smoky Mountains",
+      "Mammoth Cave"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which New Mexico park contains large underground chambers and formations?",
+    "choices": [
+      "Carlsbad Caverns",
+      "White Sands",
+      "Bandelier",
+      "Guadalupe Mountains"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which California park protects some of the world’s tallest coast redwoods?",
+    "choices": [
+      "Sequoia",
+      "Redwood",
+      "Yosemite",
+      "Lassen Volcanic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Oregon national park surrounds a deep blue lake formed in a volcanic caldera?",
+    "choices": [
+      "Mount Rainier",
+      "Lassen Volcanic",
+      "Crater Lake",
+      "Newberry National Volcanic Monument"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which Colorado park contains the tallest sand dunes in North America?",
+    "choices": [
+      "Rocky Mountain",
+      "Mesa Verde",
+      "Canyonlands",
+      "Great Sand Dunes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Arizona park contains logs turned to colorful stone?",
+    "choices": [
+      "Petrified Forest",
+      "Saguaro",
+      "Grand Canyon",
+      "Organ Pipe Cactus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Florida national park is primarily a marine park with coral reefs and islands?",
+    "choices": [
+      "Everglades",
+      "Biscayne",
+      "Dry Tortugas",
+      "Big Cypress"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which California national park includes rugged offshore islands and ocean waters?",
+    "choices": [
+      "Point Reyes",
+      "Redwood",
+      "Channel Islands",
+      "Pinnacles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which South Carolina park protects old-growth bottomland hardwood forest?",
+    "choices": [
+      "Everglades",
+      "Great Smoky Mountains",
+      "Cuyahoga Valley",
+      "Congaree"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which West Virginia park centers on a dramatic gorge and a major river?",
+    "choices": [
+      "New River Gorge",
+      "Shenandoah",
+      "Cuyahoga Valley",
+      "Gauley River"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Ohio national park follows a historic canal corridor and river valley?",
+    "choices": [
+      "New River Gorge",
+      "Cuyahoga Valley",
+      "Indiana Dunes",
+      "Great Smoky Mountains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which Missouri national park site commemorates a large stainless-steel arch?",
+    "choices": [
+      "Jefferson National Expansion Memorial",
+      "Lincoln Memorial",
+      "Gateway Arch",
+      "Perry’s Victory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which national memorial in South Dakota features the carved faces of four presidents?",
+    "choices": [
+      "Crazy Horse Memorial",
+      "Devils Tower",
+      "Lincoln Memorial",
+      "Mount Rushmore"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Wyoming national monument is a prominent isolated volcanic rock tower?",
+    "choices": [
+      "Devils Tower",
+      "Bears Ears",
+      "Dinosaur",
+      "Craters of the Moon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which New Mexico park protects a vast field of bright gypsum dunes?",
+    "choices": [
+      "Great Sand Dunes",
+      "White Sands",
+      "Petrified Forest",
+      "Organ Pipe Cactus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Michigan national lakeshore is known for colorful sandstone cliffs along Lake Superior?",
+    "choices": [
+      "Sleeping Bear Dunes",
+      "Apostle Islands",
+      "Pictured Rocks",
+      "Indiana Dunes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which Wisconsin national lakeshore includes sea caves and islands in Lake Superior?",
+    "choices": [
+      "Pictured Rocks",
+      "Sleeping Bear Dunes",
+      "Voyageurs",
+      "Apostle Islands"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which long-distance trail traditionally runs from Georgia to Maine?",
+    "choices": [
+      "Appalachian Trail",
+      "Pacific Crest Trail",
+      "Continental Divide Trail",
+      "Florida Trail"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which long-distance trail follows the crest of the Sierra Nevada and Cascade ranges?",
+    "choices": [
+      "Appalachian Trail",
+      "Pacific Crest Trail",
+      "Arizona Trail",
+      "Ice Age Trail"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which natural feature in Yellowstone is famous for regular eruptions?",
+    "choices": [
+      "Mammoth Hot Springs",
+      "Grand Prismatic Spring",
+      "Old Faithful",
+      "Steamboat Geyser"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which granite landmark is one of Yosemite’s most recognizable features?",
+    "choices": [
+      "El Capitan",
+      "Sentinel Dome",
+      "Mount Lyell",
+      "Half Dome"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which arch is an iconic landmark in Arches National Park?",
+    "choices": [
+      "Delicate Arch",
+      "Rainbow Bridge",
+      "Mesa Arch",
+      "Landscape Arch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which large mammal is strongly associated with Yellowstone’s wildlife?",
+    "choices": [
+      "African elephant",
+      "American bison",
+      "Koala",
+      "Giant panda"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is the Colorado River’s major role in the Grand Canyon landscape?",
+    "choices": [
+      "It created the canyon by erupting",
+      "It is an artificial canal",
+      "It carved much of the canyon over geologic time",
+      "It flows only during winter storms"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is a hoodoo?",
+    "choices": [
+      "A volcanic crater lake",
+      "A cave-dwelling bat",
+      "A historic park lodge",
+      "A tall, thin rock spire shaped by erosion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a national monument generally established to protect?",
+    "choices": [
+      "A notable natural, cultural, or scientific feature",
+      "Only a battlefield",
+      "Only a city park",
+      "Only a recreational lake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which animal is a well-known symbol of the American West and lives in several national parks?",
+    "choices": [
+      "The kangaroo",
+      "The bison",
+      "The llama",
+      "The polar bear"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What volcanic feature lies beneath much of Yellowstone National Park?",
+    "choices": [
+      "A coral atoll",
+      "A folded limestone reef",
+      "A large caldera system",
+      "A meteorite crater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why does Yellowstone contain so many hot springs and geysers?",
+    "choices": [
+      "The park sits directly above an ocean trench",
+      "Glaciers boil beneath the surface",
+      "The features are all artificial plumbing",
+      "A shallow heat source warms groundwater in a volcanic system"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What process helped shape Yosemite Valley’s broad U-shaped form?",
+    "choices": [
+      "Glacial erosion",
+      "Wind erosion alone",
+      "A meteor impact",
+      "Coral growth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What type of igneous rock forms much of El Capitan and Half Dome?",
+    "choices": [
+      "Basalt",
+      "Granite",
+      "Coal",
+      "Chalk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which river is most closely associated with the canyon in Zion National Park?",
+    "choices": [
+      "The Colorado River",
+      "The Snake River",
+      "The Virgin River",
+      "The Rio Grande"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What weathering process is especially important in forming Bryce Canyon’s hoodoos?",
+    "choices": [
+      "Coral reef accretion",
+      "Lava tubes collapsing under oceans",
+      "Wind polishing solid granite only",
+      "Repeated freezing and thawing of water in rock cracks"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which sandstone formation is especially associated with the arches of Arches National Park?",
+    "choices": [
+      "Entrada Sandstone",
+      "Navajo Sandstone only",
+      "Coconino Sandstone",
+      "Dakota Sandstone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which district is known for broad mesa-top views in Canyonlands National Park?",
+    "choices": [
+      "The Narrows",
+      "Island in the Sky",
+      "The Needles Eye",
+      "The Waterpocket Fold"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the Waterpocket Fold?",
+    "choices": [
+      "A folded tent used by visitors",
+      "A canyon in the Everglades",
+      "A major geologic monocline in Capitol Reef",
+      "A volcanic ridge in Hawaii"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why is Great Smoky Mountains National Park noted for biodiversity?",
+    "choices": [
+      "It contains the world’s largest coral reef",
+      "It has no forests and few elevation changes",
+      "All of its wildlife was introduced recently",
+      "Its varied elevations, climate, and habitats support many species"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What distinctive water movement characterizes much of the Everglades?",
+    "choices": [
+      "A broad, slow sheet flow across wetlands",
+      "A deep underground river beneath desert dunes",
+      "A tidal bore through a narrow canyon",
+      "A seasonal lava flow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which historic structure dominates Dry Tortugas National Park?",
+    "choices": [
+      "Fort Sumter",
+      "Fort Jefferson",
+      "Castillo de San Marcos",
+      "Fort Point"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What kind of environment makes up much of Biscayne National Park?",
+    "choices": [
+      "Alpine tundra and glaciers",
+      "Redwood forest and fog",
+      "Coral reefs, mangroves, and shallow marine waters",
+      "Canyonlands and slot canyons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which river forms part of Big Bend National Park’s southern boundary?",
+    "choices": [
+      "The Colorado River",
+      "The Pecos River",
+      "The Arkansas River",
+      "The Rio Grande"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Texas park contains Guadalupe Peak, the state’s highest point?",
+    "choices": [
+      "Guadalupe Mountains",
+      "Big Bend",
+      "Padre Island",
+      "Lyndon B. Johnson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What unusual process helped create many chambers in Carlsbad Caverns?",
+    "choices": [
+      "Glacial carving of granite",
+      "Sulfuric-acid dissolution of limestone",
+      "Lava cooling into hollow tubes",
+      "Wind piling gypsum into caves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which cave system is famous for its exceptional length and extensive mapped passages?",
+    "choices": [
+      "Carlsbad Caverns",
+      "Wind Cave",
+      "Mammoth Cave",
+      "Jewel Cave"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which national park is especially associated with boxwork, a honeycomb-like cave formation?",
+    "choices": [
+      "Mammoth Cave",
+      "Carlsbad Caverns",
+      "Cumberland Gap",
+      "Wind Cave"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is Devils Tower geologically classified as?",
+    "choices": [
+      "A columnar igneous intrusion",
+      "A limestone cave roof",
+      "A sandstone arch",
+      "A glacial erratic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "How did Crater Lake form?",
+    "choices": [
+      "A river slowly cut a canyon",
+      "A volcanic mountain collapsed after a major eruption",
+      "A glacier gouged a granite basin",
+      "An ocean lagoon was isolated by dunes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which road is a celebrated engineering and scenic feature of Glacier National Park?",
+    "choices": [
+      "Trail Ridge Road",
+      "Blue Ridge Parkway",
+      "Going-to-the-Sun Road",
+      "Tioga Road"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What type of mountain range is the Teton Range often described as?",
+    "choices": [
+      "A volcanic island arc",
+      "A coral mountain chain",
+      "A dune ridge",
+      "A fault-block range"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which major continental divide crosses Rocky Mountain National Park?",
+    "choices": [
+      "The Continental Divide",
+      "The Great Dividing Range",
+      "The Eastern Continental Divide only",
+      "The Laurentian Divide"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What unusual combination helps create Great Sand Dunes’ large sand field?",
+    "choices": [
+      "Coral debris pushed inland by tides",
+      "Sand supplied by eroding mountains and trapped by surrounding winds and terrain",
+      "Volcanic ash falling into a closed crater",
+      "Glacial ice compacting into dunes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Mesa Verde’s major cliff dwellings were built by which ancestral culture?",
+    "choices": [
+      "Mississippian mound builders",
+      "Inuit communities",
+      "Ancestral Puebloans",
+      "Spanish missionaries"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which national historical park is associated with monumental ancient buildings in northwestern New Mexico?",
+    "choices": [
+      "Mesa Verde",
+      "Pecos",
+      "Tumacácori",
+      "Chaco Culture"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which national monument near Albuquerque preserves extensive volcanic rock carvings?",
+    "choices": [
+      "Petroglyph National Monument",
+      "Bandelier National Monument",
+      "El Malpais National Monument",
+      "Pueblo de Taos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What kind of volcano is Mauna Loa, a major feature of Hawaiʻi Volcanoes National Park?",
+    "choices": [
+      "A steep cinder cone only",
+      "A broad shield volcano",
+      "A submarine trench",
+      "A dormant stratovolcano made of granite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which feature is central to Haleakalā National Park’s summit landscape?",
+    "choices": [
+      "A limestone cave system",
+      "A redwood valley",
+      "A massive volcanic summit crater-like depression",
+      "A coral reef lagoon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why is Denali’s summit elevation historically notable?",
+    "choices": [
+      "It is the lowest point on the continent",
+      "It is the oldest known national monument",
+      "It is the only U.S. mountain above the Arctic Ocean",
+      "It is the highest mountain in North America"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Alaska park is known for the Valley of Ten Thousand Smokes?",
+    "choices": [
+      "Katmai",
+      "Denali",
+      "Kenai Fjords",
+      "Gates of the Arctic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What ice feature dominates much of Kenai Fjords National Park?",
+    "choices": [
+      "The Juneau Icefield",
+      "The Harding Icefield",
+      "The Quelccaya Ice Cap",
+      "The Columbia Icefield"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "In what year was the National Park Service created?",
+    "choices": [
+      "1872",
+      "1906",
+      "1916",
+      "1933"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which law empowered U.S. presidents to establish national monuments from federal lands?",
+    "choices": [
+      "The Homestead Act",
+      "The Organic Act of 1916",
+      "The Wilderness Act of 1964",
+      "The Antiquities Act of 1906"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which site became the first U.S. national monument in 1906?",
+    "choices": [
+      "Devils Tower",
+      "Grand Canyon",
+      "Muir Woods",
+      "Petrified Forest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which president signed the Antiquities Act in 1906?",
+    "choices": [
+      "Woodrow Wilson",
+      "Theodore Roosevelt",
+      "Ulysses S. Grant",
+      "Franklin D. Roosevelt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What happened to wolves in Yellowstone in 1995?",
+    "choices": [
+      "Wolves were declared extinct worldwide",
+      "A new wolf species was discovered",
+      "Gray wolves were reintroduced after a long absence",
+      "All wolves were removed to protect bison"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which bird was reintroduced to parts of the Grand Canyon region after severe population decline?",
+    "choices": [
+      "The bald eagle",
+      "The whooping crane",
+      "The peregrine falcon",
+      "The California condor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does a prescribed burn aim to do in some park ecosystems?",
+    "choices": [
+      "Use carefully managed fire to reduce fuels and support ecological processes",
+      "Burn every forest on a fixed annual schedule",
+      "Replace native plants with crops",
+      "Create new parking areas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which park designation generally protects an area while allowing traditional marine and coastal uses under its governing rules?",
+    "choices": [
+      "A national battlefield",
+      "A national seashore",
+      "A national memorial",
+      "A national historic site"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the central distinction between a national park and a national historic site?",
+    "choices": [
+      "A national park can never contain historic resources",
+      "A historic site must always be larger",
+      "A historic site is primarily designated for an important historic property or event",
+      "A national park is managed only by states"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which trail designation is intended to recognize especially long-distance routes of national significance?",
+    "choices": [
+      "National Recreation Trail only",
+      "Urban Heritage Walk",
+      "State Historic Route",
+      "National Scenic Trail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the ecological role of coastal fog for California’s redwood forests?",
+    "choices": [
+      "It supplies moisture that helps the trees and understory during dry periods",
+      "It prevents all photosynthesis",
+      "It creates the redwood wood chemically",
+      "It turns seawater directly into tree sap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which western conifer is well known for fire-adapted serotinous cones that open after heat?",
+    "choices": [
+      "Baobab",
+      "Lodgepole pine",
+      "Mangrove",
+      "European beech"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a key difference between an American bison and a buffalo?",
+    "choices": [
+      "They are exactly the same species under both names",
+      "Buffalo are reptiles and bison are mammals",
+      "The American animal is a bison, although “buffalo” is a common nickname",
+      "Bison are native only to Africa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which park is particularly associated with North American brown bears gathering near salmon runs?",
+    "choices": [
+      "Saguaro",
+      "Congaree",
+      "Gateway Arch",
+      "Katmai"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the main conservation concern when roads fragment wildlife habitat?",
+    "choices": [
+      "They can block movement and increase animal-vehicle collisions",
+      "They make all plants grow faster",
+      "They create new glaciers",
+      "They eliminate weather variation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which landscape feature gives the Painted Desert its varied colors in Petrified Forest National Park?",
+    "choices": [
+      "Coral bleaching",
+      "Minerals in layered sedimentary rocks",
+      "Fresh lava only",
+      "Snowfields reflecting sunlight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why are many of the rocks in Joshua Tree National Park rounded into boulders?",
+    "choices": [
+      "They were sculpted from ice by glaciers",
+      "They are petrified sand dunes",
+      "Weathering and erosion acted along joints in massive granite",
+      "They are coral heads lifted from the sea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which geological feature makes the Black Canyon of the Gunnison especially dramatic?",
+    "choices": [
+      "A broad canyon filled with coastal dunes",
+      "A volcanic crater with active lava",
+      "A limestone cave open to the ocean",
+      "A very deep, narrow canyon cut into hard rock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

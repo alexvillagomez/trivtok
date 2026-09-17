@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which offensive player usually calls signals and receives the snap from the center?",
+    "choices": [
+      "Quarterback",
+      "Running back",
+      "Tight end",
+      "Fullback"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which offensive lineman snaps the ball to begin a normal play?",
+    "choices": [
+      "Guard",
+      "Center",
+      "Tackle",
+      "Fullback"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the name for the exchange that starts a scrimmage play?",
+    "choices": [
+      "Pitch",
+      "Down",
+      "Snap",
+      "Handoff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is the scoring area at each end of an American-football field called?",
+    "choices": [
+      "Red zone",
+      "Goal box",
+      "Backfield",
+      "End zone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many points does a successful field goal normally score in the NFL?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "How many points does a safety normally give the defending team?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Six"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the extra kick attempted after a touchdown commonly called?",
+    "choices": [
+      "Two-minute drill",
+      "Free kick",
+      "Point-after attempt",
+      "Conversion punt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "How many downs does an NFL offense ordinarily have to gain a first down?",
+    "choices": [
+      "Three",
+      "Five",
+      "Six",
+      "Four"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "How many yards must an offense usually gain for a new first down?",
+    "choices": [
+      "Ten yards",
+      "Five yards",
+      "Eight yards",
+      "Fifteen yards"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the kick called when a team gives up possession by kicking from scrimmage?",
+    "choices": [
+      "Kickoff",
+      "Punt",
+      "Field goal",
+      "Drop kick"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What kick begins each half and follows most scores?",
+    "choices": [
+      "Punt",
+      "Place kick",
+      "Kickoff",
+      "Safety kick"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What area of the field is commonly defined as the final 20 yards before the goal line?",
+    "choices": [
+      "Neutral zone",
+      "Backfield",
+      "Slot",
+      "Red zone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which offensive position often lines up beside the tackles and can block or catch passes?",
+    "choices": [
+      "Tight end",
+      "Slot corner",
+      "Linebacker",
+      "Punter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which offensive player most commonly carries the ball on a designed running play?",
+    "choices": [
+      "Center",
+      "Running back",
+      "Safety",
+      "Wide receiver"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which position primarily runs pass routes outside or from the slot?",
+    "choices": [
+      "Guard",
+      "Nose tackle",
+      "Wide receiver",
+      "Long snapper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which defensive position usually lines up behind the defensive line and helps stop runs?",
+    "choices": [
+      "Quarterback",
+      "Guard",
+      "Punter",
+      "Linebacker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which defender is commonly assigned to cover an opposing wide receiver?",
+    "choices": [
+      "Cornerback",
+      "Center",
+      "Fullback",
+      "Offensive tackle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which defensive backs usually play deepest in the secondary?",
+    "choices": [
+      "Guards",
+      "Safeties",
+      "Tight ends",
+      "Nose tackles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What collective unit consists of defensive tackles and defensive ends?",
+    "choices": [
+      "Secondary",
+      "Offensive backfield",
+      "Defensive line",
+      "Special teams"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What group of linemen protects the quarterback and blocks for runners?",
+    "choices": [
+      "Secondary",
+      "Linebacker corps",
+      "Return unit",
+      "Offensive line"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In which formation does the quarterback receive the snap several yards behind the center?",
+    "choices": [
+      "Shotgun",
+      "I formation",
+      "Goal-line set",
+      "Single wing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What alignment puts the quarterback directly behind the center for the snap?",
+    "choices": [
+      "Shotgun",
+      "Under center",
+      "Pistol spread",
+      "Wildcat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which formation traditionally places a fullback in front of a deeper running back?",
+    "choices": [
+      "Shotgun trips",
+      "Empty set",
+      "I formation",
+      "Nickel package"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What defensive package uses five defensive backs?",
+    "choices": [
+      "Dime package",
+      "Quarter package",
+      "Goal-line package",
+      "Nickel package"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What defensive package uses six defensive backs?",
+    "choices": [
+      "Dime package",
+      "Nickel package",
+      "Base package",
+      "Bear package"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What coverage has defenders assigned primarily to individual offensive players?",
+    "choices": [
+      "Zone coverage",
+      "Man coverage",
+      "Cloud coverage",
+      "Match quarters"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What coverage divides the field into areas defended by different players?",
+    "choices": [
+      "Man coverage",
+      "Zero blitz",
+      "Zone coverage",
+      "Press technique"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a defensive rush involving more pass rushers than the offense can block conventionally called?",
+    "choices": [
+      "Draw",
+      "Screen",
+      "Audible",
+      "Blitz"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What does a quarterback typically make when changing the called play at the line?",
+    "choices": [
+      "Audible",
+      "Fair catch",
+      "Touchback",
+      "Stunt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What pre-snap movement by an offensive player can reveal defensive alignment?",
+    "choices": [
+      "Spiking",
+      "Motion",
+      "Punting",
+      "Downing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What pass concept uses a fake run handoff to influence the defense?",
+    "choices": [
+      "Screen pass",
+      "Fade route",
+      "Play-action pass",
+      "Quick out"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What pass is thrown behind or near the line while blockers lead for the receiver?",
+    "choices": [
+      "Hail Mary",
+      "Seam pass",
+      "Back-shoulder throw",
+      "Screen pass"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What running play looks like a pass at first because the back delays his entry into the line?",
+    "choices": [
+      "Draw play",
+      "Quarterback sneak",
+      "Bootleg",
+      "Reverse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What penalty is called when a defender significantly impedes an eligible receiver before the catch?",
+    "choices": [
+      "False start",
+      "Defensive pass interference",
+      "Delay of game",
+      "Illegal motion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What pre-snap penalty occurs when an offensive player moves illegally before the snap?",
+    "choices": [
+      "Offside",
+      "Face mask",
+      "False start",
+      "Intentional grounding"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What penalty occurs when a defender enters the neutral zone and causes an offensive reaction?",
+    "choices": [
+      "Holding",
+      "Clipping",
+      "Illegal shift",
+      "Offside"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What common penalty involves illegally restricting an opponent with the hands or arms?",
+    "choices": [
+      "Holding",
+      "Encroachment",
+      "Delay of game",
+      "Roughing the kicker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is it called when a ball carrier loses possession before being down?",
+    "choices": [
+      "Interception",
+      "Fumble",
+      "Muff",
+      "Incomplete pass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What turnover occurs when a defender catches a forward pass?",
+    "choices": [
+      "Fumble recovery",
+      "Blocked punt",
+      "Interception",
+      "Safety"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does a punt returner signal to indicate that he will not attempt a return?",
+    "choices": [
+      "Touchdown",
+      "Down signal",
+      "Spike",
+      "Fair catch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the ruling when a kicked ball enters the end zone and is not returned?",
+    "choices": [
+      "Touchback",
+      "Safety",
+      "Fair catch",
+      "Scrimmage kick"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What field markings help position the ball for plays near the middle of an NFL field?",
+    "choices": [
+      "Arcs",
+      "Hash marks",
+      "Service lines",
+      "Creases"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What trophy is awarded to the winner of the Super Bowl?",
+    "choices": [
+      "Pete Rozelle Trophy",
+      "George Halas Trophy",
+      "Vince Lombardi Trophy",
+      "Lamar Hunt Trophy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which two teams played in the first Super Bowl in January 1967?",
+    "choices": [
+      "Dallas Cowboys and Buffalo Bills",
+      "New York Jets and Baltimore Colts",
+      "Pittsburgh Steelers and Minnesota Vikings",
+      "Green Bay Packers and Kansas City Chiefs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In what year did the AFL and NFL complete their merger into one league structure?",
+    "choices": [
+      "1970",
+      "1966",
+      "1974",
+      "1982"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In which decade was the American Professional Football Association, the NFL's predecessor, founded?",
+    "choices": [
+      "1900s",
+      "1920s",
+      "1940s",
+      "1960s"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What roster group primarily develops young players who are not on the active game-day roster?",
+    "choices": [
+      "Inactives list",
+      "Taxi officials",
+      "Practice squad",
+      "Reserve veterans"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What tag can a team use to retain exclusive negotiating rights with a designated star for one season?",
+    "choices": [
+      "Waiver tag",
+      "Rookie tag",
+      "Transition waiver",
+      "Franchise tag"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which unit includes the placekicker, punter, long snapper, and return specialists?",
+    "choices": [
+      "Special teams",
+      "Secondary",
+      "Offensive backfield",
+      "Scout offense"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In a traditional 3–4 base defense, how many down linemen are normally on the line?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In a 3–4 defense, which player commonly aligns head-up over the center and occupies two gaps?",
+    "choices": [
+      "Mike linebacker",
+      "Boundary corner",
+      "Nose tackle",
+      "Strong safety"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In standard Cover 2, what deep responsibility is assigned to each safety?",
+    "choices": [
+      "The entire deep field",
+      "The curl-flat only",
+      "The middle hook only",
+      "One deep half"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How many deep defenders divide the field in a basic Cover 3 zone?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is distinctive about a Tampa 2 coverage compared with a basic Cover 2?",
+    "choices": [
+      "Both safeties blitz immediately",
+      "The middle linebacker carries a deep middle route",
+      "Corners play only man coverage",
+      "There are no deep safeties"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In quarters coverage, what is the basic deep-field distribution?",
+    "choices": [
+      "Two defenders each own a deep half",
+      "Three defenders each own a deep third",
+      "Four defenders each own a deep quarter",
+      "One defender owns the entire deep field"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does Cover 0 signal about the defense's deep-safety structure?",
+    "choices": [
+      "There are two deep halves",
+      "There are three deep thirds",
+      "A safety stays in the box while another plays center field",
+      "There is no deep safety help"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A post-snap safety who drives toward an inside route to help a corner is often called what?",
+    "choices": [
+      "Robber",
+      "Spinner",
+      "Anchor",
+      "Tracker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What coverage technique asks defenders to pass routes between them based on route distribution?",
+    "choices": [
+      "Pure trail man",
+      "Pattern matching",
+      "Zero blitz",
+      "Spot dropping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In an RPO, which defender is commonly read to decide whether to hand off or throw?",
+    "choices": [
+      "Long snapper",
+      "Deep safety only",
+      "Conflict defender",
+      "Backside tackle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which passing concept sends one receiver deep while another runs an intermediate in-breaking route from the same side?",
+    "choices": [
+      "Smash",
+      "Mesh",
+      "Four verts",
+      "Dagger"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which route combination pairs a corner route with a short hitch or flat route to stress a sideline defender?",
+    "choices": [
+      "Smash",
+      "Dagger",
+      "Mills",
+      "Yankee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What passing concept commonly combines a vertical route, an intermediate out-breaker, and a flat route?",
+    "choices": [
+      "Mesh",
+      "Flood",
+      "Stick-nod",
+      "Levels"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which concept uses two crossing routes at a similar shallow depth to create traffic?",
+    "choices": [
+      "Dagger",
+      "Sail",
+      "Mesh",
+      "Scissors"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which classic passing concept combines a deep post with an intermediate dig?",
+    "choices": [
+      "Smash",
+      "Stick",
+      "Spacing",
+      "Mills"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What defensive pressure presents multiple linebackers in both A-gaps before the snap?",
+    "choices": [
+      "Double A-gap mug",
+      "Wide-9 rush",
+      "Bear front",
+      "Over front"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a simulated pressure designed to do?",
+    "choices": [
+      "Blitz every linebacker",
+      "Show pressure while rushing fewer than five defenders",
+      "Rush only defensive backs",
+      "Keep every defender in coverage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What defensive line stunt has two rushers exchange their paths to create an opening?",
+    "choices": [
+      "Bull rush",
+      "Speed rush",
+      "Tackle-end twist",
+      "Read block"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a zone blitz?",
+    "choices": [
+      "A blitz with no zone defenders",
+      "A punt-return alignment",
+      "A run play using zone blocking",
+      "A pressure in which a defender drops from a rush look while another rushes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What coverage adjustment has two defenders jointly account for releases from a bunch formation?",
+    "choices": [
+      "Banjo coverage",
+      "Cone coverage",
+      "Cloud nine",
+      "Box kick"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What offensive blocking technique has two adjacent blockers coordinate to move a single gap defender?",
+    "choices": [
+      "Solo reach",
+      "Combo block",
+      "Cut block",
+      "Trap pass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What block sends a pulling lineman around the edge to strike a force defender?",
+    "choices": [
+      "Reach block",
+      "Cutoff block",
+      "Kick-out block",
+      "Scoop block"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a wham block in run-game terminology?",
+    "choices": [
+      "A receiver blocks a corner after a completed pass",
+      "A tackle cuts a linebacker below the waist",
+      "A guard blocks the quarterback on a sneak",
+      "A motioning or off-line blocker blindsides an interior defensive lineman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What formation places three eligible receivers to one side of the offensive formation?",
+    "choices": [
+      "Trips",
+      "Bunch",
+      "Pro set",
+      "Balanced twins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What makes an offensive formation unbalanced?",
+    "choices": [
+      "The quarterback is under center",
+      "The eligible and ineligible linemen are distributed unevenly across the center",
+      "There are three running backs",
+      "The defense uses an odd front"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Under normal NFL numbering conventions, what must an ineligible offensive lineman do before lining up as an eligible receiver?",
+    "choices": [
+      "Wear a different helmet",
+      "Line up in the backfield",
+      "Report as eligible to the referee",
+      "Receive a hand signal from the safety"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the key difference between a muffed punt and a fumbled punt return?",
+    "choices": [
+      "A muff always occurs after a touchdown",
+      "A fumble can happen only on kickoffs",
+      "A muff automatically gives possession to the kicking team",
+      "A muff is touching the ball without possessing it"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which roster mechanism awards some teams extra draft selections based largely on qualifying free-agent losses?",
+    "choices": [
+      "Compensatory picks",
+      "Supplemental waivers",
+      "Expansion selections",
+      "Injury exemptions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What type of free agent may negotiate only with the team holding his exclusive rights if that team makes the required minimum tender?",
+    "choices": [
+      "Franchise free agent",
+      "Exclusive-rights free agent",
+      "Transition free agent",
+      "Compensatory free agent"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which NFL game is famous as the first championship game to go to sudden-death overtime?",
+    "choices": [
+      "1967 AFL Championship Game",
+      "1970 NFC Championship Game",
+      "1958 NFL Championship Game",
+      "1982 Super Bowl"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which team completed the NFL's first undefeated, untied season in the Super Bowl era?",
+    "choices": [
+      "1985 Chicago Bears",
+      "1990 San Francisco 49ers",
+      "2007 New England Patriots",
+      "1972 Miami Dolphins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which team finished the 2007 regular season 16–0 before losing Super Bowl XLII?",
+    "choices": [
+      "New England Patriots",
+      "Indianapolis Colts",
+      "Green Bay Packers",
+      "Dallas Cowboys"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which quarterback is the only one to start and win Super Bowls for two different franchises?",
+    "choices": [
+      "Brett Favre",
+      "Peyton Manning",
+      "Drew Brees",
+      "Kurt Warner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which receiver holds the NFL career records for receptions, receiving yards, and receiving touchdowns?",
+    "choices": [
+      "Randy Moss",
+      "Larry Fitzgerald",
+      "Jerry Rice",
+      "Cris Carter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which running back is recognized as the NFL's all-time leading rusher in official career regular-season yardage?",
+    "choices": [
+      "Walter Payton",
+      "Barry Sanders",
+      "Frank Gore",
+      "Emmitt Smith"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What offensive system is strongly associated with Bill Walsh's use of precise timing and horizontal spacing?",
+    "choices": [
+      "West Coast offense",
+      "Run-and-shoot",
+      "Wishbone",
+      "Single-wing offense"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What was the defining feature of the 1985 Chicago Bears' famous defensive front?",
+    "choices": [
+      "The 3–3–5 stack",
+      "The 46 defense",
+      "The 4–2–5 nickel",
+      "The flexbone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What roster transaction places a player who can no longer remain on the active roster onto another club's claim priority list?",
+    "choices": [
+      "Practice-squad signing",
+      "Reserve-futures deal",
+      "Waiver placement",
+      "Tendering"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "A defense aligned with three interior linemen covering the center and both guards is commonly called what front?",
+    "choices": [
+      "Over front",
+      "Under front",
+      "Mint front",
+      "Bear front"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the primary purpose of a press-bail corner technique?",
+    "choices": [
+      "Show press alignment before retreating into outside deep responsibility",
+      "Blitz immediately from the slot",
+      "Jam the receiver and never turn to run",
+      "Exchange coverage with the linebacker after the catch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In a 3x1 passing formation, what does the '1' describe?",
+    "choices": [
+      "One lineman is uncovered",
+      "One eligible receiver is isolated on the opposite side",
+      "One running back is in motion",
+      "One safety is removed from the field"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a bunch formation's defining alignment?",
+    "choices": [
+      "All receivers line up on the line",
+      "The running back lines up outside the tackle",
+      "Several receivers align close together rather than evenly spaced",
+      "The tight end is the only eligible receiver"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In pass protection, what does a slide protection call primarily determine?",
+    "choices": [
+      "Which receiver runs the first route",
+      "Where the punt lands",
+      "Which safety rolls down",
+      "The direction in which linemen zone their protection responsibilities"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a quarterback sneak most specifically designed to exploit near the line to gain?",
+    "choices": [
+      "A short interior gap with the quarterback following the center's surge",
+      "A deep safety's poor angle",
+      "A cornerback's inability to tackle",
+      "A punt coverage mismatch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "When a defense 'spies' a mobile quarterback, what is the spy's assignment?",
+    "choices": [
+      "Cover the widest receiver",
+      "Mirror the quarterback and prevent a scramble from escaping the pocket",
+      "Rush the center every snap",
+      "Return interceptions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does a 'green dog' pressure call allow a linebacker to do?",
+    "choices": [
+      "Blitz only after an interception",
+      "Drop into a three-deep zone on every play",
+      "Blitz if his assigned back blocks, otherwise cover the back",
+      "Replace the punter after a fake"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a trap coverage technique intended to do?",
+    "choices": [
+      "Force every receiver into man coverage",
+      "Create a double-team on the quarterback",
+      "Make the offense lose a down before the snap",
+      "Have a defender bait a throw and then jump a route from an unexpected alignment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which blocking scheme asks linemen to block an area rather than a defender identified strictly by alignment?",
+    "choices": [
+      "Zone blocking",
+      "Man-gap blocking",
+      "Pin-and-pull only",
+      "Power-I blocking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the defining action of a pin-and-pull run concept?",
+    "choices": [
+      "The quarterback pins a safety with his eyes",
+      "An uncovered lineman pulls while another lineman blocks down to pin a defender",
+      "The center pulls on every play",
+      "A receiver catches the snap and punts"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which historical change in 1978 is associated with expanding passing opportunities by restricting contact by defensive backs?",
+    "choices": [
+      "The Deacon Jones rule",
+      "The Rozelle rule",
+      "The Mel Blount rule",
+      "The Brady rule"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which head coach led the 1972 Miami Dolphins to the Super Bowl era's only perfect season?",
+    "choices": [
+      "Chuck Noll",
+      "Tom Landry",
+      "Bill Parcells",
+      "Don Shula"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

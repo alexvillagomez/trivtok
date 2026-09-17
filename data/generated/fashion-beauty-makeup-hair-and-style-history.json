@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is foundation primarily used for in makeup?",
+    "choices": [
+      "Evening the appearance of the complexion",
+      "Curling the eyelashes",
+      "Coloring the lips",
+      "Cleaning makeup brushes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is concealer commonly used to do?",
+    "choices": [
+      "Add curls to the hair",
+      "Cover or lessen the appearance of small areas",
+      "Set perfume on the skin",
+      "Shape a fingernail"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which makeup product is usually applied to add color to the cheeks?",
+    "choices": [
+      "Mascara",
+      "Primer",
+      "Blush",
+      "Lip liner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does mascara most directly enhance?",
+    "choices": [
+      "The cheekbones",
+      "The lips",
+      "The eyebrows only",
+      "The eyelashes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which product is designed to define the line around the eyes?",
+    "choices": [
+      "Eyeliner",
+      "Foundation",
+      "Bronzer",
+      "Face powder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is lipstick made to add to the lips?",
+    "choices": [
+      "Curl",
+      "Color",
+      "Shine to the hair",
+      "A brow shape"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where is eyeshadow normally applied?",
+    "choices": [
+      "On the fingernails",
+      "Along the hairline only",
+      "On the eyelids",
+      "On the soles of the feet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a brow pencil used for?",
+    "choices": [
+      "Curling eyelashes",
+      "Removing foundation",
+      "Shaping a haircut",
+      "Defining or filling the eyebrows"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a makeup primer generally applied for?",
+    "choices": [
+      "Preparing the skin before other makeup",
+      "Removing eye makeup",
+      "Coloring the hair",
+      "Polishing nails"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the purpose of setting spray?",
+    "choices": [
+      "Lightening hair color",
+      "Helping makeup remain in place",
+      "Removing mascara",
+      "Shaping a beard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which tool is a soft, often teardrop-shaped applicator for liquid or cream makeup?",
+    "choices": [
+      "A nail buffer",
+      "A teasing comb",
+      "A makeup sponge",
+      "A perfume blotter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a makeup brush primarily designed to do?",
+    "choices": [
+      "Cut hair",
+      "Mix perfume oils",
+      "File a nail",
+      "Apply or blend cosmetic products"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What product is commonly used to dissolve and lift makeup at the end of the day?",
+    "choices": [
+      "Makeup remover",
+      "Setting powder",
+      "Lip stain",
+      "Hair mousse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is shampoo primarily used for?",
+    "choices": [
+      "Adding color to the lips",
+      "Cleansing the hair and scalp",
+      "Holding an updo in place",
+      "Polishing leather shoes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is conditioner generally used to do?",
+    "choices": [
+      "Remove nail polish",
+      "Tint the eyebrows permanently",
+      "Improve the hair's softness and manageability",
+      "Create a perfume note"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a bob haircut?",
+    "choices": [
+      "A braid worn across the forehead",
+      "A shaved eyebrow design",
+      "A type of hair accessory",
+      "A haircut generally cut around the jaw or neck"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a pixie cut?",
+    "choices": [
+      "A short, close-cropped hairstyle",
+      "A long braid tied at the waist",
+      "A style of false eyelash",
+      "A perfume bottle shape"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What are bangs, also called in some regions?",
+    "choices": [
+      "Hair at the nape only",
+      "Hair cut across or over the forehead",
+      "A type of hair dye",
+      "A decorative comb"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a ponytail?",
+    "choices": [
+      "A hair strand cut above the eyes",
+      "A temporary tattoo",
+      "Hair gathered and secured behind the head",
+      "A rolled sleeve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is a bun hairstyle?",
+    "choices": [
+      "A fringe cut across the brow",
+      "A loose curl at the temple",
+      "A type of hairbrush",
+      "Hair gathered into a coil or rounded shape"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a braid made by doing?",
+    "choices": [
+      "Interweaving sections of hair",
+      "Brushing powder onto the cheeks",
+      "Cutting a straight fringe",
+      "Spraying perfume into the air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which tool blows warm air to dry or style hair?",
+    "choices": [
+      "A lash curler",
+      "A hair dryer",
+      "A cuticle pusher",
+      "A powder puff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which heated tool is designed to create curls?",
+    "choices": [
+      "A flat iron",
+      "A razor comb",
+      "A curling iron",
+      "A tint brush"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which heated tool is commonly used to straighten hair?",
+    "choices": [
+      "A curling iron",
+      "A diffuser only",
+      "A teasing brush",
+      "A flat iron"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What does a professional hairstylist primarily work with?",
+    "choices": [
+      "Cutting, shaping, and styling hair",
+      "Designing perfume formulas",
+      "Painting portraits",
+      "Making jewelry settings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In hair terminology, what are the roots?",
+    "choices": [
+      "The ends farthest from the scalp",
+      "The portions closest to the scalp",
+      "The hair over the ears only",
+      "The sections clipped into bangs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is nail polish designed to do?",
+    "choices": [
+      "Clean the scalp",
+      "Hold eyelashes upward",
+      "Color or decorate the nails",
+      "Tint perfume"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is a perfume atomizer?",
+    "choices": [
+      "A brush for applying blush",
+      "A tool for trimming bangs",
+      "A container for nail polish remover",
+      "A device that disperses fragrance as a fine spray"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does a color wheel show?",
+    "choices": [
+      "Relationships among colors",
+      "The age of a garment",
+      "The order of haircuts",
+      "The strength of a perfume"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which pair is usually described as complementary colors?",
+    "choices": [
+      "Two shades next to each other",
+      "Colors opposite each other on the color wheel",
+      "Two identical shades",
+      "Only black and white"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which group is generally considered warm colors?",
+    "choices": [
+      "Blues, greens, and violets",
+      "Only black and gray",
+      "Reds, oranges, and yellows",
+      "Whites, creams, and silvers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What style is strongly associated with the short bob and flapper fashion of the 1920s?",
+    "choices": [
+      "The New Look",
+      "Mod revival",
+      "Power dressing",
+      "The flapper look"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What was a beehive?",
+    "choices": [
+      "A tall, rounded hairstyle popular in the 1960s",
+      "A 1920s shoe shape",
+      "A type of face powder",
+      "A woven handbag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What garment is meant by the phrase “little black dress”?",
+    "choices": [
+      "A black athletic uniform",
+      "A simple versatile black dress",
+      "A child’s school smock",
+      "A mourning veil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which designer is associated with popularizing the little black dress?",
+    "choices": [
+      "Elsa Schiaparelli",
+      "Mary Quant",
+      "Coco Chanel",
+      "Vivienne Westwood"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What was Dior’s “New Look,” introduced in 1947, known for?",
+    "choices": [
+      "A straight mini dress",
+      "A loose unstructured tunic",
+      "A military flight suit",
+      "A nipped waist and full skirt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the usual purpose of stage makeup?",
+    "choices": [
+      "Making facial features readable under performance lighting",
+      "Matching every actor to a single skin tone",
+      "Removing the need for costumes",
+      "Changing a script's dialogue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does prosthetic makeup add to a performer?",
+    "choices": [
+      "A new musical soundtrack",
+      "Applied three-dimensional forms such as scars or noses",
+      "A garment pattern",
+      "A fragrance concentration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which historical culture is strongly associated with the use of kohl around the eyes?",
+    "choices": [
+      "Medieval Iceland",
+      "Renaissance Peru",
+      "Ancient Egypt",
+      "Victorian Canada"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Henna is commonly used in beauty traditions to create what?",
+    "choices": [
+      "Permanent hair extensions",
+      "A powdered perfume",
+      "A metal hairpin",
+      "Temporary decorative body designs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is oshiroi in traditional Japanese makeup?",
+    "choices": [
+      "A white face powder or foundation",
+      "A red hair ribbon",
+      "A scented comb",
+      "A type of nail lacquer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which beauty company was founded by Estée Lauder?",
+    "choices": [
+      "Revlon",
+      "Estée Lauder Companies",
+      "Avon",
+      "Shiseido"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which cosmetics company founded by Florence Nightingale Graham operated the Red Door salons?",
+    "choices": [
+      "Max Factor",
+      "Helena Rubinstein",
+      "Elizabeth Arden",
+      "Mary Kay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is an ingredient list on a cosmetic package meant to provide?",
+    "choices": [
+      "The garment’s sewing pattern",
+      "The model’s measurements",
+      "The store’s seating plan",
+      "The substances used in the product"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does a makeup artist mean by blending?",
+    "choices": [
+      "Softening transitions between applied colors",
+      "Drying hair with high heat",
+      "Sharpening a cosmetic pencil",
+      "Sewing two fabrics together"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a false eyelash?",
+    "choices": [
+      "A brow stencil",
+      "An additional lash strip or cluster applied near the lash line",
+      "A type of hair extension",
+      "A perfume paper strip"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What does “matte” usually describe in a cosmetic finish?",
+    "choices": [
+      "Strong glitter",
+      "A metallic fragrance",
+      "Low or absent shine",
+      "A wet hair set"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does “shimmer” usually describe in makeup?",
+    "choices": [
+      "A completely shine-free finish",
+      "A haircut with layers",
+      "A perfume’s base note",
+      "A finish with reflective sparkle or sheen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is a makeup palette?",
+    "choices": [
+      "A case containing coordinated cosmetic shades",
+      "A hair-washing basin",
+      "A perfume distillation vessel",
+      "A dressmaker’s mannequin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is the main difference between a wig and a hairpiece?",
+    "choices": [
+      "A wig is always made of human hair, while a hairpiece is never made of it",
+      "A wig generally covers the whole head, while a hairpiece covers or adds to part of it",
+      "A hairpiece is worn only on the face",
+      "There is no difference in any context"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In cosmetic formulation, what is an emulsion?",
+    "choices": [
+      "A dry pressed powder with no binder",
+      "A single fragrance molecule",
+      "A mixture of normally immiscible liquids such as oil and water",
+      "A woven textile structure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In makeup manufacturing, what is a pigment?",
+    "choices": [
+      "A volatile scent molecule only",
+      "A hair-cutting blade",
+      "A fabric seam",
+      "An insoluble colored material that gives a product its hue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Why is mica used in some cosmetics?",
+    "choices": [
+      "Its reflective flakes can create shimmer",
+      "It permanently straightens hair",
+      "It acts as a perfume atomizer",
+      "It stitches false eyelashes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does “anhydrous” mean when used of a cosmetic formula?",
+    "choices": [
+      "Made only from plant leaves",
+      "Formulated without water",
+      "Stored in a glass bottle",
+      "Designed for stage lighting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does INCI refer to on cosmetic ingredient labels?",
+    "choices": [
+      "A professional hairdressing license",
+      "A fragrance concentration scale",
+      "The standardized naming system for cosmetic ingredients",
+      "A fashion sizing chart"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which ancient Egyptian mineral was used in some dark eye cosmetics?",
+    "choices": [
+      "Quartz crystal",
+      "Amber",
+      "Lapis cloth",
+      "Galena"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which plant provides the dye traditionally used for henna body art?",
+    "choices": [
+      "Lawsonia inermis",
+      "Rosa damascena",
+      "Camellia sinensis",
+      "Indigofera tinctoria"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the Japanese term often used for the traditional white face makeup of a geisha?",
+    "choices": [
+      "Kumadori",
+      "Shiro-nuri",
+      "Bindi",
+      "Kohl"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "In Chinese opera makeup, what do highly stylized painted facial patterns commonly communicate?",
+    "choices": [
+      "The actor’s shoe size",
+      "The theater’s ticket price",
+      "Character traits and role types",
+      "The season’s fabric supply"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a bindi traditionally worn as?",
+    "choices": [
+      "A braid fastener at the nape",
+      "A type of eyelash glue",
+      "A perfume concentration",
+      "A mark or ornament on the forehead"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What did Victorian “rouge” generally refer to?",
+    "choices": [
+      "A cosmetic used to add color to the cheeks or lips",
+      "A method for curling wigs",
+      "A black mourning garment",
+      "A type of perfume bottle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which cosmetic product did Max Factor develop especially for motion-picture makeup?",
+    "choices": [
+      "Eau de cologne",
+      "Pancake makeup",
+      "Nail extensions",
+      "Hair rollers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who created the iconic makeup for Boris Karloff’s Frankenstein’s monster in the 1931 film?",
+    "choices": [
+      "Rick Baker",
+      "Dick Smith",
+      "Jack Pierce",
+      "Ve Neill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who won the first Academy Award for Best Makeup, presented for a 1981 film?",
+    "choices": [
+      "Jack Pierce",
+      "Greg Cannom",
+      "Stan Winston",
+      "Rick Baker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What are finger waves?",
+    "choices": [
+      "S-shaped waves molded into damp hair with fingers and a comb",
+      "A technique for painting fingernails",
+      "A type of eyeliner flick",
+      "A pleated skirt construction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What are victory rolls?",
+    "choices": [
+      "A 1960s false-eyelash style",
+      "Rolled hairstyles associated with 1940s fashion",
+      "A perfume family",
+      "A type of trouser cuff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a marcel wave made with?",
+    "choices": [
+      "A perfume atomizer",
+      "A facial sponge",
+      "A heated waving iron",
+      "A sewing machine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "On a color wheel, what are analogous colors?",
+    "choices": [
+      "Colors directly opposite one another",
+      "Only primary colors",
+      "Colors with no hue",
+      "Colors positioned next to one another"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "In the HSV color model, what does saturation describe?",
+    "choices": [
+      "The intensity or purity of a hue",
+      "The garment’s physical size",
+      "The temperature of a curling iron",
+      "The duration of a fragrance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does “undertone” usually mean in complexion color matching?",
+    "choices": [
+      "The darkest shade in an eyeshadow palette",
+      "The subtle warm, cool, or neutral cast beneath the surface tone",
+      "The color of a garment’s lining",
+      "The final note of a perfume"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is contouring intended to do in makeup design?",
+    "choices": [
+      "Permanently alter facial structure",
+      "Remove all color from the face",
+      "Use shadow and light to visually shape features",
+      "Create a chemical hair wave"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a cut crease in eye makeup?",
+    "choices": [
+      "A cut made into a wig",
+      "A crease sewn into a sleeve",
+      "A line drawn on a perfume label",
+      "A defined contrast placed along the eyelid crease"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does tightlining refer to?",
+    "choices": [
+      "Applying eyeliner close to or between the upper lashes",
+      "Pulling hair into a tight ponytail",
+      "Tightening a corset seam",
+      "Drawing a lip outline beyond the mouth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does “eau de parfum” generally indicate compared with “eau de toilette”?",
+    "choices": [
+      "A scent made only for clothing",
+      "A fragrance category that usually has a higher aromatic concentration",
+      "A perfume without any alcohol",
+      "A product intended solely for hair"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What are top notes in a fragrance?",
+    "choices": [
+      "The ingredients that remain longest on fabric",
+      "The bottle’s decorative cap",
+      "The scents perceived most immediately after application",
+      "The notes used only in soap"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does a perfumer’s nickname “nose” refer to?",
+    "choices": [
+      "A tool for shaping a prosthetic nose",
+      "A fragrance bottle’s nozzle",
+      "A makeup artist specializing in contour",
+      "A person who creates or evaluates fragrance compositions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who composed the original formula for Chanel No. 5?",
+    "choices": [
+      "Ernest Beaux",
+      "François Coty",
+      "Jean Patou",
+      "Guerlain’s Aimé Guerlain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which fashion technique cuts fabric diagonally across its grain for a fluid drape?",
+    "choices": [
+      "The princess seam",
+      "The bias cut",
+      "The box pleat",
+      "The drop shoulder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does haute couture specifically refer to?",
+    "choices": [
+      "Any garment sold in a department store",
+      "A mass-produced sportswear line",
+      "Made-to-measure high fashion produced under strict French standards",
+      "A historical type of hair powder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does prêt-à-porter mean in fashion?",
+    "choices": [
+      "Hand-painted cosmetics",
+      "A theatrical wig style",
+      "A perfume’s dry-down stage",
+      "Ready-to-wear clothing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which designer is strongly associated with the punk fashion movement in London?",
+    "choices": [
+      "Vivienne Westwood",
+      "Elsa Schiaparelli",
+      "Jeanne Lanvin",
+      "Mary Quant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who is credited with popularizing the miniskirt through the 1960s brand Bazaar?",
+    "choices": [
+      "Coco Chanel",
+      "Mary Quant",
+      "Diana Vreeland",
+      "Elsa Schiaparelli"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which designer’s 1965 Mondrian collection translated abstract paintings into famous dresses?",
+    "choices": [
+      "Christian Dior",
+      "Paul Poiret",
+      "Yves Saint Laurent",
+      "Cristóbal Balenciaga"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which 1960s model became especially associated with graphic eye makeup and a mod look?",
+    "choices": [
+      "Veruschka",
+      "Iman",
+      "Naomi Campbell",
+      "Twiggy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is airbrush makeup applied with?",
+    "choices": [
+      "A small compressor-driven spray tool",
+      "A heated curling iron",
+      "A sewing-machine needle",
+      "A perfume blotter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a fragrance’s dry-down?",
+    "choices": [
+      "The process of drying hair with a hood",
+      "The later stage after the most volatile notes have evaporated",
+      "A powder pressed into a compact",
+      "A garment’s final ironing step"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a chypre in fragrance classification?",
+    "choices": [
+      "A hair-braiding technique",
+      "A type of lipstick case",
+      "A fragrance family traditionally built around citrus, moss, and woody notes",
+      "A method of pleating silk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a fougère fragrance family named after?",
+    "choices": [
+      "An Italian fashion house",
+      "A type of cosmetic brush",
+      "A Victorian hairstyle",
+      "The French word for fern"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the “New Look” historically significant for in postwar fashion?",
+    "choices": [
+      "Its 1947 return to a highly feminine, fabric-rich silhouette",
+      "Its introduction of denim as formalwear",
+      "Its rejection of all tailoring",
+      "Its invention of synthetic perfume"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which entrepreneur built an international beauty company after opening salons in Australia and Europe?",
+    "choices": [
+      "Elizabeth Arden",
+      "Helena Rubinstein",
+      "Estée Lauder",
+      "Eugène Schueller"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which fragrance-note category usually emerges after the opening top notes and forms the scent’s central character?",
+    "choices": [
+      "Base notes",
+      "Top notes",
+      "Heart or middle notes",
+      "Fixatives only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a beauty blender’s main technical function?",
+    "choices": [
+      "Sharpening eye pencils",
+      "Curling a fringe",
+      "Distilling fragrance",
+      "Sheering and blending liquid or cream makeup"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which cosmetic finish scatters light to create a soft-focus appearance?",
+    "choices": [
+      "A soft-focus or blurring finish",
+      "A high-gloss lacquer finish",
+      "A metallic foil finish",
+      "A wet-set finish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a duochrome eyeshadow known for?",
+    "choices": [
+      "Containing exactly two grams of pigment",
+      "Appearing to shift between two hues as light or angle changes",
+      "Being used only on two eyes",
+      "Having no reflective particles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a color-correcting green cosmetic conventionally used to visually balance?",
+    "choices": [
+      "Blue-black hair",
+      "Yellow fabric",
+      "Redness",
+      "Silver jewelry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is “draping” in makeup artistry?",
+    "choices": [
+      "Wrapping a person in a dress pattern",
+      "Applying a wig over a veil",
+      "Spraying perfume onto fabric",
+      "Placing blush to shape the face using color rather than contour shadow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which makeup style is characterized by a sharply defined eyelid crease contrasted with a lighter lid?",
+    "choices": [
+      "A cut crease",
+      "A no-makeup look",
+      "A monochrome lip",
+      "A smoked-out brow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a “waterline” in eye makeup terminology?",
+    "choices": [
+      "The edge of a makeup sponge",
+      "The inner rim of the eyelid along the lashes",
+      "A line sewn into a skirt",
+      "The center of a perfume bottle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which designer is associated with the 1930s invention of the shocking-pink color called Schiaparelli pink?",
+    "choices": [
+      "Coco Chanel",
+      "Jeanne Lanvin",
+      "Elsa Schiaparelli",
+      "Madeleine Vionnet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does “color blocking” mean in clothing design?",
+    "choices": [
+      "Painting a single small logo on a garment",
+      "Removing all color from an outfit",
+      "Matching every accessory exactly",
+      "Combining separate areas of bold, usually solid colors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

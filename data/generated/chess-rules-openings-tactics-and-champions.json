@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is the goal of chess?",
+    "choices": [
+      "Checkmate the king",
+      "Capture every piece",
+      "Reach the eighth rank",
+      "Take the opponent's queen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "How many squares are on a chessboard?",
+    "choices": [
+      "81",
+      "64",
+      "32",
+      "48"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which piece moves in an L shape?",
+    "choices": [
+      "Rook",
+      "Queen",
+      "Knight",
+      "Bishop"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which piece moves diagonally?",
+    "choices": [
+      "Rook",
+      "Knight",
+      "King",
+      "Bishop"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How does a rook move?",
+    "choices": [
+      "Along ranks and files",
+      "Only diagonally",
+      "In an L shape",
+      "One square any way"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "How does a queen move?",
+    "choices": [
+      "In two-square jumps",
+      "Along ranks, files, and diagonals",
+      "Only along files",
+      "Only diagonally"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "How does a king normally move?",
+    "choices": [
+      "Like a knight",
+      "Any distance on a rank",
+      "One square in any direction",
+      "Two squares diagonally"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What happens when a pawn reaches the last rank?",
+    "choices": [
+      "It is removed",
+      "It becomes a king",
+      "It must remain a pawn",
+      "It promotes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which pawn capture is unusual?",
+    "choices": [
+      "En passant",
+      "Castling",
+      "Promotion",
+      "Zugzwang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is check?",
+    "choices": [
+      "A pawn advance",
+      "An attack on the king",
+      "A captured queen",
+      "A tied position"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is checkmate?",
+    "choices": [
+      "A king capture",
+      "An opening move",
+      "Check with no legal escape",
+      "A draw by agreement"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Can a king move into check?",
+    "choices": [
+      "Yes, once",
+      "Only in an endgame",
+      "Only while castling",
+      "No"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is castling?",
+    "choices": [
+      "A king-and-rook move",
+      "A pawn exchange",
+      "A knight fork",
+      "A queen sacrifice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "When is castling kingside called short castling?",
+    "choices": [
+      "1-0",
+      "O-O",
+      "O-O-O",
+      "e.p."
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "When is castling queenside called long castling?",
+    "choices": [
+      "e.p.",
+      "0-1",
+      "O-O-O",
+      "O-O"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does x mean in algebraic notation?",
+    "choices": [
+      "Check",
+      "Promotion",
+      "Castling",
+      "Capture"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does + mean in notation?",
+    "choices": [
+      "Check",
+      "Mate",
+      "Capture",
+      "Draw"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What does # usually mean?",
+    "choices": [
+      "Promotion",
+      "Checkmate",
+      "Check",
+      "Capture"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What letter identifies a knight?",
+    "choices": [
+      "B",
+      "S",
+      "N",
+      "K"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What letter identifies a bishop?",
+    "choices": [
+      "R",
+      "Q",
+      "D",
+      "B"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a stalemate?",
+    "choices": [
+      "No legal move while not in check",
+      "A king in check",
+      "A pawn promotion",
+      "A forced capture"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How many pawns does each player start with?",
+    "choices": [
+      "10",
+      "8",
+      "6",
+      "7"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which side moves first?",
+    "choices": [
+      "The player with more pieces",
+      "The player with the higher rank",
+      "White",
+      "Black"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the value commonly assigned to a pawn?",
+    "choices": [
+      "3",
+      "5",
+      "9",
+      "1"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the value commonly assigned to a queen?",
+    "choices": [
+      "9",
+      "1",
+      "3",
+      "5"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a fork?",
+    "choices": [
+      "A drawn ending",
+      "One piece attacks two or more targets",
+      "A pawn chain",
+      "A king move"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a pin?",
+    "choices": [
+      "A pawn capture",
+      "A rook lift",
+      "A piece cannot move without exposing a more valuable piece",
+      "Two kings facing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is a skewer?",
+    "choices": [
+      "A knight jump",
+      "A blocked pawn",
+      "A castling rule",
+      "A valuable piece is attacked first, exposing another behind it"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a discovered attack?",
+    "choices": [
+      "An attack revealed by moving another piece",
+      "A check by a pawn",
+      "A rook on a corner",
+      "A repeated position"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a double check?",
+    "choices": [
+      "Two consecutive checks",
+      "The king is attacked by two pieces",
+      "Two queens remain",
+      "A pair of rooks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a zwischenzug?",
+    "choices": [
+      "A pawn race",
+      "A type of castling",
+      "An intermediate move before an expected recapture",
+      "A legal king capture"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is a back-rank mate?",
+    "choices": [
+      "Mate by two bishops",
+      "Mate on the center file",
+      "Mate after promotion",
+      "Mate delivered along a cramped back rank"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a smothered mate?",
+    "choices": [
+      "A knight mates a king boxed in by its own pieces",
+      "A rook mates on a file",
+      "A pawn mates diagonally",
+      "A queen mates from afar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a deflection tactic?",
+    "choices": [
+      "Attacking a loose king",
+      "Luring a defender away",
+      "Blocking a check",
+      "Trading equal pawns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a clearance sacrifice?",
+    "choices": [
+      "Promoting a pawn",
+      "Blocking a bishop",
+      "Giving up material to clear a line",
+      "Exchanging queens early"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a common purpose of a sacrifice?",
+    "choices": [
+      "Guarantee a draw",
+      "Avoid developing",
+      "Lose the initiative",
+      "Gain time, attack, or positional compensation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does the opening principle develop early?",
+    "choices": [
+      "Minor pieces",
+      "The king's rook only",
+      "The queen repeatedly",
+      "Advanced edge pawns"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Why fight for the center?",
+    "choices": [
+      "It forces castling",
+      "It gives pieces activity and space",
+      "It prevents all checks",
+      "It wins a queen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is the Italian Game's opening move pair?",
+    "choices": [
+      "1.e4 c5 2.Nf3 d6",
+      "1.c4 e5 2.Nc3 Nf6",
+      "1.e4 e5 2.Nf3 Nc6 3.Bc4",
+      "1.d4 d5 2.c4 e6"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which opening begins 1.e4 c5?",
+    "choices": [
+      "French Defense",
+      "Caro-Kann Defense",
+      "Alekhine Defense",
+      "Sicilian Defense"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which opening begins 1.e4 e6?",
+    "choices": [
+      "French Defense",
+      "Sicilian Defense",
+      "Pirc Defense",
+      "Scandinavian Defense"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which opening begins 1.e4 c6?",
+    "choices": [
+      "Petrov Defense",
+      "Caro-Kann Defense",
+      "French Defense",
+      "Nimzo-Indian Defense"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which opening begins 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4?",
+    "choices": [
+      "King's Indian Defense",
+      "Grünfeld Defense",
+      "Nimzo-Indian Defense",
+      "Queen's Gambit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the Queen's Gambit move order?",
+    "choices": [
+      "1.e4 e5 2.Nf3",
+      "1.c4 e5 2.Nc3",
+      "1.Nf3 d5 2.g3",
+      "1.d4 d5 2.c4"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is the King's Indian Defense setup?",
+    "choices": [
+      "...Nf6, ...g6, and ...Bg7",
+      "...c5 and ...d6 only",
+      "...Bb4 and ...d5",
+      "...a6 and ...b5"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does an opening gambit usually offer?",
+    "choices": [
+      "A drawn position",
+      "A pawn for initiative",
+      "A queen for a pawn",
+      "A forced checkmate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is an opening's main line?",
+    "choices": [
+      "A rook ending",
+      "A tournament pairing",
+      "A principal analyzed variation",
+      "The first legal move"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is an opening trap?",
+    "choices": [
+      "A formal opening name",
+      "A pawn structure",
+      "A time-control rule",
+      "A tactic exploiting a tempting mistake"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a tempo?",
+    "choices": [
+      "A useful move or unit of initiative",
+      "A captured piece",
+      "A diagonal",
+      "A draw claim"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a fianchetto?",
+    "choices": [
+      "Doubling rooks",
+      "Developing a bishop on b2 or g2",
+      "Castling queenside",
+      "Advancing both center pawns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a pawn break?",
+    "choices": [
+      "A captured pawn",
+      "A king maneuver",
+      "A pawn advance that challenges the structure",
+      "A pawn promotion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is an isolated pawn?",
+    "choices": [
+      "A pawn on its starting square",
+      "A doubled pawn",
+      "A passed pawn",
+      "A pawn with no friendly pawn on adjacent files"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a passed pawn?",
+    "choices": [
+      "A pawn that cannot be blocked by enemy pawns",
+      "A pawn pinned to a king",
+      "A doubled pawn",
+      "A pawn in check"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a doubled pawn?",
+    "choices": [
+      "Two passed pawns",
+      "Two same-color pawns on one file",
+      "Two pawns on one rank",
+      "A pawn pair defending a king"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a backward pawn?",
+    "choices": [
+      "A promoted pawn",
+      "A pawn attacking forward",
+      "A pawn lagging behind neighbors and hard to advance",
+      "A pawn on the seventh rank"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a pawn majority?",
+    "choices": [
+      "More queens than pawns",
+      "A central pawn",
+      "A doubled pawn",
+      "More pawns on one wing than the opponent"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a weak square?",
+    "choices": [
+      "A square difficult to defend with pawns",
+      "A square occupied by a king",
+      "A corner square only",
+      "A square attacked once"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is an outpost?",
+    "choices": [
+      "A castling position",
+      "A secure advanced square for a piece",
+      "A rook on the back rank",
+      "A pawn at home"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a blockade?",
+    "choices": [
+      "Opening the center",
+      "Checking with a rook",
+      "Stopping an enemy passed pawn",
+      "Trading all minor pieces"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a minority attack?",
+    "choices": [
+      "An attack with fewer pieces",
+      "A queen sacrifice",
+      "A king-side check",
+      "A pawn advance by the smaller wing majority"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a bad bishop?",
+    "choices": [
+      "A bishop restricted by its own pawns",
+      "A bishop under attack",
+      "A bishop on a long diagonal",
+      "A captured bishop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a good bishop?",
+    "choices": [
+      "A bishop defending a rook",
+      "A bishop active outside its pawn chain",
+      "A bishop still undeveloped",
+      "A bishop worth five points"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a rook on an open file?",
+    "choices": [
+      "A rook beside its king",
+      "A rook attacking a bishop",
+      "A rook on a file without pawns",
+      "A rook on the first rank"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a seventh-rank invasion?",
+    "choices": [
+      "A pawn reaching rank seven",
+      "A queen retreat",
+      "A knight fork",
+      "A rook entering the opponent's seventh rank"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a battery?",
+    "choices": [
+      "Aligned pieces combining pressure",
+      "A pair of bishops",
+      "Two isolated pawns",
+      "A repeated check"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is prophylaxis?",
+    "choices": [
+      "Promoting quickly",
+      "Preventing the opponent's plan",
+      "Forcing a sacrifice",
+      "Trading kings"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is improving the worst-placed piece?",
+    "choices": [
+      "A pawn capture",
+      "An opening trap",
+      "A strategic regrouping principle",
+      "A checkmate pattern"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a forcing move?",
+    "choices": [
+      "A quiet king move",
+      "A waiting draw offer",
+      "A random development",
+      "A check, capture, or direct threat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is calculation in chess?",
+    "choices": [
+      "Analyzing likely move sequences",
+      "Counting only material",
+      "Memorizing openings",
+      "Using a clock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a candidate move?",
+    "choices": [
+      "A tournament move",
+      "A move selected for serious analysis",
+      "A move that checks",
+      "The first legal move"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is zugzwang?",
+    "choices": [
+      "A pawn sacrifice",
+      "A drawn repetition",
+      "Having to move worsens one's position",
+      "A forced check"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is opposition in king endings?",
+    "choices": [
+      "Rooks on open files",
+      "Queens attacking kings",
+      "Pawns on adjacent files",
+      "Kings facing with one square between"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the rule of the square?",
+    "choices": [
+      "A method for judging pawn races",
+      "A castling condition",
+      "A mating net",
+      "A piece value"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a basic king-and-pawn goal?",
+    "choices": [
+      "Capture a rook",
+      "Promote the pawn",
+      "Trade the king",
+      "Avoid opposition"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the fifty-move rule about?",
+    "choices": [
+      "Fifty pieces on a board",
+      "Fifty opening moves",
+      "Long stretches without pawn moves or captures",
+      "Fifty checks in a game"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is threefold repetition?",
+    "choices": [
+      "Three checks in succession",
+      "Three pawns promoting",
+      "Three queens traded",
+      "The same position occurring three times"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a theoretical draw?",
+    "choices": [
+      "A position known to be drawable with best play",
+      "A draw by flag fall",
+      "An agreed opening",
+      "A stalemate only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the Lucena position?",
+    "choices": [
+      "A knight fork",
+      "A key rook-and-pawn winning setup",
+      "A bishop mate",
+      "A queen opening"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the Philidor position?",
+    "choices": [
+      "A king sacrifice",
+      "A minor-piece mate",
+      "A key rook-ending defensive setup",
+      "A pawn opening"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which material is bishop versus knight?",
+    "choices": [
+      "A queen ending",
+      "A rook ending",
+      "A pawn ending",
+      "A minor-piece ending"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is opposite-colored bishops?",
+    "choices": [
+      "Each side's bishop uses different-colored squares",
+      "Two bishops on one color",
+      "Bishops exchanged",
+      "Bishops beside kings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who was the first official world champion?",
+    "choices": [
+      "Alexander Alekhine",
+      "Wilhelm Steinitz",
+      "José Capablanca",
+      "Emanuel Lasker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who was nicknamed the Magician from Riga?",
+    "choices": [
+      "Garry Kasparov",
+      "Viktor Korchnoi",
+      "Mikhail Tal",
+      "Bobby Fischer"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who won the 1972 match called the Match of the Century?",
+    "choices": [
+      "Anatoly Karpov",
+      "Tigran Petrosian",
+      "Boris Spassky",
+      "Bobby Fischer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who became world champion in 1985 after defeating Karpov?",
+    "choices": [
+      "Garry Kasparov",
+      "Vladimir Kramnik",
+      "Viswanathan Anand",
+      "Veselin Topalov"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which champion was famous for positional technique and endgames?",
+    "choices": [
+      "David Bronstein",
+      "José Capablanca",
+      "Mikhail Tal",
+      "Paul Morphy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who was the first woman to earn the grandmaster title?",
+    "choices": [
+      "Hou Yifan",
+      "Vera Menchik",
+      "Nona Gaprindashvili",
+      "Judit Polgár"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who is the youngest player to reach 2800?",
+    "choices": [
+      "Fabiano Caruana",
+      "Ding Liren",
+      "Levon Aronian",
+      "Magnus Carlsen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which player is known for the 'Immortal Game' of 1851?",
+    "choices": [
+      "Adolf Anderssen",
+      "Wilhelm Steinitz",
+      "Emanuel Lasker",
+      "Siegbert Tarrasch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which player defeated Kasparov in the 2000 world championship match?",
+    "choices": [
+      "Veselin Topalov",
+      "Vladimir Kramnik",
+      "Anatoly Karpov",
+      "Vishy Anand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which champion was called the Tiger of Madras?",
+    "choices": [
+      "Vladimir Kramnik",
+      "Boris Spassky",
+      "Viswanathan Anand",
+      "Magnus Carlsen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a Swiss-system tournament?",
+    "choices": [
+      "Everyone plays everyone twice",
+      "Single elimination only",
+      "Teams play relay games",
+      "Players meet without full round-robin play"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a round-robin tournament?",
+    "choices": [
+      "Each participant plays every other participant",
+      "Players are randomly eliminated",
+      "Only winners continue",
+      "Games are untimed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a tiebreak?",
+    "choices": [
+      "A clock pause",
+      "A method for separating equal scores",
+      "A forced opening",
+      "A draw offer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is sudden death in chess time control?",
+    "choices": [
+      "A death-themed variant",
+      "Unlimited thinking time",
+      "A fixed time with no increment",
+      "A game decided by one move"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is an increment?",
+    "choices": [
+      "A bonus point for check",
+      "A pawn advance",
+      "A second board",
+      "Extra time added after each move"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a blunder?",
+    "choices": [
+      "A serious error",
+      "A forced draw",
+      "A standard opening",
+      "A legal check"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a draw by agreement?",
+    "choices": [
+      "A king is captured",
+      "Both players accept a draw",
+      "The arbiter stops play",
+      "A pawn reaches promotion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is an arbiter?",
+    "choices": [
+      "A chess engine",
+      "A team captain",
+      "The tournament official who enforces rules",
+      "A famous opening"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the Elo rating system?",
+    "choices": [
+      "A notation alphabet",
+      "A clock system",
+      "A board design",
+      "A numerical measure of playing strength"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

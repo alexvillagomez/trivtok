@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which dance is associated with Argentina?",
+    "choices": [
+      "Tango",
+      "Haka",
+      "Kabuki",
+      "Bharatanatyam"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is ballet’s basic turned-out stance called?",
+    "choices": [
+      "Downstage",
+      "First position",
+      "Spots",
+      "Canon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which dance grew from hip-hop culture?",
+    "choices": [
+      "Waltz",
+      "Kathak",
+      "Breaking",
+      "Noh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who creates movement for a dance production?",
+    "choices": [
+      "Dramaturg",
+      "Prompter",
+      "Usher",
+      "Choreographer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does downstage mean?",
+    "choices": [
+      "Toward the audience",
+      "Toward the wings",
+      "Above the stage",
+      "Behind the orchestra"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who choreographed The Rite of Spring premiere?",
+    "choices": [
+      "George Balanchine",
+      "Vaslav Nijinsky",
+      "Bob Fosse",
+      "Agnes de Mille"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which dance tradition has strong West African roots?",
+    "choices": [
+      "Minuet",
+      "Polonaise",
+      "Kpanlogo",
+      "Quadrille"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does Labanotation record?",
+    "choices": [
+      "Lighting",
+      "Ticket sales",
+      "Costumes",
+      "Movement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a ballet jump from two feet to two feet?",
+    "choices": [
+      "Sauté",
+      "Plié",
+      "Port de bras",
+      "Adagio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which form is a Brazilian partner dance?",
+    "choices": [
+      "Noh",
+      "Samba de gafieira",
+      "Butoh",
+      "Kathakali"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a plié?",
+    "choices": [
+      "Leap",
+      "Turn",
+      "Knee bend",
+      "Arm circle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which dance uses improvised footwork battles?",
+    "choices": [
+      "Breaking",
+      "Ballet",
+      "Waltz",
+      "Tap"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a choreographic canon?",
+    "choices": [
+      "Staggered repetition",
+      "Solo silence",
+      "Fixed costume",
+      "Stage exit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is stage left from the performer’s view?",
+    "choices": [
+      "Audience’s left",
+      "The performer’s left",
+      "Center aisle",
+      "Rear curtain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who founded the Martha Graham technique?",
+    "choices": [
+      "Isadora Duncan",
+      "Ruth St. Denis",
+      "Martha Graham",
+      "Loïe Fuller"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which dance is from India?",
+    "choices": [
+      "Fandango",
+      "Lindy hop",
+      "Sirtaki",
+      "Bharatanatyam"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a pas de deux?",
+    "choices": [
+      "Dance for two",
+      "Dance for six",
+      "Comic solo",
+      "Group entrance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which dance developed in Harlem in the 1920s?",
+    "choices": [
+      "Bolero",
+      "Lindy hop",
+      "Saman",
+      "Kabuki"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is a motif in choreography?",
+    "choices": [
+      "Lighting cue",
+      "Music license",
+      "Recurring movement idea",
+      "Floor mark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which performer was known as the King of Pop?",
+    "choices": [
+      "Fred Astaire",
+      "Gene Kelly",
+      "Mikhail Baryshnikov",
+      "Michael Jackson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a rond de jambe?",
+    "choices": [
+      "Leg circle",
+      "Head tilt",
+      "Floor slide",
+      "Partner lift"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which dance is traditionally performed in a circle in Greece?",
+    "choices": [
+      "Tango",
+      "Sirtaki",
+      "Flamenco",
+      "Hula"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is contact improvisation based on?",
+    "choices": [
+      "Fixed sequences",
+      "Masks",
+      "Shared physical weight",
+      "Percussion only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a wing on a stage?",
+    "choices": [
+      "Center platform",
+      "Front row",
+      "Orchestra pit",
+      "Side area offstage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which artist pioneered release technique?",
+    "choices": [
+      "Joan Skinner",
+      "George Balanchine",
+      "Alvin Ailey",
+      "Merce Cunningham"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which dance is associated with Argentina?",
+    "choices": [
+      "Haka",
+      "Tango",
+      "Kabuki",
+      "Bharatanatyam"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is ballet’s basic turned-out stance called?",
+    "choices": [
+      "Downstage",
+      "Spots",
+      "First position",
+      "Canon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which dance grew from hip-hop culture?",
+    "choices": [
+      "Waltz",
+      "Kathak",
+      "Noh",
+      "Breaking"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Who creates movement for a dance production?",
+    "choices": [
+      "Choreographer",
+      "Dramaturg",
+      "Prompter",
+      "Usher"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does downstage mean?",
+    "choices": [
+      "Toward the wings",
+      "Toward the audience",
+      "Above the stage",
+      "Behind the orchestra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who choreographed The Rite of Spring premiere?",
+    "choices": [
+      "George Balanchine",
+      "Bob Fosse",
+      "Vaslav Nijinsky",
+      "Agnes de Mille"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which dance tradition has strong West African roots?",
+    "choices": [
+      "Minuet",
+      "Polonaise",
+      "Quadrille",
+      "Kpanlogo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does Labanotation record?",
+    "choices": [
+      "Movement",
+      "Lighting",
+      "Ticket sales",
+      "Costumes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a ballet jump from two feet to two feet?",
+    "choices": [
+      "Plié",
+      "Sauté",
+      "Port de bras",
+      "Adagio"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which form is a Brazilian partner dance?",
+    "choices": [
+      "Noh",
+      "Butoh",
+      "Samba de gafieira",
+      "Kathakali"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a plié?",
+    "choices": [
+      "Leap",
+      "Turn",
+      "Arm circle",
+      "Knee bend"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which dance uses improvised footwork battles?",
+    "choices": [
+      "Tap",
+      "Breaking",
+      "Ballet",
+      "Waltz"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is a choreographic canon?",
+    "choices": [
+      "Solo silence",
+      "Staggered repetition",
+      "Fixed costume",
+      "Stage exit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is stage left from the performer’s view?",
+    "choices": [
+      "Audience’s left",
+      "Center aisle",
+      "The performer’s left",
+      "Rear curtain"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Who founded the Martha Graham technique?",
+    "choices": [
+      "Isadora Duncan",
+      "Ruth St. Denis",
+      "Loïe Fuller",
+      "Martha Graham"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which dance is from India?",
+    "choices": [
+      "Bharatanatyam",
+      "Fandango",
+      "Lindy hop",
+      "Sirtaki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a pas de deux?",
+    "choices": [
+      "Dance for six",
+      "Dance for two",
+      "Comic solo",
+      "Group entrance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which dance developed in Harlem in the 1920s?",
+    "choices": [
+      "Bolero",
+      "Saman",
+      "Lindy hop",
+      "Kabuki"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is a motif in choreography?",
+    "choices": [
+      "Lighting cue",
+      "Music license",
+      "Floor mark",
+      "Recurring movement idea"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which performer was known as the King of Pop?",
+    "choices": [
+      "Michael Jackson",
+      "Fred Astaire",
+      "Gene Kelly",
+      "Mikhail Baryshnikov"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a rond de jambe?",
+    "choices": [
+      "Head tilt",
+      "Leg circle",
+      "Floor slide",
+      "Partner lift"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which dance is traditionally performed in a circle in Greece?",
+    "choices": [
+      "Tango",
+      "Flamenco",
+      "Sirtaki",
+      "Hula"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is contact improvisation based on?",
+    "choices": [
+      "Fixed sequences",
+      "Masks",
+      "Percussion only",
+      "Shared physical weight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a wing on a stage?",
+    "choices": [
+      "Side area offstage",
+      "Center platform",
+      "Front row",
+      "Orchestra pit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which artist pioneered release technique?",
+    "choices": [
+      "George Balanchine",
+      "Joan Skinner",
+      "Alvin Ailey",
+      "Merce Cunningham"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which dance is associated with Argentina?",
+    "choices": [
+      "Haka",
+      "Kabuki",
+      "Tango",
+      "Bharatanatyam"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is ballet’s basic turned-out stance called?",
+    "choices": [
+      "Downstage",
+      "Spots",
+      "Canon",
+      "First position"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which dance grew from hip-hop culture?",
+    "choices": [
+      "Breaking",
+      "Waltz",
+      "Kathak",
+      "Noh"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who creates movement for a dance production?",
+    "choices": [
+      "Dramaturg",
+      "Choreographer",
+      "Prompter",
+      "Usher"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does downstage mean?",
+    "choices": [
+      "Toward the wings",
+      "Above the stage",
+      "Toward the audience",
+      "Behind the orchestra"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who choreographed The Rite of Spring premiere?",
+    "choices": [
+      "George Balanchine",
+      "Bob Fosse",
+      "Agnes de Mille",
+      "Vaslav Nijinsky"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which dance tradition has strong West African roots?",
+    "choices": [
+      "Kpanlogo",
+      "Minuet",
+      "Polonaise",
+      "Quadrille"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does Labanotation record?",
+    "choices": [
+      "Lighting",
+      "Movement",
+      "Ticket sales",
+      "Costumes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a ballet jump from two feet to two feet?",
+    "choices": [
+      "Plié",
+      "Port de bras",
+      "Sauté",
+      "Adagio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which form is a Brazilian partner dance?",
+    "choices": [
+      "Noh",
+      "Butoh",
+      "Kathakali",
+      "Samba de gafieira"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a plié?",
+    "choices": [
+      "Knee bend",
+      "Leap",
+      "Turn",
+      "Arm circle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which dance uses improvised footwork battles?",
+    "choices": [
+      "Breaking",
+      "Tap",
+      "Ballet",
+      "Waltz"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a choreographic canon?",
+    "choices": [
+      "Solo silence",
+      "Fixed costume",
+      "Staggered repetition",
+      "Stage exit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is stage left from the performer’s view?",
+    "choices": [
+      "Audience’s left",
+      "Center aisle",
+      "Rear curtain",
+      "The performer’s left"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who founded the Martha Graham technique?",
+    "choices": [
+      "Martha Graham",
+      "Isadora Duncan",
+      "Ruth St. Denis",
+      "Loïe Fuller"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which dance is from India?",
+    "choices": [
+      "Fandango",
+      "Bharatanatyam",
+      "Lindy hop",
+      "Sirtaki"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a pas de deux?",
+    "choices": [
+      "Dance for six",
+      "Comic solo",
+      "Dance for two",
+      "Group entrance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which dance developed in Harlem in the 1920s?",
+    "choices": [
+      "Bolero",
+      "Saman",
+      "Kabuki",
+      "Lindy hop"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a motif in choreography?",
+    "choices": [
+      "Recurring movement idea",
+      "Lighting cue",
+      "Music license",
+      "Floor mark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which performer was known as the King of Pop?",
+    "choices": [
+      "Fred Astaire",
+      "Michael Jackson",
+      "Gene Kelly",
+      "Mikhail Baryshnikov"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a rond de jambe?",
+    "choices": [
+      "Head tilt",
+      "Floor slide",
+      "Leg circle",
+      "Partner lift"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which dance is traditionally performed in a circle in Greece?",
+    "choices": [
+      "Tango",
+      "Flamenco",
+      "Hula",
+      "Sirtaki"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is contact improvisation based on?",
+    "choices": [
+      "Shared physical weight",
+      "Fixed sequences",
+      "Masks",
+      "Percussion only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a wing on a stage?",
+    "choices": [
+      "Center platform",
+      "Side area offstage",
+      "Front row",
+      "Orchestra pit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which artist pioneered release technique?",
+    "choices": [
+      "George Balanchine",
+      "Alvin Ailey",
+      "Joan Skinner",
+      "Merce Cunningham"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which dance is associated with Argentina?",
+    "choices": [
+      "Haka",
+      "Kabuki",
+      "Bharatanatyam",
+      "Tango"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is ballet’s basic turned-out stance called?",
+    "choices": [
+      "First position",
+      "Downstage",
+      "Spots",
+      "Canon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which dance grew from hip-hop culture?",
+    "choices": [
+      "Waltz",
+      "Breaking",
+      "Kathak",
+      "Noh"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who creates movement for a dance production?",
+    "choices": [
+      "Dramaturg",
+      "Prompter",
+      "Choreographer",
+      "Usher"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does downstage mean?",
+    "choices": [
+      "Toward the wings",
+      "Above the stage",
+      "Behind the orchestra",
+      "Toward the audience"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who choreographed The Rite of Spring premiere?",
+    "choices": [
+      "Vaslav Nijinsky",
+      "George Balanchine",
+      "Bob Fosse",
+      "Agnes de Mille"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which dance tradition has strong West African roots?",
+    "choices": [
+      "Minuet",
+      "Kpanlogo",
+      "Polonaise",
+      "Quadrille"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does Labanotation record?",
+    "choices": [
+      "Lighting",
+      "Ticket sales",
+      "Movement",
+      "Costumes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a ballet jump from two feet to two feet?",
+    "choices": [
+      "Plié",
+      "Port de bras",
+      "Adagio",
+      "Sauté"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which form is a Brazilian partner dance?",
+    "choices": [
+      "Samba de gafieira",
+      "Noh",
+      "Butoh",
+      "Kathakali"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a plié?",
+    "choices": [
+      "Leap",
+      "Knee bend",
+      "Turn",
+      "Arm circle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which dance uses improvised footwork battles?",
+    "choices": [
+      "Breaking",
+      "Ballet",
+      "Tap",
+      "Waltz"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a choreographic canon?",
+    "choices": [
+      "Solo silence",
+      "Fixed costume",
+      "Stage exit",
+      "Staggered repetition"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is stage left from the performer’s view?",
+    "choices": [
+      "The performer’s left",
+      "Audience’s left",
+      "Center aisle",
+      "Rear curtain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who founded the Martha Graham technique?",
+    "choices": [
+      "Isadora Duncan",
+      "Martha Graham",
+      "Ruth St. Denis",
+      "Loïe Fuller"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which dance is from India?",
+    "choices": [
+      "Fandango",
+      "Lindy hop",
+      "Bharatanatyam",
+      "Sirtaki"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a pas de deux?",
+    "choices": [
+      "Dance for six",
+      "Comic solo",
+      "Group entrance",
+      "Dance for two"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which dance developed in Harlem in the 1920s?",
+    "choices": [
+      "Lindy hop",
+      "Bolero",
+      "Saman",
+      "Kabuki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a motif in choreography?",
+    "choices": [
+      "Lighting cue",
+      "Recurring movement idea",
+      "Music license",
+      "Floor mark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which performer was known as the King of Pop?",
+    "choices": [
+      "Fred Astaire",
+      "Gene Kelly",
+      "Michael Jackson",
+      "Mikhail Baryshnikov"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a rond de jambe?",
+    "choices": [
+      "Head tilt",
+      "Floor slide",
+      "Partner lift",
+      "Leg circle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which dance is traditionally performed in a circle in Greece?",
+    "choices": [
+      "Sirtaki",
+      "Tango",
+      "Flamenco",
+      "Hula"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is contact improvisation based on?",
+    "choices": [
+      "Fixed sequences",
+      "Shared physical weight",
+      "Masks",
+      "Percussion only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a wing on a stage?",
+    "choices": [
+      "Center platform",
+      "Front row",
+      "Side area offstage",
+      "Orchestra pit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which artist pioneered release technique?",
+    "choices": [
+      "George Balanchine",
+      "Alvin Ailey",
+      "Merce Cunningham",
+      "Joan Skinner"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

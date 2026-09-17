@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which sandwich-cookie brand is famous for two chocolate wafers and a creme filling?",
+    "choices": [
+      "Oreo",
+      "Pepperidge Farm",
+      "Keebler",
+      "Little Debbie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the main structure of a Kit Kat bar?",
+    "choices": [
+      "Caramel-covered peanuts",
+      "Chocolate-covered wafer fingers",
+      "Hard fruit candy",
+      "Gummy bears"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which candy bar is made by Mars and named after a family nickname?",
+    "choices": [
+      "Milky Way",
+      "Baby Ruth",
+      "Snickers",
+      "Butterfinger"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which candy is made of colorful chocolate-covered pieces?",
+    "choices": [
+      "Skittles",
+      "Jelly Belly",
+      "Nerds",
+      "M&M's"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which candy is known for a rainbow of chewy fruit pieces?",
+    "choices": [
+      "Skittles",
+      "M&M's",
+      "Smarties",
+      "Mike and Ike"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which company is associated with Twinkies?",
+    "choices": [
+      "Nabisco",
+      "Hostess",
+      "Little Debbie",
+      "Entenmann's"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which snack brand is known for a curved potato crisp sold in a can?",
+    "choices": [
+      "Lay's",
+      "Ruffles",
+      "Pringles",
+      "Kettle Brand"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which brand makes Cheetos?",
+    "choices": [
+      "Kellogg's",
+      "General Mills",
+      "Utz",
+      "Frito-Lay"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which corn chip brand is associated with a triangular shape and many flavors?",
+    "choices": [
+      "Doritos",
+      "Fritos",
+      "Tostitos",
+      "Bugles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which potato-chip brand is associated with the phrase 'Betcha can't eat just one'?",
+    "choices": [
+      "Pringles",
+      "Lay's",
+      "Ruffles",
+      "Kettle Brand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which cracker brand is known for its buttery square crackers?",
+    "choices": [
+      "Triscuit",
+      "Wheat Thins",
+      "Ritz",
+      "Club Crackers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which snack cracker is shaped like a small fish?",
+    "choices": [
+      "Cheez-It",
+      "Animal Crackers",
+      "Teddy Grahams",
+      "Goldfish"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which packaged breakfast pastry is made by Kellogg's?",
+    "choices": [
+      "Pop-Tarts",
+      "Toaster Strudels",
+      "Nutri-Grain Bars",
+      "Little Bites"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which cereal mascot is a tiger named Tony?",
+    "choices": [
+      "Toucan Sam",
+      "Tony the Tiger",
+      "Snap",
+      "Lucky the Leprechaun"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which dessert brand is famous for gelatin mixes?",
+    "choices": [
+      "Cool Whip",
+      "Duncan Hines",
+      "Jell-O",
+      "Pillsbury"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which soft drink was first developed in Atlanta in the late nineteenth century?",
+    "choices": [
+      "Pepsi",
+      "Dr Pepper",
+      "Fanta",
+      "Coca-Cola"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which cola brand, originally sold as Brad's Drink, became Coca-Cola's main rival?",
+    "choices": [
+      "Pepsi",
+      "Sprite",
+      "7UP",
+      "Mountain Dew"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which soft drink is associated with origins in Waco, Texas?",
+    "choices": [
+      "Coca-Cola",
+      "Dr Pepper",
+      "RC Cola",
+      "Mello Yello"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which beverage is a lemon-lime soda made by Coca-Cola?",
+    "choices": [
+      "Fanta",
+      "Barq's",
+      "Sprite",
+      "Fresca"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which citrus-flavored soda is associated with PepsiCo?",
+    "choices": [
+      "Sun Drop",
+      "Squirt",
+      "Sunkist",
+      "Mountain Dew"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which energy drink brand originated in Austria?",
+    "choices": [
+      "Red Bull",
+      "Monster",
+      "Rockstar",
+      "NOS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which sports drink was developed at the University of Florida?",
+    "choices": [
+      "Powerade",
+      "Gatorade",
+      "Lucozade",
+      "BodyArmor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which McDonald's burger has two beef patties and a special sauce?",
+    "choices": [
+      "McChicken",
+      "Filet-O-Fish",
+      "Big Mac",
+      "Quarter Pounder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which Burger King sandwich is known as the Whopper?",
+    "choices": [
+      "A fried chicken wrap",
+      "A fish sandwich",
+      "A breakfast biscuit",
+      "A flame-grilled beef burger"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is distinctive about the classic Wendy's hamburger patties?",
+    "choices": [
+      "They are traditionally square",
+      "They are always round and stuffed with cheese",
+      "They are made from fish",
+      "They are served only in a bowl"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which frozen dessert is associated with Wendy's?",
+    "choices": [
+      "The Blizzard",
+      "The Frosty",
+      "The McFlurry",
+      "The Concrete"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which chain is especially associated with tacos and Mexican-inspired fast food?",
+    "choices": [
+      "KFC",
+      "Arby's",
+      "Taco Bell",
+      "Dairy Queen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which chain is known for the term footlong?",
+    "choices": [
+      "Jersey Mike's",
+      "Jimmy John's",
+      "Quiznos",
+      "Subway"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which chain is associated with the Colonel and fried chicken?",
+    "choices": [
+      "KFC",
+      "Popeyes",
+      "Church's Texas Chicken",
+      "Bojangles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which chain began as a Louisiana-style fried-chicken brand?",
+    "choices": [
+      "KFC",
+      "Popeyes",
+      "Raising Cane's",
+      "Zaxby's"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which fast-food chain is best known for pizza?",
+    "choices": [
+      "Waffle House",
+      "Chipotle",
+      "Domino's",
+      "Five Guys"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which chain is associated with the stuffed-crust pizza innovation?",
+    "choices": [
+      "Domino's",
+      "Papa John's",
+      "Sbarro",
+      "Pizza Hut"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which coffee chain sells a blended beverage called a Frappuccino?",
+    "choices": [
+      "Starbucks",
+      "Dunkin'",
+      "Peet's Coffee",
+      "Tim Hortons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which chain is especially associated with donuts and coffee in the United States?",
+    "choices": [
+      "Krispy Kreme",
+      "Dunkin'",
+      "Tim Hortons",
+      "Winchell's"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which ice-cream chain is associated with the number 31?",
+    "choices": [
+      "Dairy Queen",
+      "Ben & Jerry's",
+      "Baskin-Robbins",
+      "Cold Stone Creamery"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which dessert at Dairy Queen is famously served upside down in advertising?",
+    "choices": [
+      "The Frosty",
+      "The McFlurry",
+      "The Concrete",
+      "The Blizzard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which California chain is associated with the Double-Double burger?",
+    "choices": [
+      "In-N-Out Burger",
+      "Whataburger",
+      "Jack in the Box",
+      "Carl's Jr."
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which chain is known for burritos assembled with ingredients chosen by the customer?",
+    "choices": [
+      "Panera Bread",
+      "Chipotle",
+      "Noodles & Company",
+      "Panda Express"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which burger chain began as a hot-dog cart in New York's Madison Square Park?",
+    "choices": [
+      "Five Guys",
+      "Smashburger",
+      "Shake Shack",
+      "Steak 'n Shake"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which fast-food company is headquartered in the Philippines and uses a bee mascot?",
+    "choices": [
+      "Lotteria",
+      "Mos Burger",
+      "Nando's",
+      "Jollibee"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which restaurant chain is known for Portuguese-style peri-peri chicken?",
+    "choices": [
+      "Nando's",
+      "Jollibee",
+      "El Pollo Loco",
+      "Chicken Licken"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Canadian chain is especially associated with coffee and Timbits?",
+    "choices": [
+      "Second Cup",
+      "Tim Hortons",
+      "Country Style",
+      "Coffee Time"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which British sandwich chain's name means 'ready to eat' in French?",
+    "choices": [
+      "Greggs",
+      "EAT.",
+      "Pret A Manger",
+      "Paul"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which American restaurant chain is known for all-day breakfast and scattered, smothered, covered hash browns?",
+    "choices": [
+      "Denny's",
+      "IHOP",
+      "Cracker Barrel",
+      "Waffle House"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which chain is associated with small square hamburgers called sliders?",
+    "choices": [
+      "White Castle",
+      "Krystal",
+      "Whataburger",
+      "Steak 'n Shake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which American root-beer brand has a name formed from its founders' surnames and an ampersand?",
+    "choices": [
+      "IBC",
+      "A&W",
+      "Barq's",
+      "Mug"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which lollipop brand was founded in Spain?",
+    "choices": [
+      "Dum Dums",
+      "Tootsie Pop",
+      "Chupa Chups",
+      "Pez"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which candy is known for a chocolate cup filled with peanut butter?",
+    "choices": [
+      "Junior Mints",
+      "York Peppermint Pattie",
+      "Milk Duds",
+      "Reese's Peanut Butter Cups"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which cereal brand is associated with a leprechaun mascot?",
+    "choices": [
+      "Lucky Charms",
+      "Froot Loops",
+      "Frosted Flakes",
+      "Cocoa Puffs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which fast-food chain is especially associated with roast-beef sandwiches?",
+    "choices": [
+      "Subway",
+      "Arby's",
+      "Quiznos",
+      "Jersey Mike's"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which company introduced the sandwich cookie Hydrox before Oreo?",
+    "choices": [
+      "Nabisco",
+      "Keebler",
+      "Sunshine Biscuits",
+      "United Biscuits"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which slogan is associated with Kit Kat?",
+    "choices": [
+      "Melts in your mouth, not in your hand",
+      "The taste of paradise",
+      "Once you pop, you can't stop",
+      "Have a break, have a Kit Kat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What makes U.S. Smarties different from British Smarties?",
+    "choices": [
+      "U.S. Smarties are compressed sugar tablets, while British Smarties are chocolate candies",
+      "U.S. Smarties are potato chips, while British Smarties are caramels",
+      "U.S. Smarties are lollipops, while British Smarties are mints",
+      "They are identical products from one company"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why has the original Kinder Surprise egg been restricted in the United States?",
+    "choices": [
+      "It contains a carbonated drink",
+      "Its chocolate shell contains a small non-edible toy",
+      "It is sold only in restaurants",
+      "It uses a banned fruit flavor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which chocolate is recognizable for its triangular segments and Swiss origin?",
+    "choices": [
+      "Ferrero Rocher",
+      "Lindt Lindor",
+      "Toblerone",
+      "Milka"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which confection consists of a hazelnut in a chocolate-and-wafer shell?",
+    "choices": [
+      "Toblerone",
+      "Raffaello",
+      "Mon Chéri",
+      "Ferrero Rocher"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which company makes Nutella?",
+    "choices": [
+      "Ferrero",
+      "Mars",
+      "Nestlé",
+      "Lindt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which candy company is associated with Goldbears?",
+    "choices": [
+      "Trolli",
+      "Haribo",
+      "Katjes",
+      "Maynards"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is distinctive about PEZ candy packaging?",
+    "choices": [
+      "Chocolate bars are sold in triangular boxes",
+      "Gummy bears come in collectible jars",
+      "Candy tablets dispense from character-topped handheld dispensers",
+      "Lollipops are sold inside soda bottles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Japanese snack consists of biscuit sticks coated in flavors such as chocolate?",
+    "choices": [
+      "Hi-Chew",
+      "Calbee Jagariko",
+      "Yan Yan",
+      "Pocky"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Japanese candy is known for a long-lasting chewy texture?",
+    "choices": [
+      "Hi-Chew",
+      "Pocky",
+      "Ramune",
+      "Kasugai Gummies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What shape is especially associated with Pringles crisps?",
+    "choices": [
+      "A perfect sphere",
+      "A hyperbolic paraboloid saddle shape",
+      "A triangular pyramid",
+      "A flat square"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which character has long been associated with Planters peanuts?",
+    "choices": [
+      "The Chester Cheetah",
+      "Tony the Tiger",
+      "Mr. Peanut",
+      "The Kool-Aid Man"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which trio of characters is associated with Rice Krispies cereal?",
+    "choices": [
+      "Chip, Dale, and Pluto",
+      "The Noid, Speedee, and Ronald",
+      "Mickey, Donald, and Goofy",
+      "Snap, Crackle, and Pop"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is Cap'n Crunch's title and presentation based on?",
+    "choices": [
+      "A naval captain mascot and a sweetened corn-and-oat cereal",
+      "A pirate chocolate bar",
+      "A military potato chip",
+      "A space-themed soda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What was New Coke?",
+    "choices": [
+      "A caffeine-free cola introduced in 2005",
+      "A reformulated Coca-Cola introduced in 1985",
+      "A Pepsi flavor from the 1970s",
+      "A bottled coffee drink"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "When was Diet Coke introduced?",
+    "choices": [
+      "1972",
+      "1992",
+      "1982",
+      "1962"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What was the Pepsi Challenge?",
+    "choices": [
+      "A national chili-eating contest",
+      "A football halftime show",
+      "A restaurant franchise competition",
+      "A blind taste-test promotion comparing Pepsi with Coca-Cola"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Where did Fanta first develop during the Second World War?",
+    "choices": [
+      "Germany",
+      "Italy",
+      "Brazil",
+      "Japan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the historical relationship between Red Bull and Thailand's Krating Daeng?",
+    "choices": [
+      "Krating Daeng was a Red Bull flavor invented later in Austria",
+      "Red Bull was developed as an international adaptation of that Thai energy drink",
+      "They are unrelated cola brands",
+      "Red Bull was originally a Japanese tea"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which institution is associated with the original development of Gatorade?",
+    "choices": [
+      "Stanford University",
+      "The University of Texas",
+      "The University of Florida",
+      "Harvard University"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "When was McDonald's first Happy Meal introduced?",
+    "choices": [
+      "1969",
+      "1989",
+      "1999",
+      "1979"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which McDonald's promotion paired children's meals with toys and a box designed for families?",
+    "choices": [
+      "The Happy Meal",
+      "The Mighty Kids Meal",
+      "The McSnack Pack",
+      "The Family Burger Box"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which chain created the Book It! reading program?",
+    "choices": [
+      "Domino's",
+      "Pizza Hut",
+      "Papa John's",
+      "Little Caesars"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What was distinctive about Domino's historic 30-minute promise?",
+    "choices": [
+      "It guaranteed a pizza would weigh thirty ounces",
+      "It offered thirty toppings on every pizza",
+      "It linked delivery time to a guarantee, later discontinued in many markets",
+      "It applied only to dine-in service"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "In what New York setting did Shake Shack begin as a temporary kiosk?",
+    "choices": [
+      "Central Park",
+      "Union Square",
+      "Bryant Park",
+      "Madison Square Park"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What does Nando's peri-peri refer to?",
+    "choices": [
+      "A chili-based sauce and style of grilled chicken",
+      "A Portuguese pastry filling",
+      "A South African coffee roast",
+      "A chain of sandwich shops"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the historical significance of White Castle?",
+    "choices": [
+      "It invented the modern pizza delivery box",
+      "It is widely recognized as one of the earliest fast-food hamburger chains",
+      "It was the first international coffee chain",
+      "It began as a Japanese noodle restaurant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which product's advertising used the character called the Noid?",
+    "choices": [
+      "Pizza Hut",
+      "Little Caesars",
+      "Domino's Pizza",
+      "Papa John's"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which cereal's mascot is Toucan Sam?",
+    "choices": [
+      "Fruit by the Foot",
+      "Trix",
+      "Apple Jacks",
+      "Froot Loops"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which powdered-drink brand uses a smiling pitcher as its mascot?",
+    "choices": [
+      "Kool-Aid",
+      "Tang",
+      "Hawaiian Punch",
+      "Hi-C"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which early advertising character was associated with McDonald's before Ronald McDonald became dominant?",
+    "choices": [
+      "The Noid",
+      "Speedee",
+      "Mayor McCheese",
+      "Grimace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which company originally created the candy bar Milky Way in the United States?",
+    "choices": [
+      "Hershey",
+      "Nestlé",
+      "Mars",
+      "Ferrero"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which U.S. candy bar is named after baseball player Babe Ruth in its most common historical account?",
+    "choices": [
+      "Oh Henry!",
+      "PayDay",
+      "Mr. Goodbar",
+      "Baby Ruth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which chocolate brand is associated with the phrase 'melts in your mouth, not in your hand'?",
+    "choices": [
+      "M&M's",
+      "Skittles",
+      "Smarties",
+      "Reese's"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which soft drink was originally marketed as a medicinal-style beverage by pharmacist Caleb Bradham?",
+    "choices": [
+      "Coca-Cola",
+      "Pepsi-Cola",
+      "Dr Pepper",
+      "RC Cola"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which fast-food chain is associated with the clown mascot Ronald McDonald?",
+    "choices": [
+      "Burger King",
+      "Wendy's",
+      "McDonald's",
+      "Jack in the Box"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which snack brand is especially associated with a Chester Cheetah mascot?",
+    "choices": [
+      "Doritos",
+      "Fritos",
+      "Cheez-It",
+      "Cheetos"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which product category best describes Turkish delight?",
+    "choices": [
+      "A gel-like confection often flavored with rose or citrus",
+      "A fried potato snack",
+      "A carbonated fruit drink",
+      "A chocolate wafer bar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which food is traditionally associated with the name 'slider' in U.S. fast-food history?",
+    "choices": [
+      "A soft-serve cone",
+      "A small square hamburger",
+      "A fried chicken wing",
+      "A breakfast pancake"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which ingredient gives peri-peri sauce its characteristic heat?",
+    "choices": [
+      "Cocoa nibs",
+      "Juniper berries",
+      "African bird's-eye chili",
+      "Sichuan peppercorn only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which fast-food format is most directly associated with a drive-thru?",
+    "choices": [
+      "Ordering exclusively by mail",
+      "A restaurant inside a train",
+      "A buffet served at a stadium",
+      "Ordering and receiving food without leaving the vehicle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the main historical importance of the franchise model to fast food?",
+    "choices": [
+      "It allowed a standardized brand and operating system to expand through independently operated locations",
+      "It required every restaurant to use local names",
+      "It prevented recipes from being standardized",
+      "It limited restaurants to one city"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a private-label snack?",
+    "choices": [
+      "A snack sold only at a private party",
+      "A product made for sale under a retailer's own brand",
+      "A candy with no package",
+      "A product available only in another country"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why do companies use resealable packaging for some snacks?",
+    "choices": [
+      "It guarantees the product never expires",
+      "It removes all need for food labeling",
+      "It can help protect texture and make repeated use more convenient",
+      "It makes the snack carbonated"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is an ingredient list ordered to show in most packaged foods?",
+    "choices": [
+      "Ingredients in alphabetical order",
+      "Ingredients by price",
+      "Ingredients by color",
+      "Ingredients in descending order by weight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a product's regional variation?",
+    "choices": [
+      "A version adapted to local tastes, ingredients, regulations, or marketing",
+      "A product that can be sold only in its factory",
+      "A snack with no recipe changes anywhere",
+      "A temporary cooking mistake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which statement best distinguishes a snack from a full meal in ordinary food culture?",
+    "choices": [
+      "A snack must always be sweet",
+      "A snack is generally a smaller, between-meal eating occasion, though boundaries vary",
+      "A full meal cannot contain packaged food",
+      "A snack is defined by one universal serving size"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does 'fast food' most directly describe?",
+    "choices": [
+      "Any food eaten while walking",
+      "Only food sold from trucks",
+      "Food designed for rapid preparation and service in a standardized setting",
+      "Food that must be eaten cold"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Why can a famous food slogan be historically useful to researchers?",
+    "choices": [
+      "It proves the product always tasted identical",
+      "It identifies the nutritional value of every serving",
+      "It establishes a legal definition of fast food",
+      "It shows how a company framed a product and targeted consumers at a particular time"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

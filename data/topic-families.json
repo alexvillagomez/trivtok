@@ -3,6 +3,45 @@
   "defaultLongScrollTarget": 100,
   "families": [
     {
+      "id": "astronomy.exoplanets.detection-characterization",
+      "topic": "Exoplanet detection and characterization",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/astronomy-exoplanets-detection-and-characterization.json"
+      ]
+    },
+    {
+      "id": "sports.american-football.nfl-strategy-history",
+      "topic": "NFL strategy, positions, and history",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/american-football-nfl-strategy-positions-and-history.json"
+      ]
+    },
+    {
+      "id": "history.world-war-two.codebreaking-signals-intelligence",
+      "topic": "World War II codebreaking and signals intelligence",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/world-war-two-codebreaking-and-signals-intelligence.json"
+      ]
+    },
+    {
       "id": "sports.world-football",
       "topic": "World football",
       "targetQuestions": 100,
@@ -111,6 +150,768 @@
       "files": [
         "data/generated/renaissance-painting-iconography-and-commissions.json"
       ]
+    },
+    {
+      "id": "music.jazz.history-theory-improvisation",
+      "topic": "Jazz history, theory, and improvisation",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/music-jazz-history-theory-and-improvisation.json"
+      ]
+    },
+    {
+      "id": "science.earth.volcanoes-tectonics-eruptions",
+      "topic": "Volcanoes, plate tectonics, and eruptions",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/earth-science-volcanoes-plate-tectonics-and-eruptions.json"
+      ]
+    },
+    {
+      "id": "literature.sherlock-holmes.canon-detective-method",
+      "topic": "Sherlock Holmes canon and detective method",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/literature-sherlock-holmes-canon-and-detective-method.json"
+      ]
+    },
+    {
+      "id": "food.coffee.cultivation-roasting-brewing",
+      "topic": "Coffee cultivation, roasting, and brewing",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/food-coffee-cultivation-roasting-and-brewing.json"
+      ]
+    },
+    {
+      "id": "technology.cybersecurity.network-defense-cryptography",
+      "topic": "Cybersecurity, network defense, and cryptography",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/technology-cybersecurity-network-defense-and-cryptography.json"
+      ]
+    },
+    {
+      "id": "literature.homer.iliad-odyssey-epic-tradition",
+      "topic": "Homer's Iliad, Odyssey, and epic tradition",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/literature-homer-iliad-odyssey-and-epic-tradition.json"
+      ]
+    },
+    {
+      "id": "nature.entomology.insects-social-colonies",
+      "topic": "Insects, entomology, and social colonies",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/nature-insects-entomology-and-social-colonies.json"
+      ]
+    },
+    {
+      "id": "history.mughal-empire.court-administration",
+      "topic": "Mughal Empire court and administration",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/history-mughal-empire-court-and-administration.json"
+      ]
+    },
+    {
+      "id": "music.film-scores.composers-orchestration",
+      "topic": "Film scores, composers, and orchestration",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/music-film-scores-composers-and-orchestration.json"
+      ]
+    },
+    {
+      "id": "engineering.bridges.structures-load-paths",
+      "topic": "Bridges, structures, and load paths",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/engineering-bridges-structures-and-load-paths.json"
+      ]
+    },
+    {
+      "id": "history.west-africa.medieval-empires-trade",
+      "topic": "Medieval West African empires and trade",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/history-medieval-west-african-empires-and-trade.json"
+      ]
+    },
+    {
+      "id": "biology.immunology.innate-adaptive-cellular-defense",
+      "topic": "Immunology: innate, adaptive, and cellular defense",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/biology-immunology-innate-adaptive-and-cellular-defense.json"
+      ]
+    },
+    {
+      "id": "language.linguistics.phonetics-phonology-sound-change",
+      "topic": "Phonetics, phonology, and sound change",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/language-linguistics-phonetics-phonology-and-sound-change.json"
+      ]
+    },
+    {
+      "id": "geography.cartography.map-projections-geodesy",
+      "topic": "Cartography, map projections, and geodesy",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/geography-cartography-map-projections-and-geodesy.json"
+      ]
+    },
+    {
+      "id": "animals.dogs.breeds-behavior-working-roles",
+      "topic": "Dogs: breeds, behavior, and working roles",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/animals-dogs-breeds-behavior-and-working-roles.json"
+      ]
+    },
+    {
+      "id": "food.home-cooking.techniques-kitchen-basics",
+      "topic": "Home cooking techniques and kitchen basics",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/food-home-cooking-techniques-and-kitchen-basics.json"
+      ]
+    },
+    {
+      "id": "movies.blockbusters.franchises-popular-cinema",
+      "topic": "Blockbusters, franchises, and popular cinema",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/movies-blockbusters-franchises-and-popular-cinema.json"
+      ]
+    },
+    {
+      "id": "transportation.cars.models-mechanics-history",
+      "topic": "Cars, models, mechanics, and automotive history",
+      "targetQuestions": 100,
+      "difficultyTarget": {
+        "easierBelow070": 50,
+        "hardAtOrAbove070": 50
+      },
+      "enforceAntiTemplate": true,
+      "files": [
+        "data/generated/cars-models-mechanics-and-automotive-history.json"
+      ]
+    },
+    {
+      "id": "sports.basketball.stars-teams-iconic-moments",
+      "topic": "Basketball stars, teams, and iconic moments",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/sports-basketball-stars-teams-and-iconic-moments.json"]
+    },
+    {
+      "id": "video-games.super-mario.characters-worlds-history",
+      "topic": "Super Mario characters, worlds, and history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/video-games-super-mario-characters-worlds-and-history.json"]
+    },
+    {
+      "id": "travel.landmarks.attractions-destinations",
+      "topic": "Famous landmarks, attractions, and destinations",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/travel-famous-landmarks-attractions-and-destinations.json"]
+    },
+    {
+      "id": "television.friends.characters-episodes-gags",
+      "topic": "Friends characters, episodes, and running gags",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-friends-characters-episodes-and-running-gags.json"]
+    },
+    {
+      "id": "music.pop.2000s-artists-hits-culture",
+      "topic": "2000s pop artists, hits, and culture",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/music-2000s-pop-artists-hits-and-culture.json"]
+    },
+    {
+      "id": "animals.cats.breeds-behavior-cultural-history",
+      "topic": "Cats: breeds, behavior, and cultural history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/animals-cats-breeds-behavior-and-cultural-history.json"]
+    },
+    {
+      "id": "movies.disney-pixar.characters-stories",
+      "topic": "Disney and Pixar animation, characters, and stories",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-disney-pixar-animation-characters-and-stories.json"]
+    },
+    {
+      "id": "literature.harry-potter.books-films-lore",
+      "topic": "Harry Potter books, films, characters, and lore",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/harry-potter-books-films-characters-and-lore.json"]
+    },
+    {
+      "id": "marvel.mcu.infinity-saga",
+      "topic": "Marvel Cinematic Universe: Infinity Saga",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/marvel-cinematic-universe-infinity-saga.json"]
+    },
+    {
+      "id": "entertainment.theme-parks.rides-attractions",
+      "topic": "Theme parks, rides, and attractions",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/entertainment-theme-parks-rides-and-attractions.json"]
+    },
+    {
+      "id": "science.paleontology.dinosaurs-prehistoric-life",
+      "topic": "Dinosaurs, prehistoric life, and paleontology",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/science-dinosaurs-prehistoric-life-and-paleontology.json"]
+    },
+    {
+      "id": "animals.ocean.sharks-whales-dolphins",
+      "topic": "Sharks, whales, dolphins, and ocean giants",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/animals-sharks-whales-dolphins-and-ocean-giants.json"]
+    },
+    {
+      "id": "fashion.sneakers.streetwear-iconic-styles",
+      "topic": "Sneakers, streetwear, and iconic styles",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/fashion-sneakers-streetwear-and-iconic-styles.json"]
+    },
+    {
+      "id": "video-games.minecraft.mobs-biomes-mechanics",
+      "topic": "Minecraft mobs, biomes, and mechanics",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/video-games-minecraft-mobs-biomes-and-mechanics.json"]
+    },
+    {
+      "id": "television.stranger-things.characters-seasons-hawkins",
+      "topic": "Stranger Things characters, seasons, and Hawkins lore",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-stranger-things-characters-seasons-and-hawkins-lore.json"]
+    },
+    {
+      "id": "comics.dc.superheroes-villains-stories",
+      "topic": "DC superheroes, villains, and iconic stories",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/dc-superheroes-villains-and-iconic-stories.json"]
+    },
+    {
+      "id": "music.taylor-swift.albums-songs-eras",
+      "topic": "Taylor Swift albums, songs, and eras",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": false,
+      "files": ["data/generated/music-taylor-swift-albums-songs-and-eras.json"]
+    },
+    {
+      "id": "food.pop-culture.snacks-candy-fast-food",
+      "topic": "Snacks, candy, and fast-food culture",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": false,
+      "files": ["data/generated/food-snacks-candy-and-fast-food-culture.json"]
+    },
+    {
+      "id": "television.the-office-us.characters-episodes-gags",
+      "topic": "The Office (US) characters, episodes, and running gags",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-the-office-us-characters-episodes-and-running-gags.json"]
+    },
+    {
+      "id": "anime.dragon-ball.characters-sagas-techniques",
+      "topic": "Dragon Ball characters, sagas, and techniques",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/anime-dragon-ball-characters-sagas-and-techniques.json"]
+    },
+    {
+      "id": "sports.baseball.stars-teams-iconic-moments",
+      "topic": "Baseball stars, teams, and iconic moments",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": false,
+      "files": ["data/generated/sports-baseball-stars-teams-and-iconic-moments.json"]
+    },
+    {
+      "id": "video-games.zelda.characters-worlds-dungeons",
+      "topic": "The Legend of Zelda characters, worlds, and dungeons",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/video-games-legend-of-zelda-characters-worlds-and-dungeons.json"]
+    },
+    {
+      "id": "television.breaking-bad.characters-episodes-albuquerque",
+      "topic": "Breaking Bad characters, episodes, and Albuquerque lore",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-breaking-bad-characters-episodes-and-albuquerque-lore.json"]
+    },
+    {
+      "id": "music.hip-hop.1990s-2000s-artists-albums-culture",
+      "topic": "1990s–2000s hip-hop artists, albums, and culture",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/music-hip-hop-1990s-2000s-artists-albums-and-culture.json"]
+    },
+    {
+      "id": "television.game-of-thrones.characters-houses-westeros",
+      "topic": "Game of Thrones characters, houses, and Westeros lore",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-game-of-thrones-characters-houses-and-westeros-lore.json"]
+    },
+    {
+      "id": "anime.naruto.characters-arcs-jutsu",
+      "topic": "Naruto characters, arcs, and jutsu",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/anime-naruto-characters-arcs-and-jutsu.json"]
+    },
+    {
+      "id": "anime.one-piece.characters-crews-adventures",
+      "topic": "One Piece characters, crews, and Grand Line adventures",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/anime-one-piece-characters-crews-and-grand-line-adventures.json"]
+    },
+    {
+      "id": "music.pop.2010s-artists-hits-culture",
+      "topic": "2010s pop artists, hits, and culture",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/music-2010s-pop-artists-hits-and-culture.json"]
+    },
+    {
+      "id": "television.spongebob.characters-episodes-bikini-bottom",
+      "topic": "SpongeBob SquarePants characters, episodes, and Bikini Bottom",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-spongebob-squarepants-characters-episodes-and-bikini-bottom.json"]
+    },
+    {
+      "id": "sports.formula-one.drivers-teams-circuits-history",
+      "topic": "Formula 1 drivers, teams, circuits, and history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/sports-formula-one-drivers-teams-circuits-and-history.json"]
+    },
+    {
+      "id": "sports.professional-wrestling.wwe-stars-history",
+      "topic": "Professional wrestling, WWE stars, and history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/sports-professional-wrestling-wwe-stars-and-history.json"]
+    },
+    {
+      "id": "science.weather.storms-clouds-forecasting",
+      "topic": "Weather, storms, clouds, and forecasting",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/science-weather-storms-clouds-and-forecasting.json"]
+    },
+    {
+      "id": "movies.horror.classics-franchises-modern-hits",
+      "topic": "Horror classics, franchises, and modern hits",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-horror-classics-franchises-and-modern-hits.json"]
+    },
+    {
+      "id": "television.survivor.seasons-players-gameplay",
+      "topic": "Survivor seasons, players, and gameplay history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-survivor-seasons-players-and-gameplay-history.json"]
+    },
+    {
+      "id": "television.pokemon-anime.characters-regions-adventures",
+      "topic": "Pokémon anime characters, regions, and adventures",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-pokemon-anime-characters-regions-and-adventures.json"]
+    },
+    {
+      "id": "movies.james-bond.films-villains-gadgets",
+      "topic": "James Bond films, villains, and gadgets",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-james-bond-films-villains-and-gadgets.json"]
+    },
+    {
+      "id": "food.italian.pizza-pasta-cooking",
+      "topic": "Pizza, pasta, and Italian cooking",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/food-pizza-pasta-and-italian-cooking.json"]
+    },
+    {
+      "id": "music.classic-rock.bands-albums-anthems",
+      "topic": "Classic rock bands, albums, and anthems",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/music-classic-rock-bands-albums-and-anthems.json"]
+    },
+    {
+      "id": "sports.tennis.stars-grand-slams-matches",
+      "topic": "Tennis stars, Grand Slams, and iconic matches",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": false,
+      "files": ["data/generated/sports-tennis-stars-grand-slams-and-iconic-matches.json"]
+    },
+    {
+      "id": "television.cartoons.1990s-shows-nostalgia",
+      "topic": "1990s cartoons, characters, shows, and nostalgia",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-1990s-cartoons-characters-shows-and-nostalgia.json"]
+    },
+    {
+      "id": "animals.horses.breeds-riding-equestrian-culture",
+      "topic": "Horses, breeds, riding, and equestrian culture",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/animals-horses-breeds-riding-and-equestrian-culture.json"]
+    },
+    {
+      "id": "sports.golf.stars-majors-courses-rules",
+      "topic": "Golf stars, majors, courses, and rules",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": false,
+      "files": ["data/generated/sports-golf-stars-majors-courses-and-rules.json"]
+    },
+    {
+      "id": "fashion.beauty.makeup-hair-style-history",
+      "topic": "Beauty, makeup, hair, and style history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/fashion-beauty-makeup-hair-and-style-history.json"]
+    },
+    {
+      "id": "travel.us-national-parks.landmarks-wildlife",
+      "topic": "U.S. national parks, landmarks, and wildlife",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/travel-us-national-parks-landmarks-and-wildlife.json"]
+    },
+    {
+      "id": "movies.dreamworks-animation.characters-stories",
+      "topic": "DreamWorks Animation characters and stories",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-dreamworks-animation-characters-and-stories.json"]
+    },
+    {
+      "id": "video-games.sonic.characters-zones-history",
+      "topic": "Sonic characters, zones, and series history",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/video-games-sonic-characters-zones-and-series-history.json"]
+    },
+    {
+      "id": "music.latin-pop-reggaeton.artists-hits",
+      "topic": "Latin pop and reggaeton artists and hits",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/music-latin-pop-reggaeton-artists-and-hits.json"]
+    },
+    {
+      "id": "movies.fast-furious.characters-cars-films",
+      "topic": "Fast & Furious characters, cars, and films",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-fast-and-furious-characters-cars-and-films.json"]
+    },
+    {
+      "id": "sports.mma-ufc.fighters-events-techniques",
+      "topic": "MMA and UFC fighters, events, and techniques",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/sports-mma-ufc-fighters-events-and-techniques.json"]
+    },
+    {
+      "id": "television.cooking-competition.shows-chefs-formats",
+      "topic": "Cooking competition shows, chefs, and formats",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-cooking-competition-shows-chefs-and-formats.json"]
+    },
+    {
+      "id": "movies.comedy.classics-stars-modern-favorites",
+      "topic": "Comedy classics, stars, and modern favorites",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-comedy-classics-stars-and-modern-favorites.json"]
+    },
+    {
+      "id": "video-games.the-sims.characters-worlds-life-simulation",
+      "topic": "The Sims characters, worlds, and life simulation",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 64, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": false,
+      "files": ["data/generated/video-games-the-sims-characters-worlds-and-life-simulation.json"]
+    },
+    {
+      "id": "geography.countries-cities-landmarks",
+      "topic": "Famous countries, cities, and landmarks",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/geography-famous-countries-cities-and-landmarks.json"]
+    },
+    {
+      "id": "animals.wildlife.habitats-behavior",
+      "topic": "Famous wildlife, habitats, and behavior",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/animals-famous-wildlife-habitats-and-behavior.json"]
+    },
+    {
+      "id": "food.common-dishes.ingredients-flavors",
+      "topic": "Common dishes, ingredients, and flavors",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/food-common-dishes-ingredients-and-flavors.json"]
+    },
+    {
+      "id": "history.famous-people.events-inventions",
+      "topic": "Famous people, events, and inventions",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/history-famous-people-events-and-inventions.json"]
+    },
+    {
+      "id": "science.everyday.facts-materials-phenomena",
+      "topic": "Everyday science facts, materials, and natural phenomena",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/science-everyday-facts-materials-and-natural-phenomena.json"]
+    },
+    {
+      "id": "movies.famous.characters-actors-stories",
+      "topic": "Famous movie characters, actors, and stories",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/movies-famous-characters-actors-and-stories.json"]
+    },
+    {
+      "id": "sports.famous.rules-stars-championships",
+      "topic": "Famous sports rules, stars, and championships",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/sports-famous-rules-stars-and-championships.json"]
+    },
+    {
+      "id": "music.famous.artists-songs-albums-instruments",
+      "topic": "Famous music artists, songs, albums, and instruments",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/music-famous-artists-songs-albums-and-instruments.json"]
+    },
+    {
+      "id": "literature.famous.books-authors-characters",
+      "topic": "Famous books, authors, and characters",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/literature-famous-books-authors-and-characters.json"]
+    },
+    {
+      "id": "technology.common.devices-internet-computing",
+      "topic": "Common devices, internet, and computing",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/technology-common-devices-internet-and-computing.json"]
+    },
+    {
+      "id": "biology.human-body.organs-senses-health-basics",
+      "topic": "Human body organs, senses, and health basics",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/biology-human-body-organs-senses-and-health-basics.json"]
+    },
+    {
+      "id": "art.famous.paintings-artists-museums",
+      "topic": "Famous paintings, artists, and museums",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/art-famous-paintings-artists-and-museums.json"]
+    },
+    {
+      "id": "mythology.famous.gods-heroes-legends",
+      "topic": "Famous gods, heroes, and legends",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/mythology-famous-gods-heroes-and-legends.json"]
+    },
+    {
+      "id": "television.famous.shows-characters-settings",
+      "topic": "Famous television shows, characters, and settings",
+      "targetQuestions": 100,
+      "difficultyTarget": { "easierBelow070": 50, "hardAtOrAbove070": 50 },
+      "enforceAntiTemplate": true,
+      "files": ["data/generated/tv-famous-shows-characters-and-settings.json"]
     }
   ]
 }

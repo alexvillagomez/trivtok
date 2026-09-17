@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is the largest animal known to have lived?",
+    "choices": [
+      "Blue whale",
+      "Whale shark",
+      "Giant squid",
+      "African elephant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the largest living fish?",
+    "choices": [
+      "Great white shark",
+      "Whale shark",
+      "Bluefin tuna",
+      "Ocean sunfish"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which shark is famous for its white underside and powerful reputation in documentaries?",
+    "choices": [
+      "Nurse shark",
+      "Goblin shark",
+      "Great white shark",
+      "Basking shark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which shark has a head shaped roughly like a hammer?",
+    "choices": [
+      "Thresher shark",
+      "Mako shark",
+      "Bull shark",
+      "Hammerhead shark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which shark is often recognized by dark vertical stripes as an adult?",
+    "choices": [
+      "Tiger shark",
+      "Whale shark",
+      "Nurse shark",
+      "Angel shark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which shark is known as one of the fastest swimming sharks?",
+    "choices": [
+      "Wobbegong",
+      "Shortfin mako",
+      "Nurse shark",
+      "Port Jackson shark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which shark is a filter feeder despite its large size?",
+    "choices": [
+      "Great white shark",
+      "Tiger shark",
+      "Basking shark",
+      "Bull shark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What does a whale shark primarily filter from the water?",
+    "choices": [
+      "Large seals",
+      "Sea turtles",
+      "Coral rocks",
+      "Plankton and small organisms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What kind of animal is an orca?",
+    "choices": [
+      "A dolphin",
+      "A shark",
+      "A seal",
+      "A ray"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which dolphin species is especially familiar from aquariums and coastal studies?",
+    "choices": [
+      "Amazon river dolphin",
+      "Bottlenose dolphin",
+      "Hourglass dolphin",
+      "Commerson's dolphin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which Arctic whale is known for a long tusk in many males?",
+    "choices": [
+      "Beluga",
+      "Bowhead whale",
+      "Narwhal",
+      "Minke whale"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which whale is famous for complex songs, especially among males?",
+    "choices": [
+      "Gray whale",
+      "Right whale",
+      "Sei whale",
+      "Humpback whale"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which whale is known for exceptionally deep dives and a large head?",
+    "choices": [
+      "Sperm whale",
+      "Blue whale",
+      "Fin whale",
+      "Minke whale"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which Arctic cetacean is often called the white whale?",
+    "choices": [
+      "Narwhal",
+      "Beluga",
+      "Bowhead whale",
+      "Pilot whale"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What do baleen whales use to strain food from seawater?",
+    "choices": [
+      "Teeth in both jaws",
+      "A hard tongue",
+      "Baleen plates",
+      "External claws"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What do dolphins use to detect objects and prey underwater?",
+    "choices": [
+      "Infrared vision",
+      "Magnetic claws",
+      "Baleen",
+      "Echolocation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a whale's blowhole?",
+    "choices": [
+      "An opening used for breathing at the surface",
+      "A feeding filter",
+      "A fin on the tail",
+      "A chamber in the stomach"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a whale's fluke?",
+    "choices": [
+      "Its dorsal fin",
+      "Its horizontally oriented tail lobes",
+      "Its baleen rack",
+      "Its blowhole muscle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is a major food source for many blue whales?",
+    "choices": [
+      "Sea grass",
+      "Large sharks",
+      "Krill",
+      "Sea birds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What protects the body of a sea turtle?",
+    "choices": [
+      "Baleen plates",
+      "Dermal denticles only",
+      "A layer of blubber",
+      "A shell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which sea turtle has a flexible, leathery shell rather than a hard bony shell?",
+    "choices": [
+      "Leatherback turtle",
+      "Green turtle",
+      "Loggerhead turtle",
+      "Hawksbill turtle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which sea turtle is especially associated with eating jellyfish?",
+    "choices": [
+      "Hawksbill turtle",
+      "Leatherback turtle",
+      "Green turtle",
+      "Kemp's ridley turtle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Where do sea turtles usually lay their eggs?",
+    "choices": [
+      "In kelp forests",
+      "Inside coral skeletons",
+      "On sandy beaches",
+      "On floating ice"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a giant squid?",
+    "choices": [
+      "A baleen whale",
+      "A deep-sea shark",
+      "A colonial coral",
+      "A large cephalopod"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "How many arms does an octopus have?",
+    "choices": [
+      "Eight",
+      "Six",
+      "Ten",
+      "Twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which cephalopod is known for changing its appearance to resemble other animals or surroundings?",
+    "choices": [
+      "Nautilus",
+      "Mimic octopus",
+      "Giant squid",
+      "Cuttlefish only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which ray is known for broad winglike fins and filter feeding?",
+    "choices": [
+      "Stingray",
+      "Electric ray",
+      "Manta ray",
+      "Guitarfish"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What feature gives many stingrays their common name?",
+    "choices": [
+      "A row of baleen",
+      "A hammer-shaped head",
+      "A long tusk",
+      "A venomous spine on the tail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Why do many whales migrate?",
+    "choices": [
+      "To move between feeding and breeding areas",
+      "To find freshwater rivers",
+      "To shed their fins",
+      "To avoid using oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which marine mammal has external ear flaps and can rotate its hind flippers for movement on land?",
+    "choices": [
+      "True seal",
+      "Sea lion",
+      "Walrus only",
+      "Manatee"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Arctic marine mammal is known for large tusks and whiskers?",
+    "choices": [
+      "Narwhal",
+      "Sea otter",
+      "Walrus",
+      "Harbor seal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which marine mammal primarily grazes on seagrass?",
+    "choices": [
+      "Orca",
+      "Leopard seal",
+      "Sperm whale",
+      "Manatee"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which close relative of the manatee is strongly associated with seagrass meadows in the Indo-Pacific?",
+    "choices": [
+      "Dugong",
+      "Walrus",
+      "Sea lion",
+      "Harp seal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What type of skeleton do sharks and rays have?",
+    "choices": [
+      "A skeleton made entirely of bone",
+      "A mainly cartilaginous skeleton",
+      "A shell-like exoskeleton",
+      "A hydrostatic skeleton only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the lateral line system used for by many fish, including sharks?",
+    "choices": [
+      "Producing venom",
+      "Filtering plankton",
+      "Sensing water movement and vibrations",
+      "Storing oxygen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What are the ampullae of Lorenzini?",
+    "choices": [
+      "Baleen plates in whales",
+      "Air sacs in dolphins",
+      "Light-producing organs in squid",
+      "Electroreceptive organs in sharks and rays"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "How do sharks obtain oxygen from seawater?",
+    "choices": [
+      "Water passes over their gills",
+      "They breathe through blowholes",
+      "They absorb it through baleen",
+      "They use lungs like whales"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which statement about whales is correct?",
+    "choices": [
+      "They are fish with modified lungs",
+      "They are air-breathing mammals",
+      "They extract oxygen through scales",
+      "They breathe only while diving"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is krill?",
+    "choices": [
+      "A type of shark",
+      "A sea-turtle shell layer",
+      "Small shrimp-like crustaceans",
+      "A whale vocal organ"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does plankton describe?",
+    "choices": [
+      "Only microscopic plants",
+      "Any animal living on the seafloor",
+      "A type of whale food exclusively",
+      "Organisms that drift with currents rather than actively swimming against them"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which fish is famous for its round body and enormous size relative to many bony fish?",
+    "choices": [
+      "Ocean sunfish",
+      "Manta ray",
+      "Sawfish",
+      "Swordfish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a sea snake?",
+    "choices": [
+      "A type of eel",
+      "A marine-adapted snake",
+      "A small shark",
+      "A worm-like mollusk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does bycatch mean in fisheries?",
+    "choices": [
+      "Fish raised in a protected aquarium",
+      "A seasonal migration of whales",
+      "Non-target animals caught during fishing operations",
+      "A method of counting reef species"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a marine protected area?",
+    "choices": [
+      "A private aquarium exhibit",
+      "A floating fishing market",
+      "A zone where all marine life is removed",
+      "A designated ocean area with special conservation rules"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which large shark is especially associated with seasonal plankton feeding?",
+    "choices": [
+      "Basking shark",
+      "Tiger shark",
+      "Bull shark",
+      "Shortfin mako"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which animal is a marine mammal rather than a fish?",
+    "choices": [
+      "Whale shark",
+      "Dolphin",
+      "Manta ray",
+      "Great white shark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which body covering helps many sharks reduce drag and protect the skin?",
+    "choices": [
+      "Baleen plates",
+      "Featherlike scales",
+      "Dermal denticles",
+      "A turtle carapace"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What do many rays use spiracles for?",
+    "choices": [
+      "Producing sound above the surface",
+      "Storing fat",
+      "Filtering krill with baleen",
+      "Drawing water toward the gills while resting on the seafloor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the basic difference between a whale and a dolphin in common zoological usage?",
+    "choices": [
+      "Dolphins are toothed cetaceans, while 'whale' includes several larger cetacean groups",
+      "Dolphins are fish and whales are mammals",
+      "Whales have gills and dolphins have lungs",
+      "Dolphins lack social behavior"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which marine mammal is known for using flippers and whiskers while resting on ice or rocky shores?",
+    "choices": [
+      "A manta ray",
+      "A seal",
+      "A sea turtle",
+      "A whale shark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does the biological group Elasmobranchii include?",
+    "choices": [
+      "Whales and dolphins",
+      "Sea turtles and tortoises",
+      "Sharks, rays, and skates",
+      "Squid and octopuses"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a heterocercal tail in a shark?",
+    "choices": [
+      "A tail divided into four equal fins",
+      "A tail that acts as a fluke",
+      "A tail covered in baleen",
+      "A tail with unequal upper and lower lobes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is countershading in a marine animal?",
+    "choices": [
+      "A darker upper surface and lighter underside that can reduce visibility",
+      "A pattern of alternating fins",
+      "A defense using electric shocks",
+      "A way to reflect echolocation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What can electroreception help a shark detect?",
+    "choices": [
+      "The salinity of every ocean",
+      "Weak electrical fields produced by nearby organisms",
+      "The age of a coral reef",
+      "Air pressure above the water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is ram ventilation?",
+    "choices": [
+      "Breathing air through a whale blowhole",
+      "Pumping water with baleen",
+      "Passing water over the gills by swimming forward",
+      "Opening a ray's spiracle on land"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What are many shark teeth best described as?",
+    "choices": [
+      "Permanent molars rooted in one jaw",
+      "Baleen fibers",
+      "Soft feeding tentacles",
+      "Replaceable structures arranged in successive rows"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What are baleen plates made of?",
+    "choices": [
+      "Keratin",
+      "Calcium carbonate coral",
+      "Chitinous shell",
+      "Silica"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which term refers to toothed whales and dolphins as a group?",
+    "choices": [
+      "Mysticetes",
+      "Odontocetes",
+      "Elasmobranchs",
+      "Sirenia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which term refers to baleen whales as a group?",
+    "choices": [
+      "Odontocetes",
+      "Pinnipeds",
+      "Mysticetes",
+      "Cephalopods"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the spermaceti organ in a sperm whale associated with?",
+    "choices": [
+      "A baleen filter in the throat",
+      "A fin used for steering",
+      "A stomach chamber for krill",
+      "A large head structure involved in sound production and buoyancy-related functions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is bubble-net feeding?",
+    "choices": [
+      "Humpback whales cooperatively herd prey within a rising bubble curtain",
+      "Dolphins trap fish in a coral cave",
+      "Sharks create bubbles to oxygenate eggs",
+      "Sea turtles use bubbles to dig nests"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does cultural transmission mean in studies of whale song?",
+    "choices": [
+      "Songs are written into baleen",
+      "Vocal patterns can spread socially through a population rather than being purely inherited",
+      "Every whale is born with an identical song",
+      "Only humans can alter whale calls"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What are orca ecotypes?",
+    "choices": [
+      "Stages of a single orca's life",
+      "Color patterns caused only by water temperature",
+      "Distinct ecological forms with different diets, behaviors, and often vocal traditions",
+      "Separate names for male and female orcas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the narwhal tusk most accurately described as?",
+    "choices": [
+      "A hollow horn made of baleen",
+      "A modified breathing tube",
+      "A detachable defensive spine",
+      "An elongated tooth with sensory and display functions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the melon of a beluga or dolphin?",
+    "choices": [
+      "A forehead fatty structure involved in focusing sound",
+      "A stomach chamber for squid",
+      "A layer of baleen",
+      "A fin used during migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What kind of sounds are central to dolphin echolocation?",
+    "choices": [
+      "Low-frequency whale songs only",
+      "Short, directed clicks and returning echoes",
+      "Underwater flashes of light",
+      "Baleen vibrations"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What are signature whistles in bottlenose dolphins?",
+    "choices": [
+      "Calls used only during feeding by every dolphin",
+      "Whistles produced by the blowhole mechanically",
+      "Individual-specific calls that can function somewhat like names",
+      "Songs inherited identically from mothers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the deep scattering layer?",
+    "choices": [
+      "A permanent reef shelf made of coral",
+      "A layer of shark skin",
+      "A band of whale vocalizations",
+      "A daily migrating layer of organisms that reflects sonar and affects ocean food webs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What feeding strategy is associated with many gray whales?",
+    "choices": [
+      "Suction or bottom feeding on seafloor invertebrates",
+      "Bubble-net feeding on krill",
+      "Filter feeding through baleen at the surface only",
+      "Hunting flying birds in coastal forests"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What are callosities on right whales?",
+    "choices": [
+      "Baleen plates in the mouth",
+      "Raised rough skin patches used in visual identification",
+      "Cartilage structures in the tail",
+      "Air sacs beside the blowhole"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is lunge feeding in a rorqual whale?",
+    "choices": [
+      "Diving silently after one fish with teeth",
+      "Cooperatively herding seals onto beaches",
+      "Accelerating into a large volume of prey-laden water and filtering it through baleen",
+      "Using a tail strike to stun squid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "How can some sea turtles navigate across ocean basins?",
+    "choices": [
+      "They follow fixed underwater roads",
+      "They use echolocation clicks like dolphins",
+      "They memorize every wave crest",
+      "They can use environmental cues including Earth's magnetic field"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Why is the leatherback able to maintain a relatively high body temperature for a reptile?",
+    "choices": [
+      "Large size, activity, insulation, and heat-exchange adaptations contribute",
+      "It is a warm-blooded mammal",
+      "It has a layer of whale blubber",
+      "It receives heat from a shell battery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is temperature-dependent sex determination in sea turtles?",
+    "choices": [
+      "Adult turtles change sex every season",
+      "Incubation temperature influences the sex ratio of hatchlings",
+      "Water temperature determines shell color only",
+      "Temperature determines whether eggs are fertilized"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which diet is most associated with adult green turtles?",
+    "choices": [
+      "Large marine mammals",
+      "Hard-shelled mollusks only",
+      "Seagrasses and algae",
+      "Deep-sea fish"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is the ecological specialization of a hawksbill turtle's narrow beak?",
+    "choices": [
+      "It filters krill from open water",
+      "It crushes whale bones",
+      "It digs deep desert burrows",
+      "It helps it take food such as sponges from reef crevices"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What are chromatophores in cephalopods?",
+    "choices": [
+      "Pigment-containing cells used in rapid color change",
+      "Organs that produce echolocation",
+      "Hard plates in a squid's shell",
+      "Gills specialized for salt removal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "How many hearts does an octopus have?",
+    "choices": [
+      "One",
+      "Three",
+      "Two",
+      "Five"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a cephalopod's ink primarily used for?",
+    "choices": [
+      "A digestive enzyme for shells",
+      "A structure that stores oxygen",
+      "A defensive cloud that can disrupt a predator's attack",
+      "A pigment used only for mating"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is distinctive about the nautilus among living cephalopods?",
+    "choices": [
+      "It has no tentacles",
+      "It is a baleen filter feeder",
+      "It has a skeleton made of cartilage",
+      "It retains an external chambered shell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why are giant squid eyes notable?",
+    "choices": [
+      "Their very large eyes are adaptations for detecting faint light in the deep sea",
+      "They can see ultraviolet colors on land",
+      "They are compound eyes like an insect's",
+      "They produce the squid's ink"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "How do manta rays generally obtain food?",
+    "choices": [
+      "They inject venom into whales",
+      "They filter plankton-rich water while swimming",
+      "They graze seagrass with teeth",
+      "They hunt only on beaches"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the function of cephalic lobes in manta rays?",
+    "choices": [
+      "They produce electric shocks",
+      "They store eggs on the tail",
+      "They help channel plankton-rich water toward the mouth",
+      "They act as external ears"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a key difference between true seals and sea lions?",
+    "choices": [
+      "True seals have feathers while sea lions have scales",
+      "Sea lions breathe through gills",
+      "True seals lack any flippers",
+      "Sea lions have visible external ear flaps and rotate hind flippers for land movement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What do walrus vibrissae help them do?",
+    "choices": [
+      "Detect and locate seafloor prey by touch",
+      "Focus whale songs",
+      "Filter plankton",
+      "Change tusk color"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What ecological role do manatees and dugongs play in seagrass systems?",
+    "choices": [
+      "They create coral reefs with their shells",
+      "Their grazing can influence seagrass structure and nutrient cycling",
+      "They pollinate kelp with baleen",
+      "They function as apex sharks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does fisheries bycatch threaten in addition to target fish populations?",
+    "choices": [
+      "Only beach vegetation",
+      "Only freshwater insects",
+      "Non-target animals such as turtles, seabirds, sharks, and marine mammals",
+      "No organisms outside the fishing boat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a trophic cascade?",
+    "choices": [
+      "A wave that moves through every ocean",
+      "A method for aging whales by sound",
+      "A sequence of shark teeth replacement",
+      "A change at one food-web level that indirectly affects multiple lower levels"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "How can ocean noise affect cetaceans?",
+    "choices": [
+      "It can interfere with communication, navigation, and acoustic sensing",
+      "It changes baleen into teeth",
+      "It prevents whales from breathing at the surface",
+      "It only affects animals on beaches"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is environmental DNA, or eDNA, useful for in marine biology?",
+    "choices": [
+      "Measuring a shark's swimming speed directly",
+      "Detecting species from genetic material left in water samples",
+      "Replacing every field observation",
+      "Determining the exact age of a whale from one scale"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a marine heatwave?",
+    "choices": [
+      "A volcanic island that heats the sea permanently",
+      "A daily tide cycle",
+      "An unusually persistent period of elevated ocean temperature",
+      "A warm-blooded fish migration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why can marine heatwaves affect whales, sharks, and turtles indirectly?",
+    "choices": [
+      "They eliminate all salt from seawater",
+      "They stop every animal from using oxygen",
+      "They turn cartilaginous skeletons into bone",
+      "They can shift prey, currents, habitats, and the timing of migrations"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a keystone predator?",
+    "choices": [
+      "A predator whose effects on the food web are disproportionately large relative to its abundance",
+      "The largest animal in every ecosystem",
+      "A species that eats only plankton",
+      "A predator that lives only on rocks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does marine connectivity describe in conservation planning?",
+    "choices": [
+      "The electrical connection of underwater sensors only",
+      "Movement of animals, larvae, genes, or nutrients among separated habitats",
+      "A method of joining whale bones",
+      "A ban on migration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why are nursery areas important for many sharks and rays?",
+    "choices": [
+      "Adults use them only to shed skin",
+      "They are places where all predators disappear permanently",
+      "Young animals can find shelter and food during vulnerable life stages",
+      "They are breeding sites for coral only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is philopatry in a migratory marine animal?",
+    "choices": [
+      "Never moving from one reef",
+      "Changing species during migration",
+      "Following another species' vocal signal exclusively",
+      "Returning to a particular birthplace, breeding site, or feeding area"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does a species' trophic level indicate?",
+    "choices": [
+      "Its position in a food web",
+      "Its average body temperature",
+      "Its depth range only",
+      "Its number of fins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why can removing large sharks alter reef ecosystems?",
+    "choices": [
+      "It makes seawater freshwater",
+      "It can change predator–prey interactions and release effects through the food web",
+      "It prevents coral from reproducing by sound",
+      "It increases the number of whale blowholes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the most accurate general statement about shark conservation?",
+    "choices": [
+      "All sharks reproduce at the same rate",
+      "Sharks are unaffected by fishing pressure",
+      "Different species have different life histories, so vulnerability and management needs vary",
+      "Only freshwater sharks require conservation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why can slow-growing marine giants be vulnerable to overexploitation?",
+    "choices": [
+      "They reproduce every hour",
+      "They cannot migrate between habitats",
+      "Their bodies contain no genetic variation",
+      "They may mature late and produce relatively few offspring over long lifespans"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  }
+]

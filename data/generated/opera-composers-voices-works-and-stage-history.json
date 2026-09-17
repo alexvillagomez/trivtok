@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who composed The Marriage of Figaro?",
+    "choices": [
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi",
+      "Gioachino Rossini",
+      "Christoph Willibald Gluck"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which voice is typically the highest adult male operatic voice?",
+    "choices": [
+      "Tenor",
+      "Baritone",
+      "Bass",
+      "Countertenor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "In which opera does the character Carmen appear?",
+    "choices": [
+      "Carmen",
+      "Manon Lescaut",
+      "Faust",
+      "La traviata"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Who wrote La bohème?",
+    "choices": [
+      "Puccini",
+      "Mascagni",
+      "Leoncavallo",
+      "Cilea"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is an operatic solo song called?",
+    "choices": [
+      "Recitative",
+      "Chorus",
+      "Aria",
+      "Overture"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which composer created The Ring cycle?",
+    "choices": [
+      "Richard Wagner",
+      "Anton Bruckner",
+      "Richard Strauss",
+      "Engelbert Humperdinck"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What voice type commonly sings a mature female lead?",
+    "choices": [
+      "Soprano",
+      "Contralto",
+      "Mezzo-soprano",
+      "Tenor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which opera features the aria “Nessun dorma”?",
+    "choices": [
+      "Turandot",
+      "Tosca",
+      "Il trovatore",
+      "Aida"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who composed Rigoletto?",
+    "choices": [
+      "Giuseppe Verdi",
+      "Gaetano Donizetti",
+      "Amilcare Ponchielli",
+      "Arrigo Boito"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What does a libretto provide?",
+    "choices": [
+      "The orchestral score",
+      "The opera’s words and plot",
+      "The theater seating plan",
+      "The singer’s contract"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which opera is set in Seville and features Figaro?",
+    "choices": [
+      "The Barber of Seville",
+      "The Elixir of Love",
+      "Don Pasquale",
+      "Falstaff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a duet?",
+    "choices": [
+      "A dance for eight",
+      "A solo with orchestra",
+      "A spoken interlude",
+      "A piece for two singers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who wrote Madama Butterfly?",
+    "choices": [
+      "Giacomo Puccini",
+      "Umberto Giordano",
+      "Franco Alfano",
+      "Ruggero Leoncavallo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which voice lies between soprano and contralto?",
+    "choices": [
+      "Mezzo-soprano",
+      "Baritone",
+      "Countertenor",
+      "Bass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the opening orchestral piece of many operas?",
+    "choices": [
+      "Entr’acte",
+      "Finale",
+      "Overture",
+      "Cabaletta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Mozart opera centers on Don Giovanni?",
+    "choices": [
+      "Così fan tutte",
+      "Idomeneo",
+      "La clemenza di Tito",
+      "Don Giovanni"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a chorus in opera?",
+    "choices": [
+      "A group of singers",
+      "A solo dancer",
+      "A brass instrument",
+      "A stage curtain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who composed The Barber of Seville?",
+    "choices": [
+      "Gioachino Rossini",
+      "Vincenzo Bellini",
+      "Domenico Cimarosa",
+      "Saverio Mercadante"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which character is a tenor in La traviata?",
+    "choices": [
+      "Violetta",
+      "Giorgio Germont",
+      "Alfredo Germont",
+      "Baron Douphol"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is recitative mainly used for?",
+    "choices": [
+      "Orchestral dancing",
+      "Scene changes only",
+      "Choral celebration",
+      "Advancing dialogue and action"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who composed Tosca?",
+    "choices": [
+      "Puccini",
+      "Verdi",
+      "Wagner",
+      "Mascagni"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "A bass voice is generally what kind of range?",
+    "choices": [
+      "Highest male",
+      "Lowest male",
+      "Highest female",
+      "Middle female"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which opera contains the “Habanera”?",
+    "choices": [
+      "Carmen",
+      "Samson et Dalila",
+      "Werther",
+      "Louise"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is an opera seria?",
+    "choices": [
+      "A comic operetta",
+      "A modern film score",
+      "A spoken tragedy",
+      "A serious Italian opera genre"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Who composed Donizetti’s Lucia di Lammermoor?",
+    "choices": [
+      "Gaetano Donizetti",
+      "Giovanni Pacini",
+      "Nicola Vaccaj",
+      "Saverio Mercadante"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which singer type often portrays a young male page?",
+    "choices": [
+      "Bass",
+      "Mezzo-soprano",
+      "Contralto",
+      "Dramatic soprano"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a cabaletta?",
+    "choices": [
+      "A stage machine",
+      "A brisk closing aria section",
+      "A choral prologue",
+      "A tuning exercise"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which opera was written by Georges Bizet?",
+    "choices": [
+      "Carmen",
+      "The Pearl Fishers",
+      "Les contes d’Hoffmann",
+      "Manon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Who is the heroine of Puccini’s Tosca?",
+    "choices": [
+      "Floria Tosca",
+      "Mimì",
+      "Cio-Cio-San",
+      "Turandot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does bel canto emphasize?",
+    "choices": [
+      "Massed percussion",
+      "Beautiful, agile singing",
+      "Spoken realism",
+      "Unaccompanied chorus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which composer wrote Norma?",
+    "choices": [
+      "Donizetti",
+      "Rossini",
+      "Vincenzo Bellini",
+      "Verdi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A baritone’s range generally sits between which voices?",
+    "choices": [
+      "Soprano and mezzo",
+      "Tenor and bass",
+      "Contralto and tenor",
+      "Bass and contralto"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is an operetta?",
+    "choices": [
+      "A lighter opera with spoken dialogue",
+      "A sacred Latin motet",
+      "A silent ballet",
+      "A through-composed symphony"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which opera tells of Tristan and Isolde?",
+    "choices": [
+      "Parsifal",
+      "Tristan und Isolde",
+      "Lohengrin",
+      "Tannhäuser"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who composed The Magic Flute?",
+    "choices": [
+      "Haydn",
+      "Gluck",
+      "Mozart",
+      "Salieri"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a prologue in an opera?",
+    "choices": [
+      "The final applause",
+      "A vocal warm-up",
+      "A costume change",
+      "An introductory scene or section"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which character sings “Vesti la giubba”?",
+    "choices": [
+      "Canio",
+      "Turiddu",
+      "Nedda",
+      "Tonio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which national tradition is strongly associated with verismo?",
+    "choices": [
+      "French",
+      "Italian",
+      "Russian",
+      "English"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is an ensemble finale?",
+    "choices": [
+      "A solo encore",
+      "A dance lesson",
+      "A concluding passage for several characters",
+      "An instrumental prelude"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Who composed Pelléas et Mélisande?",
+    "choices": [
+      "Ravel",
+      "Saint-Saëns",
+      "Fauré",
+      "Claude Debussy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which voice type is lower than mezzo-soprano?",
+    "choices": [
+      "Contralto",
+      "Soprano",
+      "Tenor",
+      "Countertenor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a leitmotif?",
+    "choices": [
+      "A vocal ornament",
+      "A recurring musical idea linked to something",
+      "A scenic platform",
+      "A comic interlude"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which opera features the character Wotan?",
+    "choices": [
+      "Salome",
+      "Elektra",
+      "Das Rheingold",
+      "Die Walküre"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who wrote The Cunning Little Vixen?",
+    "choices": [
+      "Smetana",
+      "Dvořák",
+      "Martinů",
+      "Leoš Janáček"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is a trouser role?",
+    "choices": [
+      "A male character sung by a female singer",
+      "A role without costumes",
+      "A spoken comic role",
+      "A bass role in trousers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which opera is based on a Shakespeare play about a Moor?",
+    "choices": [
+      "Falstaff",
+      "Otello",
+      "Macbeth",
+      "Simon Boccanegra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Who composed Wozzeck?",
+    "choices": [
+      "Schoenberg",
+      "Webern",
+      "Alban Berg",
+      "Korngold"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is a scena?",
+    "choices": [
+      "A chorus rehearsal",
+      "A dance variation",
+      "A tuning system",
+      "A dramatic scene combining recitative and song"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which opera includes the “Flower Duet”?",
+    "choices": [
+      "Lakmé",
+      "Thaïs",
+      "Mignon",
+      "Mireille"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which composer is associated with Russian nationalist opera?",
+    "choices": [
+      "Mussorgsky",
+      "Meyerbeer",
+      "Donizetti",
+      "Poulenc"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a zarzuela?",
+    "choices": [
+      "German sacred opera",
+      "Italian court masque",
+      "Spanish lyric theater with spoken scenes",
+      "French grand opera"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who composed The Turn of the Screw?",
+    "choices": [
+      "Michael Tippett",
+      "William Walton",
+      "Benjamin Britten",
+      "Ralph Vaughan Williams"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which singer made a landmark recording of Maria Callas’s Tosca role?",
+    "choices": [
+      "Maria Callas",
+      "Joan Sutherland",
+      "Birgit Nilsson",
+      "Leontyne Price"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is grand opera especially known for?",
+    "choices": [
+      "Short comic songs",
+      "Large scale, spectacle, and serious plots",
+      "Only unaccompanied voices",
+      "Improvised dialogue throughout"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which opera by Janáček uses speech melody?",
+    "choices": [
+      "Jenůfa",
+      "Katya Kabanova",
+      "The Makropulos Affair",
+      "From the House of the Dead"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who wrote the libretto for Mozart’s Figaro?",
+    "choices": [
+      "Metastasio",
+      "Arrigo Boito",
+      "Eugène Scribe",
+      "Lorenzo Da Ponte"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a coloratura soprano prized for?",
+    "choices": [
+      "Agility and elaborate vocal ornament",
+      "Very low chest notes",
+      "Spoken declamation",
+      "Choral blending only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which opera premiered at the 1889 Paris Exposition?",
+    "choices": [
+      "Samson et Dalila",
+      "The Prodigal Son",
+      "Esclarmonde",
+      "L’Enfant prodigue"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who composed the opera Akhnaten?",
+    "choices": [
+      "John Adams",
+      "Steve Reich",
+      "Philip Glass",
+      "Robert Ashley"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a masque in English theatrical history?",
+    "choices": [
+      "A vocal exercise",
+      "A type of Italian recitative",
+      "A nineteenth-century grand opera",
+      "A court entertainment combining music, dance, and allegory"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which role is traditionally a heroic heldentenor part?",
+    "choices": [
+      "Siegfried",
+      "Papageno",
+      "Leporello",
+      "Dr. Bartolo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which composer wrote the operatic trilogy Il trittico?",
+    "choices": [
+      "Puccini",
+      "Verdi",
+      "Zandonai",
+      "Respighi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a passaggio?",
+    "choices": [
+      "A stage entrance",
+      "A vocal register transition area",
+      "A libretto translation",
+      "A dance rhythm"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which opera is a monodrama for one singer by Poulenc?",
+    "choices": [
+      "Dialogues des Carmélites",
+      "Les mamelles de Tirésias",
+      "La voix humaine",
+      "Gloriana"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who completed Mussorgsky’s Boris Godunov for modern performance editions?",
+    "choices": [
+      "Nikolai Rimsky-Korsakov",
+      "Alexander Borodin",
+      "César Cui",
+      "Mikhail Ippolitov-Ivanov"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a regieoper approach?",
+    "choices": [
+      "Historically fixed staging",
+      "Director-led reinterpretation of an opera",
+      "Opera without orchestra",
+      "A singer’s improvisation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which early opera by Monteverdi survives as a major repertory work?",
+    "choices": [
+      "L’Orfeo",
+      "Il ritorno d’Ulisse",
+      "L’incoronazione di Poppea",
+      "Arianna"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which specialist form alternates spoken dialogue and musical numbers?",
+    "choices": [
+      "Opera buffa",
+      "Opera seria",
+      "Grand opéra",
+      "Singspiel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Verdi opera is set during the First Crusade?",
+    "choices": [
+      "I Lombardi alla prima crociata",
+      "Nabucco",
+      "Ernani",
+      "Attila"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which vocal fach is a light, youthful soprano?",
+    "choices": [
+      "Dramatic soprano",
+      "Lyric soprano",
+      "Soubrette",
+      "Spinto soprano"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who composed L’enfant et les sortilèges?",
+    "choices": [
+      "Ravel",
+      "Debussy",
+      "Dukas",
+      "Maurice Ravel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which opera features the character Golaud?",
+    "choices": [
+      "Pelléas et Mélisande",
+      "Ariane et Barbe-Bleue",
+      "L’amour des trois oranges",
+      "The Fiery Angel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is an intermezzo?",
+    "choices": [
+      "A short instrumental passage between acts",
+      "A singer’s cadenza",
+      "A comic protagonist",
+      "A type of chorus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which composer wrote The Nose?",
+    "choices": [
+      "Prokofiev",
+      "Dmitri Shostakovich",
+      "Stravinsky",
+      "Kabalevsky"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a stagione opera company?",
+    "choices": [
+      "A touring orchestra",
+      "A permanent chorus",
+      "A company assembling casts for a season",
+      "A school for librettists"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which role is a famous lyric tenor part in Werther?",
+    "choices": [
+      "Albert",
+      "Johann",
+      "Bailiff",
+      "Werther"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who wrote the opera Peter Grimes?",
+    "choices": [
+      "Benjamin Britten",
+      "William Walton",
+      "Michael Tippett",
+      "Arthur Bliss"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which form is built from alternating recitative and da capo arias?",
+    "choices": [
+      "Opera comique",
+      "Opera seria",
+      "Music drama",
+      "Melodrama"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which composer’s operas include The Makropulos Affair?",
+    "choices": [
+      "Smetana",
+      "Dvořák",
+      "Janáček",
+      "Martinů"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a harpsichord continuo used for in baroque opera?",
+    "choices": [
+      "Doubling the chorus",
+      "Replacing stage scenery",
+      "Tuning the timpani",
+      "Supporting recitative harmony"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which opera is set in a fictional kingdom ruled by King Dodon?",
+    "choices": [
+      "The Golden Cockerel",
+      "Prince Igor",
+      "Sadko",
+      "Boris Godunov"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who composed Written on Skin?",
+    "choices": [
+      "Thomas Adès",
+      "George Benjamin",
+      "Mark-Anthony Turnage",
+      "Harrison Birtwistle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which Italian tradition centers on improvised comic stock characters?",
+    "choices": [
+      "Bel canto",
+      "Verismo",
+      "Commedia dell’arte",
+      "Opera seria"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is an aria da capo’s typical return pattern?",
+    "choices": [
+      "ABA",
+      "ABC",
+      "AAB",
+      "ABBA"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which opera by Handel features the sorceress Alcina?",
+    "choices": [
+      "Alcina",
+      "Rodelinda",
+      "Ariodante",
+      "Serse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which composer wrote the operatic cycle Licht?",
+    "choices": [
+      "Pierre Boulez",
+      "Karlheinz Stockhausen",
+      "Luciano Berio",
+      "György Ligeti"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a promptbook?",
+    "choices": [
+      "A singer’s biography",
+      "A printed piano reduction",
+      "A stage manager’s annotated production script",
+      "A theater program"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which opera features the role of Salome?",
+    "choices": [
+      "Elektra",
+      "Arabella",
+      "Der Rosenkavalier",
+      "Salome"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who composed the opera Porgy and Bess?",
+    "choices": [
+      "George Gershwin",
+      "Leonard Bernstein",
+      "Aaron Copland",
+      "Duke Ellington"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which voice type commonly sings the Nurse in a Verdi opera?",
+    "choices": [
+      "Tenor",
+      "Mezzo-soprano",
+      "Bass",
+      "Soprano"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is an opera buffa?",
+    "choices": [
+      "French lyric tragedy",
+      "German romantic opera",
+      "Italian comic opera",
+      "Spanish dance theater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which opera by Gounod retells a Goethe tragedy?",
+    "choices": [
+      "Mireille",
+      "Roméo et Juliette",
+      "Faust",
+      "Philemon et Baucis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a ritornello in baroque opera?",
+    "choices": [
+      "A recurring instrumental passage",
+      "A costume convention",
+      "A vocal register",
+      "A translated libretto"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which composer wrote the opera Nixon in China?",
+    "choices": [
+      "Philip Glass",
+      "John Adams",
+      "Steve Reich",
+      "John Corigliano"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which character is the comic servant in Don Giovanni?",
+    "choices": [
+      "Masetto",
+      "Commendatore",
+      "Leporello",
+      "Ottavio"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a throat register break often called?",
+    "choices": [
+      "Tessitura",
+      "Cadenza",
+      "Portamento",
+      "Passaggio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which opera by Strauss centers on the Capriccio debate?",
+    "choices": [
+      "Capriccio",
+      "Ariadne auf Naxos",
+      "Die Frau ohne Schatten",
+      "Intermezzo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which theater first presented Wagner’s Parsifal?",
+    "choices": [
+      "La Scala",
+      "Bayreuth Festspielhaus",
+      "Opéra Garnier",
+      "Royal Opera House"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which specialist genre combines spoken drama with orchestral underscoring?",
+    "choices": [
+      "Oratorio",
+      "Cantata",
+      "Melodrama",
+      "Madrigal comedy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which composer wrote the opera Einstein on the Beach?",
+    "choices": [
+      "Terry Riley",
+      "Robert Wilson",
+      "John Cage",
+      "Philip Glass"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

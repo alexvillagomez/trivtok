@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is sound?",
+    "choices": [
+      "A mechanical wave",
+      "A chemical reaction",
+      "A static charge",
+      "A light photon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which unit measures frequency?",
+    "choices": [
+      "Pascal",
+      "Hertz",
+      "Joule",
+      "Tesla"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What does amplitude mainly affect?",
+    "choices": [
+      "Pitch alone",
+      "Wave speed",
+      "Perceived loudness",
+      "Wavelength only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which medium cannot carry sound?",
+    "choices": [
+      "Air",
+      "Steel",
+      "Water",
+      "A vacuum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is wavelength?",
+    "choices": [
+      "Distance between matching wave points",
+      "Time for one cycle",
+      "Maximum displacement",
+      "Energy per second"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is an echo?",
+    "choices": [
+      "A source vibration",
+      "A delayed reflection",
+      "A direct signal",
+      "A frequency shift"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What usually raises pitch?",
+    "choices": [
+      "More reverberation",
+      "Greater amplitude",
+      "Higher frequency",
+      "Lower pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is resonance?",
+    "choices": [
+      "A constant delay",
+      "Complete silence",
+      "Random distortion",
+      "Strong response near a natural frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The pinna mainly helps with what?",
+    "choices": [
+      "Sound localization cues",
+      "Middle-ear pressure",
+      "Cochlear fluid pumping",
+      "Vocal-fold vibration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Hair cells in the cochlea detect what?",
+    "choices": [
+      "Room temperature",
+      "Basilar-membrane motion",
+      "Earwax color",
+      "Air humidity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is tinnitus?",
+    "choices": [
+      "A normal echo",
+      "A broken loudspeaker cone",
+      "Perceived sound without an external source",
+      "A microphone connector"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does an audiogram plot?",
+    "choices": [
+      "Speaker impedance",
+      "Room dimensions",
+      "Microphone polar patterns",
+      "Hearing thresholds by frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Musical pitch corresponds most closely to what?",
+    "choices": [
+      "Fundamental frequency",
+      "Sound pressure alone",
+      "Reverberation time",
+      "Polar pattern"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "An octave represents what frequency ratio?",
+    "choices": [
+      "3:2",
+      "2:1",
+      "4:3",
+      "10:1"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Timbre helps distinguish what?",
+    "choices": [
+      "Room sizes only",
+      "Two temperatures",
+      "Sources with the same pitch",
+      "Cable brands"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A microphone transducer converts sound into what?",
+    "choices": [
+      "A mechanical echo",
+      "A room mode",
+      "A visual image",
+      "An electrical signal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "A cardioid microphone rejects sound mostly from where?",
+    "choices": [
+      "The rear",
+      "The front",
+      "All directions equally",
+      "Only above"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Proximity effect boosts what?",
+    "choices": [
+      "High frequencies at distance",
+      "Low frequencies at close range",
+      "Noise in a vacuum",
+      "Stereo width only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A loudspeaker converts electrical energy into what?",
+    "choices": [
+      "Light only",
+      "Chemical energy",
+      "Acoustic energy",
+      "Stored charge"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A woofer is designed mainly for what?",
+    "choices": [
+      "Cable shielding",
+      "Ultrasonic frequencies",
+      "Visual imaging",
+      "Low frequencies"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is clipping?",
+    "choices": [
+      "Nonlinear overload distortion",
+      "A gentle fade",
+      "Room absorption",
+      "A stereo microphone pattern"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Bit depth primarily determines what digital limit?",
+    "choices": [
+      "Sample timing",
+      "Quantization dynamic range",
+      "Microphone direction",
+      "Room decay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Aliasing is caused by what?",
+    "choices": [
+      "Using balanced cables",
+      "Over-absorbing a room",
+      "Undersampling frequencies",
+      "Low speaker impedance only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "An equalizer changes what?",
+    "choices": [
+      "Speaker weight",
+      "Bit depth",
+      "Cable topology",
+      "Frequency response"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "RT60 measures what?",
+    "choices": [
+      "Decay time by 60 dB",
+      "Pitch rise by 60 Hz",
+      "Cable loss by 60 ohms",
+      "Room gain by 60 watts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is sound?",
+    "choices": [
+      "A chemical reaction",
+      "A mechanical wave",
+      "A static charge",
+      "A light photon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which unit measures frequency?",
+    "choices": [
+      "Joule",
+      "Pascal",
+      "Hertz",
+      "Tesla"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What does amplitude mainly affect?",
+    "choices": [
+      "Wavelength only",
+      "Wave speed",
+      "Pitch alone",
+      "Perceived loudness"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which medium cannot carry sound?",
+    "choices": [
+      "A vacuum",
+      "Steel",
+      "Water",
+      "Air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is wavelength?",
+    "choices": [
+      "Time for one cycle",
+      "Distance between matching wave points",
+      "Maximum displacement",
+      "Energy per second"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is an echo?",
+    "choices": [
+      "A direct signal",
+      "A source vibration",
+      "A delayed reflection",
+      "A frequency shift"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What usually raises pitch?",
+    "choices": [
+      "Lower pressure",
+      "Greater amplitude",
+      "More reverberation",
+      "Higher frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is resonance?",
+    "choices": [
+      "Strong response near a natural frequency",
+      "Complete silence",
+      "Random distortion",
+      "A constant delay"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "The pinna mainly helps with what?",
+    "choices": [
+      "Middle-ear pressure",
+      "Sound localization cues",
+      "Cochlear fluid pumping",
+      "Vocal-fold vibration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Hair cells in the cochlea detect what?",
+    "choices": [
+      "Earwax color",
+      "Room temperature",
+      "Basilar-membrane motion",
+      "Air humidity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is tinnitus?",
+    "choices": [
+      "A microphone connector",
+      "A broken loudspeaker cone",
+      "A normal echo",
+      "Perceived sound without an external source"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does an audiogram plot?",
+    "choices": [
+      "Hearing thresholds by frequency",
+      "Room dimensions",
+      "Microphone polar patterns",
+      "Speaker impedance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Musical pitch corresponds most closely to what?",
+    "choices": [
+      "Sound pressure alone",
+      "Fundamental frequency",
+      "Reverberation time",
+      "Polar pattern"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "An octave represents what frequency ratio?",
+    "choices": [
+      "4:3",
+      "3:2",
+      "2:1",
+      "10:1"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Timbre helps distinguish what?",
+    "choices": [
+      "Cable brands",
+      "Two temperatures",
+      "Room sizes only",
+      "Sources with the same pitch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A microphone transducer converts sound into what?",
+    "choices": [
+      "An electrical signal",
+      "A room mode",
+      "A visual image",
+      "A mechanical echo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A cardioid microphone rejects sound mostly from where?",
+    "choices": [
+      "The front",
+      "The rear",
+      "All directions equally",
+      "Only above"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Proximity effect boosts what?",
+    "choices": [
+      "Noise in a vacuum",
+      "High frequencies at distance",
+      "Low frequencies at close range",
+      "Stereo width only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A loudspeaker converts electrical energy into what?",
+    "choices": [
+      "Stored charge",
+      "Chemical energy",
+      "Light only",
+      "Acoustic energy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A woofer is designed mainly for what?",
+    "choices": [
+      "Low frequencies",
+      "Ultrasonic frequencies",
+      "Visual imaging",
+      "Cable shielding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is clipping?",
+    "choices": [
+      "A gentle fade",
+      "Nonlinear overload distortion",
+      "Room absorption",
+      "A stereo microphone pattern"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Bit depth primarily determines what digital limit?",
+    "choices": [
+      "Microphone direction",
+      "Sample timing",
+      "Quantization dynamic range",
+      "Room decay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Aliasing is caused by what?",
+    "choices": [
+      "Low speaker impedance only",
+      "Over-absorbing a room",
+      "Using balanced cables",
+      "Undersampling frequencies"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "An equalizer changes what?",
+    "choices": [
+      "Frequency response",
+      "Bit depth",
+      "Cable topology",
+      "Speaker weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "RT60 measures what?",
+    "choices": [
+      "Pitch rise by 60 Hz",
+      "Decay time by 60 dB",
+      "Cable loss by 60 ohms",
+      "Room gain by 60 watts"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is sound?",
+    "choices": [
+      "A static charge",
+      "A chemical reaction",
+      "A mechanical wave",
+      "A light photon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which unit measures frequency?",
+    "choices": [
+      "Tesla",
+      "Pascal",
+      "Joule",
+      "Hertz"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does amplitude mainly affect?",
+    "choices": [
+      "Perceived loudness",
+      "Wave speed",
+      "Pitch alone",
+      "Wavelength only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which medium cannot carry sound?",
+    "choices": [
+      "Steel",
+      "A vacuum",
+      "Water",
+      "Air"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is wavelength?",
+    "choices": [
+      "Maximum displacement",
+      "Time for one cycle",
+      "Distance between matching wave points",
+      "Energy per second"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is an echo?",
+    "choices": [
+      "A frequency shift",
+      "A source vibration",
+      "A direct signal",
+      "A delayed reflection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What usually raises pitch?",
+    "choices": [
+      "Higher frequency",
+      "Greater amplitude",
+      "More reverberation",
+      "Lower pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is resonance?",
+    "choices": [
+      "Complete silence",
+      "Strong response near a natural frequency",
+      "Random distortion",
+      "A constant delay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The pinna mainly helps with what?",
+    "choices": [
+      "Cochlear fluid pumping",
+      "Middle-ear pressure",
+      "Sound localization cues",
+      "Vocal-fold vibration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Hair cells in the cochlea detect what?",
+    "choices": [
+      "Air humidity",
+      "Room temperature",
+      "Earwax color",
+      "Basilar-membrane motion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is tinnitus?",
+    "choices": [
+      "Perceived sound without an external source",
+      "A broken loudspeaker cone",
+      "A normal echo",
+      "A microphone connector"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does an audiogram plot?",
+    "choices": [
+      "Room dimensions",
+      "Hearing thresholds by frequency",
+      "Microphone polar patterns",
+      "Speaker impedance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Musical pitch corresponds most closely to what?",
+    "choices": [
+      "Reverberation time",
+      "Sound pressure alone",
+      "Fundamental frequency",
+      "Polar pattern"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "An octave represents what frequency ratio?",
+    "choices": [
+      "10:1",
+      "3:2",
+      "4:3",
+      "2:1"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Timbre helps distinguish what?",
+    "choices": [
+      "Sources with the same pitch",
+      "Two temperatures",
+      "Room sizes only",
+      "Cable brands"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A microphone transducer converts sound into what?",
+    "choices": [
+      "A room mode",
+      "An electrical signal",
+      "A visual image",
+      "A mechanical echo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A cardioid microphone rejects sound mostly from where?",
+    "choices": [
+      "All directions equally",
+      "The front",
+      "The rear",
+      "Only above"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Proximity effect boosts what?",
+    "choices": [
+      "Stereo width only",
+      "High frequencies at distance",
+      "Noise in a vacuum",
+      "Low frequencies at close range"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "A loudspeaker converts electrical energy into what?",
+    "choices": [
+      "Acoustic energy",
+      "Chemical energy",
+      "Light only",
+      "Stored charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "A woofer is designed mainly for what?",
+    "choices": [
+      "Ultrasonic frequencies",
+      "Low frequencies",
+      "Visual imaging",
+      "Cable shielding"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is clipping?",
+    "choices": [
+      "Room absorption",
+      "A gentle fade",
+      "Nonlinear overload distortion",
+      "A stereo microphone pattern"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Bit depth primarily determines what digital limit?",
+    "choices": [
+      "Room decay",
+      "Sample timing",
+      "Microphone direction",
+      "Quantization dynamic range"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Aliasing is caused by what?",
+    "choices": [
+      "Undersampling frequencies",
+      "Over-absorbing a room",
+      "Using balanced cables",
+      "Low speaker impedance only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "An equalizer changes what?",
+    "choices": [
+      "Bit depth",
+      "Frequency response",
+      "Cable topology",
+      "Speaker weight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "RT60 measures what?",
+    "choices": [
+      "Cable loss by 60 ohms",
+      "Pitch rise by 60 Hz",
+      "Decay time by 60 dB",
+      "Room gain by 60 watts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is sound?",
+    "choices": [
+      "A light photon",
+      "A chemical reaction",
+      "A static charge",
+      "A mechanical wave"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which unit measures frequency?",
+    "choices": [
+      "Hertz",
+      "Pascal",
+      "Joule",
+      "Tesla"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does amplitude mainly affect?",
+    "choices": [
+      "Wave speed",
+      "Perceived loudness",
+      "Pitch alone",
+      "Wavelength only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which medium cannot carry sound?",
+    "choices": [
+      "Water",
+      "Steel",
+      "A vacuum",
+      "Air"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is wavelength?",
+    "choices": [
+      "Energy per second",
+      "Time for one cycle",
+      "Maximum displacement",
+      "Distance between matching wave points"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is an echo?",
+    "choices": [
+      "A delayed reflection",
+      "A source vibration",
+      "A direct signal",
+      "A frequency shift"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What usually raises pitch?",
+    "choices": [
+      "Greater amplitude",
+      "Higher frequency",
+      "More reverberation",
+      "Lower pressure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is resonance?",
+    "choices": [
+      "Random distortion",
+      "Complete silence",
+      "Strong response near a natural frequency",
+      "A constant delay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "The pinna mainly helps with what?",
+    "choices": [
+      "Vocal-fold vibration",
+      "Middle-ear pressure",
+      "Cochlear fluid pumping",
+      "Sound localization cues"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Hair cells in the cochlea detect what?",
+    "choices": [
+      "Basilar-membrane motion",
+      "Room temperature",
+      "Earwax color",
+      "Air humidity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is tinnitus?",
+    "choices": [
+      "A broken loudspeaker cone",
+      "Perceived sound without an external source",
+      "A normal echo",
+      "A microphone connector"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does an audiogram plot?",
+    "choices": [
+      "Microphone polar patterns",
+      "Room dimensions",
+      "Hearing thresholds by frequency",
+      "Speaker impedance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Musical pitch corresponds most closely to what?",
+    "choices": [
+      "Polar pattern",
+      "Sound pressure alone",
+      "Reverberation time",
+      "Fundamental frequency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "An octave represents what frequency ratio?",
+    "choices": [
+      "2:1",
+      "3:2",
+      "4:3",
+      "10:1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Timbre helps distinguish what?",
+    "choices": [
+      "Two temperatures",
+      "Sources with the same pitch",
+      "Room sizes only",
+      "Cable brands"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A microphone transducer converts sound into what?",
+    "choices": [
+      "A visual image",
+      "A room mode",
+      "An electrical signal",
+      "A mechanical echo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A cardioid microphone rejects sound mostly from where?",
+    "choices": [
+      "Only above",
+      "The front",
+      "All directions equally",
+      "The rear"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Proximity effect boosts what?",
+    "choices": [
+      "Low frequencies at close range",
+      "High frequencies at distance",
+      "Noise in a vacuum",
+      "Stereo width only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "A loudspeaker converts electrical energy into what?",
+    "choices": [
+      "Chemical energy",
+      "Acoustic energy",
+      "Light only",
+      "Stored charge"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "A woofer is designed mainly for what?",
+    "choices": [
+      "Visual imaging",
+      "Ultrasonic frequencies",
+      "Low frequencies",
+      "Cable shielding"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is clipping?",
+    "choices": [
+      "A stereo microphone pattern",
+      "A gentle fade",
+      "Room absorption",
+      "Nonlinear overload distortion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Bit depth primarily determines what digital limit?",
+    "choices": [
+      "Quantization dynamic range",
+      "Sample timing",
+      "Microphone direction",
+      "Room decay"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Aliasing is caused by what?",
+    "choices": [
+      "Over-absorbing a room",
+      "Undersampling frequencies",
+      "Using balanced cables",
+      "Low speaker impedance only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "An equalizer changes what?",
+    "choices": [
+      "Cable topology",
+      "Bit depth",
+      "Frequency response",
+      "Speaker weight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "RT60 measures what?",
+    "choices": [
+      "Room gain by 60 watts",
+      "Pitch rise by 60 Hz",
+      "Cable loss by 60 ohms",
+      "Decay time by 60 dB"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

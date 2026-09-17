@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who wrote the seven Harry Potter novels?",
+    "choices": [
+      "J. K. Rowling",
+      "Philip Pullman",
+      "Suzanne Collins",
+      "Cornelia Funke"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the name of the series' central character?",
+    "choices": [
+      "Ron Weasley",
+      "Harry Potter",
+      "Draco Malfoy",
+      "Neville Longbottom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is the wizarding school attended by Harry and his friends?",
+    "choices": [
+      "Durmstrang",
+      "Beauxbatons",
+      "Hogwarts",
+      "Ilvermorny"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which Hogwarts house is Harry sorted into?",
+    "choices": [
+      "Slytherin",
+      "Ravenclaw",
+      "Hufflepuff",
+      "Gryffindor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What distinctive mark does Harry carry on his forehead?",
+    "choices": [
+      "A lightning-shaped scar",
+      "A crescent birthmark",
+      "A silver star",
+      "A runic circle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the name of Harry's snowy owl?",
+    "choices": [
+      "Errol",
+      "Hedwig",
+      "Pigwidgeon",
+      "Fawkes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which two characters are Harry's closest school friends?",
+    "choices": [
+      "Neville Longbottom and Luna Lovegood",
+      "Draco Malfoy and Blaise Zabini",
+      "Ron Weasley and Hermione Granger",
+      "Fred Weasley and George Weasley"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who is headmaster of Hogwarts for most of the series?",
+    "choices": [
+      "Minerva McGonagall",
+      "Severus Snape",
+      "Rubeus Hagrid",
+      "Albus Dumbledore"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who is the principal dark wizard opposing Harry?",
+    "choices": [
+      "Lord Voldemort",
+      "Gellert Grindelwald",
+      "Lucius Malfoy",
+      "Peter Pettigrew"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What sport do Hogwarts students play on flying broomsticks?",
+    "choices": [
+      "Gobstones",
+      "Quidditch",
+      "Exploding Snap",
+      "Summoner's Stone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which Quidditch position does Harry play?",
+    "choices": [
+      "Chaser",
+      "Beater",
+      "Seeker",
+      "Keeper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What small golden object does the Seeker try to catch?",
+    "choices": [
+      "The Silver Quaffle",
+      "The Ruby Bludger",
+      "The House Cup",
+      "The Golden Snitch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is the magical shopping street in London called?",
+    "choices": [
+      "Diagon Alley",
+      "Knockturn Road",
+      "Godric's Hollow",
+      "Privet Drive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is the name of the nearby wizarding village?",
+    "choices": [
+      "Little Whinging",
+      "Hogsmeade",
+      "Ottery St Catchpole",
+      "Tinworth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which object chooses a student's Hogwarts house?",
+    "choices": [
+      "The Mirror of Erised",
+      "The Marauder's Map",
+      "The Sorting Hat",
+      "The Pensieve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What protective magical guardian can a witch or wizard conjure?",
+    "choices": [
+      "A Horcrux",
+      "A Portkey",
+      "A Boggart",
+      "A Patronus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which object makes its wearer invisible?",
+    "choices": [
+      "The Invisibility Cloak",
+      "The Deluminator",
+      "The Time-Turner",
+      "The Sneakoscope"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Deathly Hallow is an unbeatable wand?",
+    "choices": [
+      "The Holly Wand",
+      "The Elder Wand",
+      "The Phoenix Wand",
+      "The Blackthorn Wand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Deathly Hallow is said to bring back the dead?",
+    "choices": [
+      "The Philosopher's Stone",
+      "The Memory Stone",
+      "The Resurrection Stone",
+      "The Dreamstone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a Horcrux?",
+    "choices": [
+      "A magical animal companion",
+      "A school examination",
+      "A portal to another country",
+      "An object containing a fragment of a dark wizard's soul"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What kind of magical being is Dobby?",
+    "choices": [
+      "A house-elf",
+      "A goblin",
+      "A centaur",
+      "A kneazle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is Hagrid's job at Hogwarts early in the series?",
+    "choices": [
+      "Defense professor",
+      "Gamekeeper",
+      "Librarian",
+      "Head of the Auror Office"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which subject does Severus Snape teach for much of the series?",
+    "choices": [
+      "Astronomy",
+      "Herbology",
+      "Potions",
+      "Ancient Runes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which subject does Minerva McGonagall teach?",
+    "choices": [
+      "Charms",
+      "Divination",
+      "Care of Magical Creatures",
+      "Transfiguration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is Hermione's status in the wizarding world?",
+    "choices": [
+      "She is Muggle-born",
+      "She is a pure-blood heir",
+      "She is a Squib",
+      "She is half-goblin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which family does Ron belong to?",
+    "choices": [
+      "The Potters",
+      "The Weasleys",
+      "The Longbottoms",
+      "The Lovegoods"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Hogwarts house does Draco Malfoy belong to?",
+    "choices": [
+      "Gryffindor",
+      "Ravenclaw",
+      "Slytherin",
+      "Hufflepuff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is Sirius Black's relationship to Harry?",
+    "choices": [
+      "His uncle by blood",
+      "His headmaster",
+      "His cousin",
+      "His godfather"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What condition does Remus Lupin have?",
+    "choices": [
+      "He is a werewolf",
+      "He is a vampire",
+      "He is a Metamorphmagus",
+      "He is a Squib"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which house is Neville Longbottom sorted into?",
+    "choices": [
+      "Ravenclaw",
+      "Gryffindor",
+      "Slytherin",
+      "Hufflepuff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which house is Luna Lovegood sorted into?",
+    "choices": [
+      "Gryffindor",
+      "Slytherin",
+      "Ravenclaw",
+      "Hufflepuff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What symbol represents the three Deathly Hallows?",
+    "choices": [
+      "A crowned lion over crossed wands",
+      "A serpent around a lightning bolt",
+      "Four stars inside a shield",
+      "A triangle containing a circle and a vertical line"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who plays Harry Potter in the film series?",
+    "choices": [
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Tom Felton",
+      "Freddie Highmore"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who plays Hermione Granger in the films?",
+    "choices": [
+      "Bonnie Wright",
+      "Emma Watson",
+      "Evanna Lynch",
+      "Keira Knightley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who plays Ron Weasley in the films?",
+    "choices": [
+      "James Phelps",
+      "Oliver Phelps",
+      "Rupert Grint",
+      "Matthew Lewis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who plays Lord Voldemort in the main film series?",
+    "choices": [
+      "Alan Rickman",
+      "Jason Isaacs",
+      "Gary Oldman",
+      "Ralph Fiennes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who plays Rubeus Hagrid in the films?",
+    "choices": [
+      "Robbie Coltrane",
+      "Warwick Davis",
+      "Brendan Gleeson",
+      "Richard Griffiths"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who plays Severus Snape in the films?",
+    "choices": [
+      "Ralph Fiennes",
+      "Alan Rickman",
+      "Michael Gambon",
+      "Kenneth Branagh"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which bird is Hedwig depicted as in the films?",
+    "choices": [
+      "A barn owl",
+      "A tawny owl",
+      "A snowy owl",
+      "A great horned owl"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "From which London station does the Hogwarts Express depart?",
+    "choices": [
+      "Paddington",
+      "Victoria",
+      "Waterloo",
+      "King's Cross"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What contest is central to Harry Potter and the Goblet of Fire?",
+    "choices": [
+      "The Triwizard Tournament",
+      "The House Cup trials",
+      "The Auror Games",
+      "The International Broom Race"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which school competes from northern Europe in the Triwizard Tournament?",
+    "choices": [
+      "Beauxbatons",
+      "Durmstrang",
+      "Hogwarts",
+      "Castelobruxo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which school competes from France in the Triwizard Tournament?",
+    "choices": [
+      "Durmstrang",
+      "Hogwarts",
+      "Beauxbatons",
+      "Uagadou"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the name of the wizarding prison?",
+    "choices": [
+      "Nurmengard",
+      "Gringotts",
+      "The Burrow",
+      "Azkaban"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which institution is the wizarding bank?",
+    "choices": [
+      "Gringotts",
+      "Azkaban",
+      "The Ministry of Magic",
+      "St Mungo's"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the name of the Weasley family's home?",
+    "choices": [
+      "Shell Cottage",
+      "The Burrow",
+      "Malfoy Manor",
+      "Number Twelve, Grimmauld Place"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which creature is Buckbeak?",
+    "choices": [
+      "A thestral",
+      "A dragon",
+      "A hippogriff",
+      "An abraxan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which creature is Aragog?",
+    "choices": [
+      "A basilisk",
+      "A grindylow",
+      "A manticore",
+      "An acromantula"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What device stores and displays memories?",
+    "choices": [
+      "A Pensieve",
+      "A Time-Turner",
+      "A Remembrall",
+      "A Sneakoscope"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which object can reveal a person's deepest desire?",
+    "choices": [
+      "The Marauder's Map",
+      "The Mirror of Erised",
+      "The Deluminator",
+      "The Sorting Hat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What name is Voldemort born with?",
+    "choices": [
+      "Thomas Morfin Gaunt",
+      "Tobias Severus Riddle",
+      "Tom Marvolo Riddle",
+      "Marvolo Tom Gaunt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who is Tom Riddle's maternal grandfather?",
+    "choices": [
+      "Phineas Nigellus Black",
+      "Armando Dippet",
+      "Orion Black",
+      "Marvolo Gaunt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "How many Horcruxes does Voldemort intend to create?",
+    "choices": [
+      "Six, leaving seven soul fragments in all",
+      "Seven, leaving eight soul fragments in all",
+      "Three, leaving four soul fragments in all",
+      "One, leaving two soul fragments in all"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which object is Voldemort's first known Horcrux?",
+    "choices": [
+      "Marvolo Gaunt's ring",
+      "Tom Riddle's diary",
+      "Helga Hufflepuff's cup",
+      "Salazar Slytherin's locket"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which item becomes the Horcrux connected with Marvolo Gaunt?",
+    "choices": [
+      "His wand",
+      "His portrait",
+      "His ring",
+      "His pocket watch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which founder's object becomes a Horcrux?",
+    "choices": [
+      "Godric Gryffindor's sword",
+      "Rowena Ravenclaw's quill",
+      "Salazar Slytherin's hat",
+      "Helga Hufflepuff's cup"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which lost Hogwarts artifact becomes a Horcrux?",
+    "choices": [
+      "Rowena Ravenclaw's diadem",
+      "Godric Gryffindor's shield",
+      "Helga Hufflepuff's cauldron",
+      "Salazar Slytherin's crown"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which living creature is made into one of Voldemort's Horcruxes?",
+    "choices": [
+      "Fawkes",
+      "Nagini",
+      "Aragog",
+      "Hedwig"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "How does Harry become connected to Voldemort as an unintended Horcrux?",
+    "choices": [
+      "Dumbledore places a fragment in Harry's scar deliberately",
+      "Harry drinks a potion made from Voldemort's blood",
+      "A fragment of Voldemort's soul attaches to him when the killing curse rebounds",
+      "The Sorting Hat divides Harry's soul"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who originally possesses the Resurrection Stone set in the Gaunt ring?",
+    "choices": [
+      "Albus Dumbledore",
+      "Cadmus Peverell",
+      "Tom Riddle Sr.",
+      "Marvolo Gaunt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Peverell brother is associated with the Invisibility Cloak?",
+    "choices": [
+      "Ignotus Peverell",
+      "Cadmus Peverell",
+      "Antioch Peverell",
+      "Peverell the Elder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Peverell brother is associated with the Resurrection Stone?",
+    "choices": [
+      "Ignotus Peverell",
+      "Cadmus Peverell",
+      "Antioch Peverell",
+      "Marvolo Peverell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Peverell brother first possesses the unbeatable wand?",
+    "choices": [
+      "Ignotus Peverell",
+      "Cadmus Peverell",
+      "Antioch Peverell",
+      "Gellert Peverell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Whose defeat changes the Elder Wand's allegiance before Harry claims it?",
+    "choices": [
+      "Severus Snape",
+      "Bellatrix Lestrange",
+      "Lucius Malfoy",
+      "Draco Malfoy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who is the true master of the Elder Wand when Voldemort is defeated?",
+    "choices": [
+      "Harry Potter",
+      "Draco Malfoy",
+      "Albus Dumbledore",
+      "Severus Snape"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which four characters make up the Marauders' nicknames?",
+    "choices": [
+      "Fang, Snuffles, Crookshanks, and Scabbers",
+      "Moony, Wormtail, Padfoot, and Prongs",
+      "The Half-Blood Prince, the Chosen One, the Heir, and the Boy",
+      "Raven, Stag, Serpent, and Wolf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which Marauder is Padfoot?",
+    "choices": [
+      "James Potter",
+      "Peter Pettigrew",
+      "Sirius Black",
+      "Remus Lupin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which Marauder is Wormtail?",
+    "choices": [
+      "Sirius Black",
+      "James Potter",
+      "Remus Lupin",
+      "Peter Pettigrew"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who secretly writes the annotations in the Half-Blood Prince's Potions book?",
+    "choices": [
+      "Severus Snape",
+      "Remus Lupin",
+      "Horace Slughorn",
+      "Tom Riddle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which spell did Snape invent and label in his annotated book?",
+    "choices": [
+      "Expelliarmus",
+      "Sectumsempra",
+      "Protego",
+      "Riddikulus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who is the true Secret-Keeper of the Potters' hiding place before their betrayal?",
+    "choices": [
+      "Sirius Black",
+      "James Potter",
+      "Peter Pettigrew",
+      "Albus Dumbledore"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who impersonates Mad-Eye Moody through most of Goblet of Fire?",
+    "choices": [
+      "Igor Karkaroff",
+      "Peter Pettigrew",
+      "Antonin Dolohov",
+      "Barty Crouch Jr."
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which four students are selected as Triwizard champions in Goblet of Fire?",
+    "choices": [
+      "Harry, Cedric, Fleur, and Viktor",
+      "Harry, Ron, Hermione, and Draco",
+      "Cedric, Neville, Luna, and Viktor",
+      "Fleur, Cho, Ginny, and Harry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who makes the prophecy about Harry and Voldemort?",
+    "choices": [
+      "Bathilda Bagshot",
+      "Sybill Trelawney",
+      "Merope Gaunt",
+      "Minerva McGonagall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which phrase completes the prophecy's central mutual threat?",
+    "choices": [
+      "Only one may enter the final chamber",
+      "The heir will rule when the moon is full",
+      "Neither can live while the other survives",
+      "One wand must break before dawn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Why does Lily Potter's sacrifice protect Harry from Voldemort's first killing curse?",
+    "choices": [
+      "She uses the Elder Wand against Voldemort",
+      "Dumbledore casts a permanent Shield Charm",
+      "Harry is already wearing the Invisibility Cloak",
+      "Her willing self-sacrifice creates powerful blood-based protection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What weapon does Peter Pettigrew receive in place of the hand he cuts off?",
+    "choices": [
+      "A silver hand",
+      "A dragon-hide hand",
+      "A wooden hand",
+      "A stone hand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who destroys the final Horcrux during the Battle of Hogwarts?",
+    "choices": [
+      "Harry Potter",
+      "Neville Longbottom",
+      "Ron Weasley",
+      "Hermione Granger"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which character kills Bellatrix Lestrange?",
+    "choices": [
+      "Ginny Weasley",
+      "Nymphadora Tonks",
+      "Molly Weasley",
+      "Minerva McGonagall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "How much time passes between the Battle of Hogwarts and the epilogue?",
+    "choices": [
+      "Ten years",
+      "Seven years",
+      "Twenty-five years",
+      "Nineteen years"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "How many films make up the main Harry Potter adaptation series?",
+    "choices": [
+      "Eight",
+      "Seven",
+      "Nine",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which novel was divided into two films?",
+    "choices": [
+      "Harry Potter and the Goblet of Fire",
+      "Harry Potter and the Deathly Hallows",
+      "Harry Potter and the Order of the Phoenix",
+      "Harry Potter and the Half-Blood Prince"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which Hogwarts character from the books was omitted from the main films?",
+    "choices": [
+      "Argus Filch",
+      "Seamus Finnigan",
+      "Peeves",
+      "Professor Flitwick"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who played Dumbledore in the first two Harry Potter films?",
+    "choices": [
+      "Michael Gambon",
+      "Jude Law",
+      "Ian McKellen",
+      "Richard Harris"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who directed Harry Potter and the Prisoner of Azkaban?",
+    "choices": [
+      "Alfonso Cuarón",
+      "Chris Columbus",
+      "Mike Newell",
+      "David Yates"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who directed Harry Potter and the Goblet of Fire?",
+    "choices": [
+      "Alfonso Cuarón",
+      "Mike Newell",
+      "Chris Columbus",
+      "David Heyman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who directed the final four Harry Potter films?",
+    "choices": [
+      "Chris Columbus",
+      "Mike Newell",
+      "David Yates",
+      "Alfonso Cuarón"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the American title of the first Harry Potter novel?",
+    "choices": [
+      "Harry Potter and the Wizard's Stone",
+      "Harry Potter and the Alchemist's Stone",
+      "Harry Potter and the Magician's Stone",
+      "Harry Potter and the Sorcerer's Stone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which device allows Hermione to attend classes scheduled at the same time?",
+    "choices": [
+      "A Time-Turner",
+      "A Deluminator",
+      "A Portkey",
+      "A Remembrall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the role of the Marauder's Map?",
+    "choices": [
+      "It predicts future Quidditch scores",
+      "It shows people and their movements inside Hogwarts",
+      "It stores students' memories",
+      "It identifies every Horcrux"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which spell opens a locked door?",
+    "choices": [
+      "Lumos",
+      "Nox",
+      "Alohomora",
+      "Reparo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which spell disarms an opponent?",
+    "choices": [
+      "Stupefy",
+      "Petrificus Totalus",
+      "Impedimenta",
+      "Expelliarmus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which spell produces light at a wand's tip?",
+    "choices": [
+      "Lumos",
+      "Nox",
+      "Incendio",
+      "Expecto Patronum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which creature can only be seen by people who have witnessed death?",
+    "choices": [
+      "A hippogriff",
+      "A thestral",
+      "A boggart",
+      "A dementor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which creature guards the entrance to the Chamber of Secrets?",
+    "choices": [
+      "A dragon",
+      "A manticore",
+      "A basilisk",
+      "A lethifold"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which goblin-made object can destroy Horcruxes?",
+    "choices": [
+      "The Sword of Slytherin",
+      "The Goblin King's Axe",
+      "The Elder Wand",
+      "The Sword of Gryffindor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What causes the Sword of Gryffindor to absorb basilisk venom?",
+    "choices": [
+      "It takes in what strengthens it when used against the basilisk",
+      "Griphook coats it with venom in Gringotts",
+      "Harry enchants it with a poison charm",
+      "Dumbledore stores venom inside its hilt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who is Bellatrix Lestrange's cousin and Harry's godfather?",
+    "choices": [
+      "Regulus Black",
+      "Sirius Black",
+      "Phineas Nigellus Black",
+      "Alphard Black"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is Regulus Black's significance to the Horcrux plot?",
+    "choices": [
+      "He creates the first Horcrux",
+      "He becomes a Hogwarts headmaster",
+      "He steals Slytherin's locket and attempts to destroy it",
+      "He hides the Elder Wand at Grimmauld Place"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which house-elf helps Harry escape from Malfoy Manor?",
+    "choices": [
+      "Kreacher",
+      "Winky",
+      "Hokey",
+      "Dobby"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

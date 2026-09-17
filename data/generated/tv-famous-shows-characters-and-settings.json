@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Where do the Friends live?",
+    "choices": [
+      "New York City",
+      "Chicago",
+      "Boston",
+      "Los Angeles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "In which town does The Simpsons take place?",
+    "choices": [
+      "Shelbyville",
+      "Springfield",
+      "Quahog",
+      "South Park"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who is the central character in Seinfeld?",
+    "choices": [
+      "George Costanza",
+      "Cosmo Kramer",
+      "Jerry Seinfeld",
+      "J. Peterman"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Where do the employees work in The Office?",
+    "choices": [
+      "Sterling Cooper",
+      "Waystar Royco",
+      "Pied Piper",
+      "Dunder Mifflin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who is Walter White in Breaking Bad?",
+    "choices": [
+      "A chemistry teacher",
+      "A police detective",
+      "A lawyer",
+      "A journalist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Where is Stranger Things mainly set?",
+    "choices": [
+      "Sunnydale",
+      "Hawkins",
+      "Riverdale",
+      "Mystic Falls"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the main landmass in Game of Thrones?",
+    "choices": [
+      "Middle-earth",
+      "Narnia",
+      "Westeros",
+      "Panem"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Who leads the family in The Sopranos?",
+    "choices": [
+      "Christopher Moltisanti",
+      "Paulie Walnuts",
+      "Silvio Dante",
+      "Tony Soprano"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which war is the setting of M*A*S*H?",
+    "choices": [
+      "The Korean War",
+      "The Vietnam War",
+      "World War II",
+      "The Gulf War"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who is Lucy Ricardo’s husband?",
+    "choices": [
+      "Fred Mertz",
+      "Ricky Ricardo",
+      "Ethel Mertz",
+      "Mr. Mooney"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Where do The Golden Girls live?",
+    "choices": [
+      "Phoenix",
+      "Seattle",
+      "Miami",
+      "San Diego"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is The Fresh Prince’s first name?",
+    "choices": [
+      "Carlton",
+      "Geoffrey",
+      "Jazz",
+      "Will"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is Cheers?",
+    "choices": [
+      "A bar",
+      "A hospital",
+      "A newspaper",
+      "A police station"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who is Bart Simpson’s sister?",
+    "choices": [
+      "Maggie",
+      "Lisa",
+      "Marge",
+      "Patty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Where does SpongeBob live?",
+    "choices": [
+      "Coral City",
+      "Ocean Avenue",
+      "Bikini Bottom",
+      "Atlantis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which show features the character Elmo?",
+    "choices": [
+      "Blue’s Clues",
+      "Reading Rainbow",
+      "Mister Rogers’ Neighborhood",
+      "Sesame Street"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What do the Scooby-Doo characters investigate?",
+    "choices": [
+      "Mysteries",
+      "Space missions",
+      "Cooking contests",
+      "Court cases"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Who travels with Pikachu in the Pokémon anime?",
+    "choices": [
+      "Brock only",
+      "Ash Ketchum",
+      "Professor Oak",
+      "Gary Oak"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who is the hero of Avatar: The Last Airbender?",
+    "choices": [
+      "Zuko",
+      "Sokka",
+      "Aang",
+      "Iroh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the Doctor’s time machine called?",
+    "choices": [
+      "The DeLorean",
+      "The Enterprise",
+      "The Serenity",
+      "The TARDIS"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which ship is central to Star Trek?",
+    "choices": [
+      "The Enterprise",
+      "The Galactica",
+      "The Bebop",
+      "The Millennium Falcon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who investigates strange cases in The X-Files?",
+    "choices": [
+      "House and Wilson",
+      "Mulder and Scully",
+      "Crockett and Tubbs",
+      "Starsky and Hutch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What kind of show is The Twilight Zone?",
+    "choices": [
+      "A sports broadcast",
+      "A cooking contest",
+      "An anthology series",
+      "A soap opera"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Where is Downton Abbey located?",
+    "choices": [
+      "A New York hotel",
+      "A Scottish island",
+      "A Paris theater",
+      "An English estate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which monarch is portrayed in The Crown?",
+    "choices": [
+      "Elizabeth II",
+      "Victoria",
+      "Anne",
+      "Mary I"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Who plays Sherlock in the BBC series Sherlock?",
+    "choices": [
+      "Martin Freeman",
+      "Benedict Cumberbatch",
+      "Andrew Scott",
+      "Jeremy Brett"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Fleabag’s first name?",
+    "choices": [
+      "Phoebe",
+      "Claire",
+      "It is never given",
+      "Martha"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What kind of business is central to The Bear?",
+    "choices": [
+      "A law firm",
+      "A newspaper",
+      "A hotel",
+      "A restaurant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which family is central to Succession?",
+    "choices": [
+      "The Roy family",
+      "The Crawley family",
+      "The Shelby family",
+      "The Bluth family"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is Jimmy McGill’s professional name in Better Call Saul?",
+    "choices": [
+      "Mike Ehrmantraut",
+      "Saul Goodman",
+      "Gus Fring",
+      "Howard Hamlin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What industry does Mad Men portray?",
+    "choices": [
+      "Television news",
+      "Airline travel",
+      "Advertising",
+      "Publishing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Where does The West Wing take place?",
+    "choices": [
+      "The Pentagon",
+      "The Capitol building only",
+      "The Supreme Court",
+      "The White House"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is House’s profession?",
+    "choices": [
+      "Doctor",
+      "Detective",
+      "Judge",
+      "Professor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which city is central to Grey’s Anatomy?",
+    "choices": [
+      "Portland",
+      "Seattle",
+      "Denver",
+      "Boston"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which hospital is central to ER?",
+    "choices": [
+      "Seattle Grace",
+      "Princeton-Plainsboro",
+      "County General",
+      "Sacred Heart"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which city is central to The Wire?",
+    "choices": [
+      "Detroit",
+      "Philadelphia",
+      "Newark",
+      "Baltimore"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What format does True Detective use across seasons?",
+    "choices": [
+      "An anthology format",
+      "A single continuous family sitcom",
+      "A game-show format",
+      "A daily news format"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Where are the survivors stranded in Lost?",
+    "choices": [
+      "A desert planet",
+      "A mysterious island",
+      "A cruise ship",
+      "A mountain village"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who is Lincoln Burrows in Prison Break?",
+    "choices": [
+      "A prison doctor",
+      "A federal judge",
+      "A prisoner facing execution",
+      "A police captain"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Who is Jack Bauer in 24?",
+    "choices": [
+      "A newspaper editor",
+      "A senator",
+      "A firefighter",
+      "A counterterrorism agent"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which city gives CSI its subtitle?",
+    "choices": [
+      "Las Vegas",
+      "Miami",
+      "New York",
+      "Los Angeles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What type of show is Law & Order?",
+    "choices": [
+      "A sketch comedy",
+      "A crime procedural",
+      "A science documentary",
+      "A family sitcom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who hosts the U.S. version of Survivor?",
+    "choices": [
+      "Phil Keoghan",
+      "Ryan Seacrest",
+      "Jeff Probst",
+      "Chris Harrison"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What kind of show is Jeopardy!?",
+    "choices": [
+      "A talent contest",
+      "A soap opera",
+      "A travel series",
+      "A quiz show"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What do contestants make on The Great British Bake Off?",
+    "choices": [
+      "Baked goods",
+      "Clothing",
+      "Furniture",
+      "Songs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What do contestants perform on The Voice?",
+    "choices": [
+      "Magic tricks",
+      "Songs",
+      "Recipes",
+      "Science experiments"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What do contestants seek on American Idol?",
+    "choices": [
+      "A cooking job",
+      "A sports contract",
+      "A singing career",
+      "A book deal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is judged on RuPaul’s Drag Race?",
+    "choices": [
+      "Home renovation",
+      "Stand-up comedy only",
+      "Restaurant service",
+      "Drag performance and design"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What do the hosts test on MythBusters?",
+    "choices": [
+      "Popular claims and myths",
+      "Court evidence",
+      "Political speeches",
+      "Historical costumes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What does Planet Earth show?",
+    "choices": [
+      "Fictional space travel",
+      "Natural environments and wildlife",
+      "Cooking techniques",
+      "Election campaigns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which family owns the company in Arrested Development?",
+    "choices": [
+      "The Roy family",
+      "The Rose family",
+      "The Bluth family",
+      "The Pritchett family"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who is the central character in Curb Your Enthusiasm?",
+    "choices": [
+      "Jerry Seinfeld",
+      "George Costanza",
+      "Larry Sanders",
+      "Larry David"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is Frasier Crane’s job in Frasier?",
+    "choices": [
+      "A radio psychiatrist",
+      "A newspaper editor",
+      "A theater director",
+      "A chef"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who is found dead at the center of Twin Peaks?",
+    "choices": [
+      "Audrey Horne",
+      "Laura Palmer",
+      "Shelly Johnson",
+      "Josie Packard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What business does the Fisher family run in Six Feet Under?",
+    "choices": [
+      "A restaurant",
+      "A bookstore",
+      "A funeral home",
+      "A hotel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which historical town is the setting of Deadwood?",
+    "choices": [
+      "Dodge City, Kansas",
+      "Tombstone, Arizona",
+      "Virginia City, Nevada",
+      "Deadwood, South Dakota"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What do the protagonists of The Americans do secretly?",
+    "choices": [
+      "Work as Soviet spies",
+      "Run a newspaper",
+      "Steal paintings",
+      "Investigate ghosts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which city is central to Boardwalk Empire?",
+    "choices": [
+      "Chicago",
+      "Atlantic City",
+      "New Orleans",
+      "New York City"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which city is associated with the Shelby family in Peaky Blinders?",
+    "choices": [
+      "Manchester",
+      "Liverpool",
+      "Birmingham",
+      "Leeds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What kind of agency appears in Call My Agent!?",
+    "choices": [
+      "A spy agency",
+      "A law office",
+      "A travel agency",
+      "A talent agency"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Where is Dark set?",
+    "choices": [
+      "Winden",
+      "Hawkins",
+      "Batesville",
+      "Twin Peaks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which city is the main setting of the German crime drama featuring Gereon Rath?",
+    "choices": [
+      "Vienna",
+      "Berlin",
+      "Prague",
+      "Warsaw"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What country is the political drama Borgen from?",
+    "choices": [
+      "Sweden",
+      "Norway",
+      "Denmark",
+      "Finland"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who leads the heists in Money Heist from behind the scenes?",
+    "choices": [
+      "Berlin",
+      "Denver",
+      "The Inspector",
+      "The Professor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What do contestants face in Squid Game?",
+    "choices": [
+      "A series of deadly games",
+      "A cooking tournament",
+      "A political election",
+      "A space mission"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What format does Black Mirror usually use?",
+    "choices": [
+      "A courtroom serial",
+      "An anthology of separate stories",
+      "A live sports format",
+      "A family sitcom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which town is central to The Leftovers?",
+    "choices": [
+      "Sunnydale",
+      "Stars Hollow",
+      "Mapleton",
+      "Pawnee"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who is Elliot in Mr. Robot?",
+    "choices": [
+      "A police detective",
+      "A television host",
+      "A surgeon",
+      "A cybersecurity engineer and hacker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What unusual fact links the clones in Orphan Black?",
+    "choices": [
+      "They share the same DNA source",
+      "They are all time travelers",
+      "They are all ghosts",
+      "They live on one island"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What format does Fargo use across its stories?",
+    "choices": [
+      "A single courtroom broadcast",
+      "An anthology format",
+      "A talent-show format",
+      "A continuous space opera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who is Earn in Atlanta?",
+    "choices": [
+      "A police officer",
+      "A college professor",
+      "A manager trying to advance his cousin’s rap career",
+      "A record executive"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who is Issa in Insecure?",
+    "choices": [
+      "Molly Carter",
+      "Kelli Prenny",
+      "Tiffany DuBois",
+      "Issa Dee"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is unusual about Fleabag’s narration?",
+    "choices": [
+      "She often breaks the fourth wall",
+      "It is entirely sung",
+      "It comes from a news anchor",
+      "It is told by a dog"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who is the vice president in Veep?",
+    "choices": [
+      "Diane Lockhart",
+      "Selina Meyer",
+      "Martha Logan",
+      "Claire Underwood"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is TGS in 30 Rock?",
+    "choices": [
+      "A newspaper",
+      "A law firm",
+      "A sketch comedy show",
+      "A radio station"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is Greendale in Community?",
+    "choices": [
+      "A hospital",
+      "A police precinct",
+      "A newspaper office",
+      "A community college"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which town is the setting of Parks and Recreation?",
+    "choices": [
+      "Pawnee",
+      "Springfield",
+      "Scranton",
+      "Stars Hollow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which family loses its fortune in Schitt’s Creek?",
+    "choices": [
+      "The Bluth family",
+      "The Rose family",
+      "The Roy family",
+      "The Pritchett family"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Where do the vampires live in What We Do in the Shadows?",
+    "choices": [
+      "Brooklyn",
+      "Queens",
+      "Staten Island",
+      "The Bronx"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is BoJack Horseman’s former profession?",
+    "choices": [
+      "A racehorse trainer",
+      "A radio host",
+      "A theater critic",
+      "A sitcom star"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is the main land of Adventure Time called?",
+    "choices": [
+      "The Land of Ooo",
+      "The Mushroom Kingdom",
+      "The Wasteland",
+      "The Neverlands"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Where do Dipper and Mabel spend the summer in Gravity Falls?",
+    "choices": [
+      "Maine",
+      "Oregon",
+      "Alaska",
+      "Colorado"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Where does Steven Universe live?",
+    "choices": [
+      "Crystal City",
+      "Ocean Town",
+      "Beach City",
+      "Paradise Island"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What kind of series is Over the Garden Wall?",
+    "choices": [
+      "A live sports show",
+      "A reality contest",
+      "A medical drama",
+      "An animated miniseries"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is the Bebop in Cowboy Bebop?",
+    "choices": [
+      "A spaceship",
+      "A bounty office",
+      "A planet",
+      "A martial-arts school"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What protects humanity in Attack on Titan?",
+    "choices": [
+      "A magic school",
+      "Massive walls",
+      "A fleet of ships",
+      "A hidden forest"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What sea route drives much of One Piece?",
+    "choices": [
+      "The Red Road",
+      "The Blue Current",
+      "The Grand Line",
+      "The Seven Seas Route"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who travels with the title character in The Mandalorian?",
+    "choices": [
+      "Ahsoka Tano",
+      "Bo-Katan Kryze",
+      "Moff Gideon",
+      "Grogu"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who plays Edmund Blackadder?",
+    "choices": [
+      "Rowan Atkinson",
+      "Hugh Laurie",
+      "John Cleese",
+      "Rik Mayall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is Fawlty Towers?",
+    "choices": [
+      "A school",
+      "A hotel",
+      "A newspaper",
+      "A theater"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What kind of program was Monty Python’s Flying Circus?",
+    "choices": [
+      "A travel documentary",
+      "A quiz show",
+      "A sketch comedy series",
+      "A police drama"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What name does the protagonist use in The Prisoner?",
+    "choices": [
+      "The Prisoner",
+      "Number One",
+      "The Village",
+      "Number Six"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which detective stars in Columbo?",
+    "choices": [
+      "Lieutenant Columbo",
+      "Inspector Morse",
+      "Sherlock Holmes",
+      "Sam Spade"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What nationality is Hercule Poirot?",
+    "choices": [
+      "French",
+      "Belgian",
+      "English",
+      "Swiss"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What historical event frames the miniseries Roots?",
+    "choices": [
+      "The French Revolution",
+      "The settlement of Australia",
+      "The history of an enslaved African American family",
+      "The building of the Panama Canal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who hosted the original Cosmos?",
+    "choices": [
+      "Neil deGrasse Tyson",
+      "David Attenborough",
+      "Stephen Hawking",
+      "Carl Sagan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which filmmaker made the documentary series The Civil War?",
+    "choices": [
+      "Ken Burns",
+      "Michael Moore",
+      "Werner Herzog",
+      "Errol Morris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which broadcaster is strongly associated with Planet Earth narration?",
+    "choices": [
+      "Carl Sagan",
+      "David Attenborough",
+      "James Burke",
+      "Walter Cronkite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which network originally aired Saturday Night Live?",
+    "choices": [
+      "CBS",
+      "ABC",
+      "NBC",
+      "FOX"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a television pilot introduce?",
+    "choices": [
+      "A show’s final episode",
+      "A network’s yearly ratings",
+      "A commercial break",
+      "A proposed series and its main characters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

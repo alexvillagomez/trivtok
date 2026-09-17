@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which ocean zone receives the most sunlight?",
+    "choices": [
+      "Epipelagic zone",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which zone is called the twilight zone?",
+    "choices": [
+      "Ocean gyre",
+      "Mesopelagic zone",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which zone includes the seafloor?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Benthic zone",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which swimmers are called nekton?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Active swimmers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What process brings deep nutrients upward?",
+    "choices": [
+      "Upwelling",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What force deflects ocean currents?",
+    "choices": [
+      "Ocean gyre",
+      "Coriolis effect",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which current circles Antarctica?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Antarctic Circumpolar Current",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which current flows north along Japan?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Kuroshio Current"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which current flows south along western Africa?",
+    "choices": [
+      "Benguela Current",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is a broad flat deep-ocean floor?",
+    "choices": [
+      "Ocean gyre",
+      "Abyssal plain",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a flat-topped seamount?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Guyot",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What feature marks subduction?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Ocean trench"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What hot spring occurs on the seafloor?",
+    "choices": [
+      "Hydrothermal vent",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What instrument measures conductivity, temperature, depth?",
+    "choices": [
+      "Ocean gyre",
+      "CTD profiler",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What vehicle is tethered to a ship?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Remotely operated vehicle",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What vehicle operates untethered?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Autonomous underwater vehicle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What bottle samples water at depth?",
+    "choices": [
+      "Niskin bottle",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What process lowers seawater pH?",
+    "choices": [
+      "Ocean gyre",
+      "Ocean acidification",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What gas is most abundant in seawater?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Nitrogen",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What mineral forms many shells?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Calcium carbonate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which animal has three hearts?",
+    "choices": [
+      "Octopus",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which shark filters plankton?",
+    "choices": [
+      "Ocean gyre",
+      "Whale shark",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which fish uses a glowing lure?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Anglerfish",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which mammal uses echolocation?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Sperm whale"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which algae forms underwater forests?",
+    "choices": [
+      "Kelp",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which animal builds reef framework?",
+    "choices": [
+      "Ocean gyre",
+      "Stony coral",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which fish scrapes reef algae?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Parrotfish",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which animal can regenerate an arm?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Sea star"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which reptile nests on beaches?",
+    "choices": [
+      "Green sea turtle",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which current flows south along western North America?",
+    "choices": [
+      "Ocean gyre",
+      "California Current",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which current flows north along western South America?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Peru Current",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which current flows south along eastern South America?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Brazil Current"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which cold current flows north along eastern Canada?",
+    "choices": [
+      "Labrador Current",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a seasonal Indian Ocean circulation?",
+    "choices": [
+      "Ocean gyre",
+      "Monsoon circulation",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What Pacific oscillation changes currents?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "El Niño–Southern Oscillation",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What layer changes temperature rapidly?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Thermocline"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What layer changes salinity rapidly?",
+    "choices": [
+      "Halocline",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What layer changes density rapidly?",
+    "choices": [
+      "Ocean gyre",
+      "Pycnocline",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What realm is open water away from bottom?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Pelagic zone",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What deep trench realm lies below six kilometers?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Hadal zone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What process carries surface water down?",
+    "choices": [
+      "Downwelling",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What organisms drift with currents?",
+    "choices": [
+      "Ocean gyre",
+      "Plankton",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What organisms live on the bottom?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Benthos",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What organisms graze on phytoplankton?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Zooplankton"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What pigment captures light in algae?",
+    "choices": [
+      "Chlorophyll",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What moves carbon below the surface?",
+    "choices": [
+      "Ocean gyre",
+      "Biological pump",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What current runs north along eastern Australia?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "East Australian Current",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What current runs north along western Africa?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Canary Current"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What current rounds southern Africa?",
+    "choices": [
+      "Agulhas Current",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What underwater mountain rises from seafloor?",
+    "choices": [
+      "Ocean gyre",
+      "Seamount",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What valley cuts a continental shelf?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Submarine canyon",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What sediment deposit forms at a canyon mouth?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Submarine fan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What dense flow carries sediment downslope?",
+    "choices": [
+      "Turbidity current",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What circular reef encloses a lagoon?",
+    "choices": [
+      "Ocean gyre",
+      "Atoll",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What volcanic chain parallels a trench?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Island arc",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What crack occurs at a spreading ridge?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Rift valley"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What methane-rich site supports chemosynthesis?",
+    "choices": [
+      "Cold seep",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What ion pairs with chloride in seawater?",
+    "choices": [
+      "Ocean gyre",
+      "Sodium",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What acid forms when CO2 dissolves?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Carbonic acid",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What nutrient can limit open-ocean growth?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Iron"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is typical seawater freezing point?",
+    "choices": [
+      "About −2°C",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What raises density by removing water?",
+    "choices": [
+      "Ocean gyre",
+      "Evaporation",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What samples cylindrical sediment cores?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Piston corer",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What maps depth with sound swaths?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Multibeam sonar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What instrument measures reflected sound depth?",
+    "choices": [
+      "Echo sounder",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What gas mix helps deep divers?",
+    "choices": [
+      "Ocean gyre",
+      "Helium–oxygen mix",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What illness involves inert-gas bubbles?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Decompression sickness",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What connects a diver to surface supply?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Umbilical"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What bathyscaphe reached the deepest trench?",
+    "choices": [
+      "Trieste",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who piloted Trieste in 1960?",
+    "choices": [
+      "Ocean gyre",
+      "Jacques Piccard",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the shelf's steep seaward edge?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Continental slope",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What margin is shallow and submerged?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Continental shelf"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What current is a fast subtropical boundary flow?",
+    "choices": [
+      "Western boundary current",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What current carries cold water equatorward?",
+    "choices": [
+      "Ocean gyre",
+      "Eastern boundary current",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What active swimmers include tuna?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Nekton",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What tiny plants drive marine photosynthesis?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Phytoplankton"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What animal filters with baleen?",
+    "choices": [
+      "Humpback whale",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What mollusk has a chambered shell?",
+    "choices": [
+      "Ocean gyre",
+      "Nautilus",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What fish produces light with photophores?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Lanternfish",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What animal defends itself with ink?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Cuttlefish"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What plant forms underwater meadows?",
+    "choices": [
+      "Seagrass",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What predator has a sword-like bill?",
+    "choices": [
+      "Ocean gyre",
+      "Swordfish",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What crustacean lives at vents?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Vent shrimp",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What boundary marks surface mixing depth?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Mixed-layer depth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What process converts nitrate to nitrogen gas?",
+    "choices": [
+      "Denitrification",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What process converts ammonium to nitrate?",
+    "choices": [
+      "Ocean gyre",
+      "Nitrification",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What process makes usable nitrogen?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Nitrogen fixation",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What realm lies over the continental shelf?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Neritic zone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What habitat alternates exposure and submersion?",
+    "choices": [
+      "Intertidal zone",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What pH is neutral near room temperature?",
+    "choices": [
+      "Ocean gyre",
+      "About 7",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What gas is dissolved for animal respiration?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Oxygen",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What ship deploys deep sampling gear?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Research vessel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What device collects water bottles in a rosette?",
+    "choices": [
+      "CTD rosette",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What vehicle glides autonomously?",
+    "choices": [
+      "Ocean gyre",
+      "Submersible glider",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What method dates old seafloor sediments?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Radiocarbon dating",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What method images organisms in darkness?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Low-light camera"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What pressure increases with depth?",
+    "choices": [
+      "Hydrostatic pressure",
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What force provides buoyancy?",
+    "choices": [
+      "Ocean gyre",
+      "Displaced-water force",
+      "Thermocline",
+      "Continental shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What expedition famously mapped the deep ocean?",
+    "choices": [
+      "Continental shelf",
+      "Ocean gyre",
+      "Challenger expedition",
+      "Thermocline"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What explorer piloted a famous deep submersible?",
+    "choices": [
+      "Thermocline",
+      "Continental shelf",
+      "Ocean gyre",
+      "Don Walsh"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

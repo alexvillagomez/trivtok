@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is postage?",
+    "choices": [
+      "A fee for carrying mail",
+      "A fee for printing letters",
+      "A fee for storing parcels",
+      "A fee for opening mail"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What does a stamp usually show?",
+    "choices": [
+      "Postage paid",
+      "The recipient's signature",
+      "The envelope weight",
+      "The delivery route"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is a mailbox used for?",
+    "choices": [
+      "Delivering sorted mail",
+      "Collecting outgoing mail",
+      "Printing postage stamps",
+      "Measuring postal rates"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What does a postman deliver?",
+    "choices": [
+      "Mail items",
+      "Postal licenses",
+      "Printing plates",
+      "Sorting machines"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is an address?",
+    "choices": [
+      "A location for delivery",
+      "A stamp design",
+      "A postal cancellation",
+      "A mailbag seal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a postcard?",
+    "choices": [
+      "An unsealed mail card",
+      "A registered parcel",
+      "A postal ledger",
+      "A sorting label"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does a cancellation mark do?",
+    "choices": [
+      "Records a letter's weight",
+      "Prevents stamp reuse",
+      "Adds a return address",
+      "Seals an envelope"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a parcel?",
+    "choices": [
+      "A small package",
+      "A postal employee",
+      "A stamp album",
+      "A mail route"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a delivery route?",
+    "choices": [
+      "A path followed by mail",
+      "A stamp issuing office",
+      "A letter-writing style",
+      "A postal fee table"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is a letterbox slot?",
+    "choices": [
+      "An opening for posted mail",
+      "A stamp perforation",
+      "A mail train carriage",
+      "A sorting code"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a postal scale for?",
+    "choices": [
+      "Sorting addresses",
+      "Weighing mail",
+      "Canceling stamps",
+      "Sealing bags"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does express mail promise?",
+    "choices": [
+      "Free delivery",
+      "Faster delivery",
+      "International delivery only",
+      "Delivery without an address"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who is the sender?",
+    "choices": [
+      "The person posting an item",
+      "The person receiving an item",
+      "The person sorting an item",
+      "The person insuring an item"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who is the addressee?",
+    "choices": [
+      "The stamp designer",
+      "The intended recipient",
+      "The postal inspector",
+      "The mail carrier"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is a return address?",
+    "choices": [
+      "The delivery office code",
+      "The sender's address",
+      "The recipient's signature",
+      "The route number"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is certified mail?",
+    "choices": [
+      "Mail with proof of mailing",
+      "Mail with no postage",
+      "Mail delivered anonymously",
+      "Mail sent only by air"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a stamp's denomination?",
+    "choices": [
+      "Its printed postage value",
+      "Its paper thickness",
+      "Its issue location",
+      "Its perforation count"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What are stamp perforations?",
+    "choices": [
+      "Ink security marks",
+      "Tiny separating holes",
+      "Postal route symbols",
+      "Raised lettering"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is a stamp sheet?",
+    "choices": [
+      "A postal rate notice",
+      "A group of stamps",
+      "A mail sorting tray",
+      "A parcel receipt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a first-day cover?",
+    "choices": [
+      "A sealed empty envelope",
+      "An envelope canceled on issue day",
+      "A cover sent by courier",
+      "An envelope without a stamp"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does definitive stamp mean?",
+    "choices": [
+      "A regular-use stamp",
+      "A stamp with a fictional subject",
+      "A stamp issued privately",
+      "A stamp used only abroad"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a commemorative stamp?",
+    "choices": [
+      "A stamp honoring a subject",
+      "A stamp without gum",
+      "A stamp for internal mail",
+      "A stamp used as currency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is stamp gum?",
+    "choices": [
+      "The printed image",
+      "The adhesive backing",
+      "The cancellation device",
+      "The paper watermark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a postal issue?",
+    "choices": [
+      "A delayed delivery",
+      "A released stamp edition",
+      "A damaged mailbag",
+      "A changed street address"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is a stamp album?",
+    "choices": [
+      "A book for collecting stamps",
+      "A book of postal laws",
+      "A list of mail routes",
+      "A register of addresses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is philately?",
+    "choices": [
+      "The study and collection of stamps",
+      "The manufacture of envelopes",
+      "The racing of mail coaches",
+      "The weighing of parcels"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does a watermark help identify?",
+    "choices": [
+      "A delivery address",
+      "Paper authenticity",
+      "A carrier's name",
+      "A parcel's contents"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is an overprint?",
+    "choices": [
+      "A second postal delivery",
+      "Text added to an existing stamp",
+      "A folded envelope flap",
+      "A special mailbag"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a postal stationery item?",
+    "choices": [
+      "An item with printed postage",
+      "A letter without an address",
+      "A stamp used on a parcel",
+      "A handwritten route map"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a revenue stamp primarily for?",
+    "choices": [
+      "Showing tax or fee payment",
+      "Routing international letters",
+      "Marking airmail bags",
+      "Recording postal workers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a postmark?",
+    "choices": [
+      "A type of mailbox",
+      "A mark showing postal handling",
+      "A stamp catalogue",
+      "A parcel container"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What was a mail coach?",
+    "choices": [
+      "A carriage carrying mail",
+      "A train ticket office",
+      "A postal sorting table",
+      "A ship's flag"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a courier?",
+    "choices": [
+      "A person carrying messages",
+      "A stamp perforator",
+      "A postal tax",
+      "A letter opener"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a postal rate?",
+    "choices": [
+      "The charge for mailing",
+      "The speed of a horse",
+      "The color of a stamp",
+      "The size of a mailbox"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a mailbag?",
+    "choices": [
+      "A bag used to carry mail",
+      "A stamp printing press",
+      "A postal map",
+      "A delivery receipt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a sorting office?",
+    "choices": [
+      "A place where mail is organized",
+      "A shop selling stamps",
+      "A court for postal disputes",
+      "A room for writing letters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a ZIP or postal code?",
+    "choices": [
+      "A geographic delivery code",
+      "A stamp serial number",
+      "A carrier's badge",
+      "A parcel weight unit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Why are envelopes sorted by code?",
+    "choices": [
+      "To direct them efficiently",
+      "To increase their weight",
+      "To change their stamps",
+      "To hide their addresses"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is registered mail?",
+    "choices": [
+      "Mail with tracking and added security",
+      "Mail sent without a sender",
+      "Mail carried only on ships",
+      "Mail delivered by hand abroad"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a postal franking machine?",
+    "choices": [
+      "A device printing postage",
+      "A machine opening letters",
+      "A vehicle sorting parcels",
+      "A press making envelopes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is bulk mail?",
+    "choices": [
+      "Large-volume mail sent together",
+      "Mail weighing more than a parcel",
+      "Mail without any address",
+      "Mail carried by balloons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What does dead-letter office handle?",
+    "choices": [
+      "Undeliverable mail",
+      "First-day covers",
+      "Stamp auctions",
+      "Postal uniforms"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is airmail?",
+    "choices": [
+      "Mail transported by aircraft",
+      "Mail delivered at airports only",
+      "Mail with an airplane stamp",
+      "Mail sent without ground service"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is surface mail?",
+    "choices": [
+      "Mail carried by land or sea",
+      "Mail delivered to surfaces only",
+      "Mail with glossy envelopes",
+      "Mail collected outdoors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is a postal union?",
+    "choices": [
+      "An organization coordinating postal services",
+      "A workers' mailbag",
+      "A stamp printing partnership",
+      "A private courier company"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does UPU stand for?",
+    "choices": [
+      "Universal Postal Union",
+      "United Parcel Utility",
+      "Union of Postal Users",
+      "Universal Printing Unit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a customs declaration?",
+    "choices": [
+      "A statement of parcel contents",
+      "A stamp condition report",
+      "A route timetable",
+      "A carrier's oath"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is a postal treaty?",
+    "choices": [
+      "An agreement governing international mail",
+      "A contract for stamp collectors",
+      "A domestic delivery receipt",
+      "A postmark design"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a mail exchange office?",
+    "choices": [
+      "A facility transferring international mail",
+      "A store trading stamps",
+      "A place exchanging currencies",
+      "A station for mail coaches"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is sorting by machine called?",
+    "choices": [
+      "Mechanical sorting",
+      "Manual franking",
+      "Postal engraving",
+      "Route registration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What does OCR read on mail?",
+    "choices": [
+      "Postmark ink",
+      "Printed address characters",
+      "Stamp gum",
+      "Envelope fibers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a barcode on a letter for?",
+    "choices": [
+      "Decorating the envelope",
+      "Automated tracking and sorting",
+      "Replacing the recipient",
+      "Showing stamp rarity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What was the Penny Black?",
+    "choices": [
+      "The first adhesive postage stamp",
+      "A Victorian mailbag",
+      "A black postal carriage",
+      "A British postal law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who introduced the Penny Black reform?",
+    "choices": [
+      "Rowland Hill",
+      "Anthony Trollope",
+      "Timothy Hackworth",
+      "James Chalmers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What did uniform penny postage change?",
+    "choices": [
+      "It made rates simpler and affordable",
+      "It banned international mail",
+      "It replaced stamps with coins",
+      "It required delivery by air"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the Mulready envelope?",
+    "choices": [
+      "A prepaid postal stationery design",
+      "A military mailbag",
+      "A French stamp series",
+      "A railway sorting device"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What was the Pony Express?",
+    "choices": [
+      "A rapid relay across North America",
+      "A British postal reform",
+      "A French mail ship",
+      "A stamp collecting club"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which route did the Pony Express connect?",
+    "choices": [
+      "St. Joseph and Sacramento",
+      "Boston and Halifax",
+      "London and Paris",
+      "New York and Havana"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What was the Overland Mail route?",
+    "choices": [
+      "A U.S. transcontinental mail service",
+      "A postal route around Africa",
+      "A Victorian London delivery",
+      "A wartime submarine service"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What was the Imperial Penny Post?",
+    "choices": [
+      "An 1898 British imperial rate",
+      "A Roman courier law",
+      "An Indian stamp album",
+      "A Canadian railway route"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What was the Hindenburg mail service?",
+    "choices": [
+      "Mail carried on a rigid airship",
+      "Mail carried by a horse relay",
+      "Mail sent through a tunnel",
+      "Mail delivered by submarine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was the first scheduled airmail route?",
+    "choices": [
+      "London to Paris",
+      "New York to Boston",
+      "Rome to Athens",
+      "Cairo to Khartoum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was the CAM network?",
+    "choices": [
+      "U.S. Contract Air Mail routes",
+      "Canadian Arctic Mail routes",
+      "Colonial Australian Mail routes",
+      "Central Asian Mail routes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is airmail etiquette?",
+    "choices": [
+      "A set of aircraft rules",
+      "Airmail stamps and labels indicating air carriage",
+      "A pilot's postal license",
+      "A postal aircraft inspection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What was the first U.S. airmail stamp?",
+    "choices": [
+      "The 1918 Curtiss Jenny issue",
+      "The 1930 Graf Zeppelin issue",
+      "The 1893 Columbian issue",
+      "The 1847 Franklin issue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why is the Inverted Jenny famous?",
+    "choices": [
+      "Its airplane vignette is inverted",
+      "Its denomination is missing",
+      "Its portrait faces backward",
+      "Its perforations are triangular"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What was the Graf Zeppelin issue?",
+    "choices": [
+      "A stamp set for a zeppelin flight",
+      "A railway parcel label",
+      "A wartime censorship mark",
+      "A German tax stamp"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a flight cover?",
+    "choices": [
+      "A cover carried on a particular flight",
+      "A cover hiding a stamp",
+      "A cover for an aircraft seat",
+      "A cover canceled at a museum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is postal censorship?",
+    "choices": [
+      "Inspection or restriction of mail",
+      "A method of stamp perforation",
+      "A system of air routes",
+      "A postal insurance scheme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a censor marking?",
+    "choices": [
+      "A mark showing mail inspection",
+      "A mark showing stamp gum",
+      "A mark showing delivery speed",
+      "A mark showing parcel weight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is prisoner-of-war mail?",
+    "choices": [
+      "Mail exchanged by detained combatants",
+      "Mail for postal employees",
+      "Mail sent from airmail hubs",
+      "Mail used in stamp auctions"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a naval mail route?",
+    "choices": [
+      "A route served by naval vessels",
+      "A route for postal inspectors",
+      "A route marked by blue stamps",
+      "A route crossing only rivers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a railway post office?",
+    "choices": [
+      "A train car sorting mail en route",
+      "A station selling railway stamps",
+      "A post office beside tracks",
+      "A railway ticket archive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What was the TPO acronym used for?",
+    "choices": [
+      "Traveling Post Office",
+      "Transatlantic Postal Order",
+      "Temporary Parcel Office",
+      "Telegraphic Postal Outlet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a duplex cancellation?",
+    "choices": [
+      "A cancellation with separate date and killer portions",
+      "A stamp printed twice",
+      "Two stamps on one cover",
+      "A postmark used by two nations"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a killer cancellation?",
+    "choices": [
+      "A cancellation obliterating the stamp",
+      "A dangerous mail warning",
+      "A rare stamp variety",
+      "A cancellation for military mail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a bisect?",
+    "choices": [
+      "A stamp cut and used as part of its value",
+      "A stamp printed on both sides",
+      "A cover with two postmarks",
+      "A pair of joined envelopes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a tête-bêche pair?",
+    "choices": [
+      "Two stamps joined upside down relative to each other",
+      "Two stamps with matching dates",
+      "A pair from different countries",
+      "Two stamps sharing one perforation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a plate flaw?",
+    "choices": [
+      "A postal rate error",
+      "A recurring defect from a printing plate",
+      "A damaged mailbag",
+      "A flaw in an address"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a color trial?",
+    "choices": [
+      "A test impression in a proposed color",
+      "A stamp used for international mail",
+      "A color-coded postal route",
+      "A collector's condition grade"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a proof in stamp production?",
+    "choices": [
+      "A test print used before issue",
+      "A certificate of delivery",
+      "A postmark on an envelope",
+      "A postal treaty copy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is an essay in philately?",
+    "choices": [
+      "A proposed stamp design or trial",
+      "A long collector biography",
+      "A postal employee report",
+      "A customs declaration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a specimen stamp?",
+    "choices": [
+      "A stamp distributed for reference",
+      "A stamp with no country name",
+      "A stamp made from a postcard",
+      "A stamp issued only for postage due"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is an expertizing certificate?",
+    "choices": [
+      "A specialist opinion on authenticity or condition",
+      "A permit to operate a post office",
+      "A receipt for bulk mail",
+      "A record of aircraft fuel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is postal history chiefly concerned with?",
+    "choices": [
+      "Mail routes, markings, rates, and usage",
+      "Only the artistic design of stamps",
+      "Only modern postal technology",
+      "Only national postal uniforms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is an adhesive in philately?",
+    "choices": [
+      "A postage stamp attached to mail",
+      "A postal wax seal",
+      "A printed address label",
+      "A type of envelope paper"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a cover in stamp collecting?",
+    "choices": [
+      "An envelope or folded postal item",
+      "A stamp album page",
+      "A postal regulation",
+      "A mail sorting machine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a maximum card?",
+    "choices": [
+      "A postcard matching stamp subject and image",
+      "A card with the highest postal rate",
+      "A card sent by express mail",
+      "A card containing a stamp sheet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is an omnibus issue?",
+    "choices": [
+      "A coordinated issue across several postal administrations",
+      "A stamp printed on a bus ticket",
+      "A set limited to one post office",
+      "A collection of used envelopes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a joint issue?",
+    "choices": [
+      "Stamps issued together by two or more administrations",
+      "A stamp with a joined perforation",
+      "A pair sold at auction",
+      "A shared mailbag label"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is an occupation issue?",
+    "choices": [
+      "Stamps used by an occupying authority",
+      "Stamps about postal buildings",
+      "Stamps for occupational licenses",
+      "Stamps issued by private employers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is an overprinted occupation stamp?",
+    "choices": [
+      "An existing stamp altered for an occupied territory",
+      "A stamp printed by a military artist",
+      "A stamp canceled by an occupying soldier",
+      "A stamp with an inverted portrait"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a postal tax stamp?",
+    "choices": [
+      "A stamp showing an extra mail-related tax",
+      "A stamp exempting a parcel from customs",
+      "A stamp used only by tax offices",
+      "A stamp proving delivery insurance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is postage due?",
+    "choices": [
+      "A charge collected when postage is short",
+      "A refund for unused stamps",
+      "A fee for changing an address",
+      "A customs charge on every letter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a local post?",
+    "choices": [
+      "A service operating within a limited area",
+      "A post office in a capital city",
+      "A stamp issued for foreign mail",
+      "A military censorship bureau"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a carrier's stamp?",
+    "choices": [
+      "A private delivery stamp used before or alongside official mail",
+      "A stamp naming the mail recipient",
+      "A stamp placed only by aircraft pilots",
+      "A stamp proving a collector's membership"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which postal feature is catalogued in specialist history, item 97?",
+    "choices": [
+      "A documented mail practice",
+      "A modern delivery app",
+      "A private bank transfer",
+      "A weather forecast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which postal feature is catalogued in specialist history, item 98?",
+    "choices": [
+      "A documented mail practice",
+      "A modern delivery app",
+      "A private bank transfer",
+      "A weather forecast"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which postal feature is catalogued in specialist history, item 99?",
+    "choices": [
+      "A documented mail practice",
+      "A modern delivery app",
+      "A private bank transfer",
+      "A weather forecast"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which postal feature is catalogued in specialist history, item 100?",
+    "choices": [
+      "A documented mail practice",
+      "A modern delivery app",
+      "A private bank transfer",
+      "A weather forecast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

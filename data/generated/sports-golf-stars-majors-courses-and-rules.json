@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "How many holes are in a standard full round of golf?",
+    "choices": [
+      "18",
+      "9",
+      "12",
+      "21"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does par represent on a golf hole?",
+    "choices": [
+      "The lowest score ever recorded",
+      "The expected score for a skilled player",
+      "The number of players in a group",
+      "The distance to the clubhouse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is one stroke under par on a hole called?",
+    "choices": [
+      "A bogey",
+      "An eagle",
+      "A birdie",
+      "A par"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is two strokes under par on a hole called?",
+    "choices": [
+      "A birdie",
+      "A bogey",
+      "A double bogey",
+      "An eagle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is one stroke over par on a hole called?",
+    "choices": [
+      "A bogey",
+      "A birdie",
+      "An eagle",
+      "An albatross"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Where does a golfer normally begin a hole?",
+    "choices": [
+      "The green",
+      "The teeing area",
+      "The bunker",
+      "The rough"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the closely mown target area around the hole called?",
+    "choices": [
+      "The fairway",
+      "The rough",
+      "The green",
+      "The tee"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the short grass corridor leading toward a green called?",
+    "choices": [
+      "The rough",
+      "The bunker",
+      "The apron only",
+      "The fairway"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the longer grass beside a fairway called?",
+    "choices": [
+      "The rough",
+      "The green",
+      "The teeing area",
+      "The cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is a sand-filled hazard on a golf course called?",
+    "choices": [
+      "A fairway",
+      "A bunker",
+      "A gallery",
+      "A links"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What object usually marks the position of the hole on the green?",
+    "choices": [
+      "The rake",
+      "The tee marker",
+      "The flagstick",
+      "The scorecard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which club is designed chiefly for rolling the ball on the green?",
+    "choices": [
+      "A driver",
+      "A three-wood",
+      "A sand wedge",
+      "A putter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which club is generally built for the longest tee shots?",
+    "choices": [
+      "A driver",
+      "A putter",
+      "A lob wedge",
+      "A seven-iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What broad club category usually has numbered clubs such as a five-iron?",
+    "choices": [
+      "Putters",
+      "Irons",
+      "Drivers",
+      "Hybrids only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which club category is especially useful for short shots near the green?",
+    "choices": [
+      "Drivers",
+      "Long irons",
+      "Wedges",
+      "Fairway woods only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is each completed swing counted as in a golfer's score?",
+    "choices": [
+      "A hole",
+      "A match",
+      "A handicap",
+      "A stroke"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a score of one on a hole called when the ball goes in from the tee?",
+    "choices": [
+      "A hole-in-one",
+      "An eagle",
+      "A birdie",
+      "A condor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What does a golfer's handicap index broadly help express?",
+    "choices": [
+      "The number of clubs allowed",
+      "Playing ability for comparing scores",
+      "The speed of the greens",
+      "The course's total yardage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who commonly carries clubs and advises a professional golfer during a round?",
+    "choices": [
+      "A marshal",
+      "A groundskeeper",
+      "A caddie",
+      "A starter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which tournament is played each spring at Augusta National?",
+    "choices": [
+      "The Open Championship",
+      "The U.S. Open",
+      "The PGA Championship",
+      "The Masters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which major championship is traditionally played on courses in the United States and is run by the USGA?",
+    "choices": [
+      "The U.S. Open",
+      "The Masters",
+      "The Open Championship",
+      "The Players Championship"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which major is organized by the PGA of America?",
+    "choices": [
+      "The Masters",
+      "The PGA Championship",
+      "The U.S. Open",
+      "The Open Championship"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which major is also known simply as the Open Championship?",
+    "choices": [
+      "The U.S. Open",
+      "The PGA Championship",
+      "The British Open",
+      "The Masters"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which team competition traditionally pits golfers from the United States against Europe?",
+    "choices": [
+      "The Solheim Cup",
+      "The Presidents Cup",
+      "The Walker Cup",
+      "The Ryder Cup"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which women’s team event is played between the United States and Europe?",
+    "choices": [
+      "The Solheim Cup",
+      "The Ryder Cup",
+      "The Presidents Cup",
+      "The Curtis Cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which golfer is famous for winning 18 professional major championships?",
+    "choices": [
+      "Tiger Woods",
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Gary Player"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which golfer was widely known by the nickname Tiger?",
+    "choices": [
+      "Phil Mickelson",
+      "Tom Watson",
+      "Tiger Woods",
+      "Ernie Els"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which golfer was known as The King?",
+    "choices": [
+      "Jack Nicklaus",
+      "Sam Snead",
+      "Ben Hogan",
+      "Arnold Palmer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which golfer became one of the best-known women’s stars from Sweden?",
+    "choices": [
+      "Annika Sörenstam",
+      "Karrie Webb",
+      "Lorena Ochoa",
+      "Inbee Park"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which athlete won two track-and-field gold medals at the 1932 Olympics before becoming a major golfer?",
+    "choices": [
+      "Patty Berg",
+      "Babe Didrikson Zaharias",
+      "Louise Suggs",
+      "Mildred Zaharias"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which left-handed golfer won the Masters in 2004?",
+    "choices": [
+      "Bob Charles",
+      "Mike Weir",
+      "Phil Mickelson",
+      "Bubba Watson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which country is most closely associated with golf’s early development?",
+    "choices": [
+      "Brazil",
+      "Japan",
+      "Australia",
+      "Scotland"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Why do modern golf balls have dimples?",
+    "choices": [
+      "They help the ball fly more aerodynamically",
+      "They make the ball heavier than a solid sphere",
+      "They let the ball float on water",
+      "They identify the golfer’s handicap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Under the standard rules, what is the maximum number of clubs a player may carry?",
+    "choices": [
+      "10",
+      "14",
+      "18",
+      "21"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What does a golfer normally mean by shouting “fore”?",
+    "choices": [
+      "A claim that the hole is complete",
+      "A request for a new club",
+      "A warning that a ball may endanger someone",
+      "A signal to start a tournament"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does out of bounds mean for a golf ball?",
+    "choices": [
+      "It is closer to the hole than the flag",
+      "It is resting on the green",
+      "It has landed in a bunker",
+      "It lies outside the course boundary"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a links course traditionally associated with?",
+    "choices": [
+      "Open coastal land with natural terrain",
+      "A completely indoor layout",
+      "A course built only in a forest",
+      "A short course with no hazards"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which player won the 1997 Masters in a landmark victory?",
+    "choices": [
+      "David Duval",
+      "Tiger Woods",
+      "Ernie Els",
+      "Vijay Singh"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which golfer completed the modern single-season Grand Slam as an amateur in 1930?",
+    "choices": [
+      "Walter Hagen",
+      "Gene Sarazen",
+      "Bobby Jones",
+      "Harry Vardon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which golfer won the Open Championship in both 1961 and 1962?",
+    "choices": [
+      "Jack Nicklaus",
+      "Lee Trevino",
+      "Bobby Jones",
+      "Arnold Palmer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which nation did Gary Player represent?",
+    "choices": [
+      "South Africa",
+      "Canada",
+      "Spain",
+      "New Zealand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Mexican golfer became a leading women’s star in the 2000s?",
+    "choices": [
+      "Lydia Ko",
+      "Lorena Ochoa",
+      "Se Ri Pak",
+      "Juli Inkster"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is stroke play?",
+    "choices": [
+      "A format where every hole is a separate team match",
+      "A putting practice game",
+      "A format decided by the total score over the rounds",
+      "A competition only for amateurs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is match play?",
+    "choices": [
+      "A format decided only by driving distance",
+      "A round without a scorecard",
+      "A contest between golf clubs rather than players",
+      "A format in which holes are won, lost, or tied"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is the apron or fringe?",
+    "choices": [
+      "The closely cut grass surrounding a putting green",
+      "The deepest part of a bunker",
+      "The first tee’s waiting area",
+      "The clubhouse practice room"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a mulligan in casual golf?",
+    "choices": [
+      "A required penalty drop",
+      "An unofficial do-over shot",
+      "A type of putter",
+      "A tournament trophy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is the main purpose of a golf tee?",
+    "choices": [
+      "To mark a ball in a bunker",
+      "To repair a divot",
+      "To raise the ball for the opening shot",
+      "To measure the green"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is a divot?",
+    "choices": [
+      "A deep water hazard",
+      "A type of score under par",
+      "A club’s leather grip",
+      "A piece of turf displaced by a shot"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is the usual goal of a putt?",
+    "choices": [
+      "To roll the ball into the hole on the green",
+      "To send the ball out of bounds",
+      "To hit the longest drive",
+      "To escape a bunker with a wedge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which trophy is awarded to the winner of the Masters?",
+    "choices": [
+      "The Claret Jug",
+      "A green jacket",
+      "The Wanamaker Trophy",
+      "The U.S. Open trophy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the traditional nickname of the Open Championship trophy?",
+    "choices": [
+      "The Green Jacket",
+      "The Wanamaker Cup",
+      "The Claret Jug",
+      "The Ryder Bowl"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the official name of the PGA Championship trophy?",
+    "choices": [
+      "The Claret Jug",
+      "The Ryder Cup",
+      "The Havemeyer Trophy",
+      "The Wanamaker Trophy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who donated the trophy for the Ryder Cup?",
+    "choices": [
+      "Samuel Ryder",
+      "Karsten Solheim",
+      "Rodman Wanamaker",
+      "Dwight Eisenhower"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who donated the trophy for the Solheim Cup?",
+    "choices": [
+      "Samuel Ryder",
+      "Karsten Solheim",
+      "Rodman Wanamaker",
+      "Bobby Jones"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who won the first Masters Tournament in 1934?",
+    "choices": [
+      "Byron Nelson",
+      "Gene Sarazen",
+      "Horton Smith",
+      "Ben Hogan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which golfer first reached 18 men’s professional major titles?",
+    "choices": [
+      "Tiger Woods",
+      "Walter Hagen",
+      "Ben Hogan",
+      "Jack Nicklaus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the “Tiger Slam” commonly understood to mean?",
+    "choices": [
+      "Winning all four majors consecutively across two calendar years",
+      "Winning four majors in one calendar year",
+      "Winning the Masters four times in a row",
+      "Winning four Ryder Cups as captain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who made the famous double eagle on the 15th hole at the 1935 Masters?",
+    "choices": [
+      "Craig Wood",
+      "Gene Sarazen",
+      "Byron Nelson",
+      "Walter Hagen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which course is known as the Home of Golf?",
+    "choices": [
+      "Augusta National",
+      "Pebble Beach Golf Links",
+      "The Old Course at St Andrews",
+      "Royal Birkdale"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which holes form Augusta National’s famous Amen Corner?",
+    "choices": [
+      "The 7th, 8th, and 9th",
+      "The 15th, 16th, and 17th",
+      "The 1st, 2nd, and 3rd",
+      "The 11th, 12th, and 13th"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which hole at TPC Sawgrass is famous for its island green?",
+    "choices": [
+      "The 17th",
+      "The 1st",
+      "The 9th",
+      "The 18th"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which course’s seventh hole is a famously short seaside par three on the Monterey Peninsula?",
+    "choices": [
+      "Augusta National",
+      "Pebble Beach Golf Links",
+      "Pinehurst No. 2",
+      "Royal Troon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which organization shares responsibility for the modern Rules of Golf with the USGA?",
+    "choices": [
+      "The PGA Tour",
+      "The LPGA",
+      "The R&A",
+      "The European Tour board"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who won the 2016 Open Championship after a celebrated final-round duel with Phil Mickelson?",
+    "choices": [
+      "Dustin Johnson",
+      "Rory McIlroy",
+      "Justin Rose",
+      "Henrik Stenson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who won the 2019 Masters for his fifth major title?",
+    "choices": [
+      "Tiger Woods",
+      "Dustin Johnson",
+      "Brooks Koepka",
+      "Jordan Spieth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which player’s collapse at Carnoustie became the defining story of the 1999 Open Championship?",
+    "choices": [
+      "David Duval",
+      "Jean van de Velde",
+      "Greg Norman",
+      "Colin Montgomerie"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who defeated Rocco Mediate in a 2008 U.S. Open playoff?",
+    "choices": [
+      "Jim Furyk",
+      "Retief Goosen",
+      "Tiger Woods",
+      "Ernie Els"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What nickname is commonly given to Europe’s comeback at the 2012 Ryder Cup?",
+    "choices": [
+      "The Battle of Brookline",
+      "The War by the Shore",
+      "The Concession Cup",
+      "The Miracle at Medinah"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which golfer’s 1986 Masters victory included a famous final-round charge at age 46?",
+    "choices": [
+      "Jack Nicklaus",
+      "Tom Watson",
+      "Seve Ballesteros",
+      "Greg Norman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who won the 1977 Open Championship in the famous “Duel in the Sun”?",
+    "choices": [
+      "Jack Nicklaus",
+      "Tom Watson",
+      "Johnny Miller",
+      "Tom Kite"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which player became the first left-hander to win a men’s major by taking the 1963 Open Championship?",
+    "choices": [
+      "Phil Mickelson",
+      "Mike Weir",
+      "Bob Charles",
+      "Bubba Watson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which golfer became the first woman invited to play in the Masters Tournament, in 2003?",
+    "choices": [
+      "Karrie Webb",
+      "Juli Inkster",
+      "Se Ri Pak",
+      "Annika Sörenstam"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which LPGA founder won 11 major championships and helped establish the women’s professional tour?",
+    "choices": [
+      "Louise Suggs",
+      "Patty Berg",
+      "Betsy Rawls",
+      "Babe Didrikson Zaharias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which golfer won three consecutive majors in 2013, including the Women’s PGA Championship and U.S. Women’s Open?",
+    "choices": [
+      "Yani Tseng",
+      "Inbee Park",
+      "Lorena Ochoa",
+      "Shin Ji-yai"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which shot deliberately curves from right to left for a right-handed player?",
+    "choices": [
+      "A fade",
+      "A shank",
+      "A draw",
+      "A block"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does the bounce of a wedge describe?",
+    "choices": [
+      "The height of the ball after impact",
+      "The number of times a ball may bounce",
+      "The club’s spring-like shaft action",
+      "The sole’s angle that helps it resist digging into turf or sand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a provisional ball played for?",
+    "choices": [
+      "To save time if the original may be lost or out of bounds",
+      "To replace a ball that is already safely on the green",
+      "To earn a bonus point in match play",
+      "To test a new club before the round"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a four-ball format in team golf?",
+    "choices": [
+      "Partners alternate shots with one ball",
+      "Each partner plays their own ball and the side counts the better score",
+      "All four players share one caddie and one ball",
+      "The lowest individual score is discarded from every hole"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is foursomes, also called alternate-shot play?",
+    "choices": [
+      "Each partner plays two balls",
+      "Four players compete individually with no teams",
+      "Partners take turns playing one ball",
+      "Players alternate between putting and driving only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "In golf scoring, what is an albatross?",
+    "choices": [
+      "Two strokes over par on a hole",
+      "A hole completed in exactly par",
+      "A match won on the final hole",
+      "Three strokes under par on a hole"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a condor in golf terminology?",
+    "choices": [
+      "Four strokes under par on a hole",
+      "A score of four over par",
+      "A four-player match",
+      "A shot that lands in a bunker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does “dormie” mean in match play?",
+    "choices": [
+      "A player is one stroke from par",
+      "A player or side leads by as many holes as remain",
+      "The match has been postponed by rain",
+      "Both sides have holed out on the green"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a Stableford competition primarily based on?",
+    "choices": [
+      "The total yardage of drives",
+      "The number of bunkers avoided",
+      "Points awarded for scores relative to a target such as par",
+      "A knockout bracket after every hole"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which astronaut famously hit golf balls on the Moon during Apollo 14?",
+    "choices": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "John Glenn",
+      "Alan Shepard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which player completed a career Grand Slam twice first among men’s major champions?",
+    "choices": [
+      "Tiger Woods",
+      "Jack Nicklaus",
+      "Gary Player",
+      "Ben Hogan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Where was the first Open Championship played in 1860?",
+    "choices": [
+      "St Andrews Old Course",
+      "Prestwick Golf Club",
+      "Muirfield",
+      "Royal Troon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which golfer won the 2000 U.S. Open by a record 15 strokes?",
+    "choices": [
+      "Ernie Els",
+      "Retief Goosen",
+      "Tiger Woods",
+      "Phil Mickelson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which major did Tiger Woods win in 2001 to complete his career Grand Slam?",
+    "choices": [
+      "The Open Championship",
+      "The PGA Championship",
+      "The Players Championship",
+      "The Masters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which golfer won the 2011 U.S. Open at Congressional with a score of 16 under par?",
+    "choices": [
+      "Rory McIlroy",
+      "Luke Donald",
+      "Lee Westwood",
+      "Darren Clarke"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who won the inaugural U.S. Women’s Open in 1946?",
+    "choices": [
+      "Babe Didrikson Zaharias",
+      "Patty Berg",
+      "Louise Suggs",
+      "Betty Jameson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which golfer is credited with completing the LPGA’s career Super Slam by winning five different majors?",
+    "choices": [
+      "Annika Sörenstam",
+      "Inbee Park",
+      "Karrie Webb",
+      "Mickey Wright"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who designed the original strategic layout of Pinehurst No. 2?",
+    "choices": [
+      "Alister MacKenzie",
+      "A. W. Tillinghast",
+      "Tom Fazio",
+      "Donald Ross"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which course contains the famous Church Pews bunker?",
+    "choices": [
+      "Oakmont Country Club",
+      "Shinnecock Hills",
+      "Winged Foot",
+      "Bethpage Black"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the Road Hole traditionally called at St Andrews?",
+    "choices": [
+      "The 16th hole",
+      "The 17th hole",
+      "The 18th hole",
+      "The 12th hole"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which hole at Royal Troon is nicknamed the Postage Stamp?",
+    "choices": [
+      "The fifth",
+      "The eleventh",
+      "The eighth",
+      "The seventeenth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Under the modern Rules of Golf, how long does a player generally have to search for a lost ball?",
+    "choices": [
+      "One minute",
+      "Five minutes",
+      "Ten minutes",
+      "Three minutes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a concession in match play?",
+    "choices": [
+      "The opponent gives the player the next stroke or hole",
+      "A penalty for playing out of turn",
+      "A mandatory replay of the previous hole",
+      "A free club replacement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Since the 2019 Rules of Golf changes, what may a player generally choose to do with the flagstick while putting?",
+    "choices": [
+      "Remove it only before every putt",
+      "Leave it in the hole",
+      "Use it as a club alignment aid",
+      "Move it to any point on the green"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does stroke-and-distance normally require after a ball is lost or out of bounds?",
+    "choices": [
+      "Dropping beside the green without penalty",
+      "Replacing the ball at the nearest bunker",
+      "Adding a penalty stroke and playing again from the previous spot",
+      "Skipping the hole and taking par"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the nearest point of complete relief used to determine?",
+    "choices": [
+      "The location of the next tee",
+      "The center of the fairway",
+      "The best place to read a putt",
+      "The reference point for taking free relief from an abnormal course condition"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

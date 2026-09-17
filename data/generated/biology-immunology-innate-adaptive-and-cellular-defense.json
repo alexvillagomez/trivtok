@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which organ filters blood and helps remove aged blood cells and blood-borne microbes?",
+    "choices": [
+      "Spleen",
+      "Thymus",
+      "Pancreas",
+      "Gallbladder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a major immune function of lymph nodes?",
+    "choices": [
+      "They produce digestive bile",
+      "They filter lymph and provide sites for immune-cell encounters",
+      "They pump oxygenated blood",
+      "They store urinary waste"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Where are most blood-cell precursors, including many immune-cell precursors, produced?",
+    "choices": [
+      "Thyroid follicles",
+      "Skeletal muscle",
+      "Bone marrow",
+      "The gallbladder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which is an example of a physical innate immune barrier?",
+    "choices": [
+      "A memory B cell",
+      "A plasma-cell antibody",
+      "A rearranged T-cell receptor",
+      "Intact skin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "How do airway cilia help defend the respiratory tract?",
+    "choices": [
+      "They move mucus and trapped particles toward the throat",
+      "They produce circulating antibodies",
+      "They rearrange antigen-receptor genes",
+      "They destroy every red blood cell nearby"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is fever generally considered to be during an infection?",
+    "choices": [
+      "An uncontrolled rise caused only by dehydration",
+      "A regulated increase in body-temperature set point",
+      "A form of antibody",
+      "A permanent loss of immune memory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What change in local blood vessels contributes to the redness and warmth of acute inflammation?",
+    "choices": [
+      "Vasoconstriction",
+      "Clot dissolution",
+      "Vasodilation",
+      "Lymphocyte gene rearrangement"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which mediator is well known for increasing vascular permeability during many immediate inflammatory responses?",
+    "choices": [
+      "Hemoglobin",
+      "Insulin",
+      "Bilirubin",
+      "Histamine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a common first-line function of neutrophils at an acute bacterial infection?",
+    "choices": [
+      "Phagocytosing microbes and releasing antimicrobial products",
+      "Producing long-term antibody memory",
+      "Maturing inside the thymus",
+      "Secreting digestive bile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is a macrophage's central defensive activity?",
+    "choices": [
+      "Producing red-cell hemoglobin",
+      "Engulfing particles and coordinating local immune responses",
+      "Making thyroid hormone",
+      "Generating skeletal muscle contraction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What can natural killer cells recognize and destroy without the same antigen-specific receptor rearrangement used by T cells?",
+    "choices": [
+      "Only free antibodies",
+      "Only mature red blood cells",
+      "Some stressed or infected host cells",
+      "Unrelated dietary proteins in the intestine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is an antigen?",
+    "choices": [
+      "A hormone that raises blood glucose",
+      "A cell that carries oxygen",
+      "A vessel that transports lymph",
+      "A substance or molecular feature that can be specifically recognized by immune receptors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is an epitope?",
+    "choices": [
+      "The specific part of an antigen recognized by an antibody or receptor",
+      "The entire lymphatic organ containing a lymphocyte",
+      "A complement protein that makes pores",
+      "A type of immune-cell nucleus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is the principal role of a plasma cell?",
+    "choices": [
+      "Engulfing all nearby bacteria",
+      "Secreting large quantities of antibody",
+      "Maturing T cells in the thymus",
+      "Producing platelets in blood"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How can an antibody neutralize a toxin or virus?",
+    "choices": [
+      "It converts the toxin into a red blood cell",
+      "It removes every cytokine from circulation",
+      "It binds a functional site and blocks attachment or activity",
+      "It changes the pathogen's DNA directly in all cases"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which antibody class is especially associated with secretions at mucosal surfaces?",
+    "choices": [
+      "IgD",
+      "IgE",
+      "IgG4",
+      "IgA"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which antibody class is commonly the first major class secreted in a primary response?",
+    "choices": [
+      "IgM",
+      "IgA",
+      "IgE",
+      "IgG2"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which antibody class can cross the human placenta during pregnancy?",
+    "choices": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgD"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which cells commonly release histamine after activation in an immediate hypersensitivity response?",
+    "choices": [
+      "Erythrocytes",
+      "Osteoclasts",
+      "Mast cells",
+      "Hepatocytes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a major role of CD4-positive helper T cells?",
+    "choices": [
+      "Directly carrying oxygen to tissues",
+      "Producing complement in the liver only",
+      "Forming the skin's keratin barrier",
+      "Coordinating other immune cells through contact and cytokines"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is a major role of CD8-positive cytotoxic T cells?",
+    "choices": [
+      "Killing infected or abnormal host cells after specific recognition",
+      "Secreting antibodies into the intestine",
+      "Producing mucus in the airway",
+      "Filtering aged platelets in the spleen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Why can a booster immunization produce a faster response than a first exposure?",
+    "choices": [
+      "The booster bypasses all antigen recognition",
+      "Prior exposure left antigen-specific memory cells",
+      "Innate barriers disappear after first exposure",
+      "Every lymphocyte becomes specific for the same antigen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is an adjuvant added to some vaccines intended to do?",
+    "choices": [
+      "Act as the antigen's permanent antibody",
+      "Replace the need for antigen presentation",
+      "Enhance the immune response to the vaccine antigen",
+      "Prevent all inflammation at the injection site"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is one trade-off of a live-attenuated vaccine compared with an inactivated vaccine?",
+    "choices": [
+      "It contains no antigen at all",
+      "It cannot stimulate cellular immunity",
+      "It must always be delivered through the lungs",
+      "It can mimic some features of natural infection but may be unsuitable for some immunocompromised recipients"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is autoimmunity?",
+    "choices": [
+      "An immune response directed against the body's own components",
+      "A response directed only against pollen",
+      "The normal production of red blood cells",
+      "The transfer of antibodies across a placenta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What broad problem defines an immunodeficiency?",
+    "choices": [
+      "The immune system responds too strongly to harmless antigens only",
+      "One or more immune defenses are absent or function inadequately",
+      "A pathogen has acquired antibody memory",
+      "A lymph node has become a bone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is transplant rejection?",
+    "choices": [
+      "A failure of a donor organ to receive oxygen during shipping only",
+      "A viral mutation inside every graft",
+      "An immune response that recognizes graft tissue as sufficiently foreign to attack it",
+      "A process that occurs only between identical twins"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is chemotaxis in an inflammatory response?",
+    "choices": [
+      "Random division of antibodies in plasma",
+      "Constriction of every nearby blood vessel",
+      "The conversion of an antigen into a hormone",
+      "Directed movement of immune cells along a chemical concentration gradient"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is phagocytosis?",
+    "choices": [
+      "Cellular engulfment of particles into an internal vesicle",
+      "Antibody gene recombination in bone marrow",
+      "Release of hormones from an endocrine gland",
+      "Opening of a nuclear pore by a virus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is a pattern-recognition receptor (PRR) designed to detect?",
+    "choices": [
+      "Only one unique epitope generated after vaccination",
+      "Conserved molecular patterns associated with microbes or tissue damage",
+      "A person's blood type on a red cell",
+      "The electrical activity of a neuron"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does a Toll-like receptor generally recognize?",
+    "choices": [
+      "A self-antibody's constant region only",
+      "A hormone binding site on a kidney cell",
+      "A conserved microbial or damage-associated molecular pattern",
+      "A mature red-cell nucleus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is clonal selection in adaptive immunity?",
+    "choices": [
+      "Every lymphocyte receives the same receptor after infection",
+      "Only innate cells divide during inflammation",
+      "Antibodies select which organs receive blood",
+      "Antigen selects lymphocytes with matching receptors to proliferate and differentiate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What fluid does the lymphatic system return to the bloodstream?",
+    "choices": [
+      "Excess interstitial fluid and transported lymph",
+      "Bile from the liver",
+      "Air from the lungs",
+      "Cerebrospinal fluid from every neuron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is herd immunity at a population level?",
+    "choices": [
+      "Complete immunity of every individual in a population",
+      "Reduced transmission when enough individuals are immune to limit chains of spread",
+      "A response produced only by innate barriers",
+      "A treatment that removes every pathogen from the environment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which feature most clearly distinguishes adaptive immunity from innate immunity?",
+    "choices": [
+      "Immediate response using only physical barriers",
+      "Recognition limited to conserved microbial patterns",
+      "Highly specific receptors generated for diverse antigens and improved recall",
+      "The absence of lymphocytes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does opsonization do to a microbe?",
+    "choices": [
+      "Turns it into an antibody-producing cell",
+      "Prevents any complement protein from binding",
+      "Causes it to become a host chromosome",
+      "Coats it with molecules that make phagocytic recognition more efficient"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is a principal benefit of immunological memory?",
+    "choices": [
+      "A later encounter can trigger a larger or faster antigen-specific response",
+      "It makes innate barriers unnecessary",
+      "It causes all antibodies to recognize every antigen",
+      "It permanently activates every T cell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What generally happens during resolution of acute inflammation?",
+    "choices": [
+      "Every immune cell permanently remains at the site",
+      "Inflammatory signals decline and repair or clearance processes become dominant",
+      "Antigen receptors are removed from all lymphocytes",
+      "The complement system becomes irreversibly active"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which cell type is especially specialized for capturing antigen in tissues and initiating naïve T-cell responses?",
+    "choices": [
+      "Platelet",
+      "Erythrocyte",
+      "Dendritic cell",
+      "Adipocyte"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is mucosal immunity primarily concerned with protecting?",
+    "choices": [
+      "Only the interior of bone marrow",
+      "The lens of the eye from light",
+      "The electrical conduction system of the heart",
+      "Epithelial surfaces exposed to the external environment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the membrane attack complex (MAC) of complement designed to do?",
+    "choices": [
+      "Form pores in susceptible target membranes",
+      "Rearrange T-cell receptor genes",
+      "Transport antibodies through the placenta",
+      "Generate red-cell iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a common antiviral effect of type I interferons?",
+    "choices": [
+      "They directly digest every virus particle in blood",
+      "They induce an antiviral state in nearby cells and alter immune signaling",
+      "They become antibodies after secretion",
+      "They prevent all antigen presentation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which MHC class normally displays peptides derived from proteins made inside a cell?",
+    "choices": [
+      "MHC class II",
+      "MHC class III only",
+      "MHC class I",
+      "Immunoglobulin M"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which MHC class normally displays peptides derived from material taken up from outside a cell?",
+    "choices": [
+      "MHC class I",
+      "The antibody constant region",
+      "The complement membrane complex",
+      "MHC class II"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is cross-presentation?",
+    "choices": [
+      "Presentation of an external antigen on MHC class I to prime CD8 T cells",
+      "Display of every internal peptide on MHC class II only",
+      "Binding of two antibodies to the same constant region",
+      "Transfer of a mature T cell into the thymus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the role of the TAP transporter in MHC class I antigen processing?",
+    "choices": [
+      "It transports antibodies out of plasma cells",
+      "It moves cytosolic peptides into the endoplasmic reticulum for MHC I loading",
+      "It carries extracellular proteins into lysosomes for MHC II",
+      "It cleaves complement C3 in the bloodstream"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the purpose of the invariant chain and CLIP during MHC class II assembly?",
+    "choices": [
+      "They move MHC I peptides into the nucleus",
+      "They activate the membrane attack complex directly",
+      "They protect the MHC II binding groove until endosomal peptide loading",
+      "They provide the variable region of an antibody"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does positive selection in the thymic cortex test in developing T cells?",
+    "choices": [
+      "Whether they secrete high-affinity antibody",
+      "Whether they can bind every self antigen",
+      "Whether they have already encountered a pathogen",
+      "Whether their receptors can recognize self-MHC sufficiently to be useful"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the main purpose of negative selection during T-cell development?",
+    "choices": [
+      "Removing cells that react too strongly to self antigens",
+      "Selecting cells that cannot bind any MHC",
+      "Making every T cell secrete IgM",
+      "Activating complement on thymic epithelium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the role of the AIRE transcription factor in central tolerance?",
+    "choices": [
+      "It rearranges antibody heavy chains in plasma cells",
+      "It promotes thymic expression of tissue-restricted antigens for developing T-cell screening",
+      "It forms pores in microbial membranes",
+      "It inhibits every cytokine in a lymph node"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What genetic process creates much of the initial diversity of B-cell and T-cell antigen receptors?",
+    "choices": [
+      "RNA splicing of complement proteins only",
+      "Mitochondrial fission",
+      "V(D)J recombination",
+      "Chromosome duplication without rearrangement"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the role of terminal deoxynucleotidyl transferase (TdT) in lymphocyte development?",
+    "choices": [
+      "It removes every mutation from antigen receptors",
+      "It cleaves antibody-antigen complexes in plasma",
+      "It transports peptides into the endoplasmic reticulum",
+      "It adds non-templated nucleotides at receptor gene junctions, increasing diversity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does allelic exclusion help ensure in a mature B cell?",
+    "choices": [
+      "Most of its surface B-cell receptors have one antigen-binding specificity",
+      "It expresses every possible antibody specificity at once",
+      "It cannot produce a heavy chain",
+      "It displays only MHC class II without immunoglobulin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which enzyme is central to antibody class-switch recombination and somatic hypermutation?",
+    "choices": [
+      "DNA polymerase I only",
+      "Activation-induced cytidine deaminase (AID)",
+      "Caspase-1",
+      "Myeloperoxidase"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What changes during antibody class-switch recombination?",
+    "choices": [
+      "The antigen-binding variable region is always replaced with a random one",
+      "The antibody becomes a T-cell receptor",
+      "The heavy-chain constant region and antibody effector class change while antigen specificity is retained",
+      "The light chain is converted into complement C3"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is somatic hypermutation in an activated B-cell response?",
+    "choices": [
+      "Random mutation of every gene in a plasma cell",
+      "Mutation of MHC genes only in red blood cells",
+      "A process that removes all antigen receptors",
+      "Targeted mutation of immunoglobulin variable genes that can enable higher-affinity variants"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is affinity maturation?",
+    "choices": [
+      "Selection of B-cell clones whose antibodies bind antigen more strongly over a response",
+      "Conversion of all IgM into IgA without selection",
+      "The first expression of a T-cell receptor in the thymus",
+      "The nonspecific activation of every complement pathway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a germinal center in a lymphoid follicle?",
+    "choices": [
+      "A region where neutrophils mature from stem cells",
+      "A site where activated B cells proliferate, mutate receptors, and undergo selection",
+      "A chamber where complement is synthesized",
+      "A structure found only in the bone cortex"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which T-cell subset provides key help to B cells inside germinal centers?",
+    "choices": [
+      "Naïve regulatory-free CD8 cells",
+      "Natural killer cells",
+      "T follicular helper cells",
+      "Eosinophils"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does CD28 on a naïve T cell bind to provide a classic costimulatory signal?",
+    "choices": [
+      "The Fc region of IgG on a red blood cell",
+      "C3b on a bacterial capsule only",
+      "CLIP in an endosomal vesicle",
+      "B7 molecules such as CD80 or CD86 on an antigen-presenting cell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a likely consequence when a naïve T cell recognizes peptide-MHC without adequate costimulation?",
+    "choices": [
+      "Functional unresponsiveness called anergy can result",
+      "Immediate class switching to IgE",
+      "Formation of a membrane attack complex",
+      "Uncontrolled antibody secretion by the T cell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is one immunological role of CTLA-4?",
+    "choices": [
+      "It transports peptides into the endoplasmic reticulum",
+      "It dampens T-cell activation by competing with CD28 for B7 ligands",
+      "It cleaves IgM into IgG",
+      "It forms the pore of the complement MAC"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does PD-1 signaling generally do to an activated T cell when its ligands engage the receptor?",
+    "choices": [
+      "It forces the cell to switch antibody classes",
+      "It activates the alternative complement pathway directly",
+      "It reduces T-cell signaling and can promote an exhausted or restrained state",
+      "It converts the T cell into a neutrophil"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which complement pathway is initiated when C1q recognizes antibody bound to antigen?",
+    "choices": [
+      "Alternative pathway",
+      "Lectin pathway",
+      "Mitochondrial pathway",
+      "Classical pathway"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What initiates the lectin complement pathway?",
+    "choices": [
+      "Pattern-recognition molecules such as mannose-binding lectin binding microbial sugars",
+      "IgE binding to a mast-cell receptor",
+      "A T-cell receptor binding MHC I",
+      "A virus entering the nucleus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is distinctive about initiation of the alternative complement pathway?",
+    "choices": [
+      "It requires antigen-specific IgE",
+      "It can begin through spontaneous C3 activation and amplification on suitable microbial surfaces",
+      "It begins only after T-cell receptor rearrangement",
+      "It is triggered exclusively by mannose-binding lectin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a key common function of complement C3 convertases?",
+    "choices": [
+      "They rearrange immunoglobulin genes",
+      "They load peptides onto MHC class II",
+      "They cleave C3 into fragments that amplify opsonization and downstream complement activity",
+      "They prevent all leukocyte migration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which complement fragment is especially associated with strong chemoattraction and inflammatory activation?",
+    "choices": [
+      "C1 inhibitor",
+      "C4 binding protein",
+      "Factor H",
+      "C5a"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which cytokine is a major autocrine growth signal for activated T cells?",
+    "choices": [
+      "Interleukin-2",
+      "Interleukin-10 only",
+      "Erythropoietin",
+      "Thrombopoietin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which cytokine combination is strongly associated with fever and systemic inflammatory signaling?",
+    "choices": [
+      "IL-4 and IL-5 only",
+      "IL-1 and TNF",
+      "Erythropoietin and insulin",
+      "TGF-β and melatonin only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which helper-T-cell cytokine environment is classically associated with promoting IgE class switching?",
+    "choices": [
+      "IL-2 absence alone",
+      "IFN-α blockade",
+      "IL-4-dominant signaling",
+      "C5b-9 release"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a characteristic function of IL-17-family signaling in host defense?",
+    "choices": [
+      "Inducing antibody class switching without B cells",
+      "Loading peptides into MHC class I in the ER",
+      "Dissolving immune complexes in the kidney",
+      "Recruiting and supporting neutrophil-centered responses at barrier tissues"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a characteristic effect of interferon-gamma on macrophages?",
+    "choices": [
+      "It activates macrophage microbicidal functions and promotes cell-mediated immunity",
+      "It converts macrophages into plasma cells",
+      "It blocks all MHC expression",
+      "It forms antibody pores in bacterial membranes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is an inflammasome?",
+    "choices": [
+      "A membrane receptor that binds every antibody class",
+      "A cytosolic multiprotein platform that activates inflammatory caspases in response to danger signals",
+      "A thymic structure that performs positive selection",
+      "A bone-marrow compartment that stores mature neutrophils"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is pyroptosis?",
+    "choices": [
+      "A noninflammatory process of antibody secretion",
+      "A form of T-cell positive selection",
+      "An inflammatory form of programmed cell death associated with pore formation and cytokine release",
+      "A complement-independent method of antigen presentation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is peripheral tolerance intended to prevent?",
+    "choices": [
+      "Any response to a pathogen outside lymph nodes",
+      "Antibody secretion after vaccination",
+      "All innate recognition of microbial patterns",
+      "Activation of self-reactive lymphocytes that escaped central tolerance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which transcription factor is strongly associated with regulatory T-cell development and function?",
+    "choices": [
+      "FOXP3",
+      "AID",
+      "RAG1",
+      "T-bet-free hemoglobin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What defines a type I hypersensitivity reaction mechanistically?",
+    "choices": [
+      "IgG immune-complex deposition only",
+      "Rapid IgE-dependent activation of mast cells after re-exposure",
+      "Delayed cytotoxic T-cell recruitment only",
+      "Antibody-independent complement deficiency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the central mechanism of type III hypersensitivity?",
+    "choices": [
+      "IgE cross-linking on mast cells only",
+      "Direct CD8 killing of infected cells only",
+      "Deposition of antigen-antibody immune complexes that trigger inflammation",
+      "Failure of thymic positive selection"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the defining effector mechanism of type IV hypersensitivity?",
+    "choices": [
+      "Immediate IgE-mediated mast-cell degranulation",
+      "Complement pores formed without lymphocytes",
+      "IgM crossing the placenta",
+      "A delayed, T-cell-mediated inflammatory response"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is immune privilege?",
+    "choices": [
+      "A relative limitation or special regulation of immune responses in sites such as the eye or brain",
+      "Permanent immunity of every cell in a tissue",
+      "The ability of every antigen to evade antibodies",
+      "A state in which no leukocyte can enter the blood"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is graft-versus-host disease?",
+    "choices": [
+      "The recipient's antibodies attack only donor red cells before transplant",
+      "Donor immune cells attack recipient tissues after an allogeneic transplant",
+      "A graft loses blood flow because of dehydration",
+      "A pathogen attacks a graft without any immune participation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a hybridoma used to produce?",
+    "choices": [
+      "A mixed population of unrelated T cells for transplantation",
+      "A complement enzyme made in red blood cells",
+      "A continuous source of monoclonal antibody from a fused B-cell and myeloma lineage",
+      "A vaccine made only from live bacteria"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What can flow cytometry reveal in an immunology experiment?",
+    "choices": [
+      "The exact three-dimensional structure of every antibody",
+      "The nucleotide sequence of a whole genome without sequencing",
+      "Only the blood pressure of a donor",
+      "Cell populations and marker expression using fluorescently labeled probes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does an ELISA commonly measure?",
+    "choices": [
+      "A target antigen or antibody through enzyme-linked detection",
+      "The speed of T-cell migration through tissue",
+      "The electrical potential of a neuron",
+      "The shape of a whole lymph node without imaging"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a neutralization assay designed to test?",
+    "choices": [
+      "Whether a lymphocyte has a nucleus",
+      "Whether antibodies or other factors block a pathogen or toxin's functional activity",
+      "Whether complement genes have undergone V(D)J recombination",
+      "Whether a vaccine contains any water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a common immune role of the tonsils?",
+    "choices": [
+      "Filtering urine before it leaves the body",
+      "Producing red-cell hemoglobin",
+      "Sampling material entering through the mouth and nose",
+      "Storing bile for digestion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which leukocyte is especially associated with defense against many parasitic worms?",
+    "choices": [
+      "Monocyte",
+      "Basophil",
+      "Platelet",
+      "Eosinophil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which circulating granulocyte can release histamine and other inflammatory mediators?",
+    "choices": [
+      "Basophil",
+      "Neutrophil",
+      "Erythrocyte",
+      "Reticulocyte"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a cytokine?",
+    "choices": [
+      "A membrane lipid that stores genetic information",
+      "A signaling protein that influences the behavior of cells",
+      "A red-cell pigment that binds oxygen",
+      "A mineral component of bone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is clonal expansion?",
+    "choices": [
+      "Destruction of every lymphocyte in a lymph node",
+      "Fusion of a B cell with a red blood cell",
+      "Rapid proliferation of an antigen-selected lymphocyte clone",
+      "Release of all antibodies from the thymus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is passive immunity?",
+    "choices": [
+      "Protection that always lasts longer than immune memory",
+      "An immune response produced only by neutrophils",
+      "The absence of all antibodies in blood",
+      "Protection provided by transferred antibodies rather than the recipient making them"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is the usual specificity relationship between an antibody and its antigen?",
+    "choices": [
+      "Their binding sites have complementary molecular features",
+      "Any antibody binds every antigen equally",
+      "Antigen binding requires no molecular complementarity",
+      "Only the antibody's constant region contacts antigen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What largely causes swelling during acute inflammation?",
+    "choices": [
+      "Red blood cells leave vessels to form new bone",
+      "Increased vascular leakage allows fluid to enter surrounding tissue",
+      "Antibodies remove all interstitial fluid",
+      "Lymphocytes convert plasma into cartilage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Why do peptides presented by MHC class I and class II often differ in length?",
+    "choices": [
+      "MHC I binds only carbohydrates while MHC II binds only lipids",
+      "Class I is found only in antibodies and class II only in complement",
+      "Their peptide-binding grooves have different structures and loading constraints",
+      "Both classes always bind identical peptide lengths"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the function of an Fc receptor on an immune cell?",
+    "choices": [
+      "It rearranges the variable region of every antibody",
+      "It transports MHC peptides into the nucleus",
+      "It forms the lipid bilayer of a pathogen",
+      "It binds the constant region of an antibody and can trigger an effector response"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which complement fragment primarily acts as an opsonin rather than a strong soluble chemoattractant?",
+    "choices": [
+      "C3b",
+      "C5a",
+      "C3a",
+      "C4a"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does the secretory component of polymeric IgA help accomplish?",
+    "choices": [
+      "It converts IgA into an MHC molecule",
+      "It helps transport and protect IgA across epithelial mucosal surfaces",
+      "It activates T-cell receptor recombination",
+      "It forms the pore of the complement MAC"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a conventional T-cell receptor usually recognize?",
+    "choices": [
+      "An intact soluble toxin without any presenting molecule",
+      "Only the Fc region of a circulating antibody",
+      "A peptide presented by an MHC molecule rather than free antigen alone",
+      "A complement pore embedded in a bacterium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Compared with a primary response, what commonly characterizes a secondary antibody response?",
+    "choices": [
+      "Exclusive production of naïve B cells with no memory",
+      "Loss of every antigen-specific clone",
+      "A response that cannot involve germinal centers",
+      "Faster production of antibodies that often have greater affinity and switched isotypes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  }
+]

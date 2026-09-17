@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which body wave is fastest through a solid Earth volume?",
+    "choices": [
+      "P wave",
+      "S wave",
+      "Rayleigh wave",
+      "Love wave"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which wave motion is primarily transverse?",
+    "choices": [
+      "P wave",
+      "S wave",
+      "Sound wave",
+      "Pressure pulse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What does an earthquake focus (hypocenter) identify?",
+    "choices": [
+      "Surface rupture length",
+      "Surface shaking map",
+      "Underground rupture origin",
+      "Largest aftershock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is the epicenter?",
+    "choices": [
+      "Deepest rupture point",
+      "Nearest plate boundary",
+      "Strongest instrument site",
+      "Surface point above the focus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which fault motion is characteristic of a normal fault?",
+    "choices": [
+      "Hanging wall moves down",
+      "Hanging wall moves up",
+      "Blocks slide horizontally only",
+      "Blocks rotate without slip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which fault motion is characteristic of a reverse fault?",
+    "choices": [
+      "Hanging wall moves down",
+      "Hanging wall moves up",
+      "Only the footwall moves",
+      "Only the surface bends"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What quantity describes earthquake energy release logarithmically?",
+    "choices": [
+      "Intensity",
+      "Period",
+      "Magnitude",
+      "Azimuth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does intensity describe at a particular place?",
+    "choices": [
+      "Rupture area",
+      "Radiated frequency",
+      "Hypocenter depth",
+      "Observed effects and shaking"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which instrument records ground motion versus time?",
+    "choices": [
+      "Seismograph",
+      "Barometer",
+      "Gravimeter",
+      "Thermometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which instrument measures peak ground acceleration directly?",
+    "choices": [
+      "Magnetometer",
+      "Strong-motion accelerometer",
+      "Tide gauge",
+      "Strain-free compass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Why do P waves arrive before S waves?",
+    "choices": [
+      "They travel farther",
+      "They have larger amplitudes",
+      "They travel faster",
+      "They reflect less often"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which wave can travel through liquids?",
+    "choices": [
+      "S wave",
+      "Love wave",
+      "Rayleigh wave",
+      "P wave"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is an aftershock?",
+    "choices": [
+      "A later event near the rupture",
+      "A foreshock before rupture",
+      "A tidal disturbance",
+      "A volcanic tremor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is a foreshock defined by?",
+    "choices": [
+      "A wave reflected at the surface",
+      "An event later reclassified before a mainshock",
+      "A small induced tremor",
+      "A deep mantle earthquake"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which boundary type commonly hosts megathrust earthquakes?",
+    "choices": [
+      "Divergent ridge",
+      "Transform boundary",
+      "Convergent subduction boundary",
+      "Hotspot plume"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is fault slip?",
+    "choices": [
+      "Duration of shaking",
+      "Distance to an epicenter",
+      "Change in wave period",
+      "Relative displacement across a fault"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which material property most directly controls seismic wave speed?",
+    "choices": [
+      "Elastic moduli and density",
+      "Color and albedo",
+      "Grain shape alone",
+      "Magnetic declination"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What usually happens to seismic amplitude with distance?",
+    "choices": [
+      "It always doubles",
+      "It generally decreases",
+      "It becomes independent of frequency",
+      "It becomes a static offset only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which scale classifies earthquake effects using Roman numerals?",
+    "choices": [
+      "Moment magnitude scale",
+      "Richter energy scale",
+      "Modified Mercalli scale",
+      "Beaufort scale"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a seismic station's three-component sensor designed to record?",
+    "choices": [
+      "Three temperature gradients",
+      "Three fault ages",
+      "Three wave sources",
+      "Three orthogonal ground motions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What does a travel-time curve relate?",
+    "choices": [
+      "Arrival time to source distance",
+      "Magnitude to intensity",
+      "Slip to fault color",
+      "Depth to weather"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which earthquake phase is a surface wave?",
+    "choices": [
+      "P",
+      "Love",
+      "S",
+      "PKP"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is liquefaction most likely to affect?",
+    "choices": [
+      "Dry crystalline bedrock",
+      "Cold upper mantle",
+      "Water-saturated loose sediment",
+      "Unfractured granite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does a seismogram's first arrival usually help determine?",
+    "choices": [
+      "Fault mineralogy",
+      "Tsunami salinity",
+      "Plate age",
+      "Station-source distance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which parameter combines fault area, slip, and rigidity?",
+    "choices": [
+      "Seismic moment",
+      "Local intensity",
+      "Corner period",
+      "Quality factor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How does moment magnitude differ from a saturated local magnitude?",
+    "choices": [
+      "It uses only felt reports",
+      "It uses seismic moment",
+      "It ignores fault area",
+      "It measures wave color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What does a Wadati-Benioff zone represent?",
+    "choices": [
+      "A surface-wave interference band",
+      "A volcanic ash layer",
+      "A dipping zone of deep earthquakes",
+      "A mid-ocean ridge crack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which mechanism best describes a strike-slip earthquake?",
+    "choices": [
+      "Pure vertical collapse",
+      "Radial implosion",
+      "Thermal expansion",
+      "Horizontal motion along strike"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What does the fault rake angle describe?",
+    "choices": [
+      "Slip direction within the fault plane",
+      "Fault depth below sea level",
+      "Wave frequency at origin",
+      "Station elevation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What do the two nodal planes in a focal mechanism signify?",
+    "choices": [
+      "Two separate earthquakes",
+      "Two possible fault planes",
+      "Two magnitude scales",
+      "Two crustal layers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What do P-wave first-motion polarities constrain?",
+    "choices": [
+      "Only station elevation",
+      "Only sediment thickness",
+      "Radiation quadrants and focal mechanism",
+      "Tsunami travel speed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Why are S waves absent through Earth's outer core?",
+    "choices": [
+      "The outer core is colder",
+      "S waves are too slow",
+      "The mantle absorbs all S waves",
+      "The outer core is liquid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What creates a P-wave shadow zone?",
+    "choices": [
+      "Strong refraction at the core boundary",
+      "Surface scattering alone",
+      "Instrument clipping",
+      "Tidal loading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is attenuation quality factor Q used to describe?",
+    "choices": [
+      "Fault orientation",
+      "Anelastic energy loss",
+      "Station spacing",
+      "Earthquake count"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which effect causes high frequencies to diminish preferentially with distance?",
+    "choices": [
+      "Isostatic rebound",
+      "Static friction",
+      "Frequency-dependent attenuation",
+      "Core convection"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is site amplification?",
+    "choices": [
+      "Global increase in magnitude",
+      "Faster mantle propagation",
+      "A larger fault area",
+      "Local increase of shaking from near-surface conditions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Why can soft sediment amplify shaking?",
+    "choices": [
+      "Its low impedance and resonance can increase motion",
+      "It prevents all wave reflection",
+      "It eliminates surface waves",
+      "It raises mantle density"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does a receiver function commonly image?",
+    "choices": [
+      "Daily weather fronts",
+      "Sharp seismic discontinuities beneath a station",
+      "Fault slip during drilling",
+      "Ocean salinity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is earthquake triangulation based on?",
+    "choices": [
+      "One station's amplitude only",
+      "Cloud patterns",
+      "Distances inferred at multiple stations",
+      "Magnetic pole position"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Why are at least three stations useful for epicenter location?",
+    "choices": [
+      "They increase earthquake magnitude",
+      "They remove all noise",
+      "They measure only S waves",
+      "Their distance circles can intersect"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is hypocenter depth especially sensitive to in routine location?",
+    "choices": [
+      "Velocity-model errors and station geometry",
+      "Moon phase only",
+      "Rainfall totals",
+      "Surface color"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does double-difference relocation emphasize?",
+    "choices": [
+      "Absolute gravity values",
+      "Relative arrival-time differences between nearby events",
+      "Tsunami wave heights",
+      "Global plate speed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is an earthquake catalog completeness magnitude?",
+    "choices": [
+      "The largest possible magnitude",
+      "The median intensity",
+      "The lowest magnitude reliably detected",
+      "The fault's rake"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which phenomenon can trigger seismicity by changing effective stress?",
+    "choices": [
+      "Sunrise",
+      "Cloud cover",
+      "Magnetic declination",
+      "Fluid injection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "How does pore pressure affect effective normal stress?",
+    "choices": [
+      "It reduces effective normal stress",
+      "It always increases friction",
+      "It removes shear stress",
+      "It changes rock color"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What distinguishes induced seismicity from tectonic seismicity?",
+    "choices": [
+      "It occurs only in oceans",
+      "Human operations contribute to stress changes",
+      "It has no aftershocks",
+      "It cannot exceed magnitude two"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is a slow-slip event?",
+    "choices": [
+      "A very small surface wave",
+      "A rapidly rupturing microfault",
+      "Aseismic or weakly seismic fault slip over days to months",
+      "A core phase"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does tremor commonly refer to in subduction zones?",
+    "choices": [
+      "A single impulsive P arrival",
+      "Surface fault scarp growth",
+      "A gravity anomaly",
+      "Long-duration, low-frequency seismic signals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a seismic gap hypothesis?",
+    "choices": [
+      "An unruptured segment expected to have accumulated strain",
+      "A missing station in a network",
+      "A frequency band without waves",
+      "A gap between core phases"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does Coulomb stress transfer estimate?",
+    "choices": [
+      "How waves change color",
+      "How one rupture changes failure tendency nearby",
+      "How magma cools",
+      "How stations drift"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which factor increases Coulomb failure tendency on a receiver fault?",
+    "choices": [
+      "Higher confining stress only",
+      "Lower pore pressure with unchanged shear",
+      "Favorable shear stress with reduced effective normal stress",
+      "A shorter recording window"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is rupture directivity?",
+    "choices": [
+      "A station's compass error",
+      "A fault's dip direction only",
+      "A wave's polarization at rest",
+      "Directional concentration of seismic radiation from a propagating rupture"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Why can a unilateral rupture produce stronger motion ahead of the rupture?",
+    "choices": [
+      "Wavefronts arrive coherently through directivity",
+      "The fault is always vertical",
+      "P waves stop behind it",
+      "The hypocenter becomes shallower"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What does a corner frequency help estimate?",
+    "choices": [
+      "Station latitude only",
+      "Source size and stress drop with a source model",
+      "Core radius directly",
+      "Intensity Roman numeral"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which observation best constrains earthquake stress drop?",
+    "choices": [
+      "Epicenter name alone",
+      "One felt report",
+      "Modeled source spectrum and corner frequency",
+      "Surface temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What does seismic tomography invert?",
+    "choices": [
+      "Intensity reports for rainfall",
+      "Fault maps for magnetic field",
+      "Wave amplitudes for latitude only",
+      "Travel-time data for three-dimensional velocity structure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a major nonuniqueness in tomography?",
+    "choices": [
+      "Different velocity models can fit finite, noisy data",
+      "Every station has identical noise",
+      "P waves cannot refract",
+      "The core has no boundary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does checkerboard resolution testing assess?",
+    "choices": [
+      "Whether magnitudes are logarithmic",
+      "Whether a chosen anomaly size can be recovered",
+      "Whether faults are locked",
+      "Whether sensors record acceleration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why are ray paths in seismic tomography often curved?",
+    "choices": [
+      "Stations rotate during events",
+      "Faults emit light",
+      "Velocity gradients refract waves",
+      "P waves become S waves in air"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is finite-fault slip inversion designed to recover?",
+    "choices": [
+      "Only the event origin time",
+      "Only local intensity",
+      "Only crustal density",
+      "Spatial and temporal slip distribution on a rupture"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which data combination can improve finite-fault slip resolution?",
+    "choices": [
+      "Strong motion, teleseismic waves, and geodesy",
+      "Rain gauges, thermometers, and tides",
+      "Only one distant station",
+      "Only earthquake names"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the fundamental trade-off between rupture depth and origin time in some inversions?",
+    "choices": [
+      "Depth and time are always independent",
+      "Arrival timing can permit compensating changes in depth and time",
+      "Only magnitude controls both",
+      "Surface waves remove all timing information"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does back-projection use to image?",
+    "choices": [
+      "Low-frequency tides at one gauge",
+      "Static gravity at a mine",
+      "Coherent high-frequency radiation across an array",
+      "Magnetic pulses in the core"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is an earthquake moment tensor mathematically?",
+    "choices": [
+      "A scalar intensity code",
+      "A station timing correction",
+      "A map of aftershock names",
+      "A symmetric tensor describing equivalent force couples"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why can a moment tensor include a compensated linear vector dipole component?",
+    "choices": [
+      "Non-double-couple sources may reflect tensile or volumetric components",
+      "All earthquakes are pure strike slip",
+      "It measures station tilt",
+      "It removes the isotropic term by definition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a double-couple source conserve in its ideal representation?",
+    "choices": [
+      "No radiated energy",
+      "No net force and no net torque",
+      "No shear motion",
+      "No depth variation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What can non-double-couple radiation indicate in a volcanic setting?",
+    "choices": [
+      "A guaranteed transform fault",
+      "Instrument saturation only",
+      "Crack opening or fluid-driven source components",
+      "A missing P wave"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is attenuation tomography intended to estimate?",
+    "choices": [
+      "Only earthquake locations",
+      "Only fault strike",
+      "Only station response",
+      "Spatial variations in seismic energy loss"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "How can scattering differ from intrinsic attenuation?",
+    "choices": [
+      "Scattering redistributes energy, while intrinsic loss converts it to heat",
+      "Scattering affects only gravity",
+      "Intrinsic loss creates new stations",
+      "They are identical by definition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does a site response function compare?",
+    "choices": [
+      "Magnitude relative to depth only",
+      "Motion at a site relative to a reference or input motion",
+      "P waves relative to S waves globally",
+      "Fault age relative to plate age"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Why can basin edges generate amplified, prolonged shaking?",
+    "choices": [
+      "Basins eliminate surface waves",
+      "Edges stop all reflections",
+      "Wave conversion, focusing, and reverberation interact",
+      "Sediment always raises velocity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a seismic impedance contrast?",
+    "choices": [
+      "A difference in earthquake names",
+      "A change in fault rake with depth",
+      "A mismatch in calendar time",
+      "A change in density times wave speed across an interface"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "How does a free surface affect an incident body wave?",
+    "choices": [
+      "It causes reflection and mode conversion with boundary constraints",
+      "It absorbs all energy",
+      "It prevents P waves from arriving",
+      "It changes magnitude at the source"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is an anisotropic seismic medium?",
+    "choices": [
+      "One with no elastic response",
+      "One whose wave speed depends on propagation direction or polarization",
+      "One containing only fluids",
+      "One with uniform speed in every direction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which mantle fabric commonly produces radial anisotropy?",
+    "choices": [
+      "Random quartz grains at the surface",
+      "Unoriented ice in glaciers",
+      "Aligned olivine crystals from flow",
+      "Uniform pore water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does receiver-function moveout help constrain?",
+    "choices": [
+      "Earthquake magnitude alone",
+      "Fault friction coefficient directly",
+      "Tsunami salinity",
+      "Depth and dip of converted-wave interfaces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is normal-mode seismology especially sensitive to?",
+    "choices": [
+      "Global elastic structure through Earth's free oscillations",
+      "Only shallow fault scarps",
+      "Only local rainfall",
+      "Only station electronics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why do inner-core shear waves provide evidence about inner-core rigidity?",
+    "choices": [
+      "They travel only through liquids",
+      "They require propagation through a solid medium",
+      "They are surface waves",
+      "They are caused by tides"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a seismic discontinuity?",
+    "choices": [
+      "A missing day in a catalog",
+      "A station with no GPS",
+      "A depth where seismic properties change abruptly",
+      "A fault with zero slip"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What can a low-velocity zone near the mantle transition zone signify?",
+    "choices": [
+      "A guaranteed empty cavity",
+      "Only instrument failure",
+      "A surface rupture trace",
+      "Temperature, composition, partial melt, or hydration effects"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does joint inversion seek to accomplish?",
+    "choices": [
+      "Fit multiple data types with shared model parameters",
+      "Discard all data except amplitudes",
+      "Invert only one station repeatedly",
+      "Replace physics with catalog labels"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Why is regularization used in seismic inverse problems?",
+    "choices": [
+      "To increase random noise deliberately",
+      "To stabilize underdetermined solutions using prior smoothness or damping",
+      "To force every anomaly to be sharp",
+      "To remove all physical constraints"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the resolution kernel in a linearized inversion?",
+    "choices": [
+      "The earthquake's radiated energy",
+      "The station's clock drift",
+      "The model averaging pattern actually constrained by the data",
+      "The fault's geological age"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.96
+  },
+  {
+    "text": "What does a Gutenberg-Richter b-value describe?",
+    "choices": [
+      "Fault dip at the surface",
+      "Wave speed in the core",
+      "Station clock precision",
+      "Relative frequency of small and large events"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is earthquake clustering in space and time?",
+    "choices": [
+      "Nonrandom concentration of related events",
+      "Uniform global occurrence",
+      "A single station artifact",
+      "A mineral phase change"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a stress-drop estimate require beyond magnitude?",
+    "choices": [
+      "Only the event's felt radius",
+      "A source spectrum and assumptions about attenuation",
+      "Only fault latitude",
+      "Only the P-wave name"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a kinematic rupture model?",
+    "choices": [
+      "A thermodynamic mantle model",
+      "A catalog completeness curve",
+      "A prescribed description of rupture timing and slip",
+      "A gravity inversion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a dynamic rupture model?",
+    "choices": [
+      "A list of station arrivals",
+      "A map of intensity reports",
+      "A static plate diagram",
+      "A physics-based simulation coupling stress, friction, and waves"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does rate-and-state friction model?",
+    "choices": [
+      "Time-dependent frictional response to slip and sliding rate",
+      "Only elastic wave speed",
+      "Only pore-water chemistry",
+      "Only fault orientation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a nucleation patch in earthquake modeling?",
+    "choices": [
+      "A permanent surface monument",
+      "A region where instability initiates rupture",
+      "A wave shadow zone",
+      "A tomography grid corner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.96
+  },
+  {
+    "text": "What does a Green's function represent in waveform modeling?",
+    "choices": [
+      "The number of aftershocks",
+      "The fault's mineral composition",
+      "The response at a receiver to an elementary source",
+      "The network's completeness threshold"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why are empirical Green's functions useful?",
+    "choices": [
+      "They remove all source physics",
+      "They determine plate age directly",
+      "They measure only ocean depth",
+      "They approximate path and site effects using a nearby event"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is waveform cross-correlation commonly used for?",
+    "choices": [
+      "Precisely measuring relative arrival times",
+      "Estimating rainfall from noise",
+      "Determining mineral color",
+      "Removing every reflected phase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does ambient-noise interferometry recover?",
+    "choices": [
+      "Only earthquake magnitudes",
+      "Time-dependent correlations approximating interstation Green's functions",
+      "Only fault slip vectors",
+      "Only core density"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is seismic interferometry's virtual source concept?",
+    "choices": [
+      "A fault creates a new earthquake",
+      "A station becomes a GPS satellite",
+      "One receiver acts as a source in a reconstructed response",
+      "A core phase becomes a surface wave"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does a moment-rate function describe?",
+    "choices": [
+      "How station density changes",
+      "How intensity is coded",
+      "How mantle temperature varies daily",
+      "How seismic moment is released through time"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is apparent stress in earthquake source studies?",
+    "choices": [
+      "Radiated energy normalized by seismic moment",
+      "Normal stress measured at a borehole",
+      "The stress inferred from intensity only",
+      "The overburden pressure at sea level"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.96
+  },
+  {
+    "text": "What does a finite-difference wave solver discretize?",
+    "choices": [
+      "Only earthquake catalog dates",
+      "The wave equation on a spatial and temporal grid",
+      "Only fault names",
+      "Only gravity contours"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why do numerical wave simulations require absorbing boundaries?",
+    "choices": [
+      "To increase source magnitude",
+      "To create surface rupture",
+      "To reduce artificial reflections from model edges",
+      "To eliminate all heterogeneity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is mesh dispersion in numerical seismology?",
+    "choices": [
+      "A real mantle discontinuity",
+      "A catalog time-zone error",
+      "A fault's rake variation",
+      "Numerical phase error from insufficient grid resolution"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  }
+]

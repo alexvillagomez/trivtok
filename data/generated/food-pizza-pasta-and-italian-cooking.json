@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which country is most closely associated with the modern pizza tradition?",
+    "choices": [
+      "Italy",
+      "Greece",
+      "Spain",
+      "Turkey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which city is especially associated with Neapolitan pizza?",
+    "choices": [
+      "Milan",
+      "Naples",
+      "Bologna",
+      "Venice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What are the classic colors of a Margherita pizza topping?",
+    "choices": [
+      "Potato, blue cheese, and sage",
+      "Tuna, olives, and onion",
+      "Tomato, mozzarella, and basil",
+      "Mushroom, cream, and truffle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What ingredient usually gives pizza dough its lift?",
+    "choices": [
+      "Baking soda only",
+      "Gelatin",
+      "Corn syrup",
+      "Yeast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What grain is traditionally central to most dried Italian pasta?",
+    "choices": [
+      "Durum wheat",
+      "Rye",
+      "Buckwheat",
+      "Barley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which pasta shape is a long, thin strand?",
+    "choices": [
+      "Penne",
+      "Spaghetti",
+      "Ravioli",
+      "Fusilli"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which pasta shape consists of short tubes cut on an angle?",
+    "choices": [
+      "Linguine",
+      "Lasagne",
+      "Penne",
+      "Farfalle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What distinguishes ravioli from plain pasta sheets?",
+    "choices": [
+      "They are always fried",
+      "They are made only from rice",
+      "They contain no dough",
+      "They enclose a filling"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which pasta shape is named for its little bows or butterflies?",
+    "choices": [
+      "Farfalle",
+      "Conchiglie",
+      "Bucatini",
+      "Paccheri"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which pasta shape resembles small ears?",
+    "choices": [
+      "Trofie",
+      "Orecchiette",
+      "Risoni",
+      "Mafaldine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What are rigatoni?",
+    "choices": [
+      "Flat filled parcels",
+      "Thin flat ribbons",
+      "Large ridged tubes",
+      "Small ring pasta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the traditional green base of pesto Genovese?",
+    "choices": [
+      "Parsley",
+      "Spinach",
+      "Arugula",
+      "Basil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which nut is commonly used in classic pesto Genovese?",
+    "choices": [
+      "Pine nut",
+      "Hazelnut",
+      "Walnut",
+      "Almond"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What cheese is traditionally prominent in cacio e pepe?",
+    "choices": [
+      "Mascarpone",
+      "Pecorino Romano",
+      "Mozzarella",
+      "Gorgonzola"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which pasta dish is classically made with eggs, cheese, cured pork, and black pepper?",
+    "choices": [
+      "Puttanesca",
+      "Arrabbiata",
+      "Carbonara",
+      "Norma"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the principal base of a simple marinara sauce?",
+    "choices": [
+      "Cream",
+      "Butter",
+      "Stock",
+      "Tomatoes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which sauce combines cheese and black pepper in its name?",
+    "choices": [
+      "Cacio e pepe",
+      "Pesto rosso",
+      "Salsa verde",
+      "Bagna cauda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which ingredient is characteristic of amatriciana?",
+    "choices": [
+      "Pesto basil",
+      "Guanciale",
+      "Anchovy cream",
+      "Béchamel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What kind of milk is traditionally used for Parmigiano Reggiano?",
+    "choices": [
+      "Buffalo milk",
+      "Sheep's milk",
+      "Cow's milk",
+      "Goat's milk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Pecorino is a family of cheeses traditionally made from what milk?",
+    "choices": [
+      "Cow's milk",
+      "Buffalo milk",
+      "Camel's milk",
+      "Sheep's milk"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which cheese often has a soft, creamy center surrounded by mozzarella?",
+    "choices": [
+      "Burrata",
+      "Asiago",
+      "Fontina",
+      "Taleggio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which Italian cheese is commonly recognized by blue-green veining?",
+    "choices": [
+      "Ricotta",
+      "Gorgonzola",
+      "Provolone",
+      "Scamorza"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is focaccia?",
+    "choices": [
+      "A filled pasta",
+      "A sweet custard",
+      "A flat, dimpled yeasted bread",
+      "A cured meat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which bread is known for its elongated slipper-like shape?",
+    "choices": [
+      "Panettone",
+      "Grissino",
+      "Pandoro",
+      "Ciabatta"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What are grissini?",
+    "choices": [
+      "Thin breadsticks",
+      "Stuffed olives",
+      "Fried rice balls",
+      "Sweet biscuits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is bruschetta traditionally built on?",
+    "choices": [
+      "Fresh pasta dough",
+      "Grilled or toasted bread",
+      "A pastry shell",
+      "A rice cake"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which salad pairs tomatoes, mozzarella, and basil?",
+    "choices": [
+      "Panzanella",
+      "Insalata russa",
+      "Caprese salad",
+      "Ribollita"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What are arancini?",
+    "choices": [
+      "Raw fish rolls",
+      "Baked pasta sheets",
+      "Sweet almond cakes",
+      "Stuffed and fried rice balls"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which northern Italian dish traditionally features braised veal shank?",
+    "choices": [
+      "Osso buco",
+      "Caponata",
+      "Saltimbocca",
+      "Cacciucco"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is polenta primarily made from?",
+    "choices": [
+      "Ground almonds",
+      "Ground cornmeal",
+      "Wheat noodles",
+      "Potato starch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which dessert is made with coffee-soaked layers and mascarpone?",
+    "choices": [
+      "Cannoli",
+      "Panna cotta",
+      "Tiramisu",
+      "Zabaglione"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is panna cotta?",
+    "choices": [
+      "A fried doughnut",
+      "A filled pasta",
+      "A fruit sorbet",
+      "A set cream dessert"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Sicilian dessert is a tube-shaped pastry filled with sweet ricotta?",
+    "choices": [
+      "Cannoli",
+      "Sfogliatella",
+      "Panforte",
+      "Crostata"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is gelato?",
+    "choices": [
+      "A cured ham",
+      "Italian-style frozen dessert",
+      "A coffee blend",
+      "A bread starter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a traditional espresso?",
+    "choices": [
+      "A large pot of milk",
+      "A cold fruit drink",
+      "A small concentrated coffee",
+      "A sweet wine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which coffee drink usually combines espresso with steamed milk and foam?",
+    "choices": [
+      "Ristretto",
+      "Espresso lungo",
+      "Affogato",
+      "Cappuccino"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is an affogato?",
+    "choices": [
+      "Gelato topped with espresso",
+      "Bread dipped in wine",
+      "Pasta baked in cream",
+      "Coffee mixed with lemon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does al dente describe when applied to pasta?",
+    "choices": [
+      "Deep-fried texture",
+      "Firm texture when bitten",
+      "A sweet flavor",
+      "A completely raw center"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which city is famous for traditional balsamic vinegar production?",
+    "choices": [
+      "Naples",
+      "Trieste",
+      "Modena",
+      "Cagliari"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which cured ham is associated with Parma?",
+    "choices": [
+      "Speck Alto Adige",
+      "Bresaola",
+      "Mortadella",
+      "Prosciutto di Parma"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which Italian sweet bread is strongly associated with Christmas in Milan?",
+    "choices": [
+      "Panettone",
+      "Pandoro",
+      "Colomba",
+      "Torrone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which star-shaped golden sweet bread is associated with Verona?",
+    "choices": [
+      "Panettone",
+      "Pandoro",
+      "Panforte",
+      "Baba"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which pasta shape is a long, flat ribbon?",
+    "choices": [
+      "Bucatini",
+      "Penne",
+      "Fettuccine",
+      "Ditalini"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which pasta is shaped like a twisted corkscrew?",
+    "choices": [
+      "Linguine",
+      "Manicotti",
+      "Orzo",
+      "Fusilli"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is ricotta?",
+    "choices": [
+      "A soft whey cheese",
+      "A cured fish",
+      "A tomato preserve",
+      "A type of olive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which meat is usually meant by the Italian word 'prosciutto'?",
+    "choices": [
+      "Beef steak",
+      "Cured ham",
+      "Chicken breast",
+      "Pork sausage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is espresso macchiato?",
+    "choices": [
+      "Espresso diluted with a full glass of water",
+      "Cold brew with cream",
+      "Espresso marked with a small amount of milk foam",
+      "Coffee served over gelato"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which pasta shape is named for little bells or shells and often catches sauce?",
+    "choices": [
+      "Spaghetti",
+      "Tagliolini",
+      "Casarecce",
+      "Conchiglie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which ingredient gives traditional pesto its savory, salty cheese note?",
+    "choices": [
+      "Parmigiano Reggiano or pecorino",
+      "Mascarpone only",
+      "Ricotta salata only",
+      "Taleggio only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which type of flour is traditionally associated with Neapolitan pizza dough?",
+    "choices": [
+      "Corn flour",
+      "Finely milled soft wheat flour",
+      "Chickpea flour",
+      "Rye flour"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does the 'marinara' in pizza marinara traditionally indicate?",
+    "choices": [
+      "A seafood topping with shrimp",
+      "A cream sauce with clams",
+      "Tomato, garlic, oregano, and oil without mozzarella",
+      "A pizza topped with cured ham"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which ingredient is notably absent from a traditional carbonara?",
+    "choices": [
+      "Egg",
+      "Pecorino",
+      "Guanciale",
+      "Cream"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which cured pork cheek product is traditional in carbonara and amatriciana?",
+    "choices": [
+      "Guanciale",
+      "Pancetta affumicata",
+      "Prosciutto cotto",
+      "Lardo di Colonnata"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which pasta shape is especially associated with Liguria and is often served with pesto?",
+    "choices": [
+      "Bucatini",
+      "Trofie",
+      "Malloreddus",
+      "Pici"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which pasta shape is strongly associated with Puglia?",
+    "choices": [
+      "Trofie",
+      "Mafaldine",
+      "Orecchiette",
+      "Culurgiones"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is bucatini distinctive for?",
+    "choices": [
+      "It is a stuffed square",
+      "It is a ridged shell",
+      "It is a tiny bead",
+      "It is a thick strand with a hollow center"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which pasta shape is traditionally associated with Sardinia?",
+    "choices": [
+      "Malloreddus",
+      "Trofie",
+      "Pici",
+      "Strozzapreti"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Tuscan pasta is a thick, hand-rolled strand often served with hearty sauces?",
+    "choices": [
+      "Orecchiette",
+      "Pici",
+      "Bucatini",
+      "Cavatappi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which pasta dish from Catania traditionally includes eggplant and tomato?",
+    "choices": [
+      "Pasta alla Gricia",
+      "Pasta al Pesto",
+      "Pasta alla Norma",
+      "Pasta alla Sorrentina"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Roman pasta sauce is often treated as a close relative or precursor of amatriciana?",
+    "choices": [
+      "Carbonara",
+      "Puttanesca",
+      "Arrabbiata",
+      "Gricia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which sauce is traditionally built from olives, capers, anchovies, tomato, and garlic?",
+    "choices": [
+      "Puttanesca",
+      "Norma",
+      "Salsa verde",
+      "Boscaiola"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the defining technique of risotto cooking?",
+    "choices": [
+      "Boiling rice in abundant water and draining it",
+      "Gradually adding stock while stirring to release starch",
+      "Baking dry rice under a pastry crust",
+      "Frying rice until completely crisp"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does 'mantecatura' refer to in risotto preparation?",
+    "choices": [
+      "Soaking rice overnight in wine",
+      "Drying cooked rice in the sun",
+      "Finishing by emulsifying in fat and cheese off the heat",
+      "Adding a raw egg to the stock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Italian rice is especially associated with the Po Valley and risotto?",
+    "choices": [
+      "Basmati",
+      "Calasparra",
+      "Jasmine",
+      "Carnaroli"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is pane carasau?",
+    "choices": [
+      "A thin, crisp Sardinian flatbread",
+      "A sweet Venetian cake",
+      "A filled Roman pasta",
+      "A soft cheese from Lombardy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Puglian bread is commonly rehydrated and topped for a rustic dish?",
+    "choices": [
+      "Ciabatta",
+      "Frisella",
+      "Pane carasau",
+      "Coppia ferrarese"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is schiacciata?",
+    "choices": [
+      "A Sicilian rice ball",
+      "A Piedmontese stew",
+      "A Tuscan flatbread related to focaccia",
+      "A Roman coffee"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which cheese is protected by a designation tied to a specific production zone in Emilia-Romagna and nearby areas?",
+    "choices": [
+      "American parmesan",
+      "Cream cheese",
+      "Feta",
+      "Parmigiano Reggiano"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does a DOP designation on an Italian food chiefly communicate?",
+    "choices": [
+      "Protected origin and production rules",
+      "That the product is always vegetarian",
+      "That it must be imported",
+      "That it is a dessert"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Northern Italian sauce is made with anchovies, garlic, and olive oil and traditionally served warm?",
+    "choices": [
+      "Pesto Genovese",
+      "Bagna cauda",
+      "Salsa rosa",
+      "Mostarda"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Tuscan soup traditionally uses bread and vegetables and is reheated, as its name suggests?",
+    "choices": [
+      "Minestrone alla Genovese",
+      "Zuppa di pesce",
+      "Ribollita",
+      "Stracciatella"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which Sicilian dish is a cooked vegetable preparation centered on eggplant, tomato, and often capers?",
+    "choices": [
+      "Parmigiana di melanzane",
+      "Giardiniera",
+      "Bagna cauda",
+      "Caponata"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which seafood stew is strongly associated with Livorno in Tuscany?",
+    "choices": [
+      "Cacciucco",
+      "Brodetto all'Adriatico",
+      "Bouillabaisse",
+      "Zuppa pavese"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which Roman dish literally suggests meat that 'jumps in the mouth'?",
+    "choices": [
+      "Abbacchio scottadito",
+      "Saltimbocca",
+      "Osso buco",
+      "Carne cruda"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Neapolitan pastry has a shell-like, layered form and a ricotta-based filling?",
+    "choices": [
+      "Cannolo",
+      "Baba al rum",
+      "Sfogliatella",
+      "Torta caprese"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which coffee preparation is made by extracting a shorter, more concentrated espresso?",
+    "choices": [
+      "Lungo",
+      "Americano",
+      "Caffe latte",
+      "Ristretto"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a moka pot designed to brew on a stovetop?",
+    "choices": [
+      "Strong coffee by forcing water through ground coffee",
+      "Sparkling wine by pressurizing grapes",
+      "Fresh pasta by extruding dough",
+      "Hot chocolate by steaming milk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which coffee drink is shaken with ice and commonly served cold in Italy?",
+    "choices": [
+      "Cappuccino",
+      "Caffe shakerato",
+      "Marocchino",
+      "Caffe corretto"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which Italian dessert is a baked or chilled custard often flavored with citrus or liqueur?",
+    "choices": [
+      "Torrone",
+      "Mostaccioli",
+      "Zabaglione",
+      "Amaretti"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which dessert is traditionally made by whipping egg yolks with sugar and Marsala?",
+    "choices": [
+      "Panna cotta",
+      "Tiramisu",
+      "Semifreddo",
+      "Zabaglione"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which Italian confection is a dense nougat commonly made with nuts and honey or sugar?",
+    "choices": [
+      "Torrone",
+      "Panforte",
+      "Baci",
+      "Mostarda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which pasta is a filled Sardinian specialty shaped like small folded dumplings?",
+    "choices": [
+      "Tortellini",
+      "Culurgiones",
+      "Agnolotti",
+      "Casoncelli"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which stuffed pasta is especially associated with Bologna and often filled with meat?",
+    "choices": [
+      "Culurgiones",
+      "Pansotti",
+      "Tortellini",
+      "Ravioli del plin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which small Piedmontese stuffed pasta is traditionally pinched or 'plin'?",
+    "choices": [
+      "Tortelloni",
+      "Cappelletti",
+      "Fagottini",
+      "Agnolotti del plin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which dessert is a crisp pastry shell filled with cream, chocolate, or sweet ricotta?",
+    "choices": [
+      "Cannoli",
+      "Torrone",
+      "Biscotti",
+      "Semifreddo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which Italian cooking term describes gently cooking vegetables in oil until softened without browning heavily?",
+    "choices": [
+      "Mantecatura",
+      "Soffritto",
+      "Battuto",
+      "Gratinatura"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which pasta sauce traditionally uses fresh clams, garlic, olive oil, and sometimes white wine?",
+    "choices": [
+      "Alla Norma",
+      "Cacio e pepe",
+      "Alle vongole",
+      "Alla vodka"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which regional pasta is a thick, short, hand-rolled shape associated with Emilia-Romagna?",
+    "choices": [
+      "Trofie",
+      "Orecchiette",
+      "Bucatini",
+      "Strozzapreti"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Italian pasta shape is a small, ridged, shell-like form common in Campania?",
+    "choices": [
+      "Paccheri",
+      "Ditalini",
+      "Fregola",
+      "Garganelli"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why is pasta water often reserved for finishing a sauce?",
+    "choices": [
+      "It automatically sweetens every sauce",
+      "Its starch helps emulsify and bind sauce to the pasta",
+      "It replaces all cheese",
+      "It prevents pasta from absorbing flavor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Italian cured meat is air-dried beef rather than pork?",
+    "choices": [
+      "Prosciutto",
+      "Guanciale",
+      "Bresaola",
+      "Pancetta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which cheese from Piedmont is a soft, washed-rind cheese?",
+    "choices": [
+      "Parmigiano Reggiano",
+      "Pecorino Romano",
+      "Grana Padano",
+      "Taleggio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which region is especially associated with Fontina cheese?",
+    "choices": [
+      "The Aosta Valley",
+      "Sicily",
+      "Puglia",
+      "Sardinia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which dessert is a crisp almond biscuit traditionally baked twice?",
+    "choices": [
+      "Cannoli",
+      "Biscotti",
+      "Babà",
+      "Panna cotta"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Italian liqueur is commonly used to flavor tiramisu or coffee desserts?",
+    "choices": [
+      "Limoncello",
+      "Amaretto",
+      "Marsala",
+      "Grappa"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which Italian region is most closely associated with Marsala wine?",
+    "choices": [
+      "Lombardy",
+      "Liguria",
+      "Umbria",
+      "Sicily"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Roman pasta dish combines pecorino, guanciale, and pepper but traditionally no tomato?",
+    "choices": [
+      "Gricia",
+      "Amatriciana",
+      "Carbonara",
+      "Puttanesca"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which cooking method gives traditional Neapolitan pizza its characteristic blistered crust?",
+    "choices": [
+      "Slow steaming in a covered pot",
+      "Very hot, fast baking in a wood-fired oven",
+      "Deep-frying the dough in oil",
+      "Cold proofing without baking"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which ingredient is central to the protected tradition of Mozzarella di Bufala Campana?",
+    "choices": [
+      "Sheep's milk",
+      "Goat's milk",
+      "Water buffalo milk",
+      "Almond milk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which city is the classic home of ragù alla bolognese?",
+    "choices": [
+      "Rome",
+      "Genoa",
+      "Catania",
+      "Bologna"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

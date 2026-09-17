@@ -1,0 +1,822 @@
+{
+  "version": 1,
+  "updatedOn": "2026-09-16",
+  "database": "configured Supabase project",
+  "verification": "Each batch was passed through scripts/insert-authored-local.ts; duplicate-safe inserts and corrected validation failures were rerun.",
+  "totals": {
+    "batches": 90,
+    "questionsRepresented": 9014
+  },
+  "batches": [
+    {
+      "id": "astronomy.exoplanets.detection-characterization",
+      "topic": "Exoplanet detection and characterization",
+      "file": "data/generated/astronomy-exoplanets-detection-and-characterization.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.american-football.nfl-strategy-history",
+      "topic": "NFL strategy, positions, and history",
+      "file": "data/generated/american-football-nfl-strategy-positions-and-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "history.world-war-two.codebreaking-signals-intelligence",
+      "topic": "World War II codebreaking and signals intelligence",
+      "file": "data/generated/world-war-two-codebreaking-and-signals-intelligence.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.world-football.tactics-formations",
+      "topic": "World football tactics and formations",
+      "file": "data/generated/world-football-tactics-and-formations.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "science.biology.cardiovascular-circulation",
+      "topic": "Cardiovascular anatomy and circulation",
+      "file": "data/generated/cardiovascular-anatomy-and-circulation.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "history.ancient-egypt.old-kingdom-pyramids",
+      "topic": "Old Kingdom pyramids and tombs",
+      "file": "data/generated/ancient-egypt-old-kingdom-pyramids-and-tombs.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.jazz.history-theory-improvisation",
+      "topic": "Jazz history, theory, and improvisation",
+      "file": "data/generated/music-jazz-history-theory-and-improvisation.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "science.earth.volcanoes-tectonics-eruptions",
+      "topic": "Volcanoes, plate tectonics, and eruptions",
+      "file": "data/generated/earth-science-volcanoes-plate-tectonics-and-eruptions.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "literature.sherlock-holmes.canon-detective-method",
+      "topic": "Sherlock Holmes canon and detective method",
+      "file": "data/generated/literature-sherlock-holmes-canon-and-detective-method.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "food.coffee.cultivation-roasting-brewing",
+      "topic": "Coffee cultivation, roasting, and brewing",
+      "file": "data/generated/food-coffee-cultivation-roasting-and-brewing.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "technology.cybersecurity.network-defense-cryptography",
+      "topic": "Cybersecurity, network defense, and cryptography",
+      "file": "data/generated/technology-cybersecurity-network-defense-and-cryptography.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "literature.homer.iliad-odyssey-epic-tradition",
+      "topic": "Homer's Iliad, Odyssey, and epic tradition",
+      "file": "data/generated/literature-homer-iliad-odyssey-and-epic-tradition.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "nature.entomology.insects-social-colonies",
+      "topic": "Insects, entomology, and social colonies",
+      "file": "data/generated/nature-insects-entomology-and-social-colonies.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "history.mughal-empire.court-administration",
+      "topic": "Mughal Empire court and administration",
+      "file": "data/generated/history-mughal-empire-court-and-administration.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.film-scores.composers-orchestration",
+      "topic": "Film scores, composers, and orchestration",
+      "file": "data/generated/music-film-scores-composers-and-orchestration.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "engineering.bridges.structures-load-paths",
+      "topic": "Bridges, structures, and load paths",
+      "file": "data/generated/engineering-bridges-structures-and-load-paths.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "history.west-africa.medieval-empires-trade",
+      "topic": "Medieval West African empires and trade",
+      "file": "data/generated/history-medieval-west-african-empires-and-trade.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "biology.immunology.innate-adaptive-cellular-defense",
+      "topic": "Immunology: innate, adaptive, and cellular defense",
+      "file": "data/generated/biology-immunology-innate-adaptive-and-cellular-defense.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "language.linguistics.phonetics-phonology-sound-change",
+      "topic": "Phonetics, phonology, and sound change",
+      "file": "data/generated/language-linguistics-phonetics-phonology-and-sound-change.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "geography.cartography.map-projections-geodesy",
+      "topic": "Cartography, map projections, and geodesy",
+      "file": "data/generated/geography-cartography-map-projections-and-geodesy.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "animals.dogs.breeds-behavior-working-roles",
+      "topic": "Dogs: breeds, behavior, and working roles",
+      "file": "data/generated/animals-dogs-breeds-behavior-and-working-roles.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "food.home-cooking.techniques-kitchen-basics",
+      "topic": "Home cooking techniques and kitchen basics",
+      "file": "data/generated/food-home-cooking-techniques-and-kitchen-basics.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.blockbusters.franchises-popular-cinema",
+      "topic": "Blockbusters, franchises, and popular cinema",
+      "file": "data/generated/movies-blockbusters-franchises-and-popular-cinema.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "transportation.cars.models-mechanics-history",
+      "topic": "Cars, models, mechanics, and automotive history",
+      "file": "data/generated/cars-models-mechanics-and-automotive-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.basketball.stars-teams-iconic-moments",
+      "topic": "Basketball stars, teams, and iconic moments",
+      "file": "data/generated/sports-basketball-stars-teams-and-iconic-moments.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "video-games.super-mario.characters-worlds-history",
+      "topic": "Super Mario characters, worlds, and history",
+      "file": "data/generated/video-games-super-mario-characters-worlds-and-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "travel.landmarks.attractions-destinations",
+      "topic": "Famous landmarks, attractions, and destinations",
+      "file": "data/generated/travel-famous-landmarks-attractions-and-destinations.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.friends.characters-episodes-gags",
+      "topic": "Friends characters, episodes, and running gags",
+      "file": "data/generated/tv-friends-characters-episodes-and-running-gags.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.pop.2000s-artists-hits-culture",
+      "topic": "2000s pop artists, hits, and culture",
+      "file": "data/generated/music-2000s-pop-artists-hits-and-culture.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "animals.cats.breeds-behavior-cultural-history",
+      "topic": "Cats: breeds, behavior, and cultural history",
+      "file": "data/generated/animals-cats-breeds-behavior-and-cultural-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.disney-pixar.characters-stories",
+      "topic": "Disney and Pixar animation, characters, and stories",
+      "file": "data/generated/movies-disney-pixar-animation-characters-and-stories.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "literature.harry-potter.books-films-lore",
+      "topic": "Harry Potter books, films, characters, and lore",
+      "file": "data/generated/harry-potter-books-films-characters-and-lore.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "marvel.mcu.infinity-saga",
+      "topic": "Marvel Cinematic Universe: Infinity Saga",
+      "file": "data/generated/marvel-cinematic-universe-infinity-saga.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "entertainment.theme-parks.rides-attractions",
+      "topic": "Theme parks, rides, and attractions",
+      "file": "data/generated/entertainment-theme-parks-rides-and-attractions.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "science.paleontology.dinosaurs-prehistoric-life",
+      "topic": "Dinosaurs, prehistoric life, and paleontology",
+      "file": "data/generated/science-dinosaurs-prehistoric-life-and-paleontology.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "animals.ocean.sharks-whales-dolphins",
+      "topic": "Sharks, whales, dolphins, and ocean giants",
+      "file": "data/generated/animals-sharks-whales-dolphins-and-ocean-giants.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "fashion.sneakers.streetwear-iconic-styles",
+      "topic": "Sneakers, streetwear, and iconic styles",
+      "file": "data/generated/fashion-sneakers-streetwear-and-iconic-styles.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "video-games.minecraft.mobs-biomes-mechanics",
+      "topic": "Minecraft mobs, biomes, and mechanics",
+      "file": "data/generated/video-games-minecraft-mobs-biomes-and-mechanics.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.stranger-things.characters-seasons-hawkins",
+      "topic": "Stranger Things characters, seasons, and Hawkins lore",
+      "file": "data/generated/tv-stranger-things-characters-seasons-and-hawkins-lore.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "comics.dc.superheroes-villains-stories",
+      "topic": "DC superheroes, villains, and iconic stories",
+      "file": "data/generated/dc-superheroes-villains-and-iconic-stories.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.taylor-swift.albums-songs-eras",
+      "topic": "Taylor Swift albums, songs, and eras",
+      "file": "data/generated/music-taylor-swift-albums-songs-and-eras.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "food.pop-culture.snacks-candy-fast-food",
+      "topic": "Snacks, candy, and fast-food culture",
+      "file": "data/generated/food-snacks-candy-and-fast-food-culture.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.the-office-us.characters-episodes-gags",
+      "topic": "The Office (US) characters, episodes, and running gags",
+      "file": "data/generated/tv-the-office-us-characters-episodes-and-running-gags.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "anime.dragon-ball.characters-sagas-techniques",
+      "topic": "Dragon Ball characters, sagas, and techniques",
+      "file": "data/generated/anime-dragon-ball-characters-sagas-and-techniques.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.baseball.stars-teams-iconic-moments",
+      "topic": "Baseball stars, teams, and iconic moments",
+      "file": "data/generated/sports-baseball-stars-teams-and-iconic-moments.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "video-games.zelda.characters-worlds-dungeons",
+      "topic": "The Legend of Zelda characters, worlds, and dungeons",
+      "file": "data/generated/video-games-legend-of-zelda-characters-worlds-and-dungeons.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.breaking-bad.characters-episodes-albuquerque",
+      "topic": "Breaking Bad characters, episodes, and Albuquerque lore",
+      "file": "data/generated/tv-breaking-bad-characters-episodes-and-albuquerque-lore.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.hip-hop.1990s-2000s-artists-albums-culture",
+      "topic": "1990s–2000s hip-hop artists, albums, and culture",
+      "file": "data/generated/music-hip-hop-1990s-2000s-artists-albums-and-culture.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.game-of-thrones.characters-houses-westeros",
+      "topic": "Game of Thrones characters, houses, and Westeros lore",
+      "file": "data/generated/tv-game-of-thrones-characters-houses-and-westeros-lore.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "anime.naruto.characters-arcs-jutsu",
+      "topic": "Naruto characters, arcs, and jutsu",
+      "file": "data/generated/anime-naruto-characters-arcs-and-jutsu.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "anime.one-piece.characters-crews-adventures",
+      "topic": "One Piece characters, crews, and Grand Line adventures",
+      "file": "data/generated/anime-one-piece-characters-crews-and-grand-line-adventures.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.pop.2010s-artists-hits-culture",
+      "topic": "2010s pop artists, hits, and culture",
+      "file": "data/generated/music-2010s-pop-artists-hits-and-culture.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.spongebob.characters-episodes-bikini-bottom",
+      "topic": "SpongeBob SquarePants characters, episodes, and Bikini Bottom",
+      "file": "data/generated/tv-spongebob-squarepants-characters-episodes-and-bikini-bottom.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.formula-one.drivers-teams-circuits-history",
+      "topic": "Formula 1 drivers, teams, circuits, and history",
+      "file": "data/generated/sports-formula-one-drivers-teams-circuits-and-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.professional-wrestling.wwe-stars-history",
+      "topic": "Professional wrestling, WWE stars, and history",
+      "file": "data/generated/sports-professional-wrestling-wwe-stars-and-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "science.weather.storms-clouds-forecasting",
+      "topic": "Weather, storms, clouds, and forecasting",
+      "file": "data/generated/science-weather-storms-clouds-and-forecasting.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.horror.classics-franchises-modern-hits",
+      "topic": "Horror classics, franchises, and modern hits",
+      "file": "data/generated/movies-horror-classics-franchises-and-modern-hits.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.survivor.seasons-players-gameplay",
+      "topic": "Survivor seasons, players, and gameplay history",
+      "file": "data/generated/tv-survivor-seasons-players-and-gameplay-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.pokemon-anime.characters-regions-adventures",
+      "topic": "Pokémon anime characters, regions, and adventures",
+      "file": "data/generated/tv-pokemon-anime-characters-regions-and-adventures.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.james-bond.films-villains-gadgets",
+      "topic": "James Bond films, villains, and gadgets",
+      "file": "data/generated/movies-james-bond-films-villains-and-gadgets.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "food.italian.pizza-pasta-cooking",
+      "topic": "Pizza, pasta, and Italian cooking",
+      "file": "data/generated/food-pizza-pasta-and-italian-cooking.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.classic-rock.bands-albums-anthems",
+      "topic": "Classic rock bands, albums, and anthems",
+      "file": "data/generated/music-classic-rock-bands-albums-and-anthems.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.tennis.stars-grand-slams-matches",
+      "topic": "Tennis stars, Grand Slams, and iconic matches",
+      "file": "data/generated/sports-tennis-stars-grand-slams-and-iconic-matches.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.cartoons.1990s-shows-nostalgia",
+      "topic": "1990s cartoons, characters, shows, and nostalgia",
+      "file": "data/generated/tv-1990s-cartoons-characters-shows-and-nostalgia.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "animals.horses.breeds-riding-equestrian-culture",
+      "topic": "Horses, breeds, riding, and equestrian culture",
+      "file": "data/generated/animals-horses-breeds-riding-and-equestrian-culture.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.golf.stars-majors-courses-rules",
+      "topic": "Golf stars, majors, courses, and rules",
+      "file": "data/generated/sports-golf-stars-majors-courses-and-rules.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "fashion.beauty.makeup-hair-style-history",
+      "topic": "Beauty, makeup, hair, and style history",
+      "file": "data/generated/fashion-beauty-makeup-hair-and-style-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "travel.us-national-parks.landmarks-wildlife",
+      "topic": "U.S. national parks, landmarks, and wildlife",
+      "file": "data/generated/travel-us-national-parks-landmarks-and-wildlife.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.dreamworks-animation.characters-stories",
+      "topic": "DreamWorks Animation characters and stories",
+      "file": "data/generated/movies-dreamworks-animation-characters-and-stories.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "video-games.sonic.characters-zones-history",
+      "topic": "Sonic characters, zones, and series history",
+      "file": "data/generated/video-games-sonic-characters-zones-and-series-history.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.latin-pop-reggaeton.artists-hits",
+      "topic": "Latin pop and reggaeton artists and hits",
+      "file": "data/generated/music-latin-pop-reggaeton-artists-and-hits.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.fast-furious.characters-cars-films",
+      "topic": "Fast & Furious characters, cars, and films",
+      "file": "data/generated/movies-fast-and-furious-characters-cars-and-films.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.mma-ufc.fighters-events-techniques",
+      "topic": "MMA and UFC fighters, events, and techniques",
+      "file": "data/generated/sports-mma-ufc-fighters-events-and-techniques.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.cooking-competition.shows-chefs-formats",
+      "topic": "Cooking competition shows, chefs, and formats",
+      "file": "data/generated/tv-cooking-competition-shows-chefs-and-formats.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.comedy.classics-stars-modern-favorites",
+      "topic": "Comedy classics, stars, and modern favorites",
+      "file": "data/generated/movies-comedy-classics-stars-and-modern-favorites.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "video-games.the-sims.characters-worlds-life-simulation",
+      "topic": "The Sims characters, worlds, and life simulation",
+      "file": "data/generated/video-games-the-sims-characters-worlds-and-life-simulation.json",
+      "questions": 114,
+      "easier": 64,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "geography.countries-cities-landmarks",
+      "topic": "Famous countries, cities, and landmarks",
+      "file": "data/generated/geography-famous-countries-cities-and-landmarks.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "animals.wildlife.habitats-behavior",
+      "topic": "Famous wildlife, habitats, and behavior",
+      "file": "data/generated/animals-famous-wildlife-habitats-and-behavior.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "food.common-dishes.ingredients-flavors",
+      "topic": "Common dishes, ingredients, and flavors",
+      "file": "data/generated/food-common-dishes-ingredients-and-flavors.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "history.famous-people.events-inventions",
+      "topic": "Famous people, events, and inventions",
+      "file": "data/generated/history-famous-people-events-and-inventions.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "science.everyday.facts-materials-phenomena",
+      "topic": "Everyday science facts, materials, and natural phenomena",
+      "file": "data/generated/science-everyday-facts-materials-and-natural-phenomena.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "movies.famous.characters-actors-stories",
+      "topic": "Famous movie characters, actors, and stories",
+      "file": "data/generated/movies-famous-characters-actors-and-stories.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "sports.famous.rules-stars-championships",
+      "topic": "Famous sports rules, stars, and championships",
+      "file": "data/generated/sports-famous-rules-stars-and-championships.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "music.famous.artists-songs-albums-instruments",
+      "topic": "Famous music artists, songs, albums, and instruments",
+      "file": "data/generated/music-famous-artists-songs-albums-and-instruments.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "literature.famous.books-authors-characters",
+      "topic": "Famous books, authors, and characters",
+      "file": "data/generated/literature-famous-books-authors-and-characters.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "technology.common.devices-internet-computing",
+      "topic": "Common devices, internet, and computing",
+      "file": "data/generated/technology-common-devices-internet-and-computing.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "biology.human-body.organs-senses-health-basics",
+      "topic": "Human body organs, senses, and health basics",
+      "file": "data/generated/biology-human-body-organs-senses-and-health-basics.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "art.famous.paintings-artists-museums",
+      "topic": "Famous paintings, artists, and museums",
+      "file": "data/generated/art-famous-paintings-artists-and-museums.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "mythology.famous.gods-heroes-legends",
+      "topic": "Famous gods, heroes, and legends",
+      "file": "data/generated/mythology-famous-gods-heroes-and-legends.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    },
+    {
+      "id": "television.famous.shows-characters-settings",
+      "topic": "Famous television shows, characters, and settings",
+      "file": "data/generated/tv-famous-shows-characters-and-settings.json",
+      "questions": 100,
+      "easier": 50,
+      "harder": 50,
+      "status": "present-in-database"
+    }
+  ]
+}

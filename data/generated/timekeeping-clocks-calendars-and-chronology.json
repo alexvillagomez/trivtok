@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "How many hours are on a standard analog clock face?",
+    "choices": [
+      "12",
+      "10",
+      "24",
+      "60"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which hand usually indicates minutes?",
+    "choices": [
+      "Short hand",
+      "Long hand",
+      "Second hand",
+      "Alarm hand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "How many minutes are in one hour?",
+    "choices": [
+      "30",
+      "100",
+      "60",
+      "24"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What device measures elapsed time with sand?",
+    "choices": [
+      "Sundial",
+      "Hourglass",
+      "Clepsydra",
+      "Metronome"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a sundial use to cast its time-telling shadow?",
+    "choices": [
+      "A gnomon",
+      "A pendulum",
+      "A spring",
+      "A balance wheel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "How many seconds are in a minute?",
+    "choices": [
+      "100",
+      "60",
+      "30",
+      "12"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which month normally has 28 days?",
+    "choices": [
+      "April",
+      "June",
+      "February",
+      "September"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the first day of the week in the ISO system?",
+    "choices": [
+      "Sunday",
+      "Saturday",
+      "Friday",
+      "Monday"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A clock that runs fast gains time or loses time?",
+    "choices": [
+      "Gains time",
+      "Loses time",
+      "Stops time",
+      "Reverses time"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What abbreviation commonly denotes Greenwich Mean Time?",
+    "choices": [
+      "UTC",
+      "GMT",
+      "TST",
+      "GMS"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "How many days are in a common year?",
+    "choices": [
+      "360",
+      "364",
+      "365",
+      "366"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What instrument uses a swinging weight to regulate a clock?",
+    "choices": [
+      "Quartz resonator",
+      "Mainspring",
+      "Escapement",
+      "Pendulum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a watch worn on the wrist called?",
+    "choices": [
+      "Wristwatch",
+      "Stopwatch",
+      "Pocket watch",
+      "Chronometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which calendar month follows March?",
+    "choices": [
+      "May",
+      "April",
+      "February",
+      "June"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does AM refer to on a 12-hour clock?",
+    "choices": [
+      "After midnight",
+      "Annual measure",
+      "Before noon",
+      "After noon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which clock technology commonly uses a quartz crystal?",
+    "choices": [
+      "Cuckoo clock",
+      "Water clock",
+      "Sundial",
+      "Electronic clock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is the date system used by most modern countries?",
+    "choices": [
+      "Gregorian calendar",
+      "Julian calendar",
+      "Mayan calendar",
+      "Islamic calendar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is a clock’s face also called?",
+    "choices": [
+      "Dial",
+      "Rotor",
+      "Crown",
+      "Caliber"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which unit is longer than a day?",
+    "choices": [
+      "Hour",
+      "Minute",
+      "Week",
+      "Second"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a stopwatch primarily measure?",
+    "choices": [
+      "Date",
+      "Time zones",
+      "Moon phases",
+      "Elapsed time"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Why are leap years added to the Gregorian calendar?",
+    "choices": [
+      "To align with Earth’s orbit",
+      "To align with tides",
+      "To shorten winter",
+      "To standardize weeks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the approximate length of a Gregorian calendar month?",
+    "choices": [
+      "Exactly 30 days",
+      "About 30 days",
+      "Exactly 28 days",
+      "About 45 days"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which mechanism releases a gear one tooth at a time?",
+    "choices": [
+      "Mainspring",
+      "Balance cock",
+      "Escapement",
+      "Calendar wheel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is UTC primarily used as?",
+    "choices": [
+      "A lunar calendar",
+      "A daylight rule",
+      "A local zone",
+      "A global time reference"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which calendar is based on lunar months and solar years?",
+    "choices": [
+      "Hebrew calendar",
+      "Julian calendar",
+      "Maya Haab’",
+      "French Republican calendar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does a leap second adjust?",
+    "choices": [
+      "Calendar months",
+      "UTC against Earth rotation",
+      "Time-zone borders",
+      "Clock hand lengths"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A chronograph is a watch with what added function?",
+    "choices": [
+      "Moon display",
+      "Alarm only",
+      "Stopwatch timing",
+      "Date correction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the International Date Line designed to separate?",
+    "choices": [
+      "Seasons",
+      "Solar and lunar time",
+      "Weeks and months",
+      "Calendar dates"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which ancient device measured time by controlled water flow?",
+    "choices": [
+      "Clepsydra",
+      "Astrolabe",
+      "Orrery",
+      "Nocturnal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a clock’s regulating oscillator in a mechanical wristwatch?",
+    "choices": [
+      "Crown",
+      "Balance wheel",
+      "Barrel",
+      "Jewel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "In horology, what stores energy in many mechanical watches?",
+    "choices": [
+      "Dial train",
+      "Pallet fork",
+      "Mainspring",
+      "Minute wheel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which time scale is based on atomic transitions?",
+    "choices": [
+      "UT1",
+      "Local mean time",
+      "Ephemeris time",
+      "TAI"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does a perpetual calendar complication account for?",
+    "choices": [
+      "Varying month lengths and leap years",
+      "Only weekday names",
+      "Only time zones",
+      "Only lunar eclipses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which ancient calendar had a 365-day civil year and a leap cycle?",
+    "choices": [
+      "Roman Republican",
+      "Julian",
+      "Egyptian civil",
+      "Aztec ritual"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a time zone’s offset measured relative to?",
+    "choices": [
+      "Local noon",
+      "The equator",
+      "UTC",
+      "The International Date Line"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is sidereal time keyed to?",
+    "choices": [
+      "The Moon’s phases",
+      "Civil midnight",
+      "Seasonal temperature",
+      "Earth’s rotation relative to stars"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which calendar repeats its weekday-date pattern approximately every 28 years?",
+    "choices": [
+      "Julian calendar",
+      "Gregorian calendar",
+      "Islamic calendar",
+      "Maya Tzolk’in"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does the equation of time compare?",
+    "choices": [
+      "UTC and TAI",
+      "Apparent and mean solar time",
+      "Lunar and sidereal months",
+      "Clock rate and power reserve"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which component in a watch drives the gear train from stored energy?",
+    "choices": [
+      "Dial",
+      "Pallet",
+      "Barrel",
+      "Hairspring"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a civil day conventionally based on?",
+    "choices": [
+      "A star’s culmination",
+      "A lunar month",
+      "An atomic transition",
+      "Mean solar midnight-to-midnight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which calendar is used for Islamic religious dates?",
+    "choices": [
+      "Hijri calendar",
+      "Hebrew calendar",
+      "Gregorian calendar",
+      "Persian calendar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What does a tourbillon primarily aim to reduce?",
+    "choices": [
+      "Calendar drift",
+      "Positional timing errors",
+      "Time-zone confusion",
+      "Mainspring length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which astronomical event defines a tropical year?",
+    "choices": [
+      "One lunar perigee",
+      "One solar eclipse",
+      "Successive vernal equinoxes",
+      "Two new moons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is a time ball historically used to signal?",
+    "choices": [
+      "Tide height",
+      "Calendar reform",
+      "Lunar phase",
+      "A precise time"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which standard replaced Greenwich Mean Time for global precision?",
+    "choices": [
+      "Coordinated Universal Time",
+      "Local apparent time",
+      "Railway time",
+      "Ephemeris calendar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does a watch’s power reserve indicate?",
+    "choices": [
+      "Its water depth rating",
+      "Remaining running duration",
+      "Its calendar year",
+      "Its jewel count"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which cycle governs the repeating phases of the Moon?",
+    "choices": [
+      "Saros cycle",
+      "Metonic cycle",
+      "Synodic month",
+      "Indiction cycle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is an horological complication?",
+    "choices": [
+      "A damaged gear",
+      "A clockmaker’s error",
+      "A case material",
+      "Any function beyond basic time display"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Why does the Gregorian reform omit some century leap years?",
+    "choices": [
+      "To approximate the tropical year more closely",
+      "To match lunar eclipses",
+      "To preserve 13-month years",
+      "To synchronize time zones"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What does UT1 measure most directly?",
+    "choices": [
+      "Atomic frequency",
+      "Earth’s rotation angle",
+      "Legal time",
+      "Clock power"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which mechanism converts a rotating escapement impulse into regular oscillation?",
+    "choices": [
+      "Calendar cam",
+      "Date wheel",
+      "Balance and hairspring",
+      "Repeater rack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the Saros cycle chiefly associated with?",
+    "choices": [
+      "Clock winding",
+      "Calendar weekdays",
+      "Time-zone offsets",
+      "Repeating eclipse geometry"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which historical system counted years from the founding of Rome?",
+    "choices": [
+      "Ab urbe condita",
+      "Anno Domini",
+      "Seleucid era",
+      "Olympiad"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a deadbeat escapement designed to provide?",
+    "choices": [
+      "Continuous calendar correction",
+      "Minimal recoil during locking",
+      "A lunar display",
+      "Automatic timezone changes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which calendar uses an intercalary month to reconcile lunar and solar cycles?",
+    "choices": [
+      "Egyptian calendar",
+      "Hebrew calendar",
+      "Maya Long Count",
+      "French Republican calendar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a repeater watch indicate on demand?",
+    "choices": [
+      "Its serial number",
+      "Its magnetic resistance",
+      "Its production era",
+      "The current time acoustically"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which standard is the basis for SI seconds?",
+    "choices": [
+      "Cesium-133 transition frequency",
+      "Earth’s mean solar day",
+      "The Julian year",
+      "The lunar synodic month"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is an annular calendar primarily intended to display?",
+    "choices": [
+      "Tide predictions",
+      "Dates around a circular scale",
+      "Atomic offsets",
+      "Star coordinates"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which chronology system numbers years before and after a reference era?",
+    "choices": [
+      "Regnal chronology",
+      "Relative chronology",
+      "BCE/CE chronology",
+      "Stratigraphic chronology"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the purpose of a fusee in a mechanical clock?",
+    "choices": [
+      "To show moon phase",
+      "To count leap seconds",
+      "To regulate timezone offsets",
+      "To equalize mainspring torque"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which calendar cycle links 19 solar years to 235 lunar months?",
+    "choices": [
+      "Metonic cycle",
+      "Saros cycle",
+      "Callippic cycle",
+      "Exeligmos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a remontoire provide in a precision clock?",
+    "choices": [
+      "A date display",
+      "Nearly constant impulse force",
+      "A second time zone",
+      "A lunar correction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which chronology uses layers or sequences without absolute dates?",
+    "choices": [
+      "Absolute chronology",
+      "Relative chronology",
+      "Radiometric chronology",
+      "Dynastic chronology"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a sidereal day approximately measured against?",
+    "choices": [
+      "The Sun’s apparent noon",
+      "The Moon’s node",
+      "The tropical year",
+      "A distant star’s meridian crossing"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which device historically enabled navigation by measuring stellar altitude and time?",
+    "choices": [
+      "Marine chronometer",
+      "Clepsydra",
+      "Hourglass",
+      "Calendar ring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What problem did marine chronometers solve for navigators?",
+    "choices": [
+      "Predicting eclipses",
+      "Determining longitude",
+      "Counting leap days",
+      "Measuring tide height"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which calendar’s Long Count records elapsed days from an epoch?",
+    "choices": [
+      "Aztec calendar",
+      "Maya calendar",
+      "Hebrew calendar",
+      "Coptic calendar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the principal role of a pallet fork?",
+    "choices": [
+      "Winding the barrel",
+      "Displaying the date",
+      "Correcting leap years",
+      "Transferring impulses at the escapement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which time scale is continuous and derived from atomic clocks without leap seconds?",
+    "choices": [
+      "TAI",
+      "UTC",
+      "UT1",
+      "TT"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a helix hairspring primarily improve?",
+    "choices": [
+      "Date legibility",
+      "Positional isochronism",
+      "Calendar arithmetic",
+      "Time-zone mapping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which ancient Greek mechanism modeled celestial cycles with geared components?",
+    "choices": [
+      "Antikythera mechanism",
+      "Tower of the Winds",
+      "Mekanika clepsydra",
+      "Pharos clock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is the Julian Day Number chiefly used for?",
+    "choices": [
+      "Setting wristwatch alarms",
+      "Naming weekdays",
+      "Defining time zones",
+      "Unambiguous chronological dating"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which calendar reform established the date jump in October 1582?",
+    "choices": [
+      "Gregorian reform",
+      "Julian reform",
+      "Mayan reform",
+      "Persian reform"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does chronometry study or assess?",
+    "choices": [
+      "Clock decoration",
+      "Accuracy of time measurement",
+      "Calendar symbolism",
+      "Astronomical mythology"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which clock uses a resonating quartz crystal?",
+    "choices": [
+      "Quartz clock",
+      "Water clock",
+      "Lantern clock",
+      "Candle clock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a calendar epact?",
+    "choices": [
+      "A clock jewel",
+      "A lunar-age value",
+      "A time-zone map",
+      "A pendulum length"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which unit equals 86,400 SI seconds?",
+    "choices": [
+      "Mean solar day",
+      "Julian year",
+      "Sidereal month",
+      "Civil week"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a flyback chronograph allow?",
+    "choices": [
+      "A second timezone",
+      "Reset and restart in one action",
+      "Automatic leap years",
+      "Moonrise prediction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which calendar is purely lunar?",
+    "choices": [
+      "Gregorian",
+      "Hebrew",
+      "Islamic Hijri",
+      "Julian"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a clock’s striking train for?",
+    "choices": [
+      "Storing power",
+      "Showing month length",
+      "Correcting longitude",
+      "Sounding hours"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which term means the study of clocks and watches?",
+    "choices": [
+      "Horology",
+      "Chronology",
+      "Gnomonics",
+      "Calendrics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a leap month called in calendrical usage?",
+    "choices": [
+      "Solaris",
+      "Intercalation",
+      "Intercalary month",
+      "Ephemeris"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which clock regulator replaced pendulums in many portable watches?",
+    "choices": [
+      "Water float",
+      "Balance wheel",
+      "Sun pointer",
+      "Date cam"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does a world-time watch display?",
+    "choices": [
+      "Only UTC",
+      "Only local noon",
+      "Only the date",
+      "Multiple time zones"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which observation best defines apparent solar noon?",
+    "choices": [
+      "Sun crossing the local meridian",
+      "Moon at zenith",
+      "First star visible",
+      "Clock striking twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a calendar’s intercalation?",
+    "choices": [
+      "Removing weekdays",
+      "Adding corrective time units",
+      "Changing clock hands",
+      "Naming eras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which mechanism provides a watch’s date change near midnight?",
+    "choices": [
+      "Balance spring",
+      "Pallet stone",
+      "Date-change cam",
+      "Minute repeater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does an atomic clock use as its reference?",
+    "choices": [
+      "A pendulum",
+      "A sundial shadow",
+      "A lunar phase",
+      "An atomic transition"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which era begins with the traditional birth of Jesus?",
+    "choices": [
+      "Anno Domini",
+      "Ab urbe condita",
+      "Seleucid era",
+      "Byzantine era"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a clock’s beat rate?",
+    "choices": [
+      "Case diameter",
+      "Oscillation frequency",
+      "Calendar span",
+      "Power reserve"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which calendar is associated with a 13-month structure?",
+    "choices": [
+      "Julian",
+      "Gregorian",
+      "Ethiopian",
+      "Islamic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a moonphase complication show?",
+    "choices": [
+      "Solar longitude",
+      "Week number",
+      "Atomic offset",
+      "Lunar illumination"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which standard time scale includes leap seconds?",
+    "choices": [
+      "UTC",
+      "TAI",
+      "TT",
+      "UT1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a calendar round?",
+    "choices": [
+      "A circular dial",
+      "A repeating calendrical cycle",
+      "A clock repair",
+      "A year fraction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which historical clock type was powered by falling weights?",
+    "choices": [
+      "Quartz clock",
+      "Atomic clock",
+      "Weight-driven clock",
+      "Spring watch"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the heliocentric Julian date corrected for?",
+    "choices": [
+      "Leap months",
+      "Clock jewels",
+      "Time zones",
+      "Light-travel time"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which component oscillates in a quartz wristwatch?",
+    "choices": [
+      "Quartz crystal",
+      "Mainspring",
+      "Pallet fork",
+      "Pendulum rod"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does a regnal year count from?",
+    "choices": [
+      "A solstice",
+      "A ruler’s accession",
+      "A calendar reform",
+      "A lunar eclipse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which astronomical time uses the Sun’s hour angle?",
+    "choices": [
+      "Sidereal time",
+      "Terrestrial time",
+      "Solar time",
+      "Atomic time"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a Geneva stop used to limit?",
+    "choices": [
+      "Pendulum swing",
+      "Calendar dates",
+      "Time-zone changes",
+      "Winding turns"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

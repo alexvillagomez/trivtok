@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which museum houses the Mona Lisa?",
+    "choices": [
+      "Louvre Museum",
+      "Prado Museum",
+      "Uffizi Gallery",
+      "Rijksmuseum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is provenance in museum work?",
+    "choices": [
+      "Its display height",
+      "An object’s ownership history",
+      "Its chemical formula",
+      "Its insurance value"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What does an accession number identify?",
+    "choices": [
+      "A donor’s address",
+      "A gallery doorway",
+      "A cataloged object",
+      "A lighting fixture"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which institution is known for the Rosetta Stone?",
+    "choices": [
+      "Getty Museum",
+      "Metropolitan Museum",
+      "Hermitage Museum",
+      "British Museum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is preventive conservation?",
+    "choices": [
+      "Reducing risks before damage",
+      "Repairing every tear",
+      "Repainting faded works",
+      "Selling duplicate objects"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Why are acid-free boxes used?",
+    "choices": [
+      "To increase object weight",
+      "To limit chemical deterioration",
+      "To brighten labels",
+      "To prevent theft alone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does a curator chiefly do?",
+    "choices": [
+      "Sets ticket prices only",
+      "Installs electrical wiring",
+      "Develops interpretive collections work",
+      "Runs the museum café"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Prado is especially associated with which city?",
+    "choices": [
+      "Brussels",
+      "Lisbon",
+      "Vienna",
+      "Madrid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a condition report?",
+    "choices": [
+      "A record of an object’s state",
+      "A visitor survey",
+      "A payroll document",
+      "A building lease"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Why is stable relative humidity important?",
+    "choices": [
+      "It guarantees authenticity",
+      "It reduces material stress",
+      "It eliminates dust",
+      "It changes paint color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Audio narration scripts",
+      "Museum gardening",
+      "Object movement and records",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To raise humidity",
+      "To magnify labels",
+      "To improve acoustics",
+      "To reduce light damage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Formally removing an object",
+      "Moving it to a new case",
+      "Digitizing its photograph",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Polishing every frame",
+      "Monitoring and limiting museum pests",
+      "Increasing ventilation speed",
+      "Replacing all storage shelves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Gravimetric weighing",
+      "Ultrasonic cleaning",
+      "Infrared reflectography",
+      "Thermal insulation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A restoration pigment",
+      "A label translation",
+      "A pest-control log",
+      "Terms for borrowing an object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "Standardized terms for consistent indexing",
+      "A list of restricted visitors",
+      "A secret donor register",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Visitor circulation",
+      "Internal structure and repairs",
+      "Humidity percentages",
+      "Frame dimensions only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Avoiding all contemporary art",
+      "Buying only expensive objects",
+      "Acquiring with legal and responsible scrutiny",
+      "Collecting without records"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A visitor’s admission stamp",
+      "A museum’s floor wax",
+      "A type of display glass",
+      "Structured information about an object or file"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Object movement and records",
+      "Museum gardening",
+      "Audio narration scripts",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To magnify labels",
+      "To reduce light damage",
+      "To improve acoustics",
+      "To raise humidity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Digitizing its photograph",
+      "Moving it to a new case",
+      "Formally removing an object",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Replacing all storage shelves",
+      "Polishing every frame",
+      "Increasing ventilation speed",
+      "Monitoring and limiting museum pests"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Infrared reflectography",
+      "Ultrasonic cleaning",
+      "Gravimetric weighing",
+      "Thermal insulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A label translation",
+      "Terms for borrowing an object",
+      "A pest-control log",
+      "A restoration pigment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "A secret donor register",
+      "A list of restricted visitors",
+      "Standardized terms for consistent indexing",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Frame dimensions only",
+      "Visitor circulation",
+      "Humidity percentages",
+      "Internal structure and repairs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Acquiring with legal and responsible scrutiny",
+      "Buying only expensive objects",
+      "Avoiding all contemporary art",
+      "Collecting without records"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A museum’s floor wax",
+      "Structured information about an object or file",
+      "A type of display glass",
+      "A visitor’s admission stamp"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Audio narration scripts",
+      "Museum gardening",
+      "Object movement and records",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To raise humidity",
+      "To magnify labels",
+      "To improve acoustics",
+      "To reduce light damage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Formally removing an object",
+      "Moving it to a new case",
+      "Digitizing its photograph",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Polishing every frame",
+      "Monitoring and limiting museum pests",
+      "Increasing ventilation speed",
+      "Replacing all storage shelves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Gravimetric weighing",
+      "Ultrasonic cleaning",
+      "Infrared reflectography",
+      "Thermal insulation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A restoration pigment",
+      "A label translation",
+      "A pest-control log",
+      "Terms for borrowing an object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "Standardized terms for consistent indexing",
+      "A list of restricted visitors",
+      "A secret donor register",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Visitor circulation",
+      "Internal structure and repairs",
+      "Humidity percentages",
+      "Frame dimensions only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Avoiding all contemporary art",
+      "Buying only expensive objects",
+      "Acquiring with legal and responsible scrutiny",
+      "Collecting without records"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A visitor’s admission stamp",
+      "A museum’s floor wax",
+      "A type of display glass",
+      "Structured information about an object or file"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Object movement and records",
+      "Museum gardening",
+      "Audio narration scripts",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To magnify labels",
+      "To reduce light damage",
+      "To improve acoustics",
+      "To raise humidity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Digitizing its photograph",
+      "Moving it to a new case",
+      "Formally removing an object",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Replacing all storage shelves",
+      "Polishing every frame",
+      "Increasing ventilation speed",
+      "Monitoring and limiting museum pests"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Infrared reflectography",
+      "Ultrasonic cleaning",
+      "Gravimetric weighing",
+      "Thermal insulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A label translation",
+      "Terms for borrowing an object",
+      "A pest-control log",
+      "A restoration pigment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "A secret donor register",
+      "A list of restricted visitors",
+      "Standardized terms for consistent indexing",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Frame dimensions only",
+      "Visitor circulation",
+      "Humidity percentages",
+      "Internal structure and repairs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Acquiring with legal and responsible scrutiny",
+      "Buying only expensive objects",
+      "Avoiding all contemporary art",
+      "Collecting without records"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A museum’s floor wax",
+      "Structured information about an object or file",
+      "A type of display glass",
+      "A visitor’s admission stamp"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Audio narration scripts",
+      "Museum gardening",
+      "Object movement and records",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To raise humidity",
+      "To magnify labels",
+      "To improve acoustics",
+      "To reduce light damage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Formally removing an object",
+      "Moving it to a new case",
+      "Digitizing its photograph",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Polishing every frame",
+      "Monitoring and limiting museum pests",
+      "Increasing ventilation speed",
+      "Replacing all storage shelves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Gravimetric weighing",
+      "Ultrasonic cleaning",
+      "Infrared reflectography",
+      "Thermal insulation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A restoration pigment",
+      "A label translation",
+      "A pest-control log",
+      "Terms for borrowing an object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "Standardized terms for consistent indexing",
+      "A list of restricted visitors",
+      "A secret donor register",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Visitor circulation",
+      "Internal structure and repairs",
+      "Humidity percentages",
+      "Frame dimensions only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Avoiding all contemporary art",
+      "Buying only expensive objects",
+      "Acquiring with legal and responsible scrutiny",
+      "Collecting without records"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A visitor’s admission stamp",
+      "A museum’s floor wax",
+      "A type of display glass",
+      "Structured information about an object or file"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Object movement and records",
+      "Museum gardening",
+      "Audio narration scripts",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To magnify labels",
+      "To reduce light damage",
+      "To improve acoustics",
+      "To raise humidity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Digitizing its photograph",
+      "Moving it to a new case",
+      "Formally removing an object",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Replacing all storage shelves",
+      "Polishing every frame",
+      "Increasing ventilation speed",
+      "Monitoring and limiting museum pests"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Infrared reflectography",
+      "Ultrasonic cleaning",
+      "Gravimetric weighing",
+      "Thermal insulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A label translation",
+      "Terms for borrowing an object",
+      "A pest-control log",
+      "A restoration pigment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "A secret donor register",
+      "A list of restricted visitors",
+      "Standardized terms for consistent indexing",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Frame dimensions only",
+      "Visitor circulation",
+      "Humidity percentages",
+      "Internal structure and repairs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Acquiring with legal and responsible scrutiny",
+      "Buying only expensive objects",
+      "Avoiding all contemporary art",
+      "Collecting without records"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A museum’s floor wax",
+      "Structured information about an object or file",
+      "A type of display glass",
+      "A visitor’s admission stamp"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Audio narration scripts",
+      "Museum gardening",
+      "Object movement and records",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To raise humidity",
+      "To magnify labels",
+      "To improve acoustics",
+      "To reduce light damage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Formally removing an object",
+      "Moving it to a new case",
+      "Digitizing its photograph",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Polishing every frame",
+      "Monitoring and limiting museum pests",
+      "Increasing ventilation speed",
+      "Replacing all storage shelves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Gravimetric weighing",
+      "Ultrasonic cleaning",
+      "Infrared reflectography",
+      "Thermal insulation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A restoration pigment",
+      "A label translation",
+      "A pest-control log",
+      "Terms for borrowing an object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "Standardized terms for consistent indexing",
+      "A list of restricted visitors",
+      "A secret donor register",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Visitor circulation",
+      "Internal structure and repairs",
+      "Humidity percentages",
+      "Frame dimensions only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Avoiding all contemporary art",
+      "Buying only expensive objects",
+      "Acquiring with legal and responsible scrutiny",
+      "Collecting without records"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A visitor’s admission stamp",
+      "A museum’s floor wax",
+      "A type of display glass",
+      "Structured information about an object or file"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Object movement and records",
+      "Museum gardening",
+      "Audio narration scripts",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To magnify labels",
+      "To reduce light damage",
+      "To improve acoustics",
+      "To raise humidity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Digitizing its photograph",
+      "Moving it to a new case",
+      "Formally removing an object",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Replacing all storage shelves",
+      "Polishing every frame",
+      "Increasing ventilation speed",
+      "Monitoring and limiting museum pests"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Infrared reflectography",
+      "Ultrasonic cleaning",
+      "Gravimetric weighing",
+      "Thermal insulation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A label translation",
+      "Terms for borrowing an object",
+      "A pest-control log",
+      "A restoration pigment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "A secret donor register",
+      "A list of restricted visitors",
+      "Standardized terms for consistent indexing",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Frame dimensions only",
+      "Visitor circulation",
+      "Humidity percentages",
+      "Internal structure and repairs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Acquiring with legal and responsible scrutiny",
+      "Buying only expensive objects",
+      "Avoiding all contemporary art",
+      "Collecting without records"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A museum’s floor wax",
+      "Structured information about an object or file",
+      "A type of display glass",
+      "A visitor’s admission stamp"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a registrar manage?",
+    "choices": [
+      "Audio narration scripts",
+      "Museum gardening",
+      "Object movement and records",
+      "Architectural blueprints"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Why use UV-filtering glazing?",
+    "choices": [
+      "To raise humidity",
+      "To magnify labels",
+      "To improve acoustics",
+      "To reduce light damage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is deaccessioning?",
+    "choices": [
+      "Formally removing an object",
+      "Moving it to a new case",
+      "Digitizing its photograph",
+      "Increasing its insurance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is integrated pest management?",
+    "choices": [
+      "Polishing every frame",
+      "Monitoring and limiting museum pests",
+      "Increasing ventilation speed",
+      "Replacing all storage shelves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which analysis can reveal underdrawing?",
+    "choices": [
+      "Gravimetric weighing",
+      "Ultrasonic cleaning",
+      "Infrared reflectography",
+      "Thermal insulation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a loan agreement?",
+    "choices": [
+      "A restoration pigment",
+      "A label translation",
+      "A pest-control log",
+      "Terms for borrowing an object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a controlled vocabulary?",
+    "choices": [
+      "Standardized terms for consistent indexing",
+      "A list of restricted visitors",
+      "A secret donor register",
+      "A set of climate alarms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does x-radiography help reveal?",
+    "choices": [
+      "Visitor circulation",
+      "Internal structure and repairs",
+      "Humidity percentages",
+      "Frame dimensions only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is ethical collecting?",
+    "choices": [
+      "Avoiding all contemporary art",
+      "Buying only expensive objects",
+      "Acquiring with legal and responsible scrutiny",
+      "Collecting without records"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is metadata?",
+    "choices": [
+      "A visitor’s admission stamp",
+      "A museum’s floor wax",
+      "A type of display glass",
+      "Structured information about an object or file"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

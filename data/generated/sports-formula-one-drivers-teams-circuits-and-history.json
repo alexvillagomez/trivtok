@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What kind of cars compete in Formula One?",
+    "choices": [
+      "Single-seat open-wheel cars",
+      "Closed-wheel touring cars",
+      "Motorcycles with sidecars",
+      "Electric rally cars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which flag traditionally signals the end of a motor race?",
+    "choices": [
+      "The blue flag",
+      "The chequered flag",
+      "The yellow flag",
+      "The green flag"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is pole position?",
+    "choices": [
+      "The place reserved for the defending champion",
+      "The first pit-box position",
+      "The front starting place earned in qualifying",
+      "The finish-line lane"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a pit stop used for during an F1 race?",
+    "choices": [
+      "Adding passengers",
+      "Changing the circuit layout",
+      "Releasing the safety car",
+      "Changing tires or making repairs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does the starting grid show?",
+    "choices": [
+      "The ordered positions where cars begin",
+      "The schedule of every season",
+      "The tire suppliers' garages",
+      "The championship standings only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does a lap represent on a circuit?",
+    "choices": [
+      "The distance between two pit boxes",
+      "One complete trip around the track",
+      "One qualifying attempt",
+      "A single tire change"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the main role of the safety car?",
+    "choices": [
+      "To set the fastest race lap",
+      "To carry spare tires",
+      "To slow and lead the field during a dangerous situation",
+      "To determine pole position"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does a red flag usually require drivers to do?",
+    "choices": [
+      "Pass the car ahead",
+      "Enter the pits for a mandatory tire change",
+      "Start a formation lap",
+      "Stop or suspend the session"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does DRS stand for in Formula One?",
+    "choices": [
+      "Drag Reduction System",
+      "Driver Rotation Signal",
+      "Downforce Regulation Setting",
+      "Dual Racing Suspension"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What type of tire has no tread pattern and is used in dry conditions?",
+    "choices": [
+      "An intermediate",
+      "A slick",
+      "A full wet",
+      "A studded tire"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which tire is designed for a wet but not fully flooded track?",
+    "choices": [
+      "A slick",
+      "A qualifying tire",
+      "An intermediate",
+      "A hard compound only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What does an F1 steering wheel commonly control besides steering?",
+    "choices": [
+      "The circuit's traffic lights",
+      "The team's hospitality doors",
+      "The race director's camera",
+      "Settings such as engine modes and radio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the front wing's major aerodynamic job?",
+    "choices": [
+      "Direct airflow and create front downforce",
+      "Store fuel",
+      "Cool the driver's helmet",
+      "Connect the car to the pit wall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the purpose of a rear wing on an F1 car?",
+    "choices": [
+      "To power the hybrid battery",
+      "To generate aerodynamic load and manage airflow",
+      "To support the driver's seat",
+      "To hold the timing transponder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What cockpit safety device surrounds a modern F1 driver's head?",
+    "choices": [
+      "The HANS wing",
+      "The cockpit canopy ring",
+      "The Halo",
+      "The roll-neck"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which team is represented by the Prancing Horse?",
+    "choices": [
+      "McLaren",
+      "Mercedes",
+      "Williams",
+      "Ferrari"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which team has traditionally used papaya orange as a prominent color?",
+    "choices": [
+      "McLaren",
+      "Ferrari",
+      "Sauber",
+      "Haas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which team is associated with a blue car and a charging bull logo?",
+    "choices": [
+      "Alpine",
+      "Red Bull Racing",
+      "Aston Martin",
+      "Williams"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which driver won seven world championships with Mercedes and McLaren by the end of 2020?",
+    "choices": [
+      "Sebastian Vettel",
+      "Fernando Alonso",
+      "Lewis Hamilton",
+      "Kimi Räikkönen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which German driver also won seven Formula One World Championships?",
+    "choices": [
+      "Nico Rosberg",
+      "Sebastian Vettel",
+      "Ralf Schumacher",
+      "Michael Schumacher"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Brazilian driver is remembered for three F1 world titles and extraordinary wet-weather skill?",
+    "choices": [
+      "Ayrton Senna",
+      "Nelson Piquet",
+      "Rubens Barrichello",
+      "Felipe Massa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which French driver won four world championships during the 1980s and early 1990s?",
+    "choices": [
+      "Jean Alesi",
+      "Alain Prost",
+      "René Arnoux",
+      "Olivier Panis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which driver won five championships during the 1950s?",
+    "choices": [
+      "Stirling Moss",
+      "Jack Brabham",
+      "Juan Manuel Fangio",
+      "Alberto Ascari"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who won the 2021 Formula One Drivers' Championship?",
+    "choices": [
+      "Lewis Hamilton",
+      "Valtteri Bottas",
+      "Charles Leclerc",
+      "Max Verstappen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which driver won four consecutive titles from 2010 through 2013?",
+    "choices": [
+      "Sebastian Vettel",
+      "Fernando Alonso",
+      "Jenson Button",
+      "Mark Webber"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which British driver won the 1992 world championship with Williams?",
+    "choices": [
+      "Damon Hill",
+      "Nigel Mansell",
+      "Mika Häkkinen",
+      "David Coulthard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In which principality is Formula 1's famous street race around Monte Carlo held?",
+    "choices": [
+      "Italy",
+      "France",
+      "Monaco",
+      "Spain"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which circuit traditionally hosts the British Grand Prix?",
+    "choices": [
+      "Brands Hatch",
+      "Donington Park",
+      "Goodwood",
+      "Silverstone"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the home country of the Autodromo Nazionale Monza?",
+    "choices": [
+      "Italy",
+      "Belgium",
+      "Austria",
+      "Hungary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which country hosts the Spa-Francorchamps circuit?",
+    "choices": [
+      "Germany",
+      "Belgium",
+      "Switzerland",
+      "Luxembourg"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In which country is Suzuka Circuit?",
+    "choices": [
+      "South Korea",
+      "China",
+      "Japan",
+      "Malaysia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which Brazilian circuit hosts the São Paulo Grand Prix?",
+    "choices": [
+      "Jacarepaguá",
+      "Brasília",
+      "Curitiba",
+      "Interlagos"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which United States circuit has hosted the U.S. Grand Prix since 2012?",
+    "choices": [
+      "Circuit of the Americas",
+      "Indianapolis Motor Speedway",
+      "Road America",
+      "Laguna Seca"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which F1 race is famous for being held at night under floodlights?",
+    "choices": [
+      "The Monaco Grand Prix",
+      "The Singapore Grand Prix",
+      "The Belgian Grand Prix",
+      "The British Grand Prix"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which street circuit includes a famous tunnel?",
+    "choices": [
+      "Baku",
+      "Singapore",
+      "Monaco",
+      "Jeddah"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is the famous uphill sequence at Spa-Francorchamps commonly called?",
+    "choices": [
+      "Maggotts and Becketts",
+      "Ascari and Parabolica",
+      "Degner and Spoon",
+      "Eau Rouge and Raidillon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What championship is awarded to the team with the best combined seasonal result?",
+    "choices": [
+      "The Constructors' Championship",
+      "The Sprint Championship",
+      "The Pole Trophy",
+      "The Pit Crew Cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What championship is awarded to the individual drivers?",
+    "choices": [
+      "The Constructors' Championship",
+      "The Drivers' Championship",
+      "The Team Principal's Cup",
+      "The Grand Prix Nations' Trophy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How many cars does a standard F1 team enter for a Grand Prix weekend?",
+    "choices": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does a fastest-lap award recognize?",
+    "choices": [
+      "The fastest pit stop",
+      "The first car to qualify",
+      "The quickest formation lap",
+      "The quickest completed lap in a race"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a podium finish in Formula One?",
+    "choices": [
+      "Finishing first, second, or third",
+      "Starting in the first three places",
+      "Winning a sprint only",
+      "Setting a qualifying record"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is the formation lap for?",
+    "choices": [
+      "Determining the championship winner",
+      "Allowing the cars to warm tires and systems before starting",
+      "Testing the safety car's speed",
+      "Changing the grid order by lottery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which driver became Ferrari's first Formula One world champion in 1952?",
+    "choices": [
+      "Juan Manuel Fangio",
+      "Giuseppe Farina",
+      "Alberto Ascari",
+      "Mike Hawthorn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which team won the first Formula One Constructors' Championship in 1958?",
+    "choices": [
+      "Ferrari",
+      "Lotus",
+      "Cooper",
+      "Vanwall"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which driver won the inaugural 1950 World Championship?",
+    "choices": [
+      "Giuseppe Farina",
+      "Juan Manuel Fangio",
+      "Alberto Ascari",
+      "Nino Farina's teammate Luigi Fagioli"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does a yellow flag tell an F1 driver?",
+    "choices": [
+      "The driver has won the race",
+      "There is danger ahead and overtaking is restricted",
+      "The tires are ready for a pit stop",
+      "The track is clear for maximum speed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a Grand Prix in the Formula One calendar?",
+    "choices": [
+      "A tire compound",
+      "A championship trophy only",
+      "An individual race event",
+      "A type of engine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the pit lane?",
+    "choices": [
+      "The straight between the final two corners",
+      "The area where spectators sit",
+      "The section used only for qualifying laps",
+      "The controlled lane containing team garages"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What does an F1 constructor build or design?",
+    "choices": [
+      "The car chassis and major racing package",
+      "The circuit's grandstands",
+      "The championship medals",
+      "The television broadcast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a race engineer's main job during a Grand Prix?",
+    "choices": [
+      "Driving the safety car",
+      "Communicating technical information and strategy to a driver",
+      "Inspecting spectator tickets",
+      "Designing the national flag"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which technical change defined the first hybrid power-unit era beginning in 2014?",
+    "choices": [
+      "Naturally aspirated V12 engines",
+      "Two-stroke V8 engines",
+      "Turbocharged V6 engines with energy recovery",
+      "Diesel inline-six engines"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What engine layout was specified for the 2014 Formula One power units?",
+    "choices": [
+      "A 3.0-liter naturally aspirated V10",
+      "A 2.4-liter V8",
+      "A 1.0-liter inline-four",
+      "A 1.6-liter turbocharged V6"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What was the main purpose of KERS when it appeared in F1?",
+    "choices": [
+      "Recovering braking energy for a temporary power boost",
+      "Cooling the tires with compressed air",
+      "Reducing the driver's steering effort",
+      "Changing the car's ride height automatically"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does the MGU-K recover in a hybrid F1 power unit?",
+    "choices": [
+      "Heat from the driver's helmet",
+      "Kinetic energy from braking",
+      "Fuel vapor from the tank",
+      "Air pressure from the rear wing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does the MGU-H primarily recover or use?",
+    "choices": [
+      "Energy from the front wing flex",
+      "Energy from tire deformation",
+      "Energy associated with the turbocharger's exhaust flow",
+      "Energy from the steering rack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which classic engine powered many championship-winning cars in the late 1960s and 1970s?",
+    "choices": [
+      "The Ferrari Tipo 049",
+      "The Honda RA168E",
+      "The Renault RS25",
+      "The Cosworth DFV"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What aerodynamic idea powered Lotus's 1978 championship-winning Lotus 79?",
+    "choices": [
+      "Ground effect from shaped sidepods and underbody airflow",
+      "A fan-driven vacuum system",
+      "A fully enclosed canopy",
+      "Active four-wheel steering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which team won both championships in its debut 2009 season after buying Honda's former operation?",
+    "choices": [
+      "Jordan",
+      "Brawn GP",
+      "Toyota",
+      "Benetton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Williams car is famous for active suspension and dominance in 1992?",
+    "choices": [
+      "FW07",
+      "FW18",
+      "FW14B",
+      "FW26"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which McLaren model won fifteen of sixteen races during the 1988 season?",
+    "choices": [
+      "MP4/13",
+      "M23",
+      "MP4-20",
+      "MP4/4"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which six-wheeled F1 car raced for Tyrrell in the 1970s?",
+    "choices": [
+      "P34",
+      "P34B only",
+      "007",
+      "DG-F1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What was unusual about Brabham's BT46B, the 1978 fan car?",
+    "choices": [
+      "It used six driven wheels",
+      "A fan extracted air beneath the car to increase grip",
+      "It had a turbine engine",
+      "It carried a passenger seat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is an undercut in race strategy?",
+    "choices": [
+      "Driving below the speed limit in the pit lane",
+      "Passing under a bridge",
+      "Pitting earlier than a rival to gain time on fresh tires",
+      "Starting behind the safety car"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is an overcut?",
+    "choices": [
+      "Taking two pit stops in one lap",
+      "Using a higher front wing",
+      "Starting from the back after qualifying",
+      "Staying out longer than a rival and using clear track before pitting"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does tire degradation describe?",
+    "choices": [
+      "The loss of tire performance as it wears or overheats",
+      "The time needed to change a tire",
+      "The temperature of the pit lane",
+      "The difference between wet and dry circuits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does parc fermé restrict after qualifying?",
+    "choices": [
+      "Radio communication with the driver",
+      "Major changes to the car's setup",
+      "The number of laps in the race",
+      "The team's choice of driver"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the principal aerodynamic benefit of downforce?",
+    "choices": [
+      "It reduces fuel density",
+      "It makes the engine quieter",
+      "It presses the car toward the track for greater cornering grip",
+      "It shortens the wheelbase"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is dirty air in Formula One?",
+    "choices": [
+      "Smoke from a damaged engine",
+      "Rain spray from a wet tire",
+      "Air entering the fuel tank",
+      "Turbulent airflow left by a car that can reduce the following car's aerodynamic performance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does slipstreaming give a following car on a straight?",
+    "choices": [
+      "Reduced aerodynamic drag behind the leading car",
+      "Extra grip from the front wing",
+      "A free tire change",
+      "Priority at the next pit stop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is porpoising in ground-effect racing?",
+    "choices": [
+      "A tire puncture caused by debris",
+      "Vertical bouncing caused by unstable underbody airflow",
+      "A gearbox gear selection error",
+      "A driver's motion under braking"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which safety system connects a driver's helmet to the car seat and restrains the head in a crash?",
+    "choices": [
+      "Halo",
+      "KERS",
+      "HANS",
+      "DRS"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the survival cell in an F1 car?",
+    "choices": [
+      "The fuel pump assembly",
+      "The rear wing's central flap",
+      "The tire warming blanket",
+      "The strong carbon-fiber monocoque around the driver"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which organization is Formula One's governing body?",
+    "choices": [
+      "The FIA",
+      "The IOC",
+      "The FIM",
+      "The ACO"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does a blue flag tell a slower driver during a race?",
+    "choices": [
+      "The circuit is about to close",
+      "A faster car is approaching and should be allowed to pass when appropriate",
+      "The driver's tires are too cold",
+      "The car must enter the pits immediately for fuel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does a black flag traditionally mean for a driver?",
+    "choices": [
+      "A mandatory tire change",
+      "The start of a safety-car period",
+      "Disqualification and a requirement to return to the pits",
+      "A warning about track limits only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What did the 107 percent qualifying rule historically require?",
+    "choices": [
+      "A team had to use 107 liters of fuel",
+      "A driver had to complete 107 laps",
+      "A car had to weigh 107 kilograms",
+      "A car had to lap within 107 percent of the pole time to qualify"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "When was the Drag Reduction System first introduced into Formula One racing?",
+    "choices": [
+      "2011",
+      "2004",
+      "2014",
+      "2022"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "When did Formula One reintroduce sprint-style qualifying races as a regular weekend feature?",
+    "choices": [
+      "2010",
+      "2021",
+      "2016",
+      "2024"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "When was in-race refueling banned from the main Formula One races?",
+    "choices": [
+      "1994",
+      "2005",
+      "2010",
+      "2014"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which 1976 championship rivalry paired James Hunt with Niki Lauda?",
+    "choices": [
+      "Williams versus Lotus",
+      "Brabham versus Tyrrell",
+      "Renault versus Ligier",
+      "McLaren versus Ferrari"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which 1988 rivalry saw Ayrton Senna and Alain Prost share the dominant McLaren team?",
+    "choices": [
+      "Senna versus Prost",
+      "Senna versus Mansell",
+      "Prost versus Piquet",
+      "Mansell versus Piquet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which 2016 result made Nico Rosberg a Formula One world champion?",
+    "choices": [
+      "He won the Constructors' title for Williams",
+      "He won the Drivers' Championship for Mercedes",
+      "He won the Monaco Grand Prix for Ferrari",
+      "He won the first F1 sprint championship"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which circuit is known for the Wall of Champions at its final chicane?",
+    "choices": [
+      "Circuit de Monaco",
+      "Suzuka Circuit",
+      "Circuit Gilles Villeneuve",
+      "Autodromo Nazionale Monza"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which corner is a famous left-hander at the end of Monza's long lap?",
+    "choices": [
+      "Loews Hairpin",
+      "Spoon Curve",
+      "Tamburello",
+      "Parabolica"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which circuit includes the high-speed 130R corner?",
+    "choices": [
+      "Suzuka",
+      "Silverstone",
+      "Spa-Francorchamps",
+      "Interlagos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which race became Formula One's first modern night Grand Prix in 2008?",
+    "choices": [
+      "Abu Dhabi Grand Prix",
+      "Singapore Grand Prix",
+      "Bahrain Grand Prix",
+      "Qatar Grand Prix"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which circuit hosted the controversial 2005 United States Grand Prix with only six starters?",
+    "choices": [
+      "Circuit of the Americas",
+      "Long Beach",
+      "Indianapolis Motor Speedway",
+      "Sebring"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which circuit's Tamburello corner was associated with Ayrton Senna's fatal 1994 accident?",
+    "choices": [
+      "Monza",
+      "Zandvoort",
+      "Hockenheim",
+      "Imola"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What was the main purpose of the Halo introduced for the 2018 season?",
+    "choices": [
+      "Protecting the driver's head from large impacts and debris",
+      "Reducing tire wear",
+      "Increasing engine power",
+      "Replacing the roll hoop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which tire manufacturer became Formula One's sole supplier beginning in 2011?",
+    "choices": [
+      "Bridgestone",
+      "Pirelli",
+      "Michelin",
+      "Goodyear"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which team has competed continuously in the World Championship since the inaugural 1950 season?",
+    "choices": [
+      "McLaren",
+      "Williams",
+      "Ferrari",
+      "Mercedes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which 1959 and 1960 champion team helped popularize the rear-engine layout in F1?",
+    "choices": [
+      "BRM",
+      "Vanwall",
+      "Matra",
+      "Cooper"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which 2009 rule change helped make double diffusers famous?",
+    "choices": [
+      "A revised aerodynamic package that some teams interpreted to gain extra underbody downforce",
+      "A return to turbocharged V6 engines",
+      "The introduction of the Halo",
+      "A ban on carbon-fiber brakes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What did the 2022 technical regulations notably bring back to modern F1 cars?",
+    "choices": [
+      "Six-wheel layouts",
+      "Ground-effect aerodynamic floors",
+      "Open refueling",
+      "Naturally aspirated V12 engines"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which official role oversees race control and interprets sporting procedures during a Grand Prix?",
+    "choices": [
+      "The team principal",
+      "The tire engineer",
+      "The race director",
+      "The chief mechanic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is the fundamental difference between a driver and constructor championship result?",
+    "choices": [
+      "A driver result is only from qualifying, while a constructor result is only from practice",
+      "A driver result uses laps, while a constructor result uses pit stops",
+      "A driver result is national, while a constructor result is continental",
+      "A driver result belongs to one racer, while a constructor result combines a team's cars"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which component transfers engine power to the rear wheels through the gears?",
+    "choices": [
+      "The transmission",
+      "The front wing",
+      "The diffuser",
+      "The halo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does a Formula One differential help manage?",
+    "choices": [
+      "How the driver breathes under braking",
+      "How the driven rear wheels rotate at different speeds in corners",
+      "How the front wing changes color",
+      "How the safety car chooses its route"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the purpose of a car's diffuser at the rear of its floor?",
+    "choices": [
+      "It stores the hybrid battery",
+      "It provides the driver's radio signal",
+      "It expands and accelerates underbody airflow to create useful downforce",
+      "It heats the tires directly"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which electronic driver aid was used by some leading F1 cars in the early 1990s?",
+    "choices": [
+      "The Halo",
+      "The DRS flap",
+      "A six-wheel rear axle",
+      "Active suspension"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  }
+]

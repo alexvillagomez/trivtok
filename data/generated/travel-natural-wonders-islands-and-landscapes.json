@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which mountain is the world’s highest above sea level?",
+    "choices": [
+      "Mount Everest",
+      "K2",
+      "Kilimanjaro",
+      "Mont Blanc"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Where is the Sahara Desert?",
+    "choices": [
+      "Asia",
+      "Africa",
+      "Australia",
+      "South America"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Where is most of the Amazon Rainforest?",
+    "choices": [
+      "Africa",
+      "Southeast Asia",
+      "South America",
+      "North America"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Where is the Grand Canyon?",
+    "choices": [
+      "Nevada",
+      "Utah",
+      "Colorado",
+      "Arizona"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which waterfall lies between the United States and Canada?",
+    "choices": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Iguazu Falls",
+      "Angel Falls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which two nations share Victoria Falls?",
+    "choices": [
+      "Kenya and Tanzania",
+      "Zambia and Zimbabwe",
+      "Brazil and Argentina",
+      "Peru and Bolivia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which country has Angel Falls?",
+    "choices": [
+      "Brazil",
+      "Colombia",
+      "Venezuela",
+      "Ecuador"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Where is the Great Barrier Reef?",
+    "choices": [
+      "Indonesia",
+      "Mexico",
+      "South Africa",
+      "Australia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which country includes the Galápagos Islands?",
+    "choices": [
+      "Ecuador",
+      "Chile",
+      "Peru",
+      "Colombia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which ocean contains the Maldives?",
+    "choices": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which U.S. state is made of islands in the Pacific?",
+    "choices": [
+      "Alaska",
+      "Florida",
+      "Hawaii",
+      "California"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which country is known as a land of fire and ice?",
+    "choices": [
+      "Norway",
+      "New Zealand",
+      "Greenland",
+      "Iceland"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which sea is famous for unusually salty water?",
+    "choices": [
+      "The Dead Sea",
+      "The Black Sea",
+      "The Caspian Sea",
+      "The Red Sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Where is Lake Baikal?",
+    "choices": [
+      "Canada",
+      "Russia",
+      "Mongolia",
+      "Kazakhstan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which countries share Lake Titicaca?",
+    "choices": [
+      "Chile and Argentina",
+      "Ecuador and Colombia",
+      "Peru and Bolivia",
+      "Brazil and Paraguay"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which river flows through much of the Amazon Basin?",
+    "choices": [
+      "The Congo River",
+      "The Paraná River",
+      "The Orinoco River",
+      "The Amazon River"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which mountain range runs along western South America?",
+    "choices": [
+      "The Andes",
+      "The Alps",
+      "The Rockies",
+      "The Himalayas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which mountain range crosses western North America?",
+    "choices": [
+      "The Andes",
+      "The Rocky Mountains",
+      "The Carpathians",
+      "The Atlas Mountains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which mountain range is in central Europe?",
+    "choices": [
+      "The Andes",
+      "The Himalayas",
+      "The Alps",
+      "The Drakensberg"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which range contains Mount Everest?",
+    "choices": [
+      "The Alps",
+      "The Rockies",
+      "The Caucasus",
+      "The Himalayas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Where is the Gobi Desert?",
+    "choices": [
+      "Mongolia and China",
+      "Egypt and Libya",
+      "Chile and Peru",
+      "Australia and New Zealand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which country has most of the Atacama Desert?",
+    "choices": [
+      "Peru",
+      "Chile",
+      "Bolivia",
+      "Argentina"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Where is the Mojave Desert?",
+    "choices": [
+      "Northern Africa",
+      "Central Australia",
+      "The southwestern United States",
+      "The Arabian Peninsula"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which country contains much of the Namib Desert?",
+    "choices": [
+      "Botswana",
+      "South Africa",
+      "Morocco",
+      "Namibia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Where is the Kalahari Desert?",
+    "choices": [
+      "Southern Africa",
+      "Central Asia",
+      "Northern Mexico",
+      "Western Australia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Where does Mount Fuji rise?",
+    "choices": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Indonesia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which East African nation contains Mount Kilimanjaro?",
+    "choices": [
+      "Kenya",
+      "Uganda",
+      "Tanzania",
+      "Ethiopia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which country contains Aconcagua?",
+    "choices": [
+      "Chile",
+      "Peru",
+      "Bolivia",
+      "Argentina"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which mountain is on the border of Switzerland and Italy?",
+    "choices": [
+      "The Matterhorn",
+      "Mount Elbrus",
+      "The Eiger",
+      "Grossglockner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which country has the rock formation Uluru?",
+    "choices": [
+      "South Africa",
+      "Australia",
+      "Namibia",
+      "New Zealand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Where is the Giant’s Causeway?",
+    "choices": [
+      "Wales",
+      "Scotland",
+      "Northern Ireland",
+      "Cornwall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which country is known for Cappadocia’s rock landscapes?",
+    "choices": [
+      "Greece",
+      "Jordan",
+      "Armenia",
+      "Turkey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Where are the travertine terraces of Pamukkale?",
+    "choices": [
+      "Turkey",
+      "Italy",
+      "Iran",
+      "Croatia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which countries share Iguazu Falls?",
+    "choices": [
+      "Brazil and Peru",
+      "Brazil and Argentina",
+      "Argentina and Chile",
+      "Paraguay and Bolivia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which country is known for Plitvice Lakes?",
+    "choices": [
+      "Slovenia",
+      "Austria",
+      "Croatia",
+      "Serbia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which country contains Banff National Park?",
+    "choices": [
+      "The United States",
+      "Switzerland",
+      "New Zealand",
+      "Canada"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Where is most of the Serengeti located?",
+    "choices": [
+      "Tanzania",
+      "Kenya",
+      "Botswana",
+      "Zambia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which U.S. state contains Yellowstone National Park’s main area?",
+    "choices": [
+      "Colorado",
+      "Wyoming",
+      "Montana only",
+      "Idaho only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which continent has the Congo Rainforest?",
+    "choices": [
+      "South America",
+      "Asia",
+      "Africa",
+      "Australia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which island is famous for lemurs?",
+    "choices": [
+      "Borneo",
+      "Sri Lanka",
+      "Sicily",
+      "Madagascar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is the world’s largest island that is not a continent?",
+    "choices": [
+      "Greenland",
+      "New Guinea",
+      "Borneo",
+      "Madagascar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which island is divided between Indonesia and an independent country to its east?",
+    "choices": [
+      "Borneo",
+      "New Guinea",
+      "Timor",
+      "Sulawesi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Mediterranean island is largest?",
+    "choices": [
+      "Sardinia",
+      "Cyprus",
+      "Sicily",
+      "Crete"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which country contains most of Bali?",
+    "choices": [
+      "Malaysia",
+      "The Philippines",
+      "Thailand",
+      "Indonesia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Where is Bora Bora?",
+    "choices": [
+      "French Polynesia",
+      "The Maldives",
+      "The Seychelles",
+      "Hawaii"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which mountain is the world’s second-highest?",
+    "choices": [
+      "Lhotse",
+      "K2",
+      "Kangchenjunga",
+      "Makalu"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which mountain is in the Annapurna range?",
+    "choices": [
+      "Denali",
+      "Aconcagua",
+      "Annapurna I",
+      "Mount Elbrus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which U.S. state contains Denali?",
+    "choices": [
+      "Washington",
+      "Montana",
+      "Colorado",
+      "Alaska"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which continent contains Mount Vinson?",
+    "choices": [
+      "Antarctica",
+      "Asia",
+      "South America",
+      "Africa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which island contains Mauna Kea?",
+    "choices": [
+      "Maui",
+      "Hawaiʻi Island",
+      "Oʻahu",
+      "Kauaʻi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which country contains Cotopaxi?",
+    "choices": [
+      "Colombia",
+      "Peru",
+      "Ecuador",
+      "Chile"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which country contains Mount Elbrus?",
+    "choices": [
+      "Georgia",
+      "Turkey",
+      "Kazakhstan",
+      "Russia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which countries contain the Rwenzori Mountains?",
+    "choices": [
+      "Uganda and the Democratic Republic of the Congo",
+      "Kenya and Tanzania",
+      "Rwanda and Burundi",
+      "Ethiopia and Eritrea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Where is the Salar de Uyuni?",
+    "choices": [
+      "Chile",
+      "Bolivia",
+      "Peru",
+      "Argentina"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which country contains the Danakil Depression?",
+    "choices": [
+      "Somalia",
+      "Sudan",
+      "Ethiopia",
+      "Djibouti"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Where is Wadi Rum?",
+    "choices": [
+      "Egypt",
+      "Oman",
+      "Saudi Arabia",
+      "Jordan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which country contains the White Desert?",
+    "choices": [
+      "Egypt",
+      "Libya",
+      "Tunisia",
+      "Morocco"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which countries share the Sonoran Desert?",
+    "choices": [
+      "Chile and Peru",
+      "The United States and Mexico",
+      "Namibia and Botswana",
+      "China and Mongolia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which country contains the Great Victoria Desert?",
+    "choices": [
+      "South Africa",
+      "Namibia",
+      "Australia",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Australian desert contains the Simpson Desert?",
+    "choices": [
+      "New Zealand",
+      "South Africa",
+      "Papua New Guinea",
+      "Australia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which country contains most of the Okavango Delta?",
+    "choices": [
+      "Botswana",
+      "Namibia",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which country contains most of the Pantanal?",
+    "choices": [
+      "Bolivia",
+      "Brazil",
+      "Peru",
+      "Paraguay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which countries share the Sundarbans?",
+    "choices": [
+      "India and Nepal",
+      "Myanmar and Thailand",
+      "Bangladesh and India",
+      "Sri Lanka and India"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which country contains the Daintree Rainforest?",
+    "choices": [
+      "Brazil",
+      "Malaysia",
+      "Papua New Guinea",
+      "Australia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which island is known for the Tsingy limestone formations?",
+    "choices": [
+      "Madagascar",
+      "Borneo",
+      "Java",
+      "Mauritius"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which country contains Waitomo Glowworm Caves?",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "Ireland",
+      "Slovenia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which country contains Sơn Đoòng Cave?",
+    "choices": [
+      "Laos",
+      "Thailand",
+      "Vietnam",
+      "China"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which U.S. state contains Mammoth Cave?",
+    "choices": [
+      "Tennessee",
+      "Virginia",
+      "West Virginia",
+      "Kentucky"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which U.S. state contains Carlsbad Caverns?",
+    "choices": [
+      "New Mexico",
+      "Arizona",
+      "Utah",
+      "Texas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Where is Fingal’s Cave?",
+    "choices": [
+      "Ireland",
+      "Scotland",
+      "Wales",
+      "Iceland"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which lake is the largest by surface area of the Great Lakes?",
+    "choices": [
+      "Lake Michigan",
+      "Lake Huron",
+      "Lake Superior",
+      "Lake Erie"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which lake is one of the world’s deepest?",
+    "choices": [
+      "Lake Victoria",
+      "Lake Chad",
+      "Lake Maracaibo",
+      "Lake Tanganyika"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which continent contains Lake Vostok?",
+    "choices": [
+      "Antarctica",
+      "Europe",
+      "Asia",
+      "South America"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which countries border Lake Turkana?",
+    "choices": [
+      "Kenya and Tanzania",
+      "Kenya and Ethiopia",
+      "Uganda and Kenya",
+      "Ethiopia and Sudan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which island is known for unusual species such as the dragon blood tree?",
+    "choices": [
+      "Sakhalin",
+      "Hainan",
+      "Socotra",
+      "Tasmania"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which country contains Komodo Island?",
+    "choices": [
+      "The Philippines",
+      "Malaysia",
+      "East Timor",
+      "Indonesia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which country contains the Raja Ampat islands?",
+    "choices": [
+      "Indonesia",
+      "Papua New Guinea",
+      "The Philippines",
+      "Australia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which country contains Palawan?",
+    "choices": [
+      "Indonesia",
+      "The Philippines",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which country governs Svalbard?",
+    "choices": [
+      "Iceland",
+      "Denmark",
+      "Norway",
+      "Sweden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which country is associated with the Faroe Islands?",
+    "choices": [
+      "Norway",
+      "Iceland",
+      "The United Kingdom",
+      "Denmark"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which country contains Lord Howe Island?",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "Fiji",
+      "France"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which country governs Easter Island?",
+    "choices": [
+      "Peru",
+      "Chile",
+      "Ecuador",
+      "France"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which territory includes Tristan da Cunha?",
+    "choices": [
+      "The Falkland Islands",
+      "French Polynesia",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "The British Virgin Islands"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Where is the Great Blue Hole?",
+    "choices": [
+      "Bahamas",
+      "Mexico",
+      "Australia",
+      "Belize"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which country contains Ningaloo Reef?",
+    "choices": [
+      "Australia",
+      "Belize",
+      "Mexico",
+      "Fiji"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which country contains Apo Reef?",
+    "choices": [
+      "Indonesia",
+      "The Philippines",
+      "Malaysia",
+      "Thailand"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which country contains Torres del Paine?",
+    "choices": [
+      "Argentina",
+      "Peru",
+      "Chile",
+      "Bolivia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which country contains Zhangjiajie’s sandstone pillars?",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "Vietnam",
+      "China"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which U.S. state contains The Wave rock formation?",
+    "choices": [
+      "Arizona",
+      "Utah",
+      "Nevada",
+      "New Mexico"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which country contains the Chocolate Hills?",
+    "choices": [
+      "Indonesia",
+      "The Philippines",
+      "Vietnam",
+      "Malaysia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Australian region contains the Bungle Bungles?",
+    "choices": [
+      "Queensland",
+      "South Australia",
+      "Western Australia",
+      "New South Wales"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which countries share Mount Roraima?",
+    "choices": [
+      "Peru, Bolivia, and Chile",
+      "Colombia, Ecuador, and Peru",
+      "Brazil, Paraguay, and Argentina",
+      "Venezuela, Guyana, and Brazil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which country contains Lake Natron?",
+    "choices": [
+      "Tanzania",
+      "Kenya",
+      "Ethiopia",
+      "Rwanda"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which country contains the Marble Caves of Patagonia?",
+    "choices": [
+      "Argentina",
+      "Chile",
+      "Peru",
+      "Uruguay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which country contains the Moeraki Boulders?",
+    "choices": [
+      "Australia",
+      "Tasmania",
+      "New Zealand",
+      "Fiji"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which country contains the Lençóis Maranhenses dunes and lagoons?",
+    "choices": [
+      "Peru",
+      "Colombia",
+      "Bolivia",
+      "Brazil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which country contains the Rainbow Mountains near Zhangye?",
+    "choices": [
+      "China",
+      "Mongolia",
+      "Kazakhstan",
+      "Kyrgyzstan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which country contains the Valley of the Moon near La Paz?",
+    "choices": [
+      "Peru",
+      "Bolivia",
+      "Chile",
+      "Ecuador"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which country contains the Richtersveld mountain desert?",
+    "choices": [
+      "Namibia",
+      "Botswana",
+      "South Africa",
+      "Lesotho"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which country contains the Sierra Nevada near Granada?",
+    "choices": [
+      "Portugal",
+      "Morocco",
+      "Italy",
+      "Spain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

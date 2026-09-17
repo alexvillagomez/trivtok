@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is an ecosystem?",
+    "choices": [
+      "Organisms and their physical environment",
+      "A single species in one habitat",
+      "Only the climate of a region",
+      "A map of seasonal migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which organisms make food from sunlight?",
+    "choices": [
+      "Producers",
+      "Detritivores",
+      "Primary consumers",
+      "Parasites"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is a habitat?",
+    "choices": [
+      "A species' genetic history",
+      "The place an organism lives",
+      "A chain of feeding links",
+      "A measure of birth rate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which relationship benefits both species?",
+    "choices": [
+      "Predation",
+      "Competition",
+      "Commensalism",
+      "Mutualism"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does biodiversity describe?",
+    "choices": [
+      "Variety of life",
+      "Amount of rainfall",
+      "Speed of succession",
+      "Depth of soil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a population?",
+    "choices": [
+      "All habitats in a biome",
+      "Members of one species in an area",
+      "Every species in a food web",
+      "All abiotic conditions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which factor is abiotic?",
+    "choices": [
+      "Fungus",
+      "Herbivore",
+      "Temperature",
+      "Bacterium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a food web?",
+    "choices": [
+      "A climate classification",
+      "A population census",
+      "A soil profile",
+      "Interconnected feeding relationships"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which consumer eats plants?",
+    "choices": [
+      "Herbivore",
+      "Decomposer",
+      "Scavenger",
+      "Apex predator"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What usually happens to energy between trophic levels?",
+    "choices": [
+      "It increases",
+      "Much is lost as heat",
+      "It becomes matterless",
+      "It cycles perfectly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is carrying capacity?",
+    "choices": [
+      "Migration distance",
+      "Maximum sustainable population size",
+      "Number of trophic levels",
+      "Rate of decomposition"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which process returns carbon dioxide to air?",
+    "choices": [
+      "Photosynthesis",
+      "Nitrogen fixation",
+      "Evaporation",
+      "Respiration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "A niche is best described as a species' what?",
+    "choices": [
+      "Ecological role",
+      "Body size",
+      "Taxonomic rank",
+      "Geographic border"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is primary succession?",
+    "choices": [
+      "Recovery where soil remains",
+      "Community development on bare substrate",
+      "Annual population turnover",
+      "Seasonal movement"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which biome has permafrost?",
+    "choices": [
+      "Savanna",
+      "Temperate forest",
+      "Tundra",
+      "Chaparral"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What do decomposers chiefly break down?",
+    "choices": [
+      "Sunlight",
+      "Rock minerals",
+      "Living predators",
+      "Dead organic matter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which cycle includes nitrification?",
+    "choices": [
+      "Nitrogen",
+      "Phosphorus",
+      "Water",
+      "Sulfur"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is an ecological community?",
+    "choices": [
+      "One breeding group",
+      "Populations of different species together",
+      "A physical landscape only",
+      "A single trophic level"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which interaction harms both participants?",
+    "choices": [
+      "Mutualism",
+      "Predation",
+      "Competition",
+      "Commensalism"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What does a quadrat sample?",
+    "choices": [
+      "Bird calls",
+      "Water chemistry",
+      "Animal age",
+      "Organisms within a defined area"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Why are keystone species important?",
+    "choices": [
+      "Their effects exceed their abundance",
+      "They are always predators",
+      "They live in every biome",
+      "They have the largest bodies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is eutrophication commonly caused by?",
+    "choices": [
+      "Low sunlight",
+      "Excess nutrient input",
+      "Reduced evaporation",
+      "Predator removal only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which measure estimates species richness?",
+    "choices": [
+      "Mean body mass",
+      "Total rainfall",
+      "Number of species",
+      "Net primary production"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does mark–recapture estimate?",
+    "choices": [
+      "Soil pH",
+      "Photosynthetic rate",
+      "Trophic efficiency",
+      "Population size"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which biome is dominated by grasses with scattered trees?",
+    "choices": [
+      "Savanna",
+      "Taiga",
+      "Tundra",
+      "Desert"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is net primary production?",
+    "choices": [
+      "Consumer biomass gained",
+      "Producer energy remaining after respiration",
+      "Total ecosystem respiration",
+      "Nutrient loss from soil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A trophic cascade begins with changes in what?",
+    "choices": [
+      "Soil texture",
+      "A top-down feeding interaction",
+      "Cloud cover",
+      "Genetic mutation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which cycle lacks a major atmospheric reservoir?",
+    "choices": [
+      "Carbon",
+      "Nitrogen",
+      "Water",
+      "Phosphorus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What does ecological resilience mean?",
+    "choices": [
+      "Recovery after disturbance",
+      "Permanent community change",
+      "Maximum species count",
+      "Resistance to all change"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which population pattern is clumped?",
+    "choices": [
+      "Equal spacing",
+      "Individuals in patches",
+      "Random spacing",
+      "No individuals"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is density-dependent regulation?",
+    "choices": [
+      "Effects unrelated to crowding",
+      "Effects that vary with population density",
+      "Weather affecting every species",
+      "A fixed birth rate"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which method follows animals without capturing them?",
+    "choices": [
+      "Pitfall trapping",
+      "Mark–recapture",
+      "Transect observation",
+      "Quadrat harvest"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is succession's climax concept often criticized for?",
+    "choices": [
+      "Assuming one final community",
+      "Ignoring all plants",
+      "Measuring only climate",
+      "Excluding disturbance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which process converts atmospheric nitrogen to usable forms?",
+    "choices": [
+      "Denitrification",
+      "Nitrogen fixation",
+      "Respiration",
+      "Leaching"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is an edge effect?",
+    "choices": [
+      "A nutrient cycle",
+      "Changed conditions at habitat boundaries",
+      "A random sampling error",
+      "A type of succession"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which conservation strategy protects habitats in place?",
+    "choices": [
+      "Captive breeding",
+      "Seed banking",
+      "Translocation",
+      "In situ conservation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does a life table summarize?",
+    "choices": [
+      "Survival and reproduction by age",
+      "Food-web links",
+      "Rainfall by month",
+      "Soil nutrients"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which growth model includes carrying capacity?",
+    "choices": [
+      "Linear",
+      "Logistic",
+      "Exponential only",
+      "Null"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is ecological release?",
+    "choices": [
+      "Loss of habitat",
+      "Expansion after a competitor or predator is reduced",
+      "Seasonal dormancy",
+      "Declining fertility"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which statistic compares observed and expected distributions?",
+    "choices": [
+      "Mean",
+      "Median",
+      "Range",
+      "Chi-square"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a metapopulation?",
+    "choices": [
+      "Linked local populations",
+      "One global population",
+      "A community without predators",
+      "A single age class"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which island biogeography factor raises immigration?",
+    "choices": [
+      "Greater isolation",
+      "Smaller distance from mainland",
+      "Lower habitat diversity",
+      "Higher extinction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does a functional response describe?",
+    "choices": [
+      "Species-area scaling",
+      "Predator consumption as prey density changes",
+      "Nutrient mineralization",
+      "Plant succession"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which process removes nitrate from ecosystems?",
+    "choices": [
+      "Ammonification",
+      "Nitrogen fixation",
+      "Nitrification",
+      "Denitrification"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is minimum viable population?",
+    "choices": [
+      "Smallest population with long-term persistence likelihood",
+      "Average population density",
+      "Largest protected group",
+      "Annual census minimum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which biome has the highest terrestrial productivity?",
+    "choices": [
+      "Tundra",
+      "Tropical rainforest",
+      "Hot desert",
+      "Temperate grassland"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does a stable isotope reveal in food-web studies?",
+    "choices": [
+      "Exact population age",
+      "Relative trophic position or resource use",
+      "Future climate alone",
+      "Genetic dominance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which conservation tool reduces illegal harvest?",
+    "choices": [
+      "Fragmentation",
+      "Eutrophication",
+      "Overgrazing",
+      "Protected-area enforcement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is apparent competition?",
+    "choices": [
+      "Shared predators create indirect competition",
+      "Two species share food directly",
+      "Plants compete for light",
+      "Competition within one species"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which pattern indicates Type III survivorship?",
+    "choices": [
+      "Low juvenile mortality",
+      "High juvenile mortality",
+      "Constant mortality",
+      "No mortality"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a source habitat?",
+    "choices": [
+      "Produces fewer offspring than replace losses",
+      "Has no dispersal",
+      "Exports surplus individuals",
+      "Exists only in reserves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which approach values ecosystem processes?",
+    "choices": [
+      "Single-species management",
+      "Genetic rescue only",
+      "Harvest maximization",
+      "Ecosystem-based management"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the intermediate disturbance hypothesis?",
+    "choices": [
+      "Diversity may peak at moderate disturbance",
+      "Disturbance always lowers diversity",
+      "Only fires create diversity",
+      "Disturbance has no effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which model describes competition between two species?",
+    "choices": [
+      "Lotka–Volterra competition model",
+      "Hardy–Weinberg model",
+      "Svedberg model",
+      "Malthusian age model"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is priority effect?",
+    "choices": [
+      "Later arrivals always dominate",
+      "Arrival order influences community outcomes",
+      "Predators choose rare prey",
+      "Climate sets richness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which process couples plant carbon and soil nutrients?",
+    "choices": [
+      "Tidal forcing",
+      "Island rescue",
+      "Thermal stratification",
+      "Decomposition and mineralization"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does source–sink theory predict?",
+    "choices": [
+      "Sources subsidize sinks through dispersal",
+      "Sinks export excess animals",
+      "All patches have equal quality",
+      "Sources cannot be disturbed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which metric incorporates species abundances and richness?",
+    "choices": [
+      "Species count",
+      "Shannon diversity",
+      "Canopy height",
+      "Capture rate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is ecological stoichiometry concerned with?",
+    "choices": [
+      "Landscape shape",
+      "Elemental ratios in organisms and resources",
+      "Predator age",
+      "Rainfall timing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which mechanism can maintain coexistence?",
+    "choices": [
+      "Competitive exclusion",
+      "Identical niches",
+      "Priority monopoly",
+      "Niche differentiation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does neutral theory assume about species?",
+    "choices": [
+      "Ecological equivalence in demographic rates",
+      "One species controls all others",
+      "Niches never overlap",
+      "Predators are absent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which design best tests a restoration treatment?",
+    "choices": [
+      "One convenient plot",
+      "Replicated randomized plots",
+      "Only a post-treatment survey",
+      "Unmeasured reference sites"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is functional diversity?",
+    "choices": [
+      "Number of habitats",
+      "Spread of ecological traits",
+      "Total genetic mutations",
+      "Count of predators"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which process creates a landscape mosaic?",
+    "choices": [
+      "Uniform succession",
+      "Perfect competition",
+      "Constant climate",
+      "Patch disturbance and recovery"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a Janzen–Connell effect?",
+    "choices": [
+      "Distance or density limits recruitment near adults",
+      "Predators vanish near edges",
+      "Nutrients increase with isolation",
+      "Fire eliminates seedlings everywhere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which method estimates movement between patches?",
+    "choices": [
+      "Leaf-area index",
+      "Telemetry or genetic assignment",
+      "Soil coring",
+      "Point-intercept sampling"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does beta diversity compare?",
+    "choices": [
+      "Within-site abundance",
+      "Differences in composition among sites",
+      "Total ecosystem energy",
+      "Age-specific survival"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which reserve design generally limits edge habitat?",
+    "choices": [
+      "Long narrow strips",
+      "Many tiny fragments",
+      "Irregular borders",
+      "Compact shapes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is eco-evolutionary feedback?",
+    "choices": [
+      "Ecological change alters evolution, which alters ecology",
+      "Weather changes without biology",
+      "Evolution stops in communities",
+      "Only fossils affect populations"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which model links predators and prey cycles?",
+    "choices": [
+      "Holling disc equation",
+      "Lotka–Volterra predator–prey equations",
+      "Arrhenius equation",
+      "Michaelis–Menten equation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does the rescue effect reduce?",
+    "choices": [
+      "Immigration",
+      "Local extinction risk",
+      "Habitat area",
+      "Genetic variation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which observation signals bottom-up control?",
+    "choices": [
+      "Predators determine plant biomass",
+      "Resources constrain consumers and predators",
+      "Predators have no prey",
+      "Consumers control sunlight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is priority sampling used to address?",
+    "choices": [
+      "Spatially structured environmental gradients",
+      "Random species names",
+      "Unchanging populations",
+      "Taxonomic synonymy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which concept describes indirect effects through shared enemies?",
+    "choices": [
+      "Apparent mutualism",
+      "Apparent competition",
+      "Facilitation",
+      "Character displacement"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does a Mantel test commonly compare?",
+    "choices": [
+      "Two means",
+      "Two distance matrices",
+      "Two survivorship curves",
+      "Two trophic levels"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which model handles imperfect species detection?",
+    "choices": [
+      "Simple census",
+      "Uncorrected richness",
+      "Linear succession",
+      "Occupancy model"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is ecological memory?",
+    "choices": [
+      "Past conditions influence present ecosystem responses",
+      "Animals remember every predator",
+      "Soils lose all history",
+      "Climate becomes constant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which process can cause extinction debt?",
+    "choices": [
+      "Immediate recolonization",
+      "Delayed extinction after habitat loss",
+      "Rapid speciation",
+      "Short-term migration"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a trait-based approach?",
+    "choices": [
+      "Classifying only by location",
+      "Linking organism traits to ecological functions",
+      "Counting individuals without traits",
+      "Measuring climate alone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which analysis partitions beta diversity?",
+    "choices": [
+      "Body size and age",
+      "Rainfall and temperature",
+      "Births and deaths",
+      "Turnover and nestedness"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does adaptive management emphasize?",
+    "choices": [
+      "Learning through monitored interventions",
+      "Avoiding every intervention",
+      "Managing without data",
+      "One irreversible decision"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which process promotes genetic rescue?",
+    "choices": [
+      "Reducing gene flow",
+      "Introducing unrelated immigrants",
+      "Increasing inbreeding",
+      "Isolating all patches"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a hysteresis in ecosystem change?",
+    "choices": [
+      "Recovery follows the same path exactly",
+      "Recovery requires different conditions than degradation",
+      "A daily population cycle",
+      "A sampling artifact"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which conservation action addresses climate tracking?",
+    "choices": [
+      "Closing corridors",
+      "Restoring connectivity across gradients",
+      "Increasing fragmentation",
+      "Removing refugia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does the insurance hypothesis propose?",
+    "choices": [
+      "Biodiversity stabilizes ecosystem function under variation",
+      "Insurance eliminates disturbance",
+      "Richness lowers productivity",
+      "One species guarantees stability"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which framework combines demography and spatial movement?",
+    "choices": [
+      "Island taxonomy",
+      "Integral projection model",
+      "Population viability analysis",
+      "Neutral nomenclature"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is eco-informatics chiefly used for?",
+    "choices": [
+      "Replacing fieldwork entirely",
+      "Integrating large ecological datasets",
+      "Naming every species",
+      "Predicting weather only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which causal method strengthens a food-web inference?",
+    "choices": [
+      "One-time correlation",
+      "Unreplicated observation",
+      "Selective anecdote",
+      "Manipulation with controls"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does variance partitioning separate?",
+    "choices": [
+      "Environmental and spatial components of explained variation",
+      "Predators from prey by size",
+      "Genes from chromosomes",
+      "Day from night"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which phenomenon can stabilize coexistence through storage?",
+    "choices": [
+      "Competitive exclusion",
+      "Temporal environmental variation",
+      "Habitat homogenization",
+      "Uniform recruitment"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a partial migration strategy?",
+    "choices": [
+      "All individuals migrate",
+      "Some individuals migrate while others remain",
+      "No individuals disperse",
+      "Migration occurs only once"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which approach estimates causal network structure?",
+    "choices": [
+      "Unstructured species list",
+      "Random habitat photograph",
+      "Single correlation coefficient",
+      "Structural equation modeling"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does restoration reference-condition matching require?",
+    "choices": [
+      "Defining target structure and processes",
+      "Copying the nearest site blindly",
+      "Maximizing one species",
+      "Removing all disturbance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which process increases connectivity among isolated patches?",
+    "choices": [
+      "Habitat corridors",
+      "Edge removal",
+      "Local extinction",
+      "Patch isolation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does demographic stochasticity describe?",
+    "choices": [
+      "Predictable climate cycles",
+      "Random variation in individual births and deaths",
+      "Long-term succession",
+      "Deterministic competition"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which evidence best supports a trophic cascade?",
+    "choices": [
+      "A species list",
+      "A single weather record",
+      "Unrelated abundance trends",
+      "Linked changes across multiple trophic levels"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is phylogenetic diversity?",
+    "choices": [
+      "Evolutionary history represented by a species set",
+      "Number of habitats sampled",
+      "Total individual abundance",
+      "Variation in daily temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which practice can reduce bycatch?",
+    "choices": [
+      "Increasing net mesh overlap",
+      "Using gear modifications that exclude non-target species",
+      "Removing seasonal closures",
+      "Fishing in nursery areas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What does a null model provide?",
+    "choices": [
+      "A guaranteed mechanism",
+      "A baseline pattern expected under specified randomization",
+      "A complete food web",
+      "A conservation target"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which outcome indicates successful ecological restoration?",
+    "choices": [
+      "Only higher visitor numbers",
+      "Permanent removal of native species",
+      "More concrete shoreline",
+      "Recovery of structure, function, and native biota"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

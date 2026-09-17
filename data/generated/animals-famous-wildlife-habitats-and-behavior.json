@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a baby kangaroo called?",
+    "choices": [
+      "A joey",
+      "A cub",
+      "A kit",
+      "A calf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is a baby dog called?",
+    "choices": [
+      "A kitten",
+      "A puppy",
+      "A foal",
+      "A cub"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a baby cat called?",
+    "choices": [
+      "A puppy",
+      "A cub",
+      "A kitten",
+      "A joey"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is a baby horse called?",
+    "choices": [
+      "A calf",
+      "A kid",
+      "A lamb",
+      "A foal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a baby goat called?",
+    "choices": [
+      "A kid",
+      "A lamb",
+      "A calf",
+      "A fawn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is a group of lions called?",
+    "choices": [
+      "A pack",
+      "A pride",
+      "A herd",
+      "A troop"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a group of wolves called?",
+    "choices": [
+      "A pride",
+      "A colony",
+      "A pack",
+      "A pod"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a group of crows called?",
+    "choices": [
+      "A parliament",
+      "A pod",
+      "A troop",
+      "A murder"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a group of fish called?",
+    "choices": [
+      "A school",
+      "A flock",
+      "A herd",
+      "A crash"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is a group of geese called?",
+    "choices": [
+      "A pride",
+      "A gaggle",
+      "A colony",
+      "A murder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What do giant pandas mainly eat?",
+    "choices": [
+      "Fish",
+      "Grass",
+      "Bamboo",
+      "Fruit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What leaves do koalas mainly eat?",
+    "choices": [
+      "Maple leaves",
+      "Pine needles",
+      "Bamboo leaves",
+      "Eucalyptus leaves"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does a camel store in its hump?",
+    "choices": [
+      "Fat",
+      "Water",
+      "Air",
+      "Sand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Where do polar bears live in the wild?",
+    "choices": [
+      "Antarctica",
+      "The Arctic",
+      "The Sahara",
+      "The Amazon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which continent is strongly associated with wild penguins?",
+    "choices": [
+      "Europe",
+      "North America",
+      "Antarctica",
+      "Asia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which country is famous for wild kangaroos?",
+    "choices": [
+      "Canada",
+      "India",
+      "Brazil",
+      "Australia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What body part helps a giraffe reach high leaves?",
+    "choices": [
+      "Its long neck",
+      "Its tail",
+      "Its ears",
+      "Its horns"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is the fastest land animal?",
+    "choices": [
+      "The lion",
+      "The cheetah",
+      "The horse",
+      "The ostrich"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does an elephant use as a trunk?",
+    "choices": [
+      "Its tail and ears",
+      "Its tusks and tongue",
+      "Its nose and upper lip",
+      "Its front legs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What kind of animal is a dolphin?",
+    "choices": [
+      "A fish",
+      "A reptile",
+      "An amphibian",
+      "A mammal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What kind of animal is a whale?",
+    "choices": [
+      "A mammal",
+      "A fish",
+      "A reptile",
+      "A mollusk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What kind of animal is a shark?",
+    "choices": [
+      "A mammal",
+      "A fish",
+      "A reptile",
+      "An amphibian"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What kind of animal is a frog?",
+    "choices": [
+      "A reptile",
+      "A fish",
+      "An amphibian",
+      "A mammal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What kind of animal is a snake?",
+    "choices": [
+      "An amphibian",
+      "A mammal",
+      "A bird",
+      "A reptile"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What kind of animal is an eagle?",
+    "choices": [
+      "A bird",
+      "A mammal",
+      "A reptile",
+      "An insect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What kind of animal is a bat?",
+    "choices": [
+      "A bird",
+      "A mammal",
+      "A reptile",
+      "An insect"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "An octopus has how many arms?",
+    "choices": [
+      "Six",
+      "Ten",
+      "Eight",
+      "Four"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "How many legs does a spider have?",
+    "choices": [
+      "Six",
+      "Ten",
+      "Twelve",
+      "Eight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What do adult butterflies mainly drink?",
+    "choices": [
+      "Nectar",
+      "Milk",
+      "Blood",
+      "Tree bark"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What do honeybees collect from flowers?",
+    "choices": [
+      "Salt and sand",
+      "Nectar and pollen",
+      "Fish and algae",
+      "Leaves and bark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "When are many owls most active?",
+    "choices": [
+      "At noon",
+      "Only in winter",
+      "At night",
+      "Only underwater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is hibernation?",
+    "choices": [
+      "A bird’s spring migration",
+      "A reptile’s shell growth",
+      "A fish’s egg-laying season",
+      "A long period of reduced activity and low body temperature"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which animal is famous for changing color to blend with its surroundings?",
+    "choices": [
+      "The chameleon",
+      "The elephant",
+      "The penguin",
+      "The giraffe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which animal is known for moving very slowly?",
+    "choices": [
+      "The cheetah",
+      "The sloth",
+      "The falcon",
+      "The dolphin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a group of meerkats often called?",
+    "choices": [
+      "A pride",
+      "A pod",
+      "A mob",
+      "A gaggle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Why do zebras have stripes?",
+    "choices": [
+      "The stripes store water",
+      "The stripes are painted by parents",
+      "The pattern makes them fly",
+      "The pattern may help with camouflage and insect confusion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a rhinoceros have on its nose?",
+    "choices": [
+      "A horn",
+      "A trunk",
+      "A beak",
+      "A tusk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Where do hippos spend much of the day?",
+    "choices": [
+      "In tree canopies",
+      "In or near water",
+      "On polar ice",
+      "In underground tunnels"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Where does a whale breathe air?",
+    "choices": [
+      "Through gills",
+      "Through its fins",
+      "Through a blowhole",
+      "Through its tail"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What do fish use to get oxygen from water?",
+    "choices": [
+      "Lungs only",
+      "Fur",
+      "Feathers",
+      "Gills"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What covers a bird’s body and helps with flight?",
+    "choices": [
+      "Feathers",
+      "Fur",
+      "Scales only",
+      "Hair"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What covers most mammals’ bodies?",
+    "choices": [
+      "Feathers",
+      "Hair or fur",
+      "Shells",
+      "Scales only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which insect is famous for a long migration to Mexico?",
+    "choices": [
+      "The honeybee",
+      "The dragonfly",
+      "The monarch butterfly",
+      "The ladybird"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which animal is known for using echolocation?",
+    "choices": [
+      "The giraffe",
+      "The tortoise",
+      "The kangaroo",
+      "The bat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What do vultures mainly eat?",
+    "choices": [
+      "Carrion",
+      "Bamboo",
+      "Nectar",
+      "Seaweed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which animal is famous for its black-and-white coloring and bamboo diet?",
+    "choices": [
+      "The zebra",
+      "The giant panda",
+      "The skunk",
+      "The lemur"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which animal can regrow lost limbs especially well?",
+    "choices": [
+      "The elephant",
+      "The eagle",
+      "The axolotl",
+      "The camel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is a narwhal’s tusk?",
+    "choices": [
+      "A horn made of bone",
+      "A hardened fin",
+      "A piece of coral",
+      "A long tooth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which mammal lays eggs?",
+    "choices": [
+      "The platypus",
+      "The otter",
+      "The dolphin",
+      "The sloth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which mammal is also known as a monotreme?",
+    "choices": [
+      "The koala",
+      "The echidna",
+      "The wombat",
+      "The wallaby"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which bird is famous for flying thousands of miles across oceans?",
+    "choices": [
+      "The ostrich",
+      "The penguin",
+      "The wandering albatross",
+      "The emu"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which bird makes one of the longest migrations in the world?",
+    "choices": [
+      "The kiwi",
+      "The ostrich",
+      "The secretarybird",
+      "The Arctic tern"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which deer has antlers in both males and females?",
+    "choices": [
+      "The reindeer",
+      "The white-tailed deer",
+      "The moose",
+      "The red deer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which animal is known for speed on North American grasslands?",
+    "choices": [
+      "The bison",
+      "The pronghorn",
+      "The elk",
+      "The moose"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which rare mammal resembles a small giraffe?",
+    "choices": [
+      "The saiga",
+      "The gerenuk",
+      "The okapi",
+      "The kudu"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which animal has a large, flexible nose that warms cold air?",
+    "choices": [
+      "The fennec fox",
+      "The tapir",
+      "The aardvark",
+      "The saiga"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which fox has especially large ears for its body size?",
+    "choices": [
+      "The fennec fox",
+      "The red fox",
+      "The arctic fox",
+      "The gray fox"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What covers a pangolin’s body?",
+    "choices": [
+      "Feathers",
+      "Overlapping keratin scales",
+      "A hard shell",
+      "Spines filled with venom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What do aardvarks mainly eat?",
+    "choices": [
+      "Bamboo shoots",
+      "Fish",
+      "Ants and termites",
+      "Fruit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What smell is the binturong famously compared with?",
+    "choices": [
+      "Peppermint",
+      "Fresh grass",
+      "Coconut",
+      "Popcorn"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which marsupial is native to Tasmania?",
+    "choices": [
+      "The Tasmanian devil",
+      "The quokka",
+      "The numbat",
+      "The bilby"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Australian animal is known for a friendly-looking smile?",
+    "choices": [
+      "The wombat",
+      "The quokka",
+      "The bilby",
+      "The dingo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which lemur has an unusually long finger for finding grubs?",
+    "choices": [
+      "The ring-tailed lemur",
+      "The sifaka",
+      "The aye-aye",
+      "The indri"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which predator is native to Madagascar?",
+    "choices": [
+      "The caracal",
+      "The ocelot",
+      "The civet",
+      "The fossa"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which parrot is famous for being flightless?",
+    "choices": [
+      "The kakapo",
+      "The macaw",
+      "The lorikeet",
+      "The kea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which bird has nostrils near the tip of its beak?",
+    "choices": [
+      "The toucan",
+      "The kiwi",
+      "The pelican",
+      "The crane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which bird has a massive shoe-shaped bill?",
+    "choices": [
+      "The hornbill",
+      "The heron",
+      "The shoebill",
+      "The spoonbill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which bird is named for its habit of walking on the ground and hunting snakes?",
+    "choices": [
+      "The kingfisher",
+      "The frigatebird",
+      "The cormorant",
+      "The secretarybird"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which bird’s chicks have claws on their wings?",
+    "choices": [
+      "The hoatzin",
+      "The jacana",
+      "The cuckoo",
+      "The lyrebird"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which bird has a casque and is native to New Guinea and northern Australia?",
+    "choices": [
+      "The emu",
+      "The cassowary",
+      "The hornbill",
+      "The condor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which bird is the largest living bird?",
+    "choices": [
+      "The emu",
+      "The cassowary",
+      "The ostrich",
+      "The condor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which bird can hover by rapidly beating its wings?",
+    "choices": [
+      "The albatross",
+      "The pelican",
+      "The crane",
+      "The hummingbird"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which bird hunts by diving at very high speed?",
+    "choices": [
+      "The peregrine falcon",
+      "The bald eagle",
+      "The osprey",
+      "The harrier"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What makes owl flight unusually quiet?",
+    "choices": [
+      "A lack of wings",
+      "Specially adapted feather edges",
+      "A hollow beak",
+      "A layer of wet feathers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which sea animal strikes prey with club-like appendages?",
+    "choices": [
+      "The lobster",
+      "The horseshoe crab",
+      "The mantis shrimp",
+      "The sea urchin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which fish can produce powerful electric discharges?",
+    "choices": [
+      "The tuna",
+      "The swordfish",
+      "The lanternfish",
+      "The electric eel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which animal carries developing young in a brood pouch on the male?",
+    "choices": [
+      "The seahorse",
+      "The seal",
+      "The penguin",
+      "The sea turtle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which fish can change sex within its social group?",
+    "choices": [
+      "The salmon",
+      "The clownfish",
+      "The tuna",
+      "The seahorse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which deep-sea fish uses a glowing lure?",
+    "choices": [
+      "The manta ray",
+      "The tuna",
+      "The anglerfish",
+      "The flying fish"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why is horseshoe crab blood famous?",
+    "choices": [
+      "It glows naturally in darkness",
+      "It is the warmest blood in the sea",
+      "It turns red when exposed to air",
+      "It is blue and contains useful immune compounds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which fish is often called a living fossil?",
+    "choices": [
+      "The coelacanth",
+      "The cod",
+      "The trout",
+      "The mahi-mahi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which fish can breathe air and survive in muddy wetlands?",
+    "choices": [
+      "The tuna",
+      "The lungfish",
+      "The swordfish",
+      "The salmon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which fish can move across mud with its fins?",
+    "choices": [
+      "The eel",
+      "The seahorse",
+      "The mudskipper",
+      "The flying fish"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What gives some poison dart frogs their toxins in the wild?",
+    "choices": [
+      "Their eggshells",
+      "Their bright colors alone",
+      "Their ability to breathe through skin",
+      "Their diet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which amphibian is a major invasive species in Australia?",
+    "choices": [
+      "The cane toad",
+      "The axolotl",
+      "The hellbender",
+      "The newt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which reptile is found naturally in New Zealand and is not a true lizard?",
+    "choices": [
+      "The iguana",
+      "The tuatara",
+      "The gecko",
+      "The skink"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which lizard is the largest living species?",
+    "choices": [
+      "The green iguana",
+      "The Gila monster",
+      "The Komodo dragon",
+      "The monitor gecko"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a boa constrictor use to subdue prey?",
+    "choices": [
+      "Venomous fangs",
+      "Electric shocks",
+      "Stinging hairs",
+      "Constriction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which octopus is famous for imitating other sea animals?",
+    "choices": [
+      "The mimic octopus",
+      "The giant Pacific octopus",
+      "The dumbo octopus",
+      "The blue-ringed octopus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which animal is famous for leaf-like camouflage in coral reefs?",
+    "choices": [
+      "The manta ray",
+      "The leafy seadragon",
+      "The sea lion",
+      "The moray eel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is coral?",
+    "choices": [
+      "A type of underwater plant",
+      "A single large shell",
+      "A colony of tiny animals",
+      "A kind of seaweed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which animal is the largest known animal?",
+    "choices": [
+      "The African elephant",
+      "The giant squid",
+      "The whale shark",
+      "The blue whale"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which whale is famous for very deep dives?",
+    "choices": [
+      "The sperm whale",
+      "The humpback whale",
+      "The gray whale",
+      "The right whale"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a group of orcas usually called?",
+    "choices": [
+      "A pride",
+      "A pod",
+      "A troop",
+      "A colony"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which whales are famous for complex songs?",
+    "choices": [
+      "Blue whales",
+      "Narwhals",
+      "Humpback whales",
+      "Belugas only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What do honeybees use a waggle dance to show?",
+    "choices": [
+      "Which bee is queen",
+      "When winter begins",
+      "How to build a hive",
+      "The direction and distance to food"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What do ants use to mark many food trails?",
+    "choices": [
+      "Pheromones",
+      "Feathers",
+      "Sound waves only",
+      "Web silk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which animal is famous for learning complex vocal patterns?",
+    "choices": [
+      "The rhinoceros",
+      "The raven",
+      "The iguana",
+      "The sloth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which mammal uses a prehensile tail to move through trees?",
+    "choices": [
+      "The zebra",
+      "The meerkat",
+      "The spider monkey",
+      "The aardvark"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which animal’s fingerprints can resemble human fingerprints?",
+    "choices": [
+      "The panda",
+      "The kangaroo",
+      "The wombat",
+      "The koala"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who wrote Pride and Prejudice?",
+    "choices": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "George Eliot",
+      "Mary Shelley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who wrote Hamlet?",
+    "choices": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "John Milton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Who wrote The Great Gatsby?",
+    "choices": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who wrote Nineteen Eighty-Four?",
+    "choices": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Anthony Burgess",
+      "George Orwell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who wrote The Hobbit?",
+    "choices": [
+      "J. R. R. Tolkien",
+      "C. S. Lewis",
+      "Philip Pullman",
+      "Terry Pratchett"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who wrote Don Quixote?",
+    "choices": [
+      "Dante Alighieri",
+      "Miguel de Cervantes",
+      "Victor Hugo",
+      "Gustave Flaubert"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is traditionally credited with the Odyssey?",
+    "choices": [
+      "Virgil",
+      "Sophocles",
+      "Homer",
+      "Herodotus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Who wrote The Divine Comedy?",
+    "choices": [
+      "Petrarch",
+      "Boccaccio",
+      "Ariosto",
+      "Dante Alighieri"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who wrote Les Misérables?",
+    "choices": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Émile Zola",
+      "Stendhal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who wrote Frankenstein?",
+    "choices": [
+      "Mary Wollstonecraft",
+      "Mary Shelley",
+      "Ann Radcliffe",
+      "Emily Brontë"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who wrote Dracula?",
+    "choices": [
+      "H. G. Wells",
+      "Robert Louis Stevenson",
+      "Bram Stoker",
+      "M. R. James"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who created Sherlock Holmes?",
+    "choices": [
+      "Agatha Christie",
+      "Wilkie Collins",
+      "G. K. Chesterton",
+      "Arthur Conan Doyle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who wrote Alice’s Adventures in Wonderland?",
+    "choices": [
+      "Lewis Carroll",
+      "J. M. Barrie",
+      "Kenneth Grahame",
+      "A. A. Milne"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who wrote To Kill a Mockingbird?",
+    "choices": [
+      "Toni Morrison",
+      "Harper Lee",
+      "Flannery O’Connor",
+      "Eudora Welty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Who wrote Beloved?",
+    "choices": [
+      "Alice Walker",
+      "Maya Angelou",
+      "Toni Morrison",
+      "Zora Neale Hurston"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who wrote Things Fall Apart?",
+    "choices": [
+      "Ngũgĩ wa Thiong’o",
+      "Wole Soyinka",
+      "Ben Okri",
+      "Chinua Achebe"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Who wrote One Hundred Years of Solitude?",
+    "choices": [
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Isabel Allende",
+      "Mario Vargas Llosa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Who wrote The Little Prince?",
+    "choices": [
+      "Jules Verne",
+      "Antoine de Saint-Exupéry",
+      "Albert Camus",
+      "Marcel Proust"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who wrote The Catcher in the Rye?",
+    "choices": [
+      "John Updike",
+      "Philip Roth",
+      "J. D. Salinger",
+      "Saul Bellow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Who wrote Moby-Dick?",
+    "choices": [
+      "Nathaniel Hawthorne",
+      "Walt Whitman",
+      "Mark Twain",
+      "Herman Melville"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Who wrote War and Peace?",
+    "choices": [
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "Maxim Gorky"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Who wrote Anna Karenina?",
+    "choices": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Nikolai Gogol",
+      "Boris Pasternak"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who wrote The Trial?",
+    "choices": [
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Franz Kafka",
+      "Rainer Maria Rilke"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is Gregor Samsa in The Metamorphosis?",
+    "choices": [
+      "A schoolteacher",
+      "A soldier",
+      "A lawyer",
+      "A traveling salesman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Where does Odysseus hope to return?",
+    "choices": [
+      "Ithaca",
+      "Sparta",
+      "Troy",
+      "Crete"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Where is Romeo and Juliet set?",
+    "choices": [
+      "Venice",
+      "Verona",
+      "Florence",
+      "Naples"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which country is central to Macbeth?",
+    "choices": [
+      "Wales",
+      "Ireland",
+      "Scotland",
+      "France"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Where does much of Othello take place after Venice?",
+    "choices": [
+      "Sicily",
+      "Crete",
+      "Malta",
+      "Cyprus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Where do the lovers meet in A Midsummer Night’s Dream?",
+    "choices": [
+      "A forest",
+      "A castle",
+      "A ship",
+      "A marketplace"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Who rules the island in The Tempest?",
+    "choices": [
+      "Caliban",
+      "Prospero",
+      "Alonso",
+      "Antonio"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who wrote Paradise Lost?",
+    "choices": [
+      "John Donne",
+      "Edmund Spenser",
+      "John Milton",
+      "Alexander Pope"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Who wrote The Canterbury Tales?",
+    "choices": [
+      "William Langland",
+      "Thomas More",
+      "John Gower",
+      "Geoffrey Chaucer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What kind of work is Beowulf?",
+    "choices": [
+      "An Old English epic poem",
+      "A French comedy",
+      "A Greek tragedy",
+      "A Renaissance sonnet sequence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which place does Dante visit first in The Divine Comedy?",
+    "choices": [
+      "Purgatorio",
+      "Inferno",
+      "Paradiso",
+      "Elysium"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who wrote Faust?",
+    "choices": [
+      "Friedrich Schiller",
+      "Heinrich Heine",
+      "Johann Wolfgang von Goethe",
+      "Thomas Mann"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Who wrote Madame Bovary?",
+    "choices": [
+      "Émile Zola",
+      "Honoré de Balzac",
+      "Guy de Maupassant",
+      "Gustave Flaubert"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who is the main character in Crime and Punishment?",
+    "choices": [
+      "Raskolnikov",
+      "Ivan Karamazov",
+      "Prince Myshkin",
+      "Eugene Onegin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Who wrote The Brothers Karamazov?",
+    "choices": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Ivan Goncharov",
+      "Vladimir Nabokov"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who wrote The Stranger?",
+    "choices": [
+      "Jean-Paul Sartre",
+      "André Gide",
+      "Albert Camus",
+      "Marcel Pagnol"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Who wrote The Plague?",
+    "choices": [
+      "George Simenon",
+      "Jean Genet",
+      "André Malraux",
+      "Albert Camus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Who wrote The Alchemist?",
+    "choices": [
+      "Paulo Coelho",
+      "José Saramago",
+      "Jorge Amado",
+      "Fernando Pessoa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Nigerian novel centers on Okonkwo?",
+    "choices": [
+      "The Famished Road",
+      "Things Fall Apart",
+      "Half of a Yellow Sun",
+      "Season of Migration to the North"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Who wrote The Color Purple?",
+    "choices": [
+      "Toni Morrison",
+      "Maya Angelou",
+      "Alice Walker",
+      "Gloria Naylor"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Who wrote Their Eyes Were Watching God?",
+    "choices": [
+      "Nella Larsen",
+      "Gwendolyn Brooks",
+      "Jessie Fauset",
+      "Zora Neale Hurston"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Who wrote The Joy Luck Club?",
+    "choices": [
+      "Amy Tan",
+      "Maxine Hong Kingston",
+      "Jhumpa Lahiri",
+      "Ruth Ozeki"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Who wrote The God of Small Things?",
+    "choices": [
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Anita Desai",
+      "Vikram Seth"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Who wrote Midnight’s Children?",
+    "choices": [
+      "Amitav Ghosh",
+      "V. S. Naipaul",
+      "Salman Rushdie",
+      "Aravind Adiga"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Who wrote The Kite Runner?",
+    "choices": [
+      "Mohsin Hamid",
+      "Orhan Pamuk",
+      "Nadeem Aslam",
+      "Khaled Hosseini"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Who wrote The Name of the Rose?",
+    "choices": [
+      "Umberto Eco",
+      "Italo Calvino",
+      "Dino Buzzati",
+      "Alessandro Manzoni"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Who wrote The Handmaid’s Tale?",
+    "choices": [
+      "Doris Lessing",
+      "Margaret Atwood",
+      "Ursula K. Le Guin",
+      "Octavia E. Butler"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Who wrote Middlemarch?",
+    "choices": [
+      "Elizabeth Gaskell",
+      "Charlotte Brontë",
+      "George Eliot",
+      "George Sand"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Who wrote Clarissa?",
+    "choices": [
+      "Henry Fielding",
+      "Daniel Defoe",
+      "Tobias Smollett",
+      "Samuel Richardson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who wrote Tristram Shandy?",
+    "choices": [
+      "Laurence Sterne",
+      "Henry Mackenzie",
+      "Oliver Goldsmith",
+      "Samuel Johnson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who is Leopold Bloom in Ulysses?",
+    "choices": [
+      "A Dublin priest",
+      "The novel’s central wandering figure",
+      "A university professor",
+      "A newspaper editor"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "How long is the main action of Mrs Dalloway?",
+    "choices": [
+      "One week",
+      "One year",
+      "One day",
+      "One decade"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who wrote To the Lighthouse?",
+    "choices": [
+      "Katherine Mansfield",
+      "D. H. Lawrence",
+      "E. M. Forster",
+      "Virginia Woolf"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who is Benjy in The Sound and the Fury?",
+    "choices": [
+      "A cognitively disabled narrator",
+      "A school principal",
+      "A war veteran",
+      "A traveling salesman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who wrote Invisible Man?",
+    "choices": [
+      "Richard Wright",
+      "Ralph Ellison",
+      "James Baldwin",
+      "W. E. B. Du Bois"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who wrote Native Son?",
+    "choices": [
+      "Ralph Ellison",
+      "Zora Neale Hurston",
+      "Richard Wright",
+      "John Steinbeck"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who wrote Season of Migration to the North?",
+    "choices": [
+      "Naguib Mahfouz",
+      "Ahdaf Soueif",
+      "Amin Maalouf",
+      "Tayeb Salih"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who wrote The Master and Margarita?",
+    "choices": [
+      "Mikhail Bulgakov",
+      "Boris Pasternak",
+      "Nikolai Gogol",
+      "Aleksandr Solzhenitsyn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who wrote The Tin Drum?",
+    "choices": [
+      "Heinrich Böll",
+      "Günter Grass",
+      "Thomas Mann",
+      "W. G. Sebald"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who wrote The Book of Disquiet?",
+    "choices": [
+      "José Saramago",
+      "Eça de Queirós",
+      "Fernando Pessoa",
+      "Antonio Lobo Antunes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who wrote Hopscotch?",
+    "choices": [
+      "Mario Vargas Llosa",
+      "Juan Rulfo",
+      "Octavio Paz",
+      "Julio Cortázar"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who wrote The House of the Spirits?",
+    "choices": [
+      "Isabel Allende",
+      "Laura Esquivel",
+      "Clarice Lispector",
+      "Rosario Castellanos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who wrote The Death of Artemio Cruz?",
+    "choices": [
+      "Gabriel García Márquez",
+      "Carlos Fuentes",
+      "Julio Cortázar",
+      "Octavio Paz"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who wrote The Savage Detectives?",
+    "choices": [
+      "César Vallejo",
+      "Mario Benedetti",
+      "Roberto Bolaño",
+      "Juan Carlos Onetti"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who wrote The Aleph?",
+    "choices": [
+      "Pablo Neruda",
+      "Adolfo Bioy Casares",
+      "Julio Cortázar",
+      "Jorge Luis Borges"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who wrote The Leopard?",
+    "choices": [
+      "Giuseppe Tomasi di Lampedusa",
+      "Alberto Moravia",
+      "Italo Svevo",
+      "Luigi Pirandello"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who wrote If on a winter’s night a traveler?",
+    "choices": [
+      "Umberto Eco",
+      "Italo Calvino",
+      "Dino Buzzati",
+      "Cesare Pavese"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Where is much of The Name of the Rose set?",
+    "choices": [
+      "A Roman arena",
+      "A Parisian theater",
+      "A medieval monastery",
+      "A Caribbean plantation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who wrote The Unbearable Lightness of Being?",
+    "choices": [
+      "Václav Havel",
+      "Danilo Kiš",
+      "Ivan Klíma",
+      "Milan Kundera"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who wrote The Blind Owl?",
+    "choices": [
+      "Sadegh Hedayat",
+      "Naguib Mahfouz",
+      "Orhan Pamuk",
+      "Rabindranath Tagore"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who wrote The Tale of Genji?",
+    "choices": [
+      "Sei Shōnagon",
+      "Murasaki Shikibu",
+      "Izumi Shikibu",
+      "Ono no Komachi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Who wrote The Pillow Book?",
+    "choices": [
+      "Murasaki Shikibu",
+      "Lady Sarashina",
+      "Sei Shōnagon",
+      "Izumi Shikibu"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who is the Monkey King in Journey to the West?",
+    "choices": [
+      "Tang Sanzang",
+      "Zhu Bajie",
+      "Sha Wujing",
+      "Sun Wukong"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who wrote Dream of the Red Chamber?",
+    "choices": [
+      "Cao Xueqin",
+      "Wu Cheng’en",
+      "Luo Guanzhong",
+      "Shi Nai’an"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who wrote the Persian epic Shahnameh?",
+    "choices": [
+      "Rumi",
+      "Ferdowsi",
+      "Hafez",
+      "Saadi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Who is traditionally linked with the Rubáiyát?",
+    "choices": [
+      "Al-Ghazali",
+      "Ibn Sina",
+      "Omar Khayyam",
+      "Nizami Ganjavi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Who wrote Conference of the Birds?",
+    "choices": [
+      "Rumi",
+      "Hafez",
+      "Ferdowsi",
+      "Attar of Nishapur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which king of Uruk is the hero of an ancient Mesopotamian epic?",
+    "choices": [
+      "Gilgamesh",
+      "Enkidu",
+      "Hammurabi",
+      "Sargon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which people preserved the Popol Vuh?",
+    "choices": [
+      "The Aztecs",
+      "The K’iche’ Maya",
+      "The Inca",
+      "The Taíno"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which language is the Mahabharata written in?",
+    "choices": [
+      "Pali",
+      "Tamil",
+      "Sanskrit",
+      "Prakrit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who is traditionally credited with the Ramayana?",
+    "choices": [
+      "Vyasa",
+      "Kalidasa",
+      "Tulsidas",
+      "Valmiki"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Where did the Njáls saga originate?",
+    "choices": [
+      "Iceland",
+      "Norway",
+      "Denmark",
+      "Scotland"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What rhyme scheme is associated with Dante’s terza rima?",
+    "choices": [
+      "Couplets only",
+      "Interlocking three-line rhyme",
+      "Unrhymed five-line stanzas",
+      "Alternating four-line rhyme"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "At which inn do Chaucer’s pilgrims meet?",
+    "choices": [
+      "The Mermaid Tavern",
+      "The Globe",
+      "The Tabard Inn",
+      "The Boar’s Head"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What verse form did Milton use for Paradise Lost?",
+    "choices": [
+      "Heroic couplets",
+      "Terza rima",
+      "Free verse",
+      "Blank verse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which technique is strongly associated with Faulkner’s fiction?",
+    "choices": [
+      "Stream of consciousness",
+      "Automatic writing",
+      "Concrete poetry",
+      "Cut-up collage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which genre is linked with García Márquez’s fiction?",
+    "choices": [
+      "Naturalism",
+      "Magical realism",
+      "Gothic romance",
+      "Pastoral elegy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is an epistolary novel told through?",
+    "choices": [
+      "Stage directions",
+      "Footnotes only",
+      "Letters or documents",
+      "A single speech"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does Bildungsroman usually describe?",
+    "choices": [
+      "A detective puzzle",
+      "A travel guide",
+      "A verse tragedy",
+      "A coming-of-age novel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a picaresque novel centered on?",
+    "choices": [
+      "A roguish outsider’s adventures",
+      "A royal genealogy",
+      "A natural disaster",
+      "A group of saints"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is an unreliable narrator?",
+    "choices": [
+      "A narrator who never speaks",
+      "A narrator whose account cannot be fully trusted",
+      "A narrator who writes only poetry",
+      "A narrator who knows every language"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is iambic pentameter?",
+    "choices": [
+      "A poem with five stanzas",
+      "A ten-line rhyme scheme",
+      "A line with five iambic feet",
+      "A meter of four trochees"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What role does a chorus often have in Greek tragedy?",
+    "choices": [
+      "Changing the scenery",
+      "Playing every lead character",
+      "Writing the ending",
+      "Commenting on the action"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "How many lines does a traditional sonnet have?",
+    "choices": [
+      "Fourteen",
+      "Twelve",
+      "Ten",
+      "Sixteen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who wrote The Waste Land?",
+    "choices": [
+      "W. B. Yeats",
+      "T. S. Eliot",
+      "Ezra Pound",
+      "Wallace Stevens"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who translated the Iliad and Odyssey into a famous English prose edition?",
+    "choices": [
+      "John Dryden",
+      "Alexander Pope",
+      "Robert Fagles",
+      "Edward FitzGerald"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a soliloquy?",
+    "choices": [
+      "A dialogue between two choruses",
+      "A poem with no speaker",
+      "A stage direction for silence",
+      "A speech revealing a character’s private thoughts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a young horse called?",
+    "choices": [
+      "A foal",
+      "A calf",
+      "A kid",
+      "A cub"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is an adult female horse called?",
+    "choices": [
+      "A filly",
+      "A mare",
+      "A broodmare",
+      "A jenny"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is an adult male horse called?",
+    "choices": [
+      "A colt",
+      "A gelding",
+      "A stallion",
+      "A bull"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is a castrated male horse commonly called?",
+    "choices": [
+      "A stallion",
+      "A rig",
+      "A steer",
+      "A gelding"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a young female horse called?",
+    "choices": [
+      "A filly",
+      "A mare",
+      "A colt",
+      "A heifer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the long hair along a horse's neck called?",
+    "choices": [
+      "The crest",
+      "The mane",
+      "The forelock",
+      "The ruff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the hard covering at the end of a horse's leg called?",
+    "choices": [
+      "The pastern",
+      "The fetlock",
+      "The hoof",
+      "The frog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the ridge at the base of a horse's neck used for saddle fitting called?",
+    "choices": [
+      "The croup",
+      "The poll",
+      "The dock",
+      "The withers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a horse's nose and mouth area commonly called?",
+    "choices": [
+      "The muzzle",
+      "The cheek",
+      "The bridge",
+      "The jawline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which gait is a four-beat movement?",
+    "choices": [
+      "The trot",
+      "The walk",
+      "The canter",
+      "The gallop"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which gait is usually a two-beat diagonal movement?",
+    "choices": [
+      "The walk",
+      "The canter",
+      "The trot",
+      "The gallop"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which gait is usually a three-beat movement?",
+    "choices": [
+      "The walk",
+      "The trot",
+      "The pace",
+      "The canter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which ordinary horse gait is generally fastest?",
+    "choices": [
+      "The gallop",
+      "The canter",
+      "The trot",
+      "The walk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What piece of equipment is placed on a horse's back for a rider?",
+    "choices": [
+      "A bridle",
+      "A saddle",
+      "A halter",
+      "A breastcollar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What headgear includes reins and is used to guide a ridden horse?",
+    "choices": [
+      "A halter",
+      "A martingale",
+      "A bridle",
+      "A bonnet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What do a rider's hands hold to help direct a horse?",
+    "choices": [
+      "The stirrups",
+      "The girth",
+      "The billets",
+      "The reins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What part of a saddle supports a rider's feet?",
+    "choices": [
+      "The stirrups",
+      "The cantle",
+      "The pommel",
+      "The panels"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What simple headcollar is used for leading a horse?",
+    "choices": [
+      "A snaffle",
+      "A halter",
+      "A curb",
+      "A cavesson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which grooming tool is used to loosen dirt before brushing?",
+    "choices": [
+      "A hoof pick",
+      "A mane puller",
+      "A curry comb",
+      "A sweat scraper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the main dietary category of a horse?",
+    "choices": [
+      "Carnivore",
+      "Insectivore",
+      "Omnivore",
+      "Herbivore"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which forage is a common staple in a horse's diet?",
+    "choices": [
+      "Hay",
+      "Fish meal",
+      "Meat scraps",
+      "Coconut flesh"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which breed is famous for endurance and an arched neck?",
+    "choices": [
+      "Clydesdale",
+      "Arabian",
+      "Shetland Pony",
+      "Percheron"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which breed is closely associated with flat racing?",
+    "choices": [
+      "Haflinger",
+      "Fjord",
+      "Thoroughbred",
+      "Shire"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which breed is famous for sprinting and ranch versatility?",
+    "choices": [
+      "Friesian",
+      "Lipizzaner",
+      "Suffolk Punch",
+      "American Quarter Horse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which breed is a large draft horse often associated with Scotland?",
+    "choices": [
+      "Clydesdale",
+      "Arabian",
+      "Appaloosa",
+      "Morgan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which breed is recognized for many spotted coat patterns?",
+    "choices": [
+      "Thoroughbred",
+      "Appaloosa",
+      "Friesian",
+      "Morgan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What color term usually describes a golden horse with a pale mane and tail?",
+    "choices": [
+      "Bay",
+      "Roan",
+      "Palomino",
+      "Chestnut"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What color term usually describes a reddish-brown horse?",
+    "choices": [
+      "Bay",
+      "Black",
+      "Grulla",
+      "Chestnut"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What color term usually describes a brown horse with black mane, tail, and lower legs?",
+    "choices": [
+      "Bay",
+      "Chestnut",
+      "Palomino",
+      "Gray"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What coat pattern features large patches of white and another color?",
+    "choices": [
+      "Roan",
+      "Pinto",
+      "Appaloosa blanket",
+      "Dun stripe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which discipline emphasizes precise movements, balance, and obedience?",
+    "choices": [
+      "Barrel racing",
+      "Polo",
+      "Dressage",
+      "Cutting"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which discipline asks horse and rider to clear fences?",
+    "choices": [
+      "Dressage",
+      "Endurance",
+      "Reining",
+      "Show jumping"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which equestrian discipline combines dressage, cross-country, and show jumping?",
+    "choices": [
+      "Eventing",
+      "Polo",
+      "Vaulting",
+      "Harness racing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Western discipline includes a sliding stop and spins?",
+    "choices": [
+      "Cutting",
+      "Reining",
+      "Barrel racing",
+      "Team roping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which event has horses race around a cloverleaf pattern of barrels?",
+    "choices": [
+      "Steeplechase",
+      "Dressage",
+      "Barrel racing",
+      "Polo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which team sport is played on horseback with long-handled mallets?",
+    "choices": [
+      "Polocrosse",
+      "Horseball",
+      "Mounted archery",
+      "Polo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which race is one of the three traditional U.S. Triple Crown races?",
+    "choices": [
+      "The Kentucky Derby",
+      "The Dubai World Cup",
+      "The Grand National",
+      "The Melbourne Cup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the U.S. Triple Crown in horse racing?",
+    "choices": [
+      "Kentucky Derby, Breeders' Cup, and Travers Stakes",
+      "Kentucky Derby, Preakness Stakes, and Belmont Stakes",
+      "Preakness, Melbourne Cup, and Belmont Stakes",
+      "Belmont, Grand National, and Derby d'Italia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which fictional horse is central to Anna Sewell's classic novel?",
+    "choices": [
+      "Silver",
+      "Flicka",
+      "Black Beauty",
+      "The Black Stallion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which mythic winged horse is associated with ancient Greek stories?",
+    "choices": [
+      "Bucephalus",
+      "Arion",
+      "Sleipnir",
+      "Pegasus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which profession specializes in trimming and shoeing horses' hooves?",
+    "choices": [
+      "Farrier",
+      "Jockey",
+      "Groom",
+      "Equine dentist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Who rides a horse in a professional race?",
+    "choices": [
+      "A farrier",
+      "A jockey",
+      "A groom",
+      "A steward"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is the vehicle commonly used to transport horses?",
+    "choices": [
+      "A cattle trailer",
+      "A tack cart",
+      "A horse trailer",
+      "A feed wagon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What measurement is commonly used to state a horse's height?",
+    "choices": [
+      "Spans",
+      "Furlongs",
+      "Stones",
+      "Hands"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which breed is often called a living symbol of the American West?",
+    "choices": [
+      "Mustang",
+      "Friesian",
+      "Andalusian",
+      "Haflinger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which horse breed is famous for its long, flowing mane and feathered legs?",
+    "choices": [
+      "Arabian",
+      "Friesian",
+      "Thoroughbred",
+      "Quarter Horse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which sensory behavior often helps a horse assess an unfamiliar object?",
+    "choices": [
+      "Rearing and striking at it",
+      "Rolling beside it immediately",
+      "Sniffing and careful approach",
+      "Galloping away without looking"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which famous horse race is held at Aintree in England?",
+    "choices": [
+      "The Kentucky Derby",
+      "The Prix de l'Arc de Triomphe",
+      "The Melbourne Cup",
+      "The Grand National"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which term describes the horse's hair at the top of its tail?",
+    "choices": [
+      "The dock",
+      "The forelock",
+      "The crest",
+      "The fetlock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which horse measurement equals four inches?",
+    "choices": [
+      "A span",
+      "A hand",
+      "A palm",
+      "A furlong"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "How many inches are in one horse hand?",
+    "choices": [
+      "Three",
+      "Six",
+      "Four",
+      "Twelve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Where is a horse's height measured to?",
+    "choices": [
+      "The top of the head",
+      "The highest point of the mane",
+      "The tip of the ears",
+      "The top of the withers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which gait has a lateral two-beat pattern in which both legs on one side move together?",
+    "choices": [
+      "The pace",
+      "The trot",
+      "The canter",
+      "The walk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is an ambling gait?",
+    "choices": [
+      "A horse's fastest gallop",
+      "A smooth intermediate gait with little vertical bounce",
+      "A backward movement only",
+      "A jump over a fence"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does 'lead' describe in canter work?",
+    "choices": [
+      "The rider's rein length",
+      "The horse's height",
+      "The foreleg and corresponding hind sequence leading the stride",
+      "The direction of a race track"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a flying change?",
+    "choices": [
+      "A horse jumping over a moving fence",
+      "Changing saddles while mounted",
+      "A sprint between two horses",
+      "Changing the leading leg during a canter without breaking gait"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which dressage movement involves a horse trotting nearly in place with elevated steps?",
+    "choices": [
+      "Piaffe",
+      "Rein-back",
+      "Leg yield",
+      "Halt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which dressage movement features an elevated, highly collected trot with pronounced suspension?",
+    "choices": [
+      "Piaffe",
+      "Passage",
+      "Walk pirouette",
+      "Shoulder-in"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does collection mean in classical riding?",
+    "choices": [
+      "Making a horse run at maximum speed",
+      "Gathering several horses into a trailer",
+      "Shortening and elevating the horse's frame while maintaining impulsion",
+      "Removing the horse's tack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is impulsion?",
+    "choices": [
+      "A horse's fear response",
+      "The width of a saddle",
+      "A type of hoof boot",
+      "Energetic forward movement generated from the hindquarters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a half-halt intended to do?",
+    "choices": [
+      "Briefly rebalance and refocus the horse without stopping",
+      "Make a horse halt for half a minute",
+      "Lengthen every stride automatically",
+      "Signal a race start"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which bit is generally considered a simple direct-pressure bit?",
+    "choices": [
+      "A curb",
+      "A snaffle",
+      "A gag",
+      "A Pelham only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which bit uses leverage through shanks and a curb chain?",
+    "choices": [
+      "A loose-ring snaffle",
+      "A rubber bit",
+      "A curb bit",
+      "A bitless bridle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the girth's main purpose?",
+    "choices": [
+      "To guide the horse's head",
+      "To protect the horse's hoof",
+      "To attach a lead rope to the nose",
+      "To hold the saddle securely around the horse's barrel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a martingale designed to influence?",
+    "choices": [
+      "The horse's head and rein position",
+      "The horse's hoof angle",
+      "The saddle's seat size",
+      "The horse's feeding schedule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which ancient desert breed is known for a dished face and high tail carriage?",
+    "choices": [
+      "Andalusian",
+      "Arabian",
+      "Morgan",
+      "Standardbred"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which breed is associated with Spain's Iberian horse tradition?",
+    "choices": [
+      "American Quarter Horse",
+      "Clydesdale",
+      "Andalusian",
+      "Akhal-Teke"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which breed is associated with Iceland and is famous for the tölt?",
+    "choices": [
+      "Fjord horse",
+      "Haflinger",
+      "Shetland pony",
+      "Icelandic horse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which breed is associated with the Akhal oasis and a metallic-looking coat sheen?",
+    "choices": [
+      "Akhal-Teke",
+      "Friesian",
+      "Percheron",
+      "Morgan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which U.S. breed descends from a foundation stallion named Figure, owned by a Vermont teacher?",
+    "choices": [
+      "Standardbred",
+      "Morgan",
+      "Tennessee Walking Horse",
+      "Appaloosa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which breed was developed primarily for harness racing in North America?",
+    "choices": [
+      "Thoroughbred",
+      "Morgan",
+      "Standardbred",
+      "American Saddlebred"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which large draft breed originated in northern France?",
+    "choices": [
+      "Shire",
+      "Clydesdale",
+      "Belgian",
+      "Percheron"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which draft breed originated in England and is among the tallest horse breeds?",
+    "choices": [
+      "Shire",
+      "Percheron",
+      "Clydesdale",
+      "Suffolk Punch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which color-genetics effect gradually turns many horses gray with age?",
+    "choices": [
+      "The cream gene",
+      "The gray gene",
+      "The tobiano gene",
+      "The agouti gene"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which dilution gene can produce palomino from a chestnut base?",
+    "choices": [
+      "The gray gene",
+      "The agouti gene",
+      "The cream gene",
+      "The roan gene"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which pattern gene is classically associated with broad white patches crossing the topline in some horses?",
+    "choices": [
+      "Gray",
+      "Cream",
+      "Agouti",
+      "Tobiano"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which archaeological site is often discussed in research on early horse domestication?",
+    "choices": [
+      "Botai",
+      "Sintashta",
+      "Lascaux",
+      "Knossos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which living horse is widely regarded as the only true wild horse rather than a feral domestic population?",
+    "choices": [
+      "The mustang",
+      "Przewalski's horse",
+      "The brumby",
+      "The Camargue horse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which racehorse won the U.S. Triple Crown in 1977?",
+    "choices": [
+      "Affirmed",
+      "Secretariat",
+      "Seattle Slew",
+      "American Pharoah"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which racehorse won the U.S. Triple Crown in 1978?",
+    "choices": [
+      "Seattle Slew",
+      "Citation",
+      "Justify",
+      "Affirmed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which horse won the U.S. Triple Crown in 2015, ending a long drought?",
+    "choices": [
+      "American Pharoah",
+      "Justify",
+      "California Chrome",
+      "Orb"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which horse won the U.S. Triple Crown in 2018?",
+    "choices": [
+      "American Pharoah",
+      "Justify",
+      "Always Dreaming",
+      "Nyquist"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which legendary British racehorse won the Grand National three times?",
+    "choices": [
+      "Arkle",
+      "Desert Orchid",
+      "Red Rum",
+      "Frankel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which horse was ridden by Alexander the Great according to ancient tradition?",
+    "choices": [
+      "Pegasus",
+      "Incitatus",
+      "Marengo",
+      "Bucephalus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which horse was associated with Napoleon Bonaparte at Waterloo?",
+    "choices": [
+      "Copenhagen",
+      "Marengo",
+      "Bucephalus",
+      "Traveler"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which Civil War general's horse was named Traveller?",
+    "choices": [
+      "Ulysses S. Grant",
+      "Robert E. Lee",
+      "William T. Sherman",
+      "Philip Sheridan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which equestrian event is governed internationally by the FEI?",
+    "choices": [
+      "Barrel racing",
+      "Harness racing",
+      "Dressage",
+      "Thoroughbred flat racing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is vaulting in equestrian sport?",
+    "choices": [
+      "Racing over fences",
+      "Driving four horses",
+      "Cutting cattle from a herd",
+      "Gymnastic movement performed on a moving horse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is endurance riding primarily testing?",
+    "choices": [
+      "Horse-and-rider performance over long distances",
+      "A horse's ability to jump one high fence",
+      "A rider's dressage score only",
+      "A team's polo handicap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does cutting ask a horse and rider to do?",
+    "choices": [
+      "Race around barrels",
+      "Separate and control a cow from a herd",
+      "Perform a collected trot",
+      "Jump a water ditch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a rein-back?",
+    "choices": [
+      "A rapid turn at a barrel",
+      "A change from trot to gallop",
+      "A controlled movement backward",
+      "A saddle adjustment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which horse-racing distance unit equals 220 yards?",
+    "choices": [
+      "A mile",
+      "A chain",
+      "A length",
+      "A furlong"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does a horse's 'length' usually measure in race results?",
+    "choices": [
+      "The approximate distance represented by one horse's body length",
+      "The horse's height at the withers",
+      "A fixed 220-yard interval",
+      "The length of the track"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which horse was the subject of a famous 2003 film and became a symbol of Depression-era racing?",
+    "choices": [
+      "War Admiral",
+      "Seabiscuit",
+      "Phar Lap",
+      "Man o' War"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Australian racehorse is known by the nickname the Red Terror?",
+    "choices": [
+      "Makybe Diva",
+      "Winx",
+      "Phar Lap",
+      "Carbine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which horse's 1938 match race against Seabiscuit is a famous racing story?",
+    "choices": [
+      "Man o' War",
+      "Citation",
+      "Gallant Fox",
+      "War Admiral"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which horse won the English Triple Crown in 1970?",
+    "choices": [
+      "Nijinsky",
+      "Mill Reef",
+      "Brigadier Gerard",
+      "Sea-Bird"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which racing term describes a horse that has never lost?",
+    "choices": [
+      "Unplaced",
+      "Unbeaten",
+      "Maiden",
+      "Claimed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which racing term describes a horse that has not yet won a race?",
+    "choices": [
+      "Unbeaten",
+      "Handicapper",
+      "Maiden",
+      "Graded"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which coat pattern is made of white hairs mixed throughout a base color rather than large solid patches?",
+    "choices": [
+      "Pinto",
+      "Tobiano",
+      "Sabino only",
+      "Roan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

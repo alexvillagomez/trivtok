@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which network is most associated with The Simpsons?",
+    "choices": [
+      "Fox",
+      "NBC",
+      "Cartoon Network",
+      "UPN"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which animated series is set in Bikini Bottom?",
+    "choices": [
+      "Rocko's Modern Life",
+      "SpongeBob SquarePants",
+      "The Ren & Stimpy Show",
+      "CatDog"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which series follows a family of babies led by Tommy Pickles?",
+    "choices": [
+      "Hey Arnold!",
+      "Doug",
+      "Rugrats",
+      "The Wild Thornberrys"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which character is known for living in a football-shaped house?",
+    "choices": [
+      "Doug Funnie",
+      "Chuckie Finster",
+      "Gerald Johanssen",
+      "Arnold Shortman"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which Nickelodeon character has a dog named Porkchop?",
+    "choices": [
+      "Doug Funnie",
+      "Rocko",
+      "Otto Rocket",
+      "Arnold Shortman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which cartoon features a wallaby named Rocko?",
+    "choices": [
+      "CatDog",
+      "Rocko's Modern Life",
+      "Aaahh!!! Real Monsters",
+      "The Angry Beavers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which Cartoon Network series centers on three superpowered sisters?",
+    "choices": [
+      "Dexter's Laboratory",
+      "Johnny Bravo",
+      "The Powerpuff Girls",
+      "Ed, Edd n Eddy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is the name of the boy genius with a secret laboratory?",
+    "choices": [
+      "Mandark",
+      "Jimmy Neutron",
+      "Edd",
+      "Dexter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which cartoon character is known for a huge blond pompadour and exaggerated confidence?",
+    "choices": [
+      "Johnny Bravo",
+      "HIM",
+      "Cow",
+      "Eddy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which series follows a timid dog living in Nowhere?",
+    "choices": [
+      "The Grim Adventures of Billy & Mandy",
+      "Courage the Cowardly Dog",
+      "Mike, Lu & Og",
+      "Cow and Chicken"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which trio includes Yakko, Wakko, and Dot?",
+    "choices": [
+      "The Powerpuff Girls",
+      "The Animaniacs pets",
+      "The Warner siblings",
+      "The Tiny Toons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which character is constantly trying to take over the world from Pinky?",
+    "choices": [
+      "Dr. Scratchansniff",
+      "Yakko",
+      "Slappy Squirrel",
+      "The Brain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Disney cartoon follows six elementary-school friends during their daily break?",
+    "choices": [
+      "Recess",
+      "Pepper Ann",
+      "Hey Arnold!",
+      "The Weekenders"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Disney animated series centers on the gargoyle Goliath?",
+    "choices": [
+      "Darkwing Duck",
+      "Gargoyles",
+      "TaleSpin",
+      "Mighty Ducks"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which masked Gotham hero leads the acclaimed animated series that debuted in 1992?",
+    "choices": [
+      "Superman",
+      "Robin",
+      "Batman",
+      "The Question"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which team of mutants stars in the 1990s animated X-Men series?",
+    "choices": [
+      "The Avengers",
+      "The Fantastic Four",
+      "The Teen Titans",
+      "The X-Men"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which Fox Kids series features the superhero Superman?",
+    "choices": [
+      "Superman: The Animated Series",
+      "Batman Beyond",
+      "The Tick",
+      "Static Shock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which MTV cartoon follows two dimwitted teenage metal fans created by Mike Judge?",
+    "choices": [
+      "Daria",
+      "Beavis and Butt-Head",
+      "The Critic",
+      "Celebrity Deathmatch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which series follows a teenage girl who narrates life in Lawndale?",
+    "choices": [
+      "Pepper Ann",
+      "As Told by Ginger",
+      "Daria",
+      "My Life as a Teenage Robot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which animated family lives in Arlen, Texas?",
+    "choices": [
+      "The Griffins",
+      "The Simpsons",
+      "The Belchers",
+      "The Hills"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which adult animated series began in 1999 with the Griffin family?",
+    "choices": [
+      "Family Guy",
+      "Futurama",
+      "King of the Hill",
+      "South Park"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which series sends its characters into the year 3000?",
+    "choices": [
+      "The Simpsons",
+      "Futurama",
+      "Family Guy",
+      "The Critic"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which Comedy Central cartoon follows four boys in a small Colorado town?",
+    "choices": [
+      "Dr. Katz",
+      "The Oblongs",
+      "South Park",
+      "Home Movies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which anime character travels with a Pikachu?",
+    "choices": [
+      "Tai Kamiya",
+      "Yugi Mutou",
+      "Sailor Moon",
+      "Ash Ketchum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which Fox Kids anime follows children partnered with digital monsters?",
+    "choices": [
+      "Digimon Adventure",
+      "Pokémon",
+      "Monster Rancher",
+      "Cardcaptors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is Sailor Moon's civilian name in the English version?",
+    "choices": [
+      "Serena Tsukino",
+      "Usagi Tsukino",
+      "Mina Aino",
+      "Amy Mizuno"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which anime hero is known for transforming into a Super Saiyan?",
+    "choices": [
+      "Yusuke Urameshi",
+      "Inuyasha",
+      "Goku",
+      "Kenshin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which network programming block helped bring anime to many U.S. children in the late 1990s?",
+    "choices": [
+      "The Disney Afternoon",
+      "SNICK",
+      "FoxBox",
+      "Toonami"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which superhero series aired on MTV and was based on a dark comic?",
+    "choices": [
+      "The Maxx",
+      "Spawn",
+      "Aeon Flux",
+      "The Head"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which character is Bart Simpson's younger sister?",
+    "choices": [
+      "Maggie Simpson",
+      "Lisa Simpson",
+      "Patty Bouvier",
+      "Ralph Wiggum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Simpsons character is Bart's best friend?",
+    "choices": [
+      "Ralph Wiggum",
+      "Nelson Muntz",
+      "Milhouse Van Houten",
+      "Martin Prince"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is the name of SpongeBob's starfish friend?",
+    "choices": [
+      "Larry Lobster",
+      "Sandy Cheeks",
+      "Bubble Buddy",
+      "Patrick Star"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which Rugrats character is Tommy's anxious best friend?",
+    "choices": [
+      "Chuckie Finster",
+      "Angelica Pickles",
+      "Dil Pickles",
+      "Phil DeVille"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which series features the three Eds trying to earn money for jawbreakers?",
+    "choices": [
+      "The Grim Adventures of Billy & Mandy",
+      "Ed, Edd n Eddy",
+      "Codename: Kids Next Door",
+      "Dexter's Laboratory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Powerpuff Girl is associated with the color blue?",
+    "choices": [
+      "Blossom",
+      "Buttercup",
+      "Bubbles",
+      "Princess Morbucks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Powerpuff Girl is usually associated with green?",
+    "choices": [
+      "Bubbles",
+      "Blossom",
+      "Sedusa",
+      "Buttercup"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Who serves as Townsville's bumbling civic leader in The Powerpuff Girls?",
+    "choices": [
+      "The Mayor",
+      "Professor Utonium",
+      "The Chief",
+      "The Mayor of Nowhere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which show centers on a boy and his two friends Eddie and Edd?",
+    "choices": [
+      "Hey Arnold!",
+      "Ed, Edd n Eddy",
+      "Rocket Power",
+      "Recess"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which cartoon features adventurous siblings Eliza and Debbie Thornberry?",
+    "choices": [
+      "Rocket Power",
+      "Rugrats",
+      "The Wild Thornberrys",
+      "The Secret World of Alex Mack"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Nickelodeon series follows Otto and Reggie Rocket's action-sports family?",
+    "choices": [
+      "Hey Arnold!",
+      "CatDog",
+      "The Angry Beavers",
+      "Rocket Power"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Disney series centers on a red-haired middle-schooler named Pepper Pearson?",
+    "choices": [
+      "Pepper Ann",
+      "Recess",
+      "Gargoyles",
+      "Fillmore!"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which cartoon pair is literally one animal with two heads joined at the middle?",
+    "choices": [
+      "Ren and Stimpy",
+      "CatDog",
+      "Rocko and Heffer",
+      "Billy and Mandy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which character is the blue, fast-talking friend of Rocko?",
+    "choices": [
+      "Filburt Turtle",
+      "Ed Bighead",
+      "Heffer Wolfe",
+      "Mr. Bighead"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which Nickelodeon show follows a disguised Irken attempting to conquer Earth?",
+    "choices": [
+      "The Head",
+      "Cow and Chicken",
+      "Mike, Lu & Og",
+      "Invader Zim"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which series features a boy named Arnold and his friend Gerald?",
+    "choices": [
+      "Hey Arnold!",
+      "Doug",
+      "Recess",
+      "As Told by Ginger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which cartoon family includes Homer, Marge, Bart, Lisa, and Maggie?",
+    "choices": [
+      "The Griffins",
+      "The Simpsons",
+      "The Hills",
+      "The Pickles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which animated superhero parody centers on a blue-suited hero whose battle cry is 'Spoon!'?",
+    "choices": [
+      "The Maxx",
+      "Spawn",
+      "The Tick",
+      "The Head"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which series centers on a newspaper critic named Jay Sherman?",
+    "choices": [
+      "Daria",
+      "The Simpsons",
+      "Dr. Katz",
+      "The Critic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which show features the characters Dr. Katz and his son Ben?",
+    "choices": [
+      "Dr. Katz, Professional Therapist",
+      "Home Movies",
+      "The Critic",
+      "Mission Hill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which series is built around a trio of teenage girls who work as spies?",
+    "choices": [
+      "Pepper Ann",
+      "Totally Spies!",
+      "Daria",
+      "The Weekenders"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which creator developed the long-running Springfield family sitcom?",
+    "choices": [
+      "Seth MacFarlane",
+      "Mike Judge",
+      "Matt Groening",
+      "Trey Parker"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which marine biologist and animator created SpongeBob SquarePants?",
+    "choices": [
+      "Joe Murray",
+      "Craig Bartlett",
+      "Butch Hartman",
+      "Stephen Hillenburg"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who created Rocko's Modern Life?",
+    "choices": [
+      "Joe Murray",
+      "Stephen Hillenburg",
+      "Danny Antonucci",
+      "John Kricfalusi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who created The Powerpuff Girls?",
+    "choices": [
+      "Genndy Tartakovsky",
+      "Craig McCracken",
+      "Lauren Faust",
+      "Pendleton Ward"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who created Dexter's Laboratory?",
+    "choices": [
+      "Craig McCracken",
+      "Danny Antonucci",
+      "Genndy Tartakovsky",
+      "Paul Rudish"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who created Ed, Edd n Eddy?",
+    "choices": [
+      "Joe Murray",
+      "Craig Bartlett",
+      "John Dilworth",
+      "Danny Antonucci"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who created Courage the Cowardly Dog?",
+    "choices": [
+      "John R. Dilworth",
+      "Craig McCracken",
+      "Genndy Tartakovsky",
+      "David Feiss"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who created Hey Arnold!?",
+    "choices": [
+      "Jim Jinkins",
+      "Craig Bartlett",
+      "Paul Germain",
+      "Joe Murray"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which producer was strongly associated with Animaniacs and its Spielberg Presents branding?",
+    "choices": [
+      "George Lucas",
+      "Don Bluth",
+      "Steven Spielberg",
+      "Tim Burton"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who was the primary voice of Bart Simpson for the classic series era?",
+    "choices": [
+      "Yeardley Smith",
+      "Julie Kavner",
+      "Tress MacNeille",
+      "Nancy Cartwright"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who voices Homer Simpson in the English version?",
+    "choices": [
+      "Dan Castellaneta",
+      "Hank Azaria",
+      "Harry Shearer",
+      "John DiMaggio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who is the English voice of SpongeBob SquarePants?",
+    "choices": [
+      "Bill Fagerbakke",
+      "Tom Kenny",
+      "Rodger Bumpass",
+      "Clancy Brown"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which animation style is especially associated with Batman: The Animated Series?",
+    "choices": [
+      "Limited cutout animation only",
+      "Stop-motion clay figures",
+      "Dark Art Deco-inspired designs and dramatic shadows",
+      "Photorealistic rotoscoping"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What was distinctive about the color treatment often used in Batman: The Animated Series backgrounds?",
+    "choices": [
+      "Neon backgrounds painted only on white paper",
+      "No painted backgrounds were used",
+      "Every background was computer-generated",
+      "Dark backgrounds painted on black paper for a muted look"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which series was a spin-off centered on Batman's future successor Terry McGinnis?",
+    "choices": [
+      "Batman Beyond",
+      "The New Batman Adventures",
+      "Gotham Knights",
+      "Batman: The Animated Series"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which network's programming block helped establish Batman: The Animated Series in the United States?",
+    "choices": [
+      "Nickelodeon",
+      "Fox Kids",
+      "The WB",
+      "Cartoon Network"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which 1990s animated series was spun off from Beavis and Butt-Head?",
+    "choices": [
+      "The Maxx",
+      "Celebrity Deathmatch",
+      "Daria",
+      "The Critic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which show is known for introducing Daria Morgendorffer before her spin-off?",
+    "choices": [
+      "The Simpsons",
+      "The Critic",
+      "King of the Hill",
+      "Beavis and Butt-Head"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who co-created South Park with Trey Parker?",
+    "choices": [
+      "Matt Stone",
+      "Mike Judge",
+      "Seth MacFarlane",
+      "Matt Groening"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who co-created King of the Hill with Greg Daniels?",
+    "choices": [
+      "Matt Groening",
+      "Mike Judge",
+      "Seth MacFarlane",
+      "Chris Savino"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who created Futurama?",
+    "choices": [
+      "David X. Cohen",
+      "Seth MacFarlane",
+      "Matt Groening",
+      "Joss Whedon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Futurama character is a delivery robot with a bending career?",
+    "choices": [
+      "Fry",
+      "Zoidberg",
+      "Calculon",
+      "Bender"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which creator developed Family Guy?",
+    "choices": [
+      "Seth MacFarlane",
+      "Matt Groening",
+      "Mike Judge",
+      "Trey Parker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which late-1990s cartoon features a boy named Dexter and his sister Dee Dee?",
+    "choices": [
+      "The Powerpuff Girls",
+      "Dexter's Laboratory",
+      "Johnny Bravo",
+      "The Grim Adventures"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which show began as a series of animated shorts on The Tracey Ullman Show?",
+    "choices": [
+      "Family Guy",
+      "King of the Hill",
+      "The Simpsons",
+      "South Park"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which series features the Warner siblings living in a water tower?",
+    "choices": [
+      "Tiny Toon Adventures",
+      "Pinky and the Brain",
+      "The Sylvester & Tweety Mysteries",
+      "Animaniacs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which boy genius operates a secret laboratory hidden behind his bedroom?",
+    "choices": [
+      "Dexter",
+      "Mandark",
+      "Dee Dee",
+      "Major Glory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which series features a school attended by the Tiny Toons?",
+    "choices": [
+      "Animaniacs",
+      "Tiny Toon Adventures",
+      "Recess",
+      "Pepper Ann"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which HBO animated series adapts Todd McFarlane's supernatural antihero?",
+    "choices": [
+      "The Maxx",
+      "The Tick",
+      "Spawn",
+      "Aeon Flux"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which MTV animated series is known for surreal science-fiction imagery and minimal dialogue?",
+    "choices": [
+      "Daria",
+      "The Maxx",
+      "The Head",
+      "Aeon Flux"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which show features the Canadian Mountie Dudley Do-Right as a recurring segment?",
+    "choices": [
+      "The Rocky and Bullwinkle Show revival segments",
+      "Animaniacs",
+      "The Tick",
+      "The Critic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which series featured the recurring musical duo of a mouse and a brain plotting world domination?",
+    "choices": [
+      "Animaniacs",
+      "Pinky and the Brain",
+      "The Angry Beavers",
+      "The Wuzzles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which animated series featured a family of cave-dwelling monsters named the Thornberrys?",
+    "choices": [
+      "Aaahh!!! Real Monsters",
+      "Rugrats",
+      "The Wild Thornberrys",
+      "The Angry Beavers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which cartoon character's catchphrase was 'What's up, doc?'",
+    "choices": [
+      "Yakko Warner",
+      "Rocko",
+      "Stimpy",
+      "Bugs Bunny"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which 1990s show featured the villain HIM as a major supernatural foe?",
+    "choices": [
+      "The Powerpuff Girls",
+      "Courage the Cowardly Dog",
+      "Gargoyles",
+      "The Grim Adventures"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which animated series centered on the friendship of Arnold and Gerald?",
+    "choices": [
+      "Recess",
+      "Hey Arnold!",
+      "Doug",
+      "Rocket Power"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which character is the main human boy in The Wild Thornberrys?",
+    "choices": [
+      "Eliza Thornberry",
+      "Nigel Thornberry",
+      "Donnie Thornberry",
+      "Drew Thornberry"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Disney animated series follows Drake Mallard's crime-fighting alter ego in St. Canard?",
+    "choices": [
+      "Gargoyles",
+      "TaleSpin",
+      "Mighty Ducks",
+      "Darkwing Duck"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Nickelodeon series follows a boy in Bluffington who journals and imagines himself as Quailman?",
+    "choices": [
+      "Doug",
+      "Pepper Ann",
+      "Hey Arnold!",
+      "Recess"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which creator is associated with Doug?",
+    "choices": [
+      "Craig Bartlett",
+      "Jim Jinkins",
+      "Paul Germain",
+      "Stephen Hillenburg"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which animated series is centered on a talking baby who imagines adult-sized adventures?",
+    "choices": [
+      "The Cramp Twins",
+      "CatDog",
+      "Rugrats",
+      "The Wild Thornberrys"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which show used the premise of a teenager gaining a magical alter ego named Jenny?",
+    "choices": [
+      "Pepper Ann",
+      "Daria",
+      "The Weekenders",
+      "My Life as a Teenage Robot"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which series is known for the characters Ren Hoek and Stimpson J. Cat?",
+    "choices": [
+      "The Ren & Stimpy Show",
+      "Rocko's Modern Life",
+      "CatDog",
+      "Aaahh!!! Real Monsters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which animated series was one of Cartoon Network's early original productions?",
+    "choices": [
+      "Rugrats",
+      "The Powerpuff Girls",
+      "Animaniacs",
+      "Gargoyles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which show's title refers to a group of monsters attending a school in New York?",
+    "choices": [
+      "The Wild Thornberrys",
+      "The Angry Beavers",
+      "Aaahh!!! Real Monsters",
+      "Courage the Cowardly Dog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which actor voiced Batman in Batman: The Animated Series?",
+    "choices": [
+      "Mark Hamill",
+      "Troy Baker",
+      "Peter Cullen",
+      "Kevin Conroy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which actor voiced the Joker in Batman: The Animated Series?",
+    "choices": [
+      "Mark Hamill",
+      "Kevin Conroy",
+      "Arleen Sorkin",
+      "Michael Ansara"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which actress was the voice of Harley Quinn in her original animated debut?",
+    "choices": [
+      "Tara Strong",
+      "Arleen Sorkin",
+      "Grey DeLisle",
+      "Clancy Brown"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which animated series was developed by Bruce Timm and Eric Radomski?",
+    "choices": [
+      "Superman: The Animated Series",
+      "Batman Beyond",
+      "Batman: The Animated Series",
+      "Justice League"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which 1990s series features the villainous Plankton trying to steal a restaurant formula?",
+    "choices": [
+      "Rocko's Modern Life",
+      "CatDog",
+      "The Angry Beavers",
+      "SpongeBob SquarePants"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

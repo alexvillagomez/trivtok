@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What code number identifies James Bond in the British secret service?",
+    "choices": [
+      "007",
+      "006",
+      "009",
+      "001"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Who created James Bond in the original novels?",
+    "choices": [
+      "John le Carré",
+      "Ian Fleming",
+      "Len Deighton",
+      "Anthony Horowitz"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which film introduced Sean Connery as James Bond?",
+    "choices": [
+      "From Russia with Love",
+      "Goldfinger",
+      "Dr. No",
+      "Thunderball"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which actor played Bond in On Her Majesty's Secret Service?",
+    "choices": [
+      "Timothy Dalton",
+      "Pierce Brosnan",
+      "Sean Connery",
+      "George Lazenby"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which actor portrayed Bond for most of the 1970s and 1980s?",
+    "choices": [
+      "Roger Moore",
+      "Sean Connery",
+      "Pierce Brosnan",
+      "Timothy Dalton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who played Bond in The Living Daylights and Licence to Kill?",
+    "choices": [
+      "Pierce Brosnan",
+      "Timothy Dalton",
+      "Roger Moore",
+      "Daniel Craig"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which actor played Bond in GoldenEye?",
+    "choices": [
+      "Daniel Craig",
+      "Timothy Dalton",
+      "Pierce Brosnan",
+      "Roger Moore"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Who portrayed James Bond beginning with Casino Royale in 2006?",
+    "choices": [
+      "Pierce Brosnan",
+      "Clive Owen",
+      "Jude Law",
+      "Daniel Craig"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is the name of Bond's superior officer?",
+    "choices": [
+      "M",
+      "Q",
+      "R",
+      "C"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which character supplies Bond with specialist equipment?",
+    "choices": [
+      "M",
+      "Q",
+      "Felix Leiter",
+      "Bill Tanner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who is Miss Moneypenny?",
+    "choices": [
+      "Bond's sister",
+      "A rival spy from the CIA",
+      "M's secretary and a recurring Bond ally",
+      "Q's apprentice"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which CIA agent is a recurring friend of Bond?",
+    "choices": [
+      "Jack Wade",
+      "Valentin Zukovsky",
+      "René Mathis",
+      "Felix Leiter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What drink order is Bond famous for using?",
+    "choices": [
+      "Vodka martini, shaken not stirred",
+      "Gin martini, stirred not shaken",
+      "Scotch neat with water",
+      "Bourbon old-fashioned"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which car is most famously associated with James Bond?",
+    "choices": [
+      "Lotus Esprit",
+      "Aston Martin DB5",
+      "BMW Z8",
+      "Ford Mustang Mach 1"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Who is Bond's gold-obsessed adversary?",
+    "choices": [
+      "Francisco Scaramanga",
+      "Elektra King",
+      "Auric Goldfinger",
+      "Max Zorin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which villain is commonly associated with the name Ernst Stavro Blofeld?",
+    "choices": [
+      "The head of MI6",
+      "A CIA director",
+      "A Bond impersonator",
+      "The head of SPECTRE"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who is the assassin with a golden gun?",
+    "choices": [
+      "Francisco Scaramanga",
+      "Red Grant",
+      "Jaws",
+      "Mr. Hinx"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which nearly indestructible henchman is known for metal teeth?",
+    "choices": [
+      "Oddjob",
+      "Jaws",
+      "May Day",
+      "Hinx"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which Bond film features Hugo Drax as its main villain?",
+    "choices": [
+      "Diamonds Are Forever",
+      "The World Is Not Enough",
+      "Moonraker",
+      "A View to a Kill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which villain is played by Javier Bardem?",
+    "choices": [
+      "Le Chiffre",
+      "Dominic Greene",
+      "Lyutsifer Safin",
+      "Raoul Silva"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which villain is played by Mads Mikkelsen in Casino Royale?",
+    "choices": [
+      "Le Chiffre",
+      "Mr. White",
+      "Blofeld",
+      "Gustav Graves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which actor plays Blofeld in Spectre?",
+    "choices": [
+      "Javier Bardem",
+      "Christoph Waltz",
+      "Ralph Fiennes",
+      "Willem Dafoe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which organization is Bond's recurring major enemy in many films?",
+    "choices": [
+      "SMERSH",
+      "MI5",
+      "SPECTRE",
+      "Quantum Section"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the title of Bond's first mission in Jamaica?",
+    "choices": [
+      "Live and Let Die",
+      "Licence to Kill",
+      "No Time to Die",
+      "Dr. No"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which film is set around a stolen nuclear device and the villain Emilio Largo?",
+    "choices": [
+      "Thunderball",
+      "You Only Live Twice",
+      "The World Is Not Enough",
+      "Tomorrow Never Dies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which film sends Bond to Japan and features a volcanic base?",
+    "choices": [
+      "The Man with the Golden Gun",
+      "You Only Live Twice",
+      "Skyfall",
+      "Octopussy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which film has Bond marrying Tracy Draco?",
+    "choices": [
+      "For Your Eyes Only",
+      "Diamonds Are Forever",
+      "On Her Majesty's Secret Service",
+      "The Living Daylights"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which film follows Bond's investigation of a diamond-smuggling operation?",
+    "choices": [
+      "Goldfinger",
+      "The World Is Not Enough",
+      "Die Another Day",
+      "Diamonds Are Forever"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which film features Bond's first encounter with the villain Kananga?",
+    "choices": [
+      "Live and Let Die",
+      "The Man with the Golden Gun",
+      "Licence to Kill",
+      "Moonraker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Bond film features Scaramanga and the island of Phuket?",
+    "choices": [
+      "The Spy Who Loved Me",
+      "The Man with the Golden Gun",
+      "Octopussy",
+      "A View to a Kill"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which film has the famous underwater Lotus Esprit?",
+    "choices": [
+      "For Your Eyes Only",
+      "Moonraker",
+      "The Spy Who Loved Me",
+      "Tomorrow Never Dies"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which film takes Bond into space?",
+    "choices": [
+      "You Only Live Twice",
+      "GoldenEye",
+      "Die Another Day",
+      "Moonraker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which film features an all-female smuggling organization led by a jewel trader played by Maud Adams?",
+    "choices": [
+      "Octopussy",
+      "The World Is Not Enough",
+      "Never Say Never Again",
+      "The Living Daylights"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which film features industrialist Max Zorin?",
+    "choices": [
+      "The Living Daylights",
+      "A View to a Kill",
+      "GoldenEye",
+      "The World Is Not Enough"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which film introduces Timothy Dalton as Bond?",
+    "choices": [
+      "Licence to Kill",
+      "GoldenEye",
+      "The Living Daylights",
+      "A View to a Kill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which film features drug lord Franz Sanchez?",
+    "choices": [
+      "The Living Daylights",
+      "Live and Let Die",
+      "Die Another Day",
+      "Licence to Kill"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which film is Pierce Brosnan's first Bond outing?",
+    "choices": [
+      "GoldenEye",
+      "Tomorrow Never Dies",
+      "The World Is Not Enough",
+      "Die Another Day"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which film features a media tycoon named Elliot Carver?",
+    "choices": [
+      "The World Is Not Enough",
+      "Tomorrow Never Dies",
+      "GoldenEye",
+      "Die Another Day"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which film centers on oil heiress Elektra King?",
+    "choices": [
+      "Tomorrow Never Dies",
+      "GoldenEye",
+      "The World Is Not Enough",
+      "Casino Royale"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which film features the villain Gustav Graves and an orbital weapon?",
+    "choices": [
+      "The World Is Not Enough",
+      "GoldenEye",
+      "Skyfall",
+      "Die Another Day"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which film reboots Bond's origin as a newly promoted 00 agent?",
+    "choices": [
+      "Casino Royale",
+      "Quantum of Solace",
+      "Skyfall",
+      "Spectre"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which film follows directly from the events of Casino Royale?",
+    "choices": [
+      "Skyfall",
+      "Quantum of Solace",
+      "Spectre",
+      "No Time to Die"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which film reveals Bond's childhood home and family history?",
+    "choices": [
+      "Spectre",
+      "No Time to Die",
+      "Skyfall",
+      "Casino Royale"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which film is Daniel Craig's final official Bond film?",
+    "choices": [
+      "Spectre",
+      "Skyfall",
+      "Quantum of Solace",
+      "No Time to Die"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which singer performed the title song for Skyfall?",
+    "choices": [
+      "Adele",
+      "Billie Eilish",
+      "Sam Smith",
+      "Madonna"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which singer performed the title song for No Time to Die?",
+    "choices": [
+      "Adele",
+      "Billie Eilish",
+      "Sam Smith",
+      "Shirley Bassey"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which singer performed 'Live and Let Die'?",
+    "choices": [
+      "Tom Jones",
+      "Duran Duran",
+      "Paul McCartney and Wings",
+      "A-ha"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which performer sang 'Nobody Does It Better'?",
+    "choices": [
+      "Nancy Sinatra",
+      "Shirley Bassey",
+      "Gladys Knight",
+      "Carly Simon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which band performed 'A View to a Kill'?",
+    "choices": [
+      "Duran Duran",
+      "A-ha",
+      "Garbage",
+      "The Pretenders"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which singer performed 'Writing's on the Wall' for Spectre?",
+    "choices": [
+      "Adele",
+      "Sam Smith",
+      "Billie Eilish",
+      "Rita Coolidge"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "How many official Eon Bond films did Sean Connery make as Bond?",
+    "choices": [
+      "Five",
+      "Seven",
+      "Six",
+      "Eight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which non-Eon Bond film also stars Sean Connery as 007?",
+    "choices": [
+      "The Rock",
+      "The Name of the Rose",
+      "The Presidio",
+      "Never Say Never Again"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "How many official Eon films feature Roger Moore as Bond?",
+    "choices": [
+      "Seven",
+      "Six",
+      "Five",
+      "Eight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "How many official Eon films feature Timothy Dalton as Bond?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "How many official Eon films feature Pierce Brosnan as Bond?",
+    "choices": [
+      "Three",
+      "Five",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How many official Eon Bond films feature Daniel Craig?",
+    "choices": [
+      "Four",
+      "Six",
+      "Three",
+      "Five"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which director made Dr. No, From Russia with Love, and Thunderball?",
+    "choices": [
+      "Terence Young",
+      "Guy Hamilton",
+      "Lewis Gilbert",
+      "John Glen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which director made Goldfinger, Diamonds Are Forever, and Live and Let Die?",
+    "choices": [
+      "Terence Young",
+      "Guy Hamilton",
+      "Peter Hunt",
+      "Martin Campbell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which director made The Spy Who Loved Me and Moonraker?",
+    "choices": [
+      "John Glen",
+      "Guy Hamilton",
+      "Lewis Gilbert",
+      "Irvin Kershner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which director was responsible for five consecutive Bond films from For Your Eyes Only through Licence to Kill?",
+    "choices": [
+      "Lewis Gilbert",
+      "Martin Campbell",
+      "Sam Mendes",
+      "John Glen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which director made both GoldenEye and Casino Royale?",
+    "choices": [
+      "Martin Campbell",
+      "Sam Mendes",
+      "Marc Forster",
+      "Michael Apted"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which director made Skyfall and Spectre?",
+    "choices": [
+      "Martin Campbell",
+      "Sam Mendes",
+      "Cary Joji Fukunaga",
+      "John Glen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who directed No Time to Die?",
+    "choices": [
+      "Sam Mendes",
+      "Marc Forster",
+      "Cary Joji Fukunaga",
+      "Danny Boyle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which singer performed the title song for Diamonds Are Forever?",
+    "choices": [
+      "Nancy Sinatra",
+      "Lulu",
+      "Adele",
+      "Shirley Bassey"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which singer performed the title song for You Only Live Twice?",
+    "choices": [
+      "Nancy Sinatra",
+      "Shirley Bassey",
+      "A-ha",
+      "Gladys Knight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which singer performed the title song for The World Is Not Enough?",
+    "choices": [
+      "Sheryl Crow",
+      "Garbage",
+      "Tina Turner",
+      "Madonna"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which band performed the title song for The Living Daylights?",
+    "choices": [
+      "Duran Duran",
+      "Garbage",
+      "A-ha",
+      "U2"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which film first prominently features the Aston Martin DB5's ejector seat?",
+    "choices": [
+      "Thunderball",
+      "You Only Live Twice",
+      "GoldenEye",
+      "Goldfinger"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Bond film features a BMW 750iL controlled by remote technology?",
+    "choices": [
+      "Tomorrow Never Dies",
+      "GoldenEye",
+      "The World Is Not Enough",
+      "Die Another Day"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Bond film features the BMW Z8?",
+    "choices": [
+      "Tomorrow Never Dies",
+      "The World Is Not Enough",
+      "GoldenEye",
+      "Die Another Day"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which film uses a gadget-laden Aston Martin V12 Vanquish nicknamed the Vanquish?",
+    "choices": [
+      "The World Is Not Enough",
+      "Casino Royale",
+      "Die Another Day",
+      "Skyfall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which actor plays Felix Leiter in the Daniel Craig era?",
+    "choices": [
+      "David Hedison",
+      "Jack Lord",
+      "Norman Burton",
+      "Jeffrey Wright"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which actor plays M after Judi Dench's tenure ends?",
+    "choices": [
+      "Ralph Fiennes",
+      "Ben Whishaw",
+      "Javier Bardem",
+      "Naomie Harris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which actor plays Q in Skyfall, Spectre, and No Time to Die?",
+    "choices": [
+      "Desmond Llewelyn",
+      "Ben Whishaw",
+      "John Cleese",
+      "Rory Kinnear"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which actor plays Madeleine Swann?",
+    "choices": [
+      "Eva Green",
+      "Olga Kurylenko",
+      "Lea Seydoux",
+      "Bérénice Marlohe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which actress plays Vesper Lynd in Casino Royale?",
+    "choices": [
+      "Lea Seydoux",
+      "Gemma Arterton",
+      "Rosamund Pike",
+      "Eva Green"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which actor plays the mysterious Mr. White across several Craig-era films?",
+    "choices": [
+      "Jesper Christensen",
+      "Christoph Waltz",
+      "Ralph Fiennes",
+      "Mads Mikkelsen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which location serves as Bond's ancestral home in Skyfall?",
+    "choices": [
+      "A villa in Jamaica",
+      "A remote estate in Scotland",
+      "A manor in Kent",
+      "A chalet in Switzerland"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Swiss mountaintop location becomes Blofeld's clinic in On Her Majesty's Secret Service?",
+    "choices": [
+      "Schilthorn Lodge",
+      "St. Moritz House",
+      "Piz Gloria",
+      "Mount Pilatus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which Fleming novel was the first Bond story published?",
+    "choices": [
+      "Live and Let Die",
+      "Moonraker",
+      "From Russia, with Love",
+      "Casino Royale"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which film title differs from Fleming's novel title only by omitting the comma?",
+    "choices": [
+      "From Russia with Love",
+      "On Her Majesty's Secret Service",
+      "The Spy Who Loved Me",
+      "You Only Live Twice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which film's plot is substantially different from Fleming's novel about a British missile scientist?",
+    "choices": [
+      "Casino Royale",
+      "Moonraker",
+      "Goldfinger",
+      "Dr. No"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which actor played Bond's wife Tracy in On Her Majesty's Secret Service?",
+    "choices": [
+      "Teri Hatcher",
+      "Jane Seymour",
+      "Diana Rigg",
+      "Lana Wood"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which actress plays Elektra King?",
+    "choices": [
+      "Denise Richards",
+      "Izabella Scorupco",
+      "Carole Bouquet",
+      "Sophie Marceau"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which actor plays Jaws in The Spy Who Loved Me and Moonraker?",
+    "choices": [
+      "Richard Kiel",
+      "Christopher Walken",
+      "Klaus Maria Brandauer",
+      "Robert Davi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which henchman uses a razor-edged bowler hat in Goldfinger?",
+    "choices": [
+      "Jaws",
+      "Oddjob",
+      "Nick Nack",
+      "Mr. Kidd"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which actress plays May Day in A View to a Kill?",
+    "choices": [
+      "Famke Janssen",
+      "Barbara Bach",
+      "Grace Jones",
+      "Lotte Lenya"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is the name of the covert network Bond pursues after the events of Casino Royale?",
+    "choices": [
+      "SPECTRE",
+      "SMERSH",
+      "The Union",
+      "Quantum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which film reveals that Bond and Blofeld were foster brothers in the film's backstory?",
+    "choices": [
+      "Spectre",
+      "No Time to Die",
+      "Skyfall",
+      "Quantum of Solace"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which villain in No Time to Die is played by Rami Malek?",
+    "choices": [
+      "Blofeld",
+      "Lyutsifer Safin",
+      "Lucifer Hinx",
+      "Mr. White"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which island nation is central to the opening and closing settings of No Time to Die?",
+    "choices": [
+      "Cuba",
+      "The Bahamas",
+      "Jamaica",
+      "Malta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which actor portrays Bond's daughter Mathilde's mother?",
+    "choices": [
+      "Ana de Armas",
+      "Naomie Harris",
+      "Lashana Lynch",
+      "Lea Seydoux"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which organization does Nomi represent when she carries the 007 designation?",
+    "choices": [
+      "MI6",
+      "The CIA",
+      "SPECTRE",
+      "The Foreign Office"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Bond film opens with a parkour chase through a construction site?",
+    "choices": [
+      "Quantum of Solace",
+      "Casino Royale",
+      "Skyfall",
+      "No Time to Die"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Bond film contains the opening sequence set at a motor-racing event in the Bahamas?",
+    "choices": [
+      "GoldenEye",
+      "The World Is Not Enough",
+      "Casino Royale",
+      "Licence to Kill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which recurring character is promoted to M in the Craig-era films?",
+    "choices": [
+      "Bill Tanner",
+      "Rene Mathis",
+      "Jack Wade",
+      "Gareth Mallory"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Bond film features the Aston Martin DB5 appearing as a classic car in Scotland?",
+    "choices": [
+      "Skyfall",
+      "Casino Royale",
+      "Spectre",
+      "No Time to Die"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which production company has made the official Bond films since Dr. No?",
+    "choices": [
+      "Pinewood Pictures",
+      "Eon Productions",
+      "United Artists Television",
+      "MGM British Films"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which studio complex is strongly associated with the production of the official Bond films?",
+    "choices": [
+      "Shepperton Studios",
+      "Elstree Studios",
+      "Pinewood Studios",
+      "Leavesden Studios"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which actor's Bond debut begins with the black-and-white pre-title sequence establishing his 00 status?",
+    "choices": [
+      "Pierce Brosnan",
+      "Timothy Dalton",
+      "George Lazenby",
+      "Daniel Craig"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

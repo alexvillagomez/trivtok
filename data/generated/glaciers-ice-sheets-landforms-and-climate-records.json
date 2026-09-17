@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a glacier?",
+    "choices": [
+      "A flowing mass of land ice",
+      "A floating ocean current",
+      "A permanent snow cloud",
+      "A buried river channel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which process turns snow into firn?",
+    "choices": [
+      "Compaction and recrystallization",
+      "Volcanic heating",
+      "Tidal erosion",
+      "Salt precipitation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "The zone where snow persists year to year is the:",
+    "choices": [
+      "Accumulation zone",
+      "Ablation zone",
+      "Calving front",
+      "Bed trough"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Glacier ice commonly appears blue because it:",
+    "choices": [
+      "Contains blue algae",
+      "Absorbs longer red wavelengths",
+      "Reflects blue paint",
+      "Forms from blue snow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "A glacier gains mass mainly through:",
+    "choices": [
+      "Snowfall",
+      "Bed friction",
+      "Meltwater runoff",
+      "Iceberg calving"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "The lower end of a valley glacier is its:",
+    "choices": [
+      "Crevasse",
+      "Terminus",
+      "Nunatak",
+      "Firn line"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "A glacier flowing down a mountain valley is a:",
+    "choices": [
+      "Piedmont glacier",
+      "Ice shelf",
+      "Valley glacier",
+      "Rock glacier"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Glacial till is deposited directly by:",
+    "choices": [
+      "Wind",
+      "Meltwater only",
+      "Sea ice",
+      "Glacier ice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "A bowl-shaped hollow carved by ice is a:",
+    "choices": [
+      "Cirque",
+      "Drumlin",
+      "Esker",
+      "Kame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is a crevasse?",
+    "choices": [
+      "A glacial crack",
+      "A snow grain",
+      "A melt pond",
+      "A sediment fan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Moraines are primarily ridges of:",
+    "choices": [
+      "Basalt lava",
+      "Glacial debris",
+      "Coral sand",
+      "Windblown dust"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "A glacier can move by sliding over its:",
+    "choices": [
+      "Cloud layer",
+      "Snow surface",
+      "Ocean tide",
+      "Bed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "An ice sheet covers an area larger than:",
+    "choices": [
+      "50,000 square kilometers",
+      "500 square kilometers",
+      "5,000 square kilometers",
+      "500,000 square kilometers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Earth's two modern ice sheets are in Greenland and:",
+    "choices": [
+      "Iceland",
+      "Antarctica",
+      "Svalbard",
+      "Patagonia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "An ice shelf is ice that:",
+    "choices": [
+      "Floats beyond the coast",
+      "Lies only on mountains",
+      "Forms underground",
+      "Never meets seawater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "A nunatak is a mountain peak:",
+    "choices": [
+      "Under an ice shelf",
+      "Surrounded by ice",
+      "Made of sea ice",
+      "Carved by wind"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "A drumlin generally has a:",
+    "choices": [
+      "Streamlined glacial shape",
+      "Volcanic cone shape",
+      "Coral reef shape",
+      "Dune crest shape"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "An esker is a winding ridge deposited by:",
+    "choices": [
+      "A glacier's surface wind",
+      "A subglacial stream",
+      "A tectonic fault",
+      "A coastal wave"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A U-shaped valley indicates strong:",
+    "choices": [
+      "River incision",
+      "Glacial erosion",
+      "Wind erosion",
+      "Karst dissolution"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A hanging valley joins a larger valley at a:",
+    "choices": [
+      "Moraine lake",
+      "Sharp arête",
+      "Raised beach",
+      "Waterfall"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "The equilibrium line separates accumulation from:",
+    "choices": [
+      "Ablation",
+      "Calving",
+      "Basal freezing",
+      "Iceberg drift"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Glacial striations record ice movement across:",
+    "choices": [
+      "Bedrock",
+      "Clouds",
+      "Sea water",
+      "Fresh snow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "A roche moutonnée has a smooth stoss side and a:",
+    "choices": [
+      "Flat summit",
+      "Steep lee side",
+      "Deep crater",
+      "Loose dune"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "A fjord is a glacial valley flooded by:",
+    "choices": [
+      "Lava",
+      "Groundwater",
+      "Wind",
+      "The sea"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Glacier surging means a temporary increase in:",
+    "choices": [
+      "Flow speed",
+      "Snow density",
+      "Ocean salinity",
+      "Ice color"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Basal sliding is promoted by water at the:",
+    "choices": [
+      "Ice surface",
+      "Glacier bed",
+      "Cloud base",
+      "Iceberg top"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A glacier's mass balance is gain minus:",
+    "choices": [
+      "Elevation",
+      "Ablation",
+      "Latitude",
+      "Albedo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Positive annual mass balance usually makes a glacier:",
+    "choices": [
+      "Thin rapidly",
+      "Stop moving",
+      "Become saltier",
+      "Thicken or advance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Calving removes ice from a glacier at its:",
+    "choices": [
+      "Terminus",
+      "Snow pit",
+      "Firn basin",
+      "Bed tunnel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Albedo is the fraction of incoming light that a surface:",
+    "choices": [
+      "Absorbs as heat",
+      "Reflects",
+      "Converts to pressure",
+      "Stores as water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Fresh snow generally has higher albedo than:",
+    "choices": [
+      "Clean ice",
+      "Dark rock",
+      "White clouds",
+      "New firn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The firn line is often used to approximate the:",
+    "choices": [
+      "Calving rate",
+      "Ice thickness",
+      "Equilibrium line",
+      "Bed slope"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A moraine formed along a glacier's side is:",
+    "choices": [
+      "Lateral",
+      "Medial",
+      "Terminal",
+      "Ground"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Two tributary glaciers can create a medial moraine where their:",
+    "choices": [
+      "Beds freeze",
+      "Lateral moraines meet",
+      "Snowlines vanish",
+      "Fronts calve"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A terminal moraine marks a former glacier's:",
+    "choices": [
+      "Deepest bed",
+      "Maximum margin",
+      "Highest peak",
+      "Fastest flow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A kettle lake forms when buried ice:",
+    "choices": [
+      "Advances uphill",
+      "Melts out",
+      "Turns into firn",
+      "Floats away"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A moraine-dammed lake is impounded by:",
+    "choices": [
+      "Glacial sediment",
+      "Sea ice",
+      "Lava tubes",
+      "Wind dunes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Isostatic rebound follows removal of an ice sheet's:",
+    "choices": [
+      "Meltwater",
+      "Weight",
+      "Albedo",
+      "Crevasses"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The Last Glacial Maximum occurred roughly:",
+    "choices": [
+      "2,000 years ago",
+      "12,000 years ago",
+      "20,000 years ago",
+      "200,000 years ago"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "The Greenland Ice Sheet is primarily an archive of:",
+    "choices": [
+      "Tropical pollen",
+      "Atmospheric and climate history",
+      "Ocean currents only",
+      "Volcanic minerals only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "An ice core's annual layers are counted much like:",
+    "choices": [
+      "Tree rings",
+      "Tides",
+      "Fault offsets",
+      "Beach ridges"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Air bubbles in ice cores directly sample ancient:",
+    "choices": [
+      "Bedrock",
+      "Atmosphere",
+      "Meltwater channels",
+      "Glacial till"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Deuterium and oxygen-18 in ice can indicate past:",
+    "choices": [
+      "Magnetic field strength",
+      "Temperature and moisture source",
+      "Ice velocity only",
+      "Bed roughness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Radiocarbon dating is most useful for material containing:",
+    "choices": [
+      "Stable oxygen",
+      "Carbon-14",
+      "Pure quartz",
+      "Sea salt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Cosmogenic exposure dating estimates how long a surface has been:",
+    "choices": [
+      "Exposed",
+      "Buried in firn",
+      "Under seawater",
+      "Inside a crevasse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The ratio of argon isotopes can help date:",
+    "choices": [
+      "Young snow",
+      "Volcanic ash layers",
+      "Ice velocity",
+      "Moraine color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Radar sounding measures ice thickness using:",
+    "choices": [
+      "Sound in air",
+      "Electromagnetic waves",
+      "Visible shadows",
+      "Gravity tides"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Satellite altimetry primarily detects changes in ice-surface:",
+    "choices": [
+      "Salinity",
+      "Elevation",
+      "Grain shape",
+      "Temperature only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "InSAR is especially effective for measuring glacier:",
+    "choices": [
+      "Surface displacement",
+      "Snow chemistry",
+      "Ice age",
+      "Cloud cover"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Ablation stakes measure surface:",
+    "choices": [
+      "Accumulation and melt change",
+      "Bed pressure",
+      "Ice salinity",
+      "Ocean swell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The gravitational attraction of a changing ice mass can reveal:",
+    "choices": [
+      "Snow crystal size",
+      "Mass change",
+      "Crevasse width",
+      "Firn color"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Grounding lines separate floating ice from ice that is:",
+    "choices": [
+      "Freshly fallen",
+      "Bed-supported",
+      "Wind-packed",
+      "Cloud-borne"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Marine ice-sheet instability is strongly linked to retreat across a:",
+    "choices": [
+      "Reverse bed slope",
+      "Flat snowfield",
+      "High nunatak",
+      "Dry valley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Thwaites Glacier is notable because it is part of the:",
+    "choices": [
+      "Greenland Ice Sheet",
+      "West Antarctic Ice Sheet",
+      "Alaska Range",
+      "Patagonian Icefield"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A blue-ice area can expose old ice because wind removes:",
+    "choices": [
+      "Bedrock",
+      "Surface snow",
+      "Sea water",
+      "Basal till"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The brittle-ductile transition in glacier ice affects where:",
+    "choices": [
+      "Meltwater freezes",
+      "Crevasses form",
+      "Snow falls",
+      "Icebergs ground"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Glacier deformation is commonly described by:",
+    "choices": [
+      "Glen's flow law",
+      "Darcy's tide law",
+      "Kepler's ice law",
+      "Hubble's melt law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Glen's flow law relates strain rate to effective:",
+    "choices": [
+      "Salinity",
+      "Stress",
+      "Albedo",
+      "Altitude"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Basal till can enhance sliding when it is:",
+    "choices": [
+      "Frozen and dry",
+      "Water-saturated",
+      "Exposed to sunlight",
+      "Made of clean snow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Subglacial water pressure approaching ice overburden tends to:",
+    "choices": [
+      "Increase bed friction",
+      "Reduce effective pressure",
+      "Stop all melting",
+      "Create high albedo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A temperate glacier's ice is generally at its pressure-melting point except where:",
+    "choices": [
+      "Impurities or pressure vary",
+      "Snow is fresh",
+      "The sky is cloudy",
+      "The terminus is visible"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Polythermal glaciers contain both cold ice and:",
+    "choices": [
+      "Molten rock",
+      "Temperate ice",
+      "Sea ice",
+      "Dry snow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "A glacier's driving stress increases with ice thickness and surface:",
+    "choices": [
+      "Color",
+      "Slope",
+      "Age",
+      "Latitude"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The surface mass-balance gradient describes how balance changes with:",
+    "choices": [
+      "Longitude",
+      "Elevation",
+      "Ice age",
+      "Ocean depth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Debris cover can reduce melt when it is:",
+    "choices": [
+      "Thick enough to insulate",
+      "Very thin",
+      "Freshly fallen",
+      "Underwater"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The supraglacial zone lies:",
+    "choices": [
+      "Beneath bedrock",
+      "On the glacier surface",
+      "Inside ocean water",
+      "Below the grounding line"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "A moulin carries surface meltwater into the:",
+    "choices": [
+      "Atmosphere",
+      "Glacier interior",
+      "Ocean tide",
+      "Moraine crest"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Cryoconite holes are dark melt features formed by concentrated:",
+    "choices": [
+      "Basal clay",
+      "Dust and microbes",
+      "Sea salt",
+      "Volcanic gases"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Ice mélange is a mixture of sea ice and broken:",
+    "choices": [
+      "Glacier ice",
+      "Bedrock",
+      "Firn crystals",
+      "River sediment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "The Ross Ice Shelf is attached to Antarctica and floats on the:",
+    "choices": [
+      "Arctic Ocean",
+      "Southern Ocean",
+      "Pacific lake",
+      "Greenland Sea"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "An ice stream is a fast-flowing corridor within an:",
+    "choices": [
+      "Ice sheet",
+      "Esker",
+      "Arête",
+      "Ice core"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Whillans Ice Stream is studied for episodic motion caused partly by:",
+    "choices": [
+      "Tidal heating",
+      "Stick-slip basal processes",
+      "Volcanic eruptions",
+      "Wind erosion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "A subglacial lake is detected commonly by a flat bright radar:",
+    "choices": [
+      "Reflection",
+      "Shadow",
+      "Cloud",
+      "Spectrum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Lake Vostok lies beneath the Antarctic:",
+    "choices": [
+      "Ice sheet",
+      "Iceberg",
+      "Fjord",
+      "Sea shelf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Ice-shelf buttressing means a shelf resists inland ice:",
+    "choices": [
+      "Melting",
+      "Flow",
+      "Snowfall",
+      "Refreezing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Marine ice-cliff instability concerns failure of tall ice fronts lacking:",
+    "choices": [
+      "Cloud cover",
+      "Structural support",
+      "Basal water",
+      "Annual layers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "The first expedition to reach the geographic South Pole was led by:",
+    "choices": [
+      "Roald Amundsen",
+      "Ernest Shackleton",
+      "Robert Falcon Scott",
+      "Fridtjof Nansen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Robert Falcon Scott reached the South Pole after:",
+    "choices": [
+      "Amundsen's team",
+      "Nansen's team",
+      "Cook's team",
+      "Byrd's team"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Fridtjof Nansen's Fram expedition investigated drift across the:",
+    "choices": [
+      "Weddell Sea",
+      "Arctic Ocean",
+      "Ross Sea",
+      "Greenland Ice Sheet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Northwest Passage is a sea route through the Arctic archipelago of:",
+    "choices": [
+      "Russia",
+      "Norway",
+      "Greenland",
+      "Canada"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Little Ice Age was a period of generally cooler conditions beginning around:",
+    "choices": [
+      "The thirteenth century",
+      "The third century",
+      "The eighteenth century",
+      "The twentieth century"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Glacial erratics are rocks transported away from their source by:",
+    "choices": [
+      "Glacial ice",
+      "Ocean evaporation",
+      "Volcanic ash",
+      "Wind alone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "A trimline records a former glacier surface through an abrupt vegetation or weathering:",
+    "choices": [
+      "Increase",
+      "Boundary",
+      "Flood",
+      "Rotation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "The ELA of a glacier is estimated where annual accumulation equals:",
+    "choices": [
+      "Ice velocity",
+      "Ablation",
+      "Calving-front height",
+      "Basal pressure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "In a positive degree-day model, melt is related to accumulated air:",
+    "choices": [
+      "Temperature above freezing",
+      "Humidity below zero",
+      "Wind direction",
+      "Pressure at depth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Firn air is trapped and isolated as pores close during:",
+    "choices": [
+      "Calving",
+      "Densification",
+      "Erosion",
+      "Surging"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "The close-off depth marks when firn pores become:",
+    "choices": [
+      "Water-filled",
+      "Sealed bubbles",
+      "Open crevasses",
+      "Basal channels"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Volcanic sulfate spikes in ice cores can provide precise event:",
+    "choices": [
+      "Velocities",
+      "Horizon markers",
+      "Albedo values",
+      "Bed elevations"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Ice-core layer thinning with depth must be modeled to infer original:",
+    "choices": [
+      "Annual thickness",
+      "Ocean salinity",
+      "Rock hardness",
+      "Cloud height"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "The age of deepest ice is often limited by basal melting and:",
+    "choices": [
+      "Surface snowfall",
+      "Ice flow distortion",
+      "Sea-level tides",
+      "Solar eclipses"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "A blue-ice meteorite search site benefits from local ice:",
+    "choices": [
+      "Rapid accumulation",
+      "Ablation and wind divergence",
+      "Deep ocean currents",
+      "High vegetation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Satellite passive microwave retrievals are sensitive to snowpack:",
+    "choices": [
+      "Magnetism",
+      "Dielectric properties",
+      "Bedrock age",
+      "Tectonic strain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Repeat DEM differencing estimates glacier-wide volume change from surface:",
+    "choices": [
+      "Elevation change",
+      "Ice color",
+      "Crevasse count",
+      "Cloud albedo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Photogrammetric glacier surveys reconstruct topography from overlapping:",
+    "choices": [
+      "Ice cores",
+      "Images",
+      "Tide gauges",
+      "Snow grains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "A glacier's hypsometry describes the distribution of area with:",
+    "choices": [
+      "Time",
+      "Elevation",
+      "Salinity",
+      "Distance from pole"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "The Shallow Ice Approximation neglects some stresses when flow is dominated by:",
+    "choices": [
+      "Ocean tides",
+      "Vertical shear",
+      "Volcanic heat",
+      "Wind drag"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "In a marine ice-sheet instability analysis, the MISMIP-style grounding-line flux is most sensitive to bed slope and:",
+    "choices": [
+      "Basal melt rate",
+      "Ice softness exponent",
+      "Ocean temperature variance",
+      "Surface albedo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "A Dansgaard–Oeschger signal in an ice core is identified most robustly by abrupt changes in isotopes and:",
+    "choices": [
+      "Dust concentration",
+      "Basal topography",
+      "Radar phase",
+      "Crevasse density"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "For reconstructing paleo-accumulation from a folded deep ice core, layer continuity is constrained primarily with:",
+    "choices": [
+      "Surface stake surveys",
+      "Satellite gravimetry",
+      "Electromagnetic and chemical tie points",
+      "Ablation-pole measurements"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "A glacier's positive surface mass balance can coexist with terminus retreat when dynamic discharge exceeds:",
+    "choices": [
+      "Annual snowfall",
+      "Calving-front depth",
+      "Subglacial drainage",
+      "The integrated accumulation surplus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

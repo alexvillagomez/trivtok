@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which company produced the Model T?",
+    "choices": [
+      "Ford",
+      "Toyota",
+      "Chevrolet",
+      "Fiat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which model is strongly associated with popularizing hybrid cars?",
+    "choices": [
+      "Ford Bronco",
+      "Toyota Prius",
+      "Volkswagen Golf",
+      "Honda Civic Type R"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which manufacturer makes the Beetle?",
+    "choices": [
+      "Renault",
+      "Subaru",
+      "Volkswagen",
+      "Mitsubishi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which Ford model is a famous American pony car?",
+    "choices": [
+      "Transit",
+      "Taurus",
+      "Explorer",
+      "Mustang"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which Porsche model has been produced across many generations since the 1960s?",
+    "choices": [
+      "911",
+      "944",
+      "928",
+      "Cayenne"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which Jeep model is especially associated with removable doors and off-road use?",
+    "choices": [
+      "Compass",
+      "Wrangler",
+      "Renegade",
+      "Cherokee"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Italian manufacturer is known for the prancing-horse emblem?",
+    "choices": [
+      "Lancia",
+      "Alfa Romeo",
+      "Ferrari",
+      "Maserati"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which Italian manufacturer is associated with the bull emblem?",
+    "choices": [
+      "Ferrari",
+      "Pagani",
+      "Abarth",
+      "Lamborghini"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which manufacturer became especially associated with safety innovations in popular car history?",
+    "choices": [
+      "Volvo",
+      "Lotus",
+      "Suzuki",
+      "Saab"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which automaker introduced an electric sports car called the Roadster in 2008?",
+    "choices": [
+      "Nissan",
+      "Tesla",
+      "Rivian",
+      "Lucid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What body style usually has four doors and a separate trunk?",
+    "choices": [
+      "Hatchback",
+      "Roadster",
+      "Sedan",
+      "Station wagon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What body style has a rear door that lifts with the glass?",
+    "choices": [
+      "Coupe",
+      "Limousine",
+      "Convertible",
+      "Hatchback"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What body style has a folding or removable roof?",
+    "choices": [
+      "Convertible",
+      "Sedan",
+      "Fastback",
+      "Minivan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What body style is designed around an open cargo bed?",
+    "choices": [
+      "Crossover",
+      "Pickup truck",
+      "Coupe",
+      "Wagon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is the main function of a car's engine?",
+    "choices": [
+      "Store luggage above the roof",
+      "Control the radio signal",
+      "Convert stored energy into mechanical power",
+      "Measure tire pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What does a conventional car battery primarily do when starting the engine?",
+    "choices": [
+      "Cool the engine block",
+      "Lubricate the transmission",
+      "Filter exhaust gases",
+      "Supply electrical energy to the starter system"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does an alternator generally do while an engine runs?",
+    "choices": [
+      "Generate electrical power and recharge the battery",
+      "Pump fuel into the cylinders",
+      "Change the steering ratio",
+      "Cool the brake discs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the purpose of a car's brakes?",
+    "choices": [
+      "Increase engine displacement",
+      "Slow or stop the vehicle",
+      "Raise tire pressure",
+      "Transfer fuel to the tank"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What does ABS help prevent during hard braking?",
+    "choices": [
+      "Engine overheating",
+      "Battery discharge",
+      "Wheel lockup",
+      "Exhaust noise"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the primary purpose of a seat belt?",
+    "choices": [
+      "Improve fuel octane",
+      "Increase tire grip",
+      "Cool the passenger compartment",
+      "Restrain occupants during sudden deceleration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is the purpose of an airbag?",
+    "choices": [
+      "Provide supplemental cushioning in a collision",
+      "Replace the steering wheel",
+      "Increase engine power",
+      "Prevent all vehicle movement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a transmission do?",
+    "choices": [
+      "Store electricity for the headlights",
+      "Select and deliver useful ratios of engine power to the wheels",
+      "Filter air entering the cabin",
+      "Control windshield washer fluid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does a clutch do in a traditional manual-transmission car?",
+    "choices": [
+      "Increase the brake pad thickness",
+      "Control the radiator fan only",
+      "Temporarily disconnect the engine from the transmission",
+      "Lock the steering wheel while moving"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does a tachometer display?",
+    "choices": [
+      "Vehicle distance traveled",
+      "Fuel level",
+      "Coolant temperature only",
+      "Engine speed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What does an odometer display?",
+    "choices": [
+      "Distance traveled",
+      "Engine revolutions per minute",
+      "Oil pressure",
+      "Battery voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a VIN?",
+    "choices": [
+      "A variable ignition nozzle",
+      "A vehicle identification number",
+      "A vehicle insurance note",
+      "A valve intake needle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the main job of a radiator in a liquid-cooled engine?",
+    "choices": [
+      "Compress fuel",
+      "Charge the battery",
+      "Release heat from the coolant",
+      "Reduce tire wear"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What does engine oil primarily provide?",
+    "choices": [
+      "Fuel ignition",
+      "Cabin heating only",
+      "Tire inflation",
+      "Lubrication and friction reduction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What does a fuel gauge indicate?",
+    "choices": [
+      "The approximate fuel level",
+      "The engine's compression ratio",
+      "The brake temperature",
+      "The vehicle's total weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does a catalytic converter help reduce?",
+    "choices": [
+      "The vehicle's wheelbase",
+      "Certain harmful exhaust emissions",
+      "The engine's oil level",
+      "The cabin's humidity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does front-wheel drive mean?",
+    "choices": [
+      "The front wheels steer but never receive power",
+      "The engine is mounted behind the rear axle",
+      "The front wheels receive engine power",
+      "All four wheels receive power continuously"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does rear-wheel drive mean?",
+    "choices": [
+      "The rear wheels cannot steer",
+      "The engine must be electric",
+      "The front axle has no suspension",
+      "The rear wheels receive engine power"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does four-wheel drive generally provide?",
+    "choices": [
+      "Power to all four wheels through a selectable drivetrain system",
+      "Steering only through the rear wheels",
+      "A second engine in the trunk",
+      "Permanent braking at all four wheels"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a turbocharger designed to do?",
+    "choices": [
+      "Cool the fuel tank with outside air",
+      "Force more air into an engine using exhaust-driven energy",
+      "Replace the transmission",
+      "Convert braking heat into electricity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is an inline-four engine?",
+    "choices": [
+      "An engine with four banks of cylinders",
+      "A four-speed transmission",
+      "An engine with four cylinders arranged in one row",
+      "A four-wheel steering system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a V8 engine?",
+    "choices": [
+      "A V-shaped eight-speed gearbox",
+      "An eight-valve single-cylinder engine",
+      "A four-cylinder engine with eight tires",
+      "An eight-cylinder engine arranged in two angled banks"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a hybrid vehicle?",
+    "choices": [
+      "A vehicle combining an internal-combustion engine with electric propulsion",
+      "A vehicle with two steering wheels",
+      "A car that can use any fuel without modification",
+      "A vehicle built from two body shells"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is an electric vehicle's traction battery used for?",
+    "choices": [
+      "Lubricate the electric motor",
+      "Store energy for the electric drive system",
+      "Cool the tires",
+      "Control the windshield wipers mechanically"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the purpose of tire tread?",
+    "choices": [
+      "Increase engine compression",
+      "Measure the vehicle's speed directly",
+      "Help provide grip and channel water away",
+      "Store fuel in the wheel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which car is associated with Karl Benz's early patented automobile?",
+    "choices": [
+      "Ford Model A",
+      "Citroën DS",
+      "Toyota 2000GT",
+      "Benz Patent-Motorwagen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What production method made the Model T famous for large-scale manufacturing?",
+    "choices": [
+      "Moving assembly-line production",
+      "Hand-building each car in a palace",
+      "3D printing of complete engines",
+      "Shipyard construction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which race is traditionally held on a circuit near Le Mans, France?",
+    "choices": [
+      "Monaco Grand Prix",
+      "24 Hours of Le Mans",
+      "Indianapolis 500",
+      "Dakar Rally"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Japanese manufacturer produces the Civic?",
+    "choices": [
+      "Toyota",
+      "Mazda",
+      "Honda",
+      "Nissan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which Japanese model is a famous small roadster?",
+    "choices": [
+      "Toyota Land Cruiser",
+      "Nissan Patrol",
+      "Honda Odyssey",
+      "Mazda MX-5 Miata"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which British marque is associated with the classic Mini's original design?",
+    "choices": [
+      "BMC",
+      "Bentley",
+      "Rolls-Royce",
+      "Lotus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which body style combines car-like construction with a taller, utility-oriented shape?",
+    "choices": [
+      "Roadster",
+      "Crossover",
+      "Coupe",
+      "Limousine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does a vehicle's wheelbase measure?",
+    "choices": [
+      "The width of the steering wheel",
+      "The diameter of the tires",
+      "The distance between the front and rear axle centers",
+      "The length of the exhaust pipe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does a vehicle's ground clearance describe?",
+    "choices": [
+      "The distance between its headlights",
+      "The depth of the fuel tank",
+      "The height of the driver",
+      "The space between the ground and the vehicle's lowest relevant point"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the purpose of windshield wipers?",
+    "choices": [
+      "Clear water and debris from the windshield",
+      "Cool the engine bay",
+      "Measure the rain rate",
+      "Adjust the steering angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which manufacturer produces the Corolla?",
+    "choices": [
+      "Nissan",
+      "Toyota",
+      "Mazda",
+      "Hyundai"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a boxer engine's cylinder arrangement?",
+    "choices": [
+      "All cylinders in one vertical row",
+      "Cylinders arranged in three radial rings",
+      "Opposed cylinders lying in two banks",
+      "A single cylinder with two pistons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does DOHC mean in engine terminology?",
+    "choices": [
+      "Direct oil hydraulic cooling",
+      "Double-output hybrid control",
+      "Differential overdrive hydraulic clutch",
+      "Dual overhead camshafts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does variable valve timing alter?",
+    "choices": [
+      "The timing of valve opening and closing",
+      "The number of wheels",
+      "The fuel tank's physical size",
+      "The vehicle's paint color"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does an engine's compression ratio compare?",
+    "choices": [
+      "Fuel weight with tire weight",
+      "Cylinder volume before compression with volume after compression",
+      "Wheelbase with track width",
+      "Battery voltage with alternator speed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does an octane rating primarily indicate for gasoline?",
+    "choices": [
+      "The fuel's color",
+      "The amount of water in the tank",
+      "Resistance to knock or uncontrolled autoignition",
+      "The number of cylinders an engine must have"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is torque in automotive terms?",
+    "choices": [
+      "The vehicle's top speed",
+      "The volume of the fuel tank",
+      "The heat capacity of coolant",
+      "Rotational twisting force"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a differential allow in a driven axle?",
+    "choices": [
+      "The left and right wheels to rotate at different speeds while receiving drive",
+      "Both wheels to turn only at identical speeds",
+      "The engine to run without oil",
+      "The steering wheel to disconnect from the tires"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a limited-slip differential designed to do?",
+    "choices": [
+      "Lock every wheel permanently",
+      "Limit excessive speed difference between driven wheels while allowing some difference",
+      "Disconnect the axle during cornering",
+      "Increase fuel octane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does a transfer case do in many four-wheel-drive vehicles?",
+    "choices": [
+      "Transfer fuel from one tank to another",
+      "Control the cabin heater",
+      "Distribute drive to front and rear axles and provide selectable ranges",
+      "Replace the differential in every axle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a key distinction between all-wheel drive and traditional selectable four-wheel drive?",
+    "choices": [
+      "All-wheel drive powers only the front wheels",
+      "Selectable 4WD always uses an electric motor",
+      "They are identical labels with no engineering distinction",
+      "All-wheel drive is often designed for continuous or automatic torque distribution, while selectable 4WD uses driver-chosen modes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a unibody vehicle structure?",
+    "choices": [
+      "The body and main structural shell are integrated",
+      "The body sits on a separate ladder frame in every case",
+      "The roof carries the engine alone",
+      "The vehicle has no structural members"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is body-on-frame construction?",
+    "choices": [
+      "A body made only from carbon fiber",
+      "A body mounted on a separate structural frame",
+      "A frame integrated into the windshield",
+      "A chassis with no suspension"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a MacPherson strut?",
+    "choices": [
+      "A type of manual gearbox",
+      "A fuel-injection pattern",
+      "A suspension design combining a damper and structural upright",
+      "A racing tire compound"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a double-wishbone suspension designed to control?",
+    "choices": [
+      "Fuel pressure through two pumps",
+      "Engine timing through two crankshafts",
+      "Cabin temperature through two radiators",
+      "Wheel geometry through two lateral control arms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a major difference between disc and drum brakes?",
+    "choices": [
+      "Disc brakes clamp a rotor, while drum brakes press shoes against an inner drum surface",
+      "Disc brakes use engine oil, while drums use coolant",
+      "Drum brakes have no friction material",
+      "Disc brakes can work only on electric vehicles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does regenerative braking do in an electric or hybrid vehicle?",
+    "choices": [
+      "Burns extra fuel during every stop",
+      "Uses the motor as a generator to recover some kinetic energy",
+      "Replaces the steering rack",
+      "Turns brake fluid into gasoline"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a series hybrid's defining power-flow arrangement?",
+    "choices": [
+      "The engine drives the wheels mechanically with no electric motor",
+      "The battery drives a generator that never powers the wheels",
+      "The engine generates electricity while the traction motor drives the wheels",
+      "Two gasoline engines drive separate axles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does an inverter do in a typical battery-electric drivetrain?",
+    "choices": [
+      "Convert gasoline into diesel",
+      "Cool the passenger cabin without refrigerant",
+      "Change a manual gearbox into an automatic",
+      "Convert battery DC into controlled motor AC, and often reverse the process during regeneration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Why is thermal management important in a high-voltage vehicle battery?",
+    "choices": [
+      "Temperature affects performance, charging, durability, and safety",
+      "It determines the vehicle's paint finish",
+      "It replaces the need for a differential",
+      "It controls the tire tread pattern"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is a Wankel engine's distinctive moving component?",
+    "choices": [
+      "A pair of opposed pistons in one cylinder",
+      "A triangular rotor moving in an epitrochoidal housing",
+      "A turbine wheel driven only by brakes",
+      "A flexible belt replacing all gears"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "How does a diesel engine normally initiate combustion?",
+    "choices": [
+      "A spark plug ignites a premixed gasoline charge",
+      "A battery heats the exhaust manifold until fuel burns",
+      "Compression raises the air temperature enough to ignite injected fuel",
+      "A catalytic converter creates the flame"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is direct injection?",
+    "choices": [
+      "Fuel is poured directly into the exhaust",
+      "Air is injected into the fuel tank",
+      "Oil is injected into the tires",
+      "Fuel is injected directly into the combustion chamber"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What did a carburetor traditionally do?",
+    "choices": [
+      "Mix fuel with incoming air before it enters the engine",
+      "Change the gearbox ratio electronically",
+      "Filter particles from diesel exhaust",
+      "Regulate tire pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a key difference between a supercharger and an exhaust turbocharger?",
+    "choices": [
+      "A turbocharger is always electric, while a supercharger uses brakes",
+      "A supercharger is mechanically driven by the engine, while a turbocharger uses exhaust energy",
+      "A supercharger cools coolant, while a turbocharger pumps fuel",
+      "They differ only in brand name"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a crumple zone designed to do?",
+    "choices": [
+      "Prevent every part of the vehicle from deforming",
+      "Increase cornering speed",
+      "Progressively deform to absorb crash energy before it reaches occupants",
+      "Store fuel outside the vehicle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does electronic stability control generally help correct?",
+    "choices": [
+      "Low engine oil by adding lubricant",
+      "A flat tire by changing its pressure",
+      "Cabin noise by closing windows",
+      "Loss of directional stability by selectively braking wheels and reducing power"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the CAN bus in modern vehicles?",
+    "choices": [
+      "A communications network linking electronic control units",
+      "A physical bus used to transport passengers",
+      "A cooling channel inside the radiator",
+      "A type of high-performance tire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is OBD-II?",
+    "choices": [
+      "A two-stage brake design",
+      "A standardized onboard diagnostic interface and system",
+      "An off-road suspension geometry",
+      "A second-generation diesel fuel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What was the significance of the original Mini's transverse engine layout?",
+    "choices": [
+      "It made the car rear-wheel drive with a front engine",
+      "It required a separate truck frame",
+      "It helped create a compact front-wheel-drive package with substantial cabin space",
+      "It eliminated the need for a transmission"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which car is famous for introducing Audi's quattro all-wheel-drive identity to rally and road cars?",
+    "choices": [
+      "Audi V8",
+      "Audi TT",
+      "Audi 80 Avant",
+      "Audi Quattro"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which car is associated with the gullwing doors of Mercedes-Benz's 1950s sports-car icon?",
+    "choices": [
+      "300 SL",
+      "190 SL",
+      "C111",
+      "540 K"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which sports car is associated with a central driving position and a carbon-fiber road-car design by McLaren?",
+    "choices": [
+      "McLaren P1",
+      "McLaren F1",
+      "McLaren 12C",
+      "McLaren Senna"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which endurance-racing car became famous for defeating Ferrari at Le Mans in the late 1960s?",
+    "choices": [
+      "Porsche 917",
+      "Jaguar XJ-S",
+      "Ford GT40",
+      "Toyota GT-One"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Porsche racing prototype is associated with the early-1970s dominance at endurance events?",
+    "choices": [
+      "Porsche 956",
+      "Porsche 935",
+      "Porsche 911 GT1",
+      "Porsche 917"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does homologation mean in motorsport?",
+    "choices": [
+      "Meeting rules that allow a production-based vehicle or component to compete",
+      "A process for balancing a car's tires",
+      "A method of testing fuel octane at home",
+      "A guarantee that every race car is street legal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What was distinctive about Group B rally cars?",
+    "choices": [
+      "They were limited to unmodified family sedans",
+      "They allowed extremely powerful, technologically advanced cars under relatively liberal regulations",
+      "They competed only on oval tracks",
+      "They used no turbochargers or four-wheel drive"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which Citroën model became famous for hydropneumatic suspension and advanced postwar design?",
+    "choices": [
+      "2CV",
+      "Traction Avant",
+      "DS",
+      "SM"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which Japanese sports car is often cited as an early landmark of modern Japanese grand touring design?",
+    "choices": [
+      "Toyota AE86",
+      "Nissan Cube",
+      "Honda S800",
+      "Toyota 2000GT"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Jaguar model is celebrated for its 1960s long-hood sports-car design?",
+    "choices": [
+      "E-Type",
+      "XJ220",
+      "D-Type",
+      "XK120"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the main engineering purpose of a vehicle's final drive?",
+    "choices": [
+      "Generate electricity for the battery",
+      "Provide the last gear reduction and transmit torque to the driven axle",
+      "Control windshield-wiper speed",
+      "Measure the vehicle's fuel octane"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a transaxle?",
+    "choices": [
+      "A second fuel tank mounted across the axle",
+      "A suspension spring shaped like a gearbox",
+      "A combined transmission and differential assembly, commonly used at one end of a vehicle",
+      "A diagnostic system for airbags"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is an engine's firing order?",
+    "choices": [
+      "The order in which tires are installed",
+      "The sequence of dashboard warning lights",
+      "The order in which gears are painted",
+      "The sequence in which its cylinders deliver power strokes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is knock or detonation in a spark-ignition engine?",
+    "choices": [
+      "Abnormal combustion producing damaging pressure waves",
+      "Normal exhaust flow through the muffler",
+      "A tire losing traction on wet pavement",
+      "A battery charging cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a timing chain or belt responsible for synchronizing?",
+    "choices": [
+      "Wheel speed and tire pressure",
+      "Crankshaft and camshaft motion",
+      "Battery voltage and fuel level",
+      "Brake temperature and cabin airflow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the purpose of a flywheel in a conventional powertrain?",
+    "choices": [
+      "Cool the differential fluid",
+      "Increase tire sidewall stiffness",
+      "Store rotational energy and help smooth engine-speed changes",
+      "Filter fuel particles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a platform in automotive design?",
+    "choices": [
+      "A raised floor used only for car shows",
+      "A detachable roof panel",
+      "A type of race fuel",
+      "A shared engineering foundation used for multiple models"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a vehicle's coefficient of drag used to describe?",
+    "choices": [
+      "Its aerodynamic resistance to moving through air",
+      "Its resistance to brake fade",
+      "Its engine's friction at idle",
+      "Its ability to climb a hill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a roadster traditionally describe?",
+    "choices": [
+      "A four-door luxury sedan",
+      "A lightweight open two-seat sports car",
+      "A heavy-duty pickup",
+      "A three-row family van"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a fastback body shape?",
+    "choices": [
+      "A body with a vertical rear and separate trunk",
+      "A vehicle with two front hoods",
+      "A roofline that slopes continuously toward the rear",
+      "A body with no rear window"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why might an electric motor provide strong initial acceleration?",
+    "choices": [
+      "It must wait for exhaust pressure to build",
+      "It has no connection to the wheels",
+      "It uses a mechanical clutch to multiply fuel",
+      "It can deliver substantial torque from very low rotational speed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

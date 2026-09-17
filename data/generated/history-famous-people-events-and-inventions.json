@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who was the first president of the United States?",
+    "choices": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which country built the Great Pyramid of Giza?",
+    "choices": [
+      "Greece",
+      "Egypt",
+      "Rome",
+      "Persia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "In which year did World War II end?",
+    "choices": [
+      "1939",
+      "1941",
+      "1945",
+      "1950"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "When did humans first land on the Moon?",
+    "choices": [
+      "1959",
+      "1975",
+      "1981",
+      "1969"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "When did the Titanic sink?",
+    "choices": [
+      "1912",
+      "1905",
+      "1918",
+      "1923"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Where did the Renaissance begin?",
+    "choices": [
+      "France",
+      "Italy",
+      "England",
+      "Spain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who is commonly credited with developing the European movable-type printing press?",
+    "choices": [
+      "Isaac Newton",
+      "Leonardo da Vinci",
+      "Johannes Gutenberg",
+      "Galileo Galilei"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Who developed the theory of relativity?",
+    "choices": [
+      "Niels Bohr",
+      "Max Planck",
+      "Erwin Schrödinger",
+      "Albert Einstein"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who discovered penicillin?",
+    "choices": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who gave the “I Have a Dream” speech?",
+    "choices": [
+      "Malcolm X",
+      "Martin Luther King Jr.",
+      "Frederick Douglass",
+      "Thurgood Marshall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "When did India become independent from Britain?",
+    "choices": [
+      "1935",
+      "1952",
+      "1947",
+      "1961"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "When did the French Revolution begin?",
+    "choices": [
+      "1776",
+      "1815",
+      "1848",
+      "1789"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Who reached the Americas in 1492 on a Spanish-sponsored voyage?",
+    "choices": [
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What was the Silk Road?",
+    "choices": [
+      "A Roman military road",
+      "A network of trade routes",
+      "A canal in Egypt",
+      "A railway in Russia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which document limited the English king’s power in 1215?",
+    "choices": [
+      "The Domesday Book",
+      "The Bill of Rights",
+      "Magna Carta",
+      "The Act of Union"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What disease caused the Black Death?",
+    "choices": [
+      "Smallpox",
+      "Influenza",
+      "Malaria",
+      "Bubonic plague"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Where did the Industrial Revolution begin?",
+    "choices": [
+      "Britain",
+      "Japan",
+      "Brazil",
+      "Russia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which country was first to grant women national voting rights?",
+    "choices": [
+      "The United States",
+      "New Zealand",
+      "France",
+      "Canada"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "When was the United Nations founded?",
+    "choices": [
+      "1919",
+      "1955",
+      "1945",
+      "1963"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "When did the Berlin Wall fall?",
+    "choices": [
+      "1979",
+      "1991",
+      "1961",
+      "1989"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which two powers defined the Cold War rivalry?",
+    "choices": [
+      "The United States and the Soviet Union",
+      "Britain and France",
+      "China and Japan",
+      "Germany and Italy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What happened at the Battle of Hastings in 1066?",
+    "choices": [
+      "Rome conquered Greece",
+      "Normans conquered England",
+      "Vikings founded Russia",
+      "France invaded Spain"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Julius Caesar was a leader of which civilization?",
+    "choices": [
+      "Egypt",
+      "Greece",
+      "Rome",
+      "Carthage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Egyptian queen allied with Julius Caesar and Mark Antony?",
+    "choices": [
+      "Nefertiti",
+      "Hatshepsut",
+      "Arsinoe II",
+      "Cleopatra VII"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which ruler created a vast empire across Asia and Europe?",
+    "choices": [
+      "Genghis Khan",
+      "Cyrus the Great",
+      "Charlemagne",
+      "Saladin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which ruler is linked to the wealth of the medieval Mali Empire?",
+    "choices": [
+      "Sundiata Keita",
+      "Mansa Musa",
+      "Askia Muhammad",
+      "Sonni Ali"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Venetian traveler wrote about travels across Asia in the 13th century?",
+    "choices": [
+      "Ibn Battuta",
+      "Vasco da Gama",
+      "Marco Polo",
+      "Amerigo Vespucci"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which Moroccan traveler visited much of Africa and Asia?",
+    "choices": [
+      "Marco Polo",
+      "Zheng He",
+      "James Cook",
+      "Ibn Battuta"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Chinese admiral led major voyages in the Indian Ocean?",
+    "choices": [
+      "Zheng He",
+      "Kublai Khan",
+      "Sun Yat-sen",
+      "Qin Shi Huang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who helped enslaved people escape through the Underground Railroad?",
+    "choices": [
+      "Susan B. Anthony",
+      "Harriet Tubman",
+      "Sojourner Truth",
+      "Clara Barton"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Who became South Africa’s first Black president?",
+    "choices": [
+      "Desmond Tutu",
+      "Thabo Mbeki",
+      "Nelson Mandela",
+      "Steve Biko"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who led India’s independence movement using nonviolent resistance?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "B. R. Ambedkar",
+      "Mahatma Gandhi"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Who refused to give up her bus seat in the famous Montgomery protest?",
+    "choices": [
+      "Rosa Parks",
+      "Ella Baker",
+      "Fannie Lou Hamer",
+      "Daisy Bates"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Who is known as the founder of modern professional nursing?",
+    "choices": [
+      "Clara Barton",
+      "Florence Nightingale",
+      "Mary Seacole",
+      "Elizabeth Blackwell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Who won Nobel Prizes in both Physics and Chemistry?",
+    "choices": [
+      "Ada Lovelace",
+      "Dorothy Hodgkin",
+      "Marie Curie",
+      "Lise Meitner"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Who formulated the laws of motion and universal gravitation?",
+    "choices": [
+      "Albert Einstein",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Isaac Newton"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Who proposed evolution by natural selection?",
+    "choices": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Wegener",
+      "Louis Pasteur"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Who made the first successful powered airplane flights?",
+    "choices": [
+      "The Montgolfier brothers",
+      "The Wright brothers",
+      "The Lumière brothers",
+      "The Warner brothers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who improved the steam engine for industrial use?",
+    "choices": [
+      "George Stephenson",
+      "Michael Faraday",
+      "James Watt",
+      "James Clerk Maxwell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Who developed the first widely used smallpox vaccine?",
+    "choices": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Jonas Salk",
+      "Edward Jenner"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Where was the transistor developed?",
+    "choices": [
+      "Bell Labs",
+      "NASA",
+      "The Royal Society",
+      "The Cavendish Laboratory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What was ARPANET?",
+    "choices": [
+      "A Cold War aircraft",
+      "An early computer network",
+      "A printing press",
+      "A satellite telescope"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Where were the first ancient Olympic Games held?",
+    "choices": [
+      "Rome",
+      "Egypt",
+      "Greece",
+      "Persia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which Babylonian king is linked to an early written law code?",
+    "choices": [
+      "Nebuchadnezzar II",
+      "Sargon of Akkad",
+      "Ashurbanipal",
+      "Hammurabi"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Who deciphered the Rosetta Stone?",
+    "choices": [
+      "Jean-François Champollion",
+      "Howard Carter",
+      "Arthur Evans",
+      "Heinrich Schliemann"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which city is a major site of the Indus Valley civilization?",
+    "choices": [
+      "Nineveh",
+      "Mohenjo-daro",
+      "Ur",
+      "Thebes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Who founded China’s Qin dynasty empire?",
+    "choices": [
+      "Liu Bang",
+      "Wu Zetian",
+      "Qin Shi Huang",
+      "Kublai Khan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Mauryan ruler promoted Buddhism after the Kalinga War?",
+    "choices": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Harsha",
+      "Ashoka"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which ancient African kingdom had its center at Aksum?",
+    "choices": [
+      "The Kingdom of Aksum",
+      "The Mali Empire",
+      "The Kingdom of Kush",
+      "The Songhai Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which city was a major intellectual center of the Mali Empire?",
+    "choices": [
+      "Cairo",
+      "Timbuktu",
+      "Kilwa",
+      "Gao"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which ruler led Songhai at its height in the late 15th century?",
+    "choices": [
+      "Mansa Musa",
+      "Sonni Ali",
+      "Askia Muhammad",
+      "Sundiata Keita"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which stone city is linked to medieval Zimbabwe?",
+    "choices": [
+      "Meroë",
+      "Lalibela",
+      "Kilwa Kisiwani",
+      "Great Zimbabwe"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which kingdom produced the famous Benin bronzes?",
+    "choices": [
+      "The Kingdom of Benin",
+      "The Ashanti Empire",
+      "The Kongo Kingdom",
+      "The Oyo Empire"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which empire built Angkor Wat?",
+    "choices": [
+      "The Srivijaya Empire",
+      "The Khmer Empire",
+      "The Pagan Kingdom",
+      "The Champa Kingdom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Southeast Asian empire controlled key maritime trade routes around Sumatra?",
+    "choices": [
+      "Majapahit",
+      "The Khmer Empire",
+      "Srivijaya",
+      "Pagan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which caliphate made Baghdad a major center of learning?",
+    "choices": [
+      "The Umayyad Caliphate",
+      "The Fatimid Caliphate",
+      "The Almohad Caliphate",
+      "The Abbasid Caliphate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was the House of Wisdom?",
+    "choices": [
+      "A Baghdad center of translation and scholarship",
+      "A Roman military academy",
+      "A Chinese palace library",
+      "A medieval European monastery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who led the Frankish victory at the Battle of Tours?",
+    "choices": [
+      "Charlemagne",
+      "Charles Martel",
+      "Clovis",
+      "William the Conqueror"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who conquered England in 1066?",
+    "choices": [
+      "Richard the Lionheart",
+      "Harold Godwinson",
+      "William the Conqueror",
+      "Henry II"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Byzantine emperor ordered the construction of Hagia Sophia?",
+    "choices": [
+      "Constantine the Great",
+      "Basil II",
+      "Leo III",
+      "Justinian I"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who captured Constantinople in 1453?",
+    "choices": [
+      "Mehmed II",
+      "Suleiman the Magnificent",
+      "Selim I",
+      "Bayezid I"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who founded the Safavid dynasty?",
+    "choices": [
+      "Abbas I",
+      "Ismail I",
+      "Nader Shah",
+      "Tahmasp I"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Mughal emperor built much of the empire’s administrative system?",
+    "choices": [
+      "Babur",
+      "Aurangzeb",
+      "Akbar",
+      "Shah Jahan"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who founded the Tokugawa shogunate?",
+    "choices": [
+      "Oda Nobunaga",
+      "Toyotomi Hideyoshi",
+      "Emperor Meiji",
+      "Tokugawa Ieyasu"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "When did the Meiji Restoration begin?",
+    "choices": [
+      "1868",
+      "1603",
+      "1853",
+      "1912"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Haitian revolutionary leader was captured by French forces?",
+    "choices": [
+      "José Martí",
+      "Toussaint Louverture",
+      "Simón Bolívar",
+      "Jean-Jacques Dessalines"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which leader helped liberate much of northern South America?",
+    "choices": [
+      "José de San Martín",
+      "Miguel Hidalgo",
+      "Simón Bolívar",
+      "Bernardo O’Higgins"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "When did the Mexican Revolution begin?",
+    "choices": [
+      "1900",
+      "1917",
+      "1929",
+      "1910"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which conference formalized the European partition of Africa?",
+    "choices": [
+      "The Berlin Conference",
+      "The Bandung Conference",
+      "The Congress of Vienna",
+      "The Paris Peace Conference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which war followed Britain’s attempt to restrict the opium trade in China?",
+    "choices": [
+      "The Boxer Rebellion",
+      "The First Opium War",
+      "The Taiping Rebellion",
+      "The Sino-Japanese War"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which treaty formally ended World War I with Germany?",
+    "choices": [
+      "The Treaty of Tordesillas",
+      "The Treaty of Utrecht",
+      "The Treaty of Versailles",
+      "The Treaty of Brest-Litovsk"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which group seized power in the Russian Revolution of October 1917?",
+    "choices": [
+      "The Mensheviks",
+      "The White Army",
+      "The Decembrists",
+      "The Bolsheviks"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who led the Xinhai Revolution’s republican movement in China?",
+    "choices": [
+      "Sun Yat-sen",
+      "Mao Zedong",
+      "Yuan Shikai",
+      "Chiang Kai-shek"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Where did D-Day landings take place in 1944?",
+    "choices": [
+      "Sicily",
+      "Normandy",
+      "Anzio",
+      "Dunkirk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which cities were destroyed by atomic bombs in August 1945?",
+    "choices": [
+      "Tokyo and Kyoto",
+      "Osaka and Kobe",
+      "Hiroshima and Nagasaki",
+      "Hiroshima and Yokohama"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What were the Nuremberg Trials?",
+    "choices": [
+      "Trials of Japanese shoguns",
+      "Trials after the French Revolution",
+      "Trials of Cold War spies",
+      "Trials of major Nazi war criminals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What major event divided British India in 1947?",
+    "choices": [
+      "Partition",
+      "The Sepoy Rebellion",
+      "The Quit India Movement",
+      "The Salt March"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Where was the first major Afro-Asian solidarity conference held in 1955?",
+    "choices": [
+      "Cairo",
+      "Bandung",
+      "Accra",
+      "Delhi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which crisis followed Egypt’s nationalization of the Suez Canal?",
+    "choices": [
+      "The Cuban Missile Crisis",
+      "The Berlin Crisis",
+      "The Suez Crisis",
+      "The Oil Crisis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which satellite became the first artificial satellite in 1957?",
+    "choices": [
+      "Explorer 1",
+      "Luna 2",
+      "Vostok 1",
+      "Sputnik 1"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who is associated with the discovery of DNA’s double-helix structure?",
+    "choices": [
+      "Watson and Crick",
+      "Darwin and Wallace",
+      "Bohr and Rutherford",
+      "Pasteur and Koch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who developed the Bessemer process?",
+    "choices": [
+      "Thomas Edison",
+      "Henry Bessemer",
+      "James Watt",
+      "George Stephenson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who is associated with the Haber-Bosch process?",
+    "choices": [
+      "Watson and Crick",
+      "Curie and Joliot",
+      "Fritz Haber and Carl Bosch",
+      "Faraday and Maxwell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who built an early successful steam locomotive?",
+    "choices": [
+      "James Watt",
+      "Robert Fulton",
+      "Michael Faraday",
+      "George Stephenson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who developed Morse code?",
+    "choices": [
+      "Samuel Morse",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Eli Whitney"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who wrote an early algorithm for Charles Babbage’s Analytical Engine?",
+    "choices": [
+      "Grace Hopper",
+      "Ada Lovelace",
+      "Katherine Johnson",
+      "Hedy Lamarr"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who captained the HMS Beagle during Darwin’s famous voyage?",
+    "choices": [
+      "James Cook",
+      "Francis Drake",
+      "Robert FitzRoy",
+      "Matthew Flinders"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who published Principia in 1687?",
+    "choices": [
+      "René Descartes",
+      "Johannes Kepler",
+      "Robert Hooke",
+      "Isaac Newton"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which astronomer used telescopic observations to support heliocentrism?",
+    "choices": [
+      "Galileo Galilei",
+      "Tycho Brahe",
+      "Ptolemy",
+      "Edwin Hubble"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who wrote Silent Spring?",
+    "choices": [
+      "Jane Goodall",
+      "Rachel Carson",
+      "Aldo Leopold",
+      "Sylvia Earle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who discovered the pulsar?",
+    "choices": [
+      "Cecilia Payne-Gaposchkin",
+      "Vera Rubin",
+      "Jocelyn Bell Burnell",
+      "Annie Jump Cannon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which scientist proposed continental drift?",
+    "choices": [
+      "Charles Lyell",
+      "James Hutton",
+      "Louis Agassiz",
+      "Alfred Wegener"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which ancient city was buried by Mount Vesuvius?",
+    "choices": [
+      "Pompeii",
+      "Athens",
+      "Alexandria",
+      "Carthage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which civilization used quipus for record keeping?",
+    "choices": [
+      "The Maya",
+      "The Inca",
+      "The Aztec",
+      "The Moche"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which writing system did the ancient Maya use?",
+    "choices": [
+      "Cuneiform",
+      "Linear B",
+      "Maya hieroglyphs",
+      "Demotic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which ancient people created cuneiform?",
+    "choices": [
+      "The Romans",
+      "The Vikings",
+      "The Olmec",
+      "The Sumerians"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In which modern country is Teotihuacan?",
+    "choices": [
+      "Mexico",
+      "Peru",
+      "Egypt",
+      "Greece"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which ruler commissioned the Taj Mahal?",
+    "choices": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Babur"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which city was the Ottoman capital before Istanbul?",
+    "choices": [
+      "Bursa",
+      "Ankara",
+      "Edirne",
+      "Izmir"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which event began with the storming of the Bastille?",
+    "choices": [
+      "The Paris Commune",
+      "The July Monarchy",
+      "The Reformation",
+      "The French Revolution"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

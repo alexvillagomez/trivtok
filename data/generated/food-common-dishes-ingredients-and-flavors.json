@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Where did pizza develop into its modern classic form?",
+    "choices": [
+      "Italy",
+      "Greece",
+      "France",
+      "Spain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which country is famous for sushi?",
+    "choices": [
+      "China",
+      "Japan",
+      "Thailand",
+      "Vietnam"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which country is famous for tacos?",
+    "choices": [
+      "Peru",
+      "Brazil",
+      "Mexico",
+      "Cuba"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which country is strongly associated with pasta?",
+    "choices": [
+      "Portugal",
+      "Turkey",
+      "Germany",
+      "Italy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which cuisine is strongly associated with curry?",
+    "choices": [
+      "Indian",
+      "Icelandic",
+      "Norwegian",
+      "Argentine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the main ingredient in hummus?",
+    "choices": [
+      "Lentils",
+      "Chickpeas",
+      "Potatoes",
+      "Eggplant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is the main ingredient in guacamole?",
+    "choices": [
+      "Cucumber",
+      "Pea",
+      "Avocado",
+      "Green bean"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is the main ingredient in falafel?",
+    "choices": [
+      "Rice",
+      "Potatoes",
+      "Cabbage",
+      "Chickpeas or fava beans"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which country is famous for paella?",
+    "choices": [
+      "Spain",
+      "Italy",
+      "Morocco",
+      "Portugal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which region is strongly associated with couscous?",
+    "choices": [
+      "Northern Europe",
+      "North Africa",
+      "East Asia",
+      "The Andes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which country is famous for pho?",
+    "choices": [
+      "Cambodia",
+      "Laos",
+      "Vietnam",
+      "South Korea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which country is famous for ramen?",
+    "choices": [
+      "China",
+      "Mongolia",
+      "India",
+      "Japan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which country is famous for kimchi?",
+    "choices": [
+      "South Korea",
+      "Japan",
+      "Vietnam",
+      "Thailand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What vegetable is the main base of sauerkraut?",
+    "choices": [
+      "Carrot",
+      "Cabbage",
+      "Potato",
+      "Turnip"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the main part of a classic hamburger?",
+    "choices": [
+      "A fish fillet",
+      "A cheese omelet",
+      "A ground-meat patty",
+      "A bean soup"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What vegetable is used to make traditional French fries?",
+    "choices": [
+      "Carrot",
+      "Parsnip",
+      "Cassava",
+      "Potato"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the main ingredient in an omelet?",
+    "choices": [
+      "Eggs",
+      "Rice",
+      "Flour",
+      "Beans"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What grain is used to make most bread?",
+    "choices": [
+      "Rice",
+      "Wheat",
+      "Corn",
+      "Barley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is cheese usually made from?",
+    "choices": [
+      "Fruit juice",
+      "Ground grains",
+      "Milk",
+      "Tree sap"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is yogurt made from?",
+    "choices": [
+      "Ground nuts only",
+      "Cooked fruit",
+      "Wheat dough",
+      "Fermented milk"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which insect makes honey?",
+    "choices": [
+      "The honeybee",
+      "The ant",
+      "The butterfly",
+      "The beetle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is maple syrup made from?",
+    "choices": [
+      "Flower nectar",
+      "Tree sap",
+      "Berry juice",
+      "Cane roots"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What plant gives us cacao beans?",
+    "choices": [
+      "The coffee tree",
+      "The vanilla orchid",
+      "The cacao tree",
+      "The coconut palm"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What plant does vanilla come from?",
+    "choices": [
+      "A grass",
+      "A pine tree",
+      "A citrus tree",
+      "An orchid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which spice comes from tree bark?",
+    "choices": [
+      "Cinnamon",
+      "Black pepper",
+      "Saffron",
+      "Cumin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which spice comes from dried berries?",
+    "choices": [
+      "Cinnamon",
+      "Black pepper",
+      "Turmeric",
+      "Nutmeg"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which spice comes from flower stigmas?",
+    "choices": [
+      "Cumin",
+      "Paprika",
+      "Saffron",
+      "Cardamom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which herb is common in pesto?",
+    "choices": [
+      "Mint",
+      "Dill",
+      "Sage",
+      "Basil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which herb is also called coriander in many places?",
+    "choices": [
+      "Cilantro",
+      "Basil",
+      "Rosemary",
+      "Thyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What kind of fruit is a lemon?",
+    "choices": [
+      "A stone fruit",
+      "A citrus fruit",
+      "A berry",
+      "A melon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Botanically, what type of plant structure is a tomato?",
+    "choices": [
+      "A root",
+      "A grain",
+      "A fruit",
+      "A nut"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What part of a carrot do people usually eat?",
+    "choices": [
+      "The flower",
+      "The bark",
+      "The seed pod",
+      "The root"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What kind of plant part is a potato?",
+    "choices": [
+      "A tuber",
+      "A leaf",
+      "A fruit",
+      "A flower"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is a mushroom?",
+    "choices": [
+      "A root vegetable",
+      "A fungus",
+      "A seed",
+      "An insect"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What kind of fruit is an avocado?",
+    "choices": [
+      "A root",
+      "A grain",
+      "A fruit",
+      "A mushroom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What kind of fruit is a banana?",
+    "choices": [
+      "A stone fruit",
+      "A citrus fruit",
+      "A nut",
+      "A berry"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What kind of plant produces coconuts?",
+    "choices": [
+      "A palm",
+      "A grass",
+      "A vine",
+      "A shrub"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What fruit gives us olive oil?",
+    "choices": [
+      "Grapes",
+      "Olives",
+      "Avocados",
+      "Sunflowers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What bean is used to make soy sauce?",
+    "choices": [
+      "The coffee bean",
+      "The cocoa bean",
+      "The soybean",
+      "The kidney bean"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is tofu made from?",
+    "choices": [
+      "Wheat",
+      "Rice",
+      "Chickpeas",
+      "Soybeans"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is miso made from in many traditional recipes?",
+    "choices": [
+      "Fermented soybeans",
+      "Fresh tomatoes",
+      "Ground corn",
+      "Cured fish only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is vinegar?",
+    "choices": [
+      "A powdered spice",
+      "A sour fermented liquid",
+      "A type of grain",
+      "A sweet dairy product"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What does baking usually use?",
+    "choices": [
+      "Freezing air",
+      "Raw oil only",
+      "Dry oven heat",
+      "Fermented water"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which taste is often described as savory?",
+    "choices": [
+      "Sweet",
+      "Bitter",
+      "Sour",
+      "Umami"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which Mexican sauce uses chiles, spices, and often chocolate?",
+    "choices": [
+      "Mole poblano",
+      "Salsa verde",
+      "Pico de gallo",
+      "Adobo only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which French dish is a vegetable stew?",
+    "choices": [
+      "Cassoulet",
+      "Ratatouille",
+      "Bouillabaisse",
+      "Quiche"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which French dish is a slow-cooked bean and meat stew?",
+    "choices": [
+      "Ratatouille",
+      "Crêpe",
+      "Cassoulet",
+      "Rillettes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Korean dish mixes rice, vegetables, and toppings?",
+    "choices": [
+      "Bulgogi",
+      "Japchae",
+      "Tteokbokki",
+      "Bibimbap"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is sashimi?",
+    "choices": [
+      "Thinly sliced raw fish or seafood",
+      "Fried rice",
+      "A noodle soup",
+      "A steamed dumpling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What is tempura?",
+    "choices": [
+      "Fish cured in citrus",
+      "Food coated in a light batter and fried",
+      "Rice fermented with mold",
+      "Meat stewed in wine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a tagine?",
+    "choices": [
+      "A Japanese noodle",
+      "A Mexican flatbread",
+      "A North African stew and its conical cooking vessel",
+      "A Greek cheese"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which country is famous for injera?",
+    "choices": [
+      "Morocco",
+      "Ghana",
+      "Egypt",
+      "Ethiopia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is doro wat?",
+    "choices": [
+      "An Ethiopian chicken stew",
+      "A Japanese fish cake",
+      "A Brazilian bean salad",
+      "A Turkish pastry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which country is strongly associated with ceviche?",
+    "choices": [
+      "Chile",
+      "Peru",
+      "Argentina",
+      "Uruguay"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is an arepa made from?",
+    "choices": [
+      "Wheat noodles",
+      "Rice paper",
+      "Cornmeal dough",
+      "Cassava leaves"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Brazilian dish is a black-bean and pork stew?",
+    "choices": [
+      "Moqueca",
+      "Vatapá",
+      "Pão de queijo",
+      "Feijoada"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is moussaka commonly made with?",
+    "choices": [
+      "Eggplant and layered sauce",
+      "Raw fish and citrus",
+      "Rice and seaweed",
+      "Corn and beans"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is dolma often wrapped in?",
+    "choices": [
+      "Banana leaves",
+      "Grape leaves",
+      "Corn husks",
+      "Cabbage flowers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is shakshuka usually made with?",
+    "choices": [
+      "Raw beef and onions",
+      "Rice wrapped in seaweed",
+      "Eggs poached in spiced tomatoes",
+      "Fried plantains and beans"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which dish is associated with South African cuisine?",
+    "choices": [
+      "Bibimbap",
+      "Poutine",
+      "Borscht",
+      "Bobotie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which rice dish is common across West Africa?",
+    "choices": [
+      "Jollof rice",
+      "Risotto",
+      "Paella",
+      "Pilaf only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which West African country is especially associated with yassa?",
+    "choices": [
+      "Gabon",
+      "Senegal",
+      "Mali",
+      "Benin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What grain is traditionally used to make injera?",
+    "choices": [
+      "Rye",
+      "Oats",
+      "Teff",
+      "Buckwheat"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which cheese is traditionally Greek?",
+    "choices": [
+      "Cheddar",
+      "Manchego",
+      "Gouda",
+      "Feta"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which cheese is associated with Spain’s La Mancha region?",
+    "choices": [
+      "Manchego",
+      "Feta",
+      "Roquefort",
+      "Pecorino"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which blue cheese is aged in caves near a village in southern France?",
+    "choices": [
+      "Mozzarella",
+      "Roquefort",
+      "Gouda",
+      "Brie"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which cheese is traditionally associated with Cyprus?",
+    "choices": [
+      "Feta",
+      "Cheddar",
+      "Halloumi",
+      "Emmental"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which spice is the dried rhizome of a plant?",
+    "choices": [
+      "Cinnamon",
+      "Black pepper",
+      "Clove",
+      "Turmeric"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which spice comes from the seeds of a plant in the parsley family?",
+    "choices": [
+      "Cumin",
+      "Saffron",
+      "Cinnamon",
+      "Star anise"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is star anise?",
+    "choices": [
+      "A dried flower stigma",
+      "The dried fruit of an evergreen tree",
+      "A tree bark spice",
+      "A fermented seed paste"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is sumac made from?",
+    "choices": [
+      "Tree bark",
+      "Flower stigmas",
+      "Dried red berries",
+      "Ground roots"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is asafoetida?",
+    "choices": [
+      "A sweet fruit syrup",
+      "A fresh herb leaf",
+      "A type of seaweed",
+      "A pungent resin used as a spice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is Sichuan pepper?",
+    "choices": [
+      "The dried husk of a prickly ash fruit",
+      "A true black pepper berry",
+      "A dried chile only",
+      "A fermented bean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is masa harina made from?",
+    "choices": [
+      "Ground wheat",
+      "Nixtamalized corn",
+      "Dried cassava",
+      "Fermented rice"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is bulgur?",
+    "choices": [
+      "Ground corn flour",
+      "A fermented soybean cake",
+      "Parboiled cracked wheat",
+      "A dried fruit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is polenta traditionally made from?",
+    "choices": [
+      "Rice",
+      "Potatoes",
+      "Barley",
+      "Ground corn"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is confit?",
+    "choices": [
+      "Food slowly cooked and preserved in fat or syrup",
+      "Food rapidly fried in water",
+      "Raw food cured only with citrus",
+      "Bread baked without yeast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does sous vide mean?",
+    "choices": [
+      "Cooking directly over a wood fire",
+      "Cooking food in a sealed bag in a controlled water bath",
+      "Drying food in the sun",
+      "Frying food in a pressure cooker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which method slowly cooks food after an initial sear?",
+    "choices": [
+      "Freezing",
+      "Whipping",
+      "Braising",
+      "Drying"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is blanching?",
+    "choices": [
+      "Smoking food overnight",
+      "Baking pastry without filling",
+      "Grinding spices into powder",
+      "Briefly boiling food and then cooling it"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does julienne mean?",
+    "choices": [
+      "Cutting food into thin matchsticks",
+      "Whisking egg whites",
+      "Cooking in a clay pot",
+      "Fermenting vegetables"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which cut makes thin ribbons from leafy greens?",
+    "choices": [
+      "Julienne",
+      "Chiffonade",
+      "Brunoise",
+      "Batonnet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does it mean to emulsify a sauce?",
+    "choices": [
+      "Remove all salt",
+      "Cook food over charcoal",
+      "Combine liquids that normally separate",
+      "Dry a sauce into crystals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does deglazing a pan do?",
+    "choices": [
+      "Removes the pan’s handle",
+      "Freezes the cooking fat",
+      "Adds raw flour without stirring",
+      "Loosens browned bits with added liquid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is fermentation?",
+    "choices": [
+      "Food changing through the action of microorganisms",
+      "Food being cut into strips",
+      "Food being frozen under pressure",
+      "Food being cooked only by sunlight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which bread is traditionally associated with India and South Asia?",
+    "choices": [
+      "Baguette",
+      "Naan",
+      "Ciabatta",
+      "Injera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which bread is a ring-shaped staple associated with Jewish communities in Eastern Europe?",
+    "choices": [
+      "The naan",
+      "The focaccia",
+      "The bagel",
+      "The lavash"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Italian bread is often baked with olive oil and herbs?",
+    "choices": [
+      "Brioche",
+      "Pita",
+      "Rye bread",
+      "Focaccia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which grain is technically a seed and is often treated like a grain?",
+    "choices": [
+      "Quinoa",
+      "Wheat",
+      "Rice",
+      "Rye"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which cheese is traditionally made from buffalo milk in some versions?",
+    "choices": [
+      "Cheddar",
+      "Mozzarella",
+      "Manchego",
+      "Roquefort"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which cheese is traditionally associated with England’s Somerset region?",
+    "choices": [
+      "Feta",
+      "Halloumi",
+      "Cheddar",
+      "Manchego"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which dessert is a baked meringue associated with Australia and New Zealand?",
+    "choices": [
+      "Baklava",
+      "Tiramisu",
+      "Tres leches",
+      "Pavlova"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which dessert is made from layers of coffee-soaked cake, mascarpone, and cocoa?",
+    "choices": [
+      "Tiramisu",
+      "Pavlova",
+      "Baklava",
+      "Mochi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is baklava made from layers of?",
+    "choices": [
+      "Rice, seaweed, and fish",
+      "Thin pastry, nuts, and syrup",
+      "Corn dough and beans",
+      "Eggplant and tomato"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is mochi traditionally made from?",
+    "choices": [
+      "Wheat sourdough",
+      "Cornmeal",
+      "Glutinous rice",
+      "Almond flour"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Japanese soup stock is often made from kombu and bonito?",
+    "choices": [
+      "Miso",
+      "Tonkotsu",
+      "Shoyu",
+      "Dashi"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is kombu?",
+    "choices": [
+      "An edible kelp",
+      "A rice cake",
+      "A fermented bean",
+      "A citrus fruit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which ingredient gives many Thai curries heat?",
+    "choices": [
+      "Cinnamon sticks",
+      "Chili peppers",
+      "Cocoa beans",
+      "Saffron threads"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which fruit is central to traditional West African palm-nut soup?",
+    "choices": [
+      "The apple",
+      "The lemon",
+      "The oil palm fruit",
+      "The coconut"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Where did Neapolitan pizza originate?",
+    "choices": [
+      "Milan",
+      "Florence",
+      "Bologna",
+      "Naples"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

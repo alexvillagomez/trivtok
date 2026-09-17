@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which organ pumps blood?",
+    "choices": [
+      "The heart",
+      "The liver",
+      "The lung",
+      "The stomach"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which organs help you breathe?",
+    "choices": [
+      "The kidneys",
+      "The lungs",
+      "The intestines",
+      "The spleen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which organ controls most body activities?",
+    "choices": [
+      "The heart",
+      "The pancreas",
+      "The brain",
+      "The bladder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does the skeleton provide?",
+    "choices": [
+      "Digestion and taste",
+      "Hearing and balance",
+      "Hormones and enzymes",
+      "Support and protection"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is the body’s largest organ?",
+    "choices": [
+      "Skin",
+      "Liver",
+      "Brain",
+      "Lung"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which organ begins much of food digestion?",
+    "choices": [
+      "The heart",
+      "The stomach",
+      "The kidney",
+      "The spleen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Where are most nutrients absorbed?",
+    "choices": [
+      "The large intestine",
+      "The esophagus",
+      "The small intestine",
+      "The stomach"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which organ processes many substances in the blood?",
+    "choices": [
+      "The lung",
+      "The appendix",
+      "The bladder",
+      "The liver"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which organs filter blood to make urine?",
+    "choices": [
+      "The kidneys",
+      "The lungs",
+      "The gallbladder",
+      "The intestines"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which blood cells carry oxygen?",
+    "choices": [
+      "White blood cells",
+      "Red blood cells",
+      "Platelets",
+      "Nerve cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which blood cells help fight infection?",
+    "choices": [
+      "Red blood cells",
+      "Platelets",
+      "White blood cells",
+      "Bone cells"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What helps blood clot?",
+    "choices": [
+      "Red blood cells",
+      "Neurons",
+      "Plasma proteins only",
+      "Platelets"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which mineral is important in bones?",
+    "choices": [
+      "Calcium",
+      "Sodium",
+      "Iron",
+      "Iodine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What do muscles do when they contract?",
+    "choices": [
+      "They turn into bone",
+      "They shorten or create force",
+      "They stop using energy",
+      "They produce red blood cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which muscle is on the front of the upper arm?",
+    "choices": [
+      "The triceps",
+      "The quadriceps",
+      "The biceps",
+      "The deltoid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which bone is in the thigh?",
+    "choices": [
+      "The tibia",
+      "The humerus",
+      "The radius",
+      "The femur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does the skull protect?",
+    "choices": [
+      "The brain",
+      "The heart",
+      "The liver",
+      "The stomach"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What does the spine contain and protect?",
+    "choices": [
+      "The lungs",
+      "The spinal cord",
+      "The pancreas",
+      "The spleen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What does the rib cage protect?",
+    "choices": [
+      "The kidneys and bladder",
+      "The eyes and ears",
+      "The heart and lungs",
+      "The stomach and toes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which organ is used for sight?",
+    "choices": [
+      "The ear",
+      "The nose",
+      "The tongue",
+      "The eye"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which organ detects sound?",
+    "choices": [
+      "The ear",
+      "The eye",
+      "The nose",
+      "The skin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which organ detects odors?",
+    "choices": [
+      "The tongue",
+      "The nose",
+      "The ear",
+      "The eye"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which organ detects taste?",
+    "choices": [
+      "The liver",
+      "The nose",
+      "The tongue",
+      "The skin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which sense uses receptors in the skin?",
+    "choices": [
+      "Sight",
+      "Hearing",
+      "Smell",
+      "Touch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the hard outer layer of a tooth called?",
+    "choices": [
+      "Enamel",
+      "Dentin",
+      "Pulp",
+      "Cementum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What gives red blood cells their color?",
+    "choices": [
+      "Keratin",
+      "Hemoglobin",
+      "Melanin",
+      "Collagen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does a pulse reflect?",
+    "choices": [
+      "Lung size",
+      "Stomach movement",
+      "Heartbeats in the arteries",
+      "Bone growth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What gas do humans usually inhale for respiration?",
+    "choices": [
+      "Carbon dioxide",
+      "Nitrogen only",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What gas do humans exhale in greater amounts?",
+    "choices": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Helium",
+      "Ozone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which muscle helps draw air into the lungs?",
+    "choices": [
+      "The biceps",
+      "The diaphragm",
+      "The quadriceps",
+      "The masseter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What tube carries food from the throat to the stomach?",
+    "choices": [
+      "The trachea",
+      "The ureter",
+      "The esophagus",
+      "The aorta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which organ makes insulin?",
+    "choices": [
+      "The liver",
+      "The thyroid",
+      "The spleen",
+      "The pancreas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which organ stores bile?",
+    "choices": [
+      "The gallbladder",
+      "The pancreas",
+      "The appendix",
+      "The kidney"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which nutrient group often supplies quick energy?",
+    "choices": [
+      "Minerals",
+      "Carbohydrates",
+      "Water",
+      "Fiber only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which nutrient helps build and repair tissues?",
+    "choices": [
+      "Water",
+      "Salt",
+      "Protein",
+      "Starch only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which nutrient stores concentrated energy?",
+    "choices": [
+      "Water",
+      "Vitamin C",
+      "Calcium",
+      "Fat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which food group is a common source of vitamin C?",
+    "choices": [
+      "Citrus fruits",
+      "Refined oils",
+      "Table salt",
+      "White sugar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What makes up much of the human body?",
+    "choices": [
+      "Iron",
+      "Water",
+      "Calcium",
+      "Keratin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Where is most DNA found in a human cell?",
+    "choices": [
+      "The cell wall",
+      "The bloodstream",
+      "The nucleus",
+      "The ribosome only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What surrounds a cell and controls entry?",
+    "choices": [
+      "The nucleus",
+      "The chromosome",
+      "The centrosome",
+      "The cell membrane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which organelle makes much of a cell’s usable energy?",
+    "choices": [
+      "The mitochondrion",
+      "The nucleus",
+      "The lysosome",
+      "The cell wall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which cells carry nerve signals?",
+    "choices": [
+      "Platelets",
+      "Neurons",
+      "Red blood cells",
+      "Osteocytes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What do hormones act as?",
+    "choices": [
+      "Bone minerals",
+      "Digestive fibers",
+      "Chemical messengers",
+      "Blood cells"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which system helps defend against infection?",
+    "choices": [
+      "The skeletal system",
+      "The digestive system",
+      "The respiratory system",
+      "The immune system"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What connects a muscle to a bone?",
+    "choices": [
+      "A tendon",
+      "A ligament",
+      "Cartilage",
+      "A nerve"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What connects one bone to another bone?",
+    "choices": [
+      "A tendon",
+      "A ligament",
+      "A neuron",
+      "A gland"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What is a joint?",
+    "choices": [
+      "A type of blood cell",
+      "A digestive enzyme",
+      "A place where bones meet",
+      "A layer of skin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is a reflex?",
+    "choices": [
+      "A type of bone",
+      "A slow form of digestion",
+      "A blood protein",
+      "A rapid automatic response"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which system includes the body’s bones?",
+    "choices": [
+      "The skeletal system",
+      "The respiratory system",
+      "The endocrine system",
+      "The nervous system"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which organ stores urine?",
+    "choices": [
+      "The kidney",
+      "The bladder",
+      "The ureter",
+      "The liver"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What are alveoli?",
+    "choices": [
+      "Kidney filtering tubes",
+      "Brain cells",
+      "Tiny air sacs in the lungs",
+      "Small bones in the ear"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does hemoglobin bind in red blood cells?",
+    "choices": [
+      "Calcium",
+      "Bile",
+      "Glucose only",
+      "Oxygen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a nephron?",
+    "choices": [
+      "A functional unit of the kidney",
+      "A lung air sac",
+      "A heart valve",
+      "A skin receptor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a glomerulus do?",
+    "choices": [
+      "It pumps blood from the heart",
+      "It filters blood in a nephron",
+      "It stores bile",
+      "It moves food through the gut"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a ureter carry?",
+    "choices": [
+      "Blood from the heart to the lung",
+      "Bile to the stomach",
+      "Urine from a kidney to the bladder",
+      "Air to the lungs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What do intestinal villi increase?",
+    "choices": [
+      "The force of heartbeats",
+      "The volume of the lungs",
+      "The strength of bones",
+      "The surface area for absorption"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is peristalsis?",
+    "choices": [
+      "Wave-like movement of the digestive tract",
+      "Filtering in the kidney",
+      "Electrical activity in the heart",
+      "Air exchange in the lungs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does bile help digest?",
+    "choices": [
+      "Proteins only",
+      "Fats",
+      "DNA",
+      "Minerals"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which organ makes both insulin and digestive enzymes?",
+    "choices": [
+      "The liver",
+      "The gallbladder",
+      "The pancreas",
+      "The thyroid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does the hepatic portal vein carry to the liver?",
+    "choices": [
+      "Air from the lungs",
+      "Urine from the kidneys",
+      "Signals from the brain",
+      "Blood from digestive organs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What do heart valves prevent?",
+    "choices": [
+      "Backflow of blood",
+      "Oxygen binding",
+      "Muscle contraction",
+      "Bone growth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which heart chambers receive blood?",
+    "choices": [
+      "The ventricles",
+      "The atria",
+      "The valves",
+      "The septa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the sinoatrial node?",
+    "choices": [
+      "A kidney filter",
+      "A lung membrane",
+      "The heart’s natural pacemaker",
+      "A digestive gland"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What do arteries carry?",
+    "choices": [
+      "Blood only without oxygen",
+      "Urine toward the bladder",
+      "Air into the lungs",
+      "Blood away from the heart"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What do many veins contain to limit backflow?",
+    "choices": [
+      "Valves",
+      "Villi",
+      "Alveoli",
+      "Nephrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What happens across capillaries?",
+    "choices": [
+      "Air is stored for breathing",
+      "Exchange with surrounding tissues",
+      "Bones are lengthened",
+      "Food is chewed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which fluid is filtered by small immune structures along lymphatic vessels?",
+    "choices": [
+      "Bile",
+      "Urine",
+      "Lymph",
+      "Air"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Where do many T cells mature?",
+    "choices": [
+      "The pancreas",
+      "The spleen",
+      "The thyroid",
+      "The thymus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does the spleen help filter?",
+    "choices": [
+      "Blood",
+      "Air",
+      "Urine",
+      "Food"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Where are many blood cells made?",
+    "choices": [
+      "Cartilage",
+      "Bone marrow",
+      "The gallbladder",
+      "The epidermis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What do osteoblasts build?",
+    "choices": [
+      "Nerve signals",
+      "Red blood cells",
+      "Bone",
+      "Digestive acids"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What do osteoclasts break down?",
+    "choices": [
+      "Muscle fibers",
+      "Blood plasma",
+      "Air sacs",
+      "Bone tissue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What fills a typical synovial joint?",
+    "choices": [
+      "Synovial fluid",
+      "Bile",
+      "Cerebrospinal air",
+      "Blood clots"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does cartilage do at many joints?",
+    "choices": [
+      "It pumps blood",
+      "It cushions bone surfaces",
+      "It makes urine",
+      "It carries nerve signals"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does myelin surround?",
+    "choices": [
+      "Red blood cells",
+      "The stomach lining",
+      "Some nerve fibers",
+      "Bone marrow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a synapse?",
+    "choices": [
+      "A type of heart valve",
+      "A kidney vessel",
+      "A digestive muscle",
+      "A junction between communicating nerve cells"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What does the autonomic nervous system control?",
+    "choices": [
+      "Many involuntary body functions",
+      "Only voluntary arm movement",
+      "Only vision",
+      "Only bone repair"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which brain region helps coordinate movement?",
+    "choices": [
+      "The medulla",
+      "The cerebellum",
+      "The hypothalamus",
+      "The hippocampus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which brain region controls vital functions such as breathing?",
+    "choices": [
+      "The cerebellum",
+      "The occipital lobe",
+      "The medulla oblongata",
+      "The corpus callosum"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does the hypothalamus help regulate?",
+    "choices": [
+      "Tooth enamel",
+      "Bone length only",
+      "Hearing frequency",
+      "Body temperature and internal balance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which gland is often called the master gland?",
+    "choices": [
+      "The pituitary gland",
+      "The thyroid gland",
+      "The adrenal gland",
+      "The pineal gland"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which hormone does the thyroid produce?",
+    "choices": [
+      "Insulin",
+      "Thyroxine",
+      "Adrenaline",
+      "Melatonin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which hormone is made by the adrenal cortex?",
+    "choices": [
+      "Insulin",
+      "Thyroxine",
+      "Cortisol",
+      "Growth hormone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does insulin generally do to blood glucose?",
+    "choices": [
+      "It always raises it",
+      "It turns it into oxygen",
+      "It removes it from every cell",
+      "It lowers it"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does glucagon generally do to blood glucose?",
+    "choices": [
+      "It raises it",
+      "It lowers it to zero",
+      "It changes it into protein",
+      "It carries it through the lungs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which eye cells work best in dim light?",
+    "choices": [
+      "Cones",
+      "Rods",
+      "Ganglion cells",
+      "Lens cells"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which eye cells detect color?",
+    "choices": [
+      "Rods",
+      "Ciliary muscles",
+      "Cones",
+      "Corneal cells"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which inner-ear structure contains hearing receptors?",
+    "choices": [
+      "The semicircular canals",
+      "The eardrum",
+      "The auditory tube",
+      "The cochlea"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What do the semicircular canals help sense?",
+    "choices": [
+      "Head rotation and balance",
+      "Blood pressure",
+      "Taste",
+      "Light intensity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Where are smell receptors found?",
+    "choices": [
+      "In the eardrum",
+      "In the nasal lining",
+      "In the retina",
+      "In the tongue muscle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Where are taste receptors mainly found?",
+    "choices": [
+      "In the stomach lining",
+      "In the retina",
+      "In taste buds",
+      "In the cochlea"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does the cornea do?",
+    "choices": [
+      "It produces tears only",
+      "It detects sound",
+      "It controls blood pressure",
+      "It helps focus incoming light"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does the lens of the eye do?",
+    "choices": [
+      "It focuses light on the retina",
+      "It detects odors",
+      "It makes red blood cells",
+      "It protects the spinal cord"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does the retina contain?",
+    "choices": [
+      "Taste buds",
+      "Light-sensitive cells",
+      "Bone cells",
+      "Heart valves"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which cells result from meiosis?",
+    "choices": [
+      "Two identical body cells",
+      "Only red blood cells",
+      "Cells with half the usual chromosome number",
+      "Extra chromosomes in every cell"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "How many chromosome pairs do typical human body cells have?",
+    "choices": [
+      "12 pairs",
+      "46 pairs",
+      "22 pairs",
+      "23 pairs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does mitosis usually produce?",
+    "choices": [
+      "Two genetically similar daughter cells",
+      "Four sperm cells only",
+      "One nerve signal",
+      "A digestive enzyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What molecule is the cell’s main short-term energy currency?",
+    "choices": [
+      "DNA",
+      "ATP",
+      "RNA",
+      "Collagen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is homeostasis?",
+    "choices": [
+      "Breaking down every nutrient",
+      "Making only red blood cells",
+      "Maintaining a relatively stable internal environment",
+      "Growing new bones daily"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the main role of the large intestine?",
+    "choices": [
+      "Making red blood cells",
+      "Pumping blood",
+      "Exchanging oxygen",
+      "Absorbing water and forming feces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

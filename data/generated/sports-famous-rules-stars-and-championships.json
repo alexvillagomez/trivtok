@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which player may use hands in soccer?",
+    "choices": [
+      "The goalkeeper",
+      "The striker",
+      "The referee",
+      "The captain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How high is a regulation basketball hoop?",
+    "choices": [
+      "8 feet",
+      "10 feet",
+      "12 feet",
+      "15 feet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What score means zero in tennis?",
+    "choices": [
+      "Nil",
+      "Blank",
+      "Love",
+      "Duck"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "How many innings are in a standard baseball game?",
+    "choices": [
+      "Seven",
+      "Eight",
+      "Ten",
+      "Nine"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many points is a touchdown worth before any extra kick?",
+    "choices": [
+      "Six",
+      "Three",
+      "Seven",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "How many wickets can fall before a cricket team’s innings ends?",
+    "choices": [
+      "Six",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "How many points is a rugby union try worth?",
+    "choices": [
+      "Three",
+      "Two",
+      "Five",
+      "Seven"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "How many holes are in a standard golf round?",
+    "choices": [
+      "9",
+      "12",
+      "24",
+      "18"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What object do ice hockey players hit?",
+    "choices": [
+      "A puck",
+      "A ball",
+      "A shuttlecock",
+      "A disc of wood"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "How many players are on court for one indoor volleyball team?",
+    "choices": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What sport uses a ring and padded gloves?",
+    "choices": [
+      "Fencing",
+      "Curling",
+      "Boxing",
+      "Rowing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "How long is an official marathon?",
+    "choices": [
+      "26 kilometers",
+      "50 kilometers",
+      "40 kilometers",
+      "42.195 kilometers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "How many rings are on the Olympic symbol?",
+    "choices": [
+      "Five",
+      "Four",
+      "Six",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which swimming stroke is usually fastest?",
+    "choices": [
+      "Breaststroke",
+      "Freestyle",
+      "Backstroke",
+      "Butterfly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What is the shortest common outdoor sprint?",
+    "choices": [
+      "200 meters",
+      "400 meters",
+      "100 meters",
+      "800 meters"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which country hosts the cycling race that traditionally ends on the Champs-Élysées?",
+    "choices": [
+      "Italy",
+      "Spain",
+      "Belgium",
+      "France"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which race is held on the streets of Monte Carlo?",
+    "choices": [
+      "The Monaco Grand Prix",
+      "The Italian Grand Prix",
+      "The Le Mans 24 Hours",
+      "The Dakar Rally"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which race is the first leg of the U.S. Triple Crown?",
+    "choices": [
+      "The Belmont Stakes",
+      "The Kentucky Derby",
+      "The Preakness Stakes",
+      "The Dubai World Cup"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What ends a chess game immediately when the king is trapped?",
+    "choices": [
+      "Stalemate",
+      "Castling",
+      "Checkmate",
+      "Promotion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "How many points usually win a table-tennis game?",
+    "choices": [
+      "15",
+      "21",
+      "25",
+      "11"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does a badminton player hit over the net?",
+    "choices": [
+      "A shuttlecock",
+      "A puck",
+      "A pelota",
+      "A ball bearing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What do archers aim at?",
+    "choices": [
+      "A wicket",
+      "A target",
+      "A goalmouth",
+      "A pommel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which race involves skiing downhill through gates?",
+    "choices": [
+      "Cross-country skiing",
+      "Ski jumping",
+      "Alpine slalom",
+      "Biathlon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which gymnastics event uses a narrow elevated beam?",
+    "choices": [
+      "Vault",
+      "Floor exercise",
+      "Uneven bars",
+      "Balance beam"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Where is figure skating performed?",
+    "choices": [
+      "On ice",
+      "On grass",
+      "On sand",
+      "On a track"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is Major League Baseball’s championship series called?",
+    "choices": [
+      "The Super Series",
+      "The World Series",
+      "The Diamond Cup",
+      "The National Final"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which league awards the Larry O’Brien Trophy?",
+    "choices": [
+      "The NHL",
+      "MLB",
+      "The NBA",
+      "The NFL"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What trophy does the men’s soccer World Cup award?",
+    "choices": [
+      "The Stanley Cup",
+      "The Webb Ellis Cup",
+      "The Davis Cup",
+      "The FIFA World Cup Trophy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What surface is used at Wimbledon?",
+    "choices": [
+      "Grass",
+      "Clay",
+      "Hard court",
+      "Carpet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Where is the Masters golf tournament played?",
+    "choices": [
+      "Pebble Beach",
+      "Augusta National",
+      "St Andrews",
+      "Royal Birkdale"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which team is known as the All Blacks?",
+    "choices": [
+      "Australia’s cricket team",
+      "Canada’s hockey team",
+      "New Zealand’s rugby team",
+      "South Africa’s soccer team"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which two countries contest cricket’s Ashes?",
+    "choices": [
+      "India and Pakistan",
+      "South Africa and New Zealand",
+      "Sri Lanka and Bangladesh",
+      "England and Australia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which boxing division is the heaviest standard division?",
+    "choices": [
+      "Heavyweight",
+      "Middleweight",
+      "Welterweight",
+      "Lightweight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What color jersey identifies the Tour de France leader?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "Red",
+      "White"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which event crowns the Olympic 100-meter champion?",
+    "choices": [
+      "The marathon",
+      "The decathlon",
+      "The 100-meter sprint",
+      "The relay only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is the NFL championship game called?",
+    "choices": [
+      "The World Series",
+      "The Grey Cup",
+      "The Rose Bowl",
+      "The Super Bowl"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which player was known as basketball’s Air Jordan?",
+    "choices": [
+      "Michael Jordan",
+      "Magic Johnson",
+      "Larry Bird",
+      "Kareem Abdul-Jabbar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which Brazilian footballer was known as Pelé?",
+    "choices": [
+      "Ronaldo Nazário",
+      "Edson Arantes do Nascimento",
+      "Romário",
+      "Garrincha"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which tennis champion won 23 major singles titles?",
+    "choices": [
+      "Martina Navratilova",
+      "Steffi Graf",
+      "Serena Williams",
+      "Billie Jean King"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which swimmer won eight gold medals at the 2008 Olympics?",
+    "choices": [
+      "Mark Spitz",
+      "Ian Thorpe",
+      "Ryan Lochte",
+      "Michael Phelps"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which gymnast is known for the 2016 Olympic all-around title?",
+    "choices": [
+      "Simone Biles",
+      "Nadia Comăneci",
+      "Mary Lou Retton",
+      "Aly Raisman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which hockey player was called The Great One?",
+    "choices": [
+      "Bobby Orr",
+      "Wayne Gretzky",
+      "Mario Lemieux",
+      "Gordie Howe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which baseball player was nicknamed the Sultan of Swat?",
+    "choices": [
+      "Lou Gehrig",
+      "Jackie Robinson",
+      "Babe Ruth",
+      "Willie Mays"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which golfer won the 1997 Masters by a record margin at that time?",
+    "choices": [
+      "Jack Nicklaus",
+      "Arnold Palmer",
+      "Phil Mickelson",
+      "Tiger Woods"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Formula One driver was known for three world titles?",
+    "choices": [
+      "Ayrton Senna",
+      "Nigel Mansell",
+      "Damon Hill",
+      "Kimi Räikkönen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which event combines swimming, cycling, and running?",
+    "choices": [
+      "A decathlon",
+      "A triathlon",
+      "A pentathlon",
+      "A biathlon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which sport awards a try and a conversion?",
+    "choices": [
+      "Baseball",
+      "Tennis",
+      "Rugby",
+      "Swimming"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which sport uses a caddie?",
+    "choices": [
+      "Boxing",
+      "Volleyball",
+      "Cycling",
+      "Golf"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Olympic sport uses a pommel horse?",
+    "choices": [
+      "Gymnastics",
+      "Equestrian jumping",
+      "Wrestling",
+      "Modern pentathlon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which sport uses a wicket?",
+    "choices": [
+      "Soccer",
+      "Cricket",
+      "Hockey",
+      "Fencing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What does the soccer offside rule restrict?",
+    "choices": [
+      "The goalkeeper’s glove color",
+      "The number of corner kicks",
+      "An attacker’s position when a teammate plays the ball",
+      "The length of halftime"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a triple-double in basketball?",
+    "choices": [
+      "Three made three-pointers",
+      "Three overtime periods",
+      "A ten-point lead in three quarters",
+      "Double digits in three statistical categories"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a sacrifice fly in baseball?",
+    "choices": [
+      "A fly ball that lets a runner score while the batter is out",
+      "A home run with no runners on base",
+      "A pitch thrown intentionally outside the zone",
+      "A catch made near the wall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does LBW mean in cricket?",
+    "choices": [
+      "Left bat wide",
+      "Leg before wicket",
+      "Long boundary wicket",
+      "Late bowling warning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What follows a successful try in rugby union?",
+    "choices": [
+      "A face-off",
+      "A penalty shootout",
+      "A conversion attempt",
+      "A serve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How many points usually decide a tennis tiebreak?",
+    "choices": [
+      "Five, with no margin",
+      "Ten exactly",
+      "Twenty-one, with a two-point margin",
+      "Seven, with a two-point margin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is an albatross in golf?",
+    "choices": [
+      "Three strokes under par on one hole",
+      "Two strokes under par on one hole",
+      "A hole-in-one on a par-three",
+      "Three putts on one green"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the hammer in curling?",
+    "choices": [
+      "The heaviest curling stone",
+      "The final stone advantage in an end",
+      "The brush used by the skip",
+      "A penalty for touching a stone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does icing stop in ice hockey?",
+    "choices": [
+      "A goalie leaving the crease",
+      "A team changing lines",
+      "A player shooting the puck across the center and goal lines from behind the center line",
+      "A puck touching the boards"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "How many points does an American football safety score?",
+    "choices": [
+      "One",
+      "Three",
+      "Six",
+      "Two"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is pole position in Formula One?",
+    "choices": [
+      "The front starting place earned in qualifying",
+      "The final place in a race",
+      "A pit-lane penalty",
+      "The fastest lap after the race"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which event is part of the modern pentathlon?",
+    "choices": [
+      "Cricket",
+      "Fencing",
+      "Ski jumping",
+      "Baseball"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is slalom skiing defined by?",
+    "choices": [
+      "Jumping from a ramp",
+      "Racing in a straight line only",
+      "Passing through a course of gates",
+      "Skiing without poles"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the peloton in road cycling?",
+    "choices": [
+      "The race’s finish line",
+      "A bicycle gear",
+      "The team manager’s car",
+      "The main group of riders"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does southpaw mean in boxing?",
+    "choices": [
+      "A left-handed stance",
+      "A defensive crouch",
+      "A heavyweight boxer",
+      "A knockout punch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does ippon mean in judo?",
+    "choices": [
+      "A warning for leaving the mat",
+      "A score that ends the contest",
+      "A type of uniform",
+      "A bow before the match"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a dobok?",
+    "choices": [
+      "A fencing sword",
+      "A judo throw",
+      "A taekwondo uniform",
+      "A karate belt rank"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which fencing weapon has the largest valid target area?",
+    "choices": [
+      "Foil",
+      "Sabre",
+      "Rapier",
+      "Épée"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a coxswain’s role in rowing?",
+    "choices": [
+      "Steering and directing the crew",
+      "Setting the boat’s sail",
+      "Measuring the water depth",
+      "Repairing the oars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does canoe slalom require athletes to do?",
+    "choices": [
+      "Jump over hurdles on grass",
+      "Pass through numbered gates on moving water",
+      "Row in a straight indoor lane",
+      "Paddle only across calm lakes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What obstacle distinguishes the 3,000-meter steeplechase?",
+    "choices": [
+      "A ski ramp",
+      "A sand pit",
+      "Barriers and a water jump",
+      "A cycling hill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is the order of strokes in an individual medley?",
+    "choices": [
+      "Backstroke, butterfly, freestyle, breaststroke",
+      "Breaststroke, freestyle, butterfly, backstroke",
+      "Freestyle, breaststroke, backstroke, butterfly",
+      "Butterfly, backstroke, breaststroke, freestyle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a no-hitter in baseball?",
+    "choices": [
+      "A game in which one team allows no hits",
+      "A game without strikeouts",
+      "A game with no home runs",
+      "A game stopped by rain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is a century in cricket?",
+    "choices": [
+      "A bowler taking 100 wickets",
+      "A batter scoring at least 100 runs",
+      "A match lasting 100 overs",
+      "A team scoring 100 boundaries"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a Panenka in soccer?",
+    "choices": [
+      "A sliding tackle",
+      "A corner-kick formation",
+      "A softly chipped penalty kick",
+      "A goalkeeper’s glove save"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which team won the men’s Olympic basketball gold in 1992?",
+    "choices": [
+      "Croatia",
+      "Spain",
+      "Lithuania",
+      "The United States Dream Team"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who was the first man to win all four tennis majors in one year?",
+    "choices": [
+      "Don Budge in 1938",
+      "Rod Laver in 1962",
+      "Björn Borg in 1980",
+      "Fred Perry in 1935"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which golfer won the inaugural Masters in 1934?",
+    "choices": [
+      "Bobby Jones",
+      "Horton Smith",
+      "Gene Sarazen",
+      "Walter Hagen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which country won the first FIFA World Cup in 1930?",
+    "choices": [
+      "Argentina",
+      "Brazil",
+      "Uruguay",
+      "Italy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which country won the first Rugby World Cup in 1987?",
+    "choices": [
+      "Australia",
+      "South Africa",
+      "England",
+      "New Zealand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Where were the first modern Olympic Games held in 1896?",
+    "choices": [
+      "Athens",
+      "Paris",
+      "London",
+      "Rome"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Where were the first Winter Olympics held in 1924?",
+    "choices": [
+      "Innsbruck",
+      "Chamonix",
+      "St. Moritz",
+      "Lake Placid"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Who won the first Formula One world championship in 1950?",
+    "choices": [
+      "Juan Manuel Fangio",
+      "Alberto Ascari",
+      "Giuseppe Farina",
+      "Stirling Moss"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "When was the first Wimbledon tournament held?",
+    "choices": [
+      "1888",
+      "1900",
+      "1912",
+      "1877"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who donated the original Stanley Cup?",
+    "choices": [
+      "Lord Stanley of Preston",
+      "King George V",
+      "James Naismith",
+      "Frederick Arthur, Duke of York"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who won Super Bowl I in 1967?",
+    "choices": [
+      "The Kansas City Chiefs",
+      "The Green Bay Packers",
+      "The Dallas Cowboys",
+      "The New York Jets"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which team won the first NBA championship in 1947?",
+    "choices": [
+      "The Boston Celtics",
+      "The Minneapolis Lakers",
+      "The Philadelphia Warriors",
+      "The Chicago Stags"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who won the first modern World Series in 1903?",
+    "choices": [
+      "The Pittsburgh Pirates",
+      "The New York Giants",
+      "The Chicago Cubs",
+      "The Boston Americans"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the Ashes urn traditionally associated with?",
+    "choices": [
+      "A tiny terracotta cricket urn",
+      "A silver football trophy",
+      "A wooden tennis cup",
+      "A gold rowing medal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why is the marathon distance 42.195 kilometers?",
+    "choices": [
+      "It matches an ancient Greek road",
+      "It reflects the 1908 London Olympic course",
+      "It equals 100 Roman stadia",
+      "It was set by the first Boston race"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the chess move called when a pawn captures another pawn passing it?",
+    "choices": [
+      "Castling",
+      "Promotion",
+      "En passant",
+      "Zugzwang"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a libero in volleyball?",
+    "choices": [
+      "The team captain",
+      "The tallest attacker",
+      "A serving official",
+      "A specialized defensive player"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does a seven-meter throw decide in handball?",
+    "choices": [
+      "A penalty shot",
+      "A halftime restart",
+      "A substitution",
+      "A corner throw"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the highest rank in professional sumo?",
+    "choices": [
+      "Ozeki",
+      "Yokozuna",
+      "Sekiwake",
+      "Komusubi"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is the maximum standard break in snooker?",
+    "choices": [
+      "100",
+      "155",
+      "147",
+      "180"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What kind of circuit hosts the Monaco Grand Prix?",
+    "choices": [
+      "A permanent oval",
+      "A dirt rally stage",
+      "A closed mountain road",
+      "A temporary street circuit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which two activities make up a biathlon?",
+    "choices": [
+      "Cross-country skiing and rifle shooting",
+      "Cycling and swimming",
+      "Running and archery",
+      "Ski jumping and skating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a baseball pitcher receive credit for in a perfect game?",
+    "choices": [
+      "Allowing no earned runs",
+      "Retiring every batter faced",
+      "Throwing nine strikeouts",
+      "Winning by at least five runs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which trophy is awarded in the NHL playoffs?",
+    "choices": [
+      "The Calder Cup",
+      "The Hart Trophy",
+      "The Stanley Cup",
+      "The Vezina Trophy"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a clean and jerk in weightlifting?",
+    "choices": [
+      "A wrestling takedown",
+      "A sprint start",
+      "A swimming turn",
+      "A two-part Olympic lift"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

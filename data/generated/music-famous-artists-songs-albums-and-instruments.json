@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which city is the Beatles’ hometown?",
+    "choices": [
+      "Liverpool",
+      "London",
+      "Manchester",
+      "Bristol"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "How many strings does a standard guitar have?",
+    "choices": [
+      "Four",
+      "Six",
+      "Five",
+      "Eight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which instrument has black and white keys?",
+    "choices": [
+      "Trumpet",
+      "Violin",
+      "Piano",
+      "Flute"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who leads many orchestras during a performance?",
+    "choices": [
+      "A producer",
+      "A lyricist",
+      "A roadie",
+      "A conductor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is improvisation central to?",
+    "choices": [
+      "Jazz",
+      "Marching band only",
+      "Opera staging",
+      "Choral notation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who composed Symphony No. 9 known as the Choral Symphony?",
+    "choices": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Who composed The Magic Flute?",
+    "choices": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Wolfgang Amadeus Mozart",
+      "Antonio Vivaldi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which singer is known for combining folk songwriting with poetic lyrics?",
+    "choices": [
+      "Barry White",
+      "Barry Manilow",
+      "Bobby Brown",
+      "Bob Dylan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which Michael Jackson album includes 'Billie Jean' and 'Beat It'?",
+    "choices": [
+      "Thriller",
+      "Bad",
+      "Off the Wall",
+      "Dangerous"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which group included Beyoncé before her solo career?",
+    "choices": [
+      "The Supremes",
+      "Destiny’s Child",
+      "TLC",
+      "En Vogue"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who was Queen’s lead singer?",
+    "choices": [
+      "Brian May",
+      "Robert Plant",
+      "Freddie Mercury",
+      "Mick Jagger"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Adele album is titled 21?",
+    "choices": [
+      "19",
+      "25",
+      "30",
+      "21"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Where did hip-hop culture begin?",
+    "choices": [
+      "The Bronx",
+      "Hollywood",
+      "Liverpool",
+      "New Orleans"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which country is strongly associated with reggae’s origins?",
+    "choices": [
+      "Cuba",
+      "Jamaica",
+      "Brazil",
+      "Nigeria"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "How many bars does a common blues progression have?",
+    "choices": [
+      "Eight",
+      "Ten",
+      "Twelve",
+      "Sixteen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which U.S. city is strongly linked with country music?",
+    "choices": [
+      "Seattle",
+      "Detroit",
+      "Boston",
+      "Nashville"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "How many strings does a standard violin have?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which instrument belongs to the woodwind family?",
+    "choices": [
+      "Trumpet",
+      "Saxophone",
+      "Trombone",
+      "French horn"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What do drums mainly provide in a band?",
+    "choices": [
+      "Harmony only",
+      "Lyrics",
+      "Rhythm",
+      "Tuning"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What does a Grammy recognize?",
+    "choices": [
+      "Excellence in painting",
+      "Work in theater only",
+      "Scientific discoveries",
+      "Achievements in recorded music"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which band made The Dark Side of the Moon?",
+    "choices": [
+      "Pink Floyd",
+      "The Who",
+      "Genesis",
+      "Yes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which band released Nevermind?",
+    "choices": [
+      "Pearl Jam",
+      "Nirvana",
+      "Soundgarden",
+      "Alice in Chains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Who released Like a Virgin?",
+    "choices": [
+      "Cyndi Lauper",
+      "Cher",
+      "Madonna",
+      "Janet Jackson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which singer recorded the best-known film version of I Will Always Love You?",
+    "choices": [
+      "Diana Ross",
+      "Mariah Carey",
+      "Gloria Estefan",
+      "Whitney Houston"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which singer was known as the Man in Black?",
+    "choices": [
+      "Johnny Cash",
+      "Roy Orbison",
+      "Waylon Jennings",
+      "Merle Haggard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which band came from Ireland?",
+    "choices": [
+      "R.E.M.",
+      "U2",
+      "The Doors",
+      "The Strokes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which band recorded (I Can’t Get No) Satisfaction?",
+    "choices": [
+      "The Beatles",
+      "The Kinks",
+      "The Rolling Stones",
+      "The Animals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which group represented Sweden’s pop success in the 1970s?",
+    "choices": [
+      "Roxette",
+      "Ace of Base",
+      "Europe",
+      "ABBA"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which artist created the character Ziggy Stardust?",
+    "choices": [
+      "David Bowie",
+      "Elton John",
+      "Peter Gabriel",
+      "Lou Reed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which instrument is Elton John especially known for playing?",
+    "choices": [
+      "Drums",
+      "Piano",
+      "Saxophone",
+      "Violin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who was called the Queen of Soul?",
+    "choices": [
+      "Patti LaBelle",
+      "Diana Ross",
+      "Aretha Franklin",
+      "Nina Simone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What was Louis Armstrong’s main instrument?",
+    "choices": [
+      "Piano",
+      "Clarinet",
+      "Trombone",
+      "Trumpet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Who recorded the jazz album Kind of Blue?",
+    "choices": [
+      "Miles Davis",
+      "John Coltrane",
+      "Thelonious Monk",
+      "Charlie Parker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which composer led a famous jazz orchestra at the Cotton Club?",
+    "choices": [
+      "Scott Joplin",
+      "Duke Ellington",
+      "George Gershwin",
+      "Count Basie"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Who helped make reggae internationally famous?",
+    "choices": [
+      "Fela Kuti",
+      "Manu Chao",
+      "Bob Marley",
+      "Peter Tosh only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which singer was known as the Queen of Salsa?",
+    "choices": [
+      "Shakira",
+      "Gloria Estefan",
+      "Lola Flores",
+      "Celia Cruz"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which country is singer Shakira from?",
+    "choices": [
+      "Colombia",
+      "Spain",
+      "Mexico",
+      "Argentina"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Where did BTS form?",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "Thailand",
+      "The Philippines"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which artist released the album 1989?",
+    "choices": [
+      "Katy Perry",
+      "Ariana Grande",
+      "Taylor Swift",
+      "Lorde"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which band is associated with heavy metal classics such as Master of Puppets?",
+    "choices": [
+      "Slayer",
+      "Anthrax",
+      "Iron Maiden",
+      "Metallica"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which band made the album OK Computer?",
+    "choices": [
+      "Radiohead",
+      "Oasis",
+      "Blur",
+      "Coldplay"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which instrument is central to much of Indian classical music?",
+    "choices": [
+      "Banjo",
+      "Sitar",
+      "Accordion",
+      "Mandolin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Japanese instrument has a long zither-like body?",
+    "choices": [
+      "Shamisen",
+      "Shakuhachi",
+      "Koto",
+      "Taiko"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which country is associated with Highland bagpipes?",
+    "choices": [
+      "Portugal",
+      "Norway",
+      "Hungary",
+      "Scotland"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a high male classical singing voice called?",
+    "choices": [
+      "Tenor",
+      "Bass",
+      "Baritone",
+      "Contralto"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does a symphony usually contain?",
+    "choices": [
+      "One repeated chord",
+      "Several contrasting movements",
+      "Only a solo voice",
+      "A single drum pattern"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does tempo describe?",
+    "choices": [
+      "The loudness of music",
+      "The key signature",
+      "The speed of music",
+      "The number of instruments"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What does BPM measure?",
+    "choices": [
+      "Bars per melody",
+      "Bass per measure",
+      "Breaths per movement",
+      "Beats per minute"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which format stores music in a grooved disc?",
+    "choices": [
+      "Vinyl record",
+      "Cassette tape",
+      "Compact disc",
+      "MIDI file"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which instrument family includes the cello?",
+    "choices": [
+      "Brass",
+      "Strings",
+      "Woodwind",
+      "Percussion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which texture uses several independent melodic lines?",
+    "choices": [
+      "Monophony",
+      "Silence",
+      "Counterpoint",
+      "Recitative"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which form often opens with an exposition, development, and recapitulation?",
+    "choices": [
+      "Blues form",
+      "Rondo only",
+      "Strophic form",
+      "Sonata form"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who composed the Brandenburg Concertos?",
+    "choices": [
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Antonio Vivaldi",
+      "Joseph Haydn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which composer is linked with musical Impressionism?",
+    "choices": [
+      "Johannes Brahms",
+      "Claude Debussy",
+      "Gustav Mahler",
+      "Sergei Rachmaninoff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who composed The Rite of Spring?",
+    "choices": [
+      "Dmitri Shostakovich",
+      "Béla Bartók",
+      "Igor Stravinsky",
+      "Sergei Prokofiev"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who wrote the song cycle Erlkönig?",
+    "choices": [
+      "Robert Schumann",
+      "Felix Mendelssohn",
+      "Johannes Brahms",
+      "Franz Schubert"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What texture is typical of Gregorian chant?",
+    "choices": [
+      "Monophony",
+      "Polyphony",
+      "Homorhythm",
+      "Twelve-tone writing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a raga in Indian classical music?",
+    "choices": [
+      "A type of drum only",
+      "A melodic framework",
+      "A concert hall",
+      "A written lyric"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which country is especially associated with gamelan ensembles?",
+    "choices": [
+      "Greece",
+      "Ireland",
+      "Indonesia",
+      "Peru"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which West African instrument resembles a harp-lute?",
+    "choices": [
+      "Balafon",
+      "Djembe",
+      "Ngoni",
+      "Kora"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a maqam in Arab music?",
+    "choices": [
+      "A melodic mode or system",
+      "A frame drum",
+      "A dance costume",
+      "A recording label"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which instrument is also called a thumb piano?",
+    "choices": [
+      "Kora",
+      "Mbira",
+      "Kalimba",
+      "Marimba"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a blue note?",
+    "choices": [
+      "A note written in blue ink",
+      "A note played only by flutes",
+      "A pitch bent or lowered for blues expression",
+      "A note that ends every blues song"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which saxophonist helped define bebop?",
+    "choices": [
+      "John Coltrane",
+      "Stan Getz",
+      "Gerry Mulligan",
+      "Charlie Parker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which album is a landmark of modal jazz?",
+    "choices": [
+      "Kind of Blue",
+      "A Love Supreme",
+      "Time Out",
+      "Giant Steps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which musician led the band behind Free Jazz?",
+    "choices": [
+      "Charles Mingus",
+      "Ornette Coleman",
+      "Sun Ra",
+      "Eric Dolphy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which Detroit record company helped define a polished soul sound in the 1960s?",
+    "choices": [
+      "Stax",
+      "Chess",
+      "Motown",
+      "Atlantic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which city is most associated with Stax Records?",
+    "choices": [
+      "Detroit",
+      "New York",
+      "Los Angeles",
+      "Memphis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who is associated with the Wall of Sound production style?",
+    "choices": [
+      "Phil Spector",
+      "George Martin",
+      "Rick Rubin",
+      "Trevor Horn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who is strongly associated with early ambient music?",
+    "choices": [
+      "Moby",
+      "Brian Eno",
+      "Aphex Twin",
+      "Jean-Michel Jarre"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which band is associated with German krautrock and electronic repetition?",
+    "choices": [
+      "Can",
+      "Neu!",
+      "Kraftwerk",
+      "Faust"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which band helped define post-punk in Manchester?",
+    "choices": [
+      "The Cure",
+      "Wire",
+      "Gang of Four",
+      "Joy Division"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which group is associated with early shoegaze?",
+    "choices": [
+      "My Bloody Valentine",
+      "The Stone Roses",
+      "Primal Scream",
+      "The Jesus and Mary Chain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which U.S. city is strongly associated with the grunge scene?",
+    "choices": [
+      "Austin",
+      "Seattle",
+      "Chicago",
+      "Philadelphia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which band played regularly at New York’s CBGB club?",
+    "choices": [
+      "The Police",
+      "Dire Straits",
+      "Ramones",
+      "R.E.M."
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which band released the progressive-rock album In the Court of the Crimson King?",
+    "choices": [
+      "Emerson, Lake & Palmer",
+      "Genesis",
+      "Gentle Giant",
+      "King Crimson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which band made the concept album Tommy?",
+    "choices": [
+      "The Who",
+      "The Kinks",
+      "The Small Faces",
+      "The Jam"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Who produced many of the Beatles’ classic recordings?",
+    "choices": [
+      "Phil Spector",
+      "George Martin",
+      "Brian Epstein",
+      "Glyn Johns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Who produced Michael Jackson’s Thriller?",
+    "choices": [
+      "Clive Davis",
+      "Rick Rubin",
+      "Quincy Jones",
+      "Nile Rodgers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which musician co-founded the band Chic?",
+    "choices": [
+      "Herbie Hancock",
+      "Bootsy Collins",
+      "George Clinton",
+      "Nile Rodgers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which producer is strongly associated with intricate hip-hop sampling?",
+    "choices": [
+      "J Dilla",
+      "Dr. Dre",
+      "Rick Rubin",
+      "DJ Khaled"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which song helped popularize Auto-Tune as a prominent effect?",
+    "choices": [
+      "Royals by Lorde",
+      "Believe by Cher",
+      "Paper Planes by M.I.A.",
+      "Crazy by Gnarls Barkley"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does MIDI primarily transmit?",
+    "choices": [
+      "Analog tape recordings",
+      "Lyrics over radio",
+      "Digital musical performance instructions",
+      "Acoustic room echoes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which two companies jointly developed the compact disc standard?",
+    "choices": [
+      "Apple and IBM",
+      "Sony and Nintendo",
+      "Panasonic and Yamaha",
+      "Philips and Sony"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Who invented the Moog synthesizer?",
+    "choices": [
+      "Robert Moog",
+      "Don Buchla",
+      "Leon Theremin",
+      "Raymond Scott"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which instrument is played without physical contact?",
+    "choices": [
+      "Harpsichord",
+      "Theremin",
+      "Clavinet",
+      "Ondes Martenot"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which guitar model is associated with Fender and a three-pickup design?",
+    "choices": [
+      "Les Paul",
+      "Telecaster",
+      "Stratocaster",
+      "Rickenbacker 360"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which family made famous violins in Cremona?",
+    "choices": [
+      "Guarneri",
+      "Amati",
+      "Medici",
+      "Stradivari"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which group won Eurovision for Sweden with Waterloo in 1974?",
+    "choices": [
+      "ABBA",
+      "Roxette",
+      "Ace of Base",
+      "The Cardigans"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which song is often cited as an early landmark rap hit from 1979?",
+    "choices": [
+      "The Message",
+      "Rapper’s Delight",
+      "Planet Rock",
+      "Walk This Way"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who is closely associated with Afrobeat’s development?",
+    "choices": [
+      "Hugh Masekela",
+      "Miriam Makeba",
+      "Fela Kuti",
+      "King Sunny Adé"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which singer helped popularize bossa nova internationally?",
+    "choices": [
+      "Carlos Santana",
+      "Caetano Veloso",
+      "Jorge Ben",
+      "João Gilberto"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which country is the traditional home of flamenco?",
+    "choices": [
+      "Spain",
+      "Portugal",
+      "Italy",
+      "Greece"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which country is associated with fado?",
+    "choices": [
+      "Spain",
+      "Portugal",
+      "Brazil",
+      "Cape Verde"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which West African country is strongly associated with highlife?",
+    "choices": [
+      "Senegal",
+      "Mali",
+      "Ghana",
+      "Ethiopia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which tradition is associated with South Indian classical music?",
+    "choices": [
+      "Gagaku",
+      "Fado",
+      "Qawwali",
+      "Carnatic music"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a leitmotif?",
+    "choices": [
+      "A recurring musical idea linked to a character or theme",
+      "A singer’s warm-up scale",
+      "A drum used in marching bands",
+      "A recording made without editing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a cappella mean?",
+    "choices": [
+      "Playing only percussion",
+      "Singing without instrumental accompaniment",
+      "Singing in a very high register",
+      "Recording in one take"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which interval spans eight notes of a diatonic scale?",
+    "choices": [
+      "A fifth",
+      "A third",
+      "An octave",
+      "A seventh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does syncopation emphasize?",
+    "choices": [
+      "Only the first beat",
+      "The lowest vocal note",
+      "A song’s final chord",
+      "Unexpected or off-beat accents"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

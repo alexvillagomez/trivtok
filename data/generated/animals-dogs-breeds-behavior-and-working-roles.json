@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is the domestic dog's scientific name?",
+    "choices": [
+      "Canis lupus familiaris",
+      "Canis latrans domesticus",
+      "Vulpes familiaris",
+      "Felis lupus canis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which breed is especially known for a blue-black tongue?",
+    "choices": [
+      "Beagle",
+      "Chow Chow",
+      "Whippet",
+      "Papillon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which breed is especially known for a curly, continuously growing coat?",
+    "choices": [
+      "Beagle",
+      "Greyhound",
+      "Poodle",
+      "Dalmatian"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which breed is famous for its spotted coat?",
+    "choices": [
+      "Pug",
+      "Newfoundland",
+      "Whippet",
+      "Dalmatian"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which breed is widely associated with scent hounding and a white-tipped tail?",
+    "choices": [
+      "Beagle",
+      "Borzoi",
+      "Mastiff",
+      "Papillon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which breed is renowned for sprinting speed?",
+    "choices": [
+      "Bulldog",
+      "Greyhound",
+      "Basset Hound",
+      "Saint Bernard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which breed is strongly associated with sled pulling in Arctic regions?",
+    "choices": [
+      "Cavalier King Charles Spaniel",
+      "Whippet",
+      "Siberian Husky",
+      "Italian Greyhound"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which breed is especially associated with herding sheep through intense focus and movement control?",
+    "choices": [
+      "Shih Tzu",
+      "Chow Chow",
+      "Maltese",
+      "Border Collie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which breed was developed as a versatile herding and working dog in Germany?",
+    "choices": [
+      "German Shepherd Dog",
+      "Pekingese",
+      "Bichon Frise",
+      "Cocker Spaniel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which breed is named for its long, low body and was developed to pursue quarry into burrows?",
+    "choices": [
+      "Great Dane",
+      "Dachshund",
+      "Irish Setter",
+      "Papillon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which breed is commonly associated with retrieving game from water?",
+    "choices": [
+      "Afghan Hound",
+      "Bull Terrier",
+      "Golden Retriever",
+      "Chinese Crested"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What type of work were many terriers originally bred to perform?",
+    "choices": [
+      "Pulling sleds across ice",
+      "Guarding royal palaces only",
+      "Pointing to upland birds",
+      "Hunting small vermin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is the primary purpose of a dog's nose in everyday exploration?",
+    "choices": [
+      "Detecting and distinguishing odors",
+      "Regulating body temperature directly",
+      "Producing vocal sounds",
+      "Measuring distance by touch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What are a dog's facial whiskers also called?",
+    "choices": [
+      "Pinnae",
+      "Vibrissae",
+      "Paw pads",
+      "Canines"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What does a play bow usually communicate?",
+    "choices": [
+      "A threat to bite",
+      "A request for food only",
+      "An invitation to play",
+      "A sign that the dog is asleep"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Why might a dog wag its tail?",
+    "choices": [
+      "Only to show happiness",
+      "Only to cool its body",
+      "To improve its hearing",
+      "To communicate arousal or emotion in context"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does socialization generally involve for a puppy?",
+    "choices": [
+      "Gradual positive exposure to people, animals, places, and experiences",
+      "Keeping the puppy away from every unfamiliar situation",
+      "Teaching only formal obedience commands",
+      "Exercise until the puppy is exhausted"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is positive reinforcement in dog training?",
+    "choices": [
+      "Removing every reward from a training session",
+      "Adding a rewarding consequence after a desired behavior",
+      "Using physical punishment after any mistake",
+      "Ignoring all behavior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which item is commonly used to provide a safe resting and training space?",
+    "choices": [
+      "A muzzle used continuously",
+      "A grooming table",
+      "A crate",
+      "A tracking harness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is house training intended to teach a puppy?",
+    "choices": [
+      "How to herd livestock",
+      "How to identify every breed",
+      "How to stop growing",
+      "Where and when it is appropriate to eliminate"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Why do puppies commonly chew objects?",
+    "choices": [
+      "Exploration, play, and developing or changing teeth can contribute",
+      "They are trying to dominate every person",
+      "Chewing is required for all adult dogs",
+      "It means they cannot smell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is a dog's main way of cooling itself in warm conditions?",
+    "choices": [
+      "Sweating through its entire coat",
+      "Panting",
+      "Shivering",
+      "Rapid blinking"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What is a reasonable general role of regular exercise for a healthy dog?",
+    "choices": [
+      "Replacing all social interaction",
+      "Guaranteeing no behavior problems",
+      "Supporting physical fitness and behavioral well-being",
+      "Eliminating the need for sleep"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Why is grooming useful for many dogs?",
+    "choices": [
+      "It permanently changes a breed's genetics",
+      "It replaces all exercise",
+      "It teaches a dog to track scents",
+      "It helps maintain the coat and allows routine observation of the skin and body"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which behavior can indicate that a dog is uncertain or stressed?",
+    "choices": [
+      "Lip licking or repeated yawning in context",
+      "A relaxed open mouth in every context",
+      "Sleeping after exercise",
+      "Taking a familiar treat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What does a dog bark represent most accurately?",
+    "choices": [
+      "A sound that always means aggression",
+      "A vocal signal whose meaning depends on context and pattern",
+      "A sound used only when dogs are hungry",
+      "A noise with no communicative function"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which type of dog helps a person who is blind navigate surroundings?",
+    "choices": [
+      "A scent-detection dog",
+      "A livestock guardian",
+      "A guide dog",
+      "An earthdog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which type of dog is trained to locate specific odors such as explosives or narcotics?",
+    "choices": [
+      "A conformation dog",
+      "A lapdog",
+      "A racing greyhound",
+      "A detection dog"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What is a search-and-rescue dog trained to locate?",
+    "choices": [
+      "Missing people or human scent",
+      "Only truffles",
+      "Only livestock feed",
+      "A judge's whistle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What does a therapy dog generally provide?",
+    "choices": [
+      "Legal authority to prescribe medication",
+      "Comfort and companionship in approved settings",
+      "Independent guide work for every handler",
+      "Livestock protection without training"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the goal of an agility competition?",
+    "choices": [
+      "A dog identifies the oldest breed",
+      "A dog pulls the heaviest sled only",
+      "A dog navigates obstacles under a handler's direction",
+      "A dog remains motionless for an entire day"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does a conformation dog show primarily evaluate?",
+    "choices": [
+      "How many odors it can identify",
+      "How fast it can swim",
+      "How many commands it knows",
+      "How closely a dog fits its breed standard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which sport involves dogs catching a flying disc?",
+    "choices": [
+      "Disc dog",
+      "Earthdog",
+      "Tracking only",
+      "Dock diving only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a dog's dewclaw?",
+    "choices": [
+      "The central pad of the paw",
+      "A claw higher on the leg than the main toes",
+      "A scent gland in the nose",
+      "A loose flap of ear skin"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a mixed-breed dog?",
+    "choices": [
+      "A dog that belongs to two kennel clubs",
+      "A dog with two different eye colors",
+      "A dog whose ancestry includes more than one breed or an unspecified mixture",
+      "A dog trained for two sports"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does a dog's body posture often communicate?",
+    "choices": [
+      "Its exact age",
+      "Its genetic breed percentage",
+      "Its preferred food",
+      "Its arousal, confidence, fear, or willingness to interact"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a reward in training?",
+    "choices": [
+      "A consequence that increases the likelihood of a behavior recurring",
+      "A command that stops every behavior",
+      "A punishment that must be painful",
+      "A breed-specific coat pattern"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does a leash primarily help a handler do?",
+    "choices": [
+      "Teach a dog every command automatically",
+      "Manage a dog's movement and safety in shared spaces",
+      "Prevent a dog from smelling",
+      "Replace socialization"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which tiny Mexican-named breed is among the smallest recognized dog breeds?",
+    "choices": [
+      "Xoloitzcuintli",
+      "Mexican Hairless Terrier",
+      "Chihuahua",
+      "Mastiff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which breed is well known for its very large size and tall stature?",
+    "choices": [
+      "Dachshund",
+      "Papillon",
+      "Pomeranian",
+      "Great Dane"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which breed has a short muzzle and is often used as a familiar example of a brachycephalic dog?",
+    "choices": [
+      "Pug",
+      "Saluki",
+      "Collie",
+      "Borzoi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which breed is traditionally associated with rescue work in water because of its swimming ability?",
+    "choices": [
+      "Chihuahua",
+      "Newfoundland",
+      "Greyhound",
+      "Basenji"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a dog's paw pad?",
+    "choices": [
+      "A scent organ inside the skull",
+      "A specialized ear muscle",
+      "A tough, cushioned surface on the underside of the foot",
+      "A layer of fur on the tail"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a herding dog bred to do?",
+    "choices": [
+      "Retrieve only waterfowl",
+      "Race around a track alone",
+      "Locate underground roots",
+      "Control and move livestock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a pointing dog trained to do?",
+    "choices": [
+      "Indicate the location of game birds",
+      "Guard a sled from wolves",
+      "Pull a cart",
+      "Catch rats in a cellar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is a scent hound especially selected to do?",
+    "choices": [
+      "Track only by sight",
+      "Follow odor trails",
+      "Herd sheep with eye contact",
+      "Retrieve without using its nose"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the broad purpose of a livestock guardian dog?",
+    "choices": [
+      "Flush birds into the air",
+      "Pull a racing sled",
+      "Protect a flock or herd from predators and threats",
+      "Perform only circus tricks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What does domestication mean in the history of dogs?",
+    "choices": [
+      "A single modern breeding event in one kennel",
+      "Training a wild wolf for one afternoon",
+      "Changing a dog's coat by grooming",
+      "A long process in which dog populations became associated and selected with humans"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the usual adult tooth count for a dog?",
+    "choices": [
+      "Forty-two",
+      "Thirty-two",
+      "Forty-four",
+      "Twenty-eight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What are carnassial teeth adapted primarily for?",
+    "choices": [
+      "Grinding plant fiber like molars in cattle",
+      "Shearing meat and other food",
+      "Injecting venom",
+      "Filtering water"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is the tapetum lucidum?",
+    "choices": [
+      "A membrane that produces vocal pitch",
+      "A cartilage in the dog's tail",
+      "A reflective layer that can enhance low-light vision",
+      "A scent gland between the toes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the vomeronasal organ, or Jacobson's organ, associated with?",
+    "choices": [
+      "Producing saliva for digestion",
+      "Balancing the inner ear",
+      "Strengthening the canine teeth",
+      "Detecting certain chemical signals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is scent discrimination?",
+    "choices": [
+      "Learning or using differences between odor targets",
+      "Recognizing dogs solely by coat color",
+      "Measuring the loudness of a bark",
+      "Sorting breeds by shoulder height"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a dog's double coat generally contain?",
+    "choices": [
+      "Two layers of teeth",
+      "A protective outer coat and a softer insulating undercoat",
+      "A pair of scent organs",
+      "An inner and outer tail"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a guard hair?",
+    "choices": [
+      "A whisker found only on the muzzle",
+      "A hair that grows inside the paw pad",
+      "A coarser outer hair that helps protect the coat",
+      "A genetic test for aggression"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a merle coat pattern describe?",
+    "choices": [
+      "A completely solid black coat",
+      "A coat with only vertical stripes",
+      "A coat with no pigment anywhere",
+      "Mottled patches of diluted and fuller pigment"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is brindle?",
+    "choices": [
+      "A coat pattern with dark striping over a lighter base",
+      "A form of long-distance scent tracking",
+      "A type of ear carriage",
+      "A training reward"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is heterochromia in dogs?",
+    "choices": [
+      "A double row of teeth",
+      "Different coloration between the two eyes or within one eye",
+      "A patchwork coat pattern",
+      "A difference in the length of the legs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What are vibrissae likely to help a dog detect?",
+    "choices": [
+      "Changes in blood sugar",
+      "The age of another dog",
+      "Nearby movement and contact through sensitive facial hairs",
+      "The exact breed of every animal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a calming signal in canine behavior research?",
+    "choices": [
+      "A formal obedience command that all dogs share",
+      "A vocalization that always means surrender",
+      "A sign of a specific disease",
+      "A behavior that may reduce tension or communicate non-threat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is resource guarding?",
+    "choices": [
+      "Behavior aimed at controlling access to valued food, objects, or spaces",
+      "A dog's ability to remember a scent",
+      "A method for measuring coat density",
+      "A breed's instinct to retrieve water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is desensitization in behavior modification?",
+    "choices": [
+      "Sudden exposure to the strongest possible trigger",
+      "Gradual exposure to a trigger at an intensity that does not overwhelm the dog",
+      "Removing every reward from training",
+      "Teaching a dog to ignore all sounds"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is counterconditioning?",
+    "choices": [
+      "Punishing a dog whenever it notices a stimulus",
+      "Repeating a command until the dog sleeps",
+      "Pairing a troubling stimulus with something positive to change the emotional response",
+      "Changing a breed's coat color"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is shaping in operant training?",
+    "choices": [
+      "Physically placing a dog into the final position",
+      "Teaching only behaviors a dog already performs",
+      "Removing all environmental distractions permanently",
+      "Reinforcing successive approximations toward a target behavior"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a marker signal in reward-based training?",
+    "choices": [
+      "A consistent signal that identifies the behavior being rewarded",
+      "A warning that a dog will be punished",
+      "A breed-registration number",
+      "A device that measures heart rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is habituation?",
+    "choices": [
+      "An increased response to every familiar stimulus",
+      "Reduced response to a repeated, harmless stimulus",
+      "A learned fear of a single object",
+      "A genetic coat change"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is sensitization?",
+    "choices": [
+      "A gradual loss of response to a harmless sound",
+      "A form of canine coat shedding",
+      "An increased response after repeated or intense exposure to a stimulus",
+      "A method of judging conformation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is classical conditioning?",
+    "choices": [
+      "Learning only through deliberate commands",
+      "A method of selecting puppies by coat color",
+      "A system for naming dog breeds",
+      "Learning an association between stimuli that changes an involuntary response"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is operant conditioning?",
+    "choices": [
+      "Learning in which consequences influence the future frequency of behavior",
+      "Learning that occurs only during sleep",
+      "A process limited to vocal anatomy",
+      "The inheritance of a working role"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Why is a Border Collie's characteristic 'eye' useful in traditional herding?",
+    "choices": [
+      "It allows the dog to see ultraviolet maps",
+      "Focused visual attention can influence livestock movement",
+      "It makes the dog immune to livestock kicks",
+      "It replaces the need for a handler"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which working specialization best fits a sighthound such as a Saluki?",
+    "choices": [
+      "Following only aged scent trails",
+      "Driving sheep by nipping their heels",
+      "Pursuing visible fast-moving quarry",
+      "Locating buried explosives"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a 'soft mouth' in retrieving-dog terminology?",
+    "choices": [
+      "A jaw incapable of biting",
+      "A muzzle with no teeth",
+      "A preference for soft food",
+      "A tendency to carry retrieved game without damaging it severely"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is an earthdog trial designed to test?",
+    "choices": [
+      "A small dog's willingness to work in underground quarry-like tunnels",
+      "A dog's ability to swim long distances",
+      "A dog's skill at balancing on a beam",
+      "A dog's resistance to cold weather"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is air-scent search work?",
+    "choices": [
+      "Identifying a person's handwriting",
+      "Locating human scent carried through the air rather than following one exact track",
+      "Tracking only footprints in mud",
+      "Searching for airborne pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is trailing in canine search work?",
+    "choices": [
+      "Searching every person in a crowd equally",
+      "Locating only objects with a bright color",
+      "Following the scent specific to a person's path",
+      "Running ahead without using scent"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does 'intelligent disobedience' mean in guide-dog work?",
+    "choices": [
+      "Ignoring every handler cue",
+      "Choosing a favorite route for convenience",
+      "Barking at all traffic",
+      "Refusing a handler's cue when following it would create an immediate hazard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the key distinction between a service dog and a therapy dog?",
+    "choices": [
+      "A service dog is individually trained to perform disability-related tasks for its handler",
+      "A therapy dog must perform police detection",
+      "A service dog is trained only to comfort groups",
+      "A therapy dog automatically has public-access rights everywhere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which breed is especially associated with a distinctive yodel-like vocalization rather than a typical bark?",
+    "choices": [
+      "Newfoundland",
+      "Basenji",
+      "Great Dane",
+      "Irish Wolfhound"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which breed has a long history as a desert sighthound of the Middle East?",
+    "choices": [
+      "Saint Bernard",
+      "Bernese Mountain Dog",
+      "Saluki",
+      "English Bulldog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a genetic bottleneck in a dog population?",
+    "choices": [
+      "A period when every puppy grows unusually tall",
+      "A coat pattern caused by one grooming session",
+      "A training phase before a dog enters agility",
+      "A sharp reduction in breeding population that can decrease genetic diversity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Why can closed breeding populations raise genetic concerns?",
+    "choices": [
+      "They can increase homozygosity and the chance that inherited variants pair together",
+      "They guarantee every dog has identical behavior",
+      "They eliminate all recessive variants",
+      "They prevent any physical traits from being inherited"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does neoteny refer to in discussions of dog domestication?",
+    "choices": [
+      "A dog's ability to live without water",
+      "Retention of juvenile traits or behaviors into adulthood",
+      "The development of a new coat pattern each year",
+      "A permanent loss of puppy behavior"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which breed was developed in Australia for driving and controlling cattle over long distances?",
+    "choices": [
+      "Japanese Chin",
+      "Borzoi",
+      "Australian Cattle Dog",
+      "Papillon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which breed is known for a hairless variety and a long history in Mexico?",
+    "choices": [
+      "Komondor",
+      "Leonberger",
+      "English Setter",
+      "Xoloitzcuintli"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which breed has a documented traditional association with fishing and water work in Portugal?",
+    "choices": [
+      "Portuguese Water Dog",
+      "Afghan Hound",
+      "Bullmastiff",
+      "Italian Greyhound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does a breed standard primarily attempt to describe?",
+    "choices": [
+      "The exact personality of every individual dog",
+      "The characteristic structure, movement, and traits expected for a breed",
+      "A guarantee of working ability in every environment",
+      "A veterinary treatment plan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Why are breed labels imperfect predictors of an individual dog's behavior?",
+    "choices": [
+      "Breed labels determine every behavior with certainty",
+      "Training has no effect on inherited tendencies",
+      "Behavior reflects genetics, learning, environment, development, and individual variation",
+      "All dogs of one breed share identical experiences"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a dog's prey drive most cautiously described as?",
+    "choices": [
+      "A guaranteed desire to attack people",
+      "A measure of obedience intelligence",
+      "A coat-color gene",
+      "Motivation to orient toward, chase, catch, or interact with prey-like movement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does a livestock guardian's independence often reflect?",
+    "choices": [
+      "Selection for making decisions while working at some distance from a handler",
+      "An inability to learn any cue",
+      "A lack of social behavior toward all animals",
+      "Training exclusively for racing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a breed's landrace origin?",
+    "choices": [
+      "Creation by a single modern laboratory",
+      "Development through local adaptation and selection before formal standardization",
+      "A dog imported only for a conformation show",
+      "A coat mutation produced by grooming"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which statement best distinguishes tracking from trailing?",
+    "choices": [
+      "Tracking never uses a dog's nose, while trailing uses sight",
+      "Trailing is limited to water work, while tracking is limited to herding",
+      "Tracking often emphasizes physical ground disturbance, while trailing emphasizes human scent",
+      "They are always identical terms in every training system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the main ethical value of using reward-based training?",
+    "choices": [
+      "It guarantees a dog will never make a mistake",
+      "It eliminates the need to manage the environment",
+      "It makes every dog respond identically",
+      "It teaches desired behavior while reducing reliance on fear or pain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is extinction in operant conditioning?",
+    "choices": [
+      "A previously reinforced behavior decreases when its reinforcing consequence is withheld",
+      "A dog stops aging",
+      "A breed loses its ancestral role",
+      "A behavior is punished until it becomes stronger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is an extinction burst?",
+    "choices": [
+      "A sudden genetic change in coat color",
+      "A temporary increase in a behavior after reinforcement stops",
+      "A period when a puppy sleeps longer",
+      "A competition for fastest sprinting"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is stimulus control?",
+    "choices": [
+      "A handler controls every movement physically",
+      "A dog responds equally to every sound",
+      "A behavior occurs reliably in the presence of a particular cue",
+      "A stimulus is removed from the environment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Why can generalization matter in dog training?",
+    "choices": [
+      "A learned behavior automatically transfers to every setting",
+      "Dogs can generalize only scent, never cues",
+      "Generalization means changing breeds",
+      "A dog may need practice to perform a learned behavior across people, places, and distractions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is the main purpose of a long line in training?",
+    "choices": [
+      "To provide managed freedom while retaining a safety connection",
+      "To force a dog into heel position",
+      "To prevent all exploration",
+      "To measure the length of a dog's stride"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the acoustic function of a dog's pinnae?",
+    "choices": [
+      "They produce the dog's scent",
+      "They help collect and funnel sound toward the ear canal",
+      "They regulate paw temperature",
+      "They determine coat length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which statement about canine tail wagging is most accurate?",
+    "choices": [
+      "A wag always indicates friendliness",
+      "A wag is unrelated to arousal",
+      "Direction, speed, height, and the rest of the body can all affect its interpretation",
+      "Only the breed determines its meaning"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why is 'dominance' a poor one-size-fits-all explanation for household dog behavior?",
+    "choices": [
+      "Dominance has no meaning in any animal research",
+      "Dogs never compete over resources",
+      "Training cannot influence social behavior",
+      "Behavior usually reflects specific resources, learning histories, emotions, and context"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

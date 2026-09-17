@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which part connects the pedals to the rear wheel?",
+    "choices": [
+      "Chain",
+      "Fork",
+      "Stem",
+      "Saddle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What does a bicycle derailleur move?",
+    "choices": [
+      "Brake pads",
+      "The chain",
+      "Handlebars",
+      "Seat rails"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which wheel is steered by ordinary bicycle handlebars?",
+    "choices": [
+      "Rear wheel",
+      "Front wheel",
+      "Both wheels",
+      "Neither wheel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What is a bicycle frame primarily designed to support?",
+    "choices": [
+      "The rider and components",
+      "Only the tires",
+      "Race officials",
+      "Water bottles only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a tire pump add to an inner tube?",
+    "choices": [
+      "Oil",
+      "Air",
+      "Grease",
+      "Coolant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which component slows a bicycle when squeezed at the lever?",
+    "choices": [
+      "Crank",
+      "Brake",
+      "Cassette",
+      "Hub"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is the saddle?",
+    "choices": [
+      "A wheel rim",
+      "A seat",
+      "A gear cluster",
+      "A pedal axle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which item commonly holds a drink on a bicycle?",
+    "choices": [
+      "Bottle cage",
+      "Headset",
+      "Spoke nipple",
+      "Freehub"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What do spokes connect in a conventional wheel?",
+    "choices": [
+      "Hub and rim",
+      "Pedal and crank",
+      "Stem and bar",
+      "Saddle and post"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which gear is usually easiest for climbing?",
+    "choices": [
+      "Large rear sprocket",
+      "Small rear sprocket",
+      "Largest chainring",
+      "Fixed cog only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does cadence measure?",
+    "choices": [
+      "Tire width",
+      "Pedal revolutions per minute",
+      "Frame length",
+      "Brake force"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which material is a common modern bicycle frame material?",
+    "choices": [
+      "Concrete",
+      "Aluminum",
+      "Paper",
+      "Ceramic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a bicycle fork attached to?",
+    "choices": [
+      "The front wheel and steerer",
+      "The rear cassette",
+      "The saddle rails",
+      "The chain links"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a quick-release skewer secure?",
+    "choices": [
+      "A water bottle",
+      "A wheel",
+      "A helmet strap",
+      "A pedal reflector"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which surface is characteristic of a cyclocross race?",
+    "choices": [
+      "Only velodrome boards",
+      "Mixed grass and mud",
+      "Deep ocean water",
+      "Indoor ice"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is drafting behind another rider?",
+    "choices": [
+      "Changing bicycles",
+      "Using reduced air resistance",
+      "Riding without pedals",
+      "Removing a wheel"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which race is a three-week European Grand Tour?",
+    "choices": [
+      "Tour de France",
+      "Paris-Roubaix only",
+      "Liège-Bastogne-Liège",
+      "Milan-San Remo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What color is the Tour de France leader's jersey?",
+    "choices": [
+      "Green",
+      "Yellow",
+      "Polka-dot",
+      "White"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which event is known for cobbled sectors?",
+    "choices": [
+      "Strade Bianche",
+      "Paris-Roubaix",
+      "Tour de Suisse",
+      "Giro d'Italia time trial"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A velodrome is primarily used for which cycling?",
+    "choices": [
+      "Road touring",
+      "Track racing",
+      "Mountain descent",
+      "BMX freestyle only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is the purpose of a helmet?",
+    "choices": [
+      "Protect the head",
+      "Increase tire pressure",
+      "Shift gears",
+      "Measure cadence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which race format has riders start at intervals?",
+    "choices": [
+      "Mass-start road race",
+      "Individual time trial",
+      "Keirin",
+      "Madison"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is a peloton?",
+    "choices": [
+      "A single gear",
+      "The main group of riders",
+      "A wheel bearing",
+      "A finish-line camera"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which brake type uses a rotor at the wheel hub?",
+    "choices": [
+      "Rim brake",
+      "Coaster brake",
+      "Caliper only",
+      "Disc brake"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What does a cassette contain?",
+    "choices": [
+      "Rear sprockets",
+      "Front brake cables",
+      "Handlebar tape",
+      "Seat clamps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Why are lower gears useful uphill?",
+    "choices": [
+      "They reduce wheel size",
+      "They reduce required pedal torque",
+      "They increase frame weight",
+      "They disable the brakes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a cycling cadence sensor measuring directly?",
+    "choices": [
+      "Heartbeats",
+      "Crank rotation rate",
+      "Wind speed",
+      "Chain length"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which discipline commonly features berms and jumps on dirt trails?",
+    "choices": [
+      "Track pursuit",
+      "Mountain biking",
+      "Road time trial",
+      "Bicycle polo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What does a bike fit primarily optimize?",
+    "choices": [
+      "Rider position",
+      "Race sponsorship",
+      "Wheel color",
+      "Medal design"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a tubeless tire mounted without?",
+    "choices": [
+      "A rim",
+      "An inner tube",
+      "A valve",
+      "Tire sealant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Tour de France jersey usually recognizes the best climber?",
+    "choices": [
+      "Green",
+      "White",
+      "Polka-dot",
+      "Yellow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "In track cycling, what is a pursuit race decided by?",
+    "choices": [
+      "Number of bottles",
+      "Time over a set distance",
+      "Hill elevation",
+      "Crowd vote"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is a bike's wheelbase?",
+    "choices": [
+      "Distance between wheel axles",
+      "Width of a tire",
+      "Length of a chain link",
+      "Height of a saddle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which tool is designed to remove a cassette?",
+    "choices": [
+      "Cable cutter",
+      "Cassette lockring tool",
+      "Tire lever",
+      "Spoke wrench"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does chain lubrication mainly reduce?",
+    "choices": [
+      "Wind drag",
+      "Friction and wear",
+      "Frame flex",
+      "Helmet weight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is an echelon in road racing?",
+    "choices": [
+      "A finishing medal",
+      "An angled paceline in crosswind",
+      "A gear cable",
+      "A track barrier"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which classic is nicknamed La Doyenne?",
+    "choices": [
+      "Liège-Bastogne-Liège",
+      "Paris-Roubaix",
+      "Tour of Flanders",
+      "Amstel Gold Race"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is a domestique expected to do?",
+    "choices": [
+      "Design the course",
+      "Support a team leader",
+      "Judge equipment legality",
+      "Ride only indoors"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which part changes leverage between crank and rear wheel?",
+    "choices": [
+      "Brake hood",
+      "Gear ratio",
+      "Rim tape",
+      "Handlebar width"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a criterium?",
+    "choices": [
+      "A multi-day mountain expedition",
+      "A short circuit race",
+      "A bicycle manufacturing test",
+      "A track sprint start"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which maintenance check detects a loose headset?",
+    "choices": [
+      "Rocking the front brake while checking play",
+      "Counting spokes",
+      "Measuring bottle volume",
+      "Polishing the saddle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What does a power meter estimate?",
+    "choices": [
+      "Air temperature",
+      "Pedaling power",
+      "Shoe size",
+      "Road width"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which event includes a team of two riders alternating?",
+    "choices": [
+      "Individual pursuit",
+      "Road sprint",
+      "Madison",
+      "Hill climb"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is the apex of a corner?",
+    "choices": [
+      "The start gate",
+      "The inside point of maximum turn",
+      "The finish banner",
+      "The tallest gear"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Why do time-trial bikes use deep-section wheels?",
+    "choices": [
+      "To reduce aerodynamic drag",
+      "To improve mud clearance",
+      "To shorten the chain",
+      "To soften the saddle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a neutral service vehicle in a road race?",
+    "choices": [
+      "A media motorcycle",
+      "A shared mechanical-support vehicle",
+      "A team bus",
+      "A timing gantry"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which surface typically defines the Tour of Flanders?",
+    "choices": [
+      "Sand beaches",
+      "Cobbled climbs",
+      "Velodrome wood",
+      "Snow fields"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does a limit screw adjust on a derailleur?",
+    "choices": [
+      "Tire pressure",
+      "Maximum derailleur travel",
+      "Brake temperature",
+      "Saddle angle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which training method alternates hard and easy efforts?",
+    "choices": [
+      "Interval training",
+      "Neutral rolling",
+      "Static stretching only",
+      "Wheel truing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a breakaway?",
+    "choices": [
+      "A broken spoke",
+      "Riders ahead of the main group",
+      "A neutralized stage",
+      "A loose bottle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which Olympic track event uses a flying start?",
+    "choices": [
+      "Road race",
+      "Individual time trial",
+      "Flying 200-meter sprint",
+      "Team relay on dirt"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does a derailleur's clutch help control?",
+    "choices": [
+      "Rim temperature",
+      "Chain movement",
+      "Helmet ventilation",
+      "Pedal float"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is VO2 max in endurance training?",
+    "choices": [
+      "Maximum oxygen uptake",
+      "Optimum tire volume",
+      "Variable crank offset",
+      "Visual road index"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which race awards the rainbow jersey?",
+    "choices": [
+      "World championships",
+      "Tour de France",
+      "Paris-Roubaix",
+      "Giro d'Italia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the main aerodynamic benefit of an aero helmet?",
+    "choices": [
+      "More braking power",
+      "Lower airflow drag",
+      "Higher tire grip",
+      "Larger gears"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In a team time trial, riders typically share work by?",
+    "choices": [
+      "Riding separately",
+      "Taking turns at the front",
+      "Stopping at each corner",
+      "Using different courses"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a cycling threshold workout target?",
+    "choices": [
+      "Sustainable high intensity",
+      "Maximum sprint only",
+      "Balance while stationary",
+      "Wheel alignment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Grand Tour finishes traditionally in Madrid?",
+    "choices": [
+      "Giro d'Italia",
+      "Vuelta a España",
+      "Tour de France",
+      "Tour de Suisse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is trail braking on a bicycle?",
+    "choices": [
+      "Braking after dismounting",
+      "Carrying brake pressure into a turn",
+      "Using a trail marker",
+      "Braking only uphill"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which mountain-bike discipline emphasizes timed downhill runs?",
+    "choices": [
+      "Cross-country",
+      "Trials",
+      "Downhill",
+      "Enduro training only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is a negative split in a long ride?",
+    "choices": [
+      "Completing the second half faster",
+      "Using negative gearing",
+      "Splitting a tire",
+      "Skipping the final section"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does UCI regulate in international cycling?",
+    "choices": [
+      "Only bicycle shops",
+      "Rules and competition standards",
+      "Weather forecasts",
+      "Tourism visas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which tactic uses a teammate to chase a threatening move?",
+    "choices": [
+      "Solo neutralization",
+      "Team marking",
+      "Mechanical drafting",
+      "Stationary sprint"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is tire pressure most directly influenced by?",
+    "choices": [
+      "Race jersey color",
+      "Rider weight and tire size",
+      "Number of spectators",
+      "Crank brand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which race was first held in 1903?",
+    "choices": [
+      "Tour de France",
+      "Giro d'Italia",
+      "Vuelta a España",
+      "World road championship"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a bicycle's Q-factor?",
+    "choices": [
+      "Rear-wheel diameter",
+      "Lateral distance between pedal positions",
+      "Chain lubricant grade",
+      "Helmet shell thickness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which pursuit tactic has one rider set the pace while others shelter?",
+    "choices": [
+      "Individual attack",
+      "Team paceline",
+      "Corner braking",
+      "Reverse sprint"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why can a wider tire lower rolling resistance on rough roads?",
+    "choices": [
+      "It removes the chain",
+      "It conforms with less energy loss",
+      "It eliminates braking",
+      "It makes the frame shorter"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which rider won five consecutive Tour de France titles from 1991 to 1995?",
+    "choices": [
+      "Miguel Indurain",
+      "Eddy Merckx",
+      "Bernard Hinault",
+      "Jacques Anquetil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is the function of a freehub body?",
+    "choices": [
+      "Hold the saddle",
+      "Permit coasting while driving the cassette",
+      "Guide the front fork",
+      "Inflate the tube"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In a sprint, why do riders often slow before accelerating?",
+    "choices": [
+      "To cool the brakes",
+      "To force rivals into the wind",
+      "To repair spokes",
+      "To change race distance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which mountain-bike race format combines climbs, descents, and timed stages?",
+    "choices": [
+      "Track keirin",
+      "Enduro",
+      "Criterium",
+      "Individual pursuit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does lactate threshold broadly indicate?",
+    "choices": [
+      "Intensity sustainable before rapid fatigue",
+      "Maximum tire pressure",
+      "Frame resonance",
+      "Wheelbase limit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Paris-Roubaix feature is the Trouée d'Arenberg?",
+    "choices": [
+      "A summit finish",
+      "A famous cobbled sector",
+      "A velodrome lap",
+      "A team classification"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is supertuck positioning intended to reduce?",
+    "choices": [
+      "Pedal cadence",
+      "Aerodynamic drag while descending",
+      "Brake pad wear",
+      "Gear range"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which component stiffness most directly affects steering response?",
+    "choices": [
+      "Bottle cage",
+      "Front-end assembly",
+      "Rear reflector",
+      "Chain lubricant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who is associated with the invention of the modern safety bicycle?",
+    "choices": [
+      "John Kemp Starley",
+      "Gino Bartali",
+      "Fausto Coppi",
+      "Tom Simpson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a double-sided power meter designed to compare?",
+    "choices": [
+      "Two tire brands",
+      "Left- and right-leg contribution",
+      "Two race courses",
+      "Front and rear brakes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In crosswinds, why does an echelon form diagonally?",
+    "choices": [
+      "To avoid hills",
+      "To place riders in available shelter",
+      "To lengthen the race",
+      "To cool tires"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which historical race is known as the Hell of the North?",
+    "choices": [
+      "Milan-San Remo",
+      "Liège-Bastogne-Liège",
+      "Paris-Roubaix",
+      "Tour of Lombardy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a track cycling keirin?",
+    "choices": [
+      "A motor-paced sprint race",
+      "A mountain climb",
+      "A road team trial",
+      "A bicycle repair"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which rider is nicknamed the Cannibal?",
+    "choices": [
+      "Greg LeMond",
+      "Eddy Merckx",
+      "Peter Sagan",
+      "Chris Froome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does aerodynamic drag rise sharply with?",
+    "choices": [
+      "Chain lubrication",
+      "Rider speed",
+      "Bottle color",
+      "Spoke count only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which race includes the climb Alpe d'Huez?",
+    "choices": [
+      "Giro d'Italia",
+      "Vuelta a España",
+      "Tour de France",
+      "Tour of Flanders"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is wheel truing correcting?",
+    "choices": [
+      "Rim alignment",
+      "Gear indexing",
+      "Helmet fit",
+      "Saddle padding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which drafting position offers the greatest shelter in a calm paceline?",
+    "choices": [
+      "Several lengths behind",
+      "Immediately behind a rider",
+      "Beside the road",
+      "Ahead of the group"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What does a cycling negative split require?",
+    "choices": [
+      "Equal laps only",
+      "A faster latter portion",
+      "A shorter bicycle",
+      "No hydration"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which event is a one-day monument?",
+    "choices": [
+      "Tour de France",
+      "Giro d'Italia",
+      "Vuelta a España",
+      "Milan-San Remo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Why do cyclists warm up before maximal efforts?",
+    "choices": [
+      "To prepare muscles and cardiovascular system",
+      "To increase tire size",
+      "To reduce wheelbase",
+      "To change regulations"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a sealed cartridge bearing intended to reduce?",
+    "choices": [
+      "Pedal width",
+      "Contamination and maintenance",
+      "Aerodynamic lift",
+      "Race distance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which tactic lets a rider attack while teammates sit in the group?",
+    "choices": [
+      "Neutral service",
+      "Protected counterattack",
+      "Standing recovery",
+      "Wheel truing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does a bicycle torque wrench help prevent?",
+    "choices": [
+      "Crosswinds",
+      "Over- or under-tightening bolts",
+      "Chain direction",
+      "Road closures"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which cyclist won Olympic road gold in 1896?",
+    "choices": [
+      "Aristidis Konstantinidis",
+      "Eddy Merckx",
+      "Fausto Coppi",
+      "Bradley Wiggins"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is the primary purpose of a drop handlebar's hoods?",
+    "choices": [
+      "Store tools",
+      "Offer a brake-and-shift hand position",
+      "Increase wheel diameter",
+      "Lock the freehub"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Why can a compact crankset help recreational climbers?",
+    "choices": [
+      "It removes the rear gears",
+      "It provides smaller climbing ratios",
+      "It makes tires tubeless",
+      "It widens the handlebars"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which discipline uses a BMX race starting hill and short laps?",
+    "choices": [
+      "Road stage racing",
+      "BMX racing",
+      "Track pursuit",
+      "Cyclocross"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does overtraining syndrome commonly involve?",
+    "choices": [
+      "Persistent fatigue and performance decline",
+      "Faster recovery every day",
+      "Higher tire pressure",
+      "Shorter race rules"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which race traditionally crosses the Stelvio Pass?",
+    "choices": [
+      "Tour de France",
+      "Giro d'Italia",
+      "Paris-Roubaix",
+      "Milan-San Remo"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a bicycle's rake?",
+    "choices": [
+      "Fork offset from steering axis",
+      "Rear gear count",
+      "Tire pressure",
+      "Crank length"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which race is held on the Isle of Man?",
+    "choices": [
+      "Tour de France",
+      "Giro d'Italia",
+      "Tour of Flanders",
+      "Manx International Cycle Race"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  }
+]

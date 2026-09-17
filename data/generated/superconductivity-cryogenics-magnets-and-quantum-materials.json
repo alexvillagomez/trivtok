@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What electrical signature defines an ideal superconductor below its transition temperature?",
+    "choices": [
+      "Vanishing dc resistance",
+      "Increasing thermal resistance",
+      "Fixed Hall voltage",
+      "Permanent dielectric loss"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What magnetic behavior is the Meissner effect?",
+    "choices": [
+      "Flux expulsion from the bulk",
+      "Flux creation at the surface",
+      "Spin alignment in a normal metal",
+      "Heating during field ramping"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What does Tc denote for a superconducting material?",
+    "choices": [
+      "Its Curie temperature",
+      "Its critical temperature",
+      "Its coil temperature",
+      "Its condensation thickness"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which carrier pairing is central to conventional BCS superconductivity?",
+    "choices": [
+      "Paired phonons",
+      "Paired electrons",
+      "Paired photons",
+      "Paired nuclei"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which unit measures magnetic flux?",
+    "choices": [
+      "Tesla",
+      "Ampere",
+      "Weber",
+      "Kelvin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What happens to a type-II superconductor between its two critical fields?",
+    "choices": [
+      "It becomes a perfect insulator",
+      "It enters a mixed vortex state",
+      "It loses all magnetic order",
+      "It evaporates its condensate"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which coolant is commonly used near 4.2 K?",
+    "choices": [
+      "Liquid nitrogen",
+      "Liquid helium",
+      "Liquid argon",
+      "Liquid neon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the Josephson dc effect?",
+    "choices": [
+      "Voltage without current",
+      "Current across a junction at zero voltage",
+      "Heat flow through a resistor",
+      "Flux loss in a shield"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does a critical current represent?",
+    "choices": [
+      "The maximum lossless current",
+      "The minimum cooling current",
+      "The field-independent voltage",
+      "The normal-state resistance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which device uses superconducting loops to detect tiny flux changes?",
+    "choices": [
+      "MASER",
+      "SQUID",
+      "Klystron",
+      "Bolometer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the principal microscopic role of a phonon in conventional BCS theory?",
+    "choices": [
+      "It supplies nuclear charge",
+      "It mediates effective attraction",
+      "It removes magnetic flux",
+      "It fixes lattice spacing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which material is a well-known high-temperature cuprate superconductor?",
+    "choices": [
+      "NbTi",
+      "YBa2Cu3O7",
+      "Al2O3",
+      "FeSe2"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Why is a superconducting magnet usually operated below its critical temperature?",
+    "choices": [
+      "To preserve its superconducting state",
+      "To increase its electrical resistance",
+      "To suppress its magnetic field",
+      "To liquefy the conductor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is the London penetration depth?",
+    "choices": [
+      "A distance for phonon travel",
+      "A field-decay length inside a superconductor",
+      "A junction tunneling voltage",
+      "A cryostat wall thickness"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which isotope effect supports phonon involvement in conventional superconductors?",
+    "choices": [
+      "Tc rises with heavier isotopes",
+      "Tc depends on isotope mass",
+      "Flux quantization changes randomly",
+      "Resistance follows isotope charge"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is the elementary flux quantum approximately equal to?",
+    "choices": [
+      "h/e",
+      "2h/e",
+      "h/2e",
+      "e/h"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What distinguishes a type-I superconductor from a type-II material?",
+    "choices": [
+      "It has one main critical field",
+      "It has no Meissner response",
+      "It requires liquid nitrogen",
+      "It contains only paired ions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What causes quantized magnetic flux in a superconducting ring?",
+    "choices": [
+      "Random vortex pinning",
+      "Single-valued condensate phase",
+      "Classical eddy currents",
+      "Thermal expansion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which cryogen has a normal boiling point near 77 K?",
+    "choices": [
+      "Helium",
+      "Hydrogen",
+      "Nitrogen",
+      "Oxygen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does the ac Josephson relation connect?",
+    "choices": [
+      "Resistance and temperature",
+      "Frequency and applied voltage",
+      "Field and sample mass",
+      "Pressure and heat capacity"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is vortex pinning used for in a practical type-II conductor?",
+    "choices": [
+      "Reducing flux motion and dissipation",
+      "Increasing lattice vibrations",
+      "Eliminating the critical field",
+      "Creating normal-state electrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which measurement directly reveals a superconducting transition?",
+    "choices": [
+      "A resistance-versus-temperature curve",
+      "A room-pressure spectrum",
+      "A mass-only calibration",
+      "A color photograph"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a persistent-current switch enable?",
+    "choices": [
+      "Continuous cooling without a pump",
+      "A closed superconducting magnet circuit",
+      "A reversible isotope exchange",
+      "A room-temperature junction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which property makes superconductors useful for high-field magnets?",
+    "choices": [
+      "Large lossless current density",
+      "Large normal resistance",
+      "Weak magnetic response",
+      "Rapid vaporization"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "In Ginzburg\u2013Landau theory, what does the order-parameter magnitude describe?",
+    "choices": [
+      "Condensate amplitude",
+      "Cryogen pressure",
+      "Coil inductance",
+      "Lattice isotope count"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How is the type-I/type-II boundary expressed using the GL parameter \u03ba?",
+    "choices": [
+      "\u03ba=0",
+      "\u03ba=1/\u221a2",
+      "\u03ba=\u221a2",
+      "\u03ba=2"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is the lower critical field Hc1?",
+    "choices": [
+      "The field destroying all pairs",
+      "The field first admitting vortices",
+      "The field freezing helium",
+      "The field reversing current"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is the upper critical field Hc2?",
+    "choices": [
+      "The onset of isotope effects",
+      "The field at which superconductivity disappears",
+      "The minimum pinning field",
+      "The field of zero inductance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Why can a type-II superconductor carry current in a mixed state?",
+    "choices": [
+      "Pinned vortices limit their motion",
+      "Normal electrons vanish completely",
+      "Its lattice becomes amorphous",
+      "Its field is exactly zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What does the BCS energy gap separate?",
+    "choices": [
+      "Two cryogenic fluids",
+      "The condensate from quasiparticle excitations",
+      "Two magnetic poles",
+      "Two crystal grains"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which spectroscopic feature can estimate a superconducting gap?",
+    "choices": [
+      "A gap-edge coherence peak",
+      "A pressure plateau",
+      "A diffraction-free image",
+      "A boiling curve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is Andreev reflection at a normal-metal/superconductor interface?",
+    "choices": [
+      "A phonon scattering from helium",
+      "An electron-to-hole conversion associated with pair transfer",
+      "A vortex crossing event",
+      "A nuclear spin flip"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What sets the sign and magnitude of a Josephson critical current?",
+    "choices": [
+      "The junction coupling and phase relation",
+      "Only the cryostat height",
+      "Only the sample color",
+      "The vacuum pump speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a \u03c0-junction?",
+    "choices": [
+      "A junction with a phase shift of \u03c0",
+      "A junction at 3.14 kelvin",
+      "A junction with zero capacitance",
+      "A junction made from three electrodes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which effect can convert a Josephson junction into a voltage standard?",
+    "choices": [
+      "The ac Josephson effect",
+      "The isotope effect",
+      "The Seebeck effect",
+      "The Hall effect"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is flux creep?",
+    "choices": [
+      "Thermal motion of vortices through pinning barriers",
+      "Evaporation of trapped helium",
+      "Oscillation of Cooper-pair charge",
+      "Mechanical contraction of a coil"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which engineering quantity combines field and current limits in a magnet?",
+    "choices": [
+      "The load line",
+      "The Debye length",
+      "The Hall angle",
+      "The vapor pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Why are NbTi wires widely used in accelerator magnets?",
+    "choices": [
+      "They offer useful critical fields and ductility",
+      "They remain superconducting at room temperature",
+      "They contain no transition metal",
+      "They require no stabilizer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Why is copper stabilizer added to many superconducting wires?",
+    "choices": [
+      "To provide a safe current path during a quench",
+      "To eliminate magnetic flux quantization",
+      "To raise the helium boiling point",
+      "To create Cooper pairs directly"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a quench?",
+    "choices": [
+      "A controlled transition from superconduction to the normal state",
+      "A reversible flux quantum",
+      "A crystal-growth method",
+      "A helium purification cycle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which cryogenic principle enables a Joule\u2013Thomson refrigerator stage?",
+    "choices": [
+      "Expansion through a restriction changes enthalpy and temperature",
+      "A magnetic field creates phonons",
+      "A junction doubles its charge",
+      "A lattice loses all defects"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Why is liquid helium difficult to retain in an open vessel?",
+    "choices": [
+      "Its boiling point is very low",
+      "It is chemically reactive with copper",
+      "It freezes above room temperature",
+      "It has unusually high viscosity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a dilution refrigerator\u2019s coldest-stage mixture?",
+    "choices": [
+      "Helium-3 and helium-4",
+      "Nitrogen and oxygen",
+      "Hydrogen and deuterium",
+      "Neon and argon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What powers cooling in the mixing chamber of a dilution refrigerator?",
+    "choices": [
+      "The enthalpy change across the He-3 phase boundary",
+      "Vortex annihilation",
+      "Coil resistance heating",
+      "A Josephson voltage pulse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a SQUID measure most directly?",
+    "choices": [
+      "Magnetic flux or flux changes",
+      "Absolute temperature only",
+      "Crystal density only",
+      "Helium isotope abundance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Why are SQUIDs exceptionally sensitive?",
+    "choices": [
+      "Their interference response converts tiny flux changes to signals",
+      "Their resistance is deliberately very high",
+      "They exclude every electromagnetic field",
+      "Their junctions contain no phase"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is a flux transformer in a superconducting magnetometer?",
+    "choices": [
+      "A superconducting pickup circuit coupled to a SQUID",
+      "A normal resistor that heats helium",
+      "A compressor for cryogen gas",
+      "A crystal that changes isotope"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is kinetic inductance?",
+    "choices": [
+      "Inductance arising from inertia of charge carriers",
+      "Inductance caused only by iron cores",
+      "The heat capacity of helium",
+      "The resistance of a vortex"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the main microscopic order in a conventional s-wave superconductor?",
+    "choices": [
+      "An isotropic pair amplitude",
+      "A purely magnetic dipole array",
+      "A charge-density wave only",
+      "A lattice of unpaired holes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does d-wave pairing imply for many cuprates?",
+    "choices": [
+      "Anisotropic gap with nodes",
+      "A gap independent of direction",
+      "No phase coherence",
+      "Only phonon-free transport"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Why do cuprate superconductors often require careful oxygen control?",
+    "choices": [
+      "Oxygen stoichiometry tunes carrier concentration",
+      "Oxygen supplies all magnetic flux",
+      "Oxygen prevents any lattice distortion",
+      "Oxygen fixes the helium pressure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which structural feature is characteristic of many iron-based superconductors?",
+    "choices": [
+      "Fe pnictide or chalcogenide layers",
+      "Pure helium planes",
+      "Aluminum-oxide chains only",
+      "Molecular hydrogen cages only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is nematicity in a quantum material?",
+    "choices": [
+      "Rotational-symmetry breaking without simple translational order",
+      "A complete loss of all symmetry",
+      "A helium phase transition",
+      "A vortex with zero radius"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a pseudogap in cuprate research?",
+    "choices": [
+      "A partial spectral suppression above Tc",
+      "A second boiling point of helium",
+      "A magnetic field calibration",
+      "A fully metallic gapless state"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is unconventional superconductivity primarily distinguished by?",
+    "choices": [
+      "Pairing not adequately explained by simple phonon BCS theory",
+      "Absence of phase coherence",
+      "Mandatory room-temperature operation",
+      "A lack of any energy gap"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does muon spin rotation (\u03bcSR) probe in a superconductor?",
+    "choices": [
+      "Internal magnetic-field distributions",
+      "Only surface roughness",
+      "Cryostat vibration frequency",
+      "Gas-flow impedance"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What can scanning tunneling spectroscopy map on a superconducting surface?",
+    "choices": [
+      "Local density of states and gap structure",
+      "Bulk helium viscosity",
+      "Coil winding tension",
+      "Only total sample mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the purpose of a four-probe resistance measurement?",
+    "choices": [
+      "It removes lead-contact resistance from the voltage reading",
+      "It doubles the sample\u2019s critical field",
+      "It measures only magnetic susceptibility",
+      "It prevents any current flow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why is contact resistance problematic in a two-probe transition measurement?",
+    "choices": [
+      "It can obscure the sample\u2019s small resistance",
+      "It creates flux quanta directly",
+      "It raises Tc by isotope substitution",
+      "It pins every vortex"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does magnetization hysteresis in a type-II sample often indicate?",
+    "choices": [
+      "Irreversible vortex pinning",
+      "A perfectly reversible normal metal",
+      "No magnetic field inside",
+      "A failed thermometer only"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How can critical current density be estimated from a magnetic hysteresis loop?",
+    "choices": [
+      "Using a critical-state model such as Bean\u2019s model",
+      "Using the helium vapor pressure alone",
+      "Using optical color contrast",
+      "Using isotope mass alone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the thermodynamic critical field related to?",
+    "choices": [
+      "The free-energy difference between superconducting and normal states",
+      "The wire\u2019s copper fraction only",
+      "The pump\u2019s rotational speed",
+      "The sample\u2019s optical band color"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is Pauli paramagnetic limiting?",
+    "choices": [
+      "Pair breaking by Zeeman spin polarization",
+      "Vortex pinning by lattice defects",
+      "Flux quantization in a ring",
+      "Cooling by isotope dilution"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is orbital limiting of superconductivity?",
+    "choices": [
+      "Pair breaking from field-induced orbital motion",
+      "Pair creation from pressure",
+      "Suppression of phonons by copper",
+      "A change in helium density"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a Fulde\u2013Ferrell\u2013Larkin\u2013Ovchinnikov state?",
+    "choices": [
+      "A spatially modulated superconducting pair state",
+      "A normal-state Hall plateau",
+      "A cryogenic phase of helium-4",
+      "A vortex-free type-I state"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a topological superconductor sought to host?",
+    "choices": [
+      "Protected boundary modes such as Majorana states",
+      "Only ordinary phonons",
+      "A classical magnetic monopole",
+      "A room-temperature helium phase"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why are Majorana zero modes interesting for quantum information?",
+    "choices": [
+      "Their nonlocal encoding may suppress certain local errors",
+      "They eliminate the need for cooling",
+      "They carry arbitrary classical voltage",
+      "They are ordinary photons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a Weyl node in a semimetal?",
+    "choices": [
+      "A momentum-space band crossing with chiral charge",
+      "A real-space vortex core",
+      "A cryostat pressure valve",
+      "A Cooper-pair molecule"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a Fermi arc?",
+    "choices": [
+      "An open surface state connecting projected Weyl nodes",
+      "A closed phonon orbit in helium",
+      "A superconducting wire splice",
+      "A normal-metal contact pad"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does quantum oscillation frequency reveal about a Fermi surface?",
+    "choices": [
+      "An extremal orbit area in momentum space",
+      "The helium mixture ratio",
+      "The vortex core temperature",
+      "The coil\u2019s copper purity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the de Haas\u2013van Alphen effect?",
+    "choices": [
+      "Magnetization oscillations versus inverse magnetic field",
+      "Resistance disappearance at Tc",
+      "Flux expulsion during cooling",
+      "Heat flow through a junction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is Shubnikov\u2013de Haas oscillation?",
+    "choices": [
+      "Magnetoresistance oscillation versus inverse field",
+      "A Josephson phase jump",
+      "A helium crystallization wave",
+      "A vortex-pinning defect"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a moir\u00e9 superconductor?",
+    "choices": [
+      "A superconducting state in a long-period twisted-layer pattern",
+      "A bulk alloy made only of helium",
+      "A magnet with no crystal lattice",
+      "A junction lacking any phase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How can twist angle tune a moir\u00e9 material?",
+    "choices": [
+      "It changes the moir\u00e9 period and electronic bands",
+      "It changes helium\u2019s isotope mass",
+      "It removes all disorder automatically",
+      "It fixes the applied voltage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a flat band relevant to correlated quantum matter?",
+    "choices": [
+      "A band with weak dispersion and enhanced interaction effects",
+      "A band with no electrons",
+      "A magnetically flat sample surface",
+      "A cryogen pressure plateau"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a quantum spin liquid?",
+    "choices": [
+      "A frustrated magnetic state lacking conventional order",
+      "A liquid helium mixture with spinless atoms",
+      "A superconducting vortex fluid only",
+      "A metallic state with fixed spins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is geometric frustration in a magnetic lattice?",
+    "choices": [
+      "Interactions cannot all be simultaneously minimized",
+      "All spins align at zero field",
+      "The lattice has no repeating unit",
+      "The sample cannot be cooled"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is Kondo screening?",
+    "choices": [
+      "Conduction electrons screen a localized magnetic moment",
+      "Vortices screen a superconducting current",
+      "Helium screens electric charge",
+      "Phonons screen pressure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a heavy-fermion superconductor?",
+    "choices": [
+      "A correlated material with strongly enhanced quasiparticle mass",
+      "A conductor made from heavy cryogen gas",
+      "A type-I alloy with massive vortices",
+      "A material with no Fermi surface"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why are heavy-fermion systems useful for studying unconventional pairing?",
+    "choices": [
+      "Their magnetic and superconducting orders can compete closely",
+      "They operate without a cryostat",
+      "Their gap is always isotropic",
+      "They contain no correlated electrons"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a quantum critical point?",
+    "choices": [
+      "A zero-temperature continuous transition tuned by a parameter",
+      "A critical field measured at room temperature",
+      "A cryogen\u2019s boiling endpoint",
+      "A junction\u2019s maximum voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is strange-metal behavior commonly associated with?",
+    "choices": [
+      "Non-Fermi-liquid transport near correlated regimes",
+      "Perfect insulating behavior at all temperatures",
+      "A fixed classical Hall coefficient",
+      "Absence of electronic scattering"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the main advantage of MRI superconducting magnets?",
+    "choices": [
+      "Stable strong fields with low steady-state resistive loss",
+      "Operation without magnetic shielding",
+      "No need for field homogeneity",
+      "Large voltage at zero current"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why do accelerator dipole magnets require field uniformity?",
+    "choices": [
+      "To steer particle beams predictably",
+      "To boil helium faster",
+      "To suppress all synchrotron radiation",
+      "To eliminate beam momentum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a superconducting fault-current limiter designed to do?",
+    "choices": [
+      "Rapidly increase impedance during a fault",
+      "Permanently short a power grid",
+      "Cool a magnet below 1 K",
+      "Generate particle beams"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What makes a superconducting power cable attractive?",
+    "choices": [
+      "High current capacity with compact low-loss transmission",
+      "High resistance at operating current",
+      "Inability to carry dc",
+      "A requirement for vacuum insulation only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What does magnetic shielding by a superconducting enclosure rely on?",
+    "choices": [
+      "Screening currents that oppose changing or penetrating fields",
+      "Ferromagnetic saturation alone",
+      "Heating the enclosure above Tc",
+      "Removing all external field sources"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the operating principle of a superconducting gravimeter?",
+    "choices": [
+      "A levitated superconducting sphere senses tiny gravitational changes",
+      "A helium bubble measures atmospheric pressure",
+      "A vortex emits calibrated light",
+      "A copper coil measures isotope mass"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does a superconducting transition-edge sensor exploit?",
+    "choices": [
+      "A steep resistance change near its transition",
+      "A constant resistance far above Tc",
+      "Flux expulsion from a ceramic lens",
+      "A room-temperature Josephson voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a kinetic-inductance detector especially useful for?",
+    "choices": [
+      "Detecting absorbed radiation through resonator-frequency shifts",
+      "Measuring only bulk density",
+      "Generating liquid helium",
+      "Stabilizing accelerator orbits"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Why are superconducting nanowire detectors valued in photon counting?",
+    "choices": [
+      "They provide fast, sensitive single-photon detection",
+      "They operate best above 500 K",
+      "They require no bias current",
+      "They detect only magnetic flux"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is proximity effect in a hybrid superconducting device?",
+    "choices": [
+      "Superconducting correlations extend into an adjacent normal material",
+      "Normal resistance extends through liquid helium",
+      "Vortices leave every interface",
+      "Phonons disappear at a junction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a Josephson junction\u2019s washboard potential model used to describe?",
+    "choices": [
+      "Phase dynamics under bias, damping, and noise",
+      "Helium evaporation in a still",
+      "Crystal growth under pressure",
+      "Fermi-arc topology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is phase slip in a narrow superconducting wire?",
+    "choices": [
+      "A localized change of condensate phase by 2\u03c0",
+      "A permanent loss of crystal periodicity",
+      "A helium isotope conversion",
+      "A magnetic-field calibration error"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is the quantum of resistance associated with Cooper-pair transport?",
+    "choices": [
+      "h/(2e)^2",
+      "h/e",
+      "2e/h",
+      "h/(3e)^2"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.96
+  },
+  {
+    "text": "Why can a qubit use a Josephson junction as a nonlinear element?",
+    "choices": [
+      "Its current-phase relation supplies anharmonic energy levels",
+      "Its resistance is infinite at all biases",
+      "Its phonons erase quantum states",
+      "Its field is always perfectly uniform"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is flux noise in a superconducting qubit?",
+    "choices": [
+      "Unwanted fluctuations in magnetic flux coupling to the circuit",
+      "A deliberate increase of critical current",
+      "A cryogen pressure oscillation only",
+      "A fixed Josephson frequency"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is quasiparticle poisoning?",
+    "choices": [
+      "Nonequilibrium quasiparticles entering and degrading a superconducting device",
+      "Helium atoms entering a vacuum pump",
+      "Vortices improving coherence",
+      "Phonons increasing Tc"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does a transmon qubit primarily trade for charge-noise insensitivity?",
+    "choices": [
+      "Reduced anharmonicity",
+      "Reduced phase coherence",
+      "Higher magnetic hysteresis",
+      "Complete flux quantization loss"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a Majorana nanowire platform typically engineered from?",
+    "choices": [
+      "A spin\u2013orbit-coupled semiconductor proximitized by a superconductor",
+      "A type-I lead rod in liquid nitrogen",
+      "A pure ferromagnet without pairing",
+      "A helium crystal with no electrons"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  }
+]

@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What primarily drives the supersonic solar wind?",
+    "choices": [
+      "Coronal pressure gradients",
+      "Lunar tidal heating",
+      "Terrestrial volcanism",
+      "Jovian radio bursts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which solar layer is the usual source of the slow solar wind?",
+    "choices": [
+      "Photospheric granules",
+      "Coronal streamers",
+      "Chromospheric plages",
+      "Sunspot penumbrae"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What is a coronal mass ejection?",
+    "choices": [
+      "A periodic acoustic wave",
+      "A meteoroid vapor trail",
+      "An expelled magnetized plasma cloud",
+      "A local ozone depletion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.14
+  },
+  {
+    "text": "What does a solar flare release most directly?",
+    "choices": [
+      "A permanent solar rotation change",
+      "A global lunar magnetic field",
+      "A terrestrial mantle plume",
+      "Electromagnetic radiation and energetic particles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the heliopause?",
+    "choices": [
+      "The boundary where solar wind yields to interstellar plasma",
+      "The center of the solar dynamo",
+      "The edge of Earth's ionosphere",
+      "The outer surface of a sunspot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which particles dominate the solar wind?",
+    "choices": [
+      "Neutrons and muons",
+      "Protons and electrons",
+      "Dust grains and atoms",
+      "Positrons and antiprotons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What is a sunspot's defining property?",
+    "choices": [
+      "A cavity in the solar atmosphere",
+      "A crater on the photosphere",
+      "A concentrated, strong magnetic field",
+      "A region of reduced solar gravity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Why is the solar corona much hotter than the photosphere?",
+    "choices": [
+      "Convection stops above the photosphere",
+      "The corona is closer to the solar core",
+      "Solar gravity reverses in the corona",
+      "Magnetic energy is deposited through coronal heating processes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is solar wind dynamic pressure proportional to?",
+    "choices": [
+      "Mass density times speed squared",
+      "Temperature divided by magnetic field",
+      "Wavelength times photon flux",
+      "Charge density minus plasma beta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which spacecraft samples the solar wind near Earth?",
+    "choices": [
+      "Hubble",
+      "ACE",
+      "Landsat 8",
+      "Juno at Jupiter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What is a Parker spiral?",
+    "choices": [
+      "A spiral sunspot seen in white light",
+      "A cyclone in Earth's thermosphere",
+      "The heliospheric magnetic field pattern shaped by solar rotation",
+      "A ray pattern from a lunar eclipse"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which solar-wind structure commonly co-rotates with the Sun?",
+    "choices": [
+      "A photospheric supergranule",
+      "A flare ribbon",
+      "A polar coronal hole",
+      "A corotating interaction region"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What is a coronal hole?",
+    "choices": [
+      "A dark, open-field region producing fast wind",
+      "A deep cavity beneath a sunspot",
+      "A radio shadow behind a CME",
+      "A gap in Earth's radiation belts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does plasma beta compare?",
+    "choices": [
+      "Electron mass with proton mass",
+      "Thermal pressure with magnetic pressure",
+      "Solar flux with lunar flux",
+      "Particle speed with escape velocity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Why can a CME produce a geomagnetic storm?",
+    "choices": [
+      "Its photons permanently ionize the crust",
+      "Its dust blocks all sunlight",
+      "Its magnetic field and pressure disturb Earth's magnetosphere",
+      "Its gravity changes Earth's orbit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What is magnetic reconnection?",
+    "choices": [
+      "A collision that creates new magnetic monopoles",
+      "A rotation of an entire planet",
+      "A reflection of radio waves by clouds",
+      "A topological rearrangement that converts magnetic energy into plasma energy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Where does dayside reconnection occur?",
+    "choices": [
+      "Near the magnetopause where fields are oppositely directed",
+      "Inside the terrestrial core",
+      "Above the lunar farside",
+      "Within the solar photosphere only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What forms Earth's bow shock?",
+    "choices": [
+      "A meteor shower entering the atmosphere",
+      "Supersonic solar wind encountering the magnetosphere",
+      "A tidal wave in the ionosphere",
+      "A reflected auroral current"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is the magnetosheath?",
+    "choices": [
+      "The inner radiation belt",
+      "The neutral lower atmosphere",
+      "The shocked solar-wind region between bow shock and magnetopause",
+      "The solar-wind source surface"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is the magnetotail?",
+    "choices": [
+      "A cometary dust plume",
+      "The polar ionosphere's lower boundary",
+      "The trailing edge of a sunspot",
+      "The nightside extension of Earth's stretched magnetic field"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which region shields low-altitude satellites from much solar-wind energy?",
+    "choices": [
+      "The terrestrial magnetosphere",
+      "The stratospheric ozone layer",
+      "The lunar regolith",
+      "The solar convection zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What produces the main oval of aurora?",
+    "choices": [
+      "Reflected visible sunlight",
+      "Precipitating magnetospheric electrons and ions",
+      "Volcanic ash fluorescence",
+      "Cosmic microwave background photons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Why are auroras concentrated near magnetic poles?",
+    "choices": [
+      "Polar air is always colder",
+      "The poles receive more sunlight",
+      "Field geometry guides charged particles along polar field lines",
+      "Earth's rotation stops there"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What color commonly comes from atomic oxygen near 557.7 nanometers?",
+    "choices": [
+      "Deep violet",
+      "Orange-red at 630.0 nanometers",
+      "Infrared beyond 10 micrometers",
+      "Green"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.12
+  },
+  {
+    "text": "What is an auroral substorm?",
+    "choices": [
+      "A rapid reconfiguration that releases stored magnetotail energy",
+      "A daily solar eclipse",
+      "A reversal of Earth's geographic poles",
+      "A permanent collapse of the ionosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.13
+  },
+  {
+    "text": "What primarily drives the supersonic solar wind?",
+    "choices": [
+      "Lunar tidal heating",
+      "Coronal pressure gradients",
+      "Terrestrial volcanism",
+      "Jovian radio bursts"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which solar layer is the usual source of the slow solar wind?",
+    "choices": [
+      "Photospheric granules",
+      "Chromospheric plages",
+      "Coronal streamers",
+      "Sunspot penumbrae"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is a coronal mass ejection?",
+    "choices": [
+      "A periodic acoustic wave",
+      "A meteoroid vapor trail",
+      "A local ozone depletion",
+      "An expelled magnetized plasma cloud"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does a solar flare release most directly?",
+    "choices": [
+      "Electromagnetic radiation and energetic particles",
+      "A permanent solar rotation change",
+      "A global lunar magnetic field",
+      "A terrestrial mantle plume"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is the heliopause?",
+    "choices": [
+      "The center of the solar dynamo",
+      "The boundary where solar wind yields to interstellar plasma",
+      "The edge of Earth's ionosphere",
+      "The outer surface of a sunspot"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which particles dominate the solar wind?",
+    "choices": [
+      "Neutrons and muons",
+      "Dust grains and atoms",
+      "Protons and electrons",
+      "Positrons and antiprotons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a sunspot's defining property?",
+    "choices": [
+      "A cavity in the solar atmosphere",
+      "A crater on the photosphere",
+      "A region of reduced solar gravity",
+      "A concentrated, strong magnetic field"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Why is the solar corona much hotter than the photosphere?",
+    "choices": [
+      "Magnetic energy is deposited through coronal heating processes",
+      "Convection stops above the photosphere",
+      "The corona is closer to the solar core",
+      "Solar gravity reverses in the corona"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is solar wind dynamic pressure proportional to?",
+    "choices": [
+      "Temperature divided by magnetic field",
+      "Mass density times speed squared",
+      "Wavelength times photon flux",
+      "Charge density minus plasma beta"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which spacecraft samples the solar wind near Earth?",
+    "choices": [
+      "Hubble",
+      "Landsat 8",
+      "ACE",
+      "Juno at Jupiter"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a Parker spiral?",
+    "choices": [
+      "A spiral sunspot seen in white light",
+      "A cyclone in Earth's thermosphere",
+      "A ray pattern from a lunar eclipse",
+      "The heliospheric magnetic field pattern shaped by solar rotation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which solar-wind structure commonly co-rotates with the Sun?",
+    "choices": [
+      "A corotating interaction region",
+      "A photospheric supergranule",
+      "A flare ribbon",
+      "A polar coronal hole"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is a coronal hole?",
+    "choices": [
+      "A deep cavity beneath a sunspot",
+      "A dark, open-field region producing fast wind",
+      "A radio shadow behind a CME",
+      "A gap in Earth's radiation belts"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does plasma beta compare?",
+    "choices": [
+      "Electron mass with proton mass",
+      "Solar flux with lunar flux",
+      "Thermal pressure with magnetic pressure",
+      "Particle speed with escape velocity"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Why can a CME produce a geomagnetic storm?",
+    "choices": [
+      "Its photons permanently ionize the crust",
+      "Its dust blocks all sunlight",
+      "Its gravity changes Earth's orbit",
+      "Its magnetic field and pressure disturb Earth's magnetosphere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is magnetic reconnection?",
+    "choices": [
+      "A topological rearrangement that converts magnetic energy into plasma energy",
+      "A collision that creates new magnetic monopoles",
+      "A rotation of an entire planet",
+      "A reflection of radio waves by clouds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Where does dayside reconnection occur?",
+    "choices": [
+      "Inside the terrestrial core",
+      "Near the magnetopause where fields are oppositely directed",
+      "Above the lunar farside",
+      "Within the solar photosphere only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What forms Earth's bow shock?",
+    "choices": [
+      "A meteor shower entering the atmosphere",
+      "A tidal wave in the ionosphere",
+      "Supersonic solar wind encountering the magnetosphere",
+      "A reflected auroral current"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What is the magnetosheath?",
+    "choices": [
+      "The inner radiation belt",
+      "The neutral lower atmosphere",
+      "The solar-wind source surface",
+      "The shocked solar-wind region between bow shock and magnetopause"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the magnetotail?",
+    "choices": [
+      "The nightside extension of Earth's stretched magnetic field",
+      "A cometary dust plume",
+      "The polar ionosphere's lower boundary",
+      "The trailing edge of a sunspot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which region shields low-altitude satellites from much solar-wind energy?",
+    "choices": [
+      "The stratospheric ozone layer",
+      "The terrestrial magnetosphere",
+      "The lunar regolith",
+      "The solar convection zone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What produces the main oval of aurora?",
+    "choices": [
+      "Reflected visible sunlight",
+      "Volcanic ash fluorescence",
+      "Precipitating magnetospheric electrons and ions",
+      "Cosmic microwave background photons"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Why are auroras concentrated near magnetic poles?",
+    "choices": [
+      "Polar air is always colder",
+      "The poles receive more sunlight",
+      "Earth's rotation stops there",
+      "Field geometry guides charged particles along polar field lines"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What color commonly comes from atomic oxygen near 557.7 nanometers?",
+    "choices": [
+      "Green",
+      "Deep violet",
+      "Orange-red at 630.0 nanometers",
+      "Infrared beyond 10 micrometers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is an auroral substorm?",
+    "choices": [
+      "A daily solar eclipse",
+      "A rapid reconfiguration that releases stored magnetotail energy",
+      "A reversal of Earth's geographic poles",
+      "A permanent collapse of the ionosphere"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What primarily drives the supersonic solar wind?",
+    "choices": [
+      "Lunar tidal heating",
+      "Terrestrial volcanism",
+      "Coronal pressure gradients",
+      "Jovian radio bursts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which solar layer is the usual source of the slow solar wind?",
+    "choices": [
+      "Photospheric granules",
+      "Chromospheric plages",
+      "Sunspot penumbrae",
+      "Coronal streamers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a coronal mass ejection?",
+    "choices": [
+      "An expelled magnetized plasma cloud",
+      "A periodic acoustic wave",
+      "A meteoroid vapor trail",
+      "A local ozone depletion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does a solar flare release most directly?",
+    "choices": [
+      "A permanent solar rotation change",
+      "Electromagnetic radiation and energetic particles",
+      "A global lunar magnetic field",
+      "A terrestrial mantle plume"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the heliopause?",
+    "choices": [
+      "The center of the solar dynamo",
+      "The edge of Earth's ionosphere",
+      "The boundary where solar wind yields to interstellar plasma",
+      "The outer surface of a sunspot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which particles dominate the solar wind?",
+    "choices": [
+      "Neutrons and muons",
+      "Dust grains and atoms",
+      "Positrons and antiprotons",
+      "Protons and electrons"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a sunspot's defining property?",
+    "choices": [
+      "A concentrated, strong magnetic field",
+      "A cavity in the solar atmosphere",
+      "A crater on the photosphere",
+      "A region of reduced solar gravity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Why is the solar corona much hotter than the photosphere?",
+    "choices": [
+      "Convection stops above the photosphere",
+      "Magnetic energy is deposited through coronal heating processes",
+      "The corona is closer to the solar core",
+      "Solar gravity reverses in the corona"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is solar wind dynamic pressure proportional to?",
+    "choices": [
+      "Temperature divided by magnetic field",
+      "Wavelength times photon flux",
+      "Mass density times speed squared",
+      "Charge density minus plasma beta"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which spacecraft samples the solar wind near Earth?",
+    "choices": [
+      "Hubble",
+      "Landsat 8",
+      "Juno at Jupiter",
+      "ACE"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a Parker spiral?",
+    "choices": [
+      "The heliospheric magnetic field pattern shaped by solar rotation",
+      "A spiral sunspot seen in white light",
+      "A cyclone in Earth's thermosphere",
+      "A ray pattern from a lunar eclipse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which solar-wind structure commonly co-rotates with the Sun?",
+    "choices": [
+      "A photospheric supergranule",
+      "A corotating interaction region",
+      "A flare ribbon",
+      "A polar coronal hole"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a coronal hole?",
+    "choices": [
+      "A deep cavity beneath a sunspot",
+      "A radio shadow behind a CME",
+      "A dark, open-field region producing fast wind",
+      "A gap in Earth's radiation belts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does plasma beta compare?",
+    "choices": [
+      "Electron mass with proton mass",
+      "Solar flux with lunar flux",
+      "Particle speed with escape velocity",
+      "Thermal pressure with magnetic pressure"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Why can a CME produce a geomagnetic storm?",
+    "choices": [
+      "Its magnetic field and pressure disturb Earth's magnetosphere",
+      "Its photons permanently ionize the crust",
+      "Its dust blocks all sunlight",
+      "Its gravity changes Earth's orbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is magnetic reconnection?",
+    "choices": [
+      "A collision that creates new magnetic monopoles",
+      "A topological rearrangement that converts magnetic energy into plasma energy",
+      "A rotation of an entire planet",
+      "A reflection of radio waves by clouds"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Where does dayside reconnection occur?",
+    "choices": [
+      "Inside the terrestrial core",
+      "Above the lunar farside",
+      "Near the magnetopause where fields are oppositely directed",
+      "Within the solar photosphere only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What forms Earth's bow shock?",
+    "choices": [
+      "A meteor shower entering the atmosphere",
+      "A tidal wave in the ionosphere",
+      "A reflected auroral current",
+      "Supersonic solar wind encountering the magnetosphere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the magnetosheath?",
+    "choices": [
+      "The shocked solar-wind region between bow shock and magnetopause",
+      "The inner radiation belt",
+      "The neutral lower atmosphere",
+      "The solar-wind source surface"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the magnetotail?",
+    "choices": [
+      "A cometary dust plume",
+      "The nightside extension of Earth's stretched magnetic field",
+      "The polar ionosphere's lower boundary",
+      "The trailing edge of a sunspot"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which region shields low-altitude satellites from much solar-wind energy?",
+    "choices": [
+      "The stratospheric ozone layer",
+      "The lunar regolith",
+      "The terrestrial magnetosphere",
+      "The solar convection zone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What produces the main oval of aurora?",
+    "choices": [
+      "Reflected visible sunlight",
+      "Volcanic ash fluorescence",
+      "Cosmic microwave background photons",
+      "Precipitating magnetospheric electrons and ions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why are auroras concentrated near magnetic poles?",
+    "choices": [
+      "Field geometry guides charged particles along polar field lines",
+      "Polar air is always colder",
+      "The poles receive more sunlight",
+      "Earth's rotation stops there"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What color commonly comes from atomic oxygen near 557.7 nanometers?",
+    "choices": [
+      "Deep violet",
+      "Green",
+      "Orange-red at 630.0 nanometers",
+      "Infrared beyond 10 micrometers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is an auroral substorm?",
+    "choices": [
+      "A daily solar eclipse",
+      "A reversal of Earth's geographic poles",
+      "A rapid reconfiguration that releases stored magnetotail energy",
+      "A permanent collapse of the ionosphere"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What primarily drives the supersonic solar wind?",
+    "choices": [
+      "Lunar tidal heating",
+      "Terrestrial volcanism",
+      "Jovian radio bursts",
+      "Coronal pressure gradients"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which solar layer is the usual source of the slow solar wind?",
+    "choices": [
+      "Coronal streamers",
+      "Photospheric granules",
+      "Chromospheric plages",
+      "Sunspot penumbrae"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is a coronal mass ejection?",
+    "choices": [
+      "A periodic acoustic wave",
+      "An expelled magnetized plasma cloud",
+      "A meteoroid vapor trail",
+      "A local ozone depletion"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does a solar flare release most directly?",
+    "choices": [
+      "A permanent solar rotation change",
+      "A global lunar magnetic field",
+      "Electromagnetic radiation and energetic particles",
+      "A terrestrial mantle plume"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is the heliopause?",
+    "choices": [
+      "The center of the solar dynamo",
+      "The edge of Earth's ionosphere",
+      "The outer surface of a sunspot",
+      "The boundary where solar wind yields to interstellar plasma"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which particles dominate the solar wind?",
+    "choices": [
+      "Protons and electrons",
+      "Neutrons and muons",
+      "Dust grains and atoms",
+      "Positrons and antiprotons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a sunspot's defining property?",
+    "choices": [
+      "A cavity in the solar atmosphere",
+      "A concentrated, strong magnetic field",
+      "A crater on the photosphere",
+      "A region of reduced solar gravity"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Why is the solar corona much hotter than the photosphere?",
+    "choices": [
+      "Convection stops above the photosphere",
+      "The corona is closer to the solar core",
+      "Magnetic energy is deposited through coronal heating processes",
+      "Solar gravity reverses in the corona"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is solar wind dynamic pressure proportional to?",
+    "choices": [
+      "Temperature divided by magnetic field",
+      "Wavelength times photon flux",
+      "Charge density minus plasma beta",
+      "Mass density times speed squared"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.96
+  },
+  {
+    "text": "Which spacecraft samples the solar wind near Earth?",
+    "choices": [
+      "ACE",
+      "Hubble",
+      "Landsat 8",
+      "Juno at Jupiter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a Parker spiral?",
+    "choices": [
+      "A spiral sunspot seen in white light",
+      "The heliospheric magnetic field pattern shaped by solar rotation",
+      "A cyclone in Earth's thermosphere",
+      "A ray pattern from a lunar eclipse"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which solar-wind structure commonly co-rotates with the Sun?",
+    "choices": [
+      "A photospheric supergranule",
+      "A flare ribbon",
+      "A corotating interaction region",
+      "A polar coronal hole"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is a coronal hole?",
+    "choices": [
+      "A deep cavity beneath a sunspot",
+      "A radio shadow behind a CME",
+      "A gap in Earth's radiation belts",
+      "A dark, open-field region producing fast wind"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does plasma beta compare?",
+    "choices": [
+      "Thermal pressure with magnetic pressure",
+      "Electron mass with proton mass",
+      "Solar flux with lunar flux",
+      "Particle speed with escape velocity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Why can a CME produce a geomagnetic storm?",
+    "choices": [
+      "Its photons permanently ionize the crust",
+      "Its magnetic field and pressure disturb Earth's magnetosphere",
+      "Its dust blocks all sunlight",
+      "Its gravity changes Earth's orbit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is magnetic reconnection?",
+    "choices": [
+      "A collision that creates new magnetic monopoles",
+      "A rotation of an entire planet",
+      "A topological rearrangement that converts magnetic energy into plasma energy",
+      "A reflection of radio waves by clouds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Where does dayside reconnection occur?",
+    "choices": [
+      "Inside the terrestrial core",
+      "Above the lunar farside",
+      "Within the solar photosphere only",
+      "Near the magnetopause where fields are oppositely directed"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What forms Earth's bow shock?",
+    "choices": [
+      "Supersonic solar wind encountering the magnetosphere",
+      "A meteor shower entering the atmosphere",
+      "A tidal wave in the ionosphere",
+      "A reflected auroral current"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is the magnetosheath?",
+    "choices": [
+      "The inner radiation belt",
+      "The shocked solar-wind region between bow shock and magnetopause",
+      "The neutral lower atmosphere",
+      "The solar-wind source surface"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What is the magnetotail?",
+    "choices": [
+      "A cometary dust plume",
+      "The polar ionosphere's lower boundary",
+      "The nightside extension of Earth's stretched magnetic field",
+      "The trailing edge of a sunspot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which region shields low-altitude satellites from much solar-wind energy?",
+    "choices": [
+      "The stratospheric ozone layer",
+      "The lunar regolith",
+      "The solar convection zone",
+      "The terrestrial magnetosphere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What produces the main oval of aurora?",
+    "choices": [
+      "Precipitating magnetospheric electrons and ions",
+      "Reflected visible sunlight",
+      "Volcanic ash fluorescence",
+      "Cosmic microwave background photons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Why are auroras concentrated near magnetic poles?",
+    "choices": [
+      "Polar air is always colder",
+      "Field geometry guides charged particles along polar field lines",
+      "The poles receive more sunlight",
+      "Earth's rotation stops there"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.96
+  },
+  {
+    "text": "What color commonly comes from atomic oxygen near 557.7 nanometers?",
+    "choices": [
+      "Deep violet",
+      "Orange-red at 630.0 nanometers",
+      "Green",
+      "Infrared beyond 10 micrometers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is an auroral substorm?",
+    "choices": [
+      "A daily solar eclipse",
+      "A reversal of Earth's geographic poles",
+      "A permanent collapse of the ionosphere",
+      "A rapid reconfiguration that releases stored magnetotail energy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  }
+]

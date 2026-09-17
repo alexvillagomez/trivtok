@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What can a smartphone do?",
+    "choices": [
+      "Make calls",
+      "Print newspapers",
+      "Measure earthquakes",
+      "Bake bread"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does a keyboard provide?",
+    "choices": [
+      "Screen light",
+      "Text input",
+      "Internet service",
+      "Paper output"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What does a computer mouse control?",
+    "choices": [
+      "The battery voltage",
+      "The printer ink",
+      "A pointer",
+      "The speaker volume only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does a monitor show?",
+    "choices": [
+      "Stored electricity",
+      "Printed pages",
+      "Wi-Fi signals",
+      "Visual output"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What does a CPU process?",
+    "choices": [
+      "Instructions",
+      "Paper sheets",
+      "Radio waves only",
+      "Ink colors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What does RAM hold?",
+    "choices": [
+      "Permanent paper records",
+      "Temporary working data",
+      "Printer toner",
+      "Only photographs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does an SSD store?",
+    "choices": [
+      "Sound in the air",
+      "Electricity for a house",
+      "Digital data",
+      "Printed books"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What can a USB connection carry?",
+    "choices": [
+      "Only television signals",
+      "Only paper",
+      "Only radio broadcasts",
+      "Data and power"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What does Wi-Fi provide?",
+    "choices": [
+      "Wireless network access",
+      "Satellite television only",
+      "A type of battery",
+      "Printed maps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a web browser open?",
+    "choices": [
+      "Engine parts",
+      "Web pages",
+      "Spreadsheet paper",
+      "Audio cables"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does email send?",
+    "choices": [
+      "Electric current to homes",
+      "Printed magazines",
+      "Digital messages",
+      "GPS satellites"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does a URL identify?",
+    "choices": [
+      "A battery type",
+      "A video cable",
+      "A computer chip",
+      "A web address"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What does a search engine find?",
+    "choices": [
+      "Online information",
+      "Printer cartridges",
+      "Keyboard keys",
+      "Power outlets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is cloud storage?",
+    "choices": [
+      "A weather sensor",
+      "Remote online storage",
+      "A local hard drive only",
+      "A paper filing cabinet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What kind of file is a PDF?",
+    "choices": [
+      "An audio cable",
+      "A wireless signal",
+      "A document file",
+      "A computer mouse"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What kind of file is a JPEG?",
+    "choices": [
+      "A spreadsheet formula",
+      "A video game console",
+      "A text-only protocol",
+      "An image file"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What kind of file is an MP3?",
+    "choices": [
+      "An audio file",
+      "A word processor",
+      "A web address",
+      "A printer driver"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What does a QR code usually hold?",
+    "choices": [
+      "A battery charge",
+      "Scannable information",
+      "A television picture tube",
+      "A computer fan"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What kind of connection is Bluetooth?",
+    "choices": [
+      "Undersea cable",
+      "Satellite-only",
+      "Short-range wireless",
+      "Mechanical"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What does GPS help determine?",
+    "choices": [
+      "Screen brightness",
+      "File size",
+      "Printer speed",
+      "Location"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What does an operating system manage?",
+    "choices": [
+      "A device’s hardware and software",
+      "Only its wallpaper",
+      "Only its power cable",
+      "Only its web history"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which company makes Windows?",
+    "choices": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which company developed Android?",
+    "choices": [
+      "Microsoft",
+      "Nintendo",
+      "Google",
+      "Adobe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which company makes iOS?",
+    "choices": [
+      "Samsung",
+      "Google",
+      "Intel",
+      "Apple"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Linux known for?",
+    "choices": [
+      "Open-source operating systems",
+      "Being a printer brand",
+      "Being a file type",
+      "Being a video cable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What does a printer produce?",
+    "choices": [
+      "Wireless passwords",
+      "Paper output",
+      "Computer code only",
+      "GPS signals"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What does a webcam capture?",
+    "choices": [
+      "Printed text",
+      "Wi-Fi passwords",
+      "Video",
+      "Battery chemicals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What does a microphone capture?",
+    "choices": [
+      "Light only",
+      "Paper",
+      "Heat",
+      "Sound"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What can an HDMI cable carry?",
+    "choices": [
+      "Digital audio and video",
+      "Only electric power",
+      "Only telephone calls",
+      "Only printed text"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What does a battery store?",
+    "choices": [
+      "Paper documents",
+      "Chemical energy",
+      "Web pages",
+      "Printer ink"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What does a password protect?",
+    "choices": [
+      "The color of a screen",
+      "A computer’s weight",
+      "Access to an account",
+      "A keyboard’s shape"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What does two-factor authentication add?",
+    "choices": [
+      "A second monitor only",
+      "A larger hard drive",
+      "A faster keyboard",
+      "A second verification step"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What does a firewall help block?",
+    "choices": [
+      "Unwanted network traffic",
+      "Screen glare",
+      "Printer noise",
+      "Battery heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "What does antivirus software look for?",
+    "choices": [
+      "Broken light bulbs",
+      "Malicious software",
+      "Low ink",
+      "Slow typing"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is a backup?",
+    "choices": [
+      "A type of monitor",
+      "A network cable",
+      "An extra copy of data",
+      "A password hint"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What does a ZIP file usually do?",
+    "choices": [
+      "Play music",
+      "Display a web page",
+      "Connect a printer",
+      "Compress files"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is an app?",
+    "choices": [
+      "A software application",
+      "A power adapter",
+      "A computer screen",
+      "A network cable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does a spreadsheet organize?",
+    "choices": [
+      "Only video clips",
+      "Data in rows and columns",
+      "Printed circuit boards",
+      "Web addresses only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does a presentation file contain?",
+    "choices": [
+      "Only passwords",
+      "Computer fans",
+      "Slides",
+      "Wi-Fi signals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What does a database organize?",
+    "choices": [
+      "Electric current",
+      "Screen pixels only",
+      "Audio cables",
+      "Structured information"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What is a homepage?",
+    "choices": [
+      "A main page of a website",
+      "A computer’s power button",
+      "A printer tray",
+      "A phone’s battery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What does a hyperlink do?",
+    "choices": [
+      "Charges a device",
+      "Opens a linked resource",
+      "Prints a page",
+      "Deletes a browser"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is social media?",
+    "choices": [
+      "A type of computer memory",
+      "A printer network only",
+      "Online platforms for sharing and interaction",
+      "A satellite navigation system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What does streaming usually mean?",
+    "choices": [
+      "Printing media at home",
+      "Saving only to a DVD",
+      "Sending a paper letter",
+      "Playing media while it arrives online"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does downloading do?",
+    "choices": [
+      "Copies data to a device",
+      "Sends data away from a device",
+      "Deletes an account",
+      "Turns sound into light"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What does uploading do?",
+    "choices": [
+      "Prints data on paper",
+      "Sends data from a device to a service",
+      "Removes a file from every device",
+      "Changes a screen’s size"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What does a server provide?",
+    "choices": [
+      "Only electricity",
+      "Paper forms",
+      "Data or services to other computers",
+      "Keyboard shortcuts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What does a router direct?",
+    "choices": [
+      "Printer ink",
+      "Screen colors",
+      "Battery chemicals",
+      "Network traffic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does a .com ending usually identify?",
+    "choices": [
+      "A domain name",
+      "An image file",
+      "A cable standard",
+      "A processor type"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which early computer was called ENIAC?",
+    "choices": [
+      "A search engine",
+      "An early electronic general-purpose computer",
+      "A mobile phone",
+      "A video game console"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What digits does binary use?",
+    "choices": [
+      "1 and 2",
+      "0 through 9",
+      "0 and 1",
+      "A through F"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "How many bits are in one byte?",
+    "choices": [
+      "Four",
+      "Sixteen",
+      "Thirty-two",
+      "Eight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What base does hexadecimal use?",
+    "choices": [
+      "Base 16",
+      "Base 2",
+      "Base 8",
+      "Base 10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is an algorithm?",
+    "choices": [
+      "A computer screen",
+      "A step-by-step procedure",
+      "A type of cable",
+      "A storage chip"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a variable in programming?",
+    "choices": [
+      "A fixed computer case",
+      "A network address only",
+      "A named value that can change",
+      "A printed instruction manual"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a function do in a program?",
+    "choices": [
+      "Turns a monitor off permanently",
+      "Stores electricity",
+      "Connects two buildings",
+      "Groups reusable instructions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does a loop do in code?",
+    "choices": [
+      "Repeats instructions",
+      "Deletes every variable",
+      "Changes text into audio",
+      "Stops all processing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does an if statement test?",
+    "choices": [
+      "A battery level only",
+      "A condition",
+      "A printer color",
+      "A screen size"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a software bug?",
+    "choices": [
+      "A computer insect",
+      "A type of keyboard",
+      "An error in a program",
+      "A network cable"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does a compiler do?",
+    "choices": [
+      "Cools a processor",
+      "Stores photographs",
+      "Routes web traffic",
+      "Translates source code into another form"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What does an interpreter do?",
+    "choices": [
+      "Executes or translates code as it runs",
+      "Prints source code",
+      "Measures network distance",
+      "Creates a battery"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does HTML define?",
+    "choices": [
+      "The color of a battery",
+      "The structure of web pages",
+      "The speed of a processor",
+      "The sound of a speaker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What does CSS control?",
+    "choices": [
+      "The physical shape of a laptop",
+      "The contents of a hard drive",
+      "The style of web pages",
+      "The route of a satellite"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does JavaScript add to many web pages?",
+    "choices": [
+      "Paper output",
+      "Battery power",
+      "A physical keyboard",
+      "Interactive behavior"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does HTTP describe?",
+    "choices": [
+      "A protocol for transferring web resources",
+      "A type of monitor",
+      "A battery chemistry",
+      "A programming variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does HTTPS add to HTTP?",
+    "choices": [
+      "A larger screen",
+      "Encrypted communication",
+      "A faster keyboard",
+      "A paper receipt"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does DNS translate?",
+    "choices": [
+      "Images into audio",
+      "Code into electricity",
+      "Domain names into network addresses",
+      "Passwords into usernames"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does an IP address identify?",
+    "choices": [
+      "A file’s font",
+      "A printer’s ink level",
+      "A program’s author",
+      "A device or network interface on a network"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "How many bits are in an IPv4 address?",
+    "choices": [
+      "32",
+      "16",
+      "64",
+      "128"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "How many bits are in an IPv6 address?",
+    "choices": [
+      "32",
+      "128",
+      "64",
+      "256"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What is TCP designed to provide?",
+    "choices": [
+      "Only image compression",
+      "A screen interface",
+      "Reliable ordered delivery",
+      "A power supply"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is UDP known for?",
+    "choices": [
+      "Guaranteed delivery of every packet",
+      "A type of hard drive",
+      "A web page language",
+      "Lower-overhead delivery without guaranteed ordering"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a network packet?",
+    "choices": [
+      "A unit of data sent across a network",
+      "A computer battery",
+      "A printed software license",
+      "A keyboard command"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does bandwidth describe?",
+    "choices": [
+      "The delay before a signal arrives",
+      "Data-carrying capacity",
+      "A computer’s screen width",
+      "A file’s password strength"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What does network latency describe?",
+    "choices": [
+      "Maximum storage size",
+      "Image resolution",
+      "Delay in communication",
+      "Processor temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does a cache store?",
+    "choices": [
+      "Only deleted files",
+      "A computer’s passwords in plain text",
+      "Electricity for a router",
+      "Copies for faster future access"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a browser cookie?",
+    "choices": [
+      "Small data stored by a website in a browser",
+      "A computer virus shaped like food",
+      "A type of image file",
+      "A Wi-Fi antenna"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What does an API provide?",
+    "choices": [
+      "A physical power connector",
+      "A defined way for software to communicate",
+      "A screen-protection film",
+      "A replacement keyboard"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is JSON commonly used for?",
+    "choices": [
+      "Editing photographs by hand",
+      "Encrypting every hard drive",
+      "Representing structured data",
+      "Measuring network cables"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does SQL query?",
+    "choices": [
+      "Computer speakers",
+      "Web cameras",
+      "Operating-system kernels",
+      "Relational databases"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a primary key in a database?",
+    "choices": [
+      "A field that uniquely identifies a record",
+      "A password for the whole internet",
+      "A duplicate row",
+      "A backup server"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What does Git track?",
+    "choices": [
+      "Only internet speed",
+      "Changes to files and code",
+      "A laptop’s location",
+      "Printer paper usage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "What does open-source software provide?",
+    "choices": [
+      "Free hardware in every case",
+      "A guaranteed absence of bugs",
+      "Source code available under its license",
+      "Only private access"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the Linux kernel?",
+    "choices": [
+      "A web browser",
+      "A file-compression format",
+      "A graphics cable",
+      "The core of an operating system"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is Unix?",
+    "choices": [
+      "A family of operating-system designs",
+      "A spreadsheet program",
+      "A video codec",
+      "A printer company"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who proposed the universal machine model?",
+    "choices": [
+      "John von Neumann",
+      "Alan Turing",
+      "Claude Shannon",
+      "Norbert Wiener"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Who wrote an early algorithm for a machine?",
+    "choices": [
+      "Grace Hopper",
+      "Hedy Lamarr",
+      "Ada Lovelace",
+      "Katherine Johnson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who is credited with inventing the World Wide Web?",
+    "choices": [
+      "Vint Cerf",
+      "Steve Wozniak",
+      "Dennis Ritchie",
+      "Tim Berners-Lee"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who helped develop the TCP/IP protocols?",
+    "choices": [
+      "Vint Cerf",
+      "Tim Berners-Lee",
+      "Linus Torvalds",
+      "James Gosling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who popularized an early compiler?",
+    "choices": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Margaret Hamilton",
+      "Barbara Liskov"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Who is associated with inventing the computer mouse?",
+    "choices": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Douglas Engelbart",
+      "Konrad Zuse"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What kind of network was ARPANET?",
+    "choices": [
+      "A first-generation smartphone",
+      "A programming language",
+      "A graphics card",
+      "An early packet-switching network"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "When was the first iPhone released?",
+    "choices": [
+      "2007",
+      "1999",
+      "2012",
+      "2003"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Where was the World Wide Web developed?",
+    "choices": [
+      "NASA",
+      "CERN",
+      "Bell Labs",
+      "Xerox PARC"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does CAPTCHA try to distinguish?",
+    "choices": [
+      "Images from audio",
+      "Laptops from desktops",
+      "People from automated programs",
+      "Public from private networks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does public-key cryptography use?",
+    "choices": [
+      "One shared paper key",
+      "Only a username",
+      "A password with no encryption",
+      "A public key and a private key"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does phishing try to obtain?",
+    "choices": [
+      "Sensitive information",
+      "Faster processors",
+      "Larger screens",
+      "Printed photographs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does ransomware usually do?",
+    "choices": [
+      "Improves a computer’s speed",
+      "Blocks or encrypts data for payment",
+      "Creates public backups",
+      "Repairs a broken screen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is machine learning trained on?",
+    "choices": [
+      "Only physical machines",
+      "A single password",
+      "Examples or data",
+      "Printer ink"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does an operating-system kernel manage?",
+    "choices": [
+      "Only web bookmarks",
+      "Only presentation slides",
+      "Only email contacts",
+      "Core hardware and system resources"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

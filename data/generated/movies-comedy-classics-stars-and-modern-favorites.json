@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which film pairs Tony Curtis and Jack Lemmon as musicians in disguise?",
+    "choices": [
+      "Some Like It Hot",
+      "The Apartment",
+      "The Odd Couple",
+      "The Producers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Who plays the weatherman trapped in a repeating day in Groundhog Day?",
+    "choices": [
+      "Steve Martin",
+      "Bill Murray",
+      "Chevy Chase",
+      "Gene Wilder"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Airplane! primarily parodies which genre?",
+    "choices": [
+      "Western epics",
+      "Historical romances",
+      "Disaster movies",
+      "Superhero films"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which comedy follows Monty Python's knights searching for the Holy Grail?",
+    "choices": [
+      "Life of Brian",
+      "The Meaning of Life",
+      "Jabberwocky",
+      "Monty Python and the Holy Grail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the name of the hero played by Cary Elwes in The Princess Bride?",
+    "choices": [
+      "Westley",
+      "Inigo",
+      "Fezzik",
+      "Humperdinck"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Who is commonly called The Dude in The Big Lebowski?",
+    "choices": [
+      "Walter Sobchak",
+      "Jeffrey Lebowski",
+      "Donny Kerabatsos",
+      "The Big Lebowski's son"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does Ferris Bueller famously do during his film?",
+    "choices": [
+      "Runs for mayor",
+      "Joins a rock band",
+      "Skips school for a day",
+      "Becomes a detective"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which duo stars in Dumb and Dumber?",
+    "choices": [
+      "Bill Murray and Dan Aykroyd",
+      "Steve Martin and Martin Short",
+      "Will Ferrell and John C. Reilly",
+      "Jim Carrey and Jeff Daniels"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Who is left home alone in the Christmas comedy Home Alone?",
+    "choices": [
+      "Kevin McCallister",
+      "Harry Lime",
+      "Buddy Hobbs",
+      "Charlie Bucket"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which actor plays the disguised nanny in Mrs. Doubtfire?",
+    "choices": [
+      "Dustin Hoffman",
+      "Robin Williams",
+      "Eddie Murphy",
+      "Steve Carell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which character does Jim Carrey play in Ace Ventura: Pet Detective?",
+    "choices": [
+      "A radio host",
+      "A school principal",
+      "A pet detective",
+      "A stunt pilot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Who created the Austin Powers character on screen?",
+    "choices": [
+      "Sacha Baron Cohen",
+      "Rowan Atkinson",
+      "Eddie Murphy",
+      "Mike Myers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which actor is best known for playing Lieutenant Frank Drebin in The Naked Gun?",
+    "choices": [
+      "Leslie Nielsen",
+      "Peter Sellers",
+      "Gene Hackman",
+      "Chevy Chase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What board game provides the setup for the comedy mystery Clue?",
+    "choices": [
+      "Risk",
+      "Cluedo",
+      "Sorry!",
+      "Guess Who?"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which sport is central to much of Caddyshack?",
+    "choices": [
+      "Tennis",
+      "Bowling",
+      "Golf",
+      "Baseball"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which musical duo is featured in The Blues Brothers?",
+    "choices": [
+      "Dewey and Ned Blues",
+      "Roy and Dale Blues",
+      "Frank and Dean Blues",
+      "Jake and Elwood Blues"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which pair plays mismatched adult stepbrothers in Step Brothers?",
+    "choices": [
+      "Will Ferrell and John C. Reilly",
+      "Ben Stiller and Owen Wilson",
+      "Seth Rogen and Jonah Hill",
+      "Paul Rudd and Jason Segel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is the name of Will Ferrell's anchorman in the film Anchorman?",
+    "choices": [
+      "Brick Tamland",
+      "Ron Burgundy",
+      "Chazz Reinhold",
+      "Jackie Moon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which 2007 comedy follows a group of teenagers trying to attend a party?",
+    "choices": [
+      "Project X",
+      "Booksmart",
+      "Superbad",
+      "The Inbetweeners Movie"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Where does much of The Hangover take place?",
+    "choices": [
+      "Miami",
+      "New Orleans",
+      "Atlantic City",
+      "Las Vegas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Borat presents its central character as a journalist from which country?",
+    "choices": [
+      "Kazakhstan",
+      "Mongolia",
+      "Uzbekistan",
+      "Georgia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which French comedy-drama follows an unexpected friendship between two men?",
+    "choices": [
+      "The Dinner Game",
+      "The Intouchables",
+      "Amélie",
+      "La Cage aux Folles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In which city is Amélie primarily set?",
+    "choices": [
+      "Rome",
+      "Brussels",
+      "Paris",
+      "Lyon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which actor created the silent Little Tramp character?",
+    "choices": [
+      "Buster Keaton",
+      "Harold Lloyd",
+      "Stan Laurel",
+      "Charlie Chaplin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which comedy team included Groucho, Chico, and Harpo?",
+    "choices": [
+      "The Marx Brothers",
+      "The Three Stooges",
+      "Laurel and Hardy",
+      "The Ritz Brothers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What duo is featured in classic films such as Sons of the Desert?",
+    "choices": [
+      "Abbott and Costello",
+      "Laurel and Hardy",
+      "Hope and Crosby",
+      "Martin and Lewis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which silent comedy star hangs from a clock face in Safety Last!?",
+    "choices": [
+      "Buster Keaton",
+      "Charlie Chaplin",
+      "Harold Lloyd",
+      "Roscoe Arbuckle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Bringing Up Baby is an example of which comedy style?",
+    "choices": [
+      "Mockumentary",
+      "Slapstick cartoon",
+      "Courtroom satire",
+      "Screwball comedy"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which comedy subgenre uses rapid dialogue and social misunderstandings?",
+    "choices": [
+      "Screwball comedy",
+      "Body horror",
+      "Epic fantasy",
+      "Film noir"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What profession does Dustin Hoffman's character pretend to enter in Tootsie?",
+    "choices": [
+      "Professional cooking",
+      "Acting as a woman",
+      "Law enforcement",
+      "Baseball management"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which film parodies Universal horror movies with a young scientist and his assistant?",
+    "choices": [
+      "The Addams Family",
+      "The Haunted Mansion",
+      "Young Frankenstein",
+      "The Frighteners"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which western is spoofed by Mel Brooks's Blazing Saddles?",
+    "choices": [
+      "Pirate adventure films",
+      "British costume dramas",
+      "Martial-arts cinema",
+      "Classic Hollywood westerns"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Spaceballs primarily sends up which kind of films?",
+    "choices": [
+      "Science-fiction space operas",
+      "Sports documentaries",
+      "Musical biographies",
+      "Courtroom dramas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Galaxy Quest centers on actors formerly known for which kind of television show?",
+    "choices": [
+      "A cooking competition",
+      "A science-fiction series",
+      "A police procedural",
+      "A daytime soap opera"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which animated comedy reimagines fairy-tale characters around an ogre?",
+    "choices": [
+      "The Emperor's New Groove",
+      "Hoodwinked!",
+      "Shrek",
+      "Madagascar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Who plays the substitute music teacher in School of Rock?",
+    "choices": [
+      "Jim Carrey",
+      "Paul Rudd",
+      "Bill Hader",
+      "Jack Black"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which actor stars as Stanley Ipkiss in The Mask?",
+    "choices": [
+      "Jim Carrey",
+      "Mike Myers",
+      "Adam Sandler",
+      "Steve Martin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What career does Elle Woods pursue in Legally Blonde?",
+    "choices": [
+      "Medicine",
+      "Law",
+      "Fashion photography",
+      "Politics"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which comedy follows three bachelors unexpectedly caring for a baby?",
+    "choices": [
+      "The Full Monty",
+      "Planes, Trains and Automobiles",
+      "Three Men and a Baby",
+      "The Birdcage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What kind of business is run by the family in My Big Fat Greek Wedding?",
+    "choices": [
+      "A funeral home",
+      "A travel agency",
+      "A bookstore",
+      "A restaurant"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which actor plays a wedding singer in The Wedding Singer?",
+    "choices": [
+      "Adam Sandler",
+      "Ben Stiller",
+      "Chris Rock",
+      "Steve Buscemi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In The Full Monty, what do unemployed friends organize?",
+    "choices": [
+      "A football tournament",
+      "A male strip show",
+      "A restaurant opening",
+      "A bank heist"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which film features a valet parking attendant who unexpectedly enters high society?",
+    "choices": [
+      "The Trip",
+      "The Party",
+      "The Valet",
+      "The Dinner Game"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is the central object of contention in The Big Lebowski?",
+    "choices": [
+      "A bowling trophy",
+      "A briefcase",
+      "A stolen car",
+      "A rug"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What does a parody generally do?",
+    "choices": [
+      "Imitates a recognizable style or genre for comic effect",
+      "Presents an event without any fictional elements",
+      "Uses only improvised dialogue",
+      "Removes all music from a story"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which comedy follows two travelers trying to get home during a difficult holiday journey?",
+    "choices": [
+      "The Terminal",
+      "Planes, Trains and Automobiles",
+      "Midnight Run",
+      "Road Trip"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Who plays the title professor and several family members in The Nutty Professor?",
+    "choices": [
+      "Dan Aykroyd",
+      "Jim Carrey",
+      "Eddie Murphy",
+      "Chris Tucker"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is the main workplace setting of 9 to 5?",
+    "choices": [
+      "A hospital ward",
+      "A newspaper newsroom",
+      "A theme-park kitchen",
+      "A corporate office"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which comedy centers on a very inexperienced man named Navin Johnson?",
+    "choices": [
+      "The Jerk",
+      "The Lonely Guy",
+      "Roxanne",
+      "Dirty Rotten Scoundrels"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which director made Some Like It Hot?",
+    "choices": [
+      "George Cukor",
+      "Billy Wilder",
+      "Howard Hawks",
+      "Ernst Lubitsch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who directed Groundhog Day?",
+    "choices": [
+      "Ivan Reitman",
+      "John Hughes",
+      "Harold Ramis",
+      "Penny Marshall"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which trio wrote and directed Airplane!?",
+    "choices": [
+      "Mel Brooks, Gene Wilder, and Peter Boyle",
+      "John Landis, Dan Aykroyd, and Harold Ramis",
+      "Christopher Guest, Eugene Levy, and Catherine O'Hara",
+      "Jim Abrahams, David Zucker, and Jerry Zucker"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Who directed Monty Python and the Holy Grail?",
+    "choices": [
+      "Terry Jones and Terry Gilliam",
+      "John Cleese and Michael Palin",
+      "Terry Gilliam alone",
+      "Eric Idle and Graham Chapman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which director made The Princess Bride?",
+    "choices": [
+      "Barry Levinson",
+      "Rob Reiner",
+      "Joe Dante",
+      "Richard Donner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Who wrote and directed The Big Lebowski with his brother?",
+    "choices": [
+      "The Farrelly brothers",
+      "The Hughes brothers",
+      "Joel and Ethan Coen",
+      "The Safdie brothers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "How did the original theatrical release of Clue distinguish itself?",
+    "choices": [
+      "It was released without credits",
+      "It had no spoken dialogue",
+      "It changed its cast every week",
+      "Different theaters received different endings"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Who directed Caddyshack?",
+    "choices": [
+      "Harold Ramis",
+      "Ivan Reitman",
+      "John Hughes",
+      "Carl Reiner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which director made The Blues Brothers?",
+    "choices": [
+      "John Hughes",
+      "John Landis",
+      "Walter Hill",
+      "Richard Lester"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who directed Step Brothers and Anchorman?",
+    "choices": [
+      "Judd Apatow",
+      "Todd Phillips",
+      "Adam McKay",
+      "Nicholas Stoller"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Who directed Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan?",
+    "choices": [
+      "Sacha Baron Cohen",
+      "Christopher Guest",
+      "Taika Waititi",
+      "Larry Charles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who directed Amélie?",
+    "choices": [
+      "Jean-Pierre Jeunet",
+      "François Truffaut",
+      "Luc Besson",
+      "Olivier Nakache"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which filmmaker created the quiet observational comedy PlayTime?",
+    "choices": [
+      "Louis Malle",
+      "Jacques Tati",
+      "Agnès Varda",
+      "Marcel Pagnol"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Marx Brothers film is famous for its political satire and anarchic dialogue?",
+    "choices": [
+      "A Night at the Opera",
+      "Horse Feathers",
+      "Duck Soup",
+      "Animal Crackers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Chaplin feature follows a poor man and a blind flower seller?",
+    "choices": [
+      "Modern Times",
+      "The Gold Rush",
+      "The Kid",
+      "City Lights"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which director made It Happened One Night?",
+    "choices": [
+      "Frank Capra",
+      "George Stevens",
+      "Preston Sturges",
+      "Howard Hawks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who directed Tootsie?",
+    "choices": [
+      "Mike Nichols",
+      "Sydney Pollack",
+      "Penny Marshall",
+      "Robert Zemeckis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which Mel Brooks comedy takes place in a fictional version of Transylvania?",
+    "choices": [
+      "Blazing Saddles",
+      "The Producers",
+      "Young Frankenstein",
+      "High Anxiety"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Who directed Shrek together with Vicky Jenson?",
+    "choices": [
+      "Brad Bird",
+      "Chris Wedge",
+      "Pete Docter",
+      "Andrew Adamson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which director made School of Rock?",
+    "choices": [
+      "Richard Linklater",
+      "Jason Reitman",
+      "Mike White",
+      "Christopher Guest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Who directed The Mask?",
+    "choices": [
+      "Joe Dante",
+      "Chuck Russell",
+      "Tom Shadyac",
+      "Peter Farrelly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which French filmmaker directed The Dinner Game?",
+    "choices": [
+      "Jean-Pierre Jeunet",
+      "Jacques Tati",
+      "Francis Veber",
+      "Éric Toledano"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Who directed the Japanese food-centered comedy Tampopo?",
+    "choices": [
+      "Hirokazu Kore-eda",
+      "Takeshi Kitano",
+      "Yasujirō Ozu",
+      "Juzo Itami"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which director co-created Shaun of the Dead with Simon Pegg?",
+    "choices": [
+      "Edgar Wright",
+      "Richard Curtis",
+      "Danny Boyle",
+      "Joe Cornish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What style of comedy is central to This Is Spinal Tap?",
+    "choices": [
+      "Screwball romance",
+      "Mockumentary",
+      "Silent slapstick",
+      "Courtroom farce"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Who directed The Death of Stalin?",
+    "choices": [
+      "Christopher Guest",
+      "In the Loop's Jesse Armstrong",
+      "Armando Iannucci",
+      "Richard Lester"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which Stanley Kubrick film is a dark political comedy about nuclear brinkmanship?",
+    "choices": [
+      "Full Metal Jacket",
+      "A Clockwork Orange",
+      "Barry Lyndon",
+      "Dr. Strangelove"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which director made the comedy crime film Fargo with his brother Ethan?",
+    "choices": [
+      "Joel Coen",
+      "Wes Anderson",
+      "Martin McDonagh",
+      "Steven Soderbergh"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which film follows a family of eccentric competitors traveling to a children's pageant?",
+    "choices": [
+      "The Royal Tenenbaums",
+      "Little Miss Sunshine",
+      "Captain Fantastic",
+      "The Squid and the Whale"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who directed The Royal Tenenbaums?",
+    "choices": [
+      "Noah Baumbach",
+      "Paul Thomas Anderson",
+      "Wes Anderson",
+      "Alexander Payne"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which comedy is set around a struggling steel town's amateur male strip show?",
+    "choices": [
+      "Brassed Off",
+      "Billy Elliot",
+      "Made in Dagenham",
+      "The Full Monty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Who directed and co-wrote What We Do in the Shadows with Jemaine Clement?",
+    "choices": [
+      "Taika Waititi",
+      "Edgar Wright",
+      "James Gunn",
+      "Chris Morris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which film follows a group of amateur actors staging a disastrous production of a murder mystery?",
+    "choices": [
+      "Noises Off",
+      "The Play That Goes Wrong",
+      "The Producers",
+      "Waiting for Guffman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which director made Waiting for Guffman and Best in Show?",
+    "choices": [
+      "Rob Reiner",
+      "Christopher Nolan",
+      "Christopher Guest",
+      "Mike Nichols"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which comedy features a theater producer trying to stage a deliberate Broadway flop?",
+    "choices": [
+      "All About Eve",
+      "Noises Off",
+      "The Front Page",
+      "The Producers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Who directed the 1968 film version of The Producers?",
+    "choices": [
+      "Mel Brooks",
+      "Gene Wilder",
+      "Sidney Lumet",
+      "Peter Bogdanovich"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Italian comedy-drama follows a postman who befriends a famous poet?",
+    "choices": [
+      "Bread and Tulips",
+      "Il Postino",
+      "Life Is Beautiful",
+      "Divorce Italian Style"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which black comedy follows a family road trip to a children's beauty pageant?",
+    "choices": [
+      "The Royal Tenenbaums",
+      "Sideways",
+      "Little Miss Sunshine",
+      "Election"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which director made Election, a satire of high-school politics?",
+    "choices": [
+      "Todd Solondz",
+      "Jason Reitman",
+      "Greg Mottola",
+      "Alexander Payne"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is distinctive about the comedy film The Trip?",
+    "choices": [
+      "It turns improvised restaurant conversations into a semi-fictional road series",
+      "It is silent except for music",
+      "It is animated entirely with puppets",
+      "It is set on a single theater stage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which actor plays multiple exaggerated versions of himself in The Trip films?",
+    "choices": [
+      "Dustin Hoffman",
+      "Steve Coogan",
+      "Sacha Baron Cohen",
+      "Bill Nighy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which director made the French farce La Cage aux Folles?",
+    "choices": [
+      "Francis Veber",
+      "Jean Girault",
+      "Édouard Molinaro",
+      "Claude Zidi"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which 1990s comedy stars Nathan Lane and Robin Williams as a couple hosting a family gathering?",
+    "choices": [
+      "To Wong Foo, Thanks for Everything! Julie Newmar",
+      "The Object of My Affection",
+      "Prêt-à-Porter",
+      "The Birdcage"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Who directed The Birdcage?",
+    "choices": [
+      "Mike Nichols",
+      "Elaine May",
+      "Barry Levinson",
+      "Nicholas Hytner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which film turns a Shakespearean play into a high-school romantic comedy?",
+    "choices": [
+      "Clueless",
+      "10 Things I Hate About You",
+      "She's the Man",
+      "Easy A"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Clueless is loosely based on which Jane Austen novel?",
+    "choices": [
+      "Pride and Prejudice",
+      "Sense and Sensibility",
+      "Emma",
+      "Persuasion"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which director made the teen comedy Rushmore?",
+    "choices": [
+      "Sofia Coppola",
+      "Richard Linklater",
+      "Gregg Araki",
+      "Wes Anderson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who directed The Jerk?",
+    "choices": [
+      "Carl Reiner",
+      "Steve Martin",
+      "Hal Ashby",
+      "Peter Bogdanovich"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Billy Wilder comedy places its romantic complications among office employees in New York?",
+    "choices": [
+      "Sabrina",
+      "The Apartment",
+      "Kiss Me, Stupid",
+      "Avanti!"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Who directed the 1984 comedy Airplane!-style spoof Top Secret!?",
+    "choices": [
+      "Mel Brooks alone",
+      "John Landis and Dan Aykroyd",
+      "Jim Abrahams, David Zucker, and Jerry Zucker",
+      "The Monty Python troupe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which director made the 1968 French comedy Playtime?",
+    "choices": [
+      "Jean-Pierre Jeunet",
+      "Francis Veber",
+      "Juzo Itami",
+      "Jacques Tati"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  }
+]

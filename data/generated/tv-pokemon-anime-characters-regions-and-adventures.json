@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Who is the central protagonist of the original Pokémon animated series?",
+    "choices": [
+      "Ash Ketchum",
+      "Gary Oak",
+      "Brock",
+      "Tracey Sketchit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What species is Ash's best-known partner Pokémon?",
+    "choices": [
+      "Eevee",
+      "Pikachu",
+      "Psyduck",
+      "Jigglypuff"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which region does Ash visit first?",
+    "choices": [
+      "Johto",
+      "Hoenn",
+      "Kanto",
+      "Sinnoh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Who is the Pokémon Professor Ash first receives guidance from?",
+    "choices": [
+      "Professor Elm",
+      "Professor Birch",
+      "Professor Rowan",
+      "Professor Oak"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which Cerulean City Gym Leader travels with Ash in the early series?",
+    "choices": [
+      "Misty",
+      "May",
+      "Dawn",
+      "Iris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Which Pewter City Gym Leader becomes one of Ash's first major traveling companions?",
+    "choices": [
+      "Cilan",
+      "Brock",
+      "Clemont",
+      "Falkner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which trio repeatedly tries to capture Pikachu for Team Rocket?",
+    "choices": [
+      "Butch, Cassidy, and Wobbuffet",
+      "Giovanni, Mewtwo, and Persian",
+      "Jessie, James, and Meowth",
+      "Ash, Gary, and Tracey"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does Meowth unusually do in the anime?",
+    "choices": [
+      "Evolve into Persian",
+      "Use a Pokédex",
+      "Lead the Elite Four",
+      "Speak human language"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What title does Ash repeatedly say he wants to achieve?",
+    "choices": [
+      "Pokémon Master",
+      "Pokémon Professor",
+      "Gym Leader of Kanto",
+      "Elite Four Champion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which Pokémon does Ash receive instead of choosing a conventional starter from Professor Oak?",
+    "choices": [
+      "Eevee",
+      "Pikachu",
+      "Pidgey",
+      "Mankey"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which trio contains the first-generation starter Pokémon?",
+    "choices": [
+      "Chikorita, Cyndaquil, and Totodile",
+      "Treecko, Torchic, and Mudkip",
+      "Bulbasaur, Charmander, and Squirtle",
+      "Turtwig, Chimchar, and Piplup"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Who leads the Pewter City Gym in the anime?",
+    "choices": [
+      "Misty",
+      "Erika",
+      "Sabrina",
+      "Brock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which region follows Kanto in Ash's main journey?",
+    "choices": [
+      "Johto",
+      "Hoenn",
+      "Sinnoh",
+      "Unova"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which pair joins Ash during the Hoenn journey?",
+    "choices": [
+      "Dawn and Barry",
+      "May and Max",
+      "Iris and Cilan",
+      "Serena and Bonnie"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which coordinator travels with Ash through Sinnoh?",
+    "choices": [
+      "May",
+      "Serena",
+      "Dawn",
+      "Misty"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which traveling companion is associated with the Unova journey and a Dragon-type goal?",
+    "choices": [
+      "Dawn",
+      "May",
+      "Lana",
+      "Iris"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Who is the Pokémon Connoisseur who travels with Ash in Unova?",
+    "choices": [
+      "Cilan",
+      "Clemont",
+      "Brock",
+      "Tracey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which Kalos companion is Ash's childhood acquaintance and a Pokémon performer?",
+    "choices": [
+      "Misty",
+      "Serena",
+      "Iris",
+      "May"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which Kalos companion is the Lumiose City Gym Leader?",
+    "choices": [
+      "Brock",
+      "Cilan",
+      "Clemont",
+      "Kiawe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Who is Clemont's younger sister?",
+    "choices": [
+      "Lillie",
+      "Mallow",
+      "Chloe",
+      "Bonnie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Alola companion comes from the Aether Foundation family?",
+    "choices": [
+      "Lillie",
+      "Misty",
+      "Dawn",
+      "Serena"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Alola student is especially associated with a Ride Charizard?",
+    "choices": [
+      "Sophocles",
+      "Kiawe",
+      "Lana",
+      "Mallow"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which character becomes Ash's research partner in Pokémon Journeys?",
+    "choices": [
+      "Gary Oak",
+      "Tracey",
+      "Goh",
+      "Paul"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Goh's major long-term Pokémon goal?",
+    "choices": [
+      "To become a Gym Leader",
+      "To win the Kalos League",
+      "To run Professor Oak's lab",
+      "To catch Mew"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which character is associated with a mysterious Eevee in Pokémon Journeys?",
+    "choices": [
+      "Chloe Cerise",
+      "Bonnie",
+      "Lillie",
+      "May"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Who is Ash's childhood rival from Pallet Town?",
+    "choices": [
+      "Paul",
+      "Gary Oak",
+      "Alain",
+      "Ritchie"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which Sinnoh rival is known for a harsh, results-focused training philosophy?",
+    "choices": [
+      "Barry",
+      "Conway",
+      "Paul",
+      "Zoey"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Kalos rival defeats Ash in the Kalos League final?",
+    "choices": [
+      "Trevor",
+      "Sawyer",
+      "Tierno",
+      "Alain"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Pokémon League is Ash the first champion of in the anime's regional League history?",
+    "choices": [
+      "The Alola League",
+      "The Indigo League",
+      "The Kalos League",
+      "The Sinnoh League"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which competition eventually ranks Ash as the world's top Pokémon Trainer?",
+    "choices": [
+      "The Battle Frontier",
+      "The World Coronation Series",
+      "The Grand Festival",
+      "The Orange League"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Champion does Ash defeat in the final of the World Coronation Series?",
+    "choices": [
+      "Cynthia",
+      "Lance",
+      "Leon",
+      "Diantha"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Orange Islands competition does Ash win?",
+    "choices": [
+      "The Orange Grand Festival",
+      "The Seaside Cup",
+      "The Island Challenge",
+      "The Orange League"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Who is the Orange League Champion Ash defeats?",
+    "choices": [
+      "Drake",
+      "Bruno",
+      "Lance",
+      "Ritchie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What is the name of Ash's first major League competition?",
+    "choices": [
+      "The Silver Conference",
+      "The Indigo League",
+      "The Ever Grande Conference",
+      "The Lily of the Valley Conference"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Pokémon is famous for refusing to stay inside its Poké Ball while traveling with Ash?",
+    "choices": [
+      "Charizard",
+      "Bulbasaur",
+      "Pikachu",
+      "Squirtle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which of Ash's Pokémon initially refuses to obey him after evolving?",
+    "choices": [
+      "Butterfree",
+      "Pidgeotto",
+      "Kingler",
+      "Charizard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which species forms the firefighting group led by Ash's sunglasses-wearing recruit?",
+    "choices": [
+      "Squirtle",
+      "Bulbasaur",
+      "Charmander",
+      "Wartortle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Pokémon does Ash leave at Professor Oak's laboratory for much of the series?",
+    "choices": [
+      "Pikachu",
+      "Muk",
+      "Greninja",
+      "Lucario"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which Pokémon is connected to Ash's notable Orange Islands release?",
+    "choices": [
+      "Butterfree",
+      "Pidgeot",
+      "Lapras",
+      "Primeape"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which of Ash's Kalos teammates can enter a unique synchronized transformation with him?",
+    "choices": [
+      "Pikachu",
+      "Goodra",
+      "Hawlucha",
+      "Greninja"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which Pokémon does Ash catch and later release after it joins Team Rocket?",
+    "choices": [
+      "Aipom",
+      "Mankey",
+      "Primeape",
+      "Pidgeot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Pokémon is associated with James in the Alola-era Team Rocket trio?",
+    "choices": [
+      "Wobbuffet",
+      "Mareanie",
+      "Seviper",
+      "Yanmega"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What phrase usually begins Team Rocket's long introduction?",
+    "choices": [
+      "Gotta catch them all!",
+      "Who's that Pokémon?",
+      "Prepare for trouble!",
+      "Believe in the heart of the cards!"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Pokémon is known for saying its own name and often appearing in the Team Rocket trio?",
+    "choices": [
+      "Pikachu",
+      "Psyduck",
+      "Wobbuffet",
+      "Meowth"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What facility commonly helps injured Pokémon in the animated series?",
+    "choices": [
+      "A Pokémon Center",
+      "A Pokémon Day Care",
+      "A Battle Tower",
+      "A Safari Zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which recurring character is associated with Pokémon Centers?",
+    "choices": [
+      "Officer Jenny",
+      "Nurse Joy",
+      "Professor Oak",
+      "Delia Ketchum"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which recurring police character appears in many different towns?",
+    "choices": [
+      "Nurse Joy",
+      "Misty",
+      "Officer Jenny",
+      "Professor Juniper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which original-series episode begins Ash's journey with the title 'Pokémon, I Choose You!'?",
+    "choices": [
+      "The Orange League finale",
+      "The Indigo League finale",
+      "The first Johto episode",
+      "The first episode"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which studio has produced the Pokémon animated television series?",
+    "choices": [
+      "OLM",
+      "Toei Animation",
+      "Bones",
+      "Kyoto Animation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Japanese name is used for Ash Ketchum?",
+    "choices": [
+      "Shigeru",
+      "Satoshi",
+      "Takeshi",
+      "Shigeru Oak"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What was the first Pokémon Ash successfully caught in the animated series?",
+    "choices": [
+      "Pidgey",
+      "Pikachu",
+      "Caterpie",
+      "Krabby"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Pokémon did Caterpie evolve into before Ash released it?",
+    "choices": [
+      "Metapod",
+      "Beedrill",
+      "Venomoth",
+      "Butterfree"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Why does Ash release Butterfree in the famous early episode?",
+    "choices": [
+      "It leaves to travel with a pink Butterfree",
+      "It returns permanently to Professor Oak",
+      "It is traded to Misty",
+      "It evolves into a Beedrill"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Pokémon does Ash leave behind to protect a flock near the end of the Kanto journey?",
+    "choices": [
+      "Fearow",
+      "Pidgeot",
+      "Spearow",
+      "Pidgeotto"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Pokémon does Ash use to help defeat Sabrina after being given it by a strange tower encounter?",
+    "choices": [
+      "Gengar",
+      "Gastly",
+      "Haunter",
+      "Kadabra"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Pokémon was abandoned by Damian before becoming Ash's partner?",
+    "choices": [
+      "Squirtle",
+      "Bulbasaur",
+      "Cyndaquil",
+      "Charmander"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which of Ash's Pokémon was captured during the Safari Zone episode in unusually large numbers?",
+    "choices": [
+      "Tauros",
+      "Kangaskhan",
+      "Rhyhorn",
+      "Nidorino"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which character is Ash's first major League opponent to be identified by a Pikachu named Sparky?",
+    "choices": [
+      "Gary Oak",
+      "Ritchie",
+      "Harrison",
+      "Tyson"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which opponent defeats Ash in the Silver Conference with a Blaziken?",
+    "choices": [
+      "Ritchie",
+      "Gary Oak",
+      "Harrison",
+      "Jon Dickson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which opponent defeats Ash in the Ever Grande Conference final battle?",
+    "choices": [
+      "Morrison",
+      "Harrison",
+      "Drake",
+      "Tyson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Sinnoh League opponent uses a Darkrai and later a Latios against Ash?",
+    "choices": [
+      "Tobias",
+      "Paul",
+      "Barry",
+      "Conway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Kalos League opponent uses Mega Charizard X in the final against Ash?",
+    "choices": [
+      "Sawyer",
+      "Alain",
+      "Trevor",
+      "Tierno"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Alola rival faces Ash in the first regional League final?",
+    "choices": [
+      "Kiawe",
+      "Hau",
+      "Gladion",
+      "Guzma"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Pokémon does Gladion use as his signature partner in the Alola League final?",
+    "choices": [
+      "Lycanroc",
+      "Zoroark",
+      "Type: Null",
+      "Silvally"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Champion is Ash's opponent in the World Coronation Series Masters Eight final?",
+    "choices": [
+      "Leon",
+      "Cynthia",
+      "Steven Stone",
+      "Iris"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which Pokémon does Leon use as his best-known partner in the Masters Eight final?",
+    "choices": [
+      "Dragapult",
+      "Charizard",
+      "Rillaboom",
+      "Cinderace"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which format replaces a single regional League as the main competitive structure in Pokémon Journeys?",
+    "choices": [
+      "The Battle Frontier",
+      "The Pokémon World Tournament",
+      "The World Coronation Series",
+      "The Grand Festival"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which rank does Ash reach before becoming the Masters Eight tournament champion?",
+    "choices": [
+      "The Ultra Class rank",
+      "The Great Class rank",
+      "The Normal Class rank",
+      "The World Champion rank"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which character is Professor Cerise's daughter in Pokémon Journeys?",
+    "choices": [
+      "Chloe",
+      "Serena",
+      "Bonnie",
+      "Lillie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Pokémon's unusual evolution is a major part of Chloe's early story?",
+    "choices": [
+      "Pikachu",
+      "Eevee",
+      "Yamper",
+      "Scorbunny"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which original companion returns to the Cerulean Gym after her long journey with Ash?",
+    "choices": [
+      "Serena",
+      "May",
+      "Misty",
+      "Dawn"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which original companion becomes a Pokémon doctor after years of traveling?",
+    "choices": [
+      "Tracey",
+      "Cilan",
+      "Clemont",
+      "Brock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Orange Islands companion later works as Professor Oak's assistant?",
+    "choices": [
+      "Tracey Sketchit",
+      "Misty",
+      "Todd Snap",
+      "Ritchie"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which goal distinguishes May from Ash during their Hoenn journey?",
+    "choices": [
+      "Becoming a Dragon Master",
+      "Competing in Pokémon Contests",
+      "Collecting Gym Badges for a League",
+      "Capturing every Pokémon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Pokémon is Dawn's constant partner and usually refuses to remain in its Poké Ball?",
+    "choices": [
+      "Buneary",
+      "Pachirisu",
+      "Piplup",
+      "Mamoswine"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which Pokémon is especially associated with Iris's early traveling-storyline team?",
+    "choices": [
+      "Pansage",
+      "Emolga",
+      "Excadrill",
+      "Axew"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who provides the Japanese voice of Pikachu throughout the core animated series?",
+    "choices": [
+      "Ikue Otani",
+      "Rica Matsumoto",
+      "Megumi Hayashibara",
+      "Inuko Inuyama"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who was the principal English voice of Ash for the first eight seasons?",
+    "choices": [
+      "Sarah Natochenny",
+      "Veronica Taylor",
+      "Michele Knotz",
+      "Rachael Lillis"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which performer became the main English voice of Ash from the Battle Frontier era onward?",
+    "choices": [
+      "Veronica Taylor",
+      "Emily Bauer",
+      "Sarah Natochenny",
+      "Alyson Leigh Rosenfeld"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which Japanese director is strongly associated with the long-running Pokémon television anime?",
+    "choices": [
+      "Hayao Miyazaki",
+      "Makoto Shinkai",
+      "Mamoru Hosoda",
+      "Kunihiko Yuyama"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which famous anime incident led to a temporary pause and widespread discussion of flashing-light safety?",
+    "choices": [
+      "The Porygon episode",
+      "The MissingNo. episode",
+      "The Mewtwo episode",
+      "The Lavender Tower episode"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Team Rocket member owns a Wobbuffet that frequently appears outside its Poké Ball?",
+    "choices": [
+      "James",
+      "Jessie",
+      "Meowth",
+      "Giovanni"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Pokémon does James repeatedly send out in the Sinnoh and later eras after receiving it from his family?",
+    "choices": [
+      "Mime Jr.",
+      "Inkay",
+      "Carnivine",
+      "Victreebel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Alola Pokémon repeatedly carries Team Rocket away while treating them like adopted companions?",
+    "choices": [
+      "Stufful",
+      "Mimikyu",
+      "Litten",
+      "Bewear"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which famous partner Pokémon does Team Rocket's Mimikyu resent because of its popularity?",
+    "choices": [
+      "Pikachu",
+      "Meowth",
+      "Eevee",
+      "Rowlet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which episode title is associated with Ash's emotional release of Lapras?",
+    "choices": [
+      "Bye Bye Butterfree",
+      "Viva Las Lapras",
+      "Pikachu's Goodbye",
+      "The Lost Lapras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which early episode centers on Ash deciding whether to let Pikachu return to a group of wild Pikachu?",
+    "choices": [
+      "The Electric Shock Showdown",
+      "Pikachu Re-Volts!",
+      "Pikachu's Goodbye",
+      "A Friend in Deed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which episode is famous for Ash's Charizard refusing to help until its feelings change?",
+    "choices": [
+      "Charizard's Burning Ambitions",
+      "The Fire-ing Squad",
+      "A Charizard-istic Smile",
+      "Charizard Chills"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Pokémon is Ash's first known shiny catch in the television series?",
+    "choices": [
+      "Noctowl",
+      "Butterfree",
+      "Gyarados",
+      "Donphan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which Pokémon does Ash receive from Dawn in exchange for Aipom during the Sinnoh journey?",
+    "choices": [
+      "Piplup",
+      "Buizel",
+      "Buneary",
+      "Pachirisu"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which season's opening theme is commonly remembered by English-speaking viewers as 'Gotta Catch 'Em All'?",
+    "choices": [
+      "The Johto Journeys opening",
+      "The Advanced opening",
+      "The original Pokémon opening",
+      "The Sinnoh League opening"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which film begins with a famous story about Mewtwo's creation and identity?",
+    "choices": [
+      "Pokémon 2000",
+      "Pokémon 3: The Movie",
+      "Pokémon: Lucario and the Mystery of Mew",
+      "Pokémon: The First Movie"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Legendary Pokémon is central to the second Pokémon feature film?",
+    "choices": [
+      "Lugia",
+      "Mewtwo",
+      "Entei",
+      "Celebi"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which film focuses on Lucario and the mystery surrounding the ancient hero Sir Aaron?",
+    "choices": [
+      "Destiny Deoxys",
+      "Lucario and the Mystery of Mew",
+      "The Rise of Darkrai",
+      "Zoroark: Master of Illusions"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which special series follows Ash and Goh as research fellows rather than keeping Ash in one region?",
+    "choices": [
+      "Pokémon Advanced",
+      "Pokémon Generations",
+      "Pokémon Journeys",
+      "Pokémon Origins"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which final Ash-era miniseries follows his continuing travels after winning the World Championship?",
+    "choices": [
+      "Pokémon Horizons",
+      "Pokémon Generations",
+      "Pokémon Chronicles",
+      "Pokémon: Aim to Be a Pokémon Master"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which character replaces Ash as the focus of the anime after the conclusion of his journey?",
+    "choices": [
+      "Liko",
+      "Goh",
+      "Roy",
+      "Chloe"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which Pokémon professor runs the Cerise Laboratory in Pokémon Journeys?",
+    "choices": [
+      "Professor Oak",
+      "Professor Cerise",
+      "Professor Kukui",
+      "Professor Magnolia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Alola professor becomes Ash's teacher and guardian at the Pokémon School?",
+    "choices": [
+      "Professor Burnet",
+      "Professor Oak",
+      "Professor Kukui",
+      "Professor Samson"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which couple is revealed to be married during Ash's Alola adventure?",
+    "choices": [
+      "Professor Oak and Delia",
+      "Brock and Nurse Joy",
+      "Clemont and Serena",
+      "Professor Kukui and Professor Burnet"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

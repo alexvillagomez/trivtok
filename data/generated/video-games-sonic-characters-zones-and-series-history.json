@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What kind of animal is Sonic?",
+    "choices": [
+      "A hedgehog",
+      "A fox",
+      "An echidna",
+      "A rabbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which company publishes the Sonic the Hedgehog series?",
+    "choices": [
+      "Nintendo",
+      "Sega",
+      "Capcom",
+      "Konami"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is Dr. Eggman’s usual goal?",
+    "choices": [
+      "Becoming a race champion",
+      "Finding a lost kingdom",
+      "World domination",
+      "Protecting the Chaos Emeralds from Sonic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What kind of animal is Tails?",
+    "choices": [
+      "A flying squirrel",
+      "A young wolf",
+      "A yellow hedgehog",
+      "A two-tailed fox"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What kind of animal is Knuckles?",
+    "choices": [
+      "An echidna",
+      "A badger",
+      "A pangolin",
+      "A mole"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is Amy Rose?",
+    "choices": [
+      "A rabbit",
+      "A pink hedgehog",
+      "A cat",
+      "A bird"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What color is Shadow the Hedgehog’s main body?",
+    "choices": [
+      "Blue",
+      "Silver",
+      "Black",
+      "Green"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which character is a robotic copy of Sonic?",
+    "choices": [
+      "Omega",
+      "E-102 Gamma",
+      "Silver",
+      "Metal Sonic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which zone is the iconic grassy opening area of the original Sonic game?",
+    "choices": [
+      "Green Hill Zone",
+      "Chemical Plant Zone",
+      "Sky Sanctuary Zone",
+      "Marble Garden Zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which zone is known for brightly colored industrial platforms and liquid hazards?",
+    "choices": [
+      "Green Hill Zone",
+      "Chemical Plant Zone",
+      "Ice Cap Zone",
+      "Sandopolis Zone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which zone in Sonic 2 has a casino-themed setting?",
+    "choices": [
+      "Carnival Night Zone",
+      "Casino Forest Zone",
+      "Casino Night Zone",
+      "Roulette Ruin Zone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What island is closely associated with Knuckles?",
+    "choices": [
+      "Little Planet",
+      "South Island",
+      "Starfall Island",
+      "Angel Island"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "What do rings generally do for Sonic in the classic games?",
+    "choices": [
+      "Protect him from taking a hit",
+      "Give him extra lives automatically",
+      "Unlock every zone",
+      "Make him invisible"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "How many Chaos Emeralds are usually collected in a Sonic game?",
+    "choices": [
+      "Five",
+      "Seven",
+      "Eight",
+      "Ten"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does Sonic become after gathering the Chaos Emeralds and using their power?",
+    "choices": [
+      "Dark Sonic",
+      "Hyper Eggman",
+      "Super Sonic",
+      "Chaos Sonic"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What move lets Sonic curl into a ball and accelerate along the ground?",
+    "choices": [
+      "The Homing Attack",
+      "The Light Speed Dash",
+      "The Boost",
+      "The Spin Dash"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What do springs usually do in Sonic levels?",
+    "choices": [
+      "Launch the character upward",
+      "Turn rings into enemies",
+      "Change the game’s language",
+      "Open the pause menu"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What are Chao?",
+    "choices": [
+      "Robot copies of Knuckles",
+      "Small creatures raised in several Sonic games",
+      "The seven Chaos Emeralds",
+      "Eggman’s airships"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What powerful gem does Knuckles traditionally guard?",
+    "choices": [
+      "The Green Emerald",
+      "The Phantom Ruby",
+      "The Master Emerald",
+      "The Sol Emerald"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the name of Tails’s biplane?",
+    "choices": [
+      "The Cyclone",
+      "The Hurricane",
+      "The Whirlwind",
+      "The Tornado"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the Death Egg?",
+    "choices": [
+      "A major space station built by Eggman",
+      "A Chaos Emerald",
+      "A racing vehicle",
+      "A Chao evolution"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which game introduced Tails as a playable companion in the main series?",
+    "choices": [
+      "Sonic the Hedgehog CD",
+      "Sonic the Hedgehog 2",
+      "Sonic 3D Blast",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which game introduced Metal Sonic?",
+    "choices": [
+      "Sonic 2",
+      "Sonic 3",
+      "Sonic CD",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which game introduced the modern version of Shadow as a central character?",
+    "choices": [
+      "Sonic Heroes",
+      "Sonic CD",
+      "Sonic Unleashed",
+      "Sonic Adventure 2"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which character is a purple cat who uses fire-based powers?",
+    "choices": [
+      "Blaze the Cat",
+      "Amy Rose",
+      "Rouge the Bat",
+      "Cream the Rabbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which character is a silver-furred hedgehog from the future?",
+    "choices": [
+      "Shadow the Hedgehog",
+      "Silver the Hedgehog",
+      "Mighty the Armadillo",
+      "Espio the Chameleon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Sonic character is a white rabbit accompanied by Cheese?",
+    "choices": [
+      "Blaze the Cat",
+      "Wave the Swallow",
+      "Cream the Rabbit",
+      "Vanilla the Rabbit"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which character is a pink bat and treasure hunter?",
+    "choices": [
+      "Amy Rose",
+      "Wave the Swallow",
+      "Tikal",
+      "Rouge the Bat"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which character is a large purple cat who fishes?",
+    "choices": [
+      "Big the Cat",
+      "Vector the Crocodile",
+      "Storm the Albatross",
+      "Zavok"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which detective-team member is a crocodile?",
+    "choices": [
+      "Espio",
+      "Vector",
+      "Charmy",
+      "Mighty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Chaotix member is a chameleon?",
+    "choices": [
+      "Vector",
+      "Charmy",
+      "Espio",
+      "Ray"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which game originally appeared on the Sega Genesis or Mega Drive?",
+    "choices": [
+      "Sonic Adventure",
+      "Sonic Colors",
+      "Sonic Frontiers",
+      "Sonic the Hedgehog"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which console was the original home of Sonic Adventure?",
+    "choices": [
+      "Sega Dreamcast",
+      "Sega Saturn",
+      "Sega Genesis",
+      "Nintendo 64"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which game combines Sonic characters with a party-board format?",
+    "choices": [
+      "Sonic Spinball",
+      "Sonic Shuffle",
+      "Sonic Battle",
+      "Sonic Rush"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which game features Sonic competing in a kart-style racing format?",
+    "choices": [
+      "Sonic Unleashed",
+      "Sonic Colors",
+      "Sonic & Sega All-Stars Racing",
+      "Sonic Advance"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which series has Sonic compete in Olympic events alongside Mario?",
+    "choices": [
+      "Sonic Riders",
+      "Sonic Boom",
+      "Sonic Battle",
+      "Mario & Sonic at the Olympic Games"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is Sonic X?",
+    "choices": [
+      "An animated television series",
+      "A Chaos Emerald form",
+      "A Sega console",
+      "A racing vehicle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which actor voiced Sonic in the live-action Sonic films?",
+    "choices": [
+      "Jim Carrey",
+      "Ben Schwartz",
+      "James Marsden",
+      "Idris Elba"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who plays Dr. Robotnik in the live-action Sonic films?",
+    "choices": [
+      "Ben Schwartz",
+      "Shemar Moore",
+      "Jim Carrey",
+      "Colleen O’Shaughnessey"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What is Sonic Boom?",
+    "choices": [
+      "A special ring attack",
+      "A Sega arcade cabinet only",
+      "A Chaos Emerald transformation",
+      "A Sonic spin-off game and animated series brand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which composer wrote the original Sonic 1 and Sonic 2 soundtracks?",
+    "choices": [
+      "Masato Nakamura",
+      "Jun Senoue",
+      "Tomoya Ohtani",
+      "Richard Jacques"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which ability lets modern Sonic attack a nearby enemy while homing toward it?",
+    "choices": [
+      "The Spin Dash",
+      "The Homing Attack",
+      "The Drop Dash",
+      "The Stomp"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which Sonic game is built around a werehog transformation at night?",
+    "choices": [
+      "Sonic Colors",
+      "Sonic Forces",
+      "Sonic Unleashed",
+      "Sonic Generations"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which game introduced collectible alien powers called Wisps?",
+    "choices": [
+      "Sonic Lost World",
+      "Sonic Rush",
+      "Sonic Mania",
+      "Sonic Colors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which game revisits stages from both classic and modern Sonic eras?",
+    "choices": [
+      "Sonic Generations",
+      "Sonic Heroes",
+      "Sonic Adventure 2",
+      "Sonic Superstars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which game is a 2017 retro-style title built around new and classic stages?",
+    "choices": [
+      "Sonic Forces",
+      "Sonic Mania",
+      "Sonic Rush Adventure",
+      "Sonic 4"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which game introduced the Starfall Islands as its major setting?",
+    "choices": [
+      "Sonic Forces",
+      "Sonic Lost World",
+      "Sonic Frontiers",
+      "Sonic Unleashed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which game lets players create a custom avatar alongside Sonic?",
+    "choices": [
+      "Sonic Frontiers",
+      "Sonic Colors",
+      "Sonic Adventure",
+      "Sonic Forces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which 2023 game is presented as a murder-mystery visual novel involving Sonic?",
+    "choices": [
+      "The Murder of Sonic the Hedgehog",
+      "Sonic Origins",
+      "Sonic Superstars",
+      "Sonic Shuffle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which 2023 platform game introduces Trip as a playable character?",
+    "choices": [
+      "Sonic Frontiers",
+      "Sonic Superstars",
+      "Sonic Mania",
+      "Sonic Rush"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What is unusual about Sonic & Knuckles’ relationship to Sonic 3?",
+    "choices": [
+      "It was released only as an arcade fighting game",
+      "It replaced all Chaos Emeralds with Sol Emeralds",
+      "Its lock-on technology could combine the two cartridges",
+      "It was the first game starring Shadow"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which hardware add-on originally hosted Knuckles’ Chaotix?",
+    "choices": [
+      "The Sega CD",
+      "The Sega Saturn",
+      "The Game Gear",
+      "The Sega 32X"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which character was playable in Knuckles’ Chaotix alongside Knuckles?",
+    "choices": [
+      "Mighty the Armadillo",
+      "Shadow the Hedgehog",
+      "Silver the Hedgehog",
+      "Blaze the Cat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which game introduced Amy Rose and Metal Sonic together in a time-travel story?",
+    "choices": [
+      "Sonic 3D Blast",
+      "Sonic CD",
+      "Sonic R",
+      "Sonic Adventure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What celestial object is central to Sonic CD’s time-travel setting?",
+    "choices": [
+      "The Death Egg",
+      "The ARK",
+      "Little Planet",
+      "The Starfall Islands"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Sega console received Sonic R?",
+    "choices": [
+      "Sega Dreamcast",
+      "Sega Genesis",
+      "Sega Master System",
+      "Sega Saturn"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Sonic Adventure 2, what is the orbital space colony called?",
+    "choices": [
+      "The ARK",
+      "The Death Egg",
+      "The Egg Carrier",
+      "The Space Colony Omega"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which character sacrifices herself in the backstory of Sonic Adventure 2?",
+    "choices": [
+      "Tikal",
+      "Maria Robotnik",
+      "Cosmo",
+      "Shade"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Who created Shadow the Hedgehog in the series’ lore?",
+    "choices": [
+      "Dr. Eggman",
+      "Miles Prower",
+      "Professor Gerald Robotnik",
+      "Black Doom"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the final combined threat fought in Sonic Adventure 2’s story?",
+    "choices": [
+      "Perfect Chaos",
+      "Dark Gaia",
+      "The Time Eater",
+      "The Finalhazard"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which formation is the central gameplay idea of Sonic Heroes?",
+    "choices": [
+      "Switching among three-character teams",
+      "Building a customizable robot",
+      "Traveling through four time periods",
+      "Collecting only one Emerald per game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which team includes Shadow, Rouge, and E-123 Omega in Sonic Heroes?",
+    "choices": [
+      "Team Sonic",
+      "Team Dark",
+      "Team Rose",
+      "Team Chaotix"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which villain is the main opponent of Sonic Heroes?",
+    "choices": [
+      "Mephiles",
+      "Infinite",
+      "Metal Sonic",
+      "The Deadly Six"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which game first centered Blaze the Cat’s separate set of Sol Emeralds?",
+    "choices": [
+      "Sonic Adventure",
+      "Sonic Heroes",
+      "Sonic Rivals",
+      "Sonic Rush"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is the usual relationship between the Sol Emeralds and Chaos Emeralds?",
+    "choices": [
+      "They are parallel emerald sets associated with Blaze’s dimension and Sonic’s world",
+      "They are two names for the same single emerald",
+      "Sol Emeralds belong exclusively to Eggman",
+      "Chaos Emeralds are created by the Sol Emeralds in every game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which handheld system was home to the Sonic Advance series?",
+    "choices": [
+      "Nintendo DS",
+      "Game Boy Advance",
+      "PlayStation Portable",
+      "Game Gear"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is Sonic’s special board technology called in Sonic Riders?",
+    "choices": [
+      "Chaos Wheels",
+      "Boost Boards",
+      "Extreme Gear",
+      "Tornado Gear"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which game’s story features Silver and the villain Mephiles?",
+    "choices": [
+      "Sonic Unleashed",
+      "Sonic Forces",
+      "Sonic Adventure 2",
+      "Sonic the Hedgehog (2006)"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which group are the main villains in Sonic Lost World?",
+    "choices": [
+      "The Deadly Six",
+      "The Babylon Rogues",
+      "The Hard Boiled Heavies",
+      "The Hooligans"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the Phantom Ruby associated with in Sonic Forces?",
+    "choices": [
+      "Blaze’s Sol Emeralds",
+      "Infinite’s reality-altering power",
+      "Shadow’s original creation",
+      "The Chao Gardens"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which developer is strongly associated with Sonic Mania’s retro design and reverse-engineering work?",
+    "choices": [
+      "Yuji Naka",
+      "Hideo Kojima",
+      "Christian Whitehead",
+      "Shigeru Miyamoto"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which design style best describes Sonic Mania?",
+    "choices": [
+      "A first-person racing simulator",
+      "A fully motion-captured adventure film",
+      "A turn-based role-playing game",
+      "A new 2D game modeled on the classic Genesis-era style"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What are the cyberspace stages in Sonic Frontiers primarily based on?",
+    "choices": [
+      "Remixed ideas from earlier Sonic stages",
+      "Real-world satellite imagery",
+      "Chao Garden minigames",
+      "Only Sonic Boom locations"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What are the large boss enemies called in Sonic Frontiers?",
+    "choices": [
+      "Colossi",
+      "Titans",
+      "Guardians of Gaia",
+      "Ancients"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which ancient people are connected to the major mystery of Sonic Frontiers?",
+    "choices": [
+      "The Babylon Rogues",
+      "The Echidna Tribe",
+      "The Ancients",
+      "The Wisps"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which musician is particularly associated with guitar work on Sonic 3 and Sonic Adventure-era music?",
+    "choices": [
+      "Masato Nakamura",
+      "Tomoya Ohtani",
+      "Hideki Naganuma",
+      "Jun Senoue"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which band recorded the Sonic Adventure 2 theme “Live and Learn”?",
+    "choices": [
+      "Crush 40",
+      "Sonic Youth",
+      "The Offspring",
+      "Dreams Come True"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which enemy type is the standard robotic foot soldier in many Sonic games?",
+    "choices": [
+      "Metarex",
+      "Badnik",
+      "Gizoids",
+      "Egg Pawns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is the name of the island guardian spirit associated with Knuckles’ ancient tribe?",
+    "choices": [
+      "Chaos",
+      "Chip",
+      "Tikal",
+      "Cosmo"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which ancient entity emerges from the Master Emerald in Sonic Adventure?",
+    "choices": [
+      "Dark Gaia",
+      "Perfect Dark",
+      "The End",
+      "Chaos"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does Perfect Chaos represent in Sonic Adventure’s climax?",
+    "choices": [
+      "Chaos transformed by the power of the Chaos Emeralds",
+      "A robotic version of Sonic",
+      "The final form of Metal Sonic",
+      "A time-traveling version of Shadow"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What was unusual about the original Dr. Robotnik’s Mean Bean Machine?",
+    "choices": [
+      "It was a 3D open-world adventure",
+      "It adapted a Puyo Puyo-style puzzle system",
+      "It was a kart racer with no puzzles",
+      "It used only fighting-game controls"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which Sonic title is a pinball game rather than a conventional platformer?",
+    "choices": [
+      "Sonic R",
+      "Sonic Rush",
+      "Sonic Spinball",
+      "Sonic Rivals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which title is a turn-based role-playing spin-off for the Game Boy Advance?",
+    "choices": [
+      "Sonic Shuffle",
+      "Sonic Riders",
+      "Sonic Labyrinth",
+      "Sonic Battle"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which title is a racing game built around teams of Sonic characters in vehicles?",
+    "choices": [
+      "Team Sonic Racing",
+      "Sonic Battle",
+      "Sonic Rush Adventure",
+      "Sonic and the Secret Rings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which character accompanies Sonic as his small guide in Sonic Unleashed?",
+    "choices": [
+      "Dark Gaia",
+      "Chip",
+      "Professor Pickle",
+      "Tails"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which character is the main playable avatar created by the player in Sonic Forces?",
+    "choices": [
+      "The Avatar",
+      "Infinite",
+      "The Rookie",
+      "The Custom Hero"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which game is a compilation of classic Sonic titles released for the series’ anniversary era?",
+    "choices": [
+      "Sonic Generations",
+      "Sonic Jam",
+      "Sega Smash Pack",
+      "Sonic Origins"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which game introduced the drop dash in its classic-style Sonic movement?",
+    "choices": [
+      "Sonic Mania",
+      "Sonic 3D Blast",
+      "Sonic CD",
+      "Sonic Superstars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which playable character is newly added to Sonic Superstars alongside Sonic, Tails, and Knuckles?",
+    "choices": [
+      "Blaze",
+      "Amy Rose",
+      "Rouge",
+      "Cream"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which Sonic game includes a playable character named Trip with armor-like abilities?",
+    "choices": [
+      "Sonic Mania Plus",
+      "Knuckles’ Chaotix",
+      "Sonic Superstars",
+      "Sonic Advance 3"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which Sonic adaptation is a Japanese animated series set around a cast of human and animal characters?",
+    "choices": [
+      "Sonic Underground",
+      "Sonic Boom",
+      "Adventures of Sonic the Hedgehog",
+      "Sonic X"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which adaptation features Sonic, Sonia, and Manic as siblings?",
+    "choices": [
+      "Sonic Underground",
+      "Sonic X",
+      "Sonic Boom",
+      "Sonic Prime"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which Sonic title is a 2000 party game released for the Sega Dreamcast?",
+    "choices": [
+      "Sonic Adventure DX",
+      "Sonic Shuffle",
+      "Sonic Riders",
+      "Sonic Battle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which character is the leader of the Babylon Rogues?",
+    "choices": [
+      "Wave the Swallow",
+      "Storm the Albatross",
+      "Jet the Hawk",
+      "Fang the Sniper"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which game centers on the Babylon Rogues and Extreme Gear racing?",
+    "choices": [
+      "Sonic R",
+      "Team Sonic Racing",
+      "Sonic Drift",
+      "Sonic Riders"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the name of Eggman’s recurring airborne carrier in Sonic Adventure?",
+    "choices": [
+      "The Egg Carrier",
+      "The Death Egg",
+      "The Egg Fleet",
+      "The Eggmobile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which Sonic game’s title refers to a secret ring in an Arabian Nights-inspired setting?",
+    "choices": [
+      "Sonic and the Black Knight",
+      "Sonic and the Secret Rings",
+      "Sonic Unleashed",
+      "Sonic Rush Adventure"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which game places Sonic in an Arthurian fantasy setting with a magical sword?",
+    "choices": [
+      "Sonic and the Secret Rings",
+      "Sonic Frontiers",
+      "Sonic and the Black Knight",
+      "Sonic Heroes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which title is a crossover fighting game appearance rather than a mainline Sonic release?",
+    "choices": [
+      "Sonic Adventure",
+      "Sonic CD",
+      "Sonic Generations",
+      "Super Smash Bros."
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

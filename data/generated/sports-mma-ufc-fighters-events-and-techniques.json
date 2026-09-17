@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What does MMA stand for?",
+    "choices": [
+      "Mixed martial arts",
+      "Modern martial athletics",
+      "Multiple movement arena",
+      "Martial matches association"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What is the UFC?",
+    "choices": [
+      "A boxing rules committee",
+      "A major mixed-martial-arts promotion",
+      "A wrestling video game",
+      "A karate belt system"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is the eight-sided fighting area used by the UFC commonly called?",
+    "choices": [
+      "The Cage Dome",
+      "The Eight Ring",
+      "The Octagon",
+      "The Combat Circle"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "How long is a standard MMA round usually scheduled to last?",
+    "choices": [
+      "Three minutes",
+      "Ten minutes",
+      "Twelve minutes",
+      "Five minutes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "How many rounds are normally scheduled for a UFC non-title fight?",
+    "choices": [
+      "Three",
+      "Two",
+      "Five",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.19
+  },
+  {
+    "text": "How many rounds are normally scheduled for a UFC title fight?",
+    "choices": [
+      "Three",
+      "Five",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What does a knockout usually mean?",
+    "choices": [
+      "A win awarded only by fan vote",
+      "A fight stopped because a glove is loose",
+      "A finish in which a strike renders an opponent unable to continue",
+      "A draw after all rounds"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does TKO stand for?",
+    "choices": [
+      "Total kick offense",
+      "Timed knockout",
+      "Tournament knockout",
+      "Technical knockout"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.22
+  },
+  {
+    "text": "What is a submission victory?",
+    "choices": [
+      "A victory caused by an opponent giving up or the referee stopping the contest",
+      "A win based only on takedowns",
+      "A victory awarded before the opening bell",
+      "A decision made by the audience"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a fighter commonly do to signal a submission?",
+    "choices": [
+      "Raise both gloves for a score",
+      "Tap",
+      "Leave the arena",
+      "Touch the referee’s shoe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which judging system is associated with modern UFC scoring?",
+    "choices": [
+      "The five-star system",
+      "The knockout-only system",
+      "The ten-point must system",
+      "The round-robin system"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which division is lighter than lightweight?",
+    "choices": [
+      "Middleweight",
+      "Welterweight",
+      "Light heavyweight",
+      "Featherweight"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which division is heavier than welterweight?",
+    "choices": [
+      "Middleweight",
+      "Bantamweight",
+      "Featherweight",
+      "Flyweight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which is the heaviest standard UFC division?",
+    "choices": [
+      "Light heavyweight",
+      "Heavyweight",
+      "Super heavyweight",
+      "Cruiserweight"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which women’s division is traditionally the lightest among these UFC classes?",
+    "choices": [
+      "Bantamweight",
+      "Featherweight",
+      "Strawweight",
+      "Flyweight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a takedown?",
+    "choices": [
+      "Scoring by leaving the cage",
+      "A type of glove inspection",
+      "A change of weight class",
+      "Bringing an opponent from standing to the ground"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the guard in grappling terminology?",
+    "choices": [
+      "A ground position in which one fighter uses the legs around an opponent",
+      "The referee’s position outside the cage",
+      "A defensive helmet",
+      "A pre-fight stance only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the mount?",
+    "choices": [
+      "A type of entrance ramp",
+      "A dominant ground position with one fighter above the other’s torso",
+      "A method of wrapping hands",
+      "A kick thrown from distance"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a clinch?",
+    "choices": [
+      "A judges’ meeting",
+      "A type of championship belt",
+      "A close-range tie-up while both fighters are standing",
+      "A training schedule"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is a jab?",
+    "choices": [
+      "A spinning takedown",
+      "A submission hold",
+      "A kick to the thigh",
+      "A quick straight punch, usually from the lead hand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What is a leg kick?",
+    "choices": [
+      "A kick aimed at an opponent’s leg",
+      "A rule violation involving the cage",
+      "A kick used only in warmups",
+      "A judges’ scoring gesture"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is ground-and-pound in MMA commentary?",
+    "choices": [
+      "A ceremonial pre-fight dance",
+      "Striking while the action is on the ground",
+      "A type of footwork drill",
+      "A method of weighing fighters"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which famous fighter won UFC 1 in 1993?",
+    "choices": [
+      "Ken Shamrock",
+      "Dan Severn",
+      "Royce Gracie",
+      "Gerard Gordeau"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which fighter was known as “The Iceman”?",
+    "choices": [
+      "Randy Couture",
+      "Tito Ortiz",
+      "Wanderlei Silva",
+      "Chuck Liddell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which fighter was known as “The Natural”?",
+    "choices": [
+      "Randy Couture",
+      "Matt Hughes",
+      "Frank Shamrock",
+      "Bas Rutten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which fighter held a long UFC middleweight championship reign in the 2000s?",
+    "choices": [
+      "Rich Franklin",
+      "Anderson Silva",
+      "Michael Bisping",
+      "Chris Weidman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which fighter was nicknamed GSP?",
+    "choices": [
+      "Gilbert Silva Pereira",
+      "Gunnar St-Pierre",
+      "Georges St-Pierre",
+      "Gabriel Santos Pereira"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which fighter was nicknamed “Bones”?",
+    "choices": [
+      "Daniel Cormier",
+      "Rashad Evans",
+      "Quinton Jackson",
+      "Jon Jones"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which woman became the UFC’s first female champion?",
+    "choices": [
+      "Ronda Rousey",
+      "Amanda Nunes",
+      "Holly Holm",
+      "Miesha Tate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which fighter became a two-division UFC champion in women’s MMA?",
+    "choices": [
+      "Joanna Jędrzejczyk",
+      "Amanda Nunes",
+      "Valentina Shevchenko",
+      "Rose Namajunas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Irish fighter became the UFC’s first simultaneous two-division champion?",
+    "choices": [
+      "Michael Bisping",
+      "Darren Till",
+      "Conor McGregor",
+      "Paul Hughes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which fighter was known for an unbeaten lightweight reign before retiring in 2020?",
+    "choices": [
+      "Tony Ferguson",
+      "Eddie Alvarez",
+      "Charles Oliveira",
+      "Khabib Nurmagomedov"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which Brazilian fighter was a longtime UFC featherweight champion?",
+    "choices": [
+      "José Aldo",
+      "Renan Barao",
+      "Junior dos Santos",
+      "Wanderlei Silva"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which fighter was known as “The Last Emperor”?",
+    "choices": [
+      "Anderson Silva",
+      "Fedor Emelianenko",
+      "Mirko Cro Cop",
+      "Antonio Rodrigo Nogueira"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which promotion was a major rival to the UFC in Japan during the 2000s?",
+    "choices": [
+      "Bellator",
+      "ONE Championship",
+      "PRIDE Fighting Championships",
+      "Strikeforce"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which organization was acquired by the UFC in 2011?",
+    "choices": [
+      "PRIDE",
+      "Bellator",
+      "WEC",
+      "Strikeforce"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which promotion’s lighter-weight divisions were absorbed into the UFC around 2010?",
+    "choices": [
+      "WEC",
+      "PRIDE",
+      "EliteXC",
+      "Affliction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Where was the first UFC event held in 1993?",
+    "choices": [
+      "Las Vegas",
+      "Denver",
+      "New York City",
+      "Los Angeles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which arena hosted UFC 205, the UFC’s first event in New York?",
+    "choices": [
+      "Barclays Center",
+      "Yankee Stadium",
+      "Madison Square Garden",
+      "MetLife Stadium"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which UFC event featured Conor McGregor versus Khabib Nurmagomedov?",
+    "choices": [
+      "UFC 205",
+      "UFC 194",
+      "UFC 217",
+      "UFC 229"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which event featured McGregor’s quick victory over José Aldo?",
+    "choices": [
+      "UFC 194",
+      "UFC 189",
+      "UFC 205",
+      "UFC 229"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which event featured Ronda Rousey’s upset loss to Holly Holm?",
+    "choices": [
+      "UFC 157",
+      "UFC 193",
+      "UFC 207",
+      "UFC 200"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is a championship interim belt intended to represent?",
+    "choices": [
+      "A belt for the lowest-ranked fighter",
+      "A prize for the best knockout of the night",
+      "A temporary title while the undisputed champion is unavailable",
+      "A title awarded only in exhibition bouts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What does pound-for-pound usually compare?",
+    "choices": [
+      "The literal weight of a punch",
+      "Only fighters’ body weight",
+      "Ticket sales per fighter",
+      "Fighters’ perceived skill across weight classes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is a fight at a mutually agreed weight outside the usual division called?",
+    "choices": [
+      "A catchweight bout",
+      "A title eliminator",
+      "A super fight only",
+      "A catch-and-release bout"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which UFC commentator and former fighter was nicknamed “The American Gangster”?",
+    "choices": [
+      "Michael Bisping",
+      "Chael Sonnen",
+      "Joe Rogan",
+      "Dan Hardy"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which fighter is strongly associated with the nickname “The Spider”?",
+    "choices": [
+      "José Aldo",
+      "Lyoto Machida",
+      "Anderson Silva",
+      "Vitor Belfort"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which fighter is nicknamed “Thug Rose”?",
+    "choices": [
+      "Joanna Jędrzejczyk",
+      "Zhang Weili",
+      "Carla Esparza",
+      "Rose Namajunas"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which fighter is nicknamed “The Last Stylebender”?",
+    "choices": [
+      "Israel Adesanya",
+      "Robert Whittaker",
+      "Alex Pereira",
+      "Stephen Thompson"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which fighter is known as “Blessed”?",
+    "choices": [
+      "Dustin Poirier",
+      "Max Holloway",
+      "Frankie Edgar",
+      "Brian Ortega"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who won UFC 1 using a Brazilian jiu-jitsu-based approach against larger opponents?",
+    "choices": [
+      "Ken Shamrock",
+      "Dan Severn",
+      "Royce Gracie",
+      "Kevin Rosier"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which rule change helped standardize modern MMA around the year 2000?",
+    "choices": [
+      "The Olympic Boxing Code",
+      "The Octagon Charter",
+      "The Nevada Grappling Act",
+      "The Unified Rules of Mixed Martial Arts"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What major distinction did early UFC events lack compared with modern UFC bouts?",
+    "choices": [
+      "They had far fewer weight divisions and restrictions",
+      "They used only three-minute rounds",
+      "They were judged by figure-skating panels",
+      "They permitted only boxing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Who purchased the UFC in 2001 through Zuffa with Lorenzo and Frank Fertitta?",
+    "choices": [
+      "Vince McMahon and Shane McMahon",
+      "Dana White and the Fertitta brothers",
+      "Bob Arum and Don King",
+      "Scott Coker and Bjorn Rebney"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What happened to PRIDE Fighting Championships after its major decline in the 2000s?",
+    "choices": [
+      "It became the women’s UFC division",
+      "It merged with the Olympic Games",
+      "Its assets were acquired by the UFC’s owners",
+      "It moved exclusively to amateur boxing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which event marked the UFC’s formal debut at Madison Square Garden?",
+    "choices": [
+      "UFC 200",
+      "UFC 217",
+      "UFC 244",
+      "UFC 205"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which fighter defeated Michael Bisping at UFC 217 to win the middleweight title?",
+    "choices": [
+      "Georges St-Pierre",
+      "Robert Whittaker",
+      "Luke Rockhold",
+      "Chris Weidman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which fighter became the first UFC champion from New Zealand?",
+    "choices": [
+      "Mark Hunt",
+      "Robert Whittaker",
+      "Israel Adesanya",
+      "Dan Hooker"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which fighter set the historical UFC record for consecutive flyweight title defenses before losing the belt?",
+    "choices": [
+      "Henry Cejudo",
+      "Brandon Moreno",
+      "Demetrious Johnson",
+      "Joseph Benavidez"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which fighter was the first UFC women’s strawweight champion?",
+    "choices": [
+      "Joanna Jędrzejczyk",
+      "Rose Namajunas",
+      "Zhang Weili",
+      "Carla Esparza"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which fight was the first women’s bout in UFC history?",
+    "choices": [
+      "Ronda Rousey vs. Liz Carmouche",
+      "Cris Cyborg vs. Ronda Rousey",
+      "Miesha Tate vs. Holly Holm",
+      "Joanna Jędrzejczyk vs. Carla Esparza"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which UFC event hosted that first women’s fight?",
+    "choices": [
+      "UFC 170",
+      "UFC 157",
+      "UFC 168",
+      "UFC 193"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which fighter became the first UFC champion from Africa?",
+    "choices": [
+      "Israel Adesanya",
+      "Francis Ngannou",
+      "Kamaru Usman",
+      "Dricus du Plessis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which fighter became the first UFC heavyweight champion from Cameroon?",
+    "choices": [
+      "Kamaru Usman",
+      "Ciryl Gane",
+      "Derrick Lewis",
+      "Francis Ngannou"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which fighter defeated Stipe Miocic to win the UFC heavyweight title in 2021?",
+    "choices": [
+      "Francis Ngannou",
+      "Daniel Cormier",
+      "Jon Jones",
+      "Curtis Blaydes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which fighter became the youngest UFC champion when he won the light-heavyweight title in 2011?",
+    "choices": [
+      "Rashad Evans",
+      "Jon Jones",
+      "Luke Rockhold",
+      "Chris Weidman"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which fighter was the first simultaneous UFC women’s bantamweight and featherweight champion?",
+    "choices": [
+      "Cris Cyborg",
+      "Holly Holm",
+      "Amanda Nunes",
+      "Germaine de Randamie"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which fighter retired from the UFC with a documented 29–0 professional record?",
+    "choices": [
+      "Georges St-Pierre",
+      "Fedor Emelianenko",
+      "Islam Makhachev",
+      "Khabib Nurmagomedov"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which grappling submission is often associated with Royce Gracie’s early UFC victories?",
+    "choices": [
+      "The rear-naked choke",
+      "The calf slicer",
+      "The twister",
+      "The Von Flue choke"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which submission shares its name with a type of necktie and is common in MMA terminology?",
+    "choices": [
+      "The Windsor lock",
+      "The guillotine choke",
+      "The bow tie",
+      "The collar triangle"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which submission is commonly named after a figure-four leg configuration around an opponent’s neck?",
+    "choices": [
+      "The kimura",
+      "The armbar",
+      "The triangle",
+      "The kneebar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which submission is named for a shoulder-locking technique associated with Masahiko Kimura?",
+    "choices": [
+      "The americana",
+      "The omoplata",
+      "The bulldog choke",
+      "The kimura"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What does “orthodox” usually describe in a fighter’s stance?",
+    "choices": [
+      "Left foot forward with the right hand as the rear hand",
+      "Right foot forward with the left hand as the rear hand",
+      "A stance with both feet parallel",
+      "A stance used only by wrestlers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "What does “southpaw” usually describe in striking terminology?",
+    "choices": [
+      "Left foot forward with the right hand as the rear hand",
+      "Right foot forward with the left hand as the rear hand",
+      "A stance with no lead hand",
+      "A grappling position on the fence"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "What is a sprawl in MMA terminology?",
+    "choices": [
+      "A type of championship decision",
+      "A spinning punch",
+      "A defensive response to an attempted takedown",
+      "A referee’s hand signal"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which judging criterion was emphasized first under the Unified Rules?",
+    "choices": [
+      "Popularity of the walkout",
+      "Number of social-media followers",
+      "Length of a fighter’s career",
+      "Effective striking and grappling"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a no contest?",
+    "choices": [
+      "A bout officially ruled without a winner under specified circumstances",
+      "A unanimous decision for the champion",
+      "A fight with no spectators",
+      "A title fight with five rounds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "What is a “doctor stoppage”?",
+    "choices": [
+      "A timeout to discuss tactics",
+      "A fight ended on medical advice because a fighter cannot safely continue",
+      "A required pre-fight physical",
+      "A judges’ review of a close round"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which event is remembered for Brock Lesnar defeating Randy Couture for the UFC heavyweight title?",
+    "choices": [
+      "UFC 100",
+      "UFC 116",
+      "UFC 91",
+      "UFC 121"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which event featured Georges St-Pierre defeating Michael Bisping for the middleweight title?",
+    "choices": [
+      "UFC 214",
+      "UFC 200",
+      "UFC 205",
+      "UFC 217"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which event featured Ronda Rousey defeating Liz Carmouche in the first UFC women’s bout?",
+    "choices": [
+      "UFC 157",
+      "UFC 161",
+      "UFC 170",
+      "UFC 190"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which organization did the UFC absorb to bring WEC’s top lighter-weight fighters into the UFC?",
+    "choices": [
+      "Pride FC",
+      "World Extreme Cagefighting",
+      "Strikeforce",
+      "Affliction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which champion unified the UFC and WEC featherweight lineages after the merger?",
+    "choices": [
+      "Urijah Faber",
+      "Dominick Cruz",
+      "José Aldo",
+      "Chad Mendes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which fighter is associated with the phrase “The Korean Zombie”?",
+    "choices": [
+      "Brian Ortega",
+      "Korean Superboy",
+      "Dong Hyun Kim",
+      "Chan Sung Jung"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which former UFC champion was also a successful Olympic wrestler?",
+    "choices": [
+      "Daniel Cormier",
+      "Anderson Silva",
+      "José Aldo",
+      "Conor McGregor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which fighter won UFC titles in both welterweight and lightweight?",
+    "choices": [
+      "Frankie Edgar",
+      "B.J. Penn",
+      "Rafael dos Anjos",
+      "Eddie Alvarez"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which fighter was the first UFC light-heavyweight champion?",
+    "choices": [
+      "Tito Ortiz",
+      "Chuck Liddell",
+      "Frank Shamrock",
+      "Randy Couture"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which former PRIDE champion was known as “The Axe Murderer”?",
+    "choices": [
+      "Maurício Rua",
+      "Quinton Jackson",
+      "Anderson Silva",
+      "Wanderlei Silva"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which fighter became a UFC champion after an Olympic wrestling career and later coached on The Ultimate Fighter?",
+    "choices": [
+      "Randy Couture",
+      "Matt Serra",
+      "Rich Franklin",
+      "Forrest Griffin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which reality series helped introduce many early UFC fighters to a wider television audience?",
+    "choices": [
+      "UFC Academy",
+      "The Ultimate Fighter",
+      "Fight Camp",
+      "MMA House"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which UFC event is associated with the first major title win by Conor McGregor?",
+    "choices": [
+      "UFC 189",
+      "UFC 205",
+      "UFC 194",
+      "UFC 196"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which fighter did Conor McGregor defeat at UFC 194?",
+    "choices": [
+      "Chad Mendes",
+      "Eddie Alvarez",
+      "Nate Diaz",
+      "José Aldo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which fighter did McGregor defeat at UFC 205 to become a simultaneous two-division champion?",
+    "choices": [
+      "Eddie Alvarez",
+      "José Aldo",
+      "Nate Diaz",
+      "Donald Cerrone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which fighter is associated with the nickname “The Eagle”?",
+    "choices": [
+      "Islam Makhachev",
+      "Khabib Nurmagomedov",
+      "Alexander Volkanovski",
+      "Islam Dulatov"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which country is strongly associated with Khabib Nurmagomedov’s fighting background?",
+    "choices": [
+      "Brazil",
+      "Ireland",
+      "Russia",
+      "Canada"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which fighter defeated Khabib’s teammate to win the UFC lightweight title in 2022?",
+    "choices": [
+      "Charles Oliveira",
+      "Dustin Poirier",
+      "Justin Gaethje",
+      "Islam Makhachev"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which fighter was known for a record-setting run as UFC middleweight champion before losing to Chris Weidman?",
+    "choices": [
+      "Anderson Silva",
+      "Rich Franklin",
+      "Chael Sonnen",
+      "Vitor Belfort"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which fighter defeated Anderson Silva twice in title fights?",
+    "choices": [
+      "Michael Bisping",
+      "Chris Weidman",
+      "Chael Sonnen",
+      "Luke Rockhold"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which fighter became the first UFC champion from Nigeria?",
+    "choices": [
+      "Israel Adesanya",
+      "Francis Ngannou",
+      "Kamaru Usman",
+      "Anthony Joshua"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which fighter won the UFC middleweight title from Robert Whittaker in 2019?",
+    "choices": [
+      "Yoel Romero",
+      "Paulo Costa",
+      "Kelvin Gastelum",
+      "Israel Adesanya"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  }
+]

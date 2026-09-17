@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which band is commonly known as the Fab Four?",
+    "choices": [
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "The Kinks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which British band recorded '(I Can't Get No) Satisfaction'?",
+    "choices": [
+      "The Beatles",
+      "The Rolling Stones",
+      "The Who",
+      "The Yardbirds"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which British band released an untitled 1971 album commonly identified by four symbols?",
+    "choices": [
+      "Black Sabbath",
+      "Deep Purple",
+      "Led Zeppelin",
+      "The Who"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which band's classic lineup included Freddie Mercury, Brian May, Roger Taylor, and John Deacon?",
+    "choices": [
+      "The Who",
+      "Genesis",
+      "ELO",
+      "Queen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "Who played lead guitar in the psychedelic-rock trio known as the Experience?",
+    "choices": [
+      "Jimi Hendrix",
+      "Eric Clapton",
+      "Jeff Beck",
+      "Jimmy Page"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which singer-songwriter recorded 'Like a Rolling Stone'?",
+    "choices": [
+      "Neil Young",
+      "Bob Dylan",
+      "Van Morrison",
+      "Leonard Cohen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which artist created the persona Ziggy Stardust?",
+    "choices": [
+      "Lou Reed",
+      "Peter Gabriel",
+      "David Bowie",
+      "Iggy Pop"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Who recorded the album Born to Run?",
+    "choices": [
+      "Tom Petty",
+      "Billy Joel",
+      "John Mellencamp",
+      "Bruce Springsteen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Which band released the album Rumours?",
+    "choices": [
+      "Fleetwood Mac",
+      "The Eagles",
+      "Heart",
+      "The Doobie Brothers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which Australian band released Back in Black?",
+    "choices": [
+      "Midnight Oil",
+      "AC/DC",
+      "INXS",
+      "Men at Work"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which band recorded Appetite for Destruction?",
+    "choices": [
+      "Aerosmith",
+      "Mötley Crüe",
+      "Guns N' Roses",
+      "Poison"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which Irish band released The Joshua Tree?",
+    "choices": [
+      "The Cranberries",
+      "Thin Lizzy",
+      "The Boomtown Rats",
+      "U2"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which Beatles album features a famous zebra crossing on its cover?",
+    "choices": [
+      "Abbey Road",
+      "Let It Be",
+      "Revolver",
+      "Help!"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which Beatles album is named after an imaginary band?",
+    "choices": [
+      "The Beatles",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour",
+      "Rubber Soul"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which Rolling Stones album has a famous zipper cover?",
+    "choices": [
+      "Exile on Main St.",
+      "Some Girls",
+      "Sticky Fingers",
+      "Let It Bleed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which 1975 Pink Floyd album includes a nine-part tribute to Syd Barrett and a title song about absence?",
+    "choices": [
+      "Animals",
+      "Meddle",
+      "The Wall",
+      "Wish You Were Here"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which 1975 Queen album includes 'Bohemian Rhapsody' and 'Love of My Life'?",
+    "choices": [
+      "A Night at the Opera",
+      "News of the World",
+      "Sheer Heart Attack",
+      "The Game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which 1984 Prince project was released as both a soundtrack album and a film?",
+    "choices": [
+      "1999",
+      "Purple Rain",
+      "Sign o' the Times",
+      "Parade"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which Led Zeppelin song is an extended rock epic beginning quietly before building dramatically?",
+    "choices": [
+      "Kashmir",
+      "Whole Lotta Love",
+      "Stairway to Heaven",
+      "Black Dog"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which Deep Purple song is built around a famous guitar riff?",
+    "choices": [
+      "Highway Star",
+      "Perfect Strangers",
+      "Child in Time",
+      "Smoke on the Water"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which band recorded 'Free Bird'?",
+    "choices": [
+      "Lynyrd Skynyrd",
+      "The Allman Brothers Band",
+      "Molly Hatchet",
+      "38 Special"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which band had a hit with 'Dream On'?",
+    "choices": [
+      "Boston",
+      "Aerosmith",
+      "Foreigner",
+      "Journey"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which Fleetwood Mac song is associated with Lindsey Buckingham's guitar and vocals?",
+    "choices": [
+      "Dreams",
+      "The Chain",
+      "Go Your Own Way",
+      "Rhiannon"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Queen song became famous for its operatic middle section?",
+    "choices": [
+      "We Will Rock You",
+      "Somebody to Love",
+      "Radio Ga Ga",
+      "Bohemian Rhapsody"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which AC/DC song shares its title with the band's best-known album?",
+    "choices": [
+      "Back in Black",
+      "Thunderstruck",
+      "T.N.T.",
+      "You Shook Me All Night Long"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Rolling Stones song is known for its prominent sitar-like texture?",
+    "choices": [
+      "Jumpin' Jack Flash",
+      "Paint It, Black",
+      "Brown Sugar",
+      "Gimme Shelter"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Jimi Hendrix song shares its title with a color and a weather phenomenon?",
+    "choices": [
+      "Red House",
+      "Little Wing",
+      "Purple Haze",
+      "Voodoo Child"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Who recorded the song 'Imagine'?",
+    "choices": [
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr",
+      "John Lennon"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which band is associated with the guitar-driven anthem 'More Than a Feeling'?",
+    "choices": [
+      "Boston",
+      "Kansas",
+      "Styx",
+      "Foreigner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which band recorded 'The Boys Are Back in Town'?",
+    "choices": [
+      "Cheap Trick",
+      "Thin Lizzy",
+      "Status Quo",
+      "Bad Company"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which artist's album The Wall features the song 'Another Brick in the Wall'?",
+    "choices": [
+      "The Alan Parsons Project",
+      "Supertramp",
+      "Pink Floyd",
+      "Genesis"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Beatles song is named after a bird and features a distinctive acoustic guitar?",
+    "choices": [
+      "Norwegian Wood",
+      "Julia",
+      "Across the Universe",
+      "Blackbird"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which instrument is most closely associated with a typical rock lead-guitar solo?",
+    "choices": [
+      "Electric guitar",
+      "Oboe",
+      "Harp",
+      "Tuba"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does a rock band's rhythm section usually include?",
+    "choices": [
+      "Violin and flute",
+      "Bass and drums",
+      "Trumpet and saxophone only",
+      "Piano and harp only"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which concert is associated with the famous 1969 festival in upstate New York?",
+    "choices": [
+      "Live Aid",
+      "Monterey Pop",
+      "Woodstock",
+      "Altamont"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which artist performed a memorable rendition of the U.S. national anthem at Woodstock?",
+    "choices": [
+      "Janis Joplin",
+      "Joe Cocker",
+      "The Who",
+      "Jimi Hendrix"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which album cover features a prism splitting a beam of light?",
+    "choices": [
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "The Wall",
+      "Animals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which band is associated with the album cover depicting a pig over Battersea Power Station?",
+    "choices": [
+      "Led Zeppelin",
+      "Pink Floyd",
+      "The Rolling Stones",
+      "Black Sabbath"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which band recorded the song 'Sweet Child o' Mine'?",
+    "choices": [
+      "Bon Jovi",
+      "Van Halen",
+      "Guns N' Roses",
+      "Def Leppard"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which singer-songwriter was nicknamed the Godfather of Punk?",
+    "choices": [
+      "Lou Reed",
+      "Iggy Pop",
+      "David Bowie",
+      "Patti Smith"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which band released a 1978 self-titled debut featuring the instrumental 'Eruption'?",
+    "choices": [
+      "Van Halen",
+      "Kiss",
+      "Rush",
+      "Whitesnake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which band recorded 'Stay with Me' with Rod Stewart as its lead singer?",
+    "choices": [
+      "The Kinks",
+      "The Faces",
+      "Small Faces",
+      "Humble Pie"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which singer was the front person of Big Brother and the Holding Company?",
+    "choices": [
+      "Grace Slick",
+      "Joni Mitchell",
+      "Janis Joplin",
+      "Carole King"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which band recorded 'Riders on the Storm'?",
+    "choices": [
+      "The Byrds",
+      "Jefferson Airplane",
+      "The Zombies",
+      "The Doors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which band recorded 'Carry on Wayward Son'?",
+    "choices": [
+      "Kansas",
+      "Styx",
+      "Boston",
+      "REO Speedwagon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which band had a 1970s hit titled 'Baba O'Riley'?",
+    "choices": [
+      "The Kinks",
+      "The Who",
+      "The Jam",
+      "The Clash"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Birmingham band recorded a 1970 debut whose title track helped define heavy metal?",
+    "choices": [
+      "Deep Purple",
+      "Judas Priest",
+      "Black Sabbath",
+      "Motörhead"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is the official title of the 1968 double album commonly called the White Album?",
+    "choices": [
+      "The White Album Sessions",
+      "Abbey Road",
+      "The Beatles Again",
+      "The Beatles"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which band released the album 2112?",
+    "choices": [
+      "Rush",
+      "Yes",
+      "Emerson, Lake & Palmer",
+      "Triumph"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which band recorded the 1970s album The Rise and Fall of Ziggy Stardust and the Spiders from Mars?",
+    "choices": [
+      "T. Rex",
+      "David Bowie",
+      "Roxy Music",
+      "Mott the Hoople"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Who produced most of the Beatles' classic studio recordings?",
+    "choices": [
+      "Phil Spector",
+      "Glyn Johns",
+      "George Martin",
+      "Brian Eno"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which manager helped guide the Beatles' early rise?",
+    "choices": [
+      "Andrew Loog Oldham",
+      "Peter Grant",
+      "Allen Klein",
+      "Brian Epstein"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Where did the Beatles give their famous final public rooftop performance?",
+    "choices": [
+      "The roof of Apple Corps headquarters in London",
+      "The roof of Abbey Road Studios",
+      "The roof of Shea Stadium",
+      "The roof of the Cavern Club"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Beatles album was released after Abbey Road despite being recorded largely earlier?",
+    "choices": [
+      "Revolver",
+      "Let It Be",
+      "Sgt. Pepper's Lonely Hearts Club Band",
+      "Magical Mystery Tour"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Where was much of the Rolling Stones' Exile on Main St. recorded?",
+    "choices": [
+      "A studio in Nashville",
+      "A house in Los Angeles",
+      "A villa in the south of France",
+      "A castle in Scotland"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Who was the Rolling Stones' original bassist before Bill Wyman joined?",
+    "choices": [
+      "Mick Taylor",
+      "Ronnie Wood",
+      "Ian Stewart",
+      "Dick Taylor"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which early Rolling Stones member left the band before its most commercially successful period?",
+    "choices": [
+      "Brian Jones",
+      "Mick Taylor",
+      "Bill Wyman",
+      "Charlie Watts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Who was Led Zeppelin's longtime drummer?",
+    "choices": [
+      "Keith Moon",
+      "John Bonham",
+      "Bill Ward",
+      "Mitch Mitchell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which person managed Led Zeppelin and was known for his powerful business role?",
+    "choices": [
+      "Brian Epstein",
+      "Andrew Loog Oldham",
+      "Peter Grant",
+      "Don Arden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is distinctive about the title of Led Zeppelin's fourth studio album?",
+    "choices": [
+      "It is named after a city",
+      "It is a live album",
+      "It is titled after a band member",
+      "It has no official written title"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which label was founded by Led Zeppelin?",
+    "choices": [
+      "Swan Song Records",
+      "Apple Records",
+      "Dark Horse Records",
+      "Dunhill Records"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Who was Pink Floyd's original frontman and principal songwriter?",
+    "choices": [
+      "Roger Waters",
+      "Syd Barrett",
+      "David Gilmour",
+      "Richard Wright"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which engineer worked on The Dark Side of the Moon and later became a solo artist?",
+    "choices": [
+      "Eddie Kramer",
+      "Geoff Emerick",
+      "Alan Parsons",
+      "Andy Johns"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which design group created much of Pink Floyd's iconic album artwork?",
+    "choices": [
+      "The Designers Republic",
+      "Peter Saville Associates",
+      "Factory Records",
+      "Hipgnosis"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which Queen member played bass?",
+    "choices": [
+      "John Deacon",
+      "Brian May",
+      "Roger Taylor",
+      "Freddie Mercury"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Who produced Queen's A Night at the Opera?",
+    "choices": [
+      "George Martin",
+      "Roy Thomas Baker",
+      "Bob Ezrin",
+      "Mutt Lange"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which 1985 concert featured Queen's celebrated performance at Wembley?",
+    "choices": [
+      "The Us Festival",
+      "Rock in Rio",
+      "Live Aid",
+      "Farm Aid"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which album is part of David Bowie's so-called Berlin trilogy?",
+    "choices": [
+      "Hunky Dory",
+      "Let's Dance",
+      "Aladdin Sane",
+      "Low"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which musician co-produced several of Bowie's Berlin-era albums and played keyboards?",
+    "choices": [
+      "Brian Eno",
+      "Todd Rundgren",
+      "Robert Fripp",
+      "Tony Visconti"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which Bob Dylan album contains the long-form song 'Desolation Row'?",
+    "choices": [
+      "Blonde on Blonde",
+      "Highway 61 Revisited",
+      "Blood on the Tracks",
+      "Bringing It All Back Home"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "At which 1965 festival did Dylan famously play an electric set that divided folk fans?",
+    "choices": [
+      "Monterey Pop Festival",
+      "Woodstock",
+      "Newport Folk Festival",
+      "Isle of Wight Festival"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which two musicians formed the core of the Jimi Hendrix Experience's rhythm section?",
+    "choices": [
+      "Jack Bruce and Ginger Baker",
+      "Billy Cox and Buddy Miles",
+      "John Entwistle and Keith Moon",
+      "Noel Redding and Mitch Mitchell"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which Hendrix group featured Billy Cox and Buddy Miles?",
+    "choices": [
+      "Band of Gypsys",
+      "The Jimi Hendrix Experience",
+      "Gypsy Sun and Rainbows",
+      "The Cry of Love Band"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which longtime saxophonist was nicknamed Big Man in Bruce Springsteen's E Street Band?",
+    "choices": [
+      "Steven Van Zandt",
+      "Clarence Clemons",
+      "Nils Lofgren",
+      "Danny Federici"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which 1975 album was the group's first to feature Lindsey Buckingham and Stevie Nicks?",
+    "choices": [
+      "Tusk",
+      "Mirage",
+      "Fleetwood Mac",
+      "Tango in the Night"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which Eagles member co-wrote many of the band's best-known songs with Glenn Frey?",
+    "choices": [
+      "Joe Walsh",
+      "Randy Meisner",
+      "Bernie Leadon",
+      "Don Henley"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Who replaced Bon Scott as AC/DC's lead singer?",
+    "choices": [
+      "Brian Johnson",
+      "Axl Rose",
+      "Ronnie James Dio",
+      "Phil Mogg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.95
+  },
+  {
+    "text": "Which album marked AC/DC's first major release with Brian Johnson?",
+    "choices": [
+      "Highway to Hell",
+      "Back in Black",
+      "For Those About to Rock",
+      "Fly on the Wall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which band recorded London Calling?",
+    "choices": [
+      "The Damned",
+      "The Jam",
+      "The Clash",
+      "The Sex Pistols"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which singer was the principal vocalist of The Clash?",
+    "choices": [
+      "Mick Jones",
+      "Paul Simonon",
+      "Topper Headon",
+      "Joe Strummer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which English punk band released Never Mind the Bollocks in 1977?",
+    "choices": [
+      "The Sex Pistols",
+      "The Ramones",
+      "The Clash",
+      "Buzzcocks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Which New York punk band recorded the album Rocket to Russia?",
+    "choices": [
+      "Television",
+      "The Ramones",
+      "Blondie",
+      "Patti Smith Group"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Which band released Remain in Light?",
+    "choices": [
+      "Devo",
+      "The Cars",
+      "Talking Heads",
+      "Wire"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which producer worked with Talking Heads on Remain in Light?",
+    "choices": [
+      "Rick Rubin",
+      "Steve Lillywhite",
+      "Daniel Lanois",
+      "Brian Eno"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which band featured Debbie Harry as its lead singer?",
+    "choices": [
+      "Blondie",
+      "Siouxsie and the Banshees",
+      "The Pretenders",
+      "The Slits"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which concert marked the Rolling Stones' disastrous 1969 performance at Altamont?",
+    "choices": [
+      "Monterey Pop Festival",
+      "Altamont Speedway Free Festival",
+      "Isle of Wight Festival",
+      "The US Festival"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Which festival is associated with the Doors, Otis Redding, and Jimi Hendrix in 1967?",
+    "choices": [
+      "Woodstock",
+      "Live Aid",
+      "Monterey Pop Festival",
+      "Sunset Strip Festival"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which instrument did Brian May famously build with his father?",
+    "choices": [
+      "A custom bass called the Blue Special",
+      "A twelve-string acoustic called the May Rose",
+      "A violin called the Queen Special",
+      "A distinctive electric guitar called the Red Special"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which recording technique is associated with the wall of sound in Phil Spector's productions?",
+    "choices": [
+      "Layering many instruments into a dense orchestral texture",
+      "Recording every instrument in separate countries",
+      "Using only unamplified acoustic instruments",
+      "Removing all echo from the final mix"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which album is often cited as a landmark of progressive rock and features 'Roundabout'?",
+    "choices": [
+      "Close to the Edge",
+      "Fragile",
+      "Selling England by the Pound",
+      "Brain Salad Surgery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which progressive-rock band recorded Selling England by the Pound?",
+    "choices": [
+      "Yes",
+      "Jethro Tull",
+      "Genesis",
+      "Gentle Giant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which singer became the lead vocalist of Black Sabbath after Ozzy Osbourne's first departure?",
+    "choices": [
+      "Ian Gillan",
+      "Glenn Hughes",
+      "Rob Halford",
+      "Ronnie James Dio"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which Deep Purple lineup is known as Mark II?",
+    "choices": [
+      "Ian Gillan, Ritchie Blackmore, Jon Lord, Ian Paice, and Roger Glover",
+      "David Coverdale, Tommy Bolin, Jon Lord, Ian Paice, and Glenn Hughes",
+      "Rod Evans, Nick Simper, Ritchie Blackmore, Jon Lord, and Ian Paice",
+      "Joe Lynn Turner, Ritchie Blackmore, Jon Lord, Roger Glover, and Ian Paice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Which album is Metallica's 1983 debut?",
+    "choices": [
+      "Ride the Lightning",
+      "Kill 'Em All",
+      "Master of Puppets",
+      "...And Justice for All"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which Canadian trio recorded Moving Pictures?",
+    "choices": [
+      "Triumph",
+      "April Wine",
+      "Rush",
+      "Saga"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which Rush member played bass and sang lead vocals?",
+    "choices": [
+      "Alex Lifeson",
+      "Neil Peart",
+      "John Rutsey",
+      "Geddy Lee"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which band released the album Toys in the Attic?",
+    "choices": [
+      "Aerosmith",
+      "Kiss",
+      "Cheap Trick",
+      "Foghat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which producer helped create Def Leppard's polished Hysteria sound?",
+    "choices": [
+      "Bob Rock",
+      "Mutt Lange",
+      "Martin Birch",
+      "Eddie Kramer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which band's 1980s album Hysteria included 'Pour Some Sugar on Me'?",
+    "choices": [
+      "Whitesnake",
+      "Bon Jovi",
+      "Def Leppard",
+      "Europe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which guitarist was known by the stage name Slash in Guns N' Roses?",
+    "choices": [
+      "Jeffrey Isbell",
+      "Richard Fortus",
+      "Gilby Clarke",
+      "Saul Hudson"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  }
+]

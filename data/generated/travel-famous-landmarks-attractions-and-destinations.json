@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "Which prehistoric monument in southern England is famous for its circle of standing stones?",
+    "choices": [
+      "Stonehenge",
+      "Avebury",
+      "Newgrange",
+      "Callanish Stones"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Louvre Museum is located in which city?",
+    "choices": [
+      "Brussels",
+      "Paris",
+      "Madrid",
+      "Vienna"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Buckingham Palace is a well-known landmark in which city?",
+    "choices": [
+      "Edinburgh",
+      "Dublin",
+      "London",
+      "Cardiff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "The Vatican Museums are located within which city?",
+    "choices": [
+      "Florence",
+      "Naples",
+      "Monaco",
+      "Vatican City"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The Brandenburg Gate stands in which European capital?",
+    "choices": [
+      "Berlin",
+      "Warsaw",
+      "Prague",
+      "Budapest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Charles Bridge crosses the Vltava River in which city?",
+    "choices": [
+      "Bratislava",
+      "Prague",
+      "Ljubljana",
+      "Zagreb"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Schönbrunn Palace is a major historic attraction in which city?",
+    "choices": [
+      "Salzburg",
+      "Munich",
+      "Vienna",
+      "Graz"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "St. Mark's Square is the famous civic center of which Italian city?",
+    "choices": [
+      "Milan",
+      "Turin",
+      "Bologna",
+      "Venice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.18
+  },
+  {
+    "text": "The Cliffs of Moher overlook which body of water?",
+    "choices": [
+      "The Atlantic Ocean",
+      "The Baltic Sea",
+      "The Mediterranean Sea",
+      "The North Sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "The Giant's Causeway is located in which part of the United Kingdom?",
+    "choices": [
+      "Wales",
+      "Northern Ireland",
+      "Scotland",
+      "Cornwall"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "The Blue Lagoon is a geothermal attraction in which country?",
+    "choices": [
+      "Norway",
+      "Finland",
+      "Iceland",
+      "Sweden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.26
+  },
+  {
+    "text": "The Matterhorn is most strongly associated with which Swiss resort town?",
+    "choices": [
+      "Interlaken",
+      "Lucerne",
+      "Lausanne",
+      "Zermatt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Tokyo Skytree is a landmark in which country?",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Taiwan"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Fushimi Inari Taisha is famous for its many gates near which Japanese city?",
+    "choices": [
+      "Osaka",
+      "Kyoto",
+      "Nara",
+      "Kobe"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The Terracotta Army is displayed near which Chinese city?",
+    "choices": [
+      "Beijing",
+      "Shanghai",
+      "Xi'an",
+      "Nanjing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The Petronas Twin Towers are a signature landmark of which city?",
+    "choices": [
+      "Singapore",
+      "Jakarta",
+      "Manila",
+      "Kuala Lumpur"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Borobudur is a major temple complex on which island?",
+    "choices": [
+      "Java",
+      "Bali",
+      "Sumatra",
+      "Lombok"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Ha Long Bay is a famous seascape in which country?",
+    "choices": [
+      "Thailand",
+      "Vietnam",
+      "Malaysia",
+      "Myanmar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "The Burj Khalifa rises above which city?",
+    "choices": [
+      "Doha",
+      "Abu Dhabi",
+      "Dubai",
+      "Riyadh"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Petra, famous for rock-cut architecture, is in which country?",
+    "choices": [
+      "Lebanon",
+      "Israel",
+      "Oman",
+      "Jordan"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Cappadocia's famous rock formations are in which country?",
+    "choices": [
+      "Turkey",
+      "Armenia",
+      "Georgia",
+      "Greece"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Gyeongbokgung Palace is a major attraction in which city?",
+    "choices": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Gwangju"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The Sheikh Zayed Grand Mosque is in which city?",
+    "choices": [
+      "Dubai",
+      "Muscat",
+      "Abu Dhabi",
+      "Manama"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Table Mountain overlooks which South African city?",
+    "choices": [
+      "Durban",
+      "Johannesburg",
+      "Port Elizabeth",
+      "Cape Town"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Robben Island lies off the coast of which city?",
+    "choices": [
+      "Cape Town",
+      "Maputo",
+      "Mombasa",
+      "Lagos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Jemaa el-Fnaa is the celebrated main square of which Moroccan city?",
+    "choices": [
+      "Fez",
+      "Marrakesh",
+      "Casablanca",
+      "Tangier"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Sossusvlei's towering red dunes are in which country?",
+    "choices": [
+      "Botswana",
+      "South Africa",
+      "Namibia",
+      "Angola"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Lalibela is famous for rock-hewn churches in which country?",
+    "choices": [
+      "Eritrea",
+      "Sudan",
+      "Kenya",
+      "Ethiopia"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The Okavango Delta is a major natural attraction in which country?",
+    "choices": [
+      "Botswana",
+      "Zambia",
+      "Zimbabwe",
+      "Namibia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Zanzibar is an island destination belonging to which country?",
+    "choices": [
+      "Kenya",
+      "Tanzania",
+      "Mozambique",
+      "Madagascar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The Golden Gate Bridge connects San Francisco with which county?",
+    "choices": [
+      "San Mateo County",
+      "Alameda County",
+      "Marin County",
+      "Santa Clara County"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The CN Tower is a landmark of which Canadian city?",
+    "choices": [
+      "Vancouver",
+      "Montreal",
+      "Ottawa",
+      "Toronto"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "The Hollywood Sign overlooks which American city?",
+    "choices": [
+      "Los Angeles",
+      "San Diego",
+      "Las Vegas",
+      "San Francisco"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Chichén Itzá is an archaeological site on which country's Yucatán Peninsula?",
+    "choices": [
+      "Guatemala",
+      "Mexico",
+      "Belize",
+      "Honduras"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The Panama Canal links the Atlantic and which other ocean?",
+    "choices": [
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean",
+      "Southern Ocean"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.27
+  },
+  {
+    "text": "The Kennedy Space Center is located on which U.S. coast?",
+    "choices": [
+      "California's central coast",
+      "Texas's Gulf coast",
+      "Maine's Atlantic coast",
+      "Florida's east coast"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Old Québec is the historic fortified district of which city?",
+    "choices": [
+      "Québec City",
+      "Montreal",
+      "Halifax",
+      "Winnipeg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "The Galápagos Islands belong to which country?",
+    "choices": [
+      "Peru",
+      "Ecuador",
+      "Chile",
+      "Colombia"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Salar de Uyuni, the world's famous salt flat, is in which country?",
+    "choices": [
+      "Peru",
+      "Chile",
+      "Bolivia",
+      "Argentina"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The Moai statues are the iconic archaeological feature of which island?",
+    "choices": [
+      "Chiloé",
+      "Tierra del Fuego",
+      "Fernando de Noronha",
+      "Rapa Nui (Easter Island)"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "The Atacama Desert is primarily located in which country?",
+    "choices": [
+      "Chile",
+      "Argentina",
+      "Bolivia",
+      "Peru"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Cartagena's famous walled old city is in which country?",
+    "choices": [
+      "Venezuela",
+      "Colombia",
+      "Ecuador",
+      "Brazil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Uluru, also known as Ayers Rock, is in which country?",
+    "choices": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "Namibia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Hobbiton Movie Set is a visitor attraction on which country's North Island?",
+    "choices": [
+      "Australia",
+      "Fiji",
+      "Papua New Guinea",
+      "New Zealand"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Bondi Beach is associated with which Australian city?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Brisbane",
+      "Perth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "The Blue Mountains are a scenic destination near which Australian city?",
+    "choices": [
+      "Adelaide",
+      "Sydney",
+      "Darwin",
+      "Hobart"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.32
+  },
+  {
+    "text": "The South Pole is located on which continent?",
+    "choices": [
+      "Australia",
+      "South America",
+      "Antarctica",
+      "Asia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which landmark is aligned with the sunrise at the summer solstice, although its builders' exact purpose remains debated?",
+    "choices": [
+      "The Pantheon",
+      "The Parthenon",
+      "The Tower of London",
+      "Stonehenge"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The Louvre's modern glass pyramid was designed by which architect?",
+    "choices": [
+      "I. M. Pei",
+      "Zaha Hadid",
+      "Norman Foster",
+      "Renzo Piano"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Michelangelo's ceiling frescoes are in which Vatican attraction?",
+    "choices": [
+      "Raphael Rooms",
+      "The Sistine Chapel",
+      "St. Peter's Basilica",
+      "The Pauline Chapel"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The Brandenburg Gate was originally commissioned by which Prussian ruler?",
+    "choices": [
+      "Frederick the Great",
+      "William I",
+      "Frederick William II",
+      "Frederick William III"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Most of the statues lining Charles Bridge date from which artistic period?",
+    "choices": [
+      "The Romanesque period",
+      "The Gothic period",
+      "The Art Nouveau period",
+      "The Baroque period"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Schönbrunn Palace served primarily as what for the Habsburgs?",
+    "choices": [
+      "A summer residence",
+      "A coronation cathedral",
+      "A military academy",
+      "A mercantile exchange"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "St. Mark's Basilica is especially noted for its architectural connection to which tradition?",
+    "choices": [
+      "Mughal architecture",
+      "Byzantine architecture",
+      "Gothic architecture",
+      "Mesoamerican architecture"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "The Cliffs of Moher form part of which Irish county's coast?",
+    "choices": [
+      "County Cork",
+      "County Kerry",
+      "County Clare",
+      "County Galway"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "The Giant's Causeway's polygonal columns are chiefly made of what rock?",
+    "choices": [
+      "Granite",
+      "Limestone",
+      "Sandstone",
+      "Basalt"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The Blue Lagoon's geothermal water is associated with which type of energy source?",
+    "choices": [
+      "Geothermal heat",
+      "Tidal energy",
+      "Glacial meltwater",
+      "Deep ocean currents"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the German name for the Alpine peak called Monte Cervino in Italian?",
+    "choices": [
+      "Mont Cervin",
+      "Matterhorn",
+      "Monte Rosa",
+      "Dufourspitze"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Borobudur is principally a monument of which religion?",
+    "choices": [
+      "Hinduism",
+      "Jainism",
+      "Buddhism",
+      "Sikhism"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What geological landform dominates the scenery of Ha Long Bay?",
+    "choices": [
+      "Coral atolls",
+      "Glacial fjords",
+      "Basalt plateaus",
+      "Limestone karst towers and islands"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The Burj Khalifa is located in which planned district of Dubai?",
+    "choices": [
+      "Downtown Dubai",
+      "Deira",
+      "Jumeirah",
+      "Dubai Marina"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Petra was developed by which ancient people?",
+    "choices": [
+      "The Phoenicians",
+      "The Nabataeans",
+      "The Seleucids",
+      "The Sumerians"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Cappadocia's 'fairy chimneys' were shaped mainly from eroded what?",
+    "choices": [
+      "Coral limestone",
+      "Glacial till",
+      "Volcanic tuff",
+      "River gravel"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "The Terracotta Army was created for the tomb of which ruler?",
+    "choices": [
+      "Han Wudi",
+      "Kublai Khan",
+      "Emperor Wu of Liang",
+      "Qin Shi Huang"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Gyeongbokgung was the principal palace of which Korean dynasty?",
+    "choices": [
+      "Joseon",
+      "Goryeo",
+      "Silla",
+      "Baekje"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Table Mountain's flat summit is a result primarily of what geological history?",
+    "choices": [
+      "A collapsed volcanic caldera",
+      "Resistant sandstone beds left standing after erosion",
+      "A coral reef uplifted above sea level",
+      "A glacier-carved granite dome"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Robben Island is especially associated with which historical figure's imprisonment?",
+    "choices": [
+      "Jomo Kenyatta",
+      "Desmond Tutu",
+      "Nelson Mandela",
+      "Kwame Nkrumah"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Lalibela's churches are notable because many were carved how?",
+    "choices": [
+      "From marble blocks transported by sea",
+      "Inside hollow baobab trunks",
+      "As freestanding wooden buildings",
+      "Downward into living rock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What makes the Okavango Delta unusual among major deltas?",
+    "choices": [
+      "It spreads inland and largely disappears in an arid basin",
+      "It empties directly into the Mediterranean",
+      "It is formed entirely by glacial melt",
+      "It is a submerged coral delta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.9
+  },
+  {
+    "text": "Stone Town is the historic core of which island destination?",
+    "choices": [
+      "Mauritius",
+      "Zanzibar",
+      "Réunion",
+      "Seychelles' Mahé"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "The Golden Gate Bridge spans which strait?",
+    "choices": [
+      "Carquinez Strait",
+      "Juan de Fuca Strait",
+      "The Golden Gate Strait",
+      "Strait of Georgia"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Chichén Itzá's largest pyramid is commonly called what?",
+    "choices": [
+      "La Venta",
+      "Palenque",
+      "El Caracol",
+      "El Castillo"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "The Panama Canal uses which artificial lake as a major part of its route?",
+    "choices": [
+      "Gatun Lake",
+      "Lake Nicaragua",
+      "Lake Maracaibo",
+      "Lake Titicaca"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "The Kennedy Space Center is located on which barrier island?",
+    "choices": [
+      "Sanibel Island",
+      "Merritt Island",
+      "Amelia Island",
+      "Key Biscayne"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is the historic fortified core of Québec City commonly called?",
+    "choices": [
+      "Old Montréal",
+      "La Citadelle Royale",
+      "Vieux-Québec",
+      "Quartier Latin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "The Galápagos Islands lie in which ocean?",
+    "choices": [
+      "The Atlantic Ocean",
+      "The Indian Ocean",
+      "The Southern Ocean",
+      "The Pacific Ocean"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Salar de Uyuni formed from the remnants of what ancient water body?",
+    "choices": [
+      "Prehistoric lakes",
+      "A collapsed marine trench",
+      "A glacial fjord",
+      "An inland coral sea"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "The Moai of Rapa Nui were carved primarily from which volcanic material?",
+    "choices": [
+      "Obsidian from Orongo",
+      "Tuff from Rano Raraku",
+      "Basalt from Anakena",
+      "Pumice from Hanga Roa"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.88
+  },
+  {
+    "text": "The Atacama's extreme aridity is strongly linked to which cold ocean current?",
+    "choices": [
+      "The Agulhas Current",
+      "The Kuroshio Current",
+      "The Humboldt Current",
+      "The Benguela Current"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.91
+  },
+  {
+    "text": "Cartagena's historic walls were built chiefly to defend against what?",
+    "choices": [
+      "Alpine avalanches",
+      "Inland cattle raids",
+      "Volcanic eruptions",
+      "Seaborne attacks and privateers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Uluru is culturally significant to which Indigenous Australian people?",
+    "choices": [
+      "The Anangu",
+      "The Yolngu",
+      "The Noongar",
+      "The Palawa"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Hobbiton Movie Set was built in which region of New Zealand?",
+    "choices": [
+      "Otago",
+      "Waikato",
+      "Canterbury",
+      "Northland"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "Bondi is an Aboriginal-derived name commonly interpreted as referring to what?",
+    "choices": [
+      "Red earth",
+      "High mountain",
+      "Water breaking over rocks",
+      "Sheltered forest"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "The Blue Mountains' blue haze is traditionally linked to abundant oils released by which trees?",
+    "choices": [
+      "Kauri",
+      "Tea tree",
+      "Araucaria",
+      "Eucalyptus"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Why is Antarctica's South Pole destination geographically distinct from coastal Antarctic attractions?",
+    "choices": [
+      "It lies on the high interior ice sheet far from the coast",
+      "It is on a floating ice shelf",
+      "It is a temperate island north of the Antarctic Circle",
+      "It is below sea level in a coastal fjord"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which architectural feature makes the Louvre's pyramid a notable contrast with the historic palace around it?",
+    "choices": [
+      "A Gothic stone spire added to a Romanesque church",
+      "A modern glass-and-metal entrance set within a classical complex",
+      "A timber pagoda built over an ancient moat",
+      "A suspended bridge made entirely of concrete"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is the main visitor route through Petra's narrow entrance gorge called?",
+    "choices": [
+      "The Wadi Rum",
+      "The Cardo",
+      "The Siq",
+      "The Khazneh Pass"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which distinction best separates a UNESCO World Heritage cultural site from a natural site?",
+    "choices": [
+      "Cultural sites must be indoors, while natural sites must be outdoors",
+      "Natural sites cannot contain human history, while cultural sites cannot contain nature",
+      "Cultural sites are always older than natural sites",
+      "Cultural sites are valued for human heritage, while natural sites are valued for geological or ecological features"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What kind of attraction is a national park primarily established to protect?",
+    "choices": [
+      "Significant landscapes, ecosystems, wildlife, or natural features",
+      "Only privately owned historic houses",
+      "Commercial entertainment districts",
+      "Airport and railway infrastructure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What is a scenic route?",
+    "choices": [
+      "A road restricted exclusively to emergency vehicles",
+      "A designated journey valued for notable landscapes or cultural views along the way",
+      "A route that connects only international airports",
+      "A hiking trail that must have no paved sections"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Why do many historic city centers have pedestrian-only streets?",
+    "choices": [
+      "They prevent all local residents from entering",
+      "They are required to be built below sea level",
+      "They protect dense heritage fabric and make narrow public spaces safer for walking",
+      "They are designed only for freight trains"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the principal difference between an island and a peninsula?",
+    "choices": [
+      "An island must be volcanic, while a peninsula must be glacial",
+      "A peninsula is surrounded by water on every side, unlike an island",
+      "An island can exist only in an ocean, never in a lake",
+      "An island is surrounded by water, while a peninsula is connected to a larger landmass"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does a museum's open-air designation usually indicate?",
+    "choices": [
+      "Its collections or reconstructed buildings are displayed primarily outdoors",
+      "It is open only during daylight in every season",
+      "It contains no permanent objects",
+      "It exhibits only paintings about weather"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Why are coral reefs especially sensitive visitor destinations?",
+    "choices": [
+      "They are nonliving rock formations that dissolve only in rain",
+      "They are living ecosystems vulnerable to warming, pollution, physical contact, and sedimentation",
+      "They can survive indefinitely outside seawater",
+      "They are formed from volcanic ash alone"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What geographic feature most directly distinguishes a fjord from an ordinary river valley?",
+    "choices": [
+      "A fjord is a desert canyon filled by seasonal rain",
+      "A fjord is a volcanic crater with no water outlet",
+      "A fjord is a glacially carved valley flooded by the sea",
+      "A fjord is a limestone cave beneath a city"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is the usual architectural meaning of a colonnade at a landmark?",
+    "choices": [
+      "A tower built from stacked domes",
+      "A subterranean water tunnel",
+      "A wall made entirely of stained glass",
+      "A row of columns supporting an entablature or covered walkway"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why do many pilgrimage destinations have routes, gates, or thresholds with symbolic meaning?",
+    "choices": [
+      "Movement through space can mark stages of ritual, reflection, or entry into a sacred area",
+      "They are designed only to control parking fees",
+      "Every pilgrimage must follow a Roman military plan",
+      "Thresholds are used exclusively to store museum artifacts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the practical purpose of a visitor interpretation center at a protected attraction?",
+    "choices": [
+      "It replaces the site's conservation authority",
+      "It explains the site's natural or cultural significance and helps orient visitors",
+      "It guarantees that weather will remain clear",
+      "It serves only as an international border checkpoint"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What does cultural landscape mean in heritage studies?",
+    "choices": [
+      "A landscape containing only paintings of scenery",
+      "A natural area with no human history",
+      "A place shaped by long interaction between people and the environment",
+      "A city built exclusively from imported materials"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Why can a destination's local name matter in addition to its internationally familiar name?",
+    "choices": [
+      "It always indicates a different physical location",
+      "It is used only for airline ticketing",
+      "It removes the need for any historical research",
+      "It can reflect Indigenous language, local history, identity, and cultural authority"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  }
+]

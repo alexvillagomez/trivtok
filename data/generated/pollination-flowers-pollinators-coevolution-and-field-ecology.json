@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "In flower anatomy, which statement is most accurate?",
+    "choices": [
+      "stigma",
+      "anther",
+      "ovary",
+      "sepal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.12
+  },
+  {
+    "text": "Which outcome best illustrates pollen transfer?",
+    "choices": [
+      "produce nectar",
+      "disperse seeds",
+      "close petals",
+      "transfer pollen to a receptive stigma"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What is a defining feature of bee ecology?",
+    "choices": [
+      "eyes digest pollen",
+      "mandibles produce seeds",
+      "branched hairs hold pollen",
+      "wings make nectar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which field observation best indicates bird pollination?",
+    "choices": [
+      "black closed flowers",
+      "red tubular flowers",
+      "green wind flowers",
+      "brown underground blooms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "In bat pollination, which statement is most accurate?",
+    "choices": [
+      "strong musky night scent",
+      "odorless day petals",
+      "blue tiny flowers",
+      "dry wind anthers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which outcome best illustrates wind pollination?",
+    "choices": [
+      "sticky heavy pollen",
+      "deep nectar tubes",
+      "fragrant petals",
+      "feathery stigmas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is a defining feature of floral rewards?",
+    "choices": [
+      "pigments in ovules",
+      "spines on sepals",
+      "sugars in nectar",
+      "chromosomes in pollen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.13
+  },
+  {
+    "text": "Which field observation best indicates floral deception?",
+    "choices": [
+      "seed dispersal by ants",
+      "attraction without expected reward",
+      "abundant guaranteed nectar",
+      "exclusive wind transfer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.17
+  },
+  {
+    "text": "In self-incompatibility, which statement is most accurate?",
+    "choices": [
+      "rejection of genetically similar pollen",
+      "failure to make any pollen",
+      "loss of all petals",
+      "inability to attract insects"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.21
+  },
+  {
+    "text": "Which outcome best illustrates coevolution?",
+    "choices": [
+      "random mutation without interaction",
+      "identical traits everywhere",
+      "seasonal seed storage",
+      "reciprocal selection between partners"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is a defining feature of crop pollination?",
+    "choices": [
+      "root respiration",
+      "fruit color alone",
+      "compatible pollen delivery",
+      "leaf area increase"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which field observation best indicates field experiments?",
+    "choices": [
+      "removing all leaves",
+      "supplementing flowers with compatible pollen",
+      "counting petals",
+      "measuring soil color"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.33
+  },
+  {
+    "text": "In pollination networks, which statement is most accurate?",
+    "choices": [
+      "specialists use subsets of generalists’ partners",
+      "all species have equal links",
+      "plants have no visitors",
+      "links are always random"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.14
+  },
+  {
+    "text": "Which outcome best illustrates pollen limitation?",
+    "choices": [
+      "nectar constrained by shade",
+      "flowers constrained by soil color",
+      "leaves constrained by wind",
+      "seed production constrained by insufficient pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What is a defining feature of specialist ecology?",
+    "choices": [
+      "absence of habitat needs",
+      "independence from seasons",
+      "dependence on a narrow partner range",
+      "use of every available plant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which field observation best indicates flower anatomy?",
+    "choices": [
+      "sepal",
+      "stigma",
+      "anther",
+      "ovary"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.26
+  },
+  {
+    "text": "In pollen transfer, which statement is most accurate?",
+    "choices": [
+      "transfer pollen to a receptive stigma",
+      "produce nectar",
+      "disperse seeds",
+      "close petals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which outcome best illustrates bee ecology?",
+    "choices": [
+      "wings make nectar",
+      "eyes digest pollen",
+      "mandibles produce seeds",
+      "branched hairs hold pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What is a defining feature of bird pollination?",
+    "choices": [
+      "brown underground blooms",
+      "black closed flowers",
+      "red tubular flowers",
+      "green wind flowers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which field observation best indicates bat pollination?",
+    "choices": [
+      "dry wind anthers",
+      "strong musky night scent",
+      "odorless day petals",
+      "blue tiny flowers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "In wind pollination, which statement is most accurate?",
+    "choices": [
+      "feathery stigmas",
+      "sticky heavy pollen",
+      "deep nectar tubes",
+      "fragrant petals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which outcome best illustrates floral rewards?",
+    "choices": [
+      "chromosomes in pollen",
+      "pigments in ovules",
+      "spines on sepals",
+      "sugars in nectar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "What is a defining feature of floral deception?",
+    "choices": [
+      "exclusive wind transfer",
+      "seed dispersal by ants",
+      "attraction without expected reward",
+      "abundant guaranteed nectar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which field observation best indicates self-incompatibility?",
+    "choices": [
+      "inability to attract insects",
+      "rejection of genetically similar pollen",
+      "failure to make any pollen",
+      "loss of all petals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.13
+  },
+  {
+    "text": "In coevolution, which statement is most accurate?",
+    "choices": [
+      "reciprocal selection between partners",
+      "random mutation without interaction",
+      "identical traits everywhere",
+      "seasonal seed storage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which outcome best illustrates crop pollination?",
+    "choices": [
+      "leaf area increase",
+      "root respiration",
+      "fruit color alone",
+      "compatible pollen delivery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is a defining feature of field experiments?",
+    "choices": [
+      "measuring soil color",
+      "removing all leaves",
+      "supplementing flowers with compatible pollen",
+      "counting petals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which field observation best indicates pollination networks?",
+    "choices": [
+      "links are always random",
+      "specialists use subsets of generalists’ partners",
+      "all species have equal links",
+      "plants have no visitors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In pollen limitation, which statement is most accurate?",
+    "choices": [
+      "seed production constrained by insufficient pollen",
+      "nectar constrained by shade",
+      "flowers constrained by soil color",
+      "leaves constrained by wind"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which outcome best illustrates specialist ecology?",
+    "choices": [
+      "use of every available plant",
+      "absence of habitat needs",
+      "independence from seasons",
+      "dependence on a narrow partner range"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a defining feature of flower anatomy?",
+    "choices": [
+      "ovary",
+      "sepal",
+      "stigma",
+      "anther"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which field observation best indicates pollen transfer?",
+    "choices": [
+      "close petals",
+      "transfer pollen to a receptive stigma",
+      "produce nectar",
+      "disperse seeds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In bee ecology, which statement is most accurate?",
+    "choices": [
+      "branched hairs hold pollen",
+      "wings make nectar",
+      "eyes digest pollen",
+      "mandibles produce seeds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which outcome best illustrates bird pollination?",
+    "choices": [
+      "green wind flowers",
+      "brown underground blooms",
+      "black closed flowers",
+      "red tubular flowers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What is a defining feature of bat pollination?",
+    "choices": [
+      "blue tiny flowers",
+      "dry wind anthers",
+      "strong musky night scent",
+      "odorless day petals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which field observation best indicates wind pollination?",
+    "choices": [
+      "fragrant petals",
+      "feathery stigmas",
+      "sticky heavy pollen",
+      "deep nectar tubes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In floral rewards, which statement is most accurate?",
+    "choices": [
+      "sugars in nectar",
+      "chromosomes in pollen",
+      "pigments in ovules",
+      "spines on sepals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which outcome best illustrates floral deception?",
+    "choices": [
+      "abundant guaranteed nectar",
+      "exclusive wind transfer",
+      "seed dispersal by ants",
+      "attraction without expected reward"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is a defining feature of self-incompatibility?",
+    "choices": [
+      "loss of all petals",
+      "inability to attract insects",
+      "rejection of genetically similar pollen",
+      "failure to make any pollen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which field observation best indicates coevolution?",
+    "choices": [
+      "seasonal seed storage",
+      "reciprocal selection between partners",
+      "random mutation without interaction",
+      "identical traits everywhere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In crop pollination, which statement is most accurate?",
+    "choices": [
+      "compatible pollen delivery",
+      "leaf area increase",
+      "root respiration",
+      "fruit color alone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which outcome best illustrates field experiments?",
+    "choices": [
+      "counting petals",
+      "measuring soil color",
+      "removing all leaves",
+      "supplementing flowers with compatible pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is a defining feature of pollination networks?",
+    "choices": [
+      "plants have no visitors",
+      "links are always random",
+      "specialists use subsets of generalists’ partners",
+      "all species have equal links"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which field observation best indicates pollen limitation?",
+    "choices": [
+      "leaves constrained by wind",
+      "seed production constrained by insufficient pollen",
+      "nectar constrained by shade",
+      "flowers constrained by soil color"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.51
+  },
+  {
+    "text": "In specialist ecology, which statement is most accurate?",
+    "choices": [
+      "dependence on a narrow partner range",
+      "use of every available plant",
+      "absence of habitat needs",
+      "independence from seasons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which outcome best illustrates flower anatomy?",
+    "choices": [
+      "anther",
+      "ovary",
+      "sepal",
+      "stigma"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What is a defining feature of pollen transfer?",
+    "choices": [
+      "disperse seeds",
+      "close petals",
+      "transfer pollen to a receptive stigma",
+      "produce nectar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which field observation best indicates bee ecology?",
+    "choices": [
+      "mandibles produce seeds",
+      "branched hairs hold pollen",
+      "wings make nectar",
+      "eyes digest pollen"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In bird pollination, which statement is most accurate?",
+    "choices": [
+      "red tubular flowers",
+      "green wind flowers",
+      "brown underground blooms",
+      "black closed flowers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which outcome best illustrates bat pollination?",
+    "choices": [
+      "odorless day petals",
+      "blue tiny flowers",
+      "dry wind anthers",
+      "strong musky night scent"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What is a defining feature of wind pollination?",
+    "choices": [
+      "deep nectar tubes",
+      "fragrant petals",
+      "feathery stigmas",
+      "sticky heavy pollen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Which field observation best indicates floral rewards?",
+    "choices": [
+      "spines on sepals",
+      "sugars in nectar",
+      "chromosomes in pollen",
+      "pigments in ovules"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In floral deception, which statement is most accurate?",
+    "choices": [
+      "attraction without expected reward",
+      "abundant guaranteed nectar",
+      "exclusive wind transfer",
+      "seed dispersal by ants"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which outcome best illustrates self-incompatibility?",
+    "choices": [
+      "failure to make any pollen",
+      "loss of all petals",
+      "inability to attract insects",
+      "rejection of genetically similar pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a defining feature of coevolution?",
+    "choices": [
+      "identical traits everywhere",
+      "seasonal seed storage",
+      "reciprocal selection between partners",
+      "random mutation without interaction"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which field observation best indicates crop pollination?",
+    "choices": [
+      "fruit color alone",
+      "compatible pollen delivery",
+      "leaf area increase",
+      "root respiration"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In field experiments, which statement is most accurate?",
+    "choices": [
+      "supplementing flowers with compatible pollen",
+      "counting petals",
+      "measuring soil color",
+      "removing all leaves"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which outcome best illustrates pollination networks?",
+    "choices": [
+      "all species have equal links",
+      "plants have no visitors",
+      "links are always random",
+      "specialists use subsets of generalists’ partners"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is a defining feature of pollen limitation?",
+    "choices": [
+      "flowers constrained by soil color",
+      "leaves constrained by wind",
+      "seed production constrained by insufficient pollen",
+      "nectar constrained by shade"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which field observation best indicates specialist ecology?",
+    "choices": [
+      "independence from seasons",
+      "dependence on a narrow partner range",
+      "use of every available plant",
+      "absence of habitat needs"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In flower anatomy, which statement is most accurate?",
+    "choices": [
+      "stigma",
+      "anther",
+      "ovary",
+      "sepal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which outcome best illustrates pollen transfer?",
+    "choices": [
+      "produce nectar",
+      "disperse seeds",
+      "close petals",
+      "transfer pollen to a receptive stigma"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a defining feature of bee ecology?",
+    "choices": [
+      "eyes digest pollen",
+      "mandibles produce seeds",
+      "branched hairs hold pollen",
+      "wings make nectar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Which field observation best indicates bird pollination?",
+    "choices": [
+      "black closed flowers",
+      "red tubular flowers",
+      "green wind flowers",
+      "brown underground blooms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In bat pollination, which statement is most accurate?",
+    "choices": [
+      "strong musky night scent",
+      "odorless day petals",
+      "blue tiny flowers",
+      "dry wind anthers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which outcome best illustrates wind pollination?",
+    "choices": [
+      "sticky heavy pollen",
+      "deep nectar tubes",
+      "fragrant petals",
+      "feathery stigmas"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a defining feature of floral rewards?",
+    "choices": [
+      "pigments in ovules",
+      "spines on sepals",
+      "sugars in nectar",
+      "chromosomes in pollen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which field observation best indicates floral deception?",
+    "choices": [
+      "seed dispersal by ants",
+      "attraction without expected reward",
+      "abundant guaranteed nectar",
+      "exclusive wind transfer"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In self-incompatibility, which statement is most accurate?",
+    "choices": [
+      "rejection of genetically similar pollen",
+      "failure to make any pollen",
+      "loss of all petals",
+      "inability to attract insects"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "Which outcome best illustrates coevolution?",
+    "choices": [
+      "random mutation without interaction",
+      "identical traits everywhere",
+      "seasonal seed storage",
+      "reciprocal selection between partners"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is a defining feature of crop pollination?",
+    "choices": [
+      "root respiration",
+      "fruit color alone",
+      "compatible pollen delivery",
+      "leaf area increase"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which field observation best indicates field experiments?",
+    "choices": [
+      "removing all leaves",
+      "supplementing flowers with compatible pollen",
+      "counting petals",
+      "measuring soil color"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In pollination networks, which statement is most accurate?",
+    "choices": [
+      "specialists use subsets of generalists’ partners",
+      "all species have equal links",
+      "plants have no visitors",
+      "links are always random"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "Which outcome best illustrates pollen limitation?",
+    "choices": [
+      "nectar constrained by shade",
+      "flowers constrained by soil color",
+      "leaves constrained by wind",
+      "seed production constrained by insufficient pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a defining feature of specialist ecology?",
+    "choices": [
+      "absence of habitat needs",
+      "independence from seasons",
+      "dependence on a narrow partner range",
+      "use of every available plant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which field observation best indicates flower anatomy?",
+    "choices": [
+      "sepal",
+      "stigma",
+      "anther",
+      "ovary"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In pollen transfer, which statement is most accurate?",
+    "choices": [
+      "transfer pollen to a receptive stigma",
+      "produce nectar",
+      "disperse seeds",
+      "close petals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.87
+  },
+  {
+    "text": "Which outcome best illustrates bee ecology?",
+    "choices": [
+      "wings make nectar",
+      "eyes digest pollen",
+      "mandibles produce seeds",
+      "branched hairs hold pollen"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.9
+  },
+  {
+    "text": "What is a defining feature of bird pollination?",
+    "choices": [
+      "brown underground blooms",
+      "black closed flowers",
+      "red tubular flowers",
+      "green wind flowers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which field observation best indicates bat pollination?",
+    "choices": [
+      "dry wind anthers",
+      "strong musky night scent",
+      "odorless day petals",
+      "blue tiny flowers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.94
+  },
+  {
+    "text": "In wind pollination, which statement is most accurate?",
+    "choices": [
+      "feathery stigmas",
+      "sticky heavy pollen",
+      "deep nectar tubes",
+      "fragrant petals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "Which outcome best illustrates floral rewards?",
+    "choices": [
+      "chromosomes in pollen",
+      "pigments in ovules",
+      "spines on sepals",
+      "sugars in nectar"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is a defining feature of floral deception?",
+    "choices": [
+      "exclusive wind transfer",
+      "seed dispersal by ants",
+      "attraction without expected reward",
+      "abundant guaranteed nectar"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.88
+  },
+  {
+    "text": "Which field observation best indicates self-incompatibility?",
+    "choices": [
+      "inability to attract insects",
+      "rejection of genetically similar pollen",
+      "failure to make any pollen",
+      "loss of all petals"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  },
+  {
+    "text": "In coevolution, which statement is most accurate?",
+    "choices": [
+      "reciprocal selection between partners",
+      "random mutation without interaction",
+      "identical traits everywhere",
+      "seasonal seed storage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.92
+  },
+  {
+    "text": "Which outcome best illustrates crop pollination?",
+    "choices": [
+      "leaf area increase",
+      "root respiration",
+      "fruit color alone",
+      "compatible pollen delivery"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.95
+  },
+  {
+    "text": "What is a defining feature of field experiments?",
+    "choices": [
+      "measuring soil color",
+      "removing all leaves",
+      "supplementing flowers with compatible pollen",
+      "counting petals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "Which field observation best indicates pollination networks?",
+    "choices": [
+      "links are always random",
+      "specialists use subsets of generalists’ partners",
+      "all species have equal links",
+      "plants have no visitors"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "In pollen limitation, which statement is most accurate?",
+    "choices": [
+      "seed production constrained by insufficient pollen",
+      "nectar constrained by shade",
+      "flowers constrained by soil color",
+      "leaves constrained by wind"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which outcome best illustrates specialist ecology?",
+    "choices": [
+      "use of every available plant",
+      "absence of habitat needs",
+      "independence from seasons",
+      "dependence on a narrow partner range"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.91
+  },
+  {
+    "text": "What is a defining feature of flower anatomy?",
+    "choices": [
+      "ovary",
+      "sepal",
+      "stigma",
+      "anther"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.93
+  },
+  {
+    "text": "Which field observation best indicates pollen transfer?",
+    "choices": [
+      "close petals",
+      "transfer pollen to a receptive stigma",
+      "produce nectar",
+      "disperse seeds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.95
+  },
+  {
+    "text": "In bee ecology, which statement is most accurate?",
+    "choices": [
+      "branched hairs hold pollen",
+      "wings make nectar",
+      "eyes digest pollen",
+      "mandibles produce seeds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which outcome best illustrates bird pollination?",
+    "choices": [
+      "green wind flowers",
+      "brown underground blooms",
+      "black closed flowers",
+      "red tubular flowers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.87
+  },
+  {
+    "text": "What is a defining feature of bat pollination?",
+    "choices": [
+      "blue tiny flowers",
+      "dry wind anthers",
+      "strong musky night scent",
+      "odorless day petals"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Which field observation best indicates wind pollination?",
+    "choices": [
+      "fragrant petals",
+      "feathery stigmas",
+      "sticky heavy pollen",
+      "deep nectar tubes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.92
+  },
+  {
+    "text": "In floral rewards, which statement is most accurate?",
+    "choices": [
+      "sugars in nectar",
+      "chromosomes in pollen",
+      "pigments in ovules",
+      "spines on sepals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.94
+  },
+  {
+    "text": "Which outcome best illustrates floral deception?",
+    "choices": [
+      "abundant guaranteed nectar",
+      "exclusive wind transfer",
+      "seed dispersal by ants",
+      "attraction without expected reward"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a defining feature of self-incompatibility?",
+    "choices": [
+      "loss of all petals",
+      "inability to attract insects",
+      "rejection of genetically similar pollen",
+      "failure to make any pollen"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "Which field observation best indicates coevolution?",
+    "choices": [
+      "seasonal seed storage",
+      "reciprocal selection between partners",
+      "random mutation without interaction",
+      "identical traits everywhere"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  }
+]

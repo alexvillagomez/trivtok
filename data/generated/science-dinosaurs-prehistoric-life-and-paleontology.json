@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What is a dinosaur in the scientific sense?",
+    "choices": [
+      "A member of the evolutionary group Dinosauria",
+      "Any prehistoric reptile",
+      "Any animal that lived before humans",
+      "Any fossilized land vertebrate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What kind of dinosaur was Tyrannosaurus rex?",
+    "choices": [
+      "A long-necked sauropod",
+      "A large meat-eating theropod",
+      "An armored herbivore",
+      "A horned ceratopsian"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which dinosaur is famous for three facial horns and a large neck frill?",
+    "choices": [
+      "Stegosaurus",
+      "Ankylosaurus",
+      "Triceratops",
+      "Parasaurolophus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What body feature makes Stegosaurus especially recognizable?",
+    "choices": [
+      "A long crocodile-like snout",
+      "A single nose horn",
+      "A tall sail made of skin",
+      "Large plates along its back and spikes on its tail"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which dinosaur group included many long-necked plant eaters such as Brachiosaurus?",
+    "choices": [
+      "Sauropods",
+      "Tyrannosaurs",
+      "Ceratopsians",
+      "Dromaeosaurs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does the name herbivore indicate about an animal's diet?",
+    "choices": [
+      "It primarily eats fish",
+      "It primarily eats plants",
+      "It eats only insects",
+      "It eats only meat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does carnivore indicate about an animal's diet?",
+    "choices": [
+      "It eats only seeds",
+      "It eats only algae",
+      "It primarily eats animals",
+      "It cannot digest protein"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which Mesozoic period came first?",
+    "choices": [
+      "Jurassic",
+      "Cretaceous",
+      "Paleogene",
+      "Triassic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which period followed the Triassic?",
+    "choices": [
+      "Jurassic",
+      "Cretaceous",
+      "Permian",
+      "Paleogene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "Which period ended with the extinction of non-avian dinosaurs?",
+    "choices": [
+      "Jurassic",
+      "Cretaceous",
+      "Triassic",
+      "Devonian"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "About how long ago did the end-Cretaceous extinction occur?",
+    "choices": [
+      "About 6 million years ago",
+      "About 660 million years ago",
+      "About 66 million years ago",
+      "About 1.6 billion years ago"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What event is the leading explanation for the abrupt end-Cretaceous extinction?",
+    "choices": [
+      "A sudden change caused by humans",
+      "The first flowering plants appearing",
+      "A global freeze lasting one day",
+      "A large asteroid impact and its aftermath"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Where is the Chicxulub impact structure located?",
+    "choices": [
+      "Near the Yucatán Peninsula",
+      "In central Mongolia",
+      "Under Antarctica",
+      "In the Sahara"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is a fossil?",
+    "choices": [
+      "Any rock found near a dinosaur",
+      "Preserved evidence of ancient life or its activity",
+      "A living animal with an unusual skeleton",
+      "A modern bone painted to look old"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What does paleontology study?",
+    "choices": [
+      "Only living reptiles",
+      "The chemistry of modern medicines",
+      "Past life through fossils and geological evidence",
+      "Future climate models"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is a coprolite?",
+    "choices": [
+      "A fossilized egg shell",
+      "A mineralized footprint",
+      "A fossilized leaf vein",
+      "Fossilized feces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a trace fossil?",
+    "choices": [
+      "Evidence of an organism's activity, such as a footprint or burrow",
+      "A complete fossil skeleton",
+      "A fossil preserved only in amber",
+      "A DNA sequence from an extinct animal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is amber in paleontology?",
+    "choices": [
+      "A volcanic glass formed from lava",
+      "Fossilized tree resin that can preserve small organisms",
+      "A yellow bone mineral",
+      "A type of fossilized shell"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is permineralization?",
+    "choices": [
+      "The complete melting of a fossil",
+      "A method of dating by counting feathers",
+      "Minerals filling spaces in buried tissues and helping preserve their structure",
+      "The removal of all minerals from bone"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What kind of rock most commonly contains fossils?",
+    "choices": [
+      "Igneous rock",
+      "Metamorphic rock",
+      "Molten rock",
+      "Sedimentary rock"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What do sedimentary layers often record for paleontologists?",
+    "choices": [
+      "Successive deposits formed at different times",
+      "The exact DNA sequence of every organism",
+      "Only volcanic eruptions",
+      "Modern animal migrations"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the evolutionary relationship between birds and theropod dinosaurs?",
+    "choices": [
+      "Birds evolved from pterosaurs",
+      "Birds are living avian dinosaurs descended from theropods",
+      "Birds have no dinosaur relatives",
+      "Birds evolved from marine reptiles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What were pterosaurs?",
+    "choices": [
+      "Small feathered dinosaurs",
+      "Marine mammals",
+      "Flying reptiles, not dinosaurs",
+      "Early flowering plants"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What were mosasaurs?",
+    "choices": [
+      "Flying dinosaurs",
+      "Armored land mammals",
+      "Long-necked sauropods",
+      "Large extinct marine lizards"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What were plesiosaurs?",
+    "choices": [
+      "Extinct marine reptiles with paddle-like limbs",
+      "Early birds with long wings",
+      "Burrowing mammals",
+      "Small insect-eating dinosaurs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What were ichthyosaurs shaped somewhat like?",
+    "choices": [
+      "Armored tanks",
+      "Dolphins or fish, through convergent evolution",
+      "Long-necked giraffes",
+      "Modern bats"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is an ammonite?",
+    "choices": [
+      "A flying reptile",
+      "A plant-eating dinosaur",
+      "An extinct marine mollusk with a usually coiled shell",
+      "A fossilized mammal tooth"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Why is Dimetrodon not classified as a dinosaur?",
+    "choices": [
+      "It lived only in the Cretaceous",
+      "It was a type of pterosaur",
+      "It had feathers like a modern bird",
+      "It was a synapsid on a different evolutionary branch"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What kind of animal was a mammoth?",
+    "choices": [
+      "An extinct proboscidean mammal",
+      "A horned dinosaur",
+      "A marine reptile",
+      "A giant flightless bird"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was Smilodon commonly called?",
+    "choices": [
+      "The cave bear",
+      "The saber-toothed cat",
+      "The giant hyena",
+      "The dire wolf"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What was a trilobite?",
+    "choices": [
+      "A small horned dinosaur",
+      "A flying reptile",
+      "An extinct marine arthropod",
+      "An early flowering plant"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why is Archaeopteryx important in discussions of bird evolution?",
+    "choices": [
+      "It is the oldest known mammal",
+      "It was a marine reptile with flippers",
+      "It is a modern bird fossil",
+      "It combines feathers with several non-avian dinosaur-like traits"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What were Ankylosaurus and related dinosaurs known for?",
+    "choices": [
+      "Armor and, in some forms, a heavy tail club",
+      "Long feathered wings",
+      "Tall sails on their backs",
+      "Rows of facial horns"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What were hadrosaurs often called?",
+    "choices": [
+      "Saber-toothed dinosaurs",
+      "Duck-billed dinosaurs",
+      "Horned turtles",
+      "Flying reptiles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is unusual about Spinosaurus's back?",
+    "choices": [
+      "It had rows of bony plates like Stegosaurus",
+      "It had a double row of tail clubs",
+      "It had elongated neural spines forming a tall sail-like structure",
+      "It lacked a vertebral column"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a common description of Tyrannosaurus rex's arms?",
+    "choices": [
+      "They were long wings",
+      "They carried a large shell",
+      "They were longer than its hind legs",
+      "They were very small relative to its body"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which large predator lived during the Jurassic Period?",
+    "choices": [
+      "Allosaurus",
+      "Tyrannosaurus rex",
+      "Giganotosaurus",
+      "Deinonychus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What was Diplodocus known for?",
+    "choices": [
+      "A massive skull dome",
+      "A very long neck and whip-like tail",
+      "A beak with no teeth",
+      "A pair of huge horns"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What does a dinosaur bonebed represent?",
+    "choices": [
+      "A single bone polished for display",
+      "A layer containing only plant pollen",
+      "A concentration of bones from multiple individuals or events",
+      "A modern artificial skeleton"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the main purpose of a paleontological field excavation?",
+    "choices": [
+      "Collect modern animals for a zoo",
+      "Measure only today's weather",
+      "Replace fossils with casts in the ground",
+      "Document and carefully remove fossils in their geological context"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the geologic time scale used for?",
+    "choices": [
+      "Organizing Earth's history into intervals based on geological and biological change",
+      "Dating only human artifacts",
+      "Naming modern animal species",
+      "Measuring the size of museum displays"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does extinction mean?",
+    "choices": [
+      "An individual enters hibernation",
+      "A species or lineage has no living members remaining",
+      "A fossil is moved to a museum",
+      "A population changes its diet"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is adaptation in evolutionary biology?",
+    "choices": [
+      "Any behavior an individual learns",
+      "A fossil's change into rock",
+      "A heritable trait that improves fitness in a particular environment",
+      "A temporary response that cannot be inherited"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What is natural selection?",
+    "choices": [
+      "The deliberate choice of fossils by a museum",
+      "A process that always makes organisms larger",
+      "Random movement of continents only",
+      "Differential survival and reproduction associated with heritable variation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What can a trackway fossil reveal?",
+    "choices": [
+      "Information about an animal's movement, gait, and behavior",
+      "The exact color of its skin",
+      "Its complete DNA sequence",
+      "The sound of its call"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "What anatomical feature is a classic dinosaur synapomorphy?",
+    "choices": [
+      "A shell made of keratin",
+      "An open hip socket called a perforate acetabulum",
+      "A four-chambered stomach",
+      "A pair of flippers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What was the traditional distinction between saurischian and ornithischian dinosaurs?",
+    "choices": [
+      "Whether they lived on land or in water",
+      "Whether they had feathers",
+      "Their hip-bone arrangements",
+      "Their body temperature"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a common body-plan feature of theropods?",
+    "choices": [
+      "They all had four wings",
+      "They were all quadrupedal armored herbivores",
+      "They all lived in marine environments",
+      "They were ancestrally bipedal, with hollow limb bones in many forms"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does Sauropodomorpha include?",
+    "choices": [
+      "Long-necked herbivorous dinosaurs and their close relatives",
+      "Only horned ceratopsians",
+      "Only feathered raptors",
+      "Extinct marine reptiles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a defining feature of ceratopsian dinosaurs?",
+    "choices": [
+      "A dorsal sail and crocodile-like jaws",
+      "Beaks and, in many forms, facial horns or frills",
+      "A long flexible trunk",
+      "A shell covering the whole body"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What are dental batteries in hadrosaurs?",
+    "choices": [
+      "Bony plates used to regulate heat",
+      "Air sacs in the skull",
+      "Rows of tightly packed replacement teeth for grinding plant material",
+      "Sharp claws on the hind feet"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What are osteoderms?",
+    "choices": [
+      "Tiny teeth in a dinosaur's throat",
+      "Air-filled vertebrae",
+      "Fossilized eggshell fragments",
+      "Bony plates or nodules embedded in the skin"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a tyrannosaur's robust skull and teeth suggest?",
+    "choices": [
+      "Adaptation for powerful biting and processing flesh",
+      "Specialization for filtering plankton",
+      "A diet consisting only of soft leaves",
+      "Flight using the jaws as wings"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What are pneumatic bones?",
+    "choices": [
+      "Bones reinforced with metal during excavation",
+      "Bones containing air spaces or cavities associated with a respiratory system",
+      "Bones filled with marrow only",
+      "Bones found exclusively in marine reptiles"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a furcula in theropod and bird anatomy?",
+    "choices": [
+      "A joint in the ankle",
+      "A tooth battery",
+      "The fused wishbone formed by the clavicles",
+      "A tail club"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is medullary bone in fossil research?",
+    "choices": [
+      "A layer of armor found in ankylosaurs",
+      "The outer surface of a tooth",
+      "A mineral that forms only in amber",
+      "A temporary calcium-rich tissue associated with reproduction in some living birds"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What can feather impressions in dinosaur fossils demonstrate?",
+    "choices": [
+      "The presence and arrangement of integumentary structures",
+      "The exact vocal range of the animal",
+      "That all dinosaurs could fly",
+      "That the fossil lived in water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What are quill knobs?",
+    "choices": [
+      "Small horns on a ceratopsian frill",
+      "Attachment points on some fossil forelimbs that may indicate large feather attachment",
+      "Knobs on a dinosaur egg",
+      "Mineral nodules in a trackway"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What evidence can support the hypothesis that some dinosaurs had elevated metabolisms?",
+    "choices": [
+      "Only the color of a fossil's mineral coating",
+      "The fact that they had scales",
+      "Growth rates, bone histology, posture, and respiratory features considered together",
+      "The age of a museum label"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What are growth rings or lines of arrested growth in bone histology used to study?",
+    "choices": [
+      "The number of teeth in a skull",
+      "The animal's exact skin color",
+      "Whether a fossil was found in amber",
+      "Patterns of seasonal growth and pauses in development"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What does taphonomy study?",
+    "choices": [
+      "The processes affecting organisms from death through burial and fossil preservation",
+      "The classification of living birds only",
+      "The motion of tectonic plates today",
+      "The design of museum lighting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is diagenesis in a fossil context?",
+    "choices": [
+      "The animal's behavior before death",
+      "Physical and chemical changes affecting sediment and remains after deposition",
+      "The initial discovery of a fossil",
+      "The formal naming of a species"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is a Lagerstätte?",
+    "choices": [
+      "A dinosaur's nesting chamber",
+      "A method of radiometric dating",
+      "A fossil deposit with exceptional preservation or unusually abundant fossils",
+      "A modern wildlife reserve"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is biostratigraphy?",
+    "choices": [
+      "Measuring the hardness of fossil bone",
+      "Reconstructing an animal's muscles from DNA",
+      "Mapping modern biodiversity",
+      "Using fossil organisms to correlate and relatively date rock layers"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What makes an index fossil useful?",
+    "choices": [
+      "It is widespread but limited to a relatively short geological interval",
+      "It is the largest fossil in a formation",
+      "It contains intact DNA",
+      "It occurs only in one museum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What does radiometric dating measure?",
+    "choices": [
+      "The number of bones in a fossil",
+      "Radioactive decay in minerals to estimate an age",
+      "The length of a dinosaur's stride",
+      "The thickness of a museum display case"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why is an iridium anomaly associated with the K–Pg boundary?",
+    "choices": [
+      "Iridium is produced by dinosaur bones during decay",
+      "It proves the boundary was caused only by mammals",
+      "The globally distributed layer is consistent with material delivered or concentrated by a major impact",
+      "It is a layer of fossilized feathers"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a cautious scientific description of Deccan volcanism's role in the end-Cretaceous extinction?",
+    "choices": [
+      "It is proven to be the only cause and the impact is irrelevant",
+      "It occurred after all extinction effects ended",
+      "It was a marine reptile migration",
+      "It may have contributed environmental stress, while the Chicxulub impact is the leading trigger for the abrupt event"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "How does Pteranodon differ from Pterodactylus in common paleontological usage?",
+    "choices": [
+      "They are different pterosaur genera, with Pteranodon lacking teeth and Pterodactylus retaining teeth",
+      "Pteranodon was a dinosaur and Pterodactylus a mammal",
+      "Pterodactylus was a marine reptile and Pteranodon a fish",
+      "They are two names for the same species"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What structure supported the flight surface of a pterosaur wing?",
+    "choices": [
+      "Feathers attached to every finger",
+      "A membrane supported chiefly by the elongated fourth finger",
+      "A rigid shell like a beetle's wing case",
+      "A fin made from fused ribs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What does the anatomy of many marine reptiles indicate about breathing?",
+    "choices": [
+      "They extracted oxygen through gills like fish",
+      "They breathed through their flippers",
+      "They generally had to surface to breathe air",
+      "They lived only in freshwater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is the evolutionary placement of mosasaurs?",
+    "choices": [
+      "They are sauropod dinosaurs",
+      "They are early whales",
+      "They are pterosaurs",
+      "They are extinct squamate reptiles related to lizards and snakes"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Why are ichthyosaurs an example of convergent evolution?",
+    "choices": [
+      "Their fish-like body form evolved independently from that of fish",
+      "They descended directly from modern dolphins",
+      "They were all members of one fish family",
+      "They evolved feathers independently from birds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is a notable body-plan contrast between many plesiosaurs and ichthyosaurs?",
+    "choices": [
+      "Plesiosaurs had wings while ichthyosaurs had feathers",
+      "Plesiosaurs often had broad bodies and flippers, whereas ichthyosaurs were more streamlined",
+      "Plesiosaurs were land mammals while ichthyosaurs were insects",
+      "They had identical skeletons"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What are heteromorph ammonites?",
+    "choices": [
+      "Ammonites with two heads",
+      "Ammonites preserved only in amber",
+      "Ammonites with unusual, non-planispiral shell shapes",
+      "Ammonites that were actually dinosaurs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the broad evolutionary significance of cynodonts?",
+    "choices": [
+      "They are the direct ancestors of pterosaurs",
+      "They are a group of flowering plants",
+      "They are a family of horned dinosaurs",
+      "They are synapsids that include mammal ancestors and close relatives"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What type of animal was Dimetrodon in the amniote family tree?",
+    "choices": [
+      "A synapsid, closer to the mammal lineage than to dinosaurs",
+      "An ornithischian dinosaur",
+      "A pterosaur",
+      "A placoderm fish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What does the fossil record of mammoths place them within?",
+    "choices": [
+      "The dinosaur lineage, Dinosauria",
+      "The elephant relative lineage, Proboscidea",
+      "The marine reptile lineage",
+      "The bird order Passeriformes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What was the function of Smilodon's enlarged canine teeth most likely related to?",
+    "choices": [
+      "Crushing plant seeds",
+      "Filtering plankton",
+      "Delivering deep bites to prey, with jaw mechanics unlike a modern lion's",
+      "Digging burrows through hard rock"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What does a cladistic analysis primarily seek to reconstruct?",
+    "choices": [
+      "The exact color of extinct animals",
+      "The daily weather at a fossil site",
+      "The market value of a specimen",
+      "Nested evolutionary relationships using shared derived characters"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is a holotype?",
+    "choices": [
+      "The single specimen designated as the name-bearing reference for a species",
+      "Any fossil found in the same rock layer",
+      "A complete skeleton reconstructed from several species",
+      "A modern living relative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a paratype?",
+    "choices": [
+      "A fossil that has no scientific name",
+      "An additional specimen cited in the original description alongside the holotype",
+      "A trace fossil without an organism",
+      "A mineral used for dating"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What does nomen dubium mean in taxonomy?",
+    "choices": [
+      "A species known from many complete skeletons",
+      "A name reserved for living birds",
+      "A name of doubtful application because the available material is not diagnostic",
+      "A confirmed synonym with an unambiguous holotype"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What is ichnology?",
+    "choices": [
+      "The study of fossil pollen only",
+      "The chemical analysis of amber",
+      "The naming of museum exhibits",
+      "The study of trace fossils such as tracks, burrows, and coprolites"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What can a dinosaur trackway reveal that isolated bones usually cannot?",
+    "choices": [
+      "Movement patterns and interactions at a particular site",
+      "The animal's full genome",
+      "The exact pigment molecules in its skin",
+      "The species of every plant nearby"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why are dinosaur bonebeds important for paleoecology?",
+    "choices": [
+      "They always prove that every species lived in herds",
+      "They can preserve evidence of group composition, mortality, and depositional history",
+      "They contain only predator skeletons",
+      "They cannot be affected by water transport"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "What is a fossil cast?",
+    "choices": [
+      "A living animal preserved in amber",
+      "A modern skeleton buried for display",
+      "A three-dimensional replica formed when a mold is filled with minerals or another material",
+      "A footprint with no surrounding sediment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Why might paleontologists use small brushes during an excavation?",
+    "choices": [
+      "To polish bones before they are found",
+      "To chemically date every grain of sand",
+      "To paint missing anatomy onto a specimen",
+      "To remove loose sediment gently while minimizing damage to exposed fossil surfaces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What is the Mesozoic Era commonly divided into?",
+    "choices": [
+      "Triassic, Jurassic, and Cretaceous periods",
+      "Cambrian, Devonian, and Permian periods",
+      "Paleogene, Neogene, and Quaternary periods",
+      "Archean, Proterozoic, and Cenozoic periods"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What did many tyrannosaurs use their large teeth for?",
+    "choices": [
+      "Grinding tough plant fibers with dental batteries",
+      "Gripping and slicing or crushing flesh",
+      "Filtering small aquatic organisms",
+      "Injecting venom into tree bark"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does the term maniraptoran refer to in dinosaur classification?",
+    "choices": [
+      "A group of armored sauropods",
+      "A family of marine reptiles",
+      "A theropod group that includes birds and several close feathered relatives",
+      "A clade of horned herbivores only"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is osteohistology?",
+    "choices": [
+      "The mapping of dinosaur footprints with aerial photography",
+      "The chemistry of fossilized tree resin",
+      "The naming of sedimentary rock layers",
+      "The microscopic study of bone tissue to infer growth and biology"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "Why are CT scans valuable for some fossil specimens?",
+    "choices": [
+      "They can reveal internal structures without physically cutting the fossil open",
+      "They restore DNA to every bone",
+      "They identify an animal's exact vocalization",
+      "They remove all mineral replacement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is taphonomic abrasion evidence?",
+    "choices": [
+      "A growth pattern inside a living dinosaur's bone",
+      "Surface wear that can indicate transport, exposure, or sediment movement after death",
+      "A mark left only by a museum saw",
+      "A pigment pattern from feathers"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What is a mass-accumulation bonebed?",
+    "choices": [
+      "A single skeleton reconstructed from unrelated species",
+      "A layer containing only eggshell",
+      "A concentration formed by many carcasses or bones gathered in one depositional setting",
+      "A museum display containing multiple replicas"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does precise locality documentation add to a fossil's scientific value?",
+    "choices": [
+      "Locality is needed only to estimate market price",
+      "The location determines the animal's exact body color",
+      "A locality record replaces the specimen itself",
+      "Geological context helps interpret age, environment, and relationships to associated fossils"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a museum mount made from a composite specimen?",
+    "choices": [
+      "A display assembled from bones of more than one individual, with its reconstruction documented",
+      "A single original skeleton that has never been prepared",
+      "A cast made entirely from living animals",
+      "A fossil preserved only in amber"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What can stable-isotope analysis of fossil material sometimes help reconstruct?",
+    "choices": [
+      "The exact written name of a dinosaur",
+      "Past diet, climate, water sources, or environmental conditions depending on the isotope",
+      "The number of predators in every ecosystem",
+      "A complete sequence of behavioral events"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a fossilized egg?",
+    "choices": [
+      "A modern egg painted to resemble a fossil",
+      "A dinosaur embryo that must contain intact DNA",
+      "An egg or eggshell preserved in geological material",
+      "A mineral crystal shaped like a feather"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is phylogenetic bracketing used to infer about extinct animals?",
+    "choices": [
+      "The exact age of every fossil without dating",
+      "The geographic coordinates of a field site",
+      "The market value of a mounted skeleton",
+      "Possible soft-tissue or behavioral traits by comparing close living relatives"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  }
+]

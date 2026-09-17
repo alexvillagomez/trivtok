@@ -1,0 +1,1102 @@
+[
+  {
+    "text": "What kind of game is Minecraft primarily?",
+    "choices": [
+      "A sandbox game built around exploration, building, and survival",
+      "A racing simulation",
+      "A turn-based courtroom game",
+      "A rhythm-only arcade game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which block is commonly used to build a basic Minecraft shelter?",
+    "choices": [
+      "Water",
+      "Wood planks",
+      "Lava",
+      "Tall grass"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What tool is normally used to mine stone efficiently?",
+    "choices": [
+      "Hoe",
+      "Shears",
+      "Pickaxe",
+      "Fishing rod"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What tool is normally used to harvest wood from tree trunks?",
+    "choices": [
+      "Shovel",
+      "Sword",
+      "Compass",
+      "Axe"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What tool is designed primarily for digging dirt, sand, and gravel?",
+    "choices": [
+      "Shovel",
+      "Pickaxe",
+      "Hoe",
+      "Flint and steel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What tool tills soil for many crop farms?",
+    "choices": [
+      "Axe",
+      "Hoe",
+      "Shears",
+      "Bucket"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.18
+  },
+  {
+    "text": "Which item is used to attack hostile mobs at close range?",
+    "choices": [
+      "Compass",
+      "Map",
+      "Sword",
+      "Lead"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.15
+  },
+  {
+    "text": "What item can place and carry a source of water?",
+    "choices": [
+      "Bowl",
+      "Hopper",
+      "Furnace",
+      "Bucket"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the basic material crafted from logs and used in many recipes?",
+    "choices": [
+      "Wood planks",
+      "Obsidian",
+      "Netherrack",
+      "Prismarine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which block converts ores and other smeltable items using fuel?",
+    "choices": [
+      "Crafting table",
+      "Furnace",
+      "Chest",
+      "Anvil"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.21
+  },
+  {
+    "text": "What does a crafting table provide?",
+    "choices": [
+      "A place to store unlimited items",
+      "A way to change the weather",
+      "A larger crafting grid for more complex recipes",
+      "A portal to the Nether"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which hostile mob is known for silently approaching and exploding?",
+    "choices": [
+      "Skeleton",
+      "Spider",
+      "Witch",
+      "Creeper"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which mob commonly attacks with a bow?",
+    "choices": [
+      "Skeleton",
+      "Zombie",
+      "Slime",
+      "Enderman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which hostile mob is a reanimated humanoid that burns in sunlight?",
+    "choices": [
+      "Creeper",
+      "Zombie",
+      "Guardian",
+      "Phantom"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which tall, dark mob can teleport and becomes hostile when stared at?",
+    "choices": [
+      "Endermite",
+      "Evoker",
+      "Enderman",
+      "Piglin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.22
+  },
+  {
+    "text": "Which passive mob provides wool when sheared?",
+    "choices": [
+      "Cow",
+      "Pig",
+      "Chicken",
+      "Sheep"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.15
+  },
+  {
+    "text": "Which farm animal can provide milk in Minecraft?",
+    "choices": [
+      "Cow",
+      "Sheep",
+      "Chicken",
+      "Rabbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What item do chickens commonly lay?",
+    "choices": [
+      "Wool",
+      "Eggs",
+      "Leather",
+      "Ink sacs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.15
+  },
+  {
+    "text": "After being fed bones, which neutral mob can become the player's companion?",
+    "choices": [
+      "Fox",
+      "Ocelot",
+      "Wolf",
+      "Horse"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which animal can be tamed and ridden using a saddle?",
+    "choices": [
+      "Cow",
+      "Sheep",
+      "Polar bear",
+      "Horse"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What biome is characterized by abundant sand and cacti?",
+    "choices": [
+      "Desert",
+      "Taiga",
+      "Jungle",
+      "Mushroom Fields"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "Which biome is known for tall trees, dense vegetation, and cocoa pods?",
+    "choices": [
+      "Desert",
+      "Jungle",
+      "Plains",
+      "Snowy Tundra"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.23
+  },
+  {
+    "text": "Which biome commonly contains many spruce trees?",
+    "choices": [
+      "Savanna",
+      "Badlands",
+      "Taiga",
+      "Swamp"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What is the Nether?",
+    "choices": [
+      "A peaceful ocean biome",
+      "A village profession",
+      "A storage block",
+      "A dangerous dimension reached through a portal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.19
+  },
+  {
+    "text": "What is the End dimension especially associated with?",
+    "choices": [
+      "The Ender Dragon",
+      "Ocean monuments",
+      "Witch huts",
+      "Pillager outposts"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.18
+  },
+  {
+    "text": "What material is needed to activate a standard Nether portal frame?",
+    "choices": [
+      "Iron blocks",
+      "Obsidian",
+      "Quartz blocks",
+      "Prismarine"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which boss is fought on the main End island?",
+    "choices": [
+      "The Wither",
+      "The Warden",
+      "The Ender Dragon",
+      "The Elder Guardian"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.16
+  },
+  {
+    "text": "Which boss is summoned by arranging soul sand or soul soil with three wither skeleton skulls?",
+    "choices": [
+      "The Ender Dragon",
+      "The Warden",
+      "The Ravager",
+      "The Wither"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What structure commonly serves as a home for villagers?",
+    "choices": [
+      "Village",
+      "Stronghold",
+      "Bastion remnant",
+      "Ocean monument"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What structure contains a portal room leading toward the End?",
+    "choices": [
+      "Desert temple",
+      "Stronghold",
+      "Woodland mansion",
+      "Shipwreck"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which structure is an underwater monument guarded by elder guardians?",
+    "choices": [
+      "Nether fortress",
+      "Pillager outpost",
+      "Ocean monument",
+      "Ancient city"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.29
+  },
+  {
+    "text": "What is a Nether fortress known for containing?",
+    "choices": [
+      "End portals and libraries",
+      "Villager farms",
+      "Coral reefs",
+      "Blaze spawners and Nether wart"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which crop grows from the seed item commonly found by breaking grass?",
+    "choices": [
+      "Wheat",
+      "Melon",
+      "Sugar cane",
+      "Nether wart"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.16
+  },
+  {
+    "text": "What does a water source help farmland do?",
+    "choices": [
+      "Turn stone into diamond",
+      "Keep nearby tilled soil hydrated",
+      "Open an End portal",
+      "Prevent all mobs from spawning"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which item can be crafted into bread?",
+    "choices": [
+      "Carrots",
+      "Potatoes",
+      "Wheat",
+      "Beetroot"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.17
+  },
+  {
+    "text": "What does an enchanting table allow a player to do?",
+    "choices": [
+      "Smelt all blocks without fuel",
+      "Create villagers from animals",
+      "Change a biome's climate",
+      "Apply enchantments to eligible items using experience and lapis lazuli"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.34
+  },
+  {
+    "text": "What material is commonly used to repair or combine enchanted gear in an anvil?",
+    "choices": [
+      "Experience levels and suitable items or materials",
+      "Only water buckets",
+      "Only redstone dust",
+      "Only sand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What does redstone primarily provide in Minecraft?",
+    "choices": [
+      "A food source for villagers",
+      "A system for transmitting power and creating mechanisms",
+      "A portal fuel",
+      "A decorative plant"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which redstone component emits a signal when powered?",
+    "choices": [
+      "Glass pane",
+      "Crafting table",
+      "Redstone torch",
+      "Ladder"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.23
+  },
+  {
+    "text": "What does a lever do in a simple redstone circuit?",
+    "choices": [
+      "Stores items like a chest",
+      "Detects nearby players only",
+      "Changes a tool's material",
+      "Provides a switchable on-or-off power signal"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does a piston do when powered?",
+    "choices": [
+      "Pushes blocks, subject to piston movement rules",
+      "Smelts ore into ingots",
+      "Spawns a villager",
+      "Turns water into lava"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "What is a hopper used for?",
+    "choices": [
+      "Changing a mob's species",
+      "Moving or collecting item stacks between inventories and containers",
+      "Creating an End portal",
+      "Growing trees instantly"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What does a map help a player do?",
+    "choices": [
+      "Enchant armor automatically",
+      "Breed animals at a distance",
+      "View and navigate a represented area of the world",
+      "Prevent fall damage"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What does a compass normally point toward in the Overworld?",
+    "choices": [
+      "The nearest village",
+      "The End portal",
+      "The player's bed in every dimension",
+      "The world spawn point"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is a bed used for in survival play?",
+    "choices": [
+      "Setting a respawn point and attempting to sleep",
+      "Creating a Nether portal",
+      "Repairing tools without materials",
+      "Finding strongholds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "Who originally created Minecraft?",
+    "choices": [
+      "Shigeru Miyamoto",
+      "Markus Persson",
+      "John Carmack",
+      "Tim Schafer"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which company acquired Mojang, the studio behind Minecraft?",
+    "choices": [
+      "Nintendo",
+      "Valve",
+      "Microsoft",
+      "Electronic Arts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is Minecraft's block-based visual style most directly built around?",
+    "choices": [
+      "Hand-painted watercolor backgrounds",
+      "Photorealistic polygons only",
+      "Text-based maps",
+      "Voxel-like cubic blocks"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What happens to a player who falls into the void in an ordinary survival world?",
+    "choices": [
+      "They take fatal void damage unless protected by unusual circumstances",
+      "They are teleported to the nearest village",
+      "They gain the Glowing effect",
+      "They automatically enter Creative mode"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the core distinction between an entity and a block in Minecraft?",
+    "choices": [
+      "Entities are always blocks with inventories",
+      "An entity is a dynamic object such as a mob, item, or projectile rather than a fixed terrain block",
+      "Blocks can move freely while entities cannot",
+      "There is no engine distinction"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What is an item entity?",
+    "choices": [
+      "An item stored inside a crafting recipe only",
+      "A villager holding a trade offer",
+      "A dropped item represented in the world before being collected",
+      "A decorative block with no inventory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does despawning mean for many dropped items or mobs?",
+    "choices": [
+      "They are permanently upgraded",
+      "They become blocks of the same material",
+      "They teleport to the nearest village",
+      "They are removed from the world after meeting specified time or distance conditions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is the Ender Dragon's main healing source during its fight?",
+    "choices": [
+      "End crystals on the obsidian pillars",
+      "Ender pearls held by endermen",
+      "The player's respawn anchor",
+      "A nearby stronghold library"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why are End crystals destroyed during the Ender Dragon battle?",
+    "choices": [
+      "They prevent players from respawning",
+      "They heal the dragon while active",
+      "They generate the End portal frame",
+      "They make endermen peaceful"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What happens after the Ender Dragon is defeated for the first time?",
+    "choices": [
+      "The Nether is permanently deleted",
+      "All endermen become villagers",
+      "An exit portal activates and access to outer End islands becomes available through gateways",
+      "The Overworld seed changes"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is an End City known for containing?",
+    "choices": [
+      "Villager breeding chambers",
+      "Nether wart farms",
+      "The original End portal room",
+      "Valuable loot and, in some cities, an End ship with an elytra"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does an elytra allow a player to do?",
+    "choices": [
+      "Glide through the air when launched from a height",
+      "Mine obsidian instantly",
+      "Breathe underwater indefinitely",
+      "Teleport to any named structure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Why are firework rockets often used with an elytra?",
+    "choices": [
+      "They repair the elytra's durability automatically",
+      "They can provide propulsion during flight when made suitable for that use",
+      "They open End gateways",
+      "They make the player invulnerable"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is the key risk of using a firework rocket with an elytra?",
+    "choices": [
+      "Every rocket destroys the elytra instantly",
+      "Rockets summon the Wither",
+      "A rocket made with an explosive star can damage the player on use",
+      "Rockets work only underwater"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What does a totem of undying do when held appropriately?",
+    "choices": [
+      "It grants permanent Creative mode",
+      "It summons an End City",
+      "It repairs every item in the inventory",
+      "It can prevent one otherwise fatal death and grant emergency effects"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which mob commonly drops a totem of undying when defeated?",
+    "choices": [
+      "Evoker",
+      "Creeper",
+      "Enderman",
+      "Drowned"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is an evoker's distinctive attack?",
+    "choices": [
+      "It fires a charged creeper blast",
+      "It can summon vexes and create snapping fang attacks",
+      "It freezes oceans instantly",
+      "It throws tridents from villages"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "What is a vex?",
+    "choices": [
+      "A peaceful Nether insect",
+      "A villager's pet",
+      "A small hostile flying mob summoned by an evoker",
+      "A block that detects vibrations"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does a shulker box add beyond a normal chest?",
+    "choices": [
+      "It can be opened only in the Nether",
+      "It automatically sorts every item",
+      "It cannot contain tools",
+      "It retains its inventory when mined and moved as an item"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.79
+  },
+  {
+    "text": "Why are shulker boxes valuable for transporting resources?",
+    "choices": [
+      "They package many item stacks into a movable container",
+      "They duplicate every block placed inside",
+      "They make items immune to lava",
+      "They function as portable crafting tables"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does an ender chest provide?",
+    "choices": [
+      "A single shared inventory visible to every player",
+      "A player-specific shared inventory accessible from other ender chests",
+      "A way to store blocks in the End portal frame",
+      "A chest that works only in villages"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the important multiplayer distinction of an ender chest inventory?",
+    "choices": [
+      "Every player sees identical contents regardless of owner",
+      "Only operators can open it",
+      "Each player normally sees their own linked inventory in the chest",
+      "Its contents are stored in the Nether"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.85
+  },
+  {
+    "text": "What is the usual purpose of a name tag?",
+    "choices": [
+      "Changing a player's username",
+      "Naming a world seed",
+      "Renaming every item in a chest at once",
+      "Giving an entity a custom persistent name when used appropriately"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does naming a mob 'Dinnerbone' or 'Grumm' traditionally cause?",
+    "choices": [
+      "It turns the mob upside down as an easter egg",
+      "It makes the mob invulnerable",
+      "It changes the mob into a villager",
+      "It doubles the mob's drops"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What is a music disc in Minecraft?",
+    "choices": [
+      "A disk that stores a world seed",
+      "An item that can be played in a jukebox",
+      "A tool for mining ancient debris",
+      "A villager currency"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a jukebox used for?",
+    "choices": [
+      "Crafting maps",
+      "Breeding parrots automatically",
+      "Playing music discs",
+      "Changing a player's game mode"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the main function of a lectern for a villager?",
+    "choices": [
+      "It smelts books into paper",
+      "It opens a stronghold portal",
+      "It stores every enchanted book automatically",
+      "It can serve as the workstation for a librarian"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is an enchanted book used for?",
+    "choices": [
+      "Applying its compatible enchantment to an item through an anvil",
+      "Activating an End gateway directly",
+      "Turning a villager into a witch",
+      "Replacing a tool's material"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What determines whether an enchantment can be combined on one item?",
+    "choices": [
+      "Only the color of the item",
+      "Compatibility rules between enchantments and the item's type",
+      "The biome where the item was crafted",
+      "The player's map scale"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "What is a treasure enchantment in broad Minecraft terminology?",
+    "choices": [
+      "An enchantment that always costs no experience",
+      "A cosmetic trim on armor",
+      "An enchantment obtained through special sources rather than the ordinary enchanting-table pool",
+      "An enchantment usable only on blocks"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  },
+  {
+    "text": "What does the Curse of Binding do?",
+    "choices": [
+      "It binds two players together",
+      "It makes a tool unbreakable",
+      "It forces mobs to attack the wearer",
+      "It prevents an equipped item from being removed normally until the relevant conditions end"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does the Curse of Vanishing do?",
+    "choices": [
+      "The item disappears on the player's death instead of dropping normally",
+      "The item becomes invisible while equipped",
+      "The item vanishes after one use",
+      "The item teleports to the nearest chest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What is the main purpose of a respawn point in survival play?",
+    "choices": [
+      "It determines where all mobs spawn",
+      "It sets where the player attempts to return after death",
+      "It stores the player's experience forever",
+      "It changes the world seed"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Why can a player lose a bed-set respawn point?",
+    "choices": [
+      "The player mines any nearby stone",
+      "A map reaches its maximum scale",
+      "The bed can be destroyed or become obstructed or invalid when the player tries to respawn",
+      "The player crafts a new pickaxe"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What does a recovery compass point toward?",
+    "choices": [
+      "The nearest stronghold",
+      "The world spawn in every dimension",
+      "The closest end gateway",
+      "The location of the player's most recent death in the same dimension, when valid"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "Why can a recovery compass be unreliable in another dimension?",
+    "choices": [
+      "It is tied to a death location and dimension context rather than universally pointing across dimensions",
+      "It always points to the Nether roof",
+      "It loses all magnetism near water",
+      "It points only during thunderstorms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What does a lead allow a player to do?",
+    "choices": [
+      "Enchant animals with books",
+      "Leash certain mobs to the player or a suitable fence",
+      "Transport villagers through portals automatically",
+      "Harvest crops without tools"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a name for a group of connected blocks moved by a flying machine?",
+    "choices": [
+      "A biome",
+      "A mob cap",
+      "A movable contraption",
+      "A structure seed"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a common reason Java redstone designs may not behave identically in Bedrock?",
+    "choices": [
+      "Bedrock has no pistons",
+      "Java has no redstone",
+      "All redstone mechanics are guaranteed identical",
+      "The editions implement mechanics and update behavior through different codebases"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.88
+  },
+  {
+    "text": "What is the broad purpose of an iron farm?",
+    "choices": [
+      "Use villager and golem mechanics to generate iron over time",
+      "Smelt iron ore without fuel",
+      "Create iron tools directly from redstone",
+      "Convert zombies into diamonds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Why can an iron farm be edition- or version-sensitive?",
+    "choices": [
+      "Iron is not a valid item in Bedrock",
+      "Village, bed, workstation, and golem-spawn rules can differ between editions and updates",
+      "Villagers never interact with beds",
+      "Golems can spawn only in the End"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is an automatic crop farm generally built to do?",
+    "choices": [
+      "Prevent every crop from growing",
+      "Convert crops into terrain",
+      "Use growth and collection mechanics, often with redstone or villagers, to gather crops with less manual work",
+      "Make hostile mobs drop food"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.71
+  },
+  {
+    "text": "What does a villager-powered crop farm often rely on?",
+    "choices": [
+      "Endermen placing farmland",
+      "Creepers watering crops",
+      "The Wither fertilizing wheat",
+      "Farmer villagers harvesting and sharing or depositing food under suitable conditions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "What is a raid farm designed to exploit in broad terms?",
+    "choices": [
+      "Repeatable raid spawning and drops under controlled conditions",
+      "A way to duplicate maps by breaking beds",
+      "A method to turn End cities into villages",
+      "A system that removes all illagers from the game"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "What is the central distinction between a structure and ordinary terrain generation?",
+    "choices": [
+      "A structure is always built by a player",
+      "A structure is a generated arrangement such as a village or temple placed by world-generation rules",
+      "Terrain cannot contain blocks",
+      "Structures exist only in Creative mode"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What is structure bounding-box information useful for in technical exploration?",
+    "choices": [
+      "Changing the structure into a mob",
+      "Measuring the player's hunger",
+      "Estimating or checking the generated region occupied by a structure",
+      "Determining an item's enchantment compatibility"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.89
+  },
+  {
+    "text": "Why can two worlds with the same seed differ after an edition or version change?",
+    "choices": [
+      "Seeds are random every time by definition",
+      "A seed controls only the player's inventory",
+      "Versions never affect generation",
+      "Generation algorithms, structure rules, and biome placement can change with software context"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.8
+  },
+  {
+    "text": "What does a game rule such as keepInventory change?",
+    "choices": [
+      "A configurable world behavior, such as whether inventory is retained after death",
+      "The player's skin and cape",
+      "The maximum stack size of blocks",
+      "The number of dimensions in the save"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the purpose of spectator mode?",
+    "choices": [
+      "Building with unlimited blocks",
+      "Observing the world with restricted interaction and the ability to move through it",
+      "Surviving with one life",
+      "Trading with villagers without a player body"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the principal difference between a resource pack and a data pack?",
+    "choices": [
+      "A data pack changes only monitor brightness",
+      "A resource pack adds server commands only",
+      "A resource pack changes client assets such as textures, while a data pack changes supported data-driven behaviors or content",
+      "They are identical names for shader files"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "What is the broad role of commands in Minecraft?",
+    "choices": [
+      "They are crafting recipes for diamond armor",
+      "They affect only music discs",
+      "They work only when the player is asleep",
+      "They let authorized players or systems perform scripted or administrative actions"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does a command block provide?",
+    "choices": [
+      "A block that can execute commands when configured and triggered",
+      "A chest that stores commands as items",
+      "A block that generates villages automatically",
+      "A tool that mines bedrock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the broad purpose of an advancement?",
+    "choices": [
+      "A block used for enchanting",
+      "A progression or achievement-style goal that can be displayed and triggered by conditions",
+      "A villager profession",
+      "A dimension portal"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What does the spectator camera reveal about entities in supported Minecraft modes?",
+    "choices": [
+      "It gives every entity a new inventory",
+      "It turns entities into blocks permanently",
+      "It can allow observing or viewing through certain entities without normal player control",
+      "It activates the Ender Dragon fight"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "What is a resource location or namespaced identifier used for in Minecraft data?",
+    "choices": [
+      "Determining the player's real-world location",
+      "Replacing every world seed",
+      "Choosing the monitor's resolution",
+      "Uniquely identifying content such as blocks, items, functions, or tags within namespaces"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.9
+  }
+]
