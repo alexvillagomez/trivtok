@@ -13,6 +13,14 @@ import {
   isReportReason,
   type ReportReason,
 } from "@/lib/db/reports";
+import {
+  getFavoriteTopics,
+  getLifetimeStats,
+  getStrongestAreas,
+  listTopics,
+  setStartingInterests,
+} from "@/lib/db/topics";
+import type { PublicTopic } from "@/lib/types";
 import { verifyAccessToken } from "@/lib/supabase/server";
 
 type SubmitInteractionResult =
@@ -137,6 +145,78 @@ export async function reportQuestion(
   } catch (error) {
     console.error("reportQuestion failed", error);
     return { ok: false, error: "Could not submit report" };
+  }
+}
+
+// --- Interests onboarding + profile ----------------------------------------
+
+const TOPIC_ID = /^[a-z0-9-]{1,40}$/;
+
+/** The preset broad interests for the onboarding picker (display fields only). */
+export async function getTopics(): Promise<PublicTopic[]> {
+  try {
+    return await listTopics();
+  } catch (error) {
+    console.error("getTopics failed", error);
+    return [];
+  }
+}
+
+type SaveInterestsResult =
+  | { ok: true; inserted: number }
+  | { ok: false; error: string };
+
+/** Seed the user's starting interests from the topics they picked. */
+export async function saveInterests(
+  userId: string,
+  topicIds: string[],
+): Promise<SaveInterestsResult> {
+  if (!UUID.test(userId)) return { ok: false, error: "Invalid id" };
+  if (!Array.isArray(topicIds)) return { ok: false, error: "Invalid selection" };
+  const ids = Array.from(new Set(topicIds.filter((id) => TOPIC_ID.test(id))));
+  if (ids.length === 0) return { ok: false, error: "Pick at least one interest" };
+  try {
+    const inserted = await setStartingInterests(userId, ids);
+    return { ok: true, inserted };
+  } catch (error) {
+    console.error("saveInterests failed", error);
+    return { ok: false, error: "Could not save your interests" };
+  }
+}
+
+export type ProfileData = {
+  favoriteTopics: { label: string; strength: number }[];
+  strongestAreas: { label: string; score: number }[];
+  lifetime: {
+    seen: number;
+    answered: number;
+    correct: number;
+    accuracy: number;
+    liked: number;
+  };
+};
+
+type GetProfileResult =
+  | ({ ok: true } & ProfileData)
+  | { ok: false; error: string };
+
+/**
+ * Everything the profile page shows about the user: favorite topics (from
+ * interest strength), strongest areas (from Bayesian ability), and lifetime
+ * stats. Returns only plain display rows — no centroids/embeddings/ability.
+ */
+export async function getProfile(userId: string): Promise<GetProfileResult> {
+  if (!UUID.test(userId)) return { ok: false, error: "Invalid id" };
+  try {
+    const [favoriteTopics, strongestAreas, lifetime] = await Promise.all([
+      getFavoriteTopics(userId),
+      getStrongestAreas(userId),
+      getLifetimeStats(userId),
+    ]);
+    return { ok: true, favoriteTopics, strongestAreas, lifetime };
+  } catch (error) {
+    console.error("getProfile failed", error);
+    return { ok: false, error: "Could not load your profile" };
   }
 }
 

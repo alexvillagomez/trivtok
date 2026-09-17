@@ -7,7 +7,9 @@
   --accent: #ff4d6d;
   --choice: #23262e;
   --choice-border: #33373f;
-  --correct: #2ecc71;
+  --correct: #34d17e;
+  --streak: #ff9f45;
+  --xp: #ffd166;
 }
 
 * {
@@ -55,8 +57,8 @@ body {
   inset: 0;
   display: flex;
   flex-direction: column;
-  padding: calc(60px + env(safe-area-inset-top, 0px)) 20px
-    calc(6% + env(safe-area-inset-bottom, 0px));
+  padding: calc(62px + env(safe-area-inset-top, 0px)) 18px
+    calc(5% + env(safe-area-inset-bottom, 0px));
   background: radial-gradient(
       120% 80% at 50% 0%,
       #1c1e26 0%,
@@ -69,160 +71,378 @@ body {
   display: flex;
   flex-direction: column;
   height: 100%;
-  gap: 14px;
-  /* the action rail floats on top now, no gutter needed */
 }
 
-/* The question box: same left/right extent as the choices below it, grows to
-   fill the space above them so the two read as one evenly-sized column. */
-.qbox {
-  flex: 1;
-  padding: 20px;
-  border-radius: 18px;
-  background: rgba(255, 255, 255, 0.06);
-  border: 1px solid var(--choice-border);
-  font-size: clamp(20px, 5vw, 26px);
-  font-weight: 700;
-  line-height: 1.28;
-  letter-spacing: -0.01em;
-  text-shadow: 0 2px 18px rgba(0, 0, 0, 0.4);
+/* The question IS the content: it lives centered in the top ~38% of the card,
+   no heavy box around it — just the words, given room to breathe. */
+.qhead {
+  position: relative;
+  flex: 0 0 38%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 8px 6px;
+}
+
+.qtext {
+  font-size: clamp(21px, 5.6vw, 30px);
+  font-weight: 750;
+  line-height: 1.22;
+  letter-spacing: -0.02em;
+  text-wrap: balance;
+  text-shadow: 0 2px 22px rgba(0, 0, 0, 0.45);
   cursor: pointer;
   user-select: none;
   -webkit-user-select: none;
 }
 
-.choices {
+/* Three-dot options trigger, top-right of the question area. */
+.qmenu-btn {
+  position: absolute;
+  top: -4px;
+  right: -2px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  padding: 8px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.qmenu-btn span {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--muted);
+  transition: background 0.15s ease;
+}
+.qmenu-btn:active span {
+  background: var(--text);
+}
+
+.qmenu-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 5;
+}
+.qmenu-pop {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  z-index: 6;
   display: flex;
   flex-direction: column;
-  gap: 11px;
-  flex-shrink: 0;
+  min-width: 130px;
+  padding: 6px;
+  border-radius: 14px;
+  background: #22242c;
+  box-shadow: 0 14px 44px rgba(0, 0, 0, 0.55);
+  animation: reveal 0.14s ease;
+}
+.qmenu-pop button {
+  text-align: left;
+  padding: 9px 11px;
+  border: none;
+  border-radius: 9px;
+  background: none;
+  color: var(--text);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.qmenu-pop button:hover {
+  background: rgba(255, 255, 255, 0.07);
+}
+.qmenu-pop button:disabled {
+  color: var(--muted);
+  cursor: default;
+}
+
+/* Answers: grouped, tactile, borderless — centered in the space below. */
+.answers {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 9px;
 }
 
 .choice {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 12px;
   width: 100%;
   text-align: left;
-  padding: 15px 16px;
+  padding: 18px 16px;
   font-size: 16px;
+  font-weight: 600;
   line-height: 1.25;
   color: var(--text);
-  background: rgba(255, 255, 255, 0.06);
-  border: 1px solid var(--choice-border);
+  background: rgba(255, 255, 255, 0.11);
+  border: none;
   border-radius: 16px;
   cursor: pointer;
-  backdrop-filter: blur(6px);
-  transition: transform 0.08s ease, border-color 0.18s ease,
-    background 0.18s ease;
+  transition: transform 0.12s cubic-bezier(0.2, 0.7, 0.3, 1),
+    background 0.18s ease, padding 0.28s ease, opacity 0.28s ease;
 }
-
 .choice:active {
-  transform: scale(0.985);
+  transform: scale(0.965);
+  background: rgba(255, 255, 255, 0.16);
 }
 
 .choice__label {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 27px;
-  height: 27px;
+  width: 26px;
+  height: 26px;
   flex-shrink: 0;
-  border-radius: 9px;
-  background: rgba(255, 255, 255, 0.08);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.12);
   font-size: 13px;
   font-weight: 700;
   color: var(--muted);
+  transition: background 0.18s ease, color 0.18s ease;
 }
 
 .choice__text {
   flex: 1;
 }
 
-.choice--correct {
-  border-color: var(--correct);
-  background: rgba(46, 204, 113, 0.16);
+/* Selected answer depresses the instant it's tapped. */
+.choice--selected {
+  transform: scale(0.965);
+  background: rgba(255, 255, 255, 0.2);
 }
 
-.choice--correct .choice__label {
+/* Once answered, the also-rans fade back so the celebration stands out.
+   Sizes stay put — only the color/opacity changes. */
+.choice--answered:not(.choice--correct):not(.choice--wrong) {
+  opacity: 0.4;
+}
+
+.choice--correct {
   background: var(--correct);
-  color: #06210f;
+  color: #05230f;
+  box-shadow: 0 6px 26px rgba(52, 209, 126, 0.4);
+  animation: pop 0.5s cubic-bezier(0.18, 0.9, 0.28, 1.5);
+}
+.choice--correct .choice__label {
+  background: rgba(0, 0, 0, 0.22);
+  color: #05230f;
+}
+/* Expanding ring that bursts out of the correct answer. */
+.choice--correct::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 16px;
+  border: 2.5px solid var(--correct);
+  pointer-events: none;
+  animation: ringburst 0.62s ease-out forwards;
+}
+@keyframes ringburst {
+  0% {
+    opacity: 0.8;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.14);
+  }
 }
 
 .choice--wrong {
-  border-color: var(--accent);
-  background: rgba(255, 77, 109, 0.16);
-}
-
-.choice--wrong .choice__label {
   background: var(--accent);
+  color: #2a0710;
+  animation: shake 0.3s ease;
+}
+.choice--wrong .choice__label {
+  background: rgba(0, 0, 0, 0.2);
   color: #2a0710;
 }
 
-/* Right-hand vertical action rail (TikTok-style) — floats on top of the
-   choice bars, translucent so the bars show through behind it. */
-.rail {
+@keyframes pop {
+  0% {
+    transform: scale(0.94);
+  }
+  45% {
+    transform: scale(1.07);
+  }
+  70% {
+    transform: scale(0.99);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+@keyframes shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(-5px);
+  }
+  75% {
+    transform: translateX(5px);
+  }
+}
+
+/* +12 XP reward, floats up off the correct answer. */
+.xp-float {
   position: absolute;
-  right: 12px;
-  bottom: 16%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 18px;
-  z-index: 3;
+  right: 16px;
+  top: 50%;
+  font-size: 15px;
+  font-weight: 800;
+  color: #05230f;
+  letter-spacing: 0.02em;
+  pointer-events: none;
+  animation: xprise 1s ease forwards;
+}
+@keyframes xprise {
+  0% {
+    opacity: 0;
+    transform: translateY(4px) scale(0.9);
+  }
+  25% {
+    opacity: 1;
+    transform: translateY(-6px) scale(1);
+  }
+  75% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-26px);
+  }
 }
 
-.rail-btn {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 5px;
-  padding: 0;
-  border: none;
-  background: none;
-  color: var(--text);
-  cursor: pointer;
+@keyframes reveal {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-.rail-icon {
-  display: inline-flex;
+/* Heart that pops on double-tap / like. */
+.heart-burst {
+  position: absolute;
+  inset: 0;
+  display: flex;
   align-items: center;
   justify-content: center;
-  width: 52px;
-  height: 52px;
-  border-radius: 50%;
-  background: rgba(0, 0, 0, 0.3);
-  border: 1px solid rgba(255, 255, 255, 0.12);
-  backdrop-filter: blur(8px);
-  font-size: 24px;
-  line-height: 1;
-  transition: transform 0.12s ease, background 0.15s ease, color 0.15s ease;
+  pointer-events: none;
+  z-index: 4;
+}
+.heart-burst svg {
+  width: 128px;
+  height: 128px;
+  color: var(--accent);
+  filter: drop-shadow(0 8px 30px rgba(255, 77, 109, 0.5));
+  animation: heartpop 0.9s cubic-bezier(0.2, 0.8, 0.3, 1) forwards;
+}
+@keyframes heartpop {
+  0% {
+    opacity: 0;
+    transform: scale(0.3) rotate(-8deg);
+  }
+  30% {
+    opacity: 1;
+    transform: scale(1.05) rotate(2deg);
+  }
+  55% {
+    transform: scale(0.95);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.2) translateY(-20px);
+  }
 }
 
-.rail-btn:active .rail-icon {
-  transform: scale(0.88);
+/* Persistent game HUD — three tiny stat chips, top-left of the frame. */
+.hud {
+  position: absolute;
+  top: calc(env(safe-area-inset-top, 0px) + 14px);
+  left: 16px;
+  z-index: 8;
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  pointer-events: none;
 }
-
-.rail-label {
-  font-size: 12px;
-  font-weight: 600;
+.stat {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 11px 6px 9px;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.36);
+  backdrop-filter: blur(10px);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  font-variant-numeric: tabular-nums;
+}
+.stat svg {
+  width: 15px;
+  height: 15px;
+}
+.stat--streak {
+  color: var(--streak);
+}
+.stat--acc {
+  color: var(--text);
+}
+.stat--acc svg {
   color: var(--muted);
 }
-
-.rail-btn--liked .rail-icon {
-  color: var(--accent);
-  border-color: var(--accent);
-  background: rgba(255, 77, 109, 0.16);
+.stat--xp {
+  color: var(--xp);
+}
+.stat--streak.is-hot {
+  background: rgba(255, 120, 40, 0.2);
+  box-shadow: 0 0 0 1px rgba(255, 140, 60, 0.4);
 }
 
-.rail-btn--reported .rail-icon {
-  color: #f5a623;
-  border-color: #f5a623;
-  background: rgba(245, 166, 35, 0.16);
+/* Occasional celebratory banner (new best streak / percentile). */
+.banner {
+  position: absolute;
+  top: calc(env(safe-area-inset-top, 0px) + 56px);
+  left: 50%;
+  z-index: 9;
+  padding: 8px 16px;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--streak), var(--xp));
+  color: #241400;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  pointer-events: none;
+  animation: bannerpop 1.8s ease forwards;
 }
-
-.rail-btn:disabled {
-  cursor: default;
+@keyframes bannerpop {
+  0% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-8px) scale(0.9);
+  }
+  15% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0) scale(1);
+  }
+  80% {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-6px) scale(1);
+  }
 }
 
 /* Plain loading text shown before the very first question arrives. */
@@ -251,6 +471,138 @@ body {
   text-align: center;
   z-index: 20;
   pointer-events: none;
+}
+
+/* Interest picker — first-visit onboarding, fills the 9:16 frame. */
+.picker {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  padding: calc(env(safe-area-inset-top, 0px) + 30px) 18px
+    calc(env(safe-area-inset-bottom, 0px) + 18px);
+  background: radial-gradient(120% 80% at 50% 0%, #1c1e26 0%, var(--bg) 62%);
+}
+.picker__head {
+  flex: 0 0 auto;
+  text-align: center;
+  padding: 4px 6px 14px;
+}
+.picker__title {
+  margin: 0 0 6px;
+  font-size: clamp(24px, 6.4vw, 32px);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+.picker__sub {
+  margin: 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.35;
+}
+.picker__grid {
+  flex: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  gap: 10px;
+  overflow-y: auto;
+  padding: 4px 2px;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.picker__grid::-webkit-scrollbar {
+  display: none;
+}
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 15px;
+  border: 1.5px solid var(--choice-border);
+  border-radius: 999px;
+  background: var(--choice);
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 650;
+  cursor: pointer;
+  transition: transform 0.12s cubic-bezier(0.2, 0.7, 0.3, 1),
+    background 0.16s ease, border-color 0.16s ease;
+}
+.chip:active {
+  transform: scale(0.95);
+}
+.chip__emoji {
+  font-size: 18px;
+  line-height: 1;
+}
+.chip--on {
+  background: rgba(255, 77, 109, 0.16);
+  border-color: var(--accent);
+  color: var(--text);
+}
+.chip--skeleton {
+  width: calc(28% + (var(--i, 0) * 0px));
+  height: 44px;
+  border: none;
+  background: rgba(255, 255, 255, 0.05);
+  animation: skeletonpulse 1.2s ease-in-out infinite;
+}
+@keyframes skeletonpulse {
+  0%,
+  100% {
+    opacity: 0.5;
+  }
+  50% {
+    opacity: 0.85;
+  }
+}
+.picker__foot {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding-top: 14px;
+}
+.picker__cta {
+  width: 100%;
+  padding: 16px;
+  border: none;
+  border-radius: 16px;
+  background: var(--accent);
+  color: #2a0710;
+  font-size: 16px;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  cursor: pointer;
+  transition: transform 0.12s ease, opacity 0.16s ease;
+}
+.picker__cta:active:not(:disabled) {
+  transform: scale(0.98);
+}
+.picker__cta:disabled {
+  background: var(--choice);
+  color: var(--muted);
+  cursor: default;
+}
+.picker__skip {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  background: none;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.picker__skip:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.picker__error {
+  text-align: center;
+  color: var(--accent);
+  font-size: 13px;
 }
 
 /* Auth panel — fixed top bar, deliberately unobtrusive. */
@@ -303,5 +655,335 @@ body {
   flex-basis: 100%;
   text-align: right;
   color: var(--accent, #ff4d6d);
+  font-size: 12px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Profile: top-right trigger + slide-up sheet                         */
+/* ------------------------------------------------------------------ */
+
+/* Circular avatar button, top-right of the frame (HUD chips are top-left). */
+.profile-trigger {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 20;
+  width: 40px;
+  height: 40px;
+  border-radius: 999px;
+  border: 1px solid var(--card-border);
+  background: var(--card);
+  color: var(--text);
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-trigger:active {
+  transform: scale(0.94);
+}
+
+/* Dimmed backdrop that catches taps to close. */
+.profile-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 30;
+  background: rgba(0, 0, 0, 0.55);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+/* The sheet itself: a scrollable card rising from the bottom. */
+.profile-sheet {
+  width: 100%;
+  max-width: calc(min(100dvh, 100vw * 16 / 9) * 9 / 16);
+  max-height: 90dvh;
+  overflow-y: auto;
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-bottom: none;
+  border-radius: 18px 18px 0 0;
+  padding: 18px 18px calc(24px + env(safe-area-inset-bottom, 0px));
+  animation: profile-rise 0.22s ease-out;
+}
+@keyframes profile-rise {
+  from {
+    transform: translateY(24px);
+    opacity: 0.4;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.profile-sheet__head {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+.profile-avatar {
+  width: 48px;
+  height: 48px;
+  flex: 0 0 auto;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.profile-ident {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+.profile-ident__name {
+  font-size: 15px;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.profile-ident__sub {
+  font-size: 12px;
+  color: var(--muted);
+}
+.profile-close {
+  flex: 0 0 auto;
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  border: 1px solid var(--card-border);
+  background: transparent;
+  color: var(--muted);
+  font-size: 20px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.profile-body {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.profile-loading,
+.profile-empty {
+  color: var(--muted);
+  font-size: 13px;
+  margin: 0;
+}
+.profile-error {
+  color: var(--accent);
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.profile-retry {
+  background: none;
+  border: 1px solid var(--card-border);
+  border-radius: 8px;
+  color: var(--text);
+  padding: 4px 10px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+/* Lifetime accuracy hero. */
+.profile-hero {
+  text-align: center;
+  padding: 8px 0 4px;
+}
+.profile-hero__pct {
+  font-size: 56px;
+  font-weight: 800;
+  line-height: 1;
+  color: var(--correct);
+}
+.profile-hero__label {
+  margin-top: 6px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+/* Supporting counts grid. */
+.profile-stats {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+.profile-stat {
+  background: var(--bg);
+  border: 1px solid var(--card-border);
+  border-radius: 12px;
+  padding: 10px 4px;
+  text-align: center;
+}
+.profile-stat__value {
+  font-size: 18px;
+  font-weight: 700;
+}
+.profile-stat__label {
+  margin-top: 2px;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+/* Optional local flair (xp / best streak). */
+.profile-flair {
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+}
+.profile-flair__item {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--bg);
+  border: 1px solid var(--card-border);
+}
+.profile-flair__item--xp {
+  color: var(--xp);
+}
+.profile-flair__item--best {
+  color: var(--streak);
+}
+
+.profile-section {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.profile-section__title {
+  margin: 0;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+
+/* Favorite topic chips. */
+.profile-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.profile-chip {
+  font-size: 13px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--bg);
+  border: 1px solid var(--card-border);
+  color: var(--text);
+}
+
+/* Strongest-area bars. */
+.profile-bars {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.profile-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.profile-bar__label {
+  flex: 0 0 40%;
+  font-size: 13px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.profile-bar__track {
+  flex: 1 1 auto;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--bg);
+  overflow: hidden;
+}
+.profile-bar__fill {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent), var(--correct));
+}
+
+/* Auth + action controls. */
+.profile-account {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.profile-account__email {
+  flex: 1 1 auto;
+  min-width: 0;
+  font-size: 13px;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.profile-auth {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.profile-auth input {
+  padding: 9px 11px;
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  width: 100%;
+}
+.profile-btn {
+  padding: 9px 14px;
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  background: var(--bg);
+  color: var(--text);
+  font-size: 14px;
+  cursor: pointer;
+}
+.profile-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+.profile-btn--primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+.profile-btn--wide {
+  width: 100%;
+}
+.profile-authlink {
+  align-self: flex-start;
+  background: none;
+  border: none;
+  color: var(--muted);
+  cursor: pointer;
+  font-size: 12px;
+  text-decoration: underline;
+  padding: 0;
+}
+.profile-authmsg {
+  color: var(--accent);
   font-size: 12px;
 }

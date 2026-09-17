@@ -41,6 +41,26 @@ export function toPublicQuestion(q: Question): PublicQuestion {
 }
 
 /**
+ * A broad onboarding interest (Sports, Music, …). Its centroid lives in the same
+ * 64-D space as questions and user interests, so it can seed a starting interest
+ * and be projected against a user's ability. Server-only — never sent whole.
+ */
+export type Topic = {
+  id: string; // slug
+  label: string; // display label
+  emoji: string | null; // optional glyph for the picker
+  centroid: Embedding; // c_topic in R^64, normalized
+  sortOrder: number;
+};
+
+/** What the browser may see of a topic: display fields only, never the centroid. */
+export type PublicTopic = Pick<Topic, "id" | "label" | "emoji" | "sortOrder">;
+
+export function toPublicTopic(t: Topic): PublicTopic {
+  return { id: t.id, label: t.label, emoji: t.emoji, sortOrder: t.sortOrder };
+}
+
+/**
  * Bayesian ability: a diagonal Gaussian over the 64-D ability vector.
  * `mean` is the point estimate (θ); `variance` is our uncertainty per
  * dimension. Both persist per user (DB: two vector(64) columns).

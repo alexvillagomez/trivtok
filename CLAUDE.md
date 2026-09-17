@@ -72,11 +72,21 @@ is NOT normalized — its magnitude carries information.
 
 ```
 app/
-  page.tsx           server component: loads questions, strips embeddings, renders Feed
-  actions.ts         "use server" — beginFeed()/submitInteraction() → lib/db/feed
+  page.tsx           server component: loads questions, strips embeddings, renders
+                     <Home/> (gate+feed) + <Profile/> (top-right). Home before
+                     Profile so the "change interests" picker stacks over the feed.
+  actions.ts         "use server" — beginFeed()/submitInteraction() → lib/db/feed;
+                     getTopics()/saveInterests()/getProfile() → lib/db/topics
                      (beginFeed takes excludeIds so the client can preload w/o dupes)
   layout.tsx, globals.css   9:16 phone frame; TikTok slide/qbox/translucent-rail CSS
 components/
+  Home.tsx           client gate: first visit (no `trivtok-onboarded` flag) shows
+                     InterestPicker, else Feed. Flag set on save OR skip → shows once.
+  InterestPicker.tsx client: pick broad interests → saveInterests seeds user_interests.
+                     mode="onboard" (Skip) or "edit" (Cancel, re-opened from Profile).
+  Profile.tsx        client: top-right avatar → sheet with lifetime accuracy + counts
+                     (getProfile, DB truth), favorite topics, strongest areas, auth
+                     (email+password, absorbed from the old AuthPanel), change interests.
   Feed.tsx           client: TikTok vertical feed. Full-frame slides move together
                      under a press-drag (pointer events + CSS transforms), snap on
                      release/flick. Swipe UP = next, DOWN = back through history
@@ -88,19 +98,26 @@ components/
   QuestionCard.tsx   pure presentational card: question in a .qbox (double-tap→like)
                      + four choices. No difficulty shown.
 lib/
-  types.ts           domain types. PublicQuestion = what the browser may see (NO embedding)
+  types.ts           domain types. PublicQuestion / PublicTopic = what the browser may
+                     see (NO embedding / NO centroid). Map with toPublic*() before crossing.
   vector.ts          dot, normalize
   rec/               the engine — pure functions + the golden-tested ORACLE for the SQL port
   db/                postgres.js access: client, questions (bank load/seed), feed (thin
-                     wrapper over next_question()), accounts (anon↔auth linking), reports
+                     wrapper over next_question()), accounts (anon↔auth linking), reports,
+                     topics (listTopics, setStartingInterests, + profile read models:
+                     favorite topics / strongest areas / lifetime stats)
   supabase/          browser.ts + server.ts (Supabase Auth: email+password)
   embeddings/        embed.ts (OpenAI provider seam) + compress.ts (1536→64 random projection)
 scripts/
   migrate.ts         apply pending supabase/migrations/*.sql (tracked in schema_migrations)
   insert-authored.ts import Haiku-authored question JSON → embed → insert
+  seed-topics.ts     populate the topics table: each centroid = AVERAGE of its families'
+                     real question embeddings (matched by text via data/topic-families.json;
+                     falls back to embedding data/topics.json `description`). Idempotent.
   loadEnv.ts         MUST be the first import in any script touching DB/API clients
   try-*.ts           offline engine smoke tests; try-sql-parity (SQL==oracle),
-                     try-next-question (in-DB pipeline end-to-end)
+                     try-next-question (in-DB pipeline end-to-end), try-topics (centroid
+                     norms + nearest-topic), try-topic-retrieval (what a topic surfaces)
 supabase/migrations/
   0001_init            questions, users, user_interests, interactions
   0002_auth_and_logging accounts (auth_id/email), impressions log, session_abandonment view
@@ -111,6 +128,10 @@ supabase/migrations/
   0007_adaptive_priority widened activation (fatigue + like feature) + adaptive
                          exploration; also floors rec_score's rating term (ln(0)
                          guard) and two-sides the Gumbel U map (0006 left U→1 open)
+  0008_easier_cold_start fresh-user prior variance 5.0 (easier questions early, fast
+                         ability convergence); ensures the user row on every swipe
+  0009_topics            broad topics (id/label/emoji/centroid vector(64)) for the
+                         onboarding picker + profile; seeded by scripts/seed-topics.ts
 ```
 
 ## Hard boundaries (enforce these)
@@ -137,6 +158,7 @@ the only API call in the flow.
 ```
 npm run dev        # start the app (needs .env.local)
 npm run migrate    # apply the schema to Supabase
+npx tsx scripts/seed-topics.ts               # seed the topics table (after migrate)
 npx tsx scripts/insert-authored.ts <file>   # import authored questions
 npx tsx scripts/try-priority.ts  # offline engine smoke tests (also try-score, try-update, try-e2e)
 npx tsx scripts/try-sql-parity.ts    # assert in-DB SQL math == lib/rec oracle (needs DB)
@@ -161,3 +183,17 @@ npx tsx scripts/try-next-question.ts # exercise next_question() end-to-end (roll
   link time) — per-request verification is a later hardening step.
 - The 64-D compression is a fixed random projection — deliberately a placeholder
   to be replaced (PCA/autoencoder) later; nothing up/downstream depends on how.
+- **Onboarding**: first visit gates the feed behind InterestPicker; picks seed
+  `user_interests` (strength = INITIAL_STRENGTH) so the feed opens in `interest`
+  mode. Skippable → cold start. Re-openable from the profile ("change interests");
+  edit mode does not pre-check current picks (re-picking is idempotent). Topic
+  centroids come from real question-embedding averages, so retrieval from a picked
+  topic is on-topic (verify with `try-topic-retrieval`); re-run `seed-topics.ts`
+  after adding question families so centroids stay representative.
+- **Profile**: top-right sheet. Lifetime accuracy/counts are DB truth (from
+  `interactions`/`impressions` via `getProfile`); the HUD's streak/XP remain
+  client-side in `localStorage["trivtok-stats"]`. "Strongest areas" = topics ranked
+  by `dot(centroid, ability_mean)` (empty until θ moves off zero). Known dev-only
+  quirk (pre-existing, in `Feed.tsx`, not from this feature): a StrictMode
+  double-mount race can zero `trivtok-stats` on a full reload — the DB stats are
+  unaffected.

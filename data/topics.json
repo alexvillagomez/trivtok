@@ -1,0 +1,150 @@
+{
+  "version": 2,
+  "note": "Broad onboarding interests. Each topic's 64-D centroid is the AVERAGE of the embeddings of the real questions under its `families` (matched by text against the DB in scripts/seed-topics.ts), so the centroid sits inside its question cluster and retrieval surfaces on-topic cards. `families` are family-id prefixes from data/topic-families.json. `description` is a fallback: it is embedded (OpenAI -> compressTo64) only for a topic that matched no questions.",
+  "topics": [
+    {
+      "id": "sports",
+      "label": "Sports",
+      "emoji": "🏀",
+      "sortOrder": 10,
+      "families": ["sports"],
+      "description": "sports athletes teams leagues championships NFL American football world football soccer basketball baseball Formula 1 racing tennis golf UFC MMA wrestling"
+    },
+    {
+      "id": "movies",
+      "label": "Movies",
+      "emoji": "🎬",
+      "sortOrder": 20,
+      "families": ["movies"],
+      "description": "movies films cinema blockbusters franchises actors directors Disney Pixar animation horror James Bond comedy characters box office"
+    },
+    {
+      "id": "tv",
+      "label": "TV Shows",
+      "emoji": "📺",
+      "sortOrder": 30,
+      "families": ["television"],
+      "description": "television TV shows series episodes characters Friends The Office Breaking Bad Stranger Things Game of Thrones SpongeBob cartoons reality competition"
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "emoji": "🎵",
+      "sortOrder": 40,
+      "families": ["music"],
+      "description": "music artists songs albums bands singers pop hip-hop rap rock jazz classical film scores Taylor Swift reggaeton instruments lyrics"
+    },
+    {
+      "id": "history",
+      "label": "History",
+      "emoji": "🏰",
+      "sortOrder": 50,
+      "families": ["history"],
+      "description": "history historical events wars empires ancient Egypt pyramids World War II French Revolution Athens democracy Mughal Empire kings battles inventions"
+    },
+    {
+      "id": "science",
+      "label": "Science",
+      "emoji": "🔬",
+      "sortOrder": 60,
+      "families": ["science", "biology"],
+      "description": "science biology anatomy genetics chemistry physics volcanoes plate tectonics dinosaurs paleontology weather storms oceans materials natural phenomena"
+    },
+    {
+      "id": "animals",
+      "label": "Animals",
+      "emoji": "🐾",
+      "sortOrder": 70,
+      "families": ["animals", "nature"],
+      "description": "animals wildlife dogs cats horses sharks whales dolphins insects breeds behavior habitats nature zoology"
+    },
+    {
+      "id": "video-games",
+      "label": "Video Games",
+      "emoji": "🎮",
+      "sortOrder": 80,
+      "families": ["video-games"],
+      "description": "video games gaming consoles Super Mario Minecraft The Legend of Zelda Sonic The Sims characters worlds levels mechanics"
+    },
+    {
+      "id": "anime",
+      "label": "Anime",
+      "emoji": "🍥",
+      "sortOrder": 90,
+      "families": ["anime"],
+      "description": "anime manga Japanese animation Dragon Ball Naruto One Piece characters arcs sagas jutsu techniques crews"
+    },
+    {
+      "id": "food",
+      "label": "Food & Drink",
+      "emoji": "🍕",
+      "sortOrder": 100,
+      "families": ["food"],
+      "description": "food cooking cuisine dishes ingredients flavors coffee pizza pasta Italian snacks candy fast food baking kitchen techniques recipes"
+    },
+    {
+      "id": "literature",
+      "label": "Books",
+      "emoji": "📚",
+      "sortOrder": 110,
+      "families": ["literature"],
+      "description": "books literature authors novels characters Sherlock Holmes Harry Potter Homer Iliad Odyssey classics reading stories poetry"
+    },
+    {
+      "id": "geography",
+      "label": "Geography & Travel",
+      "emoji": "🗺️",
+      "sortOrder": 120,
+      "families": ["geography", "travel", "entertainment"],
+      "description": "geography travel countries cities capitals landmarks maps cartography national parks destinations attractions continents flags"
+    },
+    {
+      "id": "technology",
+      "label": "Technology",
+      "emoji": "💻",
+      "sortOrder": 130,
+      "families": ["technology", "engineering"],
+      "description": "technology computers internet software devices gadgets cybersecurity cryptography networks programming AI computing"
+    },
+    {
+      "id": "art",
+      "label": "Art & Design",
+      "emoji": "🎨",
+      "sortOrder": 140,
+      "families": ["art"],
+      "description": "art paintings artists museums Renaissance sculpture design architecture styles movements galleries iconography"
+    },
+    {
+      "id": "comics",
+      "label": "Comics & Superheroes",
+      "emoji": "🦸",
+      "sortOrder": 150,
+      "families": ["comics", "marvel"],
+      "description": "comics superheroes Marvel Cinematic Universe Avengers DC Batman Superman villains origin stories powers Infinity Saga"
+    },
+    {
+      "id": "space",
+      "label": "Space",
+      "emoji": "🔭",
+      "sortOrder": 160,
+      "families": ["astronomy"],
+      "description": "space astronomy planets moons stars galaxies exoplanets solar system telescopes rockets NASA missions cosmology universe"
+    },
+    {
+      "id": "mythology",
+      "label": "Mythology",
+      "emoji": "⚡",
+      "sortOrder": 170,
+      "families": ["mythology"],
+      "description": "mythology gods goddesses heroes legends myths Greek Roman Norse mythological creatures monsters ancient stories"
+    },
+    {
+      "id": "cars",
+      "label": "Cars",
+      "emoji": "🚗",
+      "sortOrder": 180,
+      "families": ["transportation"],
+      "description": "cars automobiles vehicles models engines mechanics manufacturers automotive history racing supercars transportation"
+    }
+  ]
+}
