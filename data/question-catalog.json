@@ -3,8 +3,8 @@
   "generatedOn": "2026-09-20",
   "sourceDirectory": "data/generated",
   "totals": {
-    "files": 538,
-    "questions": 38679,
+    "files": 542,
+    "questions": 38857,
     "duplicateQuestionGroups": 299,
     "errors": 0,
     "warnings": 635
@@ -5706,6 +5706,38 @@
       "sha256": "bf528cb93d17a9f6e8db64adac05cf4cff364445b61106ff91c14e15438f5e2c"
     },
     {
+      "file": "data/generated/inside-out-films-shorts-series-deeper-cuts.json",
+      "questions": 53,
+      "difficulty": {
+        "min": 0.41,
+        "max": 0.74,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        53,
+        0,
+        0,
+        0
+      ],
+      "sha256": "c1e41c4a74260c56dbb5be31d3d2166420d1d019b29d2f2e0f8d7f2d5484731b"
+    },
+    {
+      "file": "data/generated/inside-out-two-films-emotions-memory-and-riley.json",
+      "questions": 30,
+      "difficulty": {
+        "min": 0.3,
+        "max": 0.65,
+        "hardAtOrAbove070": 0
+      },
+      "correctIndexDistribution": [
+        30,
+        0,
+        0,
+        0
+      ],
+      "sha256": "5779fe1545116dc0c9ca4bb662b2a21a2b564077edbbc31874de18191f8a6e33"
+    },
+    {
       "file": "data/generated/internet-creators-and-influencers.json",
       "questions": 90,
       "difficulty": {
@@ -9706,6 +9738,22 @@
       "sha256": "f9192551010468e8c6abe5076f69b5eae0f4e89280a1c7689f7a828e5cfcb3ae"
     },
     {
+      "file": "data/generated/trolls-franchise-deeper-characters-tribes-and-production.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.48,
+        "max": 0.77,
+        "hardAtOrAbove070": 21
+      },
+      "correctIndexDistribution": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "sha256": "d2d2393424def18a67bda533eb42bf2105198bdec0c79a9c0ad1f6e5da59cc6f"
+    },
+    {
       "file": "data/generated/tv-1990s-cartoons-characters-shows-and-nostalgia.json",
       "questions": 100,
       "difficulty": {
@@ -10248,6 +10296,22 @@
         0
       ],
       "sha256": "4a88f9b4c8646e363a827a1168675ff51bf09cdfff566ce68b2615c8243a9a31"
+    },
+    {
+      "file": "data/generated/xmen-animated-series-1992-episode-deep-dive.json",
+      "questions": 50,
+      "difficulty": {
+        "min": 0.62,
+        "max": 0.78,
+        "hardAtOrAbove070": 33
+      },
+      "correctIndexDistribution": [
+        50,
+        0,
+        0,
+        0
+      ],
+      "sha256": "b231d98c3eca776c18863963afcfaf2c59d74211701a23fa013f286b068a4e1e"
     }
   ]
 }

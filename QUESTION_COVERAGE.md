@@ -1,6 +1,6 @@
 # Question Coverage Map
 
-Last updated: 2026-09-19
+Last updated: 2026-09-20
 
 > Scope note: this hand-maintained ledger records the focused authored series and
 > its niche notes. The complete machine-generated inventory of every JSON batch is
@@ -24,7 +24,9 @@ Last updated: 2026-09-19
 | Technology | Web basics | HTML, CSS, browsers, URLs, and HTTP | `data/generated/technology-web-pages-and-browser-basics.json` | 60 | Inserted; 60/60 verified |
 | Psychology | Judgment | Decision-making heuristics and cognitive biases | `data/generated/psychology-decision-making-and-cognitive-biases.json` | 50 | Inserted; 50/50 verified |
 | Entertainment | Trolls | Three films, music tribes, family stories, cast, and spin-offs | `data/generated/trolls-films-world-music-and-characters.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Trolls | Bergen characters, Funk royal history, tribe side characters, BroZone details, and production | `data/generated/trolls-franchise-deeper-characters-tribes-and-production.json` | 45 | Inserted; 45/45 verified |
 | Entertainment | X-Men animation | 1992 series premiere, powers, foes, arcs, and legacy | `data/generated/xmen-animated-series-1992-characters-and-story-arcs.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | X-Men animation | Episode-specific plots across seasons two through five | `data/generated/xmen-animated-series-1992-episode-deep-dive.json` | 50 | Inserted; 50/50 verified |
 | Entertainment | Avatar animation | Three seasons, nations, characters, locations, and episode plots | `data/generated/avatar-last-airbender-animated-world-and-three-books.json` | 60 | Inserted; 60/60 verified |
 | Entertainment | Korra animation | Four books, city politics, spirits, new airbenders, and Earth Empire | `data/generated/legend-of-korra-four-books-characters-and-conflicts.json` | 60 | Inserted; 60/60 verified |
 | Entertainment | Shrek universe | Four Shrek films, two Puss in Boots films, plots, cast, and release history | `data/generated/shrek-universe-films-characters-stories-and-cast.json` | 60 | Inserted; 60/60 verified |
@@ -34,6 +36,8 @@ Last updated: 2026-09-19
 | Entertainment | Toy Story | Four films, toys, owners, settings, plot turns, and a short film | `data/generated/toy-story-four-films-characters-places-and-stories.json` | 52 | Inserted; 52/52 verified |
 | Entertainment | Monsters universe | Original film, university prequel, workplace series, and short | `data/generated/monsters-inc-university-work-and-shorts.json` | 48 | Inserted; 48/48 verified |
 | Entertainment | Finding Nemo and Dory | Two films, reef and institute settings, sea life, characters, and journeys | `data/generated/finding-nemo-dory-reefs-characters-and-journeys.json` | 40 | Inserted; 40/40 verified |
+| Entertainment | Inside Out | Two films, emotion roles, mind-world mechanics, and Riley's life | `data/generated/inside-out-two-films-emotions-memory-and-riley.json` | 30 | Inserted; 30/30 verified |
+| Entertainment | Inside Out | Film plot, hockey, hidden mind-world characters, short, series, and cast | `data/generated/inside-out-films-shorts-series-deeper-cuts.json` | 53 | Inserted; 53/53 verified |
 
 ## Deepening wave — 2026-09-06
 

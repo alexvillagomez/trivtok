@@ -15,6 +15,18 @@ export function getSupabaseBrowser(): SupabaseClient | null {
   if (cached !== undefined) return cached;
   const url = process.env.NEXT_PUBLIC_SUPABASE_URL;
   const anon = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
-  cached = url && anon ? createClient(url, anon) : null;
+  cached =
+    url && anon
+      ? createClient(url, anon, {
+          // Keep the user signed in across reloads and app relaunches in the
+          // same browser: the session lives in localStorage and the token is
+          // refreshed automatically in the background.
+          auth: {
+            persistSession: true,
+            autoRefreshToken: true,
+            detectSessionInUrl: true,
+          },
+        })
+      : null;
   return cached;
 }

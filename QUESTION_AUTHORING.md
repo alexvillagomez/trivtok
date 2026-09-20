@@ -96,6 +96,11 @@ should not have):
   question is individually valid. Give each question a **specific, testable fact**
   and never repeat the same fact under reworded stems. Ladder difficulty from
   casual-viewer to superfan-obscure across the facets.
+- **Aim for 80–100 distinct questions per topic when the material supports it.**
+  A smaller verified batch is better than padding, but do not stop at a 30–60
+  question survey if films, sequels, spin-offs, characters, scenes, and production
+  provide enough independent facts for a longer lane. Track multiple files as
+  one topic and revisit earlier short batches to deepen them.
 
 ## 4. Distractor craft — the core skill
 

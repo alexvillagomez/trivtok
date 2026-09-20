@@ -62,14 +62,29 @@ export default function Profile() {
   }, []);
 
   // Resolve the session email once (or mark anonymous when auth isn't set up).
+  // A persisted Supabase session (same browser / installed web app) should keep
+  // you signed in AND on your account: reconcile the feed identity to the linked
+  // account here, so a restored session heals any drift in the local user id.
   useEffect(() => {
     if (!supabase) {
       setEmail(null);
       return;
     }
-    supabase.auth.getSession().then(({ data }) => {
-      setEmail(data.session?.user.email ?? null);
+    let cancelled = false;
+    supabase.auth.getSession().then(async ({ data }) => {
+      const session = data.session;
+      if (cancelled) return;
+      setEmail(session?.user.email ?? null);
+      if (!session) return;
+      const current = anonId();
+      const result = await linkAccount(current, session.access_token);
+      if (!cancelled && result.ok && result.userId !== current) {
+        window.localStorage.setItem("trivtok-user-id", result.userId);
+      }
     });
+    return () => {
+      cancelled = true;
+    };
   }, [supabase]);
 
   // Fetch profile + local flair whenever the sheet opens.
