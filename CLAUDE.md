@@ -155,6 +155,11 @@ supabase/migrations/
                          Drops 0007's rec_activation overload (arg-count change);
                          also restores the 0008 cold-start variance 5.0 that 0010
                          had silently reverted to 1.0 (next_question owned here now)
+  0012_iterative_scan    attach hnsw.iterative_scan=relaxed_order to next_question
+                         via ALTER FUNCTION (index-scan GUC only, no body change) so
+                         the filtered ANN keeps pulling past ef_search and finds
+                         UNSEEN cards instead of starving into the seen-recycling
+                         fallback. Must run after 0011 (which creates the function)
 ```
 
 ## Hard boundaries (enforce these)
