@@ -1,0 +1,662 @@
+[
+  {
+    "text": "In soccer, how many players from one team normally begin on the field?",
+    "choices": [
+      "11",
+      "10",
+      "9",
+      "12"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which soccer player may handle the ball inside their own penalty area under the usual restrictions?",
+    "choices": [
+      "Goalkeeper",
+      "Center back",
+      "Striker",
+      "Winger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "A ball crossing the sideline in soccer is restarted with what?",
+    "choices": [
+      "Throw-in",
+      "Corner kick",
+      "Goal kick",
+      "Penalty kick"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "If a defender last touches the ball before it crosses their own goal line outside the goal, what restart follows?",
+    "choices": [
+      "Corner kick",
+      "Goal kick",
+      "Throw-in",
+      "Free kick"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "If an attacker last touches the ball before it crosses the defending team's goal line outside the goal, what restart follows?",
+    "choices": [
+      "Goal kick",
+      "Corner kick",
+      "Throw-in",
+      "Penalty kick"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which card signals a caution in soccer?",
+    "choices": [
+      "Yellow",
+      "Red",
+      "Blue",
+      "Green"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which card signals a send-off in soccer?",
+    "choices": [
+      "Red",
+      "Yellow",
+      "Blue",
+      "Green"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "A direct scoring chance after certain fouls in a team's own penalty area is a what?",
+    "choices": [
+      "Penalty kick",
+      "Corner kick",
+      "Goal kick",
+      "Throw-in"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which line divides a soccer field into two halves?",
+    "choices": [
+      "Halfway line",
+      "Goal line",
+      "Touchline",
+      "Penalty line"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A legal soccer goal requires the entire ball to cross which line?",
+    "choices": [
+      "Goal line",
+      "Touchline",
+      "Halfway line",
+      "Penalty arc"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which soccer term records the final pass to a teammate who then scores?",
+    "choices": [
+      "Assist",
+      "Save",
+      "Tackle",
+      "Clearance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A defender taking the ball from an opponent with the foot attempts what?",
+    "choices": [
+      "Tackle",
+      "Header",
+      "Volley",
+      "Throw-in"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "A player striking the ball with the head performs a what?",
+    "choices": [
+      "Header",
+      "Volley",
+      "Chip",
+      "Clearance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "A goalkeeper stopping a shot from entering the net records a what?",
+    "choices": [
+      "Save",
+      "Assist",
+      "Tackle",
+      "Offside"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "A team keeping the ball with a series of passes is maintaining what?",
+    "choices": [
+      "Possession",
+      "Offside",
+      "Advantage",
+      "Substitution"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "How many outs end a team's half-inning in baseball?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "How many strikes normally retire a batter?",
+    "choices": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "How many balls normally award a batter first base?",
+    "choices": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which defensive player stands behind home plate and receives pitches?",
+    "choices": [
+      "Catcher",
+      "Pitcher",
+      "Shortstop",
+      "Center fielder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which defensive player throws the ball from the mound to the batter?",
+    "choices": [
+      "Pitcher",
+      "Catcher",
+      "Shortstop",
+      "First baseman"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which infield position lies between second and third base?",
+    "choices": [
+      "Shortstop",
+      "First baseman",
+      "Catcher",
+      "Right fielder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A batter hits the ball over the outfield fence on the fly in fair territory. What is it?",
+    "choices": [
+      "Home run",
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A hit that lets the batter safely reach second base is a what?",
+    "choices": [
+      "Double",
+      "Single",
+      "Triple",
+      "Home run"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "A hit that lets the batter safely reach third base is a what?",
+    "choices": [
+      "Triple",
+      "Single",
+      "Double",
+      "Home run"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A play that retires two runners or batters before the ball is dead is a what?",
+    "choices": [
+      "Double play",
+      "Force play",
+      "Sacrifice fly",
+      "Caught stealing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A batter softly taps a pitched ball rather than swinging fully. What is the tactic?",
+    "choices": [
+      "Bunt",
+      "Steal",
+      "Tag",
+      "Slide"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A runner deliberately takes the next base as the pitcher delivers, without a hit. What is the tactic?",
+    "choices": [
+      "Steal",
+      "Bunt",
+      "Sacrifice",
+      "Force"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "After a fair hit, which numbered base does the batter initially run toward?",
+    "choices": [
+      "First",
+      "Second",
+      "Third",
+      "Home"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "A fly ball caught before touching the ground makes the batter what?",
+    "choices": [
+      "Out",
+      "Safe",
+      "Awarded first",
+      "Awarded second"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "Which statistic divides a hitter's hits by official at-bats?",
+    "choices": [
+      "Batting average",
+      "Earned-run average",
+      "Slugging percentage",
+      "On-base percentage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In tennis scoring, what word means zero points?",
+    "choices": [
+      "Love",
+      "Deuce",
+      "Advantage",
+      "Break"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "In tennis, a 40–40 game score is called what?",
+    "choices": [
+      "Deuce",
+      "Love",
+      "Advantage",
+      "Break"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Winning one point immediately after a 40–40 tie gives a player what?",
+    "choices": [
+      "Advantage",
+      "Set",
+      "Match",
+      "Break"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A serve untouched by the receiver that wins the point is an what?",
+    "choices": [
+      "Ace",
+      "Fault",
+      "Volley",
+      "Lob"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Missing both allowed serves on a point is a what?",
+    "choices": [
+      "Double fault",
+      "Foot fault",
+      "Break point",
+      "Service winner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Hitting a ball before it bounces is a what?",
+    "choices": [
+      "Volley",
+      "Lob",
+      "Drop shot",
+      "Groundstroke"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A high shot over an opponent near the net is a what?",
+    "choices": [
+      "Lob",
+      "Volley",
+      "Drop shot",
+      "Slice"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A softly hit shot intended to land just over the net is a what?",
+    "choices": [
+      "Drop shot",
+      "Lob",
+      "Volley",
+      "Smash"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A player wins a game while the opponent served. What is this called?",
+    "choices": [
+      "Break",
+      "Hold",
+      "Set",
+      "Ace"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A player wins their own service game. What is this called?",
+    "choices": [
+      "Hold",
+      "Break",
+      "Set",
+      "Ace"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "How many players are on court in a doubles tennis match?",
+    "choices": [
+      "Four",
+      "Two",
+      "Three",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which stroke hits the ball on the racket-hand side for most players?",
+    "choices": [
+      "Forehand",
+      "Backhand",
+      "Volley",
+      "Serve"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which stroke usually swings across the player's body on the non-racket-hand side?",
+    "choices": [
+      "Backhand",
+      "Forehand",
+      "Serve",
+      "Smash"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "In a standard tennis tie-break, what is the minimum point total needed to win?",
+    "choices": [
+      "Seven",
+      "Six",
+      "Five",
+      "Ten"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A tennis tie-break winner must lead by at least how many points?",
+    "choices": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In standard full-court basketball, how many players from one team are on court?",
+    "choices": [
+      "Five",
+      "Four",
+      "Six",
+      "Seven"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In basketball, how many points is a made free throw worth?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "In basketball, how many points is a made field goal from inside the three-point arc worth?",
+    "choices": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In basketball, how many points is a made field goal from beyond the arc worth?",
+    "choices": [
+      "Three",
+      "One",
+      "Two",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Bouncing the basketball while moving with it is called what?",
+    "choices": [
+      "Dribbling",
+      "Traveling",
+      "Screening",
+      "Rebounding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Moving illegally with the ball without dribbling is called what?",
+    "choices": [
+      "Traveling",
+      "Screening",
+      "Rebounding",
+      "Blocking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Starting to dribble again after stopping and holding the ball is a what?",
+    "choices": [
+      "Double dribble",
+      "Traveling",
+      "Charging",
+      "Goaltending"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Collecting the ball after a missed shot is called what?",
+    "choices": [
+      "Rebound",
+      "Assist",
+      "Steal",
+      "Block"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A pass that directly sets up a made basket is an what?",
+    "choices": [
+      "Assist",
+      "Rebound",
+      "Steal",
+      "Block"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Taking the ball from an opponent's possession without a foul is a what?",
+    "choices": [
+      "Steal",
+      "Rebound",
+      "Assist",
+      "Block"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Legally deflecting an opponent's rising shot attempt is a what?",
+    "choices": [
+      "Block",
+      "Steal",
+      "Rebound",
+      "Assist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A shot made close to the basket while moving toward it is often a what?",
+    "choices": [
+      "Layup",
+      "Jump shot",
+      "Free throw",
+      "Hook shot"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "A stationary teammate who legally obstructs a defender to free a shooter sets a what?",
+    "choices": [
+      "Screen",
+      "Trap",
+      "Zone",
+      "Press"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The metal circle supporting the basketball net is the what?",
+    "choices": [
+      "Rim",
+      "Backboard",
+      "Baseline",
+      "Key"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "The rectangular surface behind the basket is the what?",
+    "choices": [
+      "Backboard",
+      "Rim",
+      "Baseline",
+      "Key"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  }
+]

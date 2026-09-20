@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which molecules form the main double layer of a cell membrane?",
+    "choices": [
+      "Phospholipids",
+      "Triglycerides",
+      "Nucleotides",
+      "Amino acids"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which part of a membrane phospholipid faces watery surroundings?",
+    "choices": [
+      "Head",
+      "Tail",
+      "Sterol ring",
+      "Fatty chain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which part of a membrane phospholipid avoids water and points inward?",
+    "choices": [
+      "Tails",
+      "Heads",
+      "Phosphate",
+      "Sugar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A membrane's two-layer arrangement is called a what?",
+    "choices": [
+      "Bilayer",
+      "Monolayer",
+      "Trilayer",
+      "Micelle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which model pictures a membrane as moving lipids with embedded proteins?",
+    "choices": [
+      "Fluid mosaic",
+      "Lock-and-key",
+      "Sliding filament",
+      "Double helix"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which molecule in animal cell membranes helps regulate fluidity?",
+    "choices": [
+      "Cholesterol",
+      "Glucose",
+      "Starch",
+      "Collagen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A membrane that lets some substances through more readily than others is what?",
+    "choices": [
+      "Selectively permeable",
+      "Fully impermeable",
+      "Uniformly porous",
+      "Electrically neutral"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A small nonpolar oxygen molecule crosses a lipid membrane mainly by what?",
+    "choices": [
+      "Simple diffusion",
+      "Endocytosis",
+      "Active pumping",
+      "Exocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Net movement from higher to lower concentration is called what?",
+    "choices": [
+      "Diffusion",
+      "Osmosis",
+      "Active transport",
+      "Exocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The difference in concentration across a membrane is a what?",
+    "choices": [
+      "Gradient",
+      "Barrier",
+      "Receptor",
+      "Vesicle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Movement down a gradient through a membrane protein is what?",
+    "choices": [
+      "Facilitated diffusion",
+      "Primary active transport",
+      "Exocytosis",
+      "Phagocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which membrane protein provides a pore through which selected ions can move?",
+    "choices": [
+      "Channel",
+      "Carrier",
+      "Receptor",
+      "Enzyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which membrane protein binds a solute and changes shape to move it across?",
+    "choices": [
+      "Carrier",
+      "Channel",
+      "Receptor",
+      "Anchor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Water movement across a selectively permeable membrane is called what?",
+    "choices": [
+      "Osmosis",
+      "Phagocytosis",
+      "Exocytosis",
+      "Pinocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which membrane channel is specialized for rapid water movement?",
+    "choices": [
+      "Aquaporin",
+      "Potassium channel",
+      "Glucose carrier",
+      "Proton pump"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "If only water can cross, it tends to move toward the side with what solute concentration?",
+    "choices": [
+      "Higher",
+      "Lower",
+      "Equal",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A cell placed in a solution with the same effective solute concentration is in a what solution?",
+    "choices": [
+      "Isotonic",
+      "Hypotonic",
+      "Hypertonic",
+      "Saturated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A red blood cell placed in a much less concentrated solution tends to do what?",
+    "choices": [
+      "Swell",
+      "Shrink",
+      "Divide",
+      "Calcify"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A red blood cell placed in a much more concentrated solution tends to do what?",
+    "choices": [
+      "Shrink",
+      "Swell",
+      "Divide",
+      "Calcify"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A solution with more dissolved particles than a cell's interior is what?",
+    "choices": [
+      "Hypertonic",
+      "Hypotonic",
+      "Isotonic",
+      "Neutral"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A solution with fewer dissolved particles than a cell's interior is what?",
+    "choices": [
+      "Hypotonic",
+      "Hypertonic",
+      "Isotonic",
+      "Saturated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Water filling a plant cell vacuole creates what pressure against its wall?",
+    "choices": [
+      "Turgor",
+      "Osmotic",
+      "Atmospheric",
+      "Capillary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A plant cell's membrane pulling away from its wall after water loss is what?",
+    "choices": [
+      "Plasmolysis",
+      "Cytokinesis",
+      "Endocytosis",
+      "Exocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Moving a solute against its gradient requires what broad process?",
+    "choices": [
+      "Active transport",
+      "Simple diffusion",
+      "Osmosis",
+      "Facilitated diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which molecule directly supplies energy to many membrane pumps?",
+    "choices": [
+      "ATP",
+      "DNA",
+      "RNA",
+      "Glucose"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The sodium–potassium pump sends how many sodium ions out per cycle?",
+    "choices": [
+      "Three",
+      "Two",
+      "One",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The sodium–potassium pump brings how many potassium ions in per cycle?",
+    "choices": [
+      "Two",
+      "Three",
+      "One",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The sodium–potassium pump moves a net positive charge in which direction relative to the cell?",
+    "choices": [
+      "Outward",
+      "Inward",
+      "Neither",
+      "Alternating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Transport powered by the gradient created by another pump is called what?",
+    "choices": [
+      "Secondary active",
+      "Primary active",
+      "Simple passive",
+      "Vesicular passive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Two substances crossing a membrane in the same direction use which carrier type?",
+    "choices": [
+      "Symport",
+      "Antiport",
+      "Uniport",
+      "Exocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Two substances crossing a membrane in opposite directions use which carrier type?",
+    "choices": [
+      "Antiport",
+      "Symport",
+      "Uniport",
+      "Endocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "One substance crossing a membrane by a carrier without a partnered solute is what?",
+    "choices": [
+      "Uniport",
+      "Symport",
+      "Antiport",
+      "Exocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A cell surrounding a large particle with its membrane is performing what?",
+    "choices": [
+      "Phagocytosis",
+      "Pinocytosis",
+      "Exocytosis",
+      "Osmosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A cell engulfing extracellular fluid in small vesicles is performing what?",
+    "choices": [
+      "Pinocytosis",
+      "Phagocytosis",
+      "Exocytosis",
+      "Diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A cell taking material inward inside a membrane pocket uses what general process?",
+    "choices": [
+      "Endocytosis",
+      "Exocytosis",
+      "Osmosis",
+      "Diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A cell releasing vesicle contents by membrane fusion uses what?",
+    "choices": [
+      "Exocytosis",
+      "Endocytosis",
+      "Osmosis",
+      "Diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Selective uptake after a molecule binds a specific surface protein is what?",
+    "choices": [
+      "Receptor-mediated endocytosis",
+      "Simple diffusion",
+      "Primary active transport",
+      "Bulk exocytosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which membrane-bound package transports cargo inside a cell?",
+    "choices": [
+      "Vesicle",
+      "Ribosome",
+      "Chromosome",
+      "Nucleolus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "A chemical messenger that binds a cell receptor is called a what?",
+    "choices": [
+      "Ligand",
+      "Substrate",
+      "Pigment",
+      "Catalyst"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What protein detects a specific signal at or inside a target cell?",
+    "choices": [
+      "Receptor",
+      "Carrier",
+      "Channel",
+      "Enzyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A signal sent through blood to a distant target is what type?",
+    "choices": [
+      "Endocrine",
+      "Paracrine",
+      "Autocrine",
+      "Synaptic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A signal acting on nearby cells is what type?",
+    "choices": [
+      "Paracrine",
+      "Endocrine",
+      "Autocrine",
+      "Intracrine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A cell responding to a signal it released itself is what type?",
+    "choices": [
+      "Autocrine",
+      "Endocrine",
+      "Paracrine",
+      "Synaptic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A neuron releasing a messenger across a narrow junction is what type of signaling?",
+    "choices": [
+      "Synaptic",
+      "Endocrine",
+      "Autocrine",
+      "Intracrine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The specific target protein's binding of a signal begins what intracellular process?",
+    "choices": [
+      "Signal transduction",
+      "DNA replication",
+      "Protein digestion",
+      "Cell division"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A small intracellular molecule that relays a receptor's message is a what?",
+    "choices": [
+      "Second messenger",
+      "First ligand",
+      "Transport vesicle",
+      "Membrane pump"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which nucleotide-derived molecule is a common second messenger?",
+    "choices": [
+      "cAMP",
+      "ATP",
+      "mRNA",
+      "tRNA"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which ion can act as a second messenger inside cells?",
+    "choices": [
+      "Calcium",
+      "Chloride",
+      "Sodium",
+      "Iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "An enzyme that adds a phosphate group to a protein is a what?",
+    "choices": [
+      "Kinase",
+      "Phosphatase",
+      "Protease",
+      "Polymerase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "An enzyme that removes a phosphate group from a protein is a what?",
+    "choices": [
+      "Phosphatase",
+      "Kinase",
+      "Protease",
+      "Polymerase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A receptor coupled to an intracellular G protein is a what?",
+    "choices": [
+      "GPCR",
+      "RTK",
+      "Aquaporin",
+      "Ion pump"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A receptor that opens an ion passage after binding a messenger is what type?",
+    "choices": [
+      "Ligand-gated channel",
+      "Voltage-gated channel",
+      "Carrier pump",
+      "Structural anchor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A receptor whose internal domains phosphorylate tyrosines is a what?",
+    "choices": [
+      "RTK",
+      "GPCR",
+      "Aquaporin",
+      "Ion channel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A signaling chain that magnifies one outside message into many inside events is called what?",
+    "choices": [
+      "Amplification",
+      "Attenuation",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A change in a receptor's shape after messenger binding is a what change?",
+    "choices": [
+      "Conformational",
+      "Chromosomal",
+      "Osmotic",
+      "Thermal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A molecule that enters the cell and binds a receptor in the cytoplasm is likely what type?",
+    "choices": [
+      "Lipid-soluble",
+      "Highly charged",
+      "Very large",
+      "Water-bound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A water-soluble signal generally binds a receptor located where?",
+    "choices": [
+      "Cell surface",
+      "Nuclear DNA",
+      "Mitochondrial matrix",
+      "Ribosome"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which membrane component can identify a cell to its neighbors via sugar chains?",
+    "choices": [
+      "Glycoprotein",
+      "Triglyceride",
+      "RNA polymerase",
+      "Hemoglobin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A signal that changes which genes are transcribed alters what?",
+    "choices": [
+      "Gene expression",
+      "Membrane thickness",
+      "Chromosome count",
+      "ATP mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "After a signal is no longer needed, removing it or inactivating its receptor contributes to what?",
+    "choices": [
+      "Signal termination",
+      "Signal initiation",
+      "Signal amplification",
+      "Signal reception"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  }
+]

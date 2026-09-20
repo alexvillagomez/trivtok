@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which security property keeps a secret file unreadable to unauthorized people?",
+    "choices": [
+      "Confidentiality",
+      "Integrity",
+      "Availability",
+      "Authenticity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which security property is violated when an attacker silently changes a stored record?",
+    "choices": [
+      "Integrity",
+      "Confidentiality",
+      "Availability",
+      "Anonymity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which security property is threatened when legitimate users cannot reach a service?",
+    "choices": [
+      "Availability",
+      "Confidentiality",
+      "Integrity",
+      "Authenticity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Verifying that a login really belongs to the claimed account is what process?",
+    "choices": [
+      "Authentication",
+      "Authorization",
+      "Accounting",
+      "Encryption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Deciding whether a logged-in user may open a particular file is what process?",
+    "choices": [
+      "Authorization",
+      "Authentication",
+      "Encryption",
+      "Hashing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A password and a fingerprint count as how many authentication factors?",
+    "choices": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A password and a PIN are both examples of which factor category?",
+    "choices": [
+      "Knowledge",
+      "Possession",
+      "Inherence",
+      "Location"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A hardware token is an example of which authentication factor category?",
+    "choices": [
+      "Possession",
+      "Knowledge",
+      "Inherence",
+      "Location"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A fingerprint is an example of which authentication factor category?",
+    "choices": [
+      "Inherence",
+      "Knowledge",
+      "Possession",
+      "Location"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What principle gives a user only the permissions needed for the job?",
+    "choices": [
+      "Least privilege",
+      "Open access",
+      "Full trust",
+      "Privilege escalation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which security term describes granting a person more access than their role requires?",
+    "choices": [
+      "Overprivilege",
+      "Encryption",
+      "Segmentation",
+      "Anonymization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which process turns readable data into unreadable data using a key?",
+    "choices": [
+      "Encryption",
+      "Hashing",
+      "Encoding",
+      "Compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which process reverses ciphertext into readable text using the appropriate key?",
+    "choices": [
+      "Decryption",
+      "Hashing",
+      "Encoding",
+      "Signing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "In symmetric cryptography, how many shared secret keys are used for encryption and decryption?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "None"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In public-key cryptography, which key is intended to remain secret?",
+    "choices": [
+      "Private key",
+      "Public key",
+      "Session ID",
+      "Certificate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which key can anyone use to verify a digital signature made with its matching private key?",
+    "choices": [
+      "Public key",
+      "Private key",
+      "Session key",
+      "Password"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which key is normally used to create a digital signature?",
+    "choices": [
+      "Private key",
+      "Public key",
+      "Session key",
+      "Password"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A valid digital signature principally supports origin authentication and what other property?",
+    "choices": [
+      "Integrity",
+      "Secrecy",
+      "Availability",
+      "Compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Does a valid digital signature alone hide the signed message from readers?",
+    "choices": [
+      "No",
+      "Yes",
+      "Only briefly",
+      "Only offline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which operation maps arbitrary-length data to a fixed-length digest?",
+    "choices": [
+      "Hashing",
+      "Encryption",
+      "Encoding",
+      "Compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A digest changing when one bit of a file changes is useful for checking what?",
+    "choices": [
+      "Integrity",
+      "Availability",
+      "Confidentiality",
+      "Anonymity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Finding two different inputs with the same digest is called what?",
+    "choices": [
+      "Collision",
+      "Preimage",
+      "Nonce",
+      "Signature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Given a target digest, finding an input that produces it attacks which hash property?",
+    "choices": [
+      "Preimage resistance",
+      "Collision resistance",
+      "Key secrecy",
+      "Perfect secrecy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What random value is stored alongside each password hash to frustrate precomputed guesses?",
+    "choices": [
+      "Salt",
+      "Pepper",
+      "Nonce",
+      "Seed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Unlike a salt, which added password-hashing secret should be stored separately from hashes?",
+    "choices": [
+      "Pepper",
+      "Nonce",
+      "Digest",
+      "Token"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Why is a unique salt used for each password: to make identical passwords produce different what?",
+    "choices": [
+      "Hashes",
+      "Keys",
+      "Accounts",
+      "Sessions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which password storage approach is safer than saving the password itself?",
+    "choices": [
+      "Slow hashing",
+      "Plaintext",
+      "Reversible encoding",
+      "Simple compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A one-time value used to stop a captured request from being accepted again is a what?",
+    "choices": [
+      "Nonce",
+      "Salt",
+      "Digest",
+      "Certificate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Resending a previously valid message to trigger the same operation is which attack?",
+    "choices": [
+      "Replay",
+      "Collision",
+      "Downgrade",
+      "Eavesdropping"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which attack floods a service to make it unavailable to legitimate users?",
+    "choices": [
+      "Denial of service",
+      "Privilege escalation",
+      "Spoofing",
+      "Exfiltration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "An attacker pretends to be a trusted sender. Which broad tactic is this?",
+    "choices": [
+      "Spoofing",
+      "Hashing",
+      "Sandboxing",
+      "Patching"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A fraudulent message asking for a login code is a form of what?",
+    "choices": [
+      "Phishing",
+      "Sniffing",
+      "Salting",
+      "Caching"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "A malicious program that encrypts victims' files and demands payment is what?",
+    "choices": [
+      "Ransomware",
+      "Spyware",
+      "Adware",
+      "Rootkit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Software that secretly records user activity to gather information is what?",
+    "choices": [
+      "Spyware",
+      "Ransomware",
+      "Adware",
+      "Worm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What term describes code that spreads across networks without needing a host file?",
+    "choices": [
+      "Worm",
+      "Virus",
+      "Trojan",
+      "Rootkit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What term describes malicious software disguised as a legitimate program?",
+    "choices": [
+      "Trojan",
+      "Worm",
+      "Virus",
+      "Rootkit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A web app concatenates user input directly into a database command. What flaw can result?",
+    "choices": [
+      "SQL injection",
+      "Clickjacking",
+      "CSRF",
+      "Session fixation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which defense keeps user-supplied values separate from SQL command structure?",
+    "choices": [
+      "Parameterized queries",
+      "URL shortening",
+      "Client caching",
+      "Password hashing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A page inserts untrusted text as executable browser script. What attack class is enabled?",
+    "choices": [
+      "Cross-site scripting",
+      "SQL injection",
+      "CSRF",
+      "DNS spoofing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which defense makes untrusted characters display as text rather than HTML code?",
+    "choices": [
+      "Output encoding",
+      "Password salting",
+      "Rate limiting",
+      "Disk encryption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "An attacker tricks a signed-in browser into sending an unintended request. Which attack is this?",
+    "choices": [
+      "CSRF",
+      "XSS",
+      "SQL injection",
+      "DDoS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which browser cookie flag blocks access to that cookie from client-side JavaScript?",
+    "choices": [
+      "HttpOnly",
+      "Secure",
+      "SameSite",
+      "Domain"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which browser cookie flag restricts transmission to HTTPS connections?",
+    "choices": [
+      "Secure",
+      "HttpOnly",
+      "SameSite",
+      "Path"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which browser cookie attribute can limit sending cookies on cross-site requests?",
+    "choices": [
+      "SameSite",
+      "HttpOnly",
+      "Secure",
+      "Max-Age"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which web protocol adds transport encryption to HTTP?",
+    "choices": [
+      "HTTPS",
+      "FTP",
+      "SMTP",
+      "DNS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which protocol underpins encryption and server authentication for modern HTTPS?",
+    "choices": [
+      "TLS",
+      "DNS",
+      "SMTP",
+      "SSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What digital document binds a website's identity to its public key?",
+    "choices": [
+      "Certificate",
+      "Cookie",
+      "Checksum",
+      "Token"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which party typically vouches for a website certificate's identity binding?",
+    "choices": [
+      "Certificate authority",
+      "Domain registrar",
+      "Web browser",
+      "Hosting provider"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which attack puts an adversary between two communicating parties to observe or alter traffic?",
+    "choices": [
+      "Man-in-the-middle",
+      "Denial of service",
+      "Password spraying",
+      "Privilege escalation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which technique separates network regions to limit an intruder's movement?",
+    "choices": [
+      "Segmentation",
+      "Compression",
+      "Replication",
+      "Caching"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Applying a vendor's fix for a known software flaw is called what?",
+    "choices": [
+      "Patching",
+      "Signing",
+      "Salting",
+      "Provisioning"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "A flaw unknown to the vendor when exploited is commonly called a what?",
+    "choices": [
+      "Zero-day",
+      "Backdoor",
+      "Rootkit",
+      "False positive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A security test incorrectly labels harmless activity malicious. What result is it?",
+    "choices": [
+      "False positive",
+      "False negative",
+      "True positive",
+      "True negative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A security test misses a real attack. What result is it?",
+    "choices": [
+      "False negative",
+      "False positive",
+      "True positive",
+      "True negative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which control records actions so investigators can reconstruct who did what?",
+    "choices": [
+      "Audit log",
+      "Firewall",
+      "Cipher",
+      "Backup"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which recovery measure preserves copies so data can be restored after loss or encryption?",
+    "choices": [
+      "Backup",
+      "Hash",
+      "Certificate",
+      "Firewall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "In access control, what name is given to a collection of permissions assigned by job function?",
+    "choices": [
+      "Role",
+      "Token",
+      "Session",
+      "Key"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What security concept assumes no user or device is inherently trusted merely for being inside a network?",
+    "choices": [
+      "Zero trust",
+      "Open trust",
+      "Single sign-on",
+      "Full privilege"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which phrase describes human manipulation to obtain access or information?",
+    "choices": [
+      "Social engineering",
+      "Key exchange",
+      "Network routing",
+      "Load balancing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which authentication failure lets an attacker keep trying many passwords against one account?",
+    "choices": [
+      "Brute force",
+      "Replay",
+      "Collision",
+      "Spoofing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  }
+]

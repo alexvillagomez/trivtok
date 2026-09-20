@@ -1,5 +1,6 @@
 import type { Embedding, UserInterest } from "../types";
 import { dot, normalize } from "../vector";
+import { momentumDecay } from "./interest";
 import { sampleIndex, softmax } from "./math";
 
 // The priority system: user interests → p_t, the semantic direction we want to
@@ -21,6 +22,7 @@ export type PriorityParams = {
   fatigueWeight: number; // penalty for interests shown a lot this session
   likeWeight: number; // weight on the within-interest like adjustment
   likePrior: number; // shrinkage of the like rate toward the session mean
+  momentumWeight: number; // weight on recent-engagement momentum (dominates by design)
   exploreBase: number; // base exploration probability (neutral session)
   exploreSkipWeight: number; // ↑ explore when the session is being skipped
   exploreLikeWeight: number; // ↓ explore when the session is landing likes
@@ -37,6 +39,10 @@ export const DEFAULT_PARAMS: PriorityParams = {
   fatigueWeight: 0.4,
   likeWeight: 0.5,
   likePrior: 5,
+  // Momentum is deliberately the loudest term: at ±1 it moves activation by ±3,
+  // which under tau=0.5 is an e^±6 swing in the softmax — enough for a currently
+  // worn-out topic to lose to a freshly-liked one regardless of long-term strength.
+  momentumWeight: 3.0,
   exploreBase: 0.1,
   exploreSkipWeight: 0.3,
   exploreLikeWeight: 0.2,
@@ -150,19 +156,25 @@ export function likeAdjustment(
 }
 
 /**
- * A_j = strength + w_f·freshRaw − w_x·fatigue + w_l·likeAdj — the per-interest
- * activation as a fixed-weight linear readout (P_jᵀ S_t with hand-set weights).
- * `freshRaw` and `fatigue` are unweighted feature values in [0,1].
+ * A_j = strength + w_f·freshRaw − w_x·fatigue + w_l·likeAdj + w_m·momentum — the
+ * per-interest activation as a fixed-weight linear readout (P_jᵀ S_t with hand-set
+ * weights). `freshRaw` and `fatigue` are unweighted feature values in [0,1];
+ * `momentum` is the recent-engagement trace already decayed to now (~[-1,1]).
  */
 export function interestActivation(
   strength: number,
   freshRaw: number,
   fatigue: number,
   likeAdj: number,
+  momentum: number,
   p: PriorityParams,
 ): number {
   return (
-    strength + p.freshWeight * freshRaw - p.fatigueWeight * fatigue + p.likeWeight * likeAdj
+    strength +
+    p.freshWeight * freshRaw -
+    p.fatigueWeight * fatigue +
+    p.likeWeight * likeAdj +
+    p.momentumWeight * momentum
   );
 }
 
@@ -196,7 +208,11 @@ function activation(
   const s = stats[interest.id];
   const likeAdj = s ? likeAdjustment(s.likes, s.interactions, sessionMean, p.likePrior) : 0;
 
-  return interestActivation(interest.strength, freshRaw, fatigue, likeAdj, p);
+  // Decay the stored momentum over the same idle window freshness measures, so a
+  // topic dormant for days has its "worn-out" penalty relax back toward neutral.
+  const momentum = momentumDecay(interest.momentum, hours);
+
+  return interestActivation(interest.strength, freshRaw, fatigue, likeAdj, momentum, p);
 }
 
 /**

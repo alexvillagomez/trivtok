@@ -1,0 +1,662 @@
+[
+  {
+    "text": "The stretching of distant galaxy light to longer wavelengths by expanding space is what?",
+    "choices": [
+      "Cosmological redshift",
+      "Gravitational blueshift",
+      "Refraction",
+      "Polarization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A galaxy's spectral lines appear at longer wavelengths than in the lab. This is which shift?",
+    "choices": [
+      "Redshift",
+      "Blueshift",
+      "Parallax",
+      "Diffraction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In the expanding-universe picture, more distant galaxies generally recede at what rate?",
+    "choices": [
+      "Faster",
+      "Slower",
+      "The same",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The relation between galaxy distance and recession speed is named for whom?",
+    "choices": [
+      "Hubble",
+      "Kepler",
+      "Newton",
+      "Faraday"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which quantity describes the present expansion rate of the universe?",
+    "choices": [
+      "Hubble constant",
+      "Planck constant",
+      "Gravitational constant",
+      "Boltzmann constant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What wave property increases as light is cosmologically redshifted?",
+    "choices": [
+      "Wavelength",
+      "Frequency",
+      "Energy",
+      "Speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What wave property decreases as light is cosmologically redshifted?",
+    "choices": [
+      "Frequency",
+      "Wavelength",
+      "Travel time",
+      "Vacuum speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A distant galaxy's visible light may arrive in which lower-energy band after enough expansion?",
+    "choices": [
+      "Infrared",
+      "Ultraviolet",
+      "X-ray",
+      "Gamma-ray"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The faint microwave glow seen in every sky direction is called what?",
+    "choices": [
+      "Cosmic microwave background",
+      "Solar wind background",
+      "Zodiacal light",
+      "Galactic halo"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "That sky-filling microwave radiation is often described as the afterglow of what?",
+    "choices": [
+      "Big Bang",
+      "Solar formation",
+      "First supernova",
+      "Galaxy merger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "The early universe became transparent when electrons joined nuclei to form what?",
+    "choices": [
+      "Neutral atoms",
+      "Black holes",
+      "Dust grains",
+      "Planets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which element dominated ordinary matter shortly after primordial nucleosynthesis?",
+    "choices": [
+      "Hydrogen",
+      "Carbon",
+      "Oxygen",
+      "Iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which element was the next most abundant product of primordial nucleosynthesis?",
+    "choices": [
+      "Helium",
+      "Carbon",
+      "Oxygen",
+      "Silicon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which light element was made in trace amounts in the early universe alongside hydrogen and helium?",
+    "choices": [
+      "Lithium",
+      "Iron",
+      "Carbon",
+      "Neon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Tiny temperature differences across the microwave sky trace early differences in what?",
+    "choices": [
+      "Density",
+      "Color",
+      "Spin",
+      "Charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What name is given to the interval after the early glow but before the first stars?",
+    "choices": [
+      "Dark Ages",
+      "Ice Age",
+      "Main sequence",
+      "Recombination"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Radiation from early luminous sources ionized intergalactic hydrogen again in what era?",
+    "choices": [
+      "Reionization",
+      "Recombination",
+      "Inflation",
+      "Nucleosynthesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A proposed extremely rapid expansion in the very early universe is called what?",
+    "choices": [
+      "Inflation",
+      "Reionization",
+      "Accretion",
+      "Lensing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Cosmology's standard hot early-universe model is commonly called what?",
+    "choices": [
+      "Big Bang",
+      "Steady state",
+      "Solar nebula",
+      "Big Crunch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "As unbound galaxies move farther apart with cosmic expansion, what happens to the average density of matter?",
+    "choices": [
+      "Decreases",
+      "Increases",
+      "Stays constant",
+      "Oscillates"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Seeing a galaxy as it was billions of years ago is possible because light has finite what?",
+    "choices": [
+      "Speed",
+      "Mass",
+      "Charge",
+      "Spin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The time a distant object's light spent traveling to us is called what?",
+    "choices": [
+      "Lookback time",
+      "Half-life",
+      "Orbital period",
+      "Recombination time"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which term means the portion of the universe whose light could have reached us?",
+    "choices": [
+      "Observable universe",
+      "Milky Way",
+      "Local Group",
+      "Cosmic web"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What limits how far the observable universe extends from us?",
+    "choices": [
+      "Light travel time",
+      "Galaxy rotation",
+      "Solar age",
+      "Earth's orbit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Matter made of familiar atoms is often called what?",
+    "choices": [
+      "Baryonic matter",
+      "Dark energy",
+      "Vacuum energy",
+      "Antimatter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which unseen component is inferred from its gravitational effects on galaxies?",
+    "choices": [
+      "Dark matter",
+      "Dark energy",
+      "Antimatter",
+      "Ordinary gas"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which component names the unknown cause of accelerated cosmic expansion?",
+    "choices": [
+      "Dark energy",
+      "Dark matter",
+      "Antimatter",
+      "Radiation pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What can gravitational lensing map even when no light comes from the mass?",
+    "choices": [
+      "Dark matter",
+      "Dark energy",
+      "Cosmic radiation",
+      "Magnetic fields"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Galaxy rotation speeds exceeding the pull of visible material helped reveal what?",
+    "choices": [
+      "Dark matter",
+      "Dark energy",
+      "Cosmic inflation",
+      "Reionization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which observation of distant supernovae helped reveal that expansion is accelerating?",
+    "choices": [
+      "Unexpected faintness",
+      "Sudden blueness",
+      "Rapid rotation",
+      "Strong radio noise"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which exploding stars are calibrated as distance indicators in studies of cosmic expansion?",
+    "choices": [
+      "Type Ia supernovae",
+      "Core-collapse supernovae",
+      "Solar flares",
+      "Classical novae"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "An object with known intrinsic brightness used to infer distance is a what?",
+    "choices": [
+      "Standard candle",
+      "Standard ruler",
+      "Light clock",
+      "Reference frame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "An object with known physical size used to infer distance is a what?",
+    "choices": [
+      "Standard ruler",
+      "Standard candle",
+      "Light clock",
+      "Reference frame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "The sequence of distance methods from nearby stars to distant galaxies is a what?",
+    "choices": [
+      "Cosmic distance ladder",
+      "Cosmic web",
+      "Hubble flow",
+      "Standard model"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A galaxy cluster bending and magnifying a background galaxy's light acts as what?",
+    "choices": [
+      "Gravitational lens",
+      "Solar telescope",
+      "Spectrograph",
+      "Radio interferometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which physical effect bends light passing near a massive galaxy cluster?",
+    "choices": [
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Convection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Stretched arcs around a foreground galaxy cluster are signs of what?",
+    "choices": [
+      "Strong lensing",
+      "Parallax",
+      "Scintillation",
+      "Diffraction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Tiny statistical shape distortions of many background galaxies reveal what?",
+    "choices": [
+      "Weak lensing",
+      "Strong lensing",
+      "Parallax",
+      "Absorption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A foreground mass that creates multiple images of one background source is causing what?",
+    "choices": [
+      "Strong lensing",
+      "Weak lensing",
+      "Refraction",
+      "Scattering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The Bullet Cluster's separation of hot gas and lensing mass is evidence for what?",
+    "choices": [
+      "Dark matter",
+      "Dark energy",
+      "Cosmic inflation",
+      "Solar wind"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The largest cosmic pattern of galaxy-rich strands and nearly empty gaps is called what?",
+    "choices": [
+      "Cosmic web",
+      "Oort cloud",
+      "Local Group",
+      "Kuiper belt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What are the galaxy-rich strands of the large-scale cosmic pattern called?",
+    "choices": [
+      "Filaments",
+      "Voids",
+      "Halos",
+      "Disks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What are its relatively empty regions called?",
+    "choices": [
+      "Voids",
+      "Filaments",
+      "Halos",
+      "Disks"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which force chiefly pulls early matter clumps into galaxies and clusters?",
+    "choices": [
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Radiation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A collection of hundreds or thousands of bound galaxies is a what?",
+    "choices": [
+      "Galaxy cluster",
+      "Star cluster",
+      "Solar system",
+      "Nebula"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which nearby collection contains the Milky Way and Andromeda?",
+    "choices": [
+      "Local Group",
+      "Virgo Cluster",
+      "Coma Cluster",
+      "Bullet Cluster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A compact brilliant galactic nucleus powered by accretion onto a huge black hole is a what?",
+    "choices": [
+      "Quasar",
+      "Pulsar",
+      "Magnetar",
+      "Protostar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Why can a very distant bright object show us an earlier cosmic era?",
+    "choices": [
+      "Light travel time",
+      "Faster orbit",
+      "Slower clocks",
+      "Stronger gravity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which space telescope mapped fine temperature fluctuations in the microwave background for NASA?",
+    "choices": [
+      "WMAP",
+      "Chandra",
+      "Spitzer",
+      "Swift"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which European mission mapped the microwave background across the sky?",
+    "choices": [
+      "Planck",
+      "Gaia",
+      "Euclid",
+      "Rosetta"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which cosmic component contributes most to the universe's present mass-energy budget?",
+    "choices": [
+      "Dark energy",
+      "Dark matter",
+      "Ordinary matter",
+      "Radiation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which component outweighs ordinary atomic matter in the standard cosmic model?",
+    "choices": [
+      "Dark matter",
+      "Starlight",
+      "Neutrino light",
+      "Cosmic dust"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "As the universe expands, the relic microwave radiation's wavelength becomes what?",
+    "choices": [
+      "Longer",
+      "Shorter",
+      "Unchanged",
+      "Zero"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The early pattern of hot and cold spots in relic radiation later seeds what?",
+    "choices": [
+      "Large-scale structure",
+      "Planetary rings",
+      "Stellar fusion",
+      "Solar flares"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which observation is a key prediction of an early hot, dense universe?",
+    "choices": [
+      "Microwave background",
+      "Planetary retrograde motion",
+      "Sunspot cycle",
+      "Lunar tides"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Cosmological redshift differs from an ordinary Doppler shift because it involves stretching of what?",
+    "choices": [
+      "Space",
+      "Atoms",
+      "Lenses",
+      "Detectors"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "At greater cosmological redshift, astronomers generally observe galaxies from which time?",
+    "choices": [
+      "Earlier",
+      "Later",
+      "The same",
+      "The future"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which property of a galaxy's spectrum can reveal its cosmological distance at great ranges?",
+    "choices": [
+      "Redshift",
+      "Polarization only",
+      "Brightness alone",
+      "Color alone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "An apparent ring of light around a massive foreground lens is named after whom?",
+    "choices": [
+      "Einstein",
+      "Hubble",
+      "Kepler",
+      "Newton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What remains to be identified in the theory of accelerated cosmic expansion?",
+    "choices": [
+      "Physical cause",
+      "Expansion trend",
+      "Supernova light",
+      "Galaxy motion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  }
+]

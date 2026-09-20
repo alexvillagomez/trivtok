@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which field studies animal behavior in its natural and evolutionary context?",
+    "choices": [
+      "Ethology",
+      "Taxonomy",
+      "Histology",
+      "Embryology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A question about how hormones trigger a bird's song asks for which kind of explanation?",
+    "choices": [
+      "Proximate",
+      "Ultimate",
+      "Phylogenetic",
+      "Ecological"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A question about why birdsong increased mating success asks for which kind of explanation?",
+    "choices": [
+      "Ultimate",
+      "Proximate",
+      "Mechanistic",
+      "Developmental"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A duckling follows the first moving adult it sees soon after hatching. Which learning process is this?",
+    "choices": [
+      "Imprinting",
+      "Habituation",
+      "Conditioning",
+      "Sensitization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "An animal gradually ignores a harmless repeated sound. Which learning process is this?",
+    "choices": [
+      "Habituation",
+      "Imprinting",
+      "Conditioning",
+      "Sensitization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A repeated mild stimulus produces a stronger, rather than weaker, response. What is this?",
+    "choices": [
+      "Sensitization",
+      "Habituation",
+      "Imprinting",
+      "Extinction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A dog learns to expect food when a bell rings after repeated pairings. This is what?",
+    "choices": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Imprinting",
+      "Habituation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A rat presses a lever more often after receiving food for doing so. This is what?",
+    "choices": [
+      "Operant conditioning",
+      "Classical conditioning",
+      "Imprinting",
+      "Habituation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A behavior becomes less frequent after its reward stops arriving. This is called what?",
+    "choices": [
+      "Extinction",
+      "Imprinting",
+      "Sensitization",
+      "Migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "An insect moves directly toward a light source. What orientation behavior is this?",
+    "choices": [
+      "Phototaxis",
+      "Chemotaxis",
+      "Geotaxis",
+      "Kinesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A bacterium moves toward a nutrient chemical. What orientation behavior is this?",
+    "choices": [
+      "Chemotaxis",
+      "Phototaxis",
+      "Geotaxis",
+      "Kinesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Movement with direction set by a stimulus is called what?",
+    "choices": [
+      "Taxis",
+      "Kinesis",
+      "Imprinting",
+      "Habituation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Movement whose speed changes with stimulus intensity but lacks a set direction is what?",
+    "choices": [
+      "Kinesis",
+      "Taxis",
+      "Migration",
+      "Navigation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A response automatically triggered by a specific stimulus, without prior learning, is what?",
+    "choices": [
+      "Innate",
+      "Conditioned",
+      "Imprinted",
+      "Habituated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A stereotyped sequence that runs after a triggering cue is a what?",
+    "choices": [
+      "Fixed action pattern",
+      "Operant response",
+      "Circadian rhythm",
+      "Social hierarchy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "The specific cue that releases a stereotyped behavior is called a what?",
+    "choices": [
+      "Sign stimulus",
+      "Reward signal",
+      "Habitat cue",
+      "Dominance display"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A roughly 24-hour internal cycle of activity is a what?",
+    "choices": [
+      "Circadian rhythm",
+      "Seasonal rhythm",
+      "Tidal rhythm",
+      "Annual cycle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A regular seasonal journey between breeding and wintering grounds is what?",
+    "choices": [
+      "Migration",
+      "Homing",
+      "Dispersal",
+      "Foraging"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "The ability to return to a particular nest site after traveling is called what?",
+    "choices": [
+      "Homing",
+      "Migration",
+      "Dispersal",
+      "Taxis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Moving away from one's birthplace to establish elsewhere is called what?",
+    "choices": [
+      "Dispersal",
+      "Migration",
+      "Homing",
+      "Foraging"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "An animal defending an area against rivals shows what behavior?",
+    "choices": [
+      "Territoriality",
+      "Mimicry",
+      "Habituation",
+      "Imprinting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A ritualized display used to attract a mate is part of what?",
+    "choices": [
+      "Courtship",
+      "Foraging",
+      "Homing",
+      "Molting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Traits favored because they improve mating success reflect what process?",
+    "choices": [
+      "Sexual selection",
+      "Genetic drift",
+      "Artificial selection",
+      "Directional migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A peacock's tail can be favored by mate choice despite survival costs. Which process?",
+    "choices": [
+      "Sexual selection",
+      "Habituation",
+      "Kin selection",
+      "Natural camouflage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Selection driven by competition among members of one sex for mates is what?",
+    "choices": [
+      "Intrasexual selection",
+      "Intersexual selection",
+      "Kin selection",
+      "Group selection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Selection driven by mate choice between sexes is what?",
+    "choices": [
+      "Intersexual selection",
+      "Intrasexual selection",
+      "Kin selection",
+      "Group selection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A marked difference in form between males and females of a species is called what?",
+    "choices": [
+      "Sexual dimorphism",
+      "Sexual conflict",
+      "Hybrid vigor",
+      "Mimicry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A group of males displaying at a shared site while females choose among them is a what?",
+    "choices": [
+      "Lek",
+      "Harem",
+      "Colony",
+      "Flock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "One male mating with several females describes which mating system?",
+    "choices": [
+      "Polygyny",
+      "Polyandry",
+      "Monogamy",
+      "Promiscuity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "One female mating with several males describes which mating system?",
+    "choices": [
+      "Polyandry",
+      "Polygyny",
+      "Monogamy",
+      "Promiscuity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A pair bond between one male and one female describes which mating system?",
+    "choices": [
+      "Monogamy",
+      "Polygyny",
+      "Polyandry",
+      "Promiscuity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "An animal that sacrifices resources to help a relative may increase what total fitness measure?",
+    "choices": [
+      "Inclusive fitness",
+      "Body fitness",
+      "Direct fitness",
+      "Ecological fitness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Evolutionary favoring of helping genetically related individuals is called what?",
+    "choices": [
+      "Kin selection",
+      "Sexual selection",
+      "Artificial selection",
+      "Frequency selection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "The genetic relatedness of full siblings is approximately what fraction?",
+    "choices": [
+      "One-half",
+      "One-quarter",
+      "One-eighth",
+      "Three-quarters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A worker bee forgoes reproduction while helping raise relatives. Which social system is this?",
+    "choices": [
+      "Eusociality",
+      "Solitary living",
+      "Migration",
+      "Territoriality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Cooperative brood care and reproductive division of labor are hallmarks of what?",
+    "choices": [
+      "Eusociality",
+      "Monogamy",
+      "Dispersal",
+      "Mimicry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Distinct worker and reproductive roles in an insect colony are called what?",
+    "choices": [
+      "Castes",
+      "Clades",
+      "Guilds",
+      "Morphs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A chemical signal released by one animal and detected by another of its species is a what?",
+    "choices": [
+      "Pheromone",
+      "Hormone",
+      "Enzyme",
+      "Antibody"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Bees use a movement display to communicate food direction and distance. What is it called?",
+    "choices": [
+      "Waggle dance",
+      "Courtship dance",
+      "Threat display",
+      "Startle display"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A vocalization that warns nearby group members of danger is called what?",
+    "choices": [
+      "Alarm call",
+      "Courtship song",
+      "Contact call",
+      "Territorial song"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A conspicuous display that signals strength and may avert fighting is a what?",
+    "choices": [
+      "Threat display",
+      "Camouflage",
+      "Habituation",
+      "Imprinting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A stable ranking among group members for access to resources is a what?",
+    "choices": [
+      "Dominance hierarchy",
+      "Kinship network",
+      "Food chain",
+      "Migration route"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which predator-avoidance tactic relies on matching the background?",
+    "choices": [
+      "Camouflage",
+      "Warning coloration",
+      "Aggressive mimicry",
+      "Startle display"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Bright coloring that advertises a genuine defense to predators is what?",
+    "choices": [
+      "Warning coloration",
+      "Camouflage",
+      "Sexual dimorphism",
+      "Countershading"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A harmless species resembling a defended species shows what kind of mimicry?",
+    "choices": [
+      "Batesian",
+      "Müllerian",
+      "Aggressive",
+      "Automimicry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Two defended species converging on the same warning pattern show what kind of mimicry?",
+    "choices": [
+      "Müllerian",
+      "Batesian",
+      "Aggressive",
+      "Automimicry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A predator resembling a harmless object to lure prey shows which broad strategy?",
+    "choices": [
+      "Aggressive mimicry",
+      "Batesian mimicry",
+      "Warning coloration",
+      "Disruptive coloration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A forager balancing food gain against time and risk illustrates what theory?",
+    "choices": [
+      "Optimal foraging",
+      "Kin selection",
+      "Sexual selection",
+      "Imprinting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "When many eyes scan for predators, group living can improve what?",
+    "choices": [
+      "Detection",
+      "Camouflage",
+      "Metamorphosis",
+      "Imprinting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A whale calling across long ocean distances uses which communication channel?",
+    "choices": [
+      "Acoustic",
+      "Chemical",
+      "Tactile",
+      "Visual"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Ants following a deposited scent trail use which communication channel?",
+    "choices": [
+      "Chemical",
+      "Acoustic",
+      "Visual",
+      "Electrical"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A firefly's flashes to attract a mate use which communication channel?",
+    "choices": [
+      "Visual",
+      "Chemical",
+      "Acoustic",
+      "Tactile"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "An animal's daily activity shifting in response to light cues is a form of what?",
+    "choices": [
+      "Entrainment",
+      "Imprinting",
+      "Dispersal",
+      "Sensitization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "For a migrating bird, Earth's magnetic field can serve as what?",
+    "choices": [
+      "Compass cue",
+      "Food reward",
+      "Heat source",
+      "Sound barrier"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "An animal learns a route by forming a representation of landmarks. What is that representation?",
+    "choices": [
+      "Cognitive map",
+      "Reflex arc",
+      "Circadian clock",
+      "Action pattern"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A juvenile learns a species-specific song from adults. Which broad category of behavior is involved?",
+    "choices": [
+      "Learning",
+      "Reflex",
+      "Habituation",
+      "Taxis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A bee finds food and returns to its hive. The return-to-home ability is which behavior?",
+    "choices": [
+      "Homing",
+      "Dispersal",
+      "Migration",
+      "Kinesis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "When a predator repeatedly sees a defended prey and avoids its pattern, what has the predator acquired?",
+    "choices": [
+      "Learned avoidance",
+      "Imprinting",
+      "Habituation",
+      "Migration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "An individual's own offspring count chiefly contributes to which fitness component?",
+    "choices": [
+      "Direct fitness",
+      "Indirect fitness",
+      "Inclusive fitness",
+      "Group fitness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Benefits gained by helping relatives reproduce contribute to which fitness component?",
+    "choices": [
+      "Indirect fitness",
+      "Direct fitness",
+      "Body fitness",
+      "Group fitness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  }
+]

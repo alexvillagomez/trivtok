@@ -12,6 +12,26 @@ export const SPAWN_SIMILARITY = 0.5; // a strong positive farther than this spaw
 export const INITIAL_STRENGTH = 1.0;
 export const STRONG_POSITIVE = 1.0; // engagement ≥ this (a like) counts as strong positive
 
+// Momentum: a recent-engagement trace, the short-timescale counterpart to
+// strength. Strength must stay high to remember a long-term preference, so it
+// can't also encode "I'm tired of this right now" — momentum carries that.
+export const MOMENTUM_LR = 0.4; // η_m: how hard one interaction swings the trace
+export const MOMENTUM_TAU_HOURS = 168; // decay time-constant (~4.85-day half-life)
+
+/** Momentum decayed to `now`: m·exp(−Δt/τ). Δt is hours since it was last touched. */
+export function momentumDecay(prev: number, dtHours: number): number {
+  return prev * Math.exp(-Math.max(dtHours, 0) / MOMENTUM_TAU_HOURS);
+}
+
+/**
+ * One momentum update: decay the stored trace to now, then EMA it toward this
+ * interaction's engagement. A fresh cluster starts from momentumStep(0, 0, e).
+ */
+export function momentumStep(prev: number, dtHours: number, engagement: number): number {
+  const decayed = momentumDecay(prev, dtHours);
+  return decayed + MOMENTUM_LR * (engagement - decayed);
+}
+
 /**
  * Update the user's interests after one interaction. Finds the nearest interest
  * to the shown question and moves its strength by the engagement signal; on a
@@ -46,6 +66,7 @@ export function updateInterests(
       userId,
       centroid: normalize(embedding.slice()),
       strength: INITIAL_STRENGTH,
+      momentum: momentumStep(0, 0, engagement), // fresh trace from this like
       positiveCount: 1,
       lastUsedAt: now,
     };
@@ -54,15 +75,19 @@ export function updateInterests(
 
   if (nearestIdx === -1) return interests; // cold user, non-positive: nothing to update
 
+  const dtHours = (Date.parse(now) - Date.parse(interests[nearestIdx].lastUsedAt)) / 3_600_000;
+
   return interests.map((it, i) => {
     if (i !== nearestIdx) return it;
     const strength = Math.max(0, it.strength + STRENGTH_LR * engagement);
+    const momentum = momentumStep(it.momentum, dtHours, engagement);
     const centroid = strongPositive
       ? normalize(it.centroid.map((c, d) => (1 - CENTROID_LR) * c + CENTROID_LR * embedding[d]))
       : it.centroid;
     return {
       ...it,
       strength,
+      momentum,
       centroid,
       positiveCount: it.positiveCount + (engagement > 0 ? 1 : 0),
       lastUsedAt: now,

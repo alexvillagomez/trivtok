@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which vehicle part stores electrical energy to start a gasoline engine?",
+    "choices": [
+      "Battery",
+      "Radiator",
+      "Muffler",
+      "Gearbox"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which part reduces noise from engine exhaust?",
+    "choices": [
+      "Muffler",
+      "Radiator",
+      "Alternator",
+      "Differential"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which part removes heat from engine coolant?",
+    "choices": [
+      "Radiator",
+      "Starter",
+      "Clutch",
+      "Catalyst"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which part helps keep road wheels rolling with less friction?",
+    "choices": [
+      "Bearing",
+      "Piston",
+      "Injector",
+      "Flywheel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which component charges a conventional car's battery while the engine runs?",
+    "choices": [
+      "Alternator",
+      "Starter",
+      "Radiator",
+      "Muffler"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which component turns an engine over during starting?",
+    "choices": [
+      "Starter",
+      "Alternator",
+      "Differential",
+      "Suspension"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which part changes the ratio between engine speed and wheel speed?",
+    "choices": [
+      "Transmission",
+      "Radiator",
+      "Fuel tank",
+      "Air filter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which part lets driven wheels rotate at different speeds while turning?",
+    "choices": [
+      "Differential",
+      "Alternator",
+      "Crankshaft",
+      "Catalyst"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What connects a car's wheels to its body and absorbs road bumps?",
+    "choices": [
+      "Suspension",
+      "Exhaust",
+      "Ignition",
+      "Cooling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which part contacts the road and provides grip?",
+    "choices": [
+      "Tire",
+      "Axle",
+      "Bumper",
+      "Fender"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "What do tread grooves chiefly help a tire channel away?",
+    "choices": [
+      "Water",
+      "Fuel",
+      "Coolant",
+      "Exhaust"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which device slows a car by pressing pads against a rotating disc?",
+    "choices": [
+      "Disc brake",
+      "Clutch",
+      "Differential",
+      "Turbocharger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is the rotating disc in a disc-brake system called?",
+    "choices": [
+      "Rotor",
+      "Piston",
+      "Nozzle",
+      "Pulley"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which pedal typically disengages a manual transmission from the engine?",
+    "choices": [
+      "Clutch",
+      "Brake",
+      "Throttle",
+      "Parking brake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which part releases engine exhaust gases outside the vehicle?",
+    "choices": [
+      "Tailpipe",
+      "Radiator",
+      "Axle",
+      "Dashboard"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which component helps reduce harmful pollutants in engine exhaust?",
+    "choices": [
+      "Catalytic converter",
+      "Fuel injector",
+      "Oil filter",
+      "Air intake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What does an internal-combustion engine burn to make power?",
+    "choices": [
+      "Fuel",
+      "Coolant",
+      "Brake fluid",
+      "Refrigerant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which engine fluid mainly reduces friction between moving metal parts?",
+    "choices": [
+      "Oil",
+      "Coolant",
+      "Washer fluid",
+      "Antifreeze"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What does a car's odometer measure?",
+    "choices": [
+      "Distance traveled",
+      "Fuel remaining",
+      "Engine speed",
+      "Battery charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What does a speedometer display?",
+    "choices": [
+      "Vehicle speed",
+      "Engine torque",
+      "Fuel pressure",
+      "Tire grip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which gauge commonly displays engine revolutions per minute?",
+    "choices": [
+      "Tachometer",
+      "Odometer",
+      "Altimeter",
+      "Thermometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which mirror gives the driver a view through the rear window?",
+    "choices": [
+      "Rearview mirror",
+      "Vanity mirror",
+      "Side mirror",
+      "Convex mirror"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which vehicle light signals an intended turn?",
+    "choices": [
+      "Turn signal",
+      "Brake light",
+      "Fog light",
+      "Reversing light"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which lights illuminate when a driver applies the brakes?",
+    "choices": [
+      "Brake lights",
+      "Fog lights",
+      "Headlights",
+      "Turn signals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  },
+  {
+    "text": "Which lights usually illuminate the road ahead at night?",
+    "choices": [
+      "Headlights",
+      "Brake lights",
+      "Tail lights",
+      "Turn signals"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.24
+  },
+  {
+    "text": "What does a windshield wiper clear from the front glass?",
+    "choices": [
+      "Rain",
+      "Exhaust",
+      "Oil",
+      "Dust only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "Which safety device restrains a person with a lap-and-shoulder strap?",
+    "choices": [
+      "Seat belt",
+      "Air bag",
+      "Head restraint",
+      "Roll bar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "Which safety device rapidly inflates in certain crashes?",
+    "choices": [
+      "Air bag",
+      "Seat belt",
+      "Headrest",
+      "Crush zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which body structure is designed to deform and absorb crash energy?",
+    "choices": [
+      "Crumple zone",
+      "Passenger cage",
+      "Roof rack",
+      "Wheel arch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which feature helps reduce unintended wheel lock during hard braking?",
+    "choices": [
+      "ABS",
+      "Cruise control",
+      "Traction control",
+      "Power steering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which system can brake individual wheels to help counter a skid?",
+    "choices": [
+      "Stability control",
+      "Cruise control",
+      "Parking assist",
+      "Climate control"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which system limits wheel spin when accelerating on a slippery surface?",
+    "choices": [
+      "Traction control",
+      "Cruise control",
+      "Lane keeping",
+      "Parking assist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which warning alerts a driver to a low tire inflation level?",
+    "choices": [
+      "Tire-pressure warning",
+      "Oil-pressure warning",
+      "Coolant warning",
+      "Fuel warning"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which camera shows the area behind a vehicle when reversing?",
+    "choices": [
+      "Backup camera",
+      "Dash camera",
+      "Traffic camera",
+      "Cabin camera"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is the purpose of a vehicle's head restraint?",
+    "choices": [
+      "Reduce neck injury",
+      "Improve aerodynamics",
+      "Boost traction",
+      "Filter exhaust"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which vehicle runs solely on a battery and electric motor, with no gasoline engine?",
+    "choices": [
+      "Battery electric",
+      "Plug-in hybrid",
+      "Mild hybrid",
+      "Diesel hybrid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which vehicle combines an engine and electric motor but is not plugged in to charge?",
+    "choices": [
+      "Conventional hybrid",
+      "Battery electric",
+      "Plug-in hybrid",
+      "Fuel-cell electric"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which vehicle can be plugged in yet also has a combustion engine?",
+    "choices": [
+      "Plug-in hybrid",
+      "Battery electric",
+      "Conventional hybrid",
+      "Fuel-cell electric"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In an electric car, what does regenerative braking recover?",
+    "choices": [
+      "Motion energy",
+      "Fuel vapor",
+      "Exhaust heat",
+      "Road friction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which component converts battery energy into wheel-turning force in an electric car?",
+    "choices": [
+      "Electric motor",
+      "Alternator",
+      "Radiator",
+      "Fuel pump"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which unit commonly measures an electric vehicle battery's energy capacity?",
+    "choices": [
+      "Kilowatt-hour",
+      "Kilowatt",
+      "Ampere",
+      "Volt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which unit measures the rate at which an EV charger transfers power?",
+    "choices": [
+      "Kilowatt",
+      "Kilowatt-hour",
+      "Mile",
+      "Degree"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does a DC fast charger deliver to a compatible car?",
+    "choices": [
+      "Direct current",
+      "Alternating current",
+      "Liquid fuel",
+      "Compressed air"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which gas serves as fuel for a fuel-cell car?",
+    "choices": [
+      "Hydrogen",
+      "Gasoline",
+      "Diesel",
+      "Ethanol"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What kind of electricity does a fuel cell produce for its motor?",
+    "choices": [
+      "Direct current",
+      "Alternating current",
+      "Static charge",
+      "Magnetic flux"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which road feature separates opposing traffic directions?",
+    "choices": [
+      "Median",
+      "Shoulder",
+      "Ramp",
+      "Crosswalk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which road area provides space beyond a travel lane for an emergency stop?",
+    "choices": [
+      "Shoulder",
+      "Median",
+      "Ramp",
+      "Intersection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a road crossing at the same level called?",
+    "choices": [
+      "Intersection",
+      "Overpass",
+      "Underpass",
+      "Tunnel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "What is a road crossing on a bridge above another road called?",
+    "choices": [
+      "Overpass",
+      "Underpass",
+      "Median",
+      "Roundabout"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which roadway layout circulates vehicles around a central island?",
+    "choices": [
+      "Roundabout",
+      "Cloverleaf",
+      "Causeway",
+      "Cul-de-sac"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is a short connecting road used to enter or leave a highway?",
+    "choices": [
+      "Ramp",
+      "Median",
+      "Shoulder",
+      "Crosswalk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which marking designates a place for pedestrians to cross a road?",
+    "choices": [
+      "Crosswalk",
+      "Stop line",
+      "Centerline",
+      "Edge line"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which painted line separates lanes moving in the same direction?",
+    "choices": [
+      "Lane line",
+      "Stop line",
+      "Edge line",
+      "Crosswalk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which road sign shape is commonly used for STOP signs in the United States?",
+    "choices": [
+      "Octagon",
+      "Triangle",
+      "Circle",
+      "Pentagon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which road feature is built to carry vehicles over water or a valley?",
+    "choices": [
+      "Bridge",
+      "Tunnel",
+      "Median",
+      "Shoulder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which road feature carries vehicles below ground or through a mountain?",
+    "choices": [
+      "Tunnel",
+      "Bridge",
+      "Viaduct",
+      "Causeway"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which part of a bicycle transfers pedal force to the rear wheel?",
+    "choices": [
+      "Chain",
+      "Spoke",
+      "Fork",
+      "Handlebar"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which bicycle component is squeezed to slow or stop the wheel?",
+    "choices": [
+      "Brake",
+      "Derailleur",
+      "Crank",
+      "Pedal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which device changes a bicycle's selected gear ratio?",
+    "choices": [
+      "Derailleur",
+      "Caliper",
+      "Stem",
+      "Saddle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which part of a bicycle supports a rider's weight while seated?",
+    "choices": [
+      "Saddle",
+      "Fork",
+      "Rim",
+      "Spoke"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  }
+]

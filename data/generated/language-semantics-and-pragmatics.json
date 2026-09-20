@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which branch of linguistics studies conventional word and sentence meaning?",
+    "choices": [
+      "Semantics",
+      "Pragmatics",
+      "Phonetics",
+      "Morphology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which branch studies how context and speaker intentions shape interpretation?",
+    "choices": [
+      "Pragmatics",
+      "Semantics",
+      "Phonology",
+      "Syntax"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The literal dictionary-style meaning of a word is its what?",
+    "choices": [
+      "Denotation",
+      "Connotation",
+      "Implicature",
+      "Register"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "The emotional or cultural associations of a word are its what?",
+    "choices": [
+      "Connotation",
+      "Denotation",
+      "Reference",
+      "Extension"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Two words with similar meanings, such as 'big' and 'large,' are what?",
+    "choices": [
+      "Synonyms",
+      "Antonyms",
+      "Homonyms",
+      "Hyponyms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Words with opposite meanings, such as 'hot' and 'cold,' are what?",
+    "choices": [
+      "Antonyms",
+      "Synonyms",
+      "Homophones",
+      "Meronyms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A word whose spelling and sound match another word but whose meaning differs is a what?",
+    "choices": [
+      "Homonym",
+      "Synonym",
+      "Antonym",
+      "Hyponym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Words that sound alike but differ in meaning, such as 'sea' and 'see,' are what?",
+    "choices": [
+      "Homophones",
+      "Homographs",
+      "Hyponyms",
+      "Meronyms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Words spelled alike but pronounced differently, as 'lead' the metal and 'lead' the verb, are what?",
+    "choices": [
+      "Homographs",
+      "Homophones",
+      "Synonyms",
+      "Antonyms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A word with several related meanings, like 'head' of a person and of a table, shows what?",
+    "choices": [
+      "Polysemy",
+      "Antonymy",
+      "Deixis",
+      "Entailment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A narrow term such as 'sparrow' relative to 'bird' is a what?",
+    "choices": [
+      "Hyponym",
+      "Hypernym",
+      "Homonym",
+      "Meronym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A broad category term such as 'bird' relative to 'sparrow' is a what?",
+    "choices": [
+      "Hypernym",
+      "Hyponym",
+      "Homonym",
+      "Meronym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A part term such as 'wheel' relative to 'car' is a what?",
+    "choices": [
+      "Meronym",
+      "Hyponym",
+      "Antonym",
+      "Hypernym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "If 'Dana bought a dog' is true, which statement must also be true?",
+    "choices": [
+      "Dana bought an animal",
+      "Dana bought a pet",
+      "Dana bought a puppy",
+      "Dana bought two dogs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A conclusion that must be true whenever a stated sentence is true is an what?",
+    "choices": [
+      "Entailment",
+      "Implicature",
+      "Presupposition",
+      "Metaphor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "If someone says 'Mira stopped running,' what is taken for granted about Mira?",
+    "choices": [
+      "She once ran",
+      "She runs now",
+      "She ran yesterday",
+      "She won a race"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Meaning treated as already accepted before a statement is made is a what?",
+    "choices": [
+      "Presupposition",
+      "Implicature",
+      "Entailment",
+      "Assertion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The word 'again' in 'Lee missed again' takes for granted what?",
+    "choices": [
+      "An earlier miss",
+      "A later miss",
+      "A deliberate miss",
+      "A nearby miss"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A suggested conclusion that can be cancelled without contradiction is a what?",
+    "choices": [
+      "Implicature",
+      "Entailment",
+      "Presupposition",
+      "Definition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "'Some guests arrived' often suggests, but does not logically guarantee, which conclusion?",
+    "choices": [
+      "Not all arrived",
+      "All arrived",
+      "None arrived",
+      "Exactly one arrived"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which phrase most naturally cancels the usual suggestion of 'some' in 'some arrived'?",
+    "choices": [
+      "In fact, all",
+      "In fact, none",
+      "In fact, never",
+      "In fact, nobody"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A word like 'here' changes reference with the speaker's location. This is what?",
+    "choices": [
+      "Deixis",
+      "Polysemy",
+      "Synonymy",
+      "Entailment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which word is most clearly dependent on who speaks?",
+    "choices": [
+      "I",
+      "Apple",
+      "Triangle",
+      "Copper"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which word is most clearly dependent on when it is spoken?",
+    "choices": [
+      "Tomorrow",
+      "Copper",
+      "Triangle",
+      "Apple"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "'This' versus 'that' can signal which contextual distinction?",
+    "choices": [
+      "Proximity",
+      "Plurality",
+      "Past tense",
+      "Negation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which expression is most likely to change referent when a different person utters it?",
+    "choices": [
+      "My teacher",
+      "The Moon",
+      "The equator",
+      "The Pacific"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A speaker asks 'Can you pass the salt?' at dinner. What is its likely intended function?",
+    "choices": [
+      "Request",
+      "Prediction",
+      "Warning",
+      "Apology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Saying 'I promise' can itself perform which speech act?",
+    "choices": [
+      "Committing",
+      "Describing",
+      "Measuring",
+      "Naming"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Saying 'I apologize' can itself perform which speech act?",
+    "choices": [
+      "Apologizing",
+      "Predicting",
+      "Questioning",
+      "Promising"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "The intended act performed by an utterance, such as warning or promising, is its what?",
+    "choices": [
+      "Illocution",
+      "Locution",
+      "Perlocution",
+      "Inflection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "The actual words spoken and their literal content form which aspect of a speech act?",
+    "choices": [
+      "Locution",
+      "Illocution",
+      "Perlocution",
+      "Implicature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The effect of an utterance on a listener, such as persuading them, is its what?",
+    "choices": [
+      "Perlocution",
+      "Illocution",
+      "Locution",
+      "Entailment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "A rhetorical question often has what intended function beyond seeking information?",
+    "choices": [
+      "Making a point",
+      "Naming an object",
+      "Setting a date",
+      "Reporting speech"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What term describes the background assumptions shared by people in a conversation?",
+    "choices": [
+      "Common ground",
+      "Speech register",
+      "Word order",
+      "Lexical field"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A reply about the weather to 'How was the exam?' appears to violate which conversational maxim?",
+    "choices": [
+      "Relation",
+      "Quantity",
+      "Quality",
+      "Manner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A response that gives far less information than requested chiefly flouts which maxim?",
+    "choices": [
+      "Quantity",
+      "Quality",
+      "Relation",
+      "Manner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A knowingly false statement chiefly flouts which conversational maxim?",
+    "choices": [
+      "Quality",
+      "Quantity",
+      "Relation",
+      "Manner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A deliberately obscure answer chiefly flouts which conversational maxim?",
+    "choices": [
+      "Manner",
+      "Quality",
+      "Quantity",
+      "Relation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which register would most likely appear in a courtroom filing rather than a casual text?",
+    "choices": [
+      "Formal",
+      "Intimate",
+      "Slang",
+      "Colloquial"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Using 'passed away' instead of 'died' for a gentler effect is a what?",
+    "choices": [
+      "Euphemism",
+      "Dysphemism",
+      "Homonym",
+      "Hypernym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Using a deliberately harsh term for a neutral referent is a what?",
+    "choices": [
+      "Dysphemism",
+      "Euphemism",
+      "Synonym",
+      "Hyponym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "'The White House announced' uses a place to stand for its occupants. What device is this?",
+    "choices": [
+      "Metonymy",
+      "Simile",
+      "Hyperbole",
+      "Oxymoron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "'All hands on deck' uses a body part to stand for whole sailors. What device is this?",
+    "choices": [
+      "Synecdoche",
+      "Metonymy",
+      "Simile",
+      "Litotes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "'Time is money' maps one conceptual domain onto another. What is this?",
+    "choices": [
+      "Metaphor",
+      "Synonymy",
+      "Deixis",
+      "Entailment"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "In 'She is as quiet as a mouse,' which device marks the comparison explicitly?",
+    "choices": [
+      "Simile",
+      "Metaphor",
+      "Metonymy",
+      "Irony"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "'Break the ice' has a conventional meaning beyond its words taken individually. It is an what?",
+    "choices": [
+      "Idiom",
+      "Acronym",
+      "Homophone",
+      "Hyponym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "If 'bank' means river edge in one sentence and financial institution in another, what resolves the choice?",
+    "choices": [
+      "Context",
+      "Spelling",
+      "Syllable count",
+      "Capitalization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "A statement that can be true in one possible situation and false in another has what?",
+    "choices": [
+      "Truth conditions",
+      "Sound symbolism",
+      "Syllable stress",
+      "Word order"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The set of things in the world a word applies to is its what?",
+    "choices": [
+      "Extension",
+      "Intension",
+      "Connotation",
+      "Register"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The defining concept or property associated with a term is its what?",
+    "choices": [
+      "Intension",
+      "Extension",
+      "Referent",
+      "Allophone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "When a speaker calls a terrible exam 'wonderful' to convey the opposite attitude, this is what?",
+    "choices": [
+      "Irony",
+      "Euphemism",
+      "Entailment",
+      "Synonymy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "In a conversation, an utterance's immediate social situation is its what?",
+    "choices": [
+      "Context",
+      "Syntax",
+      "Phoneme",
+      "Morpheme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "A direct answer that supplies requested information chiefly performs which speech act?",
+    "choices": [
+      "Assertion",
+      "Promise",
+      "Command",
+      "Apology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "'Could you close the window?' is grammatically a question but pragmatically a what?",
+    "choices": [
+      "Request",
+      "Promise",
+      "Warning",
+      "Report"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which relation links 'car' and 'vehicle' rather than 'car' and 'wheel'?",
+    "choices": [
+      "Hyponymy",
+      "Meronymy",
+      "Antonymy",
+      "Homonymy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which relation links 'finger' and 'hand' rather than 'finger' and 'body part'?",
+    "choices": [
+      "Meronymy",
+      "Hyponymy",
+      "Synonymy",
+      "Antonymy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which lexical pair is most clearly an antonym pair?",
+    "choices": [
+      "Alive–dead",
+      "Car–vehicle",
+      "Wheel–car",
+      "Buy–purchase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which lexical pair is most clearly a synonym pair?",
+    "choices": [
+      "Begin–start",
+      "Begin–end",
+      "Begin–event",
+      "Begin–clock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "If a speaker says 'It's cold in here' while eyeing an open window, what might they imply?",
+    "choices": [
+      "Close it",
+      "Open it",
+      "Leave it",
+      "Paint it"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "'The king of France is bald' traditionally presupposes what?",
+    "choices": [
+      "A French king exists",
+      "France is a monarchy now",
+      "The king is elderly",
+      "No king exists"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  }
+]

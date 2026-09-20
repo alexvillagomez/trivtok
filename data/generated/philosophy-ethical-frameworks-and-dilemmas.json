@@ -1,0 +1,673 @@
+[
+  {
+    "text": "Which branch asks what people ought to do?",
+    "choices": [
+      "Normative ethics",
+      "Metaethics",
+      "Epistemology",
+      "Aesthetics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which branch asks what moral claims mean and whether they can be true?",
+    "choices": [
+      "Metaethics",
+      "Applied ethics",
+      "Political ethics",
+      "Virtue ethics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which branch studies concrete issues such as medical consent and environmental duties?",
+    "choices": [
+      "Applied ethics",
+      "Metaethics",
+      "Formal logic",
+      "Aesthetics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which approach judges acts chiefly by their outcomes?",
+    "choices": [
+      "Consequentialism",
+      "Deontology",
+      "Virtue ethics",
+      "Contractualism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which approach gives priority to duties and rules in judging acts?",
+    "choices": [
+      "Deontology",
+      "Consequentialism",
+      "Virtue ethics",
+      "Hedonism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which approach centers moral character rather than rules or outcomes?",
+    "choices": [
+      "Virtue ethics",
+      "Deontology",
+      "Consequentialism",
+      "Emotivism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which theory is a form of consequentialism focused on overall well-being?",
+    "choices": [
+      "Utilitarianism",
+      "Deontology",
+      "Stoicism",
+      "Existentialism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "An outcome-based theory that evaluates each individual action directly is what?",
+    "choices": [
+      "Act utilitarianism",
+      "Rule utilitarianism",
+      "Virtue ethics",
+      "Duty ethics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "An outcome-based theory that evaluates general rules by their effects is what?",
+    "choices": [
+      "Rule utilitarianism",
+      "Act utilitarianism",
+      "Virtue ethics",
+      "Duty ethics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "If a choice is required because it follows a promise despite worse outcomes, which approach is most natural?",
+    "choices": [
+      "Deontology",
+      "Consequentialism",
+      "Hedonism",
+      "Pragmatism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "If a choice is praised because a generous person would make it, which approach is most natural?",
+    "choices": [
+      "Virtue ethics",
+      "Deontology",
+      "Consequentialism",
+      "Emotivism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The capacity to deliberate and act according to one's own reasons is called what?",
+    "choices": [
+      "Autonomy",
+      "Utility",
+      "Hedonism",
+      "Relativism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A claim that someone is entitled to be treated in a certain way is a what?",
+    "choices": [
+      "Right",
+      "Utility",
+      "Virtue",
+      "Preference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A requirement to act or refrain from acting is a what?",
+    "choices": [
+      "Duty",
+      "Virtue",
+      "Pleasure",
+      "Outcome"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A stable good trait such as honesty or courage is a what?",
+    "choices": [
+      "Virtue",
+      "Right",
+      "Duty",
+      "Sanction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A stable bad trait such as cruelty is a what?",
+    "choices": [
+      "Vice",
+      "Virtue",
+      "Duty",
+      "Right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In Aristotelian ethics, courage lies between cowardice and what opposite excess?",
+    "choices": [
+      "Rashness",
+      "Honesty",
+      "Generosity",
+      "Patience"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The capacity to judge what virtue requires in a concrete situation is called what?",
+    "choices": [
+      "Practical wisdom",
+      "Pure reason",
+      "Formal validity",
+      "Moral luck"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Greek-derived term is often translated as human flourishing?",
+    "choices": [
+      "Eudaimonia",
+      "Ataraxia",
+      "Apatheia",
+      "Telos"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A theory that treats pleasure as the only intrinsic good is called what?",
+    "choices": [
+      "Hedonism",
+      "Stoicism",
+      "Deontology",
+      "Pluralism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Something valued for its own sake has what kind of value?",
+    "choices": [
+      "Intrinsic",
+      "Instrumental",
+      "Exchange",
+      "Marginal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A tool valued because it helps achieve something else has what kind of value?",
+    "choices": [
+      "Instrumental",
+      "Intrinsic",
+      "Terminal",
+      "Inherent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which philosopher is especially associated with the categorical imperative?",
+    "choices": [
+      "Kant",
+      "Mill",
+      "Bentham",
+      "Aristotle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A proposed rule that one could will for everyone tests what feature in Kantian ethics?",
+    "choices": [
+      "Universalizability",
+      "Consequentialism",
+      "Relativism",
+      "Utility"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Treating people never merely as tools reflects Kant's idea of persons as what?",
+    "choices": [
+      "Ends",
+      "Means",
+      "States",
+      "Objects"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which thinker is a classic proponent of the greatest-happiness principle?",
+    "choices": [
+      "Bentham",
+      "Kant",
+      "Plato",
+      "Hobbes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which thinker defended distinctions between higher and lower pleasures?",
+    "choices": [
+      "Mill",
+      "Bentham",
+      "Kant",
+      "Hobbes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A hypothetical choice between diverting a runaway vehicle and letting it continue is which dilemma?",
+    "choices": [
+      "Trolley problem",
+      "Prisoner's dilemma",
+      "Euthyphro dilemma",
+      "Experience machine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A case where one beneficial act has both intended good and foreseen bad effects invokes which principle?",
+    "choices": [
+      "Double effect",
+      "Universal law",
+      "Fair equality",
+      "Greatest happiness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A moral theory grounded in agreements people could reasonably accept is what?",
+    "choices": [
+      "Contractualism",
+      "Hedonism",
+      "Emotivism",
+      "Egoism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which philosopher proposed choosing justice principles from an original position?",
+    "choices": [
+      "Rawls",
+      "Nozick",
+      "Bentham",
+      "Epicurus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Rawls's thought experiment, ignorance of your future social position is represented by what?",
+    "choices": [
+      "Veil of ignorance",
+      "Experience machine",
+      "Trolley switch",
+      "Categorical imperative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Rules for distributing benefits and burdens concern which type of justice?",
+    "choices": [
+      "Distributive",
+      "Retributive",
+      "Procedural",
+      "Restorative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Fairness in the steps used to reach a decision concerns which type of justice?",
+    "choices": [
+      "Procedural",
+      "Distributive",
+      "Retributive",
+      "Corrective"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Punishment proportionate to wrongdoing is associated with which type of justice?",
+    "choices": [
+      "Retributive",
+      "Distributive",
+      "Procedural",
+      "Restorative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Repairing harm through dialogue and accountability is associated with which type of justice?",
+    "choices": [
+      "Restorative",
+      "Retributive",
+      "Distributive",
+      "Procedural"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A view that gives equal moral importance to each person's welfare is what?",
+    "choices": [
+      "Impartialism",
+      "Egoism",
+      "Relativism",
+      "Skepticism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A view that one's own interests are the only ultimate concern is what?",
+    "choices": [
+      "Ethical egoism",
+      "Utilitarianism",
+      "Altruism",
+      "Contractualism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Helping others at a cost to oneself is commonly called what?",
+    "choices": [
+      "Altruism",
+      "Egoism",
+      "Hedonism",
+      "Skepticism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A theory that moral truth depends on a culture's standards is what?",
+    "choices": [
+      "Cultural relativism",
+      "Moral realism",
+      "Error theory",
+      "Universalism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The view that moral claims can be true or false is often called what?",
+    "choices": [
+      "Moral cognitivism",
+      "Emotivism",
+      "Noncognitivism",
+      "Expressivism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The view that moral claims are not literally truth-apt is what?",
+    "choices": [
+      "Noncognitivism",
+      "Cognitivism",
+      "Realism",
+      "Naturalism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "The view that some moral facts exist independently of anyone's attitudes is what?",
+    "choices": [
+      "Moral realism",
+      "Error theory",
+      "Emotivism",
+      "Relativism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "The view that ordinary positive moral claims are systematically false is what?",
+    "choices": [
+      "Error theory",
+      "Virtue ethics",
+      "Contractualism",
+      "Emotivism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.77
+  },
+  {
+    "text": "The view that 'wrong' chiefly expresses disapproval rather than states a fact is what?",
+    "choices": [
+      "Emotivism",
+      "Realism",
+      "Hedonism",
+      "Deontology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which famous challenge asks whether something is good because a deity commands it or commanded because it is good?",
+    "choices": [
+      "Euthyphro dilemma",
+      "Trolley problem",
+      "Experience machine",
+      "Prisoner's dilemma"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which philosopher pointed to a gap between descriptive 'is' claims and prescriptive 'ought' claims?",
+    "choices": [
+      "Hume",
+      "Kant",
+      "Mill",
+      "Rawls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "The claim that facts alone cannot logically yield a duty is called the what problem?",
+    "choices": [
+      "Is–ought",
+      "Free-rider",
+      "Mind–body",
+      "Gettier"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "When outcomes beyond an agent's control alter moral judgment, philosophers discuss what?",
+    "choices": [
+      "Moral luck",
+      "Moral hazard",
+      "Moral realism",
+      "Moral fatigue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A person benefiting from a group effort without contributing is a what?",
+    "choices": [
+      "Free rider",
+      "Moral realist",
+      "Contractarian",
+      "Altruist"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Overuse of a shared pasture because each user has an incentive to add animals illustrates what?",
+    "choices": [
+      "Tragedy of commons",
+      "Prisoner's dilemma",
+      "Experience machine",
+      "Veil of ignorance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which thought experiment asks whether people would choose simulated pleasure over real life?",
+    "choices": [
+      "Experience machine",
+      "Trolley problem",
+      "Veil of ignorance",
+      "Chinese room"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The ethical focus on relationships, dependency, and responsiveness to others is what?",
+    "choices": [
+      "Care ethics",
+      "Act utilitarianism",
+      "Error theory",
+      "Ethical egoism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which value is central when asking whether benefits go first to the worst-off?",
+    "choices": [
+      "Priority",
+      "Utility",
+      "Autonomy",
+      "Desert"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which principle says people should have enough, rather than strictly equal shares?",
+    "choices": [
+      "Sufficiency",
+      "Equality",
+      "Utility",
+      "Reciprocity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A moral requirement not to harm someone is a what kind of duty?",
+    "choices": [
+      "Negative",
+      "Positive",
+      "Perfect",
+      "Imperfect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A moral requirement to provide aid is a what kind of duty?",
+    "choices": [
+      "Positive",
+      "Negative",
+      "Perfect",
+      "Imperfect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A duty owed to every person regardless of relationship is what type?",
+    "choices": [
+      "General",
+      "Special",
+      "Role-based",
+      "Contractual"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A duty owed because of a promise or relationship is what type?",
+    "choices": [
+      "Special",
+      "General",
+      "Universal",
+      "Impersonal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A rule against lying is evaluated as universal regardless of exceptions by which approach?",
+    "choices": [
+      "Deontology",
+      "Consequentialism",
+      "Hedonism",
+      "Emotivism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A theorist weighs aggregate happiness from several possible actions. Which approach is most relevant?",
+    "choices": [
+      "Utilitarianism",
+      "Deontology",
+      "Virtue ethics",
+      "Relativism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  }
+]

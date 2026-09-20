@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which Git command creates a local copy of an existing repository?",
+    "choices": [
+      "git clone",
+      "git init",
+      "git fetch",
+      "git switch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Git command starts a new repository in the current directory?",
+    "choices": [
+      "git init",
+      "git clone",
+      "git pull",
+      "git status"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which Git command shows the state of tracked, staged, and untracked files?",
+    "choices": [
+      "git status",
+      "git show",
+      "git log",
+      "git diff"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which Git command adds selected content to the staging area?",
+    "choices": [
+      "git add",
+      "git commit",
+      "git push",
+      "git tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Git command records staged changes as a new snapshot?",
+    "choices": [
+      "git commit",
+      "git fetch",
+      "git stash",
+      "git branch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which Git command lists recent commits on a branch?",
+    "choices": [
+      "git log",
+      "git diff",
+      "git status",
+      "git clean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which Git command normally shows unstaged file changes?",
+    "choices": [
+      "git diff",
+      "git log",
+      "git show",
+      "git blame"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which option makes Git compare staged content with the latest commit?",
+    "choices": [
+      "--cached",
+      "--quiet",
+      "--stat",
+      "--name-only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which Git command downloads remote objects without integrating them into the current branch?",
+    "choices": [
+      "git fetch",
+      "git pull",
+      "git push",
+      "git merge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which Git command downloads remote changes and then integrates them?",
+    "choices": [
+      "git pull",
+      "git fetch",
+      "git push",
+      "git remote"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which Git command sends local commits to a remote repository?",
+    "choices": [
+      "git push",
+      "git fetch",
+      "git clone",
+      "git merge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which Git command lists or creates local branch names?",
+    "choices": [
+      "git branch",
+      "git tag",
+      "git remote",
+      "git stash"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which Git command changes the current branch without creating a commit?",
+    "choices": [
+      "git switch",
+      "git commit",
+      "git add",
+      "git show"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Git command joins histories from two branches?",
+    "choices": [
+      "git merge",
+      "git fetch",
+      "git stash",
+      "git tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which Git command reapplies a series of commits onto a new base?",
+    "choices": [
+      "git rebase",
+      "git merge",
+      "git fetch",
+      "git revert"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Git command reapplies one selected commit onto the current branch?",
+    "choices": [
+      "git cherry-pick",
+      "git merge",
+      "git fetch",
+      "git switch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which Git command makes a new commit that undoes an earlier commit?",
+    "choices": [
+      "git revert",
+      "git reset",
+      "git stash",
+      "git clean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which Git command temporarily saves uncommitted work for later reapplication?",
+    "choices": [
+      "git stash",
+      "git tag",
+      "git fetch",
+      "git branch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which Git command creates or lists named references often used for releases?",
+    "choices": [
+      "git tag",
+      "git branch",
+      "git log",
+      "git status"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Git command shows a specific commit and its patch?",
+    "choices": [
+      "git show",
+      "git status",
+      "git remote",
+      "git add"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Git command attributes lines in a file to commits?",
+    "choices": [
+      "git blame",
+      "git diff",
+      "git branch",
+      "git tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which Git command displays the local history of reference movements?",
+    "choices": [
+      "git reflog",
+      "git log",
+      "git status",
+      "git grep"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which Git command searches tracked files for matching text?",
+    "choices": [
+      "git grep",
+      "git blame",
+      "git fetch",
+      "git tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which Git command tests commits to find the first one that introduced a bug?",
+    "choices": [
+      "git bisect",
+      "git blame",
+      "git reflog",
+      "git stash"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which Git command lists configured remote repositories?",
+    "choices": [
+      "git remote",
+      "git branch",
+      "git status",
+      "git tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What does Git call the area holding content prepared for the next commit?",
+    "choices": [
+      "Index",
+      "Worktree",
+      "Reflog",
+      "Remote"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "What does Git call the checked-out files a developer edits?",
+    "choices": [
+      "Working tree",
+      "Object store",
+      "Commit graph",
+      "Remote ref"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What does Git call a named pointer that advances to new commits?",
+    "choices": [
+      "Branch",
+      "Blob",
+      "Tree",
+      "Patch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What Git name usually refers to the currently checked-out commit?",
+    "choices": [
+      "HEAD",
+      "Index",
+      "Origin",
+      "Main"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What kind of Git object stores the contents of one file?",
+    "choices": [
+      "Blob",
+      "Tree",
+      "Commit",
+      "Tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What kind of Git object records directory entries?",
+    "choices": [
+      "Tree",
+      "Blob",
+      "Commit",
+      "Patch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What kind of Git object records a snapshot, message, and parent links?",
+    "choices": [
+      "Commit",
+      "Blob",
+      "Tree",
+      "Index"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What does Git call a repository hosted elsewhere?",
+    "choices": [
+      "Remote",
+      "Worktree",
+      "Index",
+      "Reflog"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the conventional default name for a remote created by cloning?",
+    "choices": [
+      "origin",
+      "upstream",
+      "main",
+      "HEAD"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a downloaded branch reference named origin/main called?",
+    "choices": [
+      "Remote-tracking branch",
+      "Detached head",
+      "Annotated tag",
+      "Working tree"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "What is a branch's configured counterpart for pulling called?",
+    "choices": [
+      "Upstream",
+      "Index",
+      "Object",
+      "Stash"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is the common ancestor used in a three-way merge called?",
+    "choices": [
+      "Merge base",
+      "Root tree",
+      "Head ref",
+      "Tag object"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a merge called when the current branch simply advances to another tip?",
+    "choices": [
+      "Fast-forward",
+      "Cherry-pick",
+      "Squash",
+      "Rebase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What is the result called when competing edits cannot be combined automatically?",
+    "choices": [
+      "Merge conflict",
+      "Detached HEAD",
+      "Untracked file",
+      "Shallow clone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What kind of file has Git never recorded in a commit or index?",
+    "choices": [
+      "Untracked",
+      "Staged",
+      "Modified",
+      "Committed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What kind of change is in the index but not yet recorded as a commit?",
+    "choices": [
+      "Staged",
+      "Untracked",
+      "Pushed",
+      "Ignored"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "What is a changed tracked file that has not been staged called?",
+    "choices": [
+      "Modified",
+      "Ignored",
+      "Archived",
+      "Remote"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What marks paths that Git should normally leave untracked?",
+    "choices": [
+      ".gitignore",
+      ".gitattributes",
+      ".gitmodules",
+      ".mailmap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which file configures path-specific merge and text-handling rules?",
+    "choices": [
+      ".gitattributes",
+      ".gitignore",
+      ".gitmodules",
+      ".mailmap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which file records a repository's submodule locations?",
+    "choices": [
+      ".gitmodules",
+      ".gitignore",
+      ".gitattributes",
+      ".mailmap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a commit hash identify in Git?",
+    "choices": [
+      "Object",
+      "Filename",
+      "Branch color",
+      "User session"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "What describes Git history when no branch name points to the checked-out commit?",
+    "choices": [
+      "Detached HEAD",
+      "Merge conflict",
+      "Staged file",
+      "Fast-forward"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "What does a lightweight Git tag point directly to?",
+    "choices": [
+      "Object",
+      "Remote",
+      "Index",
+      "Worktree"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What kind of tag stores a message and tagger metadata?",
+    "choices": [
+      "Annotated tag",
+      "Lightweight tag",
+      "Branch ref",
+      "Remote ref"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which Git feature lets multiple working directories share one repository's history?",
+    "choices": [
+      "Worktree",
+      "Stash",
+      "Reflog",
+      "Hook"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "What does a Git hook run in response to?",
+    "choices": [
+      "Repository event",
+      "Network packet",
+      "Editor theme",
+      "File extension"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which Git hook commonly runs before a commit is recorded?",
+    "choices": [
+      "pre-commit",
+      "post-merge",
+      "pre-push",
+      "post-checkout"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What does a patch show between two versions of a file?",
+    "choices": [
+      "Changes",
+      "Permissions only",
+      "File size only",
+      "Commit author only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What do lines prefixed with plus signs in a unified diff represent?",
+    "choices": [
+      "Additions",
+      "Deletions",
+      "Conflicts",
+      "Context"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "What do lines prefixed with minus signs in a unified diff represent?",
+    "choices": [
+      "Deletions",
+      "Additions",
+      "Renames",
+      "Headers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which Git command can list the branches containing a given commit?",
+    "choices": [
+      "git branch",
+      "git status",
+      "git stash",
+      "git remote"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which Git command can apply a saved patch from standard input?",
+    "choices": [
+      "git apply",
+      "git fetch",
+      "git tag",
+      "git clone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is a repository with truncated history called?",
+    "choices": [
+      "Shallow clone",
+      "Sparse checkout",
+      "Bare repository",
+      "Detached HEAD"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "What is a Git repository without a working tree commonly called?",
+    "choices": [
+      "Bare repository",
+      "Shallow clone",
+      "Sparse checkout",
+      "Staged index"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which Git operation selects only some tracked paths for the working tree?",
+    "choices": [
+      "Sparse checkout",
+      "Shallow clone",
+      "Cherry-pick",
+      "Fast-forward"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  }
+]

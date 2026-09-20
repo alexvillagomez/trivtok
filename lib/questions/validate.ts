@@ -22,6 +22,15 @@ function containsPhrase(text: string, phrase: string): boolean {
   return ` ${text} `.includes(` ${phrase} `);
 }
 
+/** Ignore a leading article when checking titled answers like "The X-Men". */
+function giveawayPhrases(choice: string): string[] {
+  const normalized = normalize(choice);
+  const withoutArticle = normalized.replace(/^(?:the|an|a) /, "");
+  return [...new Set([normalized, withoutArticle])].filter(
+    (phrase) => phrase.includes(" ") || phrase.length >= 4,
+  );
+}
+
 /**
  * A giveaway is when the correct answer's wording sits in the stem but the
  * alternatives' wording does not — the stem points straight at the answer.
@@ -38,18 +47,14 @@ export function findAnswerGiveaway(
   correctIndex: number,
 ): string | null {
   const stem = normalize(text);
-  const answer = normalize(choices[correctIndex] ?? "");
-  if (!answer) return null;
-
-  const meaningful = answer.includes(" ") || answer.length >= 4;
-  if (!meaningful) return null;
-  if (!containsPhrase(stem, answer)) return null;
+  const answerPhrases = giveawayPhrases(choices[correctIndex] ?? "");
+  if (!answerPhrases.some((phrase) => containsPhrase(stem, phrase))) return null;
 
   const distractorInStem = choices.some(
-    (choice, i) => i !== correctIndex && containsPhrase(stem, normalize(choice)),
+    (choice, i) => i !== correctIndex && giveawayPhrases(choice).some((phrase) => containsPhrase(stem, phrase)),
   );
   const allDistractorsInStem = choices.every(
-    (choice, i) => i === correctIndex || containsPhrase(stem, normalize(choice)),
+    (choice, i) => i === correctIndex || giveawayPhrases(choice).some((phrase) => containsPhrase(stem, phrase)),
   );
   // If every choice is echoed in the stem it's a listing, not a giveaway.
   if (allDistractorsInStem) return null;

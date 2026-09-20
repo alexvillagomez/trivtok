@@ -81,9 +81,13 @@ export type UserInterest = {
   id: string;
   userId: string;
   centroid: Embedding; // c_m in R^64, normalized
-  strength: number; // how much the user likes this cluster
+  strength: number; // long-term affinity — accumulates slowly, remembers the past
+  momentum: number; // recent-engagement trace in ~[-1,1] — time-decayed toward 0.
+  // The short-timescale counterpart to strength: goes negative when a once-loved
+  // topic is currently being skipped ("worn out"), decays back to 0 while dormant
+  // so the topic naturally re-surfaces for a re-test. See lib/rec/interest.ts.
   positiveCount: number; // number of positive interactions seen
-  lastUsedAt: string; // ISO timestamp, for the freshness bonus
+  lastUsedAt: string; // ISO timestamp — freshness bonus AND momentum decay reference
 };
 
 /** The four ways a user can respond to a shown question. */

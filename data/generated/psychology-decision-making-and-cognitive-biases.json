@@ -1,0 +1,552 @@
+[
+  {
+    "text": "An early price estimate pulls a later estimate toward it. Which bias is at work?",
+    "choices": [
+      "Anchoring",
+      "Hindsight",
+      "Availability",
+      "Framing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "After vivid news coverage, a rare hazard feels common. Which shortcut explains this?",
+    "choices": [
+      "Availability",
+      "Anchoring",
+      "Representativeness",
+      "Framing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A person seeks only evidence that supports a prior belief. Which bias is this?",
+    "choices": [
+      "Confirmation bias",
+      "Hindsight bias",
+      "Status quo bias",
+      "Outcome bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "After learning an outcome, someone claims it was obvious all along. Which bias is this?",
+    "choices": [
+      "Hindsight bias",
+      "Anchoring bias",
+      "Negativity bias",
+      "Halo effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A choice changes when identical outcomes are described as gains versus losses. Which effect is this?",
+    "choices": [
+      "Framing effect",
+      "Endowment effect",
+      "Halo effect",
+      "Mere exposure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A person dislikes losing $20 more than they enjoy gaining $20. Which tendency is this?",
+    "choices": [
+      "Loss aversion",
+      "Present bias",
+      "Social proof",
+      "Overconfidence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Someone keeps funding a failing project because of money already spent. Which effect is this?",
+    "choices": [
+      "Sunk-cost effect",
+      "Endowment effect",
+      "Default effect",
+      "Halo effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A person values a mug more once it belongs to them. Which effect is this?",
+    "choices": [
+      "Endowment effect",
+      "Mere exposure",
+      "Framing effect",
+      "Contrast effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "People stick with an existing arrangement mainly because it is familiar. Which bias fits?",
+    "choices": [
+      "Status quo bias",
+      "Hindsight bias",
+      "Anchoring bias",
+      "Outcome bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A small reward today is chosen over a larger reward next month. Which tendency fits?",
+    "choices": [
+      "Temporal discounting",
+      "Loss aversion",
+      "Social loafing",
+      "Availability"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A vivid personality sketch outweighs population frequencies in a judgment. Which shortcut fits?",
+    "choices": [
+      "Representativeness",
+      "Availability",
+      "Anchoring",
+      "Framing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Someone ignores how common a condition is when interpreting a test result. Which error is this?",
+    "choices": [
+      "Base-rate neglect",
+      "Hindsight bias",
+      "Endowment effect",
+      "Halo effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A detailed two-event story seems likelier than one of its component events. Which fallacy is this?",
+    "choices": [
+      "Conjunction fallacy",
+      "Gambler's fallacy",
+      "Planning fallacy",
+      "Sunk-cost fallacy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "After five heads in a row, someone thinks tails is now due from a fair coin. Which fallacy?",
+    "choices": [
+      "Gambler's fallacy",
+      "Conjunction fallacy",
+      "Planning fallacy",
+      "Base-rate fallacy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A lucky beginner's next score moves closer to average. What statistical pattern is this?",
+    "choices": [
+      "Regression to mean",
+      "Conjunction fallacy",
+      "Selection bias",
+      "Temporal discounting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Only successful companies are studied, hiding the failed ones. Which bias is this?",
+    "choices": [
+      "Survivorship bias",
+      "Confirmation bias",
+      "Anchoring bias",
+      "Framing effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A single admirable trait makes every trait of a person seem admirable. Which effect?",
+    "choices": [
+      "Halo effect",
+      "Horns effect",
+      "Framing effect",
+      "Bystander effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A single disliked trait colors judgment of unrelated traits. Which effect?",
+    "choices": [
+      "Horns effect",
+      "Halo effect",
+      "Mere exposure",
+      "Endowment effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Someone assumes their own opinion is much more common than it is. Which effect?",
+    "choices": [
+      "False consensus",
+      "Social proof",
+      "Groupthink",
+      "Pluralistic ignorance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Repeatedly seeing a neutral logo makes it more likable. Which effect?",
+    "choices": [
+      "Mere exposure",
+      "Halo effect",
+      "Framing effect",
+      "Endowment effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A vacation is remembered mostly by its high point and ending. Which rule?",
+    "choices": [
+      "Peak-end rule",
+      "Recency effect",
+      "Primacy effect",
+      "Halo effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Items at the end of a list are recalled especially well. Which effect?",
+    "choices": [
+      "Recency effect",
+      "Primacy effect",
+      "Halo effect",
+      "Framing effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Items at the start of a list are recalled especially well. Which effect?",
+    "choices": [
+      "Primacy effect",
+      "Recency effect",
+      "Endowment effect",
+      "Default effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A person predicts an overly rosy personal future despite contrary data. Which bias?",
+    "choices": [
+      "Optimism bias",
+      "Negativity bias",
+      "Outcome bias",
+      "Status quo bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "One harsh review outweighs several kind reviews in someone's judgment. Which bias?",
+    "choices": [
+      "Negativity bias",
+      "Optimism bias",
+      "Hindsight bias",
+      "Anchoring bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Someone credits success to skill but blames failure on bad luck. Which bias?",
+    "choices": [
+      "Self-serving bias",
+      "Confirmation bias",
+      "Status quo bias",
+      "Availability bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A driver blames their own mistake on traffic but another's on poor character. Which effect?",
+    "choices": [
+      "Actor-observer effect",
+      "Endowment effect",
+      "Mere exposure",
+      "Planning fallacy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A stranger's lateness is blamed on personality rather than circumstances. Which error?",
+    "choices": [
+      "Fundamental attribution",
+      "Base-rate neglect",
+      "Conjunction fallacy",
+      "Temporal discounting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A team favors its own members over equally qualified outsiders. Which bias?",
+    "choices": [
+      "In-group bias",
+      "Outcome bias",
+      "Anchoring bias",
+      "Present bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Members of another group seem more alike than members of one's own. Which effect?",
+    "choices": [
+      "Out-group homogeneity",
+      "False consensus",
+      "Social loafing",
+      "Pluralistic ignorance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "People follow a crowd's choice as evidence of what is best. Which influence?",
+    "choices": [
+      "Social proof",
+      "Endowment effect",
+      "Hindsight bias",
+      "Loss aversion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A group suppresses dissent to preserve harmony and reaches a poor decision. Which pattern?",
+    "choices": [
+      "Groupthink",
+      "Social loafing",
+      "Bystander effect",
+      "Mere exposure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "An emergency witness does less because many other witnesses are present. Which effect?",
+    "choices": [
+      "Bystander effect",
+      "Halo effect",
+      "Framing effect",
+      "Endowment effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A person feels less personally responsible when many others are present. Which pattern?",
+    "choices": [
+      "Diffusion of responsibility",
+      "False consensus",
+      "Outcome bias",
+      "Peak-end rule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A limited-time label makes an ordinary item seem more desirable. Which cue?",
+    "choices": [
+      "Scarcity",
+      "Anchoring",
+      "Availability",
+      "Hindsight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "People judge a harmful action more harshly than an equally harmful inaction. Which bias?",
+    "choices": [
+      "Omission bias",
+      "Outcome bias",
+      "Default effect",
+      "Status quo bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Adding a weak third option shifts preference between two original options. Which effect?",
+    "choices": [
+      "Decoy effect",
+      "Halo effect",
+      "Recency effect",
+      "Bystander effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A preset selection gets chosen more often simply because it is preselected. Which effect?",
+    "choices": [
+      "Default effect",
+      "Framing effect",
+      "Endowment effect",
+      "Mere exposure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Someone strongly favors an immediate pleasure despite long-term costs. Which bias?",
+    "choices": [
+      "Present bias",
+      "Outcome bias",
+      "Halo effect",
+      "In-group bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A person is more certain of an answer than their accuracy warrants. Which bias?",
+    "choices": [
+      "Overconfidence",
+      "Loss aversion",
+      "Groupthink",
+      "Availability"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A task is predicted to take two hours despite many past delays. Which fallacy?",
+    "choices": [
+      "Planning fallacy",
+      "Conjunction fallacy",
+      "Gambler's fallacy",
+      "Sunk-cost fallacy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Someone judges a decision solely by how it turned out, not what was known then. Which bias?",
+    "choices": [
+      "Outcome bias",
+      "Hindsight bias",
+      "Confirmation bias",
+      "Status quo bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A person with limited skill overestimates their ability in that skill. Which effect?",
+    "choices": [
+      "Dunning–Kruger",
+      "Mere exposure",
+      "Bystander effect",
+      "Halo effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Too many product options leave a shopper unable to decide. Which phenomenon?",
+    "choices": [
+      "Choice overload",
+      "Social proof",
+      "Groupthink",
+      "Anchoring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A person treats random dice throws as if their own technique controls them. Which illusion?",
+    "choices": [
+      "Illusion of control",
+      "False consensus",
+      "Peak-end rule",
+      "Default effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "An expert forgets how little a beginner knows when explaining a topic. Which bias?",
+    "choices": [
+      "Curse of knowledge",
+      "Survivorship bias",
+      "Outcome bias",
+      "Loss aversion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A person thinks everyone notices a small stain on their shirt. Which effect?",
+    "choices": [
+      "Spotlight effect",
+      "Halo effect",
+      "Framing effect",
+      "Endowment effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "An impressive job title makes an unrelated claim seem more credible. Which bias?",
+    "choices": [
+      "Authority bias",
+      "Availability bias",
+      "Status quo bias",
+      "Hindsight bias"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A familiar statement feels truer after repeated exposure. Which effect?",
+    "choices": [
+      "Illusory truth",
+      "Endowment effect",
+      "Framing effect",
+      "Bystander effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A team member works less hard on a group project than alone. Which pattern?",
+    "choices": [
+      "Social loafing",
+      "Groupthink",
+      "Social proof",
+      "False consensus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  }
+]

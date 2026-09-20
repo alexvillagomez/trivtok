@@ -1,0 +1,662 @@
+[
+  {
+    "text": "A word meaning brief and to the point is which?",
+    "choices": [
+      "Concise",
+      "Verbose",
+      "Obscure",
+      "Tentative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A word meaning generous in forgiving an insult is which?",
+    "choices": [
+      "Magnanimous",
+      "Vindictive",
+      "Cautious",
+      "Frugal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "A word meaning difficult to understand is which?",
+    "choices": [
+      "Obscure",
+      "Lucid",
+      "Candid",
+      "Solemn"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A word meaning clear and easy to understand is which?",
+    "choices": [
+      "Lucid",
+      "Vague",
+      "Opaque",
+      "Arduous"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A word meaning careful with money is which?",
+    "choices": [
+      "Frugal",
+      "Lavish",
+      "Wasteful",
+      "Reckless"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "A word meaning extravagant in spending is which?",
+    "choices": [
+      "Lavish",
+      "Frugal",
+      "Sparse",
+      "Modest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A word meaning hesitant or unsure is which?",
+    "choices": [
+      "Tentative",
+      "Resolute",
+      "Certain",
+      "Decisive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A word meaning firm and determined is which?",
+    "choices": [
+      "Resolute",
+      "Tentative",
+      "Wavering",
+      "Diffident"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A word meaning frank and truthful is which?",
+    "choices": [
+      "Candid",
+      "Evasive",
+      "Guarded",
+      "Cryptic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "A word meaning easily fooled is which?",
+    "choices": [
+      "Gullible",
+      "Skeptical",
+      "Wary",
+      "Astute"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A word meaning inclined to doubt claims is which?",
+    "choices": [
+      "Skeptical",
+      "Gullible",
+      "Credulous",
+      "Naive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A word meaning lasting only a short time is which?",
+    "choices": [
+      "Ephemeral",
+      "Perpetual",
+      "Enduring",
+      "Permanent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A word meaning lasting indefinitely is which?",
+    "choices": [
+      "Perpetual",
+      "Brief",
+      "Fleeting",
+      "Transient"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A word meaning capable of adapting to setbacks is which?",
+    "choices": [
+      "Resilient",
+      "Fragile",
+      "Rigid",
+      "Brittle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A word meaning open to more than one interpretation is which?",
+    "choices": [
+      "Ambiguous",
+      "Explicit",
+      "Precise",
+      "Literal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A word meaning present everywhere is which?",
+    "choices": [
+      "Ubiquitous",
+      "Sparse",
+      "Local",
+      "Rare"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A word meaning having many different parts is which?",
+    "choices": [
+      "Diverse",
+      "Uniform",
+      "Singular",
+      "Identical"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A word meaning based on observation or experiment is which?",
+    "choices": [
+      "Empirical",
+      "Speculative",
+      "Theoretical",
+      "Intuitive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A word meaning occurring by chance rather than plan is which?",
+    "choices": [
+      "Accidental",
+      "Deliberate",
+      "Intentional",
+      "Calculated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A word meaning beyond what is ordinary or expected is which?",
+    "choices": [
+      "Exceptional",
+      "Typical",
+      "Routine",
+      "Mundane"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "A word meaning a model worthy of imitation is which?",
+    "choices": [
+      "Exemplar",
+      "Exception",
+      "Counterexample",
+      "Replica"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A word meaning a misleading clue is which?",
+    "choices": [
+      "Red herring",
+      "Smoking gun",
+      "Rule of thumb",
+      "Silver lining"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A word meaning an obvious truth is which?",
+    "choices": [
+      "Truism",
+      "Paradox",
+      "Hypothesis",
+      "Fallacy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A word meaning a seemingly contradictory statement that may be true is which?",
+    "choices": [
+      "Paradox",
+      "Truism",
+      "Tautology",
+      "Cliché"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A word meaning a worn-out, overused expression is which?",
+    "choices": [
+      "Cliché",
+      "Neologism",
+      "Aphorism",
+      "Allusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A newly coined word or expression is a what?",
+    "choices": [
+      "Neologism",
+      "Cliché",
+      "Archaism",
+      "Idiom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What is a word that has fallen out of common use called?",
+    "choices": [
+      "Archaism",
+      "Neologism",
+      "Acronym",
+      "Synonym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What is a brief, memorable statement of a general truth called?",
+    "choices": [
+      "Aphorism",
+      "Anagram",
+      "Euphemism",
+      "Onomatopoeia"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is a word formed by rearranging the letters of another called?",
+    "choices": [
+      "Anagram",
+      "Acronym",
+      "Palindrome",
+      "Homonym"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A word that reads the same backward and forward is a what?",
+    "choices": [
+      "Palindrome",
+      "Anagram",
+      "Acronym",
+      "Homophone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "If a friend says 'spill the beans,' what do they want someone to do?",
+    "choices": [
+      "Reveal a secret",
+      "Make a meal",
+      "Change a plan",
+      "Buy supplies"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "If someone says 'hit the sack,' what are they about to do?",
+    "choices": [
+      "Go to bed",
+      "Start a fight",
+      "Pack a bag",
+      "Make a deal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "If a difficult decision requires you to 'bite the bullet,' what will you do?",
+    "choices": [
+      "Face it",
+      "Delay it",
+      "Forget it",
+      "Celebrate it"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "If a project is 'up in the air,' what is its status?",
+    "choices": [
+      "Uncertain",
+      "Completed",
+      "Expensive",
+      "Urgent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "If a price 'costs an arm and a leg,' it is what?",
+    "choices": [
+      "Expensive",
+      "Cheap",
+      "Negotiable",
+      "Fixed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "If a friend says 'break a leg' before a performance, what are they offering?",
+    "choices": [
+      "Good luck",
+      "An apology",
+      "A warning",
+      "A request"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "If someone 'lets the cat out of the bag,' what did they do?",
+    "choices": [
+      "Revealed secret",
+      "Canceled plan",
+      "Lost pet",
+      "Struck deal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "If someone is 'on the same page,' they share what?",
+    "choices": [
+      "Understanding",
+      "Location",
+      "Schedule",
+      "Approval"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "If an idea is 'a long shot,' how likely is it?",
+    "choices": [
+      "Unlikely",
+      "Certain",
+      "Immediate",
+      "Guaranteed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "If something happens 'once in a blue moon,' how often is it?",
+    "choices": [
+      "Rarely",
+      "Daily",
+      "Monthly",
+      "Weekly"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "If a task is 'a piece of cake,' how difficult is it?",
+    "choices": [
+      "Easy",
+      "Hard",
+      "Urgent",
+      "Expensive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "If you 'get cold feet' before a speech, you become what?",
+    "choices": [
+      "Nervous",
+      "Confident",
+      "Angry",
+      "Bored"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "If someone is 'under the weather,' how do they feel?",
+    "choices": [
+      "Unwell",
+      "Confident",
+      "Angry",
+      "Energetic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "If you 'call it a day,' what do you do?",
+    "choices": [
+      "Stop working",
+      "Make a plan",
+      "Start over",
+      "Take charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "If you 'burn the midnight oil,' what are you doing?",
+    "choices": [
+      "Working late",
+      "Starting early",
+      "Wasting fuel",
+      "Traveling far"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "If you are 'in hot water,' what are you facing?",
+    "choices": [
+      "Trouble",
+      "Success",
+      "Comfort",
+      "Heat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "If a person 'misses the boat,' what do they lose?",
+    "choices": [
+      "Opportunity",
+      "Money",
+      "Directions",
+      "Confidence"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "If a person 'jumps the gun,' when do they act?",
+    "choices": [
+      "Too early",
+      "Too late",
+      "On time",
+      "Never"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "If a friend says 'hold your horses,' what do they want?",
+    "choices": [
+      "Wait",
+      "Leave",
+      "Run",
+      "Agree"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "If you 'go the extra mile,' what do you do?",
+    "choices": [
+      "Do more",
+      "Travel less",
+      "Work slower",
+      "Change jobs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "If a decision is 'a no-brainer,' it is what?",
+    "choices": [
+      "Obvious",
+      "Risky",
+      "Complicated",
+      "Unfair"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "If someone is 'beating around the bush,' what are they doing?",
+    "choices": [
+      "Avoiding the point",
+      "Being direct",
+      "Speaking loudly",
+      "Asking questions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "If a task is 'back to square one,' where is progress?",
+    "choices": [
+      "At the start",
+      "Near completion",
+      "Halfway done",
+      "On schedule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "If someone 'throws in the towel,' what do they do?",
+    "choices": [
+      "Give up",
+      "Begin again",
+      "Ask for help",
+      "Win easily"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "If you 'read between the lines,' what do you look for?",
+    "choices": [
+      "Hidden meaning",
+      "Spelling errors",
+      "Page numbers",
+      "Missing words"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "If you 'take it with a grain of salt,' how do you treat a claim?",
+    "choices": [
+      "Skeptically",
+      "Literally",
+      "Eagerly",
+      "Secretly"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "If you 'keep an eye on' a situation, what do you do?",
+    "choices": [
+      "Monitor it",
+      "Ignore it",
+      "End it",
+      "Predict it"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "If someone 'pulls your leg,' what are they doing?",
+    "choices": [
+      "Joking",
+      "Threatening",
+      "Helping",
+      "Bargaining"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "If a person 'gets the ball rolling,' what do they do?",
+    "choices": [
+      "Start things",
+      "End things",
+      "Delay things",
+      "Repeat things"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "If an outcome is 'a blessing in disguise,' what did it initially seem?",
+    "choices": [
+      "Unfortunate",
+      "Wonderful",
+      "Inevitable",
+      "Irrelevant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  }
+]

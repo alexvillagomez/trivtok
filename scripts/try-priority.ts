@@ -24,9 +24,9 @@ function axisVector(axis: number): Embedding {
 const now = Date.parse("2026-08-27T12:00:00Z");
 
 const interests: UserInterest[] = [
-  { id: "space", userId: "u", centroid: axisVector(0), strength: 2.0, positiveCount: 10, lastUsedAt: "2026-08-27T11:00:00Z" },
-  { id: "history", userId: "u", centroid: axisVector(1), strength: 1.0, positiveCount: 5, lastUsedAt: "2026-08-25T12:00:00Z" },
-  { id: "music", userId: "u", centroid: axisVector(2), strength: 0.5, positiveCount: 2, lastUsedAt: "2026-08-27T09:00:00Z" },
+  { id: "space", userId: "u", centroid: axisVector(0), strength: 2.0, momentum: 0, positiveCount: 10, lastUsedAt: "2026-08-27T11:00:00Z" },
+  { id: "history", userId: "u", centroid: axisVector(1), strength: 1.0, momentum: 0, positiveCount: 5, lastUsedAt: "2026-08-25T12:00:00Z" },
+  { id: "music", userId: "u", centroid: axisVector(2), strength: 0.5, momentum: 0, positiveCount: 2, lastUsedAt: "2026-08-27T09:00:00Z" },
 ];
 
 const exploreDirections = [axisVector(10), axisVector(20), axisVector(30)];

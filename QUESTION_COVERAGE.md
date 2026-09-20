@@ -1,6 +1,6 @@
 # Question Coverage Map
 
-Last updated: 2026-09-16
+Last updated: 2026-09-19
 
 > Scope note: this hand-maintained ledger records the focused authored series and
 > its niche notes. The complete machine-generated inventory of every JSON batch is
@@ -15,6 +15,25 @@ Last updated: 2026-09-16
 > which currently records 90 inserted long-scroll batches (9,014 questions)
 > as present in the configured Supabase project. Eighty-nine batches contain
 > 100 questions; The Sims contains 114, with 64 easier and 50 harder questions.
+
+## Continued authoring — 2026-09-19
+
+| Lane | Domain | Narrow niche | Batch file | Authored | Status |
+| --- | --- | --- | --- | ---: | --- |
+| Technology | Version control | Git objects, branches, commands, and collaboration | `data/generated/computer-science-git-version-control.json` | 60 | Inserted; 60/60 verified |
+| Technology | Web basics | HTML, CSS, browsers, URLs, and HTTP | `data/generated/technology-web-pages-and-browser-basics.json` | 60 | Inserted; 60/60 verified |
+| Psychology | Judgment | Decision-making heuristics and cognitive biases | `data/generated/psychology-decision-making-and-cognitive-biases.json` | 50 | Inserted; 50/50 verified |
+| Entertainment | Trolls | Three films, music tribes, family stories, cast, and spin-offs | `data/generated/trolls-films-world-music-and-characters.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | X-Men animation | 1992 series premiere, powers, foes, arcs, and legacy | `data/generated/xmen-animated-series-1992-characters-and-story-arcs.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Avatar animation | Three seasons, nations, characters, locations, and episode plots | `data/generated/avatar-last-airbender-animated-world-and-three-books.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Korra animation | Four books, city politics, spirits, new airbenders, and Earth Empire | `data/generated/legend-of-korra-four-books-characters-and-conflicts.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Shrek universe | Four Shrek films, two Puss in Boots films, plots, cast, and release history | `data/generated/shrek-universe-films-characters-stories-and-cast.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Kung Fu Panda | Four films, character relationships, conflicts, cast, and production | `data/generated/kung-fu-panda-four-films-characters-conflicts-and-cast.json` | 52 | Inserted; 52/52 verified |
+| Entertainment | Dragon-rider universe | Animated trilogy, riders, dragon species, and TV spin-offs | `data/generated/how-to-train-your-dragon-trilogy-riders-and-spinoffs.json` | 50 | Inserted; 50/50 verified |
+| Entertainment | Madagascar universe | Three films, penguin spin-off, zoo animals, and TV shows | `data/generated/madagascar-films-penguins-and-tv-spinoffs.json` | 40 | Inserted; 40/40 verified |
+| Entertainment | Toy Story | Four films, toys, owners, settings, plot turns, and a short film | `data/generated/toy-story-four-films-characters-places-and-stories.json` | 52 | Inserted; 52/52 verified |
+| Entertainment | Monsters universe | Original film, university prequel, workplace series, and short | `data/generated/monsters-inc-university-work-and-shorts.json` | 48 | Inserted; 48/48 verified |
+| Entertainment | Finding Nemo and Dory | Two films, reef and institute settings, sea life, characters, and journeys | `data/generated/finding-nemo-dory-reefs-characters-and-journeys.json` | 40 | Inserted; 40/40 verified |
 
 ## Deepening wave — 2026-09-06
 

@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Earth history is divided into eons, then eras, then what?",
+    "choices": [
+      "Periods",
+      "Epochs",
+      "Ages",
+      "Stages"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which unit of geologic time is larger than an era?",
+    "choices": [
+      "Eon",
+      "Period",
+      "Epoch",
+      "Age"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which unit is smaller than a period but larger than an age?",
+    "choices": [
+      "Epoch",
+      "Era",
+      "Eon",
+      "Supereon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which eon includes the Paleozoic, Mesozoic, and Cenozoic eras?",
+    "choices": [
+      "Phanerozoic",
+      "Proterozoic",
+      "Archean",
+      "Hadean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which era followed the Paleozoic?",
+    "choices": [
+      "Mesozoic",
+      "Cenozoic",
+      "Proterozoic",
+      "Quaternary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which era followed the Mesozoic?",
+    "choices": [
+      "Cenozoic",
+      "Paleozoic",
+      "Archean",
+      "Proterozoic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which period ends the Paleozoic era?",
+    "choices": [
+      "Permian",
+      "Devonian",
+      "Triassic",
+      "Cambrian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which period begins the Mesozoic era?",
+    "choices": [
+      "Triassic",
+      "Jurassic",
+      "Cretaceous",
+      "Permian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which period falls between the Triassic and Cretaceous?",
+    "choices": [
+      "Jurassic",
+      "Permian",
+      "Devonian",
+      "Paleogene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which period ends the Mesozoic era?",
+    "choices": [
+      "Cretaceous",
+      "Jurassic",
+      "Triassic",
+      "Paleogene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which era is often called the age of dinosaurs?",
+    "choices": [
+      "Mesozoic",
+      "Paleozoic",
+      "Cenozoic",
+      "Proterozoic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which era saw mammals diversify after the extinction of non-avian dinosaurs?",
+    "choices": [
+      "Cenozoic",
+      "Mesozoic",
+      "Paleozoic",
+      "Archean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which period contains the present-day Holocene epoch?",
+    "choices": [
+      "Quaternary",
+      "Neogene",
+      "Paleogene",
+      "Cretaceous"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which officially recognized epoch includes the present day?",
+    "choices": [
+      "Holocene",
+      "Pleistocene",
+      "Pliocene",
+      "Miocene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which epoch immediately preceded the Holocene?",
+    "choices": [
+      "Pleistocene",
+      "Pliocene",
+      "Miocene",
+      "Eocene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which period is famous for an early burst of diverse animal fossils?",
+    "choices": [
+      "Cambrian",
+      "Permian",
+      "Jurassic",
+      "Neogene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which Paleozoic period is associated with extensive coal-forming forests?",
+    "choices": [
+      "Carboniferous",
+      "Cambrian",
+      "Silurian",
+      "Ordovician"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which Paleozoic period is often nicknamed the 'age of fishes'?",
+    "choices": [
+      "Devonian",
+      "Cambrian",
+      "Permian",
+      "Carboniferous"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "During which period did the first dinosaurs appear?",
+    "choices": [
+      "Triassic",
+      "Jurassic",
+      "Cretaceous",
+      "Permian"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The end-Permian mass extinction separates the Paleozoic from which era?",
+    "choices": [
+      "Mesozoic",
+      "Cenozoic",
+      "Archean",
+      "Proterozoic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "The extinction of non-avian dinosaurs marks the boundary after which period?",
+    "choices": [
+      "Cretaceous",
+      "Jurassic",
+      "Triassic",
+      "Paleogene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which fossil marine arthropods are especially associated with Paleozoic rocks?",
+    "choices": [
+      "Trilobites",
+      "Ammonites",
+      "Belemnites",
+      "Mammoths"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Coiled ammonite shells are especially common in rocks from which era?",
+    "choices": [
+      "Mesozoic",
+      "Cenozoic",
+      "Archean",
+      "Hadean"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What is a preserved footprint or burrow classified as?",
+    "choices": [
+      "Trace fossil",
+      "Body fossil",
+      "Index mineral",
+      "Sedimentary cast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "What is a preserved bone or shell classified as?",
+    "choices": [
+      "Body fossil",
+      "Trace fossil",
+      "Index mineral",
+      "Burrow cast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Fossilized dung is called a what?",
+    "choices": [
+      "Coprolite",
+      "Stromatolite",
+      "Ammonite",
+      "Concretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A layered structure built by microbial mats is called a what?",
+    "choices": [
+      "Stromatolite",
+      "Coprolite",
+      "Ammonite",
+      "Nodule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A hollow negative imprint left by a dissolved shell is a what?",
+    "choices": [
+      "Mold",
+      "Cast",
+      "Steinkern",
+      "Concretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A positive replica formed when a fossil imprint fills with sediment is a what?",
+    "choices": [
+      "Cast",
+      "Mold",
+      "Impression",
+      "Compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A stony infill of a shell's interior is called a what?",
+    "choices": [
+      "Steinkern",
+      "Coprolite",
+      "Stromatolite",
+      "Nodule"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "What preservation process fills pores in buried wood or bone with minerals?",
+    "choices": [
+      "Permineralization",
+      "Sublimation",
+      "Evaporation",
+      "Metamorphism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "An insect trapped in fossilized tree resin is preserved in what?",
+    "choices": [
+      "Amber",
+      "Chert",
+      "Shale",
+      "Basalt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which rock type most commonly preserves ordinary fossils?",
+    "choices": [
+      "Sedimentary",
+      "Igneous",
+      "Metamorphic",
+      "Plutonic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A fossil recording behavior rather than body anatomy is most likely which?",
+    "choices": [
+      "Footprint",
+      "Tooth",
+      "Shell",
+      "Leaf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "What makes a fossil useful as a time marker across distant rock layers?",
+    "choices": [
+      "Short time range",
+      "Large body size",
+      "Bright color",
+      "Rare habitat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A fossil species widespread geographically but short-lived geologically is an what?",
+    "choices": [
+      "Index fossil",
+      "Trace fossil",
+      "Living fossil",
+      "Body fossil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Finding the same distinctive short-lived fossil in two distant beds helps geologists do what?",
+    "choices": [
+      "Correlate layers",
+      "Measure density",
+      "Map faults",
+      "Estimate rainfall"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In an undisturbed sediment stack, which layer is oldest?",
+    "choices": [
+      "Bottom",
+      "Top",
+      "Middle",
+      "Thickest"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "The rule that lower undisturbed strata are older is called what?",
+    "choices": [
+      "Superposition",
+      "Cross-cutting",
+      "Uniformitarianism",
+      "Lateral continuity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A basalt dike cuts three rock beds. Relative to those beds, the dike is what?",
+    "choices": [
+      "Younger",
+      "Older",
+      "The same age",
+      "Unrelated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The rule used to date a dike relative to rocks it slices through is what?",
+    "choices": [
+      "Cross-cutting",
+      "Superposition",
+      "Faunal succession",
+      "Original horizontality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A pebble enclosed in a conglomerate is generally what relative to its host rock?",
+    "choices": [
+      "Older",
+      "Younger",
+      "The same age",
+      "Unrelated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The age relation between fragments and the rock enclosing them follows which principle?",
+    "choices": [
+      "Inclusions",
+      "Superposition",
+      "Faunal succession",
+      "Original horizontality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Sediments are usually first deposited nearly flat under which principle?",
+    "choices": [
+      "Original horizontality",
+      "Cross-cutting",
+      "Superposition",
+      "Faunal succession"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A tilted sedimentary bed indicates deformation occurred when relative to deposition?",
+    "choices": [
+      "Afterward",
+      "Beforehand",
+      "At the same time",
+      "Never"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A gap in the rock record caused by nondeposition or erosion is a what?",
+    "choices": [
+      "Unconformity",
+      "Intrusion",
+      "Inclusion",
+      "Concretion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Flat younger beds over tilted older beds mark which kind of gap?",
+    "choices": [
+      "Angular unconformity",
+      "Disconformity",
+      "Nonconformity",
+      "Fault contact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which method assigns an age in years rather than merely earlier or later?",
+    "choices": [
+      "Radiometric dating",
+      "Superposition",
+      "Faunal succession",
+      "Cross-cutting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which term names the time for half of a radioactive parent isotope to decay?",
+    "choices": [
+      "Half-life",
+      "Residence time",
+      "Incubation time",
+      "Mean age"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "After two half-lives, what fraction of the original parent isotope remains?",
+    "choices": [
+      "One-quarter",
+      "One-half",
+      "One-eighth",
+      "Three-quarters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "After three half-lives, what fraction of the original parent isotope remains?",
+    "choices": [
+      "One-eighth",
+      "One-quarter",
+      "One-half",
+      "Three-quarters"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In radiometric dating, the decaying isotope is called the what?",
+    "choices": [
+      "Parent",
+      "Daughter",
+      "Tracer",
+      "Marker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In radiometric dating, the product of decay is called the what?",
+    "choices": [
+      "Daughter",
+      "Parent",
+      "Tracer",
+      "Marker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which isotope is used to date relatively recent once-living material?",
+    "choices": [
+      "Carbon-14",
+      "Uranium-238",
+      "Potassium-40",
+      "Rubidium-87"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which mineral is especially useful for uranium–lead dating of ancient rocks?",
+    "choices": [
+      "Zircon",
+      "Halite",
+      "Gypsum",
+      "Calcite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Why is carbon-14 unsuitable for dating a Jurassic dinosaur bone's original age?",
+    "choices": [
+      "Too much decay",
+      "Too little decay",
+      "Wrong element",
+      "No half-life"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A fossil shell in limestone and a volcanic ash layer above it allow what kind of numerical age constraint?",
+    "choices": [
+      "Minimum age",
+      "Maximum age",
+      "Exact age",
+      "No constraint"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A volcanic ash layer below a fossil bed provides what kind of numerical age constraint for the fossils?",
+    "choices": [
+      "Maximum age",
+      "Minimum age",
+      "Exact age",
+      "No constraint"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The science of rock layers and their order is called what?",
+    "choices": [
+      "Stratigraphy",
+      "Petrology",
+      "Mineralogy",
+      "Seismology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "The scientific study of ancient life through fossils is called what?",
+    "choices": [
+      "Paleontology",
+      "Petrology",
+      "Seismology",
+      "Limnology"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  }
+]

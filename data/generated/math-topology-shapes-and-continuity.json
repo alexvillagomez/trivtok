@@ -1,0 +1,662 @@
+[
+  {
+    "text": "A transformation that stretches and bends but does not tear or glue is informally called what?",
+    "choices": [
+      "Homeomorphism",
+      "Isometry",
+      "Projection",
+      "Rotation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which relationship can hold between a coffee mug with one handle and a doughnut-shaped surface?",
+    "choices": [
+      "Homeomorphism",
+      "Congruence",
+      "Similarity",
+      "Isometry"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which property can continuous stretching preserve even when distances change?",
+    "choices": [
+      "Connectedness",
+      "Area",
+      "Angle",
+      "Length"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A circle and a square outline are topologically equivalent under which kind of map?",
+    "choices": [
+      "Homeomorphism",
+      "Isometry",
+      "Reflection",
+      "Translation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which feature distinguishes a solid disk from a hollow ring topologically?",
+    "choices": [
+      "Hole",
+      "Area",
+      "Color",
+      "Perimeter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "How many holes, in the genus sense, does the surface of a doughnut have?",
+    "choices": [
+      "One",
+      "Zero",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "How many holes, in the genus sense, does the surface of a sphere have?",
+    "choices": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "How many holes, in the genus sense, does a double torus have?",
+    "choices": [
+      "Two",
+      "One",
+      "Zero",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which surface has genus one?",
+    "choices": [
+      "Torus",
+      "Sphere",
+      "Disk",
+      "Cylinder"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which closed orientable surface has Euler characteristic two?",
+    "choices": [
+      "Sphere",
+      "Torus",
+      "Double torus",
+      "Klein bottle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which closed orientable surface has Euler characteristic zero?",
+    "choices": [
+      "Torus",
+      "Sphere",
+      "Double torus",
+      "Projective plane"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What is the Euler characteristic of a double torus?",
+    "choices": [
+      "−2",
+      "0",
+      "2",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "For a polyhedral surface, which expression computes Euler characteristic?",
+    "choices": [
+      "V − E + F",
+      "V + E − F",
+      "V − E − F",
+      "V + E + F"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A cube has eight vertices, twelve edges, and six faces. What is V − E + F?",
+    "choices": [
+      "2",
+      "0",
+      "1",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A tetrahedron has four vertices, six edges, and four faces. What is V − E + F?",
+    "choices": [
+      "2",
+      "0",
+      "1",
+      "4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which property is preserved by a homeomorphism of surfaces?",
+    "choices": [
+      "Euler characteristic",
+      "Surface area",
+      "Edge length",
+      "Interior angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A strip given one half-twist before its ends are joined forms what?",
+    "choices": [
+      "Möbius strip",
+      "Cylinder",
+      "Torus",
+      "Klein bottle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How many distinct sides does a Möbius strip have?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How many boundary loops does a Möbius strip have?",
+    "choices": [
+      "One",
+      "Two",
+      "Zero",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "How many boundary loops does a simple cylinder surface have?",
+    "choices": [
+      "Two",
+      "One",
+      "Zero",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which surface has no consistent choice of 'clockwise' everywhere?",
+    "choices": [
+      "Möbius strip",
+      "Cylinder",
+      "Sphere",
+      "Torus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which closed surface is nonorientable and cannot be embedded in ordinary 3D space without self-intersection?",
+    "choices": [
+      "Klein bottle",
+      "Torus",
+      "Sphere",
+      "Ellipsoid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A solid ball can be continuously shrunk to a point within itself. What property does it have?",
+    "choices": [
+      "Contractible",
+      "Disconnected",
+      "Nonorientable",
+      "Unbounded"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "A space made of two separated circles is what?",
+    "choices": [
+      "Disconnected",
+      "Contractible",
+      "Simply connected",
+      "Dense"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which real-number interval is connected?",
+    "choices": [
+      "[0, 1]",
+      "[0, 1] ∪ [2, 3]",
+      "{0, 1}",
+      "(−∞, 0) ∪ (0, ∞)"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which real-number set is compact under the usual topology?",
+    "choices": [
+      "[0, 1]",
+      "(0, 1)",
+      "[0, ∞)",
+      "(−∞, ∞)"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "On the real line, a set that includes both endpoints of a finite interval is what?",
+    "choices": [
+      "Closed",
+      "Open",
+      "Dense",
+      "Unbounded"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "On the real line, a finite interval excluding both endpoints is what?",
+    "choices": [
+      "Open",
+      "Closed",
+      "Compact",
+      "Discrete"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which set in the real line is both open and closed?",
+    "choices": [
+      "Empty set",
+      "(0, 1)",
+      "[0, 1]",
+      "{0}"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "The complement of an open set is always what?",
+    "choices": [
+      "Closed",
+      "Open",
+      "Dense",
+      "Connected"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "The complement of a closed set is always what?",
+    "choices": [
+      "Open",
+      "Closed",
+      "Compact",
+      "Connected"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "What property is preserved under arbitrary unions of sets whose complements are closed?",
+    "choices": [
+      "Open",
+      "Closed",
+      "Compact",
+      "Connected"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A finite union of sets that each contain all their limit points retains which property?",
+    "choices": [
+      "Closed",
+      "Open",
+      "Dense",
+      "Unbounded"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which infinite intersection of open intervals is not open on the real line?",
+    "choices": [
+      "{0}",
+      "(0, 1)",
+      "(−1, 1)",
+      "Empty set"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A point is on a set's boundary if every nearby interval meets both the set and what?",
+    "choices": [
+      "Its complement",
+      "Its center",
+      "Its midpoint",
+      "Its closure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "The smallest closed set containing a given set is its what?",
+    "choices": [
+      "Closure",
+      "Interior",
+      "Boundary",
+      "Complement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "The largest open set contained in a given set is its what?",
+    "choices": [
+      "Interior",
+      "Closure",
+      "Boundary",
+      "Complement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A set with every point isolated, such as the integers in the real line, is what?",
+    "choices": [
+      "Discrete",
+      "Dense",
+      "Connected",
+      "Compact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which subset is dense in the real numbers?",
+    "choices": [
+      "Rationals",
+      "Integers",
+      "Even integers",
+      "Natural numbers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A set whose closure is the whole space is called what?",
+    "choices": [
+      "Dense",
+      "Open",
+      "Closed",
+      "Compact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A function that maps nearby inputs to nearby outputs without jumps is what?",
+    "choices": [
+      "Continuous",
+      "Injective",
+      "Surjective",
+      "Periodic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "If a continuous map takes a single-piece domain to an image, that image must also be what?",
+    "choices": [
+      "Connected",
+      "Closed",
+      "Open",
+      "Bounded"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A continuous map takes a closed, bounded interval in the real line to a set. What property must its image have?",
+    "choices": [
+      "Compact",
+      "Open",
+      "Infinite",
+      "Discrete"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "A continuous bijection with a continuous inverse is a what?",
+    "choices": [
+      "Homeomorphism",
+      "Isometry",
+      "Homomorphism",
+      "Embedding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "A rigid rotation preserves distance and is specifically what?",
+    "choices": [
+      "Isometry",
+      "Homeomorphism only",
+      "Projection",
+      "Dilation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which term describes a path in a space beginning and ending at the same point?",
+    "choices": [
+      "Loop",
+      "Arc",
+      "Ray",
+      "Geodesic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which space has a loop around a central hole that cannot shrink within the space to one point?",
+    "choices": [
+      "Circle",
+      "Disk",
+      "Sphere",
+      "Plane"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A space in which every loop can contract to a point is what?",
+    "choices": [
+      "Simply connected",
+      "Disconnected",
+      "Nonorientable",
+      "Discrete"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "Which planar region is not simply connected?",
+    "choices": [
+      "Annulus",
+      "Disk",
+      "Half-plane",
+      "Rectangle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "A path joining any two points makes a space what?",
+    "choices": [
+      "Path-connected",
+      "Compact",
+      "Closed",
+      "Discrete"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "The topological feature that distinguishes a sphere from a torus is its what?",
+    "choices": [
+      "Genus",
+      "Area",
+      "Curvature sign",
+      "Radius"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A torus has how many boundary components?",
+    "choices": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A disk has how many boundary components?",
+    "choices": [
+      "One",
+      "Zero",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A continuous deformation of one loop into another is a what?",
+    "choices": [
+      "Homotopy",
+      "Homeomorphism",
+      "Isometry",
+      "Projection"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which surface can be cut along a central loop to yield a single longer band?",
+    "choices": [
+      "Möbius strip",
+      "Cylinder",
+      "Torus",
+      "Sphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "The boundary of a filled disk is topologically what?",
+    "choices": [
+      "Circle",
+      "Interval",
+      "Sphere",
+      "Point"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which shape has no boundary as a two-dimensional surface?",
+    "choices": [
+      "Sphere",
+      "Disk",
+      "Cylinder",
+      "Möbius strip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which quantity cannot change under a homeomorphism: the number of connected what?",
+    "choices": [
+      "Components",
+      "Edges",
+      "Corners",
+      "Angles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "A continuous path tracing a circle once and returning to its start is a what?",
+    "choices": [
+      "Loop",
+      "Ray",
+      "Segment",
+      "Chord"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which familiar surface can be made by identifying opposite sides of a rectangle without twisting?",
+    "choices": [
+      "Torus",
+      "Sphere",
+      "Disk",
+      "Möbius strip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  }
+]

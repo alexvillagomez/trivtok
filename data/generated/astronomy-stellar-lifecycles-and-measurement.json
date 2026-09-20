@@ -1,0 +1,662 @@
+[
+  {
+    "text": "In a stable hydrogen-burning star, outward pressure chiefly balances which inward force?",
+    "choices": [
+      "Gravity",
+      "Magnetism",
+      "Radiation",
+      "Friction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A star spending most of its lifetime fusing hydrogen in its core lies on which H–R diagram band?",
+    "choices": [
+      "Main sequence",
+      "Giant branch",
+      "White dwarf track",
+      "Instability strip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which element is the principal product of hydrogen fusion in a Sun-like star's core?",
+    "choices": [
+      "Helium",
+      "Carbon",
+      "Oxygen",
+      "Neon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Compared with a low-mass star, a very massive star typically uses its nuclear fuel at what rate?",
+    "choices": [
+      "Faster",
+      "Slower",
+      "The same",
+      "Not at all"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A gas cloud collapsing into a star is called a what before sustained core fusion begins?",
+    "choices": [
+      "Protostar",
+      "Red giant",
+      "White dwarf",
+      "Neutron star"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What physical quantity is plotted vertically on a conventional H–R diagram?",
+    "choices": [
+      "Luminosity",
+      "Distance",
+      "Age",
+      "Mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "On a conventional H–R diagram, which side contains hotter stars?",
+    "choices": [
+      "Left",
+      "Right",
+      "Top",
+      "Bottom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Where on a conventional H–R diagram would a hot but dim white dwarf appear?",
+    "choices": [
+      "Lower left",
+      "Upper left",
+      "Lower right",
+      "Upper right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Where on a conventional H–R diagram would a cool but luminous red giant appear?",
+    "choices": [
+      "Upper right",
+      "Lower right",
+      "Upper left",
+      "Lower left"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which stellar property does spectral class most directly track?",
+    "choices": [
+      "Temperature",
+      "Distance",
+      "Age",
+      "Mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which spectral class is hotter than B, A, F, G, K, and M?",
+    "choices": [
+      "O",
+      "B",
+      "A",
+      "F"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which spectral class contains the Sun?",
+    "choices": [
+      "G",
+      "F",
+      "K",
+      "M"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which visible-light color usually marks the hotter stellar surface?",
+    "choices": [
+      "Blue",
+      "Red",
+      "Yellow",
+      "Orange"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "What kind of spectrum shows dark lines where cooler gas absorbs selected wavelengths?",
+    "choices": [
+      "Absorption",
+      "Emission",
+      "Continuous",
+      "Thermal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "What kind of spectrum shows bright lines at specific wavelengths from excited gas?",
+    "choices": [
+      "Emission",
+      "Absorption",
+      "Continuous",
+      "Blackbody"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A unique pattern of spectral lines is most useful for identifying a star's what?",
+    "choices": [
+      "Elements",
+      "Distance",
+      "Diameter",
+      "Age"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "If stellar spectral lines shift toward shorter wavelengths, the star is moving in which direction relative to us?",
+    "choices": [
+      "Toward us",
+      "Away from us",
+      "Across our view",
+      "Not moving"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "If stellar spectral lines shift toward longer wavelengths, the star is moving in which direction relative to us?",
+    "choices": [
+      "Away from us",
+      "Toward us",
+      "Across our view",
+      "Not moving"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The periodic wobble of a nearby star's spectral lines can reveal an unseen companion by which effect?",
+    "choices": [
+      "Doppler shift",
+      "Parallax",
+      "Refraction",
+      "Diffraction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What apparent sky motion provides a geometric distance measurement for nearby stars?",
+    "choices": [
+      "Parallax",
+      "Precession",
+      "Scintillation",
+      "Aberration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "In annual stellar parallax, Earth is observed from opposite sides of which orbit?",
+    "choices": [
+      "Earth's",
+      "Moon's",
+      "Jupiter's",
+      "Sun's"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "At equal observational precision, which parallax angle indicates the more distant star?",
+    "choices": [
+      "Smaller angle",
+      "Larger angle",
+      "Either angle",
+      "Zero angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A star with a parallax of one arcsecond lies one what away?",
+    "choices": [
+      "Parsec",
+      "Light-year",
+      "Astronomical unit",
+      "Kilometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which unit is about 3.26 light-years?",
+    "choices": [
+      "Parsec",
+      "Astronomical unit",
+      "Arcsecond",
+      "Solar radius"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "A star's brightness as seen from Earth is described by which magnitude?",
+    "choices": [
+      "Apparent",
+      "Absolute",
+      "Bolometric",
+      "Photographic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which magnitude compares stellar brightness as if every star were 10 parsecs away?",
+    "choices": [
+      "Absolute",
+      "Apparent",
+      "Visual",
+      "Instrumental"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "On the stellar magnitude scale, which numerical value indicates a brighter object?",
+    "choices": [
+      "Lower",
+      "Higher",
+      "Equal",
+      "Negative only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Two identical stars have different apparent brightness because one lies farther away. Which property is unchanged?",
+    "choices": [
+      "Luminosity",
+      "Flux",
+      "Parallax",
+      "Apparent magnitude"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which stellar quantity is the total power a star emits, rather than what reaches one telescope?",
+    "choices": [
+      "Luminosity",
+      "Flux",
+      "Magnitude",
+      "Intensity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A Cepheid's pulsation period helps estimate which intrinsic property?",
+    "choices": [
+      "Luminosity",
+      "Composition",
+      "Spin axis",
+      "Metallicity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Between two otherwise similar Cepheids, which pulsation period corresponds to greater intrinsic brightness?",
+    "choices": [
+      "Longer",
+      "Shorter",
+      "Equal",
+      "Irregular"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Once a Cepheid's intrinsic brightness is known, comparing it with its observed brightness yields what?",
+    "choices": [
+      "Distance",
+      "Mass",
+      "Age",
+      "Rotation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which stage follows the main sequence as the Sun's core hydrogen runs out and its outer layers expand?",
+    "choices": [
+      "Red giant",
+      "White dwarf",
+      "Neutron star",
+      "Black hole"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "When a Sun-like star sheds its outer layers, the glowing shell is called a what?",
+    "choices": [
+      "Planetary nebula",
+      "Supernova remnant",
+      "Molecular cloud",
+      "Accretion disk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Despite its name, a planetary nebula comes from which kind of object?",
+    "choices": [
+      "Dying star",
+      "Young planet",
+      "Comet tail",
+      "Active galaxy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "After shedding its outer envelope, the Sun will leave behind which remnant?",
+    "choices": [
+      "White dwarf",
+      "Neutron star",
+      "Black hole",
+      "Brown dwarf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What chiefly supports a white dwarf against further collapse?",
+    "choices": [
+      "Electron degeneracy",
+      "Hydrogen fusion",
+      "Radiation pressure",
+      "Magnetic tension"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "A white dwarf radiates leftover heat but has stopped which core process?",
+    "choices": [
+      "Fusion",
+      "Convection",
+      "Rotation",
+      "Gravity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A massive star's explosive collapse can leave which compact remnant made mostly of neutrons?",
+    "choices": [
+      "Neutron star",
+      "White dwarf",
+      "Brown dwarf",
+      "Red dwarf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "What event ejects much of a massive star's outer material after its core collapses?",
+    "choices": [
+      "Supernova",
+      "Nova",
+      "Solar flare",
+      "Coronal burst"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which stellar remnant can form if a collapsing massive core overwhelms neutron-star support?",
+    "choices": [
+      "Black hole",
+      "White dwarf",
+      "Red giant",
+      "Brown dwarf"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A rapidly rotating neutron star whose beam repeatedly sweeps Earth is a what?",
+    "choices": [
+      "Pulsar",
+      "Quasar",
+      "Protostar",
+      "Cepheid"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which kind of binary consists of one star repeatedly passing in front of the other from Earth's viewpoint?",
+    "choices": [
+      "Eclipsing",
+      "Spectroscopic",
+      "Visual",
+      "Astrometric"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A binary revealed by periodic shifts in spectral lines is called what?",
+    "choices": [
+      "Spectroscopic",
+      "Eclipsing",
+      "Visual",
+      "Contact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A star appears to change brightness because its companion blocks part of it. What is the cause?",
+    "choices": [
+      "Eclipse",
+      "Pulsation",
+      "Flare",
+      "Rotation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which stellar property is often found from the orbital motion of both stars in a binary system?",
+    "choices": [
+      "Mass",
+      "Color",
+      "Temperature",
+      "Composition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "What name describes the outer atmosphere of a star visible as an extended halo during a total solar eclipse?",
+    "choices": [
+      "Corona",
+      "Photosphere",
+      "Chromosphere",
+      "Radiative zone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "The visible surface from which most of the Sun's light escapes is called the what?",
+    "choices": [
+      "Photosphere",
+      "Corona",
+      "Core",
+      "Chromosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which part of the Sun reaches the temperatures needed for sustained hydrogen fusion?",
+    "choices": [
+      "Core",
+      "Corona",
+      "Photosphere",
+      "Chromosphere"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "A star's spectrum displays a repeating set of hydrogen lines. What laboratory comparison identifies them?",
+    "choices": [
+      "Wavelengths",
+      "Distances",
+      "Magnitudes",
+      "Parallaxes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Why does a larger telescope generally reveal dimmer stars: it collects more what?",
+    "choices": [
+      "Light",
+      "Heat",
+      "Sound",
+      "Gravity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.25
+  },
+  {
+    "text": "Which device splits starlight into wavelengths to reveal absorption lines?",
+    "choices": [
+      "Spectrograph",
+      "Photometer",
+      "Interferometer",
+      "Coronagraph"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which device is used primarily to measure how much light arrives from a star?",
+    "choices": [
+      "Photometer",
+      "Spectrograph",
+      "Radio dish",
+      "Coronagraph"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A star's color can estimate its surface temperature because its radiation follows what broad type of spectrum?",
+    "choices": [
+      "Thermal",
+      "Line",
+      "Laser",
+      "Synchrotron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "On an H–R diagram, a star that becomes cooler at similar luminosity moves primarily which way?",
+    "choices": [
+      "Right",
+      "Left",
+      "Up",
+      "Down"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "On an H–R diagram, a star that becomes more luminous at similar temperature moves primarily which way?",
+    "choices": [
+      "Up",
+      "Down",
+      "Left",
+      "Right"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "What is the first sustained nuclear fuel in an ordinary star's core?",
+    "choices": [
+      "Hydrogen",
+      "Helium",
+      "Carbon",
+      "Oxygen"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "Which kind of star is most likely to end as a white dwarf rather than undergo core collapse?",
+    "choices": [
+      "Low-mass star",
+      "Massive star",
+      "Blue supergiant",
+      "Wolf–Rayet star"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A star's apparent brightness falls to one quarter when its distance is multiplied by what factor?",
+    "choices": [
+      "Two",
+      "Four",
+      "Three",
+      "Eight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Why can a nearby dim star look brighter than a distant luminous one?",
+    "choices": [
+      "Distance",
+      "Temperature",
+      "Composition",
+      "Spin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  }
+]

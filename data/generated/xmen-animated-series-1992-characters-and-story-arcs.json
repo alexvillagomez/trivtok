@@ -1,0 +1,662 @@
+[
+  {
+    "text": "In what year did the original X-Men animated series begin airing?",
+    "choices": [
+      "1992",
+      "1988",
+      "1996",
+      "2000"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "How many seasons did the original 1990s X-Men animated series run?",
+    "choices": [
+      "Five",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "How many episodes make up the original X-Men animated series according to Marvel's guide?",
+    "choices": [
+      "76",
+      "52",
+      "65",
+      "100"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which mutant mentors the team at his academy in the 1992 X-Men cartoon?",
+    "choices": [
+      "Charles Xavier",
+      "Erik Lehnsherr",
+      "Nathan Summers",
+      "Hank McCoy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which young mutant becomes the viewer's entry point in the opening two episodes of the 1992 series?",
+    "choices": [
+      "Jubilee",
+      "Kitty Pryde",
+      "Rogue",
+      "Jean Grey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What is the two-part premiere of the 1992 X-Men cartoon called?",
+    "choices": [
+      "Night of the Sentinels",
+      "Days of Future Past",
+      "The Phoenix Saga",
+      "Beyond Good and Evil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Where does Jubilee first encounter a mutant-hunting robot in the series premiere?",
+    "choices": [
+      "Shopping mall",
+      "School gym",
+      "Train station",
+      "Baseball stadium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In the premiere, which mutant's fireworks-like power draws hostile attention?",
+    "choices": [
+      "Jubilee",
+      "Storm",
+      "Jean Grey",
+      "Rogue"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "In the premiere, what kind of records does the team raid a government agency to destroy?",
+    "choices": [
+      "Mutant registrations",
+      "Medical bills",
+      "Military orders",
+      "Election ballots"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which agency's files do the team infiltrate in the two-part premiere?",
+    "choices": [
+      "Mutant Control Agency",
+      "Weapon X",
+      "S.H.I.E.L.D.",
+      "Department H"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which official heads that government agency in the 1992 series premiere?",
+    "choices": [
+      "Henry Gyrich",
+      "Bolivar Trask",
+      "Robert Kelly",
+      "William Stryker"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which engineer creates the giant robots used in the series premiere?",
+    "choices": [
+      "Bolivar Trask",
+      "Henry Gyrich",
+      "Robert Kelly",
+      "Nathaniel Essex"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which politician supports the anti-mutant agency early in the 1992 series?",
+    "choices": [
+      "Robert Kelly",
+      "Henry Gyrich",
+      "Bolivar Trask",
+      "Nick Fury"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which shape-shifting teammate is apparently killed during the raid in the premiere?",
+    "choices": [
+      "Morph",
+      "Mystique",
+      "Beast",
+      "Gambit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which teammate is captured and imprisoned during the premiere's agency raid?",
+    "choices": [
+      "Beast",
+      "Cyclops",
+      "Wolverine",
+      "Gambit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which weather-controlling teammate helps recruit Jubilee after the mall attack?",
+    "choices": [
+      "Storm",
+      "Rogue",
+      "Jean Grey",
+      "Mystique"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Where is the team's home base in the original animated series?",
+    "choices": [
+      "Xavier's mansion",
+      "Avengers Tower",
+      "Baxter Building",
+      "Asteroid M"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which mutant is also called Scott Summers in the 1992 series?",
+    "choices": [
+      "Cyclops",
+      "Gambit",
+      "Wolverine",
+      "Beast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which team leader fires energy beams from his eyes in the 1992 series?",
+    "choices": [
+      "Cyclops",
+      "Gambit",
+      "Bishop",
+      "Cable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which teammate controls the weather in the original animated series?",
+    "choices": [
+      "Storm",
+      "Jean Grey",
+      "Rogue",
+      "Jubilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which teammate can absorb another person's abilities and memories by touch?",
+    "choices": [
+      "Rogue",
+      "Jean Grey",
+      "Storm",
+      "Jubilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which teammate charges playing cards with explosive energy in the 1992 series?",
+    "choices": [
+      "Gambit",
+      "Cyclops",
+      "Beast",
+      "Bishop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which teammate has an adamantium skeleton and a rapid healing ability?",
+    "choices": [
+      "Wolverine",
+      "Sabretooth",
+      "Beast",
+      "Juggernaut"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "What metal coats Wolverine's skeleton in the 1992 series?",
+    "choices": [
+      "Adamantium",
+      "Vibranium",
+      "Titanium",
+      "Uru"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which name does Wolverine also use in the original animated series?",
+    "choices": [
+      "Logan",
+      "Scott",
+      "Remy",
+      "Hank"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which teammate is both telepathic and telekinetic in the 1992 series?",
+    "choices": [
+      "Jean Grey",
+      "Rogue",
+      "Storm",
+      "Jubilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which teammate combines great intellect with acrobatic strength and blue fur?",
+    "choices": [
+      "Beast",
+      "Gambit",
+      "Cyclops",
+      "Wolverine"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which teammate can change appearance to impersonate others?",
+    "choices": [
+      "Morph",
+      "Rogue",
+      "Storm",
+      "Bishop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which mentor uses telepathy to guide the team from his academy?",
+    "choices": [
+      "Professor X",
+      "Magneto",
+      "Mister Sinister",
+      "Apocalypse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which foe manipulates magnetism and repeatedly clashes with the team?",
+    "choices": [
+      "Magneto",
+      "Apocalypse",
+      "Sabretooth",
+      "Mister Sinister"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which clawed rival of Wolverine appears early in the 1992 cartoon?",
+    "choices": [
+      "Sabretooth",
+      "Juggernaut",
+      "Bishop",
+      "Colossus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which enemy is the armored, unstoppable brute who clashes with the team?",
+    "choices": [
+      "Juggernaut",
+      "Magneto",
+      "Apocalypse",
+      "Mister Sinister"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which villain commands a group called the Horsemen in the animated adaptations?",
+    "choices": [
+      "Apocalypse",
+      "Magneto",
+      "Mister Sinister",
+      "Sabretooth"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which geneticist is tied to the start of the animated show's second season?",
+    "choices": [
+      "Mister Sinister",
+      "Bolivar Trask",
+      "Henry Gyrich",
+      "Apocalypse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which adversary confronts Wolverine at the start of the third season's comic adaptation?",
+    "choices": [
+      "Lady Deathstrike",
+      "Mystique",
+      "Dark Phoenix",
+      "Callisto"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Which team member is central to the animated show's Phoenix storyline?",
+    "choices": [
+      "Jean Grey",
+      "Storm",
+      "Rogue",
+      "Jubilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "What name marks Jean Grey's dangerous transformation in a major animated arc?",
+    "choices": [
+      "Dark Phoenix",
+      "White Queen",
+      "Scarlet Witch",
+      "Shadow King"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which future traveler features in the show's version of Days of Future Past?",
+    "choices": [
+      "Bishop",
+      "Gambit",
+      "Beast",
+      "Cyclops"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "What kind of timeline drives Days of Future Past in the animated series?",
+    "choices": [
+      "Dystopian future",
+      "Ancient past",
+      "Parallel present",
+      "Dream world"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which robot program hunts mutants across the 1990s animated series?",
+    "choices": [
+      "Sentinels",
+      "Ultrons",
+      "Doombots",
+      "Reavers"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which villain attacks a chemical plant during an early clash with Storm and Cyclops?",
+    "choices": [
+      "Magneto",
+      "Apocalypse",
+      "Mister Sinister",
+      "Juggernaut"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which teammate briefly takes Cyclops's eye beams after absorbing his power in an early fight?",
+    "choices": [
+      "Rogue",
+      "Storm",
+      "Jean Grey",
+      "Jubilee"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which teen mutant is targeted at an arcade in the series premiere?",
+    "choices": [
+      "Jubilee",
+      "Kitty Pryde",
+      "Rogue",
+      "Jean Grey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which teammate is jailed long enough to miss much of the first season?",
+    "choices": [
+      "Beast",
+      "Gambit",
+      "Storm",
+      "Cyclops"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which foe's attacks fuel Senator Kelly's anti-mutant presidential campaign early on?",
+    "choices": [
+      "Magneto",
+      "Juggernaut",
+      "Apocalypse",
+      "Mister Sinister"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What species of techno-organic invaders attacks the team late in the original series?",
+    "choices": [
+      "Phalanx",
+      "Shi'ar",
+      "Kree",
+      "Skrulls"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which 1992 Marvel comic directly adapted episodes of the cartoon starring Professor Xavier's team?",
+    "choices": [
+      "X-Men Adventures",
+      "X-Force",
+      "New Mutants",
+      "Excalibur"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which year did the tie-in comic's second series begin?",
+    "choices": [
+      "1994",
+      "1992",
+      "1996",
+      "1998"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which year did the tie-in comic's third series begin?",
+    "choices": [
+      "1995",
+      "1991",
+      "1993",
+      "1997"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Which 1996 Marvel comic continued the adventures of Professor Xavier's animated team?",
+    "choices": [
+      "Adventures of the X-Men",
+      "X-Men Unlimited",
+      "Generation X",
+      "Excalibur"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "Which 2024 series continues the world of the 1992 cartoon featuring Professor Xavier, Storm, and Cyclops?",
+    "choices": [
+      "X-Men '97",
+      "X-Men Evolution",
+      "Wolverine and the X-Men",
+      "Ultimate Spider-Man"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which streaming service carries the original 1990s series in Marvel's viewing guide?",
+    "choices": [
+      "Disney+",
+      "Netflix",
+      "Hulu",
+      "Max"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "How many episodes were announced for the first season of the 2024 continuation?",
+    "choices": [
+      "Ten",
+      "Six",
+      "Eight",
+      "Twelve"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which actor supplied Rogue's Southern voice in the original cartoon?",
+    "choices": [
+      "Lenore Zann",
+      "Alyson Court",
+      "Catherine Disher",
+      "Alison Sealy-Smith"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which team member's original voice is especially associated with the phrase 'sugah'?",
+    "choices": [
+      "Rogue",
+      "Storm",
+      "Jubilee",
+      "Jean Grey"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which comic arc involving Jean Grey was adapted by the 1990s animated show?",
+    "choices": [
+      "Dark Phoenix Saga",
+      "Civil War",
+      "Infinity Gauntlet",
+      "Secret Wars"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which comic arc involving a Sentinel-ruled future was adapted by the cartoon?",
+    "choices": [
+      "Days of Future Past",
+      "House of M",
+      "Secret Invasion",
+      "Planet Hulk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which other time traveler appears in Marvel's animated-series adaptations besides Bishop?",
+    "choices": [
+      "Cable",
+      "Gambit",
+      "Cyclops",
+      "Beast"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which hero is imprisoned after the team's first raid but later becomes a public advocate for mutants?",
+    "choices": [
+      "Beast",
+      "Gambit",
+      "Wolverine",
+      "Morph"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Which 1990s X-Men character is the scientist Hank McCoy?",
+    "choices": [
+      "Beast",
+      "Cyclops",
+      "Gambit",
+      "Bishop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "text": "A mixture of two or more elements with at least one metal is a what?",
+    "choices": [
+      "Alloy",
+      "Ceramic",
+      "Polymer",
+      "Composite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which element is the principal metal in ordinary steel?",
+    "choices": [
+      "Iron",
+      "Copper",
+      "Aluminum",
+      "Nickel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "Which nonmetal is chiefly added to iron to make steel?",
+    "choices": [
+      "Carbon",
+      "Sulfur",
+      "Silicon",
+      "Phosphorus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Bronze is traditionally an alloy of copper and which metal?",
+    "choices": [
+      "Tin",
+      "Zinc",
+      "Nickel",
+      "Aluminum"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Brass is traditionally an alloy of copper and which metal?",
+    "choices": [
+      "Zinc",
+      "Tin",
+      "Nickel",
+      "Iron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which element helps stainless steel form a protective oxide film?",
+    "choices": [
+      "Chromium",
+      "Carbon",
+      "Sulfur",
+      "Tin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "A metal that can be drawn into wire has which property?",
+    "choices": [
+      "Ductility",
+      "Brittleness",
+      "Hardness",
+      "Porosity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "A metal that can be hammered into sheets has which property?",
+    "choices": [
+      "Malleability",
+      "Ductility",
+      "Brittleness",
+      "Elasticity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A material that resists indentation has high what?",
+    "choices": [
+      "Hardness",
+      "Ductility",
+      "Toughness",
+      "Porosity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A material that absorbs much energy before fracturing has high what?",
+    "choices": [
+      "Toughness",
+      "Hardness",
+      "Stiffness",
+      "Conductivity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A material that breaks with little plastic deformation is what?",
+    "choices": [
+      "Brittle",
+      "Ductile",
+      "Malleable",
+      "Elastic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Deformation that disappears when a load is removed is what?",
+    "choices": [
+      "Elastic",
+      "Plastic",
+      "Viscous",
+      "Creep"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Deformation that remains after a load is removed is what?",
+    "choices": [
+      "Plastic",
+      "Elastic",
+      "Thermal",
+      "Acoustic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Force per unit cross-sectional area inside a loaded material is called what?",
+    "choices": [
+      "Stress",
+      "Strain",
+      "Stiffness",
+      "Toughness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Relative change in length under load is called what?",
+    "choices": [
+      "Strain",
+      "Stress",
+      "Hardness",
+      "Yield"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which property describes resistance to elastic stretching?",
+    "choices": [
+      "Stiffness",
+      "Ductility",
+      "Toughness",
+      "Porosity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The stress at which permanent deformation begins is called what point?",
+    "choices": [
+      "Yield",
+      "Fracture",
+      "Melting",
+      "Boiling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A beam pulled lengthwise is mainly under which loading?",
+    "choices": [
+      "Tension",
+      "Compression",
+      "Shear",
+      "Torsion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A column squeezed lengthwise is mainly under which loading?",
+    "choices": [
+      "Compression",
+      "Tension",
+      "Shear",
+      "Torsion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Two adjacent layers sliding relative to each other experience what loading?",
+    "choices": [
+      "Shear",
+      "Tension",
+      "Compression",
+      "Torsion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A shaft twisted about its length experiences what loading?",
+    "choices": [
+      "Torsion",
+      "Shear",
+      "Tension",
+      "Compression"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Failure after many repeated load cycles is called what?",
+    "choices": [
+      "Fatigue",
+      "Creep",
+      "Quenching",
+      "Annealing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Slow deformation under a sustained load, especially at high temperature, is what?",
+    "choices": [
+      "Creep",
+      "Fatigue",
+      "Fracture",
+      "Quenching"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "What term describes a material built from a matrix plus a reinforcing phase?",
+    "choices": [
+      "Composite",
+      "Alloy",
+      "Ceramic",
+      "Polymer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In reinforced concrete, steel bars mainly improve resistance to what?",
+    "choices": [
+      "Tension",
+      "Compression",
+      "Heat",
+      "Water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In a fiber-reinforced composite, what carries much of the tensile load?",
+    "choices": [
+      "Fibers",
+      "Matrix",
+      "Voids",
+      "Coating"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "In a fiber-reinforced composite, what binds and transfers load between fibers?",
+    "choices": [
+      "Matrix",
+      "Filler",
+      "Pigment",
+      "Pore"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which common building material combines cement paste with sand and gravel?",
+    "choices": [
+      "Concrete",
+      "Mortar",
+      "Asphalt",
+      "Plaster"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which ingredient is absent from ordinary mortar but present in typical concrete?",
+    "choices": [
+      "Coarse aggregate",
+      "Cement",
+      "Water",
+      "Sand"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A large molecule built from repeating small units is a what?",
+    "choices": [
+      "Polymer",
+      "Monomer",
+      "Alloy",
+      "Crystal"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "The small repeating building block of a polymer is a what?",
+    "choices": [
+      "Monomer",
+      "Polymer",
+      "Oligomer",
+      "Cross-link"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Turning monomers into long chains is called what?",
+    "choices": [
+      "Polymerization",
+      "Crystallization",
+      "Vulcanization",
+      "Passivation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which plastic generally softens upon reheating and can be remolded?",
+    "choices": [
+      "Thermoplastic",
+      "Thermoset",
+      "Ceramic",
+      "Elastomer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which polymer class forms a permanent cross-linked network when cured?",
+    "choices": [
+      "Thermoset",
+      "Thermoplastic",
+      "Fiber",
+      "Monomer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Cross-links between polymer chains usually make remelting what?",
+    "choices": [
+      "Difficult",
+      "Easy",
+      "Automatic",
+      "Unnecessary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which polymer class stretches and springs back like rubber?",
+    "choices": [
+      "Elastomer",
+      "Thermoset",
+      "Ceramic",
+      "Glass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Treating rubber with sulfur to improve its elasticity is called what?",
+    "choices": [
+      "Vulcanization",
+      "Polymerization",
+      "Annealing",
+      "Passivation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which polymer is formed by joining ethene units?",
+    "choices": [
+      "Polyethylene",
+      "Polypropylene",
+      "Polystyrene",
+      "Polycarbonate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which polymer is formed by joining propene units?",
+    "choices": [
+      "Polypropylene",
+      "Polyethylene",
+      "Polystyrene",
+      "Polycarbonate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which plastic has chlorine in its repeating units and is often abbreviated PVC?",
+    "choices": [
+      "Polyvinyl chloride",
+      "Polyethylene",
+      "Polypropylene",
+      "Polystyrene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which polymer family contains amide links and includes many textile fibers?",
+    "choices": [
+      "Nylon",
+      "Silicone",
+      "Teflon",
+      "Polyethylene"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which temperature marks the softening of an amorphous polymer's glassy regions?",
+    "choices": [
+      "Glass transition",
+      "Melting point",
+      "Boiling point",
+      "Flash point"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "A solid whose atoms repeat in an ordered pattern is what?",
+    "choices": [
+      "Crystalline",
+      "Amorphous",
+      "Polymeric",
+      "Porous"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A solid lacking long-range atomic order is what?",
+    "choices": [
+      "Amorphous",
+      "Crystalline",
+      "Metallic",
+      "Laminated"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Ordinary window glass is chiefly an amorphous form of which compound?",
+    "choices": [
+      "Silica",
+      "Alumina",
+      "Limestone",
+      "Graphite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which broad materials class often resists heat but fractures without much deformation?",
+    "choices": [
+      "Ceramics",
+      "Elastomers",
+      "Pure metals",
+      "Thermoplastics"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A crack spreading suddenly through a ceramic reflects its low what?",
+    "choices": [
+      "Fracture toughness",
+      "Compressive strength",
+      "Melting point",
+      "Electrical resistance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Heating and slowly cooling a metal to soften it is called what?",
+    "choices": [
+      "Annealing",
+      "Quenching",
+      "Tempering",
+      "Sintering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Rapidly cooling hot steel to harden it is called what?",
+    "choices": [
+      "Quenching",
+      "Annealing",
+      "Tempering",
+      "Sintering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Reheating hardened steel moderately to reduce brittleness is called what?",
+    "choices": [
+      "Tempering",
+      "Quenching",
+      "Annealing",
+      "Sintering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Pressing and heating powder particles so they bond without fully melting is what?",
+    "choices": [
+      "Sintering",
+      "Quenching",
+      "Extrusion",
+      "Casting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Pouring molten material into a shaped mold is what process?",
+    "choices": [
+      "Casting",
+      "Extrusion",
+      "Forging",
+      "Rolling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Forcing material through a shaped opening is what process?",
+    "choices": [
+      "Extrusion",
+      "Casting",
+      "Forging",
+      "Sintering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Shaping metal by compressive blows or presses is called what?",
+    "choices": [
+      "Forging",
+      "Casting",
+      "Extrusion",
+      "Sintering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Silicon is widely used in chips because it belongs to which electrical class?",
+    "choices": [
+      "Semiconductor",
+      "Conductor",
+      "Insulator",
+      "Superconductor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Adding small amounts of impurities to tune a semiconductor is what?",
+    "choices": [
+      "Doping",
+      "Quenching",
+      "Sintering",
+      "Vulcanizing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In an n-type semiconductor, the majority charge carriers are what?",
+    "choices": [
+      "Electrons",
+      "Holes",
+      "Photons",
+      "Protons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "In a p-type semiconductor, the majority charge carriers are what?",
+    "choices": [
+      "Holes",
+      "Electrons",
+      "Photons",
+      "Neutrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which material class has an electrical resistance that can drop to zero below a critical temperature?",
+    "choices": [
+      "Superconductor",
+      "Semiconductor",
+      "Ceramic",
+      "Dielectric"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A protective oxide film that slows further metal corrosion is called what?",
+    "choices": [
+      "Passivation",
+      "Vulcanization",
+      "Sintering",
+      "Polymerization"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  }
+]

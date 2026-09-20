@@ -36,10 +36,20 @@ asserts they agree to 1e-9. Any model change must land in BOTH lib/rec and the S
 - **Step 1–3 — priority** (`rec/priority.ts`): each user has semantic interest
   vectors `c_m ∈ R^64` with a strength. Activation is a fixed-weight linear
   readout (`P_jᵀ S_t` with hand-set weights — the learnable form is the ML
-  roadmap): `A_j = strength + w_f·freshRaw − w_x·fatigue + w_l·likeAdj`, where
-  `likeAdj` is the shrunk, session-mean-centered within-interest like rate (how
+  roadmap): `A_j = strength + w_f·freshRaw − w_x·fatigue + w_l·likeAdj + w_m·momentum`,
+  where `likeAdj` is the shrunk, session-mean-centered within-interest like rate (how
   well cluster j is landing *this session* vs the user's session average, neutral
-  when there's no signal). Softmax → **sample** one primary interest (not argmax)
+  when there's no signal). `momentum` is the **worn-out mechanism** (`0011`): a
+  recent-engagement trace, the short-timescale counterpart to `strength`. Strength
+  stays high to remember a long-term preference (so a topic can return), so it
+  can't also encode "I'm tired of this now" — momentum carries that, EMA'd toward
+  each interaction's engagement (`MOMENTUM_LR`) and decayed toward 0 over wall-clock
+  idle time (`MOMENTUM_TAU_HOURS ≈ 168h`, ~4.85-day half-life). Its weight is
+  deliberately loud (`w_m = 3.0`): a currently-skipped topic goes negative and loses
+  the sample regardless of strength, then, left dormant, the penalty decays so the
+  topic re-surfaces for a re-test "at a better time". Tune it offline on synthetic
+  love→worn-out→recovery data with `scripts/try-momentum.ts`.
+  Softmax → **sample** one primary interest (not argmax)
   → blend a few compatible secondaries → `p_t = normalize(c_* + α Σ β_j c_j)`.
   Exploration is an **adaptive** roll — `p_explore = clamp(base + w_s·skipRate −
   w_l·likeRate, 0.02, 0.4)`, up when the session is skipped, down when it lands
@@ -115,7 +125,8 @@ scripts/
                      real question embeddings (matched by text via data/topic-families.json;
                      falls back to embedding data/topics.json `description`). Idempotent.
   loadEnv.ts         MUST be the first import in any script touching DB/API clients
-  try-*.ts           offline engine smoke tests; try-sql-parity (SQL==oracle),
+  try-*.ts           offline engine smoke tests; try-momentum (worn-out→recovery
+                     sim for tuning momentum), try-sql-parity (SQL==oracle),
                      try-next-question (in-DB pipeline end-to-end), try-topics (centroid
                      norms + nearest-topic), try-topic-retrieval (what a topic surfaces)
 supabase/migrations/
@@ -132,6 +143,18 @@ supabase/migrations/
                          ability convergence); ensures the user row on every swipe
   0009_topics            broad topics (id/label/emoji/centroid vector(64)) for the
                          onboarding picker + profile; seeded by scripts/seed-topics.ts
+  0010_no_reserve_seen   never re-serve a seen question: split next_question()'s
+                         fallback so an exhausted ANN window serves the nearest
+                         UNSEEN across the whole bank, recycling only once the user
+                         has seen everything (0005/0007 re-served the nearest card
+                         ignoring the seen filter → the same question every session)
+  0011_interest_momentum "worn-out topic" var: per-interest momentum (recent-
+                         engagement trace, time-decayed toward 0) added to the
+                         activation with a loud weight (3.0), so a once-loved topic
+                         being skipped now is suppressed but recovers while dormant.
+                         Drops 0007's rec_activation overload (arg-count change);
+                         also restores the 0008 cold-start variance 5.0 that 0010
+                         had silently reverted to 1.0 (next_question owned here now)
 ```
 
 ## Hard boundaries (enforce these)
@@ -161,6 +184,7 @@ npm run migrate    # apply the schema to Supabase
 npx tsx scripts/seed-topics.ts               # seed the topics table (after migrate)
 npx tsx scripts/insert-authored.ts <file>   # import authored questions
 npx tsx scripts/try-priority.ts  # offline engine smoke tests (also try-score, try-update, try-e2e)
+npx tsx scripts/try-momentum.ts  # offline: worn-out→recovery sim for tuning momentum
 npx tsx scripts/try-sql-parity.ts    # assert in-DB SQL math == lib/rec oracle (needs DB)
 npx tsx scripts/try-next-question.ts # exercise next_question() end-to-end (rolled back)
 ```

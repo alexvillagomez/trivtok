@@ -1,0 +1,662 @@
+[
+  {
+    "text": "A test that checks one small function in isolation is usually what kind?",
+    "choices": [
+      "Unit",
+      "Integration",
+      "System",
+      "Acceptance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A test that checks two modules working together is usually what kind?",
+    "choices": [
+      "Integration",
+      "Unit",
+      "Usability",
+      "Static"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A test that exercises a complete application as a whole is what kind?",
+    "choices": [
+      "System",
+      "Unit",
+      "Mutation",
+      "Static"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A test that follows a user's whole workflow through the application is what kind?",
+    "choices": [
+      "End-to-end",
+      "Unit",
+      "Static",
+      "Component"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A test that checks whether new code broke old behavior is what kind?",
+    "choices": [
+      "Regression",
+      "Load",
+      "Smoke",
+      "Mutation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A quick check that basic features work before deeper testing is what kind?",
+    "choices": [
+      "Smoke",
+      "Stress",
+      "Mutation",
+      "Boundary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A test performed to confirm a fixed defect no longer appears is what?",
+    "choices": [
+      "Confirmation",
+      "Regression",
+      "Exploratory",
+      "Acceptance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A customer checking whether delivered software meets their needs performs what kind of test?",
+    "choices": [
+      "Acceptance",
+      "Unit",
+      "Mutation",
+      "Static"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Testing based on expected input–output behavior without inspecting code is what?",
+    "choices": [
+      "Black-box",
+      "White-box",
+      "Mutation",
+      "Static"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Testing designed from internal branches and code paths is what?",
+    "choices": [
+      "White-box",
+      "Black-box",
+      "Acceptance",
+      "Exploratory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A case with a known input and expected output is a what?",
+    "choices": [
+      "Test case",
+      "Code review",
+      "Bug report",
+      "Release note"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "The check in a test that compares actual with expected behavior is an what?",
+    "choices": [
+      "Assertion",
+      "Fixture",
+      "Stub",
+      "Mock"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Data or objects prepared for a test and cleaned up afterward are called what?",
+    "choices": [
+      "Fixtures",
+      "Assertions",
+      "Branches",
+      "Reports"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A replacement object that returns canned results during a test is often called a what?",
+    "choices": [
+      "Stub",
+      "Spy",
+      "Fixture",
+      "Assertion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A replacement object used to verify expected interactions is often called a what?",
+    "choices": [
+      "Mock",
+      "Fixture",
+      "Assertion",
+      "Coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A lightweight working substitute for a real component is often called a what?",
+    "choices": [
+      "Fake",
+      "Stub",
+      "Spy",
+      "Fixture"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A test whose result changes unpredictably without relevant code changes is what?",
+    "choices": [
+      "Flaky",
+      "Deterministic",
+      "Isolated",
+      "Exhaustive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A test that gives the same result for the same code and inputs is what?",
+    "choices": [
+      "Deterministic",
+      "Flaky",
+      "Exploratory",
+      "Randomized"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Keeping one test's setup from affecting another improves what?",
+    "choices": [
+      "Isolation",
+      "Coupling",
+      "Coverage",
+      "Complexity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A reproducible defect can be triggered again with the same what?",
+    "choices": [
+      "Steps",
+      "Code style",
+      "Release date",
+      "Branch name"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Testing values just below, at, and above a limit is what technique?",
+    "choices": [
+      "Boundary analysis",
+      "Equivalence partitioning",
+      "Mutation testing",
+      "Pairwise testing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Grouping inputs expected to behave alike is what technique?",
+    "choices": [
+      "Equivalence partitioning",
+      "Boundary analysis",
+      "Mutation testing",
+      "State testing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "An input field accepts ages 18–65 inclusive. Which value is just below the valid range?",
+    "choices": [
+      "17",
+      "18",
+      "19",
+      "65"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "An input field accepts ages 18–65 inclusive. Which value is the upper valid boundary?",
+    "choices": [
+      "65",
+      "64",
+      "66",
+      "18"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "For an input expected to be 1–10, which value probes just above the limit?",
+    "choices": [
+      "11",
+      "10",
+      "9",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A table listing outputs for combinations of conditions supports which technique?",
+    "choices": [
+      "Decision-table testing",
+      "Boundary analysis",
+      "Mutation testing",
+      "Load testing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Testing allowed moves among states such as logged-out and logged-in uses what?",
+    "choices": [
+      "State-transition testing",
+      "Boundary analysis",
+      "Mutation testing",
+      "Load testing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Choosing likely failure cases from tester experience is called what?",
+    "choices": [
+      "Error guessing",
+      "Branch coverage",
+      "Pairwise testing",
+      "Statement coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Exploring and designing tests while learning the product is what?",
+    "choices": [
+      "Exploratory testing",
+      "Regression testing",
+      "Mutation testing",
+      "Static testing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "The percentage of executable statements touched by tests is what?",
+    "choices": [
+      "Statement coverage",
+      "Branch coverage",
+      "Path coverage",
+      "Requirement coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "The percentage of control-flow branches taken by tests is what?",
+    "choices": [
+      "Branch coverage",
+      "Statement coverage",
+      "Path coverage",
+      "Requirement coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A test suite covers every statement but misses one side of an if. Which metric exposes the gap?",
+    "choices": [
+      "Branch coverage",
+      "Statement coverage",
+      "Line count",
+      "Test count"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "Which metric can be high even while important assertions are missing?",
+    "choices": [
+      "Code coverage",
+      "Latency",
+      "Throughput",
+      "Uptime"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Random or semi-random inputs used to uncover crashes are a feature of what?",
+    "choices": [
+      "Fuzzing",
+      "Snapshotting",
+      "Mocking",
+      "Profiling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Generating many examples and checking an invariant is called what?",
+    "choices": [
+      "Property-based testing",
+      "Snapshot testing",
+      "Smoke testing",
+      "Static analysis"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A deliberate small code change used to see whether tests notice it is a what?",
+    "choices": [
+      "Mutation",
+      "Fixture",
+      "Branch",
+      "Stub"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Tests that fail when a deliberate code change is introduced are said to do what to the mutant?",
+    "choices": [
+      "Kill it",
+      "Mock it",
+      "Deploy it",
+      "Log it"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Comparing a rendered output with a saved expected version is what kind of test?",
+    "choices": [
+      "Snapshot",
+      "Load",
+      "Mutation",
+      "Boundary"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Checking response time under expected traffic is what kind of test?",
+    "choices": [
+      "Load",
+      "Unit",
+      "Static",
+      "Mutation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Pushing a service beyond expected traffic to find failure limits is what kind of test?",
+    "choices": [
+      "Stress",
+      "Unit",
+      "Smoke",
+      "Acceptance"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Requests handled per second measure which performance quantity?",
+    "choices": [
+      "Throughput",
+      "Latency",
+      "Uptime",
+      "Coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Time taken for one request to return measures which performance quantity?",
+    "choices": [
+      "Latency",
+      "Throughput",
+      "Coverage",
+      "Uptime"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A server's fraction of time available to users is often called what?",
+    "choices": [
+      "Uptime",
+      "Latency",
+      "Throughput",
+      "Coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "An automated check run whenever code is merged is part of what practice?",
+    "choices": [
+      "Continuous integration",
+      "Manual deployment",
+      "Static typing",
+      "Feature branching"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Releasing code automatically after successful checks is commonly called what?",
+    "choices": [
+      "Continuous deployment",
+      "Continuous integration",
+      "Manual testing",
+      "Code review"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A small initial production rollout to catch issues before full release is what?",
+    "choices": [
+      "Canary release",
+      "Hotfix",
+      "Fork",
+      "Refactor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Returning to a previous working release after a failed deployment is what?",
+    "choices": [
+      "Rollback",
+      "Refactor",
+      "Merge",
+      "Rebase"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A code change checked by another developer before merging receives what?",
+    "choices": [
+      "Code review",
+      "Load testing",
+      "Fuzzing",
+      "Profiling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which tool records a sequence of code revisions and supports restoring earlier versions?",
+    "choices": [
+      "Version control",
+      "Package manager",
+      "Profiler",
+      "Linter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A set of changes proposed for merging into a branch is often called what?",
+    "choices": [
+      "Pull request",
+      "Release note",
+      "Bug report",
+      "Test fixture"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A tool that flags style and suspicious code patterns without running the program is a what?",
+    "choices": [
+      "Linter",
+      "Profiler",
+      "Debugger",
+      "Fuzzer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A tool that measures where a running program spends time is a what?",
+    "choices": [
+      "Profiler",
+      "Linter",
+      "Debugger",
+      "Formatter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A tool that pauses execution to inspect variables is a what?",
+    "choices": [
+      "Debugger",
+      "Profiler",
+      "Linter",
+      "Formatter"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Events written by a service for later inspection are called what?",
+    "choices": [
+      "Logs",
+      "Mocks",
+      "Fixtures",
+      "Branches"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Numerical measurements of system behavior over time are called what?",
+    "choices": [
+      "Metrics",
+      "Logs",
+      "Traces",
+      "Assertions"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Following one request through multiple services is often called what?",
+    "choices": [
+      "Tracing",
+      "Logging",
+      "Profiling",
+      "Linting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A written description of how to reproduce a defect is a what?",
+    "choices": [
+      "Bug report",
+      "Test fixture",
+      "Code review",
+      "Release note"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "How serious a defect's effect is describes its what?",
+    "choices": [
+      "Severity",
+      "Priority",
+      "Frequency",
+      "Coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "How urgently a team should fix a defect describes its what?",
+    "choices": [
+      "Priority",
+      "Severity",
+      "Frequency",
+      "Coverage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A test written before a fix to reproduce the defect can help prevent what later?",
+    "choices": [
+      "Regression",
+      "Compilation",
+      "Deployment",
+      "Profiling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which web language gives a page its document structure?",
+    "choices": [
+      "HTML",
+      "CSS",
+      "SQL",
+      "JSON"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which web language primarily controls presentation and layout?",
+    "choices": [
+      "CSS",
+      "HTML",
+      "SQL",
+      "JSON"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "Which language commonly adds interactive behavior to a webpage?",
+    "choices": [
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "SVG"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which HTML element creates a clickable link?",
+    "choices": [
+      "<a>",
+      "<p>",
+      "<div>",
+      "<span>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which HTML element embeds an image?",
+    "choices": [
+      "<img>",
+      "<a>",
+      "<nav>",
+      "<ol>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which HTML element marks a paragraph?",
+    "choices": [
+      "<p>",
+      "<h1>",
+      "<li>",
+      "<ul>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which HTML element marks the highest-level heading?",
+    "choices": [
+      "<h1>",
+      "<h6>",
+      "<p>",
+      "<title>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which HTML element creates an unordered list?",
+    "choices": [
+      "<ul>",
+      "<ol>",
+      "<li>",
+      "<dl>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which HTML element creates an ordered list?",
+    "choices": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<dl>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which HTML element marks one item in a list?",
+    "choices": [
+      "<li>",
+      "<ul>",
+      "<ol>",
+      "<dl>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which HTML element groups controls to submit user input?",
+    "choices": [
+      "<form>",
+      "<table>",
+      "<article>",
+      "<figure>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which HTML element associates visible text with a form control?",
+    "choices": [
+      "<label>",
+      "<legend>",
+      "<caption>",
+      "<output>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which HTML element creates a clickable control that can trigger a form action?",
+    "choices": [
+      "<button>",
+      "<output>",
+      "<label>",
+      "<select>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which HTML element creates a drop-down selection control?",
+    "choices": [
+      "<select>",
+      "<textarea>",
+      "<fieldset>",
+      "<option>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which HTML element accepts multi-line typed text?",
+    "choices": [
+      "<textarea>",
+      "<input>",
+      "<label>",
+      "<button>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which HTML element represents a page's primary content?",
+    "choices": [
+      "<main>",
+      "<aside>",
+      "<footer>",
+      "<nav>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which HTML element represents a group of navigation links?",
+    "choices": [
+      "<nav>",
+      "<main>",
+      "<aside>",
+      "<footer>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which HTML element marks content related but secondary to the main content?",
+    "choices": [
+      "<aside>",
+      "<main>",
+      "<nav>",
+      "<header>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which HTML element marks a standalone composition such as a blog post?",
+    "choices": [
+      "<article>",
+      "<section>",
+      "<aside>",
+      "<footer>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which HTML attribute provides a text alternative for an image?",
+    "choices": [
+      "alt",
+      "src",
+      "href",
+      "title"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which HTML attribute specifies where a link goes?",
+    "choices": [
+      "href",
+      "src",
+      "alt",
+      "class"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which HTML attribute identifies a source file for an image?",
+    "choices": [
+      "src",
+      "href",
+      "alt",
+      "id"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which HTML attribute applies a reusable CSS hook to an element?",
+    "choices": [
+      "class",
+      "id",
+      "alt",
+      "name"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which HTML attribute gives one element a document-unique identifier?",
+    "choices": [
+      "id",
+      "class",
+      "style",
+      "lang"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which HTML element contains page metadata rather than visible body content?",
+    "choices": [
+      "<head>",
+      "<body>",
+      "<main>",
+      "<footer>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which HTML element sets the name shown in a browser tab?",
+    "choices": [
+      "<title>",
+      "<header>",
+      "<h1>",
+      "<caption>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which CSS property changes the hue of letters?",
+    "choices": [
+      "color",
+      "font-size",
+      "background-color",
+      "opacity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which CSS property changes the background fill of an element?",
+    "choices": [
+      "background-color",
+      "color",
+      "border-color",
+      "text-decoration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which CSS property controls the size of text?",
+    "choices": [
+      "font-size",
+      "font-weight",
+      "line-height",
+      "letter-spacing"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which CSS property changes how thick or bold a font appears?",
+    "choices": [
+      "font-weight",
+      "font-size",
+      "font-style",
+      "line-height"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which CSS property sets space inside an element's border?",
+    "choices": [
+      "padding",
+      "margin",
+      "gap",
+      "outline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which CSS property sets space outside an element's border?",
+    "choices": [
+      "margin",
+      "padding",
+      "gap",
+      "outline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which CSS selector begins with a dot?",
+    "choices": [
+      "Class selector",
+      "ID selector",
+      "Type selector",
+      "Attribute selector"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which CSS selector begins with a hash sign?",
+    "choices": [
+      "ID selector",
+      "Class selector",
+      "Type selector",
+      "Universal selector"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which CSS layout system distributes items along one main axis?",
+    "choices": [
+      "Flexbox",
+      "Grid",
+      "Float",
+      "Table"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which CSS layout system defines rows and columns together?",
+    "choices": [
+      "Grid",
+      "Flexbox",
+      "Float",
+      "Inline"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which CSS feature applies styles only when a condition such as viewport width matches?",
+    "choices": [
+      "Media query",
+      "Keyframe",
+      "Custom property",
+      "Pseudo-element"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which CSS unit is relative to the root element's font size?",
+    "choices": [
+      "rem",
+      "px",
+      "vh",
+      "vw"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which CSS unit is one percent of viewport width?",
+    "choices": [
+      "vw",
+      "vh",
+      "rem",
+      "em"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which browser structure represents a page as a tree of objects?",
+    "choices": [
+      "DOM",
+      "DNS",
+      "HTTP",
+      "URL"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which browser tool lets developers inspect a page's HTML and CSS?",
+    "choices": [
+      "Inspector",
+      "Bookmarks",
+      "History",
+      "Downloads"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which browser tool displays JavaScript messages and errors?",
+    "choices": [
+      "Console",
+      "Inspector",
+      "Bookmarks",
+      "Downloads"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which browser tool shows outgoing requests and incoming responses?",
+    "choices": [
+      "Network panel",
+      "Inspector",
+      "Console",
+      "Storage panel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which protocol is used to request web pages from a server?",
+    "choices": [
+      "HTTP",
+      "DNS",
+      "SMTP",
+      "FTP"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which secure web protocol encrypts traffic between browser and site?",
+    "choices": [
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which service translates a site name into an IP address?",
+    "choices": [
+      "DNS",
+      "HTTP",
+      "HTML",
+      "CSS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which HTTP method is normally used to retrieve a resource?",
+    "choices": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which HTTP method commonly submits form data to a server?",
+    "choices": [
+      "POST",
+      "GET",
+      "HEAD",
+      "OPTIONS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which HTTP status code indicates a successful request?",
+    "choices": [
+      "200",
+      "301",
+      "404",
+      "500"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which HTTP status code means a requested resource was not found?",
+    "choices": [
+      "404",
+      "200",
+      "301",
+      "500"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which HTTP status code commonly indicates a server-side failure?",
+    "choices": [
+      "500",
+      "200",
+      "301",
+      "404"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Which HTTP status code indicates a permanent redirect?",
+    "choices": [
+      "301",
+      "200",
+      "403",
+      "500"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "Which HTTP status code means access is forbidden?",
+    "choices": [
+      "403",
+      "200",
+      "301",
+      "404"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which URL component names the server or site, such as example.com?",
+    "choices": [
+      "Domain",
+      "Path",
+      "Fragment",
+      "Query"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which URL component follows a question mark and carries parameters?",
+    "choices": [
+      "Query",
+      "Fragment",
+      "Domain",
+      "Scheme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which URL component follows a hash sign and points within a page?",
+    "choices": [
+      "Fragment",
+      "Query",
+      "Domain",
+      "Scheme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which small browser-stored value is commonly sent with matching HTTP requests?",
+    "choices": [
+      "Cookie",
+      "Cache",
+      "Bookmark",
+      "Tab"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which browser mechanism keeps copies of resources for faster reuse?",
+    "choices": [
+      "Cache",
+      "Cookie",
+      "History",
+      "Console"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which file format represents scalable vector graphics on web pages?",
+    "choices": [
+      "SVG",
+      "JPEG",
+      "PNG",
+      "GIF"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which web image format is best known for supporting simple animation?",
+    "choices": [
+      "GIF",
+      "JPEG",
+      "PNG",
+      "BMP"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  }
+]

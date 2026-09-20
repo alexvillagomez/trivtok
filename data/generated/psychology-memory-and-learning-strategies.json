@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Getting information into a memory system is called what?",
+    "choices": [
+      "Encoding",
+      "Storage",
+      "Retrieval",
+      "Consolidation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Keeping information available over time is called what?",
+    "choices": [
+      "Storage",
+      "Encoding",
+      "Retrieval",
+      "Recognition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Bringing stored information back into awareness is called what?",
+    "choices": [
+      "Retrieval",
+      "Encoding",
+      "Storage",
+      "Consolidation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which memory store holds a brief raw trace of incoming sights and sounds?",
+    "choices": [
+      "Sensory memory",
+      "Working memory",
+      "Episodic memory",
+      "Procedural memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A fleeting visual trace after a light disappears is called what?",
+    "choices": [
+      "Iconic memory",
+      "Echoic memory",
+      "Semantic memory",
+      "Episodic memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "A fleeting auditory trace after a sound stops is called what?",
+    "choices": [
+      "Echoic memory",
+      "Iconic memory",
+      "Semantic memory",
+      "Episodic memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which system temporarily holds and manipulates information needed for a current task?",
+    "choices": [
+      "Working memory",
+      "Sensory memory",
+      "Procedural memory",
+      "Episodic memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "In a working-memory model, which component handles speech-like information?",
+    "choices": [
+      "Phonological loop",
+      "Visuospatial sketchpad",
+      "Episodic buffer",
+      "Central executive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In a working-memory model, which component handles mental images and locations?",
+    "choices": [
+      "Visuospatial sketchpad",
+      "Phonological loop",
+      "Episodic buffer",
+      "Central executive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In a working-memory model, which component directs attention among tasks?",
+    "choices": [
+      "Central executive",
+      "Phonological loop",
+      "Visuospatial sketchpad",
+      "Sensory register"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Remembering the facts of a history lesson chiefly uses which long-term memory type?",
+    "choices": [
+      "Semantic",
+      "Episodic",
+      "Procedural",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Remembering your last birthday party chiefly uses which long-term memory type?",
+    "choices": [
+      "Episodic",
+      "Semantic",
+      "Procedural",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Remembering how to ride a bicycle chiefly uses which long-term memory type?",
+    "choices": [
+      "Procedural",
+      "Semantic",
+      "Episodic",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Memory for facts and events that can be consciously stated is also called what?",
+    "choices": [
+      "Declarative",
+      "Procedural",
+      "Sensory",
+      "Reflexive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A skill retained without consciously recalling learning it illustrates which memory category?",
+    "choices": [
+      "Implicit",
+      "Explicit",
+      "Sensory",
+      "Semantic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Consciously recalling a person's name illustrates which memory category?",
+    "choices": [
+      "Explicit",
+      "Implicit",
+      "Procedural",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A clue such as a familiar smell helps bring back a past event. What is it?",
+    "choices": [
+      "Retrieval cue",
+      "Memory trace",
+      "Interference source",
+      "Sensory register"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Identifying the correct answer among several options tests which process?",
+    "choices": [
+      "Recognition",
+      "Recall",
+      "Rehearsal",
+      "Encoding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Producing an answer without options mainly tests which process?",
+    "choices": [
+      "Recall",
+      "Recognition",
+      "Rehearsal",
+      "Encoding"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Learning material more quickly the second time around measures what?",
+    "choices": [
+      "Relearning",
+      "Recognition",
+      "Priming",
+      "Chunking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Repeating a phone number silently to keep it active is what strategy?",
+    "choices": [
+      "Rehearsal",
+      "Chunking",
+      "Spacing",
+      "Priming"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Grouping a long number into smaller meaningful units is what strategy?",
+    "choices": [
+      "Chunking",
+      "Priming",
+      "Extinction",
+      "Interference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Linking new information to familiar knowledge is called what kind of rehearsal?",
+    "choices": [
+      "Elaborative",
+      "Maintenance",
+      "Sensory",
+      "Mechanical"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Studying in several shorter sessions rather than one long cram uses what effect?",
+    "choices": [
+      "Spacing effect",
+      "Serial effect",
+      "Primacy effect",
+      "Recency effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Self-quizzing to strengthen later recall uses what effect?",
+    "choices": [
+      "Testing effect",
+      "Framing effect",
+      "Halo effect",
+      "Stroop effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Mentally placing items along a familiar route uses which mnemonic?",
+    "choices": [
+      "Method of loci",
+      "Chunking",
+      "Rehearsal",
+      "Pegword method"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Using 'ROYGBIV' to remember rainbow colors is which kind of aid?",
+    "choices": [
+      "Acronym",
+      "Acrostic",
+      "Narrative",
+      "Chunk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A sentence made from initial letters to cue a list is called a what?",
+    "choices": [
+      "Acrostic",
+      "Acronym",
+      "Schema",
+      "Prime"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which effect favors remembering the first items on a list?",
+    "choices": [
+      "Primacy",
+      "Recency",
+      "Spacing",
+      "Context"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which effect favors remembering the last items on a list?",
+    "choices": [
+      "Recency",
+      "Primacy",
+      "Spacing",
+      "Context"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "The U-shaped tendency to remember list beginnings and endings is called what?",
+    "choices": [
+      "Serial-position effect",
+      "Spacing effect",
+      "Testing effect",
+      "Stroop effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Old information making new information harder to recall is which interference?",
+    "choices": [
+      "Proactive",
+      "Retroactive",
+      "State-dependent",
+      "Context-dependent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "New information making old information harder to recall is which interference?",
+    "choices": [
+      "Retroactive",
+      "Proactive",
+      "State-dependent",
+      "Context-dependent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Remembering a fact better in the room where it was learned illustrates what?",
+    "choices": [
+      "Context dependence",
+      "State dependence",
+      "Proactive interference",
+      "Retroactive interference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Remembering material better in a matching emotional or physiological condition illustrates what?",
+    "choices": [
+      "State dependence",
+      "Context dependence",
+      "Proactive interference",
+      "Retroactive interference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "An old password intruding when you try to recall a new one illustrates which interference?",
+    "choices": [
+      "Proactive",
+      "Retroactive",
+      "Semantic",
+      "Iconic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "A new address causing you to forget an old address illustrates which interference?",
+    "choices": [
+      "Retroactive",
+      "Proactive",
+      "Sensory",
+      "Episodic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Knowing a word but being briefly unable to say it is called which phenomenon?",
+    "choices": [
+      "Tip-of-the-tongue",
+      "Déjà vu",
+      "Flashbulb memory",
+      "False recognition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A vivid memory of learning shocking news is traditionally called what?",
+    "choices": [
+      "Flashbulb memory",
+      "Semantic memory",
+      "Echoic memory",
+      "Procedural memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "What term describes stabilizing a newly formed memory over time?",
+    "choices": [
+      "Consolidation",
+      "Encoding",
+      "Priming",
+      "Chunking"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which brain structure is especially important for forming new declarative memories?",
+    "choices": [
+      "Hippocampus",
+      "Cerebellum",
+      "Medulla",
+      "Occipital cortex"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which brain structure is strongly involved in emotional, especially fear-related, memory?",
+    "choices": [
+      "Amygdala",
+      "Hippocampus",
+      "Cerebellum",
+      "Thalamus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which brain structure contributes to learned motor skills such as coordinated movement?",
+    "choices": [
+      "Cerebellum",
+      "Amygdala",
+      "Hippocampus",
+      "Hypothalamus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Patient H.M. could improve on a motor task without remembering the practice. Which memory was preserved?",
+    "choices": [
+      "Procedural",
+      "Episodic",
+      "Semantic",
+      "Iconic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "Difficulty forming new long-term memories after an injury is called which amnesia?",
+    "choices": [
+      "Anterograde",
+      "Retrograde",
+      "Infantile",
+      "Dissociative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Loss of memories formed before an injury is called which amnesia?",
+    "choices": [
+      "Retrograde",
+      "Anterograde",
+      "Infantile",
+      "Dissociative"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A familiar cue unconsciously speeding recognition of a related word is what?",
+    "choices": [
+      "Priming",
+      "Chunking",
+      "Rehearsal",
+      "Imprinting"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A mental framework that organizes related knowledge is a what?",
+    "choices": [
+      "Schema",
+      "Trace",
+      "Cue",
+      "Chunk"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Remembering a scene partly by filling gaps with expectations shows memory is what?",
+    "choices": [
+      "Reconstructive",
+      "Photographic",
+      "Immutable",
+      "Reflexive"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A misleading question changing a witness's later report is which influence?",
+    "choices": [
+      "Suggestibility",
+      "Primacy",
+      "Chunking",
+      "Habituation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Falsely recalling an event that did not occur is a what?",
+    "choices": [
+      "False memory",
+      "Sensory memory",
+      "Implicit memory",
+      "Echoic memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "A person judges how likely they are to remember a list. This is what?",
+    "choices": [
+      "Metamemory",
+      "Priming",
+      "Chunking",
+      "Consolidation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "Memory for personally experienced events at a specific time is what?",
+    "choices": [
+      "Episodic",
+      "Semantic",
+      "Procedural",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Memory for general concepts and word meanings is what?",
+    "choices": [
+      "Semantic",
+      "Episodic",
+      "Procedural",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A musician fingers a familiar scale without narrating each movement. What memory dominates?",
+    "choices": [
+      "Procedural",
+      "Episodic",
+      "Semantic",
+      "Sensory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "What process benefits when a learner explains a concept in their own words and links it to examples?",
+    "choices": [
+      "Elaboration",
+      "Interference",
+      "Extinction",
+      "Adaptation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "A study session broken into days instead of minutes chiefly changes what?",
+    "choices": [
+      "Spacing",
+      "Chunk size",
+      "Cue type",
+      "Modality"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Forgetting because the answer was never encoded is an example of what?",
+    "choices": [
+      "Encoding failure",
+      "Retrieval failure",
+      "Proactive interference",
+      "Retroactive interference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A person recognizes a face but cannot produce the name. Which process is most impaired?",
+    "choices": [
+      "Recall",
+      "Recognition",
+      "Encoding",
+      "Sensation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A word cue that helps someone remember another word is an example of what?",
+    "choices": [
+      "Retrieval cue",
+      "Sensory trace",
+      "Motor skill",
+      "Memory store"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  }
+]

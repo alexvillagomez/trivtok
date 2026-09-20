@@ -1,0 +1,662 @@
+[
+  {
+    "text": "What name is given to a discrete packet of light energy?",
+    "choices": [
+      "Photon",
+      "Electron",
+      "Neutron",
+      "Proton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "A photon becomes more energetic when its frequency does what?",
+    "choices": [
+      "Increases",
+      "Decreases",
+      "Stays fixed",
+      "Reverses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A photon's energy increases when its wavelength does what?",
+    "choices": [
+      "Decreases",
+      "Increases",
+      "Stays fixed",
+      "Doubles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which constant links a photon's energy to its frequency?",
+    "choices": [
+      "Planck's constant",
+      "Boltzmann's constant",
+      "Avogadro's constant",
+      "Gravitational constant"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "What effect ejects electrons from a metal illuminated with sufficiently high-frequency light?",
+    "choices": [
+      "Photoelectric effect",
+      "Compton effect",
+      "Doppler effect",
+      "Hall effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In the photoelectric effect, what must the light exceed before electrons emerge?",
+    "choices": [
+      "Threshold frequency",
+      "Threshold intensity",
+      "Threshold duration",
+      "Threshold area"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Above the threshold, increasing light frequency chiefly raises emitted electrons' what?",
+    "choices": [
+      "Kinetic energy",
+      "Mass",
+      "Charge",
+      "Spin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Above the threshold, increasing light intensity chiefly raises the number of emitted what?",
+    "choices": [
+      "Electrons",
+      "Protons",
+      "Neutrons",
+      "Atoms"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "Who explained the photoelectric effect using light quanta?",
+    "choices": [
+      "Einstein",
+      "Bohr",
+      "Rutherford",
+      "Schrödinger"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which physicist first proposed energy quanta to explain blackbody radiation?",
+    "choices": [
+      "Planck",
+      "Einstein",
+      "Bohr",
+      "Heisenberg"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What idealized object absorbs all incident radiation and emits a temperature-dependent spectrum?",
+    "choices": [
+      "Blackbody",
+      "Mirror",
+      "Lens",
+      "Prism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "As a heated object's temperature rises, its peak emitted wavelength shifts which way?",
+    "choices": [
+      "Shorter",
+      "Longer",
+      "Unchanged",
+      "Random"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which law relates a blackbody's peak wavelength inversely to its temperature?",
+    "choices": [
+      "Wien's law",
+      "Ohm's law",
+      "Hooke's law",
+      "Boyle's law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which scattering effect shows photons transferring momentum to electrons?",
+    "choices": [
+      "Compton effect",
+      "Photoelectric effect",
+      "Doppler effect",
+      "Zeeman effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A moving particle's associated wavelength is named after whom?",
+    "choices": [
+      "de Broglie",
+      "Bohr",
+      "Faraday",
+      "Newton"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "For the same particle, greater momentum means what kind of matter-wave wavelength?",
+    "choices": [
+      "Shorter",
+      "Longer",
+      "Unchanged",
+      "Absent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which experiment famously confirmed electrons can diffract like waves?",
+    "choices": [
+      "Davisson–Germer",
+      "Michelson–Morley",
+      "Millikan oil-drop",
+      "Rutherford foil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Electron diffraction demonstrates which broad principle?",
+    "choices": [
+      "Wave–particle duality",
+      "Electromagnetic induction",
+      "Nuclear fission",
+      "Thermal equilibrium"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "In the double-slit experiment, a pattern of alternating bright and dark bands indicates what?",
+    "choices": [
+      "Interference",
+      "Refraction",
+      "Polarization",
+      "Absorption"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "A measurement that reveals which slit a quantum particle passed through generally removes what pattern?",
+    "choices": [
+      "Interference",
+      "Reflection",
+      "Refraction",
+      "Scattering"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which quantum description assigns probabilities rather than a single classical path?",
+    "choices": [
+      "Wave function",
+      "Force diagram",
+      "Heat map",
+      "Circuit model"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "The square magnitude of a wave function gives what spatial quantity?",
+    "choices": [
+      "Probability density",
+      "Electric charge",
+      "Particle mass",
+      "Spin rate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "If the total probability across all positions equals one, the wave function is what?",
+    "choices": [
+      "Normalized",
+      "Polarized",
+      "Quantized",
+      "Localized"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "The uncertainty principle limits simultaneous precision for position and what?",
+    "choices": [
+      "Momentum",
+      "Charge",
+      "Mass",
+      "Spin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Who is associated with the position–momentum uncertainty principle?",
+    "choices": [
+      "Heisenberg",
+      "Bohr",
+      "Planck",
+      "Rutherford"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Quantum tunneling lets a particle pass through a barrier that classical energy would make what?",
+    "choices": [
+      "Impassable",
+      "Transparent",
+      "Magnetic",
+      "Charged"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which device uses electron tunneling to image surfaces at atomic scale?",
+    "choices": [
+      "Scanning tunneling microscope",
+      "Optical microscope",
+      "Cloud chamber",
+      "Bubble chamber"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "What name is given to the lowest allowed energy state?",
+    "choices": [
+      "Ground state",
+      "Excited state",
+      "Ionized state",
+      "Metastable state"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "An atom absorbs energy and moves above its lowest state. It is then in what state?",
+    "choices": [
+      "Excited state",
+      "Ground state",
+      "Ionized state",
+      "Vacuum state"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "An electron dropping to a lower atomic energy level emits what?",
+    "choices": [
+      "Photon",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "An electron moving to a higher bound level must absorb what?",
+    "choices": [
+      "Energy",
+      "Charge",
+      "Mass",
+      "Spin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Why do isolated atoms emit discrete spectral lines instead of every wavelength?",
+    "choices": [
+      "Quantized levels",
+      "Random orbits",
+      "Continuous charge",
+      "Constant speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which early atomic model assigns electrons specific circular energy levels?",
+    "choices": [
+      "Bohr model",
+      "Plum-pudding model",
+      "Standard Model",
+      "Shell theorem"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "The principal quantum number mainly labels an atomic electron's what?",
+    "choices": [
+      "Energy level",
+      "Charge sign",
+      "Spin direction",
+      "Nuclear mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which letter denotes the lowest angular-momentum atomic orbital type?",
+    "choices": [
+      "s",
+      "p",
+      "d",
+      "f"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "How many electrons can occupy one atomic orbital with opposite spins?",
+    "choices": [
+      "Two",
+      "One",
+      "Three",
+      "Four"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "Which rule forbids two identical electrons in an atom from sharing all quantum numbers?",
+    "choices": [
+      "Pauli exclusion",
+      "Hund's rule",
+      "Aufbau principle",
+      "Coulomb's law"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which rule favors singly occupying equal-energy orbitals before pairing electrons?",
+    "choices": [
+      "Hund's rule",
+      "Pauli exclusion",
+      "Aufbau principle",
+      "Heisenberg relation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which principle fills lower-energy available orbitals before higher ones in a basic atomic diagram?",
+    "choices": [
+      "Aufbau principle",
+      "Pauli exclusion",
+      "Hund's rule",
+      "Le Châtelier's principle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "What intrinsic quantum property of an electron has two measured orientations along an axis?",
+    "choices": [
+      "Spin",
+      "Mass",
+      "Charge",
+      "Speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "Which experiment split a beam of silver atoms into discrete magnetic components?",
+    "choices": [
+      "Stern–Gerlach",
+      "Davisson–Germer",
+      "Michelson–Morley",
+      "Millikan oil-drop"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "The Stern–Gerlach result is associated with quantization of what?",
+    "choices": [
+      "Angular momentum",
+      "Electric charge",
+      "Atomic mass",
+      "Temperature"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "Particles with half-integer spin, including electrons, are called what?",
+    "choices": [
+      "Fermions",
+      "Bosons",
+      "Photons",
+      "Hadrons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Particles with integer spin, including photons, are called what?",
+    "choices": [
+      "Bosons",
+      "Fermions",
+      "Leptons",
+      "Baryons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which quantum particles obey the Pauli exclusion principle?",
+    "choices": [
+      "Fermions",
+      "Bosons",
+      "Photons",
+      "Gluons"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A photon has which electric charge?",
+    "choices": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Variable"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which particle is the familiar carrier of electromagnetic radiation?",
+    "choices": [
+      "Photon",
+      "Electron",
+      "Neutrino",
+      "Neutron"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "The Schrödinger equation governs how a quantum state's what changes?",
+    "choices": [
+      "Wave function",
+      "Rest mass",
+      "Electric charge",
+      "Particle count"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "What term describes a quantum state whose energy has a definite allowed value?",
+    "choices": [
+      "Energy eigenstate",
+      "Thermal mixture",
+      "Classical orbit",
+      "Virtual state"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.78
+  },
+  {
+    "text": "What is the expectation value of an observable: a predicted what over repeated measurements?",
+    "choices": [
+      "Average",
+      "Maximum",
+      "Minimum",
+      "Certainty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In a one-dimensional box, the lowest particle energy is greater than what?",
+    "choices": [
+      "Zero",
+      "Infinity",
+      "Its mass",
+      "Its charge"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "As a one-dimensional box becomes narrower, its allowed particle energies generally do what?",
+    "choices": [
+      "Increase",
+      "Decrease",
+      "Stay fixed",
+      "Vanish"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In a one-dimensional box, the lowest state has how many interior nodes?",
+    "choices": [
+      "Zero",
+      "One",
+      "Two",
+      "Three"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "Which quantum feature allows an atom to emit only particular photon energies?",
+    "choices": [
+      "Energy levels",
+      "Electron mass",
+      "Nuclear charge",
+      "Thermal motion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "When light is absorbed by an atom, its photon energy matches what?",
+    "choices": [
+      "Level gap",
+      "Atomic mass",
+      "Orbital radius",
+      "Nuclear spin"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which quantity is quantized in the Bohr model of hydrogen?",
+    "choices": [
+      "Angular momentum",
+      "Electron charge",
+      "Proton mass",
+      "Light speed"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "What does a spread-out wave function describe instead of one exact particle path?",
+    "choices": [
+      "Position probabilities",
+      "Certain trajectory",
+      "Fixed orbit",
+      "Single coordinate"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "The principle that quantum predictions approach classical ones at large scales is called what?",
+    "choices": [
+      "Correspondence",
+      "Superposition",
+      "Exclusion",
+      "Tunneling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "A quantum system described as a combination of possible states exhibits what?",
+    "choices": [
+      "Superposition",
+      "Decoherence",
+      "Refraction",
+      "Diffusion"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "When a quantum state loses observable coherence through environmental interaction, this is called what?",
+    "choices": [
+      "Decoherence",
+      "Interference",
+      "Diffraction",
+      "Tunneling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  }
+]

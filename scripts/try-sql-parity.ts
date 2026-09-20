@@ -8,6 +8,7 @@ import {
   difficultyFactor,
 } from "../lib/rec/difficulty";
 import { engagementSignal } from "../lib/rec/update";
+import { momentumDecay, momentumStep } from "../lib/rec/interest";
 import {
   likeAdjustment,
   interestActivation,
@@ -62,6 +63,9 @@ async function main() {
   await sql.unsafe(await readFile("supabase/migrations/0005_next_question.sql", "utf8"));
   await sql.unsafe(await readFile("supabase/migrations/0006_gumbel_guard.sql", "utf8"));
   await sql.unsafe(await readFile("supabase/migrations/0007_adaptive_priority.sql", "utf8"));
+  // 0011 = interest momentum: redefines rec_activation (+momentum arg) and adds
+  // rec_momentum / rec_momentum_decay. Must load last so its rec_activation wins.
+  await sql.unsafe(await readFile("supabase/migrations/0011_interest_momentum.sql", "utf8"));
 
   const CASES = 50;
   for (let k = 0; k < CASES; k++) {
@@ -84,11 +88,17 @@ async function main() {
     const skipRate = Math.random();
     const likeRate = Math.random();
 
+    // momentum inputs
+    const mom = rand(1); // decayed trace fed into the activation readout
+    const momPrev = rand(1); // stored trace before this update
+    const momDt = Math.random() * 500; // idle hours since last touch
+    const momEng = engagementSignal({ liked, answered, correct: null, responseTimeMs: rt });
+
     // Everything the DB should compute for this case, in ONE round-trip.
     const [row] = await sql<
       {
         p: number; f: number; g: number; nd: number; nm: number[]; nv: number[];
-        la: number; ac: number; ep: number;
+        la: number; ac: number; ep: number; md: number; mu: number;
       }[]
     >`
       with a as (
@@ -105,8 +115,10 @@ async function main() {
         u.new_mean                                                                   as nm,
         u.new_variance                                                               as nv,
         rec_like_adj(${likes}, ${inters}, ${sessMean}::float8)                       as la,
-        rec_activation(${strength}::float8, ${freshRaw}::float8, ${fatigue}::float8, ${likeAdj}::float8) as ac,
-        rec_explore_prob(${skipRate}::float8, ${likeRate}::float8)                   as ep
+        rec_activation(${strength}::float8, ${freshRaw}::float8, ${fatigue}::float8, ${likeAdj}::float8, ${mom}::float8) as ac,
+        rec_explore_prob(${skipRate}::float8, ${likeRate}::float8)                   as ep,
+        rec_momentum_decay(${momPrev}::float8, ${momDt}::float8)                     as md,
+        rec_momentum(${momPrev}::float8, ${momDt}::float8, ${momEng}::float8)        as mu
       from a, u`;
 
     check(`pCorrect[${k}]`, pCorrect(ability, e, d), row.p);
@@ -114,8 +126,10 @@ async function main() {
     check(`engagement[${k}]`, engagementSignal({ liked, answered, correct: null, responseTimeMs: rt }), row.g);
     check(`updateDifficulty[${k}]`, updateDifficulty(d, ability, e, correct), row.nd);
     check(`likeAdj[${k}]`, likeAdjustment(likes, inters, sessMean, DEFAULT_PARAMS.likePrior), row.la);
-    check(`activation[${k}]`, interestActivation(strength, freshRaw, fatigue, likeAdj, DEFAULT_PARAMS), row.ac);
+    check(`activation[${k}]`, interestActivation(strength, freshRaw, fatigue, likeAdj, mom, DEFAULT_PARAMS), row.ac);
     check(`exploreProb[${k}]`, exploreProbability(skipRate, likeRate, DEFAULT_PARAMS), row.ep);
+    check(`momentumDecay[${k}]`, momentumDecay(momPrev, momDt), row.md);
+    check(`momentumStep[${k}]`, momentumStep(momPrev, momDt, momEng), row.mu);
     const tsA = updateAbility(ability, e, d, correct);
     checkVec(`updateAbility.mean[${k}]`, tsA.mean, row.nm);
     checkVec(`updateAbility.variance[${k}]`, tsA.variance, row.nv);

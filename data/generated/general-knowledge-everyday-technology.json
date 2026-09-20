@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which device converts sunlight directly into electricity?",
+    "choices": [
+      "Solar cell",
+      "Wind turbine",
+      "Fuel cell",
+      "Thermostat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.34
+  },
+  {
+    "text": "Which material is widely used as the semiconductor in solar panels?",
+    "choices": [
+      "Silicon",
+      "Copper",
+      "Iron",
+      "Graphite"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A rooftop panel usually produces which type of electric current before an inverter?",
+    "choices": [
+      "Direct",
+      "Alternating",
+      "Pulsed only",
+      "Static"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which device converts a solar panel's direct current for use on an AC grid?",
+    "choices": [
+      "Inverter",
+      "Transformer",
+      "Rectifier",
+      "Capacitor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which machine spins a generator using moving air?",
+    "choices": [
+      "Wind turbine",
+      "Solar cell",
+      "Heat pump",
+      "Fuel cell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "Which machine spins a generator using flowing water?",
+    "choices": [
+      "Hydro turbine",
+      "Solar cell",
+      "Heat pump",
+      "Fuel cell"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "In a battery, which part lets ions move between its two electrodes?",
+    "choices": [
+      "Electrolyte",
+      "Insulator",
+      "Switch",
+      "Filament"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which form of energy does a charged battery store?",
+    "choices": [
+      "Chemical",
+      "Sound",
+      "Nuclear",
+      "Gravitational"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What must a simple circuit have for current to flow continuously?",
+    "choices": [
+      "Closed path",
+      "Open switch",
+      "Broken wire",
+      "Loose contact"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which unit measures electrical current?",
+    "choices": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which unit measures electrical potential difference?",
+    "choices": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which unit measures electrical resistance?",
+    "choices": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "Which unit measures electrical power?",
+    "choices": [
+      "Watt",
+      "Volt",
+      "Ampere",
+      "Ohm"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A fuse protects a circuit by doing what when current becomes too large?",
+    "choices": [
+      "Breaking it",
+      "Amplifying it",
+      "Cooling it",
+      "Charging it"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which device uses a bimetal or sensor to control room temperature automatically?",
+    "choices": [
+      "Thermostat",
+      "Transformer",
+      "Rectifier",
+      "Capacitor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A refrigerator's compressor helps move heat from where to where?",
+    "choices": [
+      "Inside to outside",
+      "Outside to inside",
+      "Top to bottom",
+      "Bottom to top"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A microwave oven heats food using which type of electromagnetic waves?",
+    "choices": [
+      "Microwaves",
+      "Infrared",
+      "Ultraviolet",
+      "X-rays"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "An induction cooktop heats a suitable pan chiefly with what?",
+    "choices": [
+      "Magnetic fields",
+      "Ultraviolet light",
+      "Hot air",
+      "Chemical fuel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "An LED produces light when current passes through which kind of material?",
+    "choices": [
+      "Semiconductor",
+      "Insulator",
+      "Electrolyte",
+      "Ceramic only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A camera lens focuses light onto which component in a digital camera?",
+    "choices": [
+      "Sensor",
+      "Speaker",
+      "Battery",
+      "Antenna"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which camera control primarily sets how long light reaches the sensor?",
+    "choices": [
+      "Shutter",
+      "Aperture",
+      "Focus",
+      "Zoom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which camera control primarily sets the size of the opening for incoming light?",
+    "choices": [
+      "Aperture",
+      "Shutter",
+      "Focus",
+      "Zoom"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "A laser beam differs from a flashlight beam chiefly in its high what?",
+    "choices": [
+      "Coherence",
+      "Weight",
+      "Temperature",
+      "Voltage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which device turns sound waves into an electrical signal?",
+    "choices": [
+      "Microphone",
+      "Speaker",
+      "Antenna",
+      "Projector"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which device turns an electrical audio signal into sound waves?",
+    "choices": [
+      "Speaker",
+      "Microphone",
+      "Antenna",
+      "Scanner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "Which component performs most general-purpose calculations in a computer?",
+    "choices": [
+      "CPU",
+      "RAM",
+      "SSD",
+      "GPU"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Which component temporarily holds data while programs run?",
+    "choices": [
+      "RAM",
+      "SSD",
+      "CPU",
+      "Router"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which component stores files without power in many modern computers?",
+    "choices": [
+      "SSD",
+      "RAM",
+      "CPU",
+      "Cache"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which processor is especially suited to many parallel graphics calculations?",
+    "choices": [
+      "GPU",
+      "CPU",
+      "SSD",
+      "RAM"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which software layer manages hardware and runs applications?",
+    "choices": [
+      "Operating system",
+      "Web browser",
+      "Spreadsheet",
+      "Text editor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  },
+  {
+    "text": "Which application displays and navigates websites?",
+    "choices": [
+      "Browser",
+      "Compiler",
+      "Debugger",
+      "Spreadsheet"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "Which network service turns a domain name into an IP address?",
+    "choices": [
+      "DNS",
+      "HTTP",
+      "HTML",
+      "GPS"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which protocol is typically used to request a web page?",
+    "choices": [
+      "HTTP",
+      "SMTP",
+      "FTP",
+      "SSH"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which web protocol protects data in transit with encryption?",
+    "choices": [
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "Which part of a web address usually identifies the site's domain?",
+    "choices": [
+      "Hostname",
+      "Path",
+      "Fragment",
+      "Query"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which physical medium carries light pulses in high-capacity network cables?",
+    "choices": [
+      "Optical fiber",
+      "Copper wire",
+      "Coaxial cable",
+      "Twisted pair"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Wi‑Fi uses which kind of signal to connect devices without cables?",
+    "choices": [
+      "Radio",
+      "Sound",
+      "Visible light",
+      "Magnetic pulses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Bluetooth typically connects nearby devices over which kind of signal?",
+    "choices": [
+      "Radio",
+      "Sound",
+      "Infrared only",
+      "Ultrasound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which network device forwards data between a home network and the wider internet?",
+    "choices": [
+      "Router",
+      "Monitor",
+      "Printer",
+      "Scanner"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which identifier helps route data to a device across an IP network?",
+    "choices": [
+      "IP address",
+      "File name",
+      "Pixel count",
+      "Serial port"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A GPS receiver estimates distance to satellites using signal travel what?",
+    "choices": [
+      "Time",
+      "Color",
+      "Brightness",
+      "Pitch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "GPS satellites broadcast which kind of signal to receivers?",
+    "choices": [
+      "Radio",
+      "Sound",
+      "Visible light",
+      "Ultrasound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which onboard device keeps exceptionally precise time for a navigation satellite?",
+    "choices": [
+      "Atomic clock",
+      "Pendulum",
+      "Sundial",
+      "Quartz watch"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A map app combining satellite signal delays to find position uses what method?",
+    "choices": [
+      "Trilateration",
+      "Triangulation",
+      "Interpolation",
+      "Calibration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "A barcode scanner reads what kind of pattern from a product label?",
+    "choices": [
+      "Dark bars",
+      "Raised dots",
+      "Magnetic stripes",
+      "Sound pulses"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.37
+  },
+  {
+    "text": "A QR code stores data in a pattern of what?",
+    "choices": [
+      "Squares",
+      "Circles",
+      "Lines only",
+      "Triangles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which printer technology sprays tiny liquid droplets onto paper?",
+    "choices": [
+      "Inkjet",
+      "Laser",
+      "Thermal transfer",
+      "Dot matrix"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "Which printer technology fuses powdered toner onto paper?",
+    "choices": [
+      "Laser",
+      "Inkjet",
+      "Dot matrix",
+      "Dye sublimation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which manufacturing process builds an object layer by layer from a digital model?",
+    "choices": [
+      "3D printing",
+      "Casting",
+      "Forging",
+      "Milling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "Which car system helps prevent wheel lock during hard braking?",
+    "choices": [
+      "ABS",
+      "GPS",
+      "Cruise control",
+      "Traction control"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "Which car component reduces harmful exhaust gases by promoting chemical reactions?",
+    "choices": [
+      "Catalytic converter",
+      "Alternator",
+      "Radiator",
+      "Starter motor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "An electric car recovering energy during braking uses what?",
+    "choices": [
+      "Regeneration",
+      "Combustion",
+      "Rectification",
+      "Refrigeration"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which car component turns engine motion into electrical energy for charging?",
+    "choices": [
+      "Alternator",
+      "Radiator",
+      "Starter motor",
+      "Differential"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Which household device changes an AC voltage level by magnetic induction?",
+    "choices": [
+      "Transformer",
+      "Inverter",
+      "Rectifier",
+      "Fuse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which device changes AC electricity into DC electricity?",
+    "choices": [
+      "Rectifier",
+      "Inverter",
+      "Transformer",
+      "Capacitor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Which device stores electric charge between two conductors?",
+    "choices": [
+      "Capacitor",
+      "Resistor",
+      "Diode",
+      "Fuse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which component allows current much more easily in one direction?",
+    "choices": [
+      "Diode",
+      "Resistor",
+      "Capacitor",
+      "Fuse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "Which component deliberately limits current in a circuit?",
+    "choices": [
+      "Resistor",
+      "Diode",
+      "Capacitor",
+      "Inductor"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which appliance transfers heat from outdoors into a home for heating?",
+    "choices": [
+      "Heat pump",
+      "Air conditioner only",
+      "Electric kettle",
+      "Solar panel"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "Which household device removes moisture from indoor air?",
+    "choices": [
+      "Dehumidifier",
+      "Humidifier",
+      "Thermostat",
+      "Air purifier"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.39
+  }
+]

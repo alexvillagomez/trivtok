@@ -1,0 +1,662 @@
+[
+  {
+    "text": "A recipe needs three-quarters of 20 cups. How many cups is that?",
+    "choices": [
+      "15",
+      "12",
+      "16",
+      "18"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "What is one-quarter of 80?",
+    "choices": [
+      "20",
+      "16",
+      "24",
+      "32"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A $50 item is discounted by 10%. What is the new price?",
+    "choices": [
+      "$45",
+      "$40",
+      "$48",
+      "$55"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A 20% tip on a $30 bill equals how much?",
+    "choices": [
+      "$6",
+      "$5",
+      "$8",
+      "$10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "A class has 20 students in a 2:3 ratio of juniors to seniors. How many juniors?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "How many minutes are in one and a half hours?",
+    "choices": [
+      "90",
+      "75",
+      "100",
+      "120"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.3
+  },
+  {
+    "text": "A train leaves at 2:45 and rides for 30 minutes. When does it arrive?",
+    "choices": [
+      "3:15",
+      "3:00",
+      "3:30",
+      "2:15"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "At a steady 60 miles per hour, how far does a car travel in two hours?",
+    "choices": [
+      "120 miles",
+      "100 miles",
+      "90 miles",
+      "180 miles"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.28
+  },
+  {
+    "text": "A cyclist covers 100 kilometers in two hours. What is the average speed?",
+    "choices": [
+      "50 km/h",
+      "40 km/h",
+      "60 km/h",
+      "100 km/h"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What is 12 multiplied by 8?",
+    "choices": [
+      "96",
+      "84",
+      "88",
+      "108"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "What is 144 divided by 12?",
+    "choices": [
+      "12",
+      "11",
+      "13",
+      "14"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is two raised to the fifth power?",
+    "choices": [
+      "32",
+      "16",
+      "25",
+      "64"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the square root of 81?",
+    "choices": [
+      "9",
+      "8",
+      "10",
+      "7"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "A $200 purchase carries 15% sales tax. What is the tax amount?",
+    "choices": [
+      "30",
+      "20",
+      "25",
+      "35"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Twelve is what percent of 40?",
+    "choices": [
+      "30%",
+      "25%",
+      "35%",
+      "40%"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "Which fraction equals 0.125?",
+    "choices": [
+      "1/8",
+      "1/4",
+      "1/5",
+      "1/10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "Which fraction equals 0.6 in simplest form?",
+    "choices": [
+      "3/5",
+      "2/3",
+      "4/5",
+      "5/6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What decimal equals five-eighths?",
+    "choices": [
+      "0.625",
+      "0.575",
+      "0.675",
+      "0.725"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Two bells ring every 6 and 8 minutes. After how many minutes do they ring together again?",
+    "choices": [
+      "24",
+      "12",
+      "18",
+      "48"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the greatest common divisor of 18 and 24?",
+    "choices": [
+      "6",
+      "3",
+      "9",
+      "12"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A rectangle measures 7 by 4 units. What is its area?",
+    "choices": [
+      "28",
+      "22",
+      "14",
+      "35"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A rectangle measures 7 by 4 units. What is its perimeter?",
+    "choices": [
+      "22",
+      "28",
+      "18",
+      "14"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "A triangle has base 10 and height 6. What is its area?",
+    "choices": [
+      "30",
+      "60",
+      "16",
+      "36"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A circle has diameter 14 units. What is its radius?",
+    "choices": [
+      "7",
+      "14",
+      "28",
+      "21"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "A circle has diameter 10 units. What is its circumference?",
+    "choices": [
+      "10π",
+      "5π",
+      "20π",
+      "25π"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A square has side length 5 units. What is its perimeter?",
+    "choices": [
+      "20",
+      "25",
+      "15",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "A square has side length 5 units. What is its area?",
+    "choices": [
+      "25",
+      "20",
+      "15",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "A rectangular box has six faces. How many pairs of opposite faces are there?",
+    "choices": [
+      "3",
+      "2",
+      "4",
+      "6"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "How many faces does a triangular prism have?",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "How many corners does a square pyramid have?",
+    "choices": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "How many degrees are in a straight angle?",
+    "choices": [
+      "180°",
+      "90°",
+      "120°",
+      "360°"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.35
+  },
+  {
+    "text": "How many degrees are in a right angle?",
+    "choices": [
+      "90°",
+      "45°",
+      "180°",
+      "60°"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "What is the sum of a triangle's interior angles?",
+    "choices": [
+      "180°",
+      "90°",
+      "270°",
+      "360°"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.38
+  },
+  {
+    "text": "What angle complements 35°?",
+    "choices": [
+      "55°",
+      "65°",
+      "45°",
+      "145°"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What angle supplements 120°?",
+    "choices": [
+      "60°",
+      "30°",
+      "90°",
+      "120°"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "What is the average of 4, 6, and 8?",
+    "choices": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "What is the median of 3, 7, 9, and 11?",
+    "choices": [
+      "8",
+      "7",
+      "9",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.51
+  },
+  {
+    "text": "What is the mode of 2, 2, 3, and 4?",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "No mode"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "A fair coin is tossed once. What is the chance of heads?",
+    "choices": [
+      "1/2",
+      "1/4",
+      "1/3",
+      "2/3"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "A fair die is rolled once. What is the chance of an even number?",
+    "choices": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "2/3"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.4
+  },
+  {
+    "text": "Two fair coins are tossed. What is the chance of exactly one head?",
+    "choices": [
+      "1/2",
+      "1/4",
+      "3/4",
+      "1/3"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "A bag holds three red and two blue marbles. What is the chance of red on one draw?",
+    "choices": [
+      "3/5",
+      "2/5",
+      "1/2",
+      "3/4"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "A number is multiplied by zero. What is the result?",
+    "choices": [
+      "0",
+      "1",
+      "The number",
+      "Undefined"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.2
+  },
+  {
+    "text": "What is 0.07 expressed as a percentage?",
+    "choices": [
+      "7%",
+      "0.7%",
+      "70%",
+      "0.07%"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "What is 250% expressed as a decimal?",
+    "choices": [
+      "2.5",
+      "0.25",
+      "25",
+      "0.025"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "A price rises from $40 to $50. What is the percentage increase?",
+    "choices": [
+      "25%",
+      "20%",
+      "10%",
+      "50%"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A temperature drops from 18°C to 11°C. By how many degrees did it fall?",
+    "choices": [
+      "7°",
+      "6°",
+      "8°",
+      "9°"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.29
+  },
+  {
+    "text": "How many centimeters are in a meter?",
+    "choices": [
+      "100",
+      "10",
+      "1,000",
+      "1"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.27
+  },
+  {
+    "text": "How many meters are in a kilometer?",
+    "choices": [
+      "1,000",
+      "100",
+      "10,000",
+      "100,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.31
+  },
+  {
+    "text": "How many grams are in a kilogram?",
+    "choices": [
+      "1,000",
+      "100",
+      "10,000",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.32
+  },
+  {
+    "text": "How many milliliters are in one liter?",
+    "choices": [
+      "1,000",
+      "100",
+      "10,000",
+      "10"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.33
+  },
+  {
+    "text": "What is 3.5 kilograms expressed in grams?",
+    "choices": [
+      "3,500",
+      "350",
+      "35,000",
+      "3,050"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.44
+  },
+  {
+    "text": "What is 750 milliliters expressed in liters?",
+    "choices": [
+      "0.75",
+      "0.075",
+      "7.5",
+      "75"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.46
+  },
+  {
+    "text": "A scale map uses 1 cm for 5 km. How far is 3 cm on the map?",
+    "choices": [
+      "15 km",
+      "8 km",
+      "10 km",
+      "20 km"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "A bar chart has one bar twice as tall as another. If the shorter is 12, what is the taller?",
+    "choices": [
+      "24",
+      "18",
+      "20",
+      "36"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which operation undoes multiplication by five?",
+    "choices": [
+      "Division by five",
+      "Subtraction of five",
+      "Addition of five",
+      "Squaring"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "What is the sum of the first five positive whole numbers?",
+    "choices": [
+      "15",
+      "10",
+      "12",
+      "20"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "What is the next number in 2, 4, 8, 16, ...?",
+    "choices": [
+      "32",
+      "24",
+      "30",
+      "36"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "What is the value of 3² + 4²?",
+    "choices": [
+      "25",
+      "49",
+      "14",
+      "12"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "A dozen eggs are split equally among three people. How many does each get?",
+    "choices": [
+      "4",
+      "3",
+      "6",
+      "9"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.26
+  }
+]

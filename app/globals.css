@@ -15,6 +15,9 @@
 * {
   box-sizing: border-box;
   -webkit-tap-highlight-color: transparent;
+  /* No iOS long-press "copy/share" callout — this is an app, not a document,
+     and the question box is a long-press-friendly like target. */
+  -webkit-touch-callout: none;
 }
 
 html,
@@ -458,7 +461,7 @@ body {
 /* Transient error toast. */
 .toast {
   position: fixed;
-  bottom: 18px;
+  bottom: calc(18px + env(safe-area-inset-bottom, 0px));
   left: 50%;
   transform: translateX(-50%);
   max-width: 88vw;

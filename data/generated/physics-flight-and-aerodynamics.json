@@ -1,0 +1,662 @@
+[
+  {
+    "text": "Which aerodynamic force acts roughly perpendicular to an aircraft's path through air?",
+    "choices": [
+      "Lift",
+      "Drag",
+      "Thrust",
+      "Weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.42
+  },
+  {
+    "text": "Which aerodynamic force opposes an aircraft's movement through air?",
+    "choices": [
+      "Drag",
+      "Lift",
+      "Thrust",
+      "Weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.41
+  },
+  {
+    "text": "Which force is produced by an engine to push an aircraft forward?",
+    "choices": [
+      "Thrust",
+      "Lift",
+      "Drag",
+      "Weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "Which force pulls an aircraft toward Earth's center?",
+    "choices": [
+      "Weight",
+      "Lift",
+      "Drag",
+      "Thrust"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.36
+  },
+  {
+    "text": "In steady level flight, which force balances an airplane's weight?",
+    "choices": [
+      "Lift",
+      "Drag",
+      "Thrust",
+      "Friction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In steady unaccelerated flight, which force balances an airplane's thrust?",
+    "choices": [
+      "Drag",
+      "Lift",
+      "Weight",
+      "Buoyancy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.49
+  },
+  {
+    "text": "To accelerate forward in level flight, thrust must exceed what?",
+    "choices": [
+      "Drag",
+      "Lift",
+      "Weight",
+      "Buoyancy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.48
+  },
+  {
+    "text": "The cross-sectional shape of a wing is called what?",
+    "choices": [
+      "Airfoil",
+      "Fuselage",
+      "Nacelle",
+      "Empennage"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "The angle between a wing's chord and incoming airflow is called what?",
+    "choices": [
+      "Angle of attack",
+      "Glide angle",
+      "Bank angle",
+      "Yaw angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "A wing stall occurs when airflow separates after excessive what?",
+    "choices": [
+      "Angle of attack",
+      "Wing span",
+      "Air density",
+      "Engine thrust"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which change usually increases a wing's lift at the same air density and angle, before a stall?",
+    "choices": [
+      "Greater airspeed",
+      "Less wing area",
+      "Lower air density",
+      "Shorter span"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which physical quantity drops with altitude and reduces lift at a fixed true airspeed?",
+    "choices": [
+      "Air density",
+      "Gravity",
+      "Wing area",
+      "Aircraft mass"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "The ratio of a wing's span to its average chord is its what?",
+    "choices": [
+      "Aspect ratio",
+      "Glide ratio",
+      "Compression ratio",
+      "Mach number"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Long slender wings generally reduce which drag associated with generating lift?",
+    "choices": [
+      "Induced drag",
+      "Skin friction",
+      "Wave drag",
+      "Form drag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Wingtip vortices are a major cause of what?",
+    "choices": [
+      "Induced drag",
+      "Wave drag",
+      "Ram drag",
+      "Skin friction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Small upward fins on many wing tips chiefly reduce what?",
+    "choices": [
+      "Induced drag",
+      "Weight",
+      "Thrust",
+      "Static pressure"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Drag from an object's shape and pressure wake is called what?",
+    "choices": [
+      "Form drag",
+      "Induced drag",
+      "Wave drag",
+      "Skin friction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Drag from air rubbing along an aircraft's surface is what?",
+    "choices": [
+      "Skin friction",
+      "Induced drag",
+      "Wave drag",
+      "Ram drag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Drag associated with shock waves near the speed of sound is what?",
+    "choices": [
+      "Wave drag",
+      "Induced drag",
+      "Form drag",
+      "Skin friction"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which ratio compares useful lift with resisting drag?",
+    "choices": [
+      "Lift-to-drag",
+      "Thrust-to-weight",
+      "Pressure-to-volume",
+      "Span-to-chord"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A glider with a higher lift-to-drag ratio can travel how far from the same height in still air?",
+    "choices": [
+      "Farther",
+      "Less far",
+      "The same",
+      "Not at all"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A powered airplane climbing steadily must gain what form of energy?",
+    "choices": [
+      "Potential",
+      "Chemical",
+      "Nuclear",
+      "Magnetic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A glider descending through still air trades height for what?",
+    "choices": [
+      "Forward motion",
+      "Fuel energy",
+      "Electrical charge",
+      "Buoyancy"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The main body of an airplane that houses crew and passengers is the what?",
+    "choices": [
+      "Fuselage",
+      "Nacelle",
+      "Empennage",
+      "Airfoil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.54
+  },
+  {
+    "text": "The tail assembly of an airplane is called the what?",
+    "choices": [
+      "Empennage",
+      "Fuselage",
+      "Nacelle",
+      "Airfoil"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "Which hinged wing surfaces mainly control rolling left or right?",
+    "choices": [
+      "Ailerons",
+      "Elevators",
+      "Rudders",
+      "Flaps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "Which tail control surface mainly changes pitch?",
+    "choices": [
+      "Elevator",
+      "Rudder",
+      "Aileron",
+      "Spoiler"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Which tail control surface mainly changes yaw?",
+    "choices": [
+      "Rudder",
+      "Elevator",
+      "Aileron",
+      "Flap"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A nose-up or nose-down rotation about the wing-to-wing axis is what?",
+    "choices": [
+      "Pitch",
+      "Roll",
+      "Yaw",
+      "Slip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A rotation about the aircraft's nose-to-tail axis is what?",
+    "choices": [
+      "Roll",
+      "Pitch",
+      "Yaw",
+      "Slip"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "A left-or-right nose rotation about the vertical axis is what?",
+    "choices": [
+      "Yaw",
+      "Roll",
+      "Pitch",
+      "Bank"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "Which wing devices extend at takeoff and landing to increase lift at lower speeds?",
+    "choices": [
+      "Flaps",
+      "Spoilers",
+      "Winglets",
+      "Trim tabs"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "Which devices extend from a wing's leading edge to delay airflow separation?",
+    "choices": [
+      "Slats",
+      "Spoilers",
+      "Ailerons",
+      "Elevators"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "Which plates rise from a wing to spoil lift and increase drag?",
+    "choices": [
+      "Spoilers",
+      "Slats",
+      "Winglets",
+      "Flaps"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which small adjustable surface can reduce the force a pilot must hold on a control?",
+    "choices": [
+      "Trim tab",
+      "Winglet",
+      "Slat",
+      "Spoiler"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "A turn made by tilting the wings uses a horizontal component of what force?",
+    "choices": [
+      "Lift",
+      "Drag",
+      "Weight",
+      "Thrust"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "Which part of a jet engine compresses incoming air before fuel burns?",
+    "choices": [
+      "Compressor",
+      "Turbine",
+      "Nozzle",
+      "Exhaust cone"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which jet-engine part adds heat by burning fuel with compressed air?",
+    "choices": [
+      "Combustor",
+      "Compressor",
+      "Turbine",
+      "Nozzle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Which jet-engine part extracts energy from hot gas to drive the compressor?",
+    "choices": [
+      "Turbine",
+      "Compressor",
+      "Nozzle",
+      "Intake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "Which jet-engine part accelerates exhaust gas to produce thrust?",
+    "choices": [
+      "Nozzle",
+      "Compressor",
+      "Turbine",
+      "Intake"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "A propeller produces thrust mainly by accelerating what backward?",
+    "choices": [
+      "Air",
+      "Fuel",
+      "Electricity",
+      "Exhaust only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.52
+  },
+  {
+    "text": "Unlike a jet, a rocket carries its own supply of what for combustion?",
+    "choices": [
+      "Oxidizer",
+      "Air filter",
+      "Wing lift",
+      "Cooling water"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "A helicopter's main rotor supplies both lift and much of its what?",
+    "choices": [
+      "Control",
+      "Fuel",
+      "Weight",
+      "Cooling"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "A hot-air balloon rises chiefly because of which force?",
+    "choices": [
+      "Buoyancy",
+      "Thrust",
+      "Magnetism",
+      "Induced drag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.53
+  },
+  {
+    "text": "A parachute slows a falling object mainly by increasing what?",
+    "choices": [
+      "Drag",
+      "Lift",
+      "Thrust",
+      "Weight"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.47
+  },
+  {
+    "text": "A pitot-static instrument estimates airspeed from a difference in what?",
+    "choices": [
+      "Pressure",
+      "Temperature",
+      "Humidity",
+      "Magnetism"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "An altimeter commonly estimates height from changing atmospheric what?",
+    "choices": [
+      "Pressure",
+      "Humidity",
+      "Magnetism",
+      "Sound"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "Compared with its airspeed, an aircraft flying into a headwind has a lower what?",
+    "choices": [
+      "Groundspeed",
+      "Mach number",
+      "Stall angle",
+      "Lift coefficient"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Compared with its airspeed, an aircraft flying with a tailwind has a higher what?",
+    "choices": [
+      "Groundspeed",
+      "Mach number",
+      "Stall angle",
+      "Lift coefficient"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "The ratio of an aircraft's speed to the local speed of sound is its what?",
+    "choices": [
+      "Mach number",
+      "Reynolds number",
+      "Aspect ratio",
+      "Glide ratio"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "An aircraft flying at Mach 2 is described as what?",
+    "choices": [
+      "Supersonic",
+      "Subsonic",
+      "Transonic",
+      "Hypersonic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "A loud boom associated with a supersonic aircraft results from what?",
+    "choices": [
+      "Shock waves",
+      "Wing flaps",
+      "Engine sparks",
+      "Turbine blades"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "A wind tunnel lets researchers test a model by controlling flow of what?",
+    "choices": [
+      "Air",
+      "Water",
+      "Fuel",
+      "Smoke only"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In a wind tunnel, which sensor system directly measures lift and drag on a model?",
+    "choices": [
+      "Force balance",
+      "Pitot tube",
+      "Altimeter",
+      "Thermometer"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "Which surface provides most of an ordinary airplane's aerodynamic lift?",
+    "choices": [
+      "Wing",
+      "Rudder",
+      "Fuselage",
+      "Landing gear"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "Which aircraft part is normally used to reduce speed after touchdown by increasing drag?",
+    "choices": [
+      "Spoilers",
+      "Ailerons",
+      "Slats",
+      "Winglets"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "A higher aircraft mass generally requires more what in level flight?",
+    "choices": [
+      "Lift",
+      "Drag coefficient",
+      "Aspect ratio",
+      "Mach number"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "With unchanged wing shape and airspeed, denser air generally produces more what?",
+    "choices": [
+      "Lift",
+      "Weight",
+      "Fuel",
+      "Gravity"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.61
+  },
+  {
+    "text": "The horizontal distance between an airplane's two wingtips is its what?",
+    "choices": [
+      "Wingspan",
+      "Chord",
+      "Camber",
+      "Thickness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.63
+  },
+  {
+    "text": "Which term names the angle of a glider's descent below the horizon?",
+    "choices": [
+      "Glide angle",
+      "Angle of attack",
+      "Bank angle",
+      "Yaw angle"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  }
+]
