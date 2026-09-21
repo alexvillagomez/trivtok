@@ -1,6 +1,6 @@
 import "./loadEnv";
 import { readFile } from "node:fs/promises";
-import { embedAndCompress, embeddingInput } from "../lib/embeddings/embed";
+import { embedAndCompress, embedDedup, embeddingInput } from "../lib/embeddings/embed";
 import { sql } from "../lib/db/client";
 import { validateAuthoredQuestion, type QuestionShape } from "../lib/questions/validate";
 
@@ -62,11 +62,17 @@ async function main() {
     console.log("No live stems required updating.");
     return;
   }
-  const embeddings = await embedAndCompress(prepared.map(({ question }) => embeddingInput(question)));
+  const inputs = prepared.map(({ question }) => embeddingInput(question));
+  const [embeddings, dedupVecs] = await Promise.all([
+    embedAndCompress(inputs),
+    embedDedup(inputs),
+  ]);
   for (const [index, item] of prepared.entries()) {
     await sql`
       update questions
-      set text = ${item.question.text}, embedding = ${JSON.stringify(embeddings[index])}::vector
+      set text = ${item.question.text},
+          embedding = ${JSON.stringify(embeddings[index])}::vector,
+          embedding_256 = ${JSON.stringify(dedupVecs[index])}::vector
       where id = ${item.id}
     `;
     console.log(`Updated ${item.file} #${item.index} (${item.id}).`);

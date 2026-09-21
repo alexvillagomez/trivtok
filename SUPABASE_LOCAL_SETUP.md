@@ -9,8 +9,9 @@ Verified database state:
 - The `questions`, `users`, `user_interests`, and `interactions` tables exist.
 - The `vector` extension is enabled.
 - The `questions_embedding_idx` HNSW index exists.
-- The database contains 449 unique questions.
-- Every stored question has a 64-dimensional embedding.
+- The bank holds several thousand questions (see `QUESTION_COVERAGE.md` /
+  `data/insertion-ledger.json` for the current inventory), each with a
+  64-dimensional embedding.
 - The application production build completes successfully.
 
 Do not commit `.env.local` or copy its credentials into client-side variables.
@@ -21,7 +22,6 @@ Do not commit `.env.local` or copy its credentials into client-side variables.
 From the project directory, run:
 
 ```bash
-cd /Users/alexvillagomez/Desktop/trivtok
 npm run dev
 ```
 

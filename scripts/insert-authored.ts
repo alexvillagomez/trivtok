@@ -1,7 +1,8 @@
 import "./loadEnv"; // must be first: loads keys before clients are built
 import { readFile } from "node:fs/promises";
-import { embedAndCompress, embeddingInput } from "../lib/embeddings/embed";
+import { embedAndCompress, embedDedup, embeddingInput } from "../lib/embeddings/embed";
 import { insertQuestions, type QuestionSeed } from "../lib/db/questions";
+import { inBatchDuplicates, findExistingDuplicate } from "../lib/db/dedup";
 import { validateAuthoredQuestion } from "../lib/questions/validate";
 import { sql } from "../lib/db/client";
 
@@ -43,18 +44,61 @@ async function main() {
     process.exit(1);
   }
 
-  // The one allowed API call: embed stem + correct answer, compress to 64-D.
-  const embeddings = await embedAndCompress(valid.map(embeddingInput));
-  const seeds: QuestionSeed[] = valid.map((q, i) => ({
-    text: q.text,
-    choices: q.choices,
-    correctIndex: q.correctIndex,
-    difficulty: q.difficulty,
-    embedding: embeddings[i],
-  }));
+  // The one allowed API call: embed stem + correct answer. We build TWO vectors
+  // from the same text — the 64-D recommendation vector and the 256-D dedup
+  // vector (migration 0014).
+  const inputs = valid.map(embeddingInput);
+  const [embeddings, dedupVecs] = await Promise.all([
+    embedAndCompress(inputs),
+    embedDedup(inputs),
+  ]);
+
+  // Near-duplicate gate (double lever — see lib/db/dedup.ts). A candidate is
+  // dropped when its nearest match — an earlier candidate in THIS file, or
+  // something already in the bank — is close enough in the 256-D space, with a
+  // softer cutoff when the correct answers also match.
+  const answers = valid.map((q) => q.choices[q.correctIndex]);
+  const droppedInBatch = inBatchDuplicates(dedupVecs, answers);
+  const seeds: QuestionSeed[] = [];
+  let skippedBatch = 0;
+  let skippedBank = 0;
+
+  for (let i = 0; i < valid.length; i++) {
+    const q = valid[i];
+
+    const twin = droppedInBatch.get(i);
+    if (twin !== undefined) {
+      skippedBatch++;
+      console.warn(
+        `Skipped (dup of earlier in file): "${q.text}"\n    ~= "${valid[twin].text}"`,
+      );
+      continue;
+    }
+
+    const hit = await findExistingDuplicate(dedupVecs[i], answers[i]);
+    if (hit) {
+      skippedBank++;
+      console.warn(
+        `Skipped (dup of existing, sim ${hit.sim.toFixed(3)}): "${q.text}"\n    ~= "${hit.text}"`,
+      );
+      continue;
+    }
+
+    seeds.push({
+      text: q.text,
+      choices: q.choices,
+      correctIndex: q.correctIndex,
+      difficulty: q.difficulty,
+      embedding: embeddings[i],
+      embedding256: dedupVecs[i],
+    });
+  }
 
   const n = await insertQuestions(seeds);
-  console.log(`Inserted ${n} questions from ${path}.`);
+  console.log(
+    `Inserted ${n} questions from ${path} ` +
+      `(skipped ${skippedBatch} in-file dup(s), ${skippedBank} existing dup(s)).`,
+  );
   await sql.end();
 }
 

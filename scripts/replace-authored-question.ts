@@ -1,6 +1,6 @@
 import "./loadEnv";
 import { readFile } from "node:fs/promises";
-import { embedAndCompress, embeddingInput } from "../lib/embeddings/embed";
+import { embedAndCompress, embedDedup, embeddingInput } from "../lib/embeddings/embed";
 import { sql } from "../lib/db/client";
 import { validateAuthoredQuestion, type QuestionShape } from "../lib/questions/validate";
 
@@ -36,10 +36,16 @@ async function main() {
   const duplicate = await sql`select id from questions where text = ${question.text} limit 1`;
   if (duplicate.length) throw new Error("The replacement stem is already in the database.");
 
-  const [embedding] = await embedAndCompress([embeddingInput(question)]);
+  const input = embeddingInput(question);
+  const [[embedding], [dedup]] = await Promise.all([
+    embedAndCompress([input]),
+    embedDedup([input]),
+  ]);
   await sql`
     update questions
-    set text = ${question.text}, embedding = ${JSON.stringify(embedding)}::vector
+    set text = ${question.text},
+        embedding = ${JSON.stringify(embedding)}::vector,
+        embedding_256 = ${JSON.stringify(dedup)}::vector
     where id = ${row.id}
   `;
   console.log(`Updated question ${row.id} from ${file} #${number}.`);

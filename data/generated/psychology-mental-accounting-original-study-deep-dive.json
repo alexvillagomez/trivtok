@@ -1,0 +1,167 @@
+[
+  {
+    "text": "In Tversky and Kahneman's 1981 theater study, what item did one group lose before deciding whether to buy admission?",
+    "choices": [
+      "$10 bill",
+      "Ticket",
+      "Wallet",
+      "Coupon"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In Tversky and Kahneman's 1981 theater study, what had the other group already purchased and then lost?",
+    "choices": [
+      "$10 bill",
+      "Ticket",
+      "Playbill",
+      "Coupon"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In the 1981 theater study, what was the admission price in both versions of the problem?",
+    "choices": [
+      "$5",
+      "$15",
+      "$10",
+      "$20"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In the 1981 theater study, about what share would still buy admission after losing cash?",
+    "choices": [
+      "46%",
+      "54%",
+      "12%",
+      "88%"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the 1981 theater study, about what share would buy admission again after losing an already-bought ticket?",
+    "choices": [
+      "46%",
+      "88%",
+      "54%",
+      "12%"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the 1981 theater study, how did many participants mentally price seeing the play after losing an already-bought ticket?",
+    "choices": [
+      "$10",
+      "$20",
+      "$15",
+      "$30"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In Tversky and Kahneman's 1981 shopping problem, which item carried the price discount at a different store?",
+    "choices": [
+      "Jacket",
+      "Ticket",
+      "Calculator",
+      "Camera"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In the 1981 shopping problem, how much could a buyer save by driving to another branch?",
+    "choices": [
+      "$10",
+      "$15",
+      "$20",
+      "$5"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "In the 1981 shopping problem, how long was the drive to the branch offering the discount?",
+    "choices": [
+      "20 minutes",
+      "10 minutes",
+      "30 minutes",
+      "40 minutes"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the 1981 shopping problem, which calculator price made most participants willing to drive for a $5 discount?",
+    "choices": [
+      "$50",
+      "$15",
+      "$100",
+      "$125"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In the 1981 shopping problem, about what share would drive for a $5 discount on a $15 calculator?",
+    "choices": [
+      "29%",
+      "46%",
+      "68%",
+      "88%"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.86
+  },
+  {
+    "text": "In the 1981 shopping problem, about what share would drive for the same discount on a $125 calculator?",
+    "choices": [
+      "68%",
+      "46%",
+      "88%",
+      "29%"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.86
+  },
+  {
+    "text": "In the 1981 framing paper, the credit-card industry preferred calling a price difference a cash discount instead of what?",
+    "choices": [
+      "Card surcharge",
+      "Service tax",
+      "Late fee",
+      "Merchant penalty"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In the 1981 framing paper's racing example, how much had the bettor already lost before considering one final wager?",
+    "choices": [
+      "$100",
+      "$140",
+      "$10",
+      "$150"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the 1981 paper's vaccine example, framing full protection against one virus was favored over a simple reduction from 20% to what?",
+    "choices": [
+      "5%",
+      "15%",
+      "10%",
+      "0%"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.84
+  }
+]

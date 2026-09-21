@@ -86,7 +86,8 @@ app/
                      <Home/> (gate+feed) + <Profile/> (top-right). Home before
                      Profile so the "change interests" picker stacks over the feed.
   actions.ts         "use server" — beginFeed()/submitInteraction() → lib/db/feed;
-                     getTopics()/saveInterests()/getProfile() → lib/db/topics
+                     getTopics()/saveInterests()/getProfile() → lib/db/topics;
+                     getSettings()/saveSettings() → lib/db/settings
                      (beginFeed takes excludeIds so the client can preload w/o dupes)
   layout.tsx, globals.css   9:16 phone frame; TikTok slide/qbox/translucent-rail CSS
 components/
@@ -96,7 +97,10 @@ components/
                      mode="onboard" (Skip) or "edit" (Cancel, re-opened from Profile).
   Profile.tsx        client: top-right avatar → sheet with lifetime accuracy + counts
                      (getProfile, DB truth), favorite topics, strongest areas, auth
-                     (email+password, absorbed from the old AuthPanel), change interests.
+                     (email+password, absorbed from the old AuthPanel), a Settings
+                     section (exploration + difficulty sliders + blur toggle, via
+                     get/saveSettings — debounced writes; blur broadcasts SETTINGS_EVENT
+                     to the live Feed), and change interests.
   Feed.tsx           client: TikTok vertical feed. Full-frame slides move together
                      under a press-drag (pointer events + CSS transforms), snap on
                      release/flick. Swipe UP = next, DOWN = back through history
@@ -104,23 +108,40 @@ components/
                      spinner ever shows: mount preloads 2 cards; each forward swipe
                      records the card you leave and appends its returned card as the
                      new lookahead (recorded-once via a per-slot flag). Double-tap
-                     the question or tap ♥ to like; ⚑ to report. No wheel/keyboard nav.
-  QuestionCard.tsx   pure presentational card: question in a .qbox (double-tap→like)
-                     + four choices. No difficulty shown.
+                     the question to like; a three-dot menu holds like/report. No
+                     wheel/keyboard nav.
+  QuestionCard.tsx   pure presentational card: question + four choices, a
+                     double-tap-to-like zone above the choices, and a three-dot
+                     menu (like/report). No right-hand rail; no difficulty shown.
+                     With blurAnswers on, the choices start blurred behind a
+                     "tap to reveal" overlay (first tap reveals, doesn't answer).
 lib/
   types.ts           domain types. PublicQuestion / PublicTopic = what the browser may
                      see (NO embedding / NO centroid). Map with toPublic*() before crossing.
   vector.ts          dot, normalize
+  clientId.ts        client-only: the anon user id (localStorage) + session id
+                     (sessionStorage), shared by Feed/InterestPicker/Profile; also
+                     SETTINGS_EVENT (in-tab blur-toggle broadcast Profile→Feed)
   rec/               the engine — pure functions + the golden-tested ORACLE for the SQL port
   db/                postgres.js access: client, questions (bank load/seed), feed (thin
                      wrapper over next_question()), accounts (anon↔auth linking), reports,
+                     dedup (near-dup gate: findExistingDuplicate ANN probe +
+                     inBatchDuplicates, double-lever isDuplicateHit predicate),
                      topics (listTopics, setStartingInterests, + profile read models:
-                     favorite topics / strongest areas / lifetime stats)
+                     favorite topics / strongest areas / lifetime stats),
+                     settings (getUserSettings/setUserSettings: the exploration /
+                     difficulty / blur knobs on the users row — migration 0015)
   supabase/          browser.ts + server.ts (Supabase Auth: email+password)
-  embeddings/        embed.ts (OpenAI provider seam) + compress.ts (1536→64 random projection)
+  embeddings/        embed.ts (OpenAI provider seam: embedAndCompress → 64-D rec vector,
+                     embedDedup → 256-D Matryoshka near-dup vector) + compress.ts
+                     (1536→64 random projection)
 scripts/
   migrate.ts         apply pending supabase/migrations/*.sql (tracked in schema_migrations)
-  insert-authored.ts import Haiku-authored question JSON → embed → insert
+  insert-authored.ts import Haiku-authored question JSON → embed (64-D + 256-D) →
+                     near-dup gate (double lever: reject vs the batch or the bank at
+                     cosine ≥ 0.80, or ≥ 0.75 when correct answers match) → insert
+  backfill-dedup-embeddings.ts  one-time/resumable: populate embedding_256 (0014)
+                     for pre-existing questions (set-based UPDATE per chunk)
   seed-topics.ts     populate the topics table: each centroid = AVERAGE of its families'
                      real question embeddings (matched by text via data/topic-families.json;
                      falls back to embedding data/topics.json `description`). Idempotent.
@@ -128,7 +149,14 @@ scripts/
   try-*.ts           offline engine smoke tests; try-momentum (worn-out→recovery
                      sim for tuning momentum), try-sql-parity (SQL==oracle),
                      try-next-question (in-DB pipeline end-to-end), try-topics (centroid
-                     norms + nearest-topic), try-topic-retrieval (what a topic surfaces)
+                     norms + nearest-topic), try-topic-retrieval (what a topic surfaces),
+                     try-latency (per-swipe network vs in-DB compute)
+  (bank maintenance) audit-question-bank (validate + catalog the whole bank, via
+                     `npm run audit:questions` / `catalog:questions`),
+                     rebalance-answer-positions (`npm run rebalance:questions`),
+                     dedup-questions / report-question-duplicates, find-question /
+                     delete-question, replace-authored-question(s), check-inserted,
+                     insert-authored-local (no-API import from existing vectors)
 supabase/migrations/
   0001_init            questions, users, user_interests, interactions
   0002_auth_and_logging accounts (auth_id/email), impressions log, session_abandonment view
@@ -160,6 +188,35 @@ supabase/migrations/
                          the filtered ANN keeps pulling past ef_search and finds
                          UNSEEN cards instead of starving into the seen-recycling
                          fallback. Must run after 0011 (which creates the function)
+  0013_higher_temperature raise both softmax temperatures for more variety (topic
+                         stopped narrowing to one cluster): c_tau_primary 0.5→1.0
+                         (spread the primary-interest sample across clusters) +
+                         c_tau_select 0.2→1.5 (vary the question within a topic).
+                         Mirrors lib/rec priority.ts/select.ts tau; CREATE OR REPLACE
+                         so it re-attaches 0012's iterative_scan GUC at the end
+  0014_dedup_embedding   second per-question vector for near-dup detection:
+                         embedding_256 vector(256) (OpenAI Matryoshka dimensions:256,
+                         unit-normalized) + HNSW vector_ip_ops index. The 64-D
+                         `embedding` is too lossy to dedup (unrelated pairs hit 0.997
+                         cosine); 256-D separates rewordings from same-topic siblings.
+                         Nullable (no-API local import inserts NULL); backfilled by
+                         scripts/backfill-dedup-embeddings.ts. Import gate = double
+                         lever: reject at cosine ≥ 0.80, or ≥ 0.75 when the correct
+                         answers also match (catches same-fact paraphrases without
+                         flagging different-answer cousins) — see lib/db/dedup.ts
+  0015_user_settings     three per-user knobs on the users row, read by next_question
+                         each swipe (no new call args — signature unchanged):
+                         explore_level real [0,1] (the exploration slider — CENTER of
+                         the roll, 0=only known interests…1=always explore; adaptive
+                         skip/like nudge scaled by 4·L·(1−L) so endpoints are exact),
+                         target_p real (difficulty target for rec_difficulty_factor),
+                         blur_answers boolean (pure client render, next_question never
+                         reads it). Redefines rec_explore_prob (level replaces
+                         base/lo/hi), rec_difficulty_factor (+target overload),
+                         rec_score (+target); mirrored in lib/rec (priority.ts
+                         exploreLevel/exploreProbability, difficulty.ts
+                         difficultyFactor(p,target), select.ts targetP). Re-attaches
+                         0012's iterative_scan GUC. Saved via lib/db/settings.ts
 ```
 
 ## Hard boundaries (enforce these)

@@ -56,10 +56,6 @@ export type Topic = {
 /** What the browser may see of a topic: display fields only, never the centroid. */
 export type PublicTopic = Pick<Topic, "id" | "label" | "emoji" | "sortOrder">;
 
-export function toPublicTopic(t: Topic): PublicTopic {
-  return { id: t.id, label: t.label, emoji: t.emoji, sortOrder: t.sortOrder };
-}
-
 /**
  * Bayesian ability: a diagonal Gaussian over the 64-D ability vector.
  * `mean` is the point estimate (θ); `variance` is our uncertainty per
@@ -70,10 +66,22 @@ export type Ability = {
   variance: Embedding;
 };
 
-export type User = {
-  id: string;
-  ability: Ability;
-  createdAt: string;
+/**
+ * Per-user settings (migration 0015). Plain scalars — safe to cross to the client
+ * (this type carries no embeddings). `exploreLevel` and `targetP` feed the in-DB
+ * recommender; `blurAnswers` is a pure client-render flag.
+ */
+export type UserSettings = {
+  exploreLevel: number; // [0,1] — 0 = only known interests, 1 = explore constantly
+  targetP: number; // target P(correct); higher = easier questions
+  blurAnswers: boolean; // blur the choices until tapped
+};
+
+/** Defaults — must match the users-table column defaults in migration 0015. */
+export const DEFAULT_USER_SETTINGS: UserSettings = {
+  exploreLevel: 0.1,
+  targetP: 0.7,
+  blurAnswers: false,
 };
 
 /** One semantic interest cluster for a user. */
@@ -88,21 +96,4 @@ export type UserInterest = {
   // so the topic naturally re-surfaces for a re-test. See lib/rec/interest.ts.
   positiveCount: number; // number of positive interactions seen
   lastUsedAt: string; // ISO timestamp — freshness bonus AND momentum decay reference
-};
-
-/** The four ways a user can respond to a shown question. */
-export type Reaction = "answer" | "like" | "dislike" | "skip";
-
-/** An append-only log row. One per shown question. */
-export type Interaction = {
-  userId: string;
-  questionId: string;
-  shownAt: string; // ISO timestamp
-  answered: boolean;
-  correct: boolean | null; // null when not answered
-  liked: boolean;
-  disliked: boolean;
-  skipped: boolean;
-  responseTimeMs: number | null;
-  sessionId: string;
 };

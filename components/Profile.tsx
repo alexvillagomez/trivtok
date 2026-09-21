@@ -1,7 +1,15 @@
 "use client";
 
-import { useCallback, useEffect, useState } from "react";
-import { getProfile, linkAccount, type ProfileData } from "@/app/actions";
+import { useCallback, useEffect, useRef, useState } from "react";
+import {
+  getProfile,
+  getSettings,
+  linkAccount,
+  saveSettings,
+  type ProfileData,
+} from "@/app/actions";
+import { getAnonUserId, SETTINGS_EVENT } from "@/lib/clientId";
+import { DEFAULT_USER_SETTINGS, type UserSettings } from "@/lib/types";
 import { getSupabaseBrowser } from "@/lib/supabase/browser";
 import InterestPicker from "@/components/InterestPicker";
 
@@ -9,15 +17,6 @@ import InterestPicker from "@/components/InterestPicker";
 // lifetime accuracy + counts (DB truth via getProfile), favorite topics,
 // strongest areas, auth (lifted from AuthPanel), and a "Change interests"
 // shortcut back into the InterestPicker. Replaces the old <AuthPanel/> bar.
-
-function anonId(): string {
-  let id = window.localStorage.getItem("trivtok-user-id");
-  if (!id) {
-    id = crypto.randomUUID();
-    window.localStorage.setItem("trivtok-user-id", id);
-  }
-  return id;
-}
 
 // Optional secondary flair only — the DB is the source of truth for accuracy.
 type LocalStats = { xp: number; best: number };
@@ -52,7 +51,7 @@ export default function Profile() {
 
   const loadProfile = useCallback(async () => {
     setLoadError(null);
-    const result = await getProfile(anonId());
+    const result = await getProfile(getAnonUserId());
     if (result.ok) {
       setProfile(result);
     } else {
@@ -76,7 +75,7 @@ export default function Profile() {
       if (cancelled) return;
       setEmail(session?.user.email ?? null);
       if (!session) return;
-      const current = anonId();
+      const current = getAnonUserId();
       const result = await linkAccount(current, session.access_token);
       if (!cancelled && result.ok && result.userId !== current) {
         window.localStorage.setItem("trivtok-user-id", result.userId);
@@ -95,7 +94,7 @@ export default function Profile() {
   }, [open, loadProfile]);
 
   async function linkAndReload(accessToken: string) {
-    const result = await linkAccount(anonId(), accessToken);
+    const result = await linkAccount(getAnonUserId(), accessToken);
     if (result.ok) {
       window.localStorage.setItem("trivtok-user-id", result.userId);
       window.sessionStorage.removeItem("trivtok-session-id");
@@ -283,6 +282,8 @@ export default function Profile() {
                 </section>
               )}
 
+              <SettingsSection />
+
               <button
                 className="profile-btn profile-btn--wide"
                 onClick={() => setEditing(true)}
@@ -386,5 +387,110 @@ function Stat({ value, label }: { value: number; label: string }) {
       <div className="profile-stat__value">{value.toLocaleString()}</div>
       <div className="profile-stat__label">{label}</div>
     </div>
+  );
+}
+
+// Exploration + difficulty feed the in-DB recommender; blur is a client render
+// flag. All three persist on the user's row (getSettings/saveSettings). Slider
+// moves update local state instantly and persist on a short debounce, so a drag
+// is one write, not dozens; the blur toggle also broadcasts to the live feed.
+const SAVE_DEBOUNCE_MS = 350;
+
+function SettingsSection() {
+  const [settings, setSettings] = useState<UserSettings>(DEFAULT_USER_SETTINGS);
+  const [loaded, setLoaded] = useState(false);
+  const saveTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  // Mirror the latest settings so update() can build the next value without
+  // reading a stale closure — and without side-effecting inside a setState updater.
+  const settingsRef = useRef(settings);
+  settingsRef.current = settings;
+
+  useEffect(() => {
+    let cancelled = false;
+    getSettings(getAnonUserId()).then((res) => {
+      if (!cancelled && res.ok) {
+        setSettings({
+          exploreLevel: res.exploreLevel,
+          targetP: res.targetP,
+          blurAnswers: res.blurAnswers,
+        });
+      }
+      if (!cancelled) setLoaded(true);
+    });
+    return () => {
+      cancelled = true;
+      if (saveTimer.current) clearTimeout(saveTimer.current);
+    };
+  }, []);
+
+  function persist(next: UserSettings, immediate = false) {
+    if (saveTimer.current) clearTimeout(saveTimer.current);
+    const run = () => saveSettings(getAnonUserId(), next);
+    if (immediate) run();
+    else saveTimer.current = setTimeout(run, SAVE_DEBOUNCE_MS);
+  }
+
+  function update(patch: Partial<UserSettings>, immediate = false) {
+    const next = { ...settingsRef.current, ...patch };
+    setSettings(next);
+    persist(next, immediate);
+  }
+
+  return (
+    <section className="profile-section settings">
+      <h3 className="profile-section__title">Settings</h3>
+
+      <label className="settings-row">
+        <span className="settings-row__label">Exploration</span>
+        <input
+          type="range"
+          min={0}
+          max={1}
+          step={0.05}
+          value={settings.exploreLevel}
+          disabled={!loaded}
+          onChange={(e) => update({ exploreLevel: Number(e.target.value) })}
+        />
+        <span className="settings-row__ends">
+          <span>Only what I like</span>
+          <span>Explore constantly</span>
+        </span>
+      </label>
+
+      <label className="settings-row">
+        <span className="settings-row__label">Difficulty</span>
+        <input
+          type="range"
+          min={0.5}
+          max={0.9}
+          step={0.05}
+          // The slider reads left→right as easy→hard, but a LOW target P(correct)
+          // means HARDER questions, so we flip: position = max+min − targetP.
+          value={0.5 + 0.9 - settings.targetP}
+          disabled={!loaded}
+          onChange={(e) => update({ targetP: 0.5 + 0.9 - Number(e.target.value) })}
+        />
+        <span className="settings-row__ends">
+          <span>Easier</span>
+          <span>Harder</span>
+        </span>
+      </label>
+
+      <label className="settings-toggle">
+        <span className="settings-row__label">Blur answers until tapped</span>
+        <input
+          type="checkbox"
+          checked={settings.blurAnswers}
+          disabled={!loaded}
+          onChange={(e) => {
+            const blurAnswers = e.target.checked;
+            update({ blurAnswers }, true);
+            window.dispatchEvent(
+              new CustomEvent(SETTINGS_EVENT, { detail: { blurAnswers } }),
+            );
+          }}
+        />
+      </label>
+    </section>
   );
 }

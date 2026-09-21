@@ -23,15 +23,16 @@ export type PriorityParams = {
   likeWeight: number; // weight on the within-interest like adjustment
   likePrior: number; // shrinkage of the like rate toward the session mean
   momentumWeight: number; // weight on recent-engagement momentum (dominates by design)
-  exploreBase: number; // base exploration probability (neutral session)
+  exploreLevel: number; // the user's exploration setting in [0,1] (0 = never, 1 = always)
   exploreSkipWeight: number; // ↑ explore when the session is being skipped
   exploreLikeWeight: number; // ↓ explore when the session is landing likes
-  exploreMin: number; // clamp: never explore less than this
-  exploreMax: number; // clamp: never explore more than this
 };
 
 export const DEFAULT_PARAMS: PriorityParams = {
-  tau: 0.5,
+  // Higher temperature → the primary interest is sampled more evenly across
+  // clusters, so one strong topic (e.g. a spawned "Wild Robot" interest) stops
+  // winning nearly every swipe (was 0.5).
+  tau: 1.0,
   alpha: 0.2,
   topSecondary: 3,
   freshWeight: 0.3,
@@ -40,14 +41,16 @@ export const DEFAULT_PARAMS: PriorityParams = {
   likeWeight: 0.5,
   likePrior: 5,
   // Momentum is deliberately the loudest term: at ±1 it moves activation by ±3,
-  // which under tau=0.5 is an e^±6 swing in the softmax — enough for a currently
+  // which under tau=1.0 is an e^±3 swing in the softmax — enough for a currently
   // worn-out topic to lose to a freshly-liked one regardless of long-term strength.
   momentumWeight: 3.0,
-  exploreBase: 0.1,
+  // The exploration setting is the CENTER of the roll: at 0 we never explore
+  // (only known interests), at 1 we always explore (near-random). The adaptive
+  // skip/like nudge is scaled by 4·level·(1−level) so it fades to nothing at both
+  // ends — the slider's extremes stay exact — and is strongest at level 0.5.
+  exploreLevel: 0.1,
   exploreSkipWeight: 0.3,
   exploreLikeWeight: 0.2,
-  exploreMin: 0.02,
-  exploreMax: 0.4,
 };
 
 export type PriorityContext = {
@@ -178,14 +181,21 @@ export function interestActivation(
   );
 }
 
-/** Adaptive exploration probability, clamped to [exploreMin, exploreMax]. */
+/**
+ * Adaptive exploration probability, centered on the user's `exploreLevel` and
+ * clamped to [0,1]. The skip/like adjustment is scaled by 4·level·(1−level) so it
+ * vanishes at the endpoints: level 0 → exactly 0 (never explore), level 1 →
+ * exactly 1 (always explore), with the full adaptive swing around level 0.5.
+ */
 export function exploreProbability(
   skipRate: number,
   likeRate: number,
   p: PriorityParams,
 ): number {
-  const raw = p.exploreBase + p.exploreSkipWeight * skipRate - p.exploreLikeWeight * likeRate;
-  return Math.min(p.exploreMax, Math.max(p.exploreMin, raw));
+  const scale = 4 * p.exploreLevel * (1 - p.exploreLevel);
+  const raw =
+    p.exploreLevel + scale * (p.exploreSkipWeight * skipRate - p.exploreLikeWeight * likeRate);
+  return Math.min(1, Math.max(0, raw));
 }
 
 /** A_j = strength + freshness − fatigue + like-preference (fixed-weight readout). */

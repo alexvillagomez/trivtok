@@ -1,0 +1,519 @@
+[
+  {
+    "text": "In Git, which command removes a file from the next commit while leaving its working-tree edits intact?",
+    "choices": [
+      "git restore --staged",
+      "git restore --worktree",
+      "git clean -f",
+      "git revert HEAD"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In Git, which option lets a developer stage selected change hunks rather than an entire file?",
+    "choices": [
+      "--all",
+      "--patch",
+      "--cached",
+      "--force"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Git, which add option stages tracked modifications and deletions but does not stage new untracked files?",
+    "choices": [
+      "--all",
+      "--force",
+      "--update",
+      "--intent-to-add"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In Git, which add option marks a new file as intended for addition without yet staging its contents?",
+    "choices": [
+      "--update",
+      "--force",
+      "--refresh",
+      "--intent-to-add"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Git, which add option can stage an otherwise ignored file when that inclusion is intentional?",
+    "choices": [
+      "--force",
+      "--update",
+      "--refresh",
+      "--dry-run"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In Git, which commit option changes the most recent commit instead of making a separate new one?",
+    "choices": [
+      "--reuse-message",
+      "--amend",
+      "--fixup",
+      "--allow-empty"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In Git, which commit option adds a Signed-off-by trailer to the message?",
+    "choices": [
+      "--gpg-sign",
+      "--verify",
+      "--signoff",
+      "--author"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In Git, which command lists saved stashes without restoring any of them?",
+    "choices": [
+      "git stash pop",
+      "git stash apply",
+      "git stash drop",
+      "git stash list"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.5
+  },
+  {
+    "text": "In Git, which stash subcommand reapplies a saved work state while retaining it in the stash list?",
+    "choices": [
+      "apply",
+      "pop",
+      "drop",
+      "clear"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Git, which stash subcommand reapplies a saved work state and removes it from the list if successful?",
+    "choices": [
+      "apply",
+      "pop",
+      "show",
+      "branch"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Git, which stash option includes untracked files when saving a temporary work state?",
+    "choices": [
+      "--keep-index",
+      "--patch",
+      "--include-untracked",
+      "--staged"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In Git, which stash subcommand displays the changes recorded in a saved work state?",
+    "choices": [
+      "list",
+      "drop",
+      "store",
+      "show"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Git, which merge option creates a merge commit even when a branch could simply move forward?",
+    "choices": [
+      "--no-ff",
+      "--ff-only",
+      "--squash",
+      "--no-commit"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Git, which merge option refuses a merge unless it can advance the current branch without a merge commit?",
+    "choices": [
+      "--no-ff",
+      "--ff-only",
+      "--squash",
+      "--no-commit"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In Git, which merge option prepares the combined changes for one ordinary commit without recording a merge parent?",
+    "choices": [
+      "--no-ff",
+      "--ff-only",
+      "--squash",
+      "--verify"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Git, which merge option pauses before automatically recording the resulting merge commit?",
+    "choices": [
+      "--squash",
+      "--ff-only",
+      "--abort",
+      "--no-commit"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In Git, which command attempts to return to the pre-merge state after a conflicted merge?",
+    "choices": [
+      "git merge --abort",
+      "git merge --quit",
+      "git merge --continue",
+      "git reset --soft"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Git, which merge subcommand ends merge bookkeeping while leaving the index and working files as they are?",
+    "choices": [
+      "--abort",
+      "--quit",
+      "--continue",
+      "--squash"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In Git, what does a standard merge commit normally have that an ordinary commit has only one of?",
+    "choices": [
+      "Authors",
+      "Trees",
+      "Parents",
+      "Messages"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In Git, which command finds the best common ancestor of two branches?",
+    "choices": [
+      "git rev-parse",
+      "git branch",
+      "git cat-file",
+      "git merge-base"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In Git revision syntax, what does a single caret after a commit name usually select?",
+    "choices": [
+      "First parent",
+      "First child",
+      "Current tree",
+      "Newest tag"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In Git revision syntax, what does a tilde followed by 2 select from a commit?",
+    "choices": [
+      "Two branch tips",
+      "Two first-parent steps",
+      "Second merge parent",
+      "Two newest tags"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In Git, what does the A..B revision range include?",
+    "choices": [
+      "A-only commits",
+      "Both histories",
+      "B-only commits",
+      "Their merge base"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Git, what does the A...B revision range select for a log?",
+    "choices": [
+      "Shared ancestors",
+      "Only B's commits",
+      "Only A's commits",
+      "Symmetric difference"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In Git, which log option draws an ASCII representation of branching history?",
+    "choices": [
+      "--graph",
+      "--oneline",
+      "--decorate",
+      "--stat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In Git, which log option condenses each commit to a short hash and subject line?",
+    "choices": [
+      "--graph",
+      "--oneline",
+      "--all",
+      "--stat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In Git, which log option includes commits reachable from all refs, not only the current branch?",
+    "choices": [
+      "--graph",
+      "--oneline",
+      "--all",
+      "--first-parent"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Git, which log option traces the mainline side of merges rather than their side branches?",
+    "choices": [
+      "--all",
+      "--reverse",
+      "--ancestry-path",
+      "--first-parent"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "In Git, which command prints the full hash behind a symbolic name such as HEAD?",
+    "choices": [
+      "git rev-parse",
+      "git cat-file",
+      "git describe",
+      "git show-ref"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Git, what is the usual role of the .git/objects directory?",
+    "choices": [
+      "Track file permissions",
+      "Store object data",
+      "Hold user settings",
+      "List remote URLs"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Git, what is the usual role of the .git/refs directory?",
+    "choices": [
+      "Store file snapshots",
+      "Hold merge conflicts",
+      "Store reference pointers",
+      "Cache diff output"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In Git, which .git file records the currently checked-out branch reference?",
+    "choices": [
+      "config",
+      "index",
+      "description",
+      "HEAD"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Git, which .git file stores information about the next proposed snapshot?",
+    "choices": [
+      "index",
+      "HEAD",
+      "config",
+      "description"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "In Git, what does a packfile primarily combine to save space?",
+    "choices": [
+      "Branches",
+      "Objects",
+      "Hooks",
+      "Remotes"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In Git, what does an index paired with a packfile help locate quickly?",
+    "choices": [
+      "Branch owners",
+      "Commit messages",
+      "Object offsets",
+      "Hook scripts"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.82
+  },
+  {
+    "text": "In Git, what does a loose object become when repository maintenance consolidates it into a pack?",
+    "choices": [
+      "Remote ref",
+      "Staged file",
+      "Shallow edge",
+      "Packed object"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.73
+  },
+  {
+    "text": "In Git, which command reports the type or contents of a stored object?",
+    "choices": [
+      "git cat-file",
+      "git rev-parse",
+      "git show-ref",
+      "git hash-object"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In Git, which command computes the object name for file data and can write the object to the database?",
+    "choices": [
+      "git cat-file",
+      "git hash-object",
+      "git rev-parse",
+      "git show-ref"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In Git, which option to push checks an expected remote ref before replacing it after a rebase?",
+    "choices": [
+      "--force",
+      "--atomic",
+      "--force-with-lease",
+      "--follow-tags"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Git, which push option sends all branches in one remote update or none of them if a ref fails?",
+    "choices": [
+      "--force",
+      "--mirror",
+      "--dry-run",
+      "--atomic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.81
+  },
+  {
+    "text": "In Git, which push option previews what would be sent without actually updating the remote?",
+    "choices": [
+      "--dry-run",
+      "--porcelain",
+      "--atomic",
+      "--follow-tags"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In Git, which configuration scope affects only the current repository by default?",
+    "choices": [
+      "Global",
+      "Local",
+      "System",
+      "Worktree"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In Git, which configuration scope applies across a user's repositories?",
+    "choices": [
+      "Local",
+      "System",
+      "Global",
+      "Worktree"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In Git, which environment variable chooses the editor used for a commit message?",
+    "choices": [
+      "GIT_PAGER",
+      "GIT_DIR",
+      "GIT_INDEX_FILE",
+      "GIT_EDITOR"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "In Git, which environment variable points to an alternate index file?",
+    "choices": [
+      "GIT_INDEX_FILE",
+      "GIT_DIR",
+      "GIT_WORK_TREE",
+      "GIT_EDITOR"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.86
+  },
+  {
+    "text": "In Git, which switch option creates a new branch and immediately moves to it?",
+    "choices": [
+      "-C",
+      "-c",
+      "-d",
+      "-m"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In Git, which special file inside .git can hold patterns ignored only for that local repository?",
+    "choices": [
+      "config",
+      "description",
+      "info/exclude",
+      "packed-refs"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  }
+]

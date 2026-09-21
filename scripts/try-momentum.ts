@@ -72,7 +72,7 @@ function runPhase(label: string, steps: number, minutesPerStep: number, likeProb
       rand,
       now,
       // disable exploration so the phase measures the interest sampler directly
-      params: { exploreBase: 0, exploreMin: 0, exploreMax: 0 },
+      params: { exploreLevel: 0 },
     };
     const p = buildPriorityVector(interests, ctx);
     const topicId = p.mode === "interest" ? p.primaryInterestId! : "explore";

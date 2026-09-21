@@ -2,21 +2,13 @@
 
 import { useEffect, useState } from "react";
 import { getTopics, saveInterests } from "@/app/actions";
+import { getAnonUserId } from "@/lib/clientId";
 import type { PublicTopic } from "@/lib/types";
 
 // First-visit onboarding: pick a few broad interests. The choices seed
 // user_interests (server-side), so the feed opens straight into 'interest' mode
 // instead of cold-starting. Skippable — skipping just falls back to explore.
 // Re-openable later from the profile (same component, `mode="edit"`).
-
-function anonId(): string {
-  let id = window.localStorage.getItem("trivtok-user-id");
-  if (!id) {
-    id = crypto.randomUUID();
-    window.localStorage.setItem("trivtok-user-id", id);
-  }
-  return id;
-}
 
 type Props = {
   /** Called after the user saves or skips — the gate then reveals the feed. */
@@ -54,7 +46,7 @@ export default function InterestPicker({ onDone, mode = "onboard" }: Props) {
     if (selected.size === 0) return;
     setBusy(true);
     setError(null);
-    const result = await saveInterests(anonId(), Array.from(selected));
+    const result = await saveInterests(getAnonUserId(), Array.from(selected));
     if (result.ok) {
       onDone();
     } else {

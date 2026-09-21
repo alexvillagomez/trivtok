@@ -1,7 +1,6 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import type { PublicQuestion } from "@/lib/types";
 import Feed from "./Feed";
 import InterestPicker from "./InterestPicker";
 
@@ -14,11 +13,7 @@ const ONBOARDED_KEY = "trivtok-onboarded";
 
 type View = "loading" | "picker" | "feed";
 
-type Props = {
-  questions: PublicQuestion[];
-};
-
-export default function Home({ questions }: Props) {
+export default function Home() {
   const [view, setView] = useState<View>("loading");
 
   useEffect(() => {
@@ -54,5 +49,5 @@ export default function Home({ questions }: Props) {
     return <InterestPicker onDone={finishOnboarding} />;
   }
 
-  return <Feed questions={questions} />;
+  return <Feed />;
 }

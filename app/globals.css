@@ -177,6 +177,33 @@ body {
   gap: 9px;
 }
 
+/* Blur mode: hide the choices behind a frosted overlay until the user taps. */
+.answers--blurred {
+  position: relative;
+}
+.answers--blurred .choice {
+  filter: blur(7px);
+  pointer-events: none;
+  user-select: none;
+}
+.answer-reveal {
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  border: none;
+  border-radius: 16px;
+  background: rgba(0, 0, 0, 0.28);
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+}
+
 .choice {
   position: relative;
   display: flex;
@@ -824,6 +851,45 @@ body {
   font-size: 13px;
   font-weight: 600;
   color: var(--text);
+}
+
+/* Settings: two sliders (exploration, difficulty) + the blur toggle. */
+.settings-row {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.settings-row__label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text);
+}
+.settings-row input[type="range"] {
+  width: 100%;
+  accent-color: var(--accent, #ff2d55);
+  cursor: pointer;
+}
+.settings-row input[type="range"]:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+.settings-row__ends {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  color: var(--muted, rgba(255, 255, 255, 0.55));
+}
+.settings-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+.settings-toggle input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  accent-color: var(--accent, #ff2d55);
+  cursor: pointer;
 }
 
 /* Favorite topic chips. */

@@ -22,11 +22,12 @@ Author a JSON array of objects, one per question:
 
 - **`correctIndex` is ALWAYS `0`.** Do not vary it, do not "balance" positions,
   do not think about where the answer should sit. The correct answer goes in
-  slot 0, the three distractors fill 1–3. The app shuffles the four choices
-  randomly at serve time (server-side, per impression), so the position you
-  write is never the position the user sees. **Removing this decision from the
-  author is the whole point** — it eliminates positional bias and any
-  "the answer is always B" tell.
+  slot 0, the three distractors fill 1–3. Positions are balanced in a separate
+  step: run `npm run rebalance:questions <file.json>` before import and it
+  distributes the correct answer round-robin across all four slots, so the bank
+  has no "the answer is always A" tell. **Removing this decision from the author
+  is the whole point** — it eliminates positional bias while you focus on the
+  distractors.
 - **`choices` is exactly 4 strings**, all distinct, all non-empty.
 - **`difficulty` is `0.0`–`1.0`** (two decimals). It maps to an item logit at
   scoring time and is auto-calibrated by real answers afterward, so an
@@ -168,8 +169,8 @@ tokens spent per acceptable question**, not maximal per-question polish.
   second self-critique pass, or spend extra calls double-checking their own
   output. That is deliberate: verification is **centralized and free** —
   `scripts/audit-question-bank.ts` and the insert-time validator catch
-  structural defects, giveaways, duplicates, and (soon) over-long answers across
-  the whole bank in one cheap sweep. Trust the first pass; let the backstop
+  structural defects, giveaways, and duplicates across the whole bank in one
+  cheap sweep. Trust the first pass; let the backstop
   reject the few bad ones. Spending model tokens to hand-verify each question
   defeats the cost model.
 - **Parallelize independent topics** rather than serializing them.
@@ -184,9 +185,8 @@ tokens spent per acceptable question**, not maximal per-question polish.
 - **Answer-giveaway detection** — the correct answer's wording appearing in the
   stem.
 - Duplicate-question detection across the bank.
-- Answer-length cap (rejects sentence-answers) — enforced here so authors get
-  the short-answer rule for free.
 
-If a question survives the validator it's structurally fine. Your job is the
-part a validator can't check: **distractors that are genuinely hard to tell
-apart from the answer.**
+Note the validator does **not** check answer length — the short-answer rule
+(§2) is on you. If a question survives the validator it's structurally fine, but
+your real job is the two parts a validator can't check: **short, crisp answers**
+and **distractors that are genuinely hard to tell apart from the answer.**

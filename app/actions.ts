@@ -20,7 +20,8 @@ import {
   listTopics,
   setStartingInterests,
 } from "@/lib/db/topics";
-import type { PublicTopic } from "@/lib/types";
+import { getUserSettings, setUserSettings } from "@/lib/db/settings";
+import type { PublicTopic, UserSettings } from "@/lib/types";
 import { verifyAccessToken } from "@/lib/supabase/server";
 
 type SubmitInteractionResult =
@@ -217,6 +218,55 @@ export async function getProfile(userId: string): Promise<GetProfileResult> {
   } catch (error) {
     console.error("getProfile failed", error);
     return { ok: false, error: "Could not load your profile" };
+  }
+}
+
+// --- User settings (exploration / difficulty / blur) -----------------------
+
+type GetSettingsResult =
+  | ({ ok: true } & UserSettings)
+  | { ok: false; error: string };
+
+/** Read the user's settings (exploration level, difficulty target, answer blur). */
+export async function getSettings(userId: string): Promise<GetSettingsResult> {
+  if (!UUID.test(userId)) return { ok: false, error: "Invalid id" };
+  try {
+    const settings = await getUserSettings(userId);
+    return { ok: true, ...settings };
+  } catch (error) {
+    console.error("getSettings failed", error);
+    return { ok: false, error: "Could not load your settings" };
+  }
+}
+
+type SaveSettingsResult =
+  | ({ ok: true } & UserSettings)
+  | { ok: false; error: string };
+
+/**
+ * Persist the user's settings. Numbers are validated here and re-clamped in the
+ * DB layer, so a malformed slider value can never reach the recommender.
+ */
+export async function saveSettings(
+  userId: string,
+  settings: Partial<UserSettings>,
+): Promise<SaveSettingsResult> {
+  if (!UUID.test(userId)) return { ok: false, error: "Invalid id" };
+  const exploreLevel = Number(settings.exploreLevel);
+  const targetP = Number(settings.targetP);
+  if (!Number.isFinite(exploreLevel) || !Number.isFinite(targetP)) {
+    return { ok: false, error: "Invalid settings" };
+  }
+  try {
+    const saved = await setUserSettings(userId, {
+      exploreLevel,
+      targetP,
+      blurAnswers: Boolean(settings.blurAnswers),
+    });
+    return { ok: true, ...saved };
+  } catch (error) {
+    console.error("saveSettings failed", error);
+    return { ok: false, error: "Could not save your settings" };
   }
 }
 

@@ -1,7 +1,18 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { beginFeed, reportQuestion, submitInteraction } from "@/app/actions";
+import {
+  beginFeed,
+  getSettings,
+  reportQuestion,
+  submitInteraction,
+} from "@/app/actions";
+import {
+  getAnonUserId,
+  getSessionId,
+  SETTINGS_EVENT,
+  type SettingsEventDetail,
+} from "@/lib/clientId";
 import type { PublicQuestion } from "@/lib/types";
 import QuestionCard from "./QuestionCard";
 
@@ -49,10 +60,6 @@ function loadStats(): Stats {
   return ZERO_STATS;
 }
 
-type Props = {
-  questions: PublicQuestion[];
-};
-
 // Small line-art glyphs for the HUD — drawn, not emoji.
 function FlameIcon() {
   return (
@@ -94,7 +101,7 @@ function makeSlot(card: {
   };
 }
 
-export default function Feed({ questions }: Props) {
+export default function Feed() {
   const [slots, setSlots] = useState<Slot[]>([]);
   const [index, setIndex] = useState(0);
   const [dragY, setDragY] = useState(0);
@@ -102,6 +109,7 @@ export default function Feed({ questions }: Props) {
   const [saveError, setSaveError] = useState<string | null>(null);
   const [stats, setStats] = useState<Stats>(ZERO_STATS);
   const [banner, setBanner] = useState<string | null>(null);
+  const [blurAnswers, setBlurAnswers] = useState(false);
 
   const pointerDown = useRef(false);
   const startY = useRef(0);
@@ -109,9 +117,6 @@ export default function Feed({ questions }: Props) {
   const lastT = useRef(0);
   const velocity = useRef(0);
   const advancing = useRef(false); // locks the background refill to one at a time
-  const fallbackIndex = useRef(0);
-  const userId = useRef<string | null>(null);
-  const sessionId = useRef<string | null>(null);
 
   const bannerTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -124,33 +129,14 @@ export default function Feed({ questions }: Props) {
   statsRef.current = stats;
 
   function getIdentity(): { userId: string; sessionId: string } {
-    if (!userId.current) {
-      userId.current = window.localStorage.getItem("trivtok-user-id");
-      if (!userId.current) {
-        userId.current = crypto.randomUUID();
-        window.localStorage.setItem("trivtok-user-id", userId.current);
-      }
-    }
-    if (!sessionId.current) {
-      sessionId.current = window.sessionStorage.getItem("trivtok-session-id");
-      if (!sessionId.current) {
-        sessionId.current = crypto.randomUUID();
-        window.sessionStorage.setItem("trivtok-session-id", sessionId.current);
-      }
-    }
-    return { userId: userId.current, sessionId: sessionId.current };
-  }
-
-  function nextFallbackSlot(): Slot {
-    fallbackIndex.current = (fallbackIndex.current + 1) % questions.length;
-    return makeSlot({
-      nextQuestion: questions[fallbackIndex.current],
-      impressionId: null,
-    });
+    return { userId: getAnonUserId(), sessionId: getSessionId() };
   }
 
   // Open the session on mount: the server picks (and logs) the first card, then
   // we immediately preload a second so the buffer is always one card ahead.
+  // Every card comes from next_question() — there is NO client-side question
+  // bank to fall back to (that would egress the whole bank from the DB); if the
+  // pipeline is unreachable we show an offline state, not sample questions.
   useEffect(() => {
     let cancelled = false;
     const identity = getIdentity();
@@ -158,8 +144,7 @@ export default function Feed({ questions }: Props) {
       const first = await beginFeed(identity.userId, identity.sessionId);
       if (cancelled) return;
       if (!first.ok) {
-        setSlots([makeSlot({ nextQuestion: questions[0], impressionId: null })]);
-        setSaveError("Offline — showing sample questions.");
+        setSaveError("You're offline — reconnect to load your feed.");
         return;
       }
       const slot0 = makeSlot(first);
@@ -167,14 +152,32 @@ export default function Feed({ questions }: Props) {
         slot0.question.id,
       ]);
       if (cancelled) return;
-      const slot1 = second.ok ? makeSlot(second) : nextFallbackSlot();
-      setSlots([slot0, slot1]);
+      const slots = second.ok ? [slot0, makeSlot(second)] : [slot0];
+      setSlots(slots);
       setIndex(0);
     })();
     return () => {
       cancelled = true;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Load the answer-blur setting once, and stay in sync when it's toggled from
+  // the profile sheet (broadcast in-tab so the live card re-blurs immediately).
+  useEffect(() => {
+    let cancelled = false;
+    getSettings(getAnonUserId()).then((res) => {
+      if (!cancelled && res.ok) setBlurAnswers(res.blurAnswers);
+    });
+    const onSettings = (e: Event) => {
+      const detail = (e as CustomEvent<SettingsEventDetail>).detail;
+      if (detail) setBlurAnswers(detail.blurAnswers);
+    };
+    window.addEventListener(SETTINGS_EVENT, onSettings);
+    return () => {
+      cancelled = true;
+      window.removeEventListener(SETTINGS_EVENT, onSettings);
+    };
   }, []);
 
   // Load persisted game state once, then mirror every change back to storage.
@@ -271,12 +274,10 @@ export default function Feed({ questions }: Props) {
       if (result.ok) {
         setSlots((prev) => [...prev, makeSlot(result)]);
       } else {
-        setSlots((prev) => [...prev, nextFallbackSlot()]);
-        setSaveError("Recommendation update failed; showing the next question.");
+        setSaveError("Couldn't load the next question — check your connection.");
       }
     } catch {
-      setSlots((prev) => [...prev, nextFallbackSlot()]);
-      setSaveError("Recommendation update failed; showing the next question.");
+      setSaveError("Couldn't load the next question — check your connection.");
     } finally {
       advancing.current = false;
     }
@@ -402,6 +403,7 @@ export default function Feed({ questions }: Props) {
                 }
                 onReport={() => isCurrent && report(i)}
                 onDoubleLike={() => isCurrent && patchSlot(i, { liked: true })}
+                blurAnswers={blurAnswers}
               />
             </div>
           );

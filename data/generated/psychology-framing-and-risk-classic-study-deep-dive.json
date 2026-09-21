@@ -1,0 +1,233 @@
+[
+  {
+    "text": "Which journal published Tversky and Kahneman's 1981 study of how decision descriptions change choices?",
+    "choices": [
+      "Science",
+      "Nature",
+      "Cognition",
+      "Psychological Review"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In what year did Tversky and Kahneman publish their paper on choices framed as lives saved or lost?",
+    "choices": [
+      "1974",
+      "1981",
+      "1979",
+      "1992"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In Tversky and Kahneman's Asian-disease problem, how many people were initially expected to die without a program?",
+    "choices": [
+      "200",
+      "400",
+      "600",
+      "800"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In the lives-saved version of Tversky and Kahneman's disease problem, how many lives did the certain program save?",
+    "choices": [
+      "100",
+      "300",
+      "400",
+      "200"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In the lives-saved version of the 1981 disease problem, what was the chance that the risky program saved everyone?",
+    "choices": [
+      "One-third",
+      "One-half",
+      "One-quarter",
+      "Two-thirds"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In the lives-lost version of the 1981 disease problem, how many people died under the certain program?",
+    "choices": [
+      "200",
+      "400",
+      "300",
+      "600"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In the 1981 disease study, about what share chose the certain option when outcomes were described as lives saved?",
+    "choices": [
+      "28%",
+      "52%",
+      "72%",
+      "88%"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In the 1981 disease study, about what share chose the gamble when outcomes were described as lives lost?",
+    "choices": [
+      "22%",
+      "52%",
+      "88%",
+      "78%"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In the 1981 disease study, describing outcomes as losses shifted most participants toward what risk attitude?",
+    "choices": [
+      "Risk-seeking",
+      "Risk-averse",
+      "Risk-neutral",
+      "Indifferent"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In Tversky and Kahneman's 1981 paper, the two disease-program descriptions differed in whether they counted lives saved or what?",
+    "choices": [
+      "Treatment costs",
+      "Lives lost",
+      "Hospital beds",
+      "Recovery time"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In prospect theory, a gain or loss is evaluated relative to what neutral baseline?",
+    "choices": [
+      "Population mean",
+      "Risk threshold",
+      "Reference point",
+      "Expected payoff"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In the 1981 account of prospect theory, what overall shape describes the value function around gains and losses?",
+    "choices": [
+      "U-shaped",
+      "Bell-shaped",
+      "Linear",
+      "S-shaped"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In the 1981 prospect-theory model, how does the value curve bend above its reference point?",
+    "choices": [
+      "Concave",
+      "Convex",
+      "Linear",
+      "Flat"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In the 1981 prospect-theory model, how does the value curve bend below its reference point?",
+    "choices": [
+      "Concave",
+      "Convex",
+      "Linear",
+      "Flat"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In prospect theory, which probabilities tend to receive more decision weight than their numerical size?",
+    "choices": [
+      "High probabilities",
+      "Certain events",
+      "Low probabilities",
+      "Impossible events"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In the 1981 paper's paired-money choice, what certain gain did most respondents favor over a 25% chance at $1,000?",
+    "choices": [
+      "$250",
+      "$500",
+      "$750",
+      "$240"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In the 1981 paper's paired-money choice, what certain loss did most respondents reject in favor of a gamble?",
+    "choices": [
+      "$750",
+      "$240",
+      "$500",
+      "$1,000"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.85
+  },
+  {
+    "text": "In the 1981 paper's two-stage game, what chance did players have of reaching the second stage?",
+    "choices": [
+      "20%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In the 1981 paper's two-stage game, what did a player receive if the first stage ended the game?",
+    "choices": [
+      "$30",
+      "$45",
+      "Nothing",
+      "$15"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.8
+  },
+  {
+    "text": "In the 1981 paper, what name describes an apparently certain second-stage gain that still depends on reaching that stage?",
+    "choices": [
+      "Ambiguity",
+      "Sunk cost",
+      "Hindsight",
+      "Pseudocertainty"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.83
+  },
+  {
+    "text": "In Tversky and Kahneman's 1981 paper, reducing a chance from 100% to 80% had extra impact under which effect?",
+    "choices": [
+      "Certainty effect",
+      "Endowment effect",
+      "Halo effect",
+      "Recency effect"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.84
+  }
+]

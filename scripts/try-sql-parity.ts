@@ -66,6 +66,9 @@ async function main() {
   // 0011 = interest momentum: redefines rec_activation (+momentum arg) and adds
   // rec_momentum / rec_momentum_decay. Must load last so its rec_activation wins.
   await sql.unsafe(await readFile("supabase/migrations/0011_interest_momentum.sql", "utf8"));
+  // 0015 = user settings: redefines rec_explore_prob (level) and rec_difficulty_factor
+  // (target), plus rec_score/next_question. Load last so its signatures win.
+  await sql.unsafe(await readFile("supabase/migrations/0015_user_settings.sql", "utf8"));
 
   const CASES = 50;
   for (let k = 0; k < CASES; k++) {
@@ -87,6 +90,8 @@ async function main() {
     const likeAdj = rand(1);
     const skipRate = Math.random();
     const likeRate = Math.random();
+    const exploreLevel = Math.random(); // the user's exploration setting in [0,1]
+    const targetP = 0.5 + Math.random() * 0.4; // the user's difficulty target
 
     // momentum inputs
     const mom = rand(1); // decayed trace fed into the activation readout
@@ -109,25 +114,29 @@ async function main() {
       )
       select
         rec_pcorrect(a.mean, a.variance, a.e, a.d, 1.0)                              as p,
-        rec_difficulty_factor(rec_pcorrect(a.mean, a.variance, a.e, a.d, 1.0))       as f,
+        rec_difficulty_factor(rec_pcorrect(a.mean, a.variance, a.e, a.d, 1.0), ${targetP}::float8) as f,
         rec_engagement(${liked}, ${answered}, ${rt})                                 as g,
         rec_update_difficulty(a.d, a.mean, a.variance, a.e, a.correct, 0.02)         as nd,
         u.new_mean                                                                   as nm,
         u.new_variance                                                               as nv,
         rec_like_adj(${likes}, ${inters}, ${sessMean}::float8)                       as la,
         rec_activation(${strength}::float8, ${freshRaw}::float8, ${fatigue}::float8, ${likeAdj}::float8, ${mom}::float8) as ac,
-        rec_explore_prob(${skipRate}::float8, ${likeRate}::float8)                   as ep,
+        rec_explore_prob(${skipRate}::float8, ${likeRate}::float8, ${exploreLevel}::float8) as ep,
         rec_momentum_decay(${momPrev}::float8, ${momDt}::float8)                     as md,
         rec_momentum(${momPrev}::float8, ${momDt}::float8, ${momEng}::float8)        as mu
       from a, u`;
 
     check(`pCorrect[${k}]`, pCorrect(ability, e, d), row.p);
-    check(`difficultyFactor[${k}]`, difficultyFactor(pCorrect(ability, e, d)), row.f);
+    check(`difficultyFactor[${k}]`, difficultyFactor(pCorrect(ability, e, d), targetP), row.f);
     check(`engagement[${k}]`, engagementSignal({ liked, answered, correct: null, responseTimeMs: rt }), row.g);
     check(`updateDifficulty[${k}]`, updateDifficulty(d, ability, e, correct), row.nd);
     check(`likeAdj[${k}]`, likeAdjustment(likes, inters, sessMean, DEFAULT_PARAMS.likePrior), row.la);
     check(`activation[${k}]`, interestActivation(strength, freshRaw, fatigue, likeAdj, mom, DEFAULT_PARAMS), row.ac);
-    check(`exploreProb[${k}]`, exploreProbability(skipRate, likeRate, DEFAULT_PARAMS), row.ep);
+    check(
+      `exploreProb[${k}]`,
+      exploreProbability(skipRate, likeRate, { ...DEFAULT_PARAMS, exploreLevel }),
+      row.ep,
+    );
     check(`momentumDecay[${k}]`, momentumDecay(momPrev, momDt), row.md);
     check(`momentumStep[${k}]`, momentumStep(momPrev, momDt, momEng), row.mu);
     const tsA = updateAbility(ability, e, d, correct);

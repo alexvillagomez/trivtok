@@ -1,0 +1,519 @@
+[
+  {
+    "text": "On a web page, which HTML element creates a native expandable section with a clickable caption?",
+    "choices": [
+      "<details>",
+      "<section>",
+      "<aside>",
+      "<dialog>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In an HTML disclosure widget, which element supplies the clickable caption?",
+    "choices": [
+      "<label>",
+      "<summary>",
+      "<legend>",
+      "<caption>"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.65
+  },
+  {
+    "text": "On a web page, which HTML element holds alternative image sources for different screens or formats?",
+    "choices": [
+      "<figure>",
+      "<canvas>",
+      "<picture>",
+      "<object>"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "Inside an HTML picture element, which child lists a candidate image file before the fallback image?",
+    "choices": [
+      "<link>",
+      "<embed>",
+      "<track>",
+      "<source>"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "On a web page, which HTML element can represent a modal or non-modal popup?",
+    "choices": [
+      "<dialog>",
+      "<aside>",
+      "<menu>",
+      "<output>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In HTML, which element marks a calendar date or clock reading in a machine-readable way?",
+    "choices": [
+      "<data>",
+      "<time>",
+      "<date>",
+      "<mark>"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In an HTML time element, which attribute can hold a machine-readable date behind friendly text?",
+    "choices": [
+      "value",
+      "timestamp",
+      "datetime",
+      "date"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In an HTML table, which element marks a header cell rather than an ordinary data cell?",
+    "choices": [
+      "<td>",
+      "<tr>",
+      "<thead>",
+      "<th>"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In an HTML table, which element groups the main body rows separately from the header and footer?",
+    "choices": [
+      "<tbody>",
+      "<thead>",
+      "<tfoot>",
+      "<table>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In HTML, which element groups an image with an optional explanatory caption?",
+    "choices": [
+      "<picture>",
+      "<figure>",
+      "<article>",
+      "<section>"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.6
+  },
+  {
+    "text": "Within an HTML figure, which child element supplies its caption?",
+    "choices": [
+      "<caption>",
+      "<legend>",
+      "<figcaption>",
+      "<summary>"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In an HTML form, which element groups related controls inside a labeled border?",
+    "choices": [
+      "<section>",
+      "<form>",
+      "<label>",
+      "<fieldset>"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "In an HTML fieldset, which element names the group of form controls?",
+    "choices": [
+      "<legend>",
+      "<caption>",
+      "<summary>",
+      "<label>"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In an HTML form, which attribute makes a control mandatory before ordinary submission?",
+    "choices": [
+      "disabled",
+      "required",
+      "readonly",
+      "checked"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In an HTML form, which attribute prevents a control from receiving input or being submitted?",
+    "choices": [
+      "readonly",
+      "required",
+      "disabled",
+      "hidden"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In HTML, which global attribute identifies the document's natural language for accessibility tools?",
+    "choices": [
+      "dir",
+      "title",
+      "role",
+      "lang"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.63
+  },
+  {
+    "text": "In HTML, which meta declaration commonly tells a browser to decode a page as UTF-8?",
+    "choices": [
+      "charset",
+      "viewport",
+      "http-equiv",
+      "name"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In CSS, which positioning value anchors an element to a viewport location while the page scrolls?",
+    "choices": [
+      "sticky",
+      "fixed",
+      "absolute",
+      "relative"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  },
+  {
+    "text": "In CSS, which positioning value lets an element scroll normally until it reaches a threshold?",
+    "choices": [
+      "fixed",
+      "absolute",
+      "sticky",
+      "static"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.61
+  },
+  {
+    "text": "In CSS, which positioning value removes an element from normal flow and positions it against a containing block?",
+    "choices": [
+      "relative",
+      "static",
+      "sticky",
+      "absolute"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In CSS, which positioning value offsets an element without removing its original space from document flow?",
+    "choices": [
+      "relative",
+      "absolute",
+      "fixed",
+      "static"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In CSS, which property controls which of two overlapping positioned boxes appears on top?",
+    "choices": [
+      "opacity",
+      "z-index",
+      "display",
+      "visibility"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In CSS grid or flex layout, which property sets space between neighboring items?",
+    "choices": [
+      "margin",
+      "padding",
+      "gap",
+      "border-spacing"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In CSS, which property decides what happens when content spills beyond a box's edges?",
+    "choices": [
+      "display",
+      "contain",
+      "visibility",
+      "overflow"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In CSS, which box-sizing value includes padding and border within an element's declared width?",
+    "choices": [
+      "border-box",
+      "content-box",
+      "padding-box",
+      "margin-box"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In CSS, which function reads a named custom property such as --accent?",
+    "choices": [
+      "calc()",
+      "var()",
+      "attr()",
+      "env()"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In CSS, which pseudo-class matches a link while a pointing device is over it?",
+    "choices": [
+      ":focus",
+      ":active",
+      ":hover",
+      ":visited"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.57
+  },
+  {
+    "text": "In CSS, which pseudo-element can insert generated content ahead of an element's normal children?",
+    "choices": [
+      "::first-line",
+      "::marker",
+      "::selection",
+      "::before"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.67
+  },
+  {
+    "text": "When an HTTP POST creates a new resource, which response code specifically signals its creation?",
+    "choices": [
+      "201",
+      "200",
+      "204",
+      "304"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "When an HTTP request succeeds but returns no response body, which status code is typical?",
+    "choices": [
+      "200",
+      "204",
+      "201",
+      "304"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "When an HTTP cache can reuse a stored representation, which response code says the resource has not changed?",
+    "choices": [
+      "200",
+      "204",
+      "304",
+      "301"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "When a browser sends a malformed HTTP request, which client-error code commonly applies?",
+    "choices": [
+      "401",
+      "403",
+      "404",
+      "400"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.61
+  },
+  {
+    "text": "When an HTTP request lacks valid authentication credentials, which status code is standard?",
+    "choices": [
+      "401",
+      "400",
+      "403",
+      "404"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "When a service rate-limits repeated HTTP requests, which status code usually appears?",
+    "choices": [
+      "401",
+      "429",
+      "403",
+      "503"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In an HTTP request, which header can tell a server that the browser accepts JSON?",
+    "choices": [
+      "Content-Type",
+      "Location",
+      "Accept",
+      "Cache-Control"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In an HTTP response, which header identifies the media type of the returned body?",
+    "choices": [
+      "Accept",
+      "Origin",
+      "Location",
+      "Content-Type"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.64
+  },
+  {
+    "text": "In HTTP, which response header can tell a client where a newly created resource is located?",
+    "choices": [
+      "Location",
+      "Origin",
+      "Referer",
+      "Host"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In a rate-limited HTTP response, which header can suggest how long the client should wait?",
+    "choices": [
+      "Cache-Control",
+      "Retry-After",
+      "Last-Modified",
+      "Content-Length"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In HTTP, which response header can specify whether a browser may cache a resource?",
+    "choices": [
+      "Content-Type",
+      "Accept",
+      "Cache-Control",
+      "Origin"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In HTTP, which header carries a validator often used to check whether cached content changed?",
+    "choices": [
+      "Origin",
+      "Accept",
+      "Location",
+      "ETag"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In browser JavaScript, which storage API keeps key-value data after the browser tab closes?",
+    "choices": [
+      "localStorage",
+      "sessionStorage",
+      "MemoryCache",
+      "FormData"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In browser JavaScript, which storage API is scoped to one tab's page session?",
+    "choices": [
+      "localStorage",
+      "sessionStorage",
+      "IndexedDB",
+      "CacheStorage"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In browser JavaScript, which DOM method finds the first element matching a CSS selector?",
+    "choices": [
+      "getElementsByClassName()",
+      "querySelectorAll()",
+      "querySelector()",
+      "closest()"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In browser JavaScript, which method attaches a callback for an event such as a click?",
+    "choices": [
+      "dispatchEvent()",
+      "removeEventListener()",
+      "preventDefault()",
+      "addEventListener()"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In browser JavaScript, which event method stops a link's ordinary navigation after a click?",
+    "choices": [
+      "preventDefault()",
+      "stopPropagation()",
+      "stopImmediatePropagation()",
+      "dispatchEvent()"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "In browser JavaScript, which JSON method converts a text string into a JavaScript value?",
+    "choices": [
+      "JSON.stringify()",
+      "JSON.parse()",
+      "JSON.toString()",
+      "JSON.decode()"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In browser JavaScript, which JSON method converts a JavaScript value into JSON text?",
+    "choices": [
+      "JSON.parse()",
+      "JSON.encode()",
+      "JSON.stringify()",
+      "JSON.serialize()"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.67
+  }
+]

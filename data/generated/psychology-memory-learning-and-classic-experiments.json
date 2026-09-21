@@ -1,0 +1,640 @@
+[
+  {
+    "text": "In memory research, what process turns information from a lecture into a form the mind can keep?",
+    "choices": [
+      "Encoding",
+      "Retrieval",
+      "Storage",
+      "Recognition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.43
+  },
+  {
+    "text": "In memory research, what process keeps an encoded experience available over time?",
+    "choices": [
+      "Encoding",
+      "Storage",
+      "Retrieval",
+      "Priming"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In memory research, what process brings a stored fact back into awareness during a quiz?",
+    "choices": [
+      "Encoding",
+      "Consolidation",
+      "Retrieval",
+      "Habituation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.45
+  },
+  {
+    "text": "In the Atkinson-Shiffrin model, which store first holds a brief impression of a passing sight?",
+    "choices": [
+      "Working memory",
+      "Long-term memory",
+      "Semantic memory",
+      "Sensory memory"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In memory research, which brief store holds a visual trace after an image disappears?",
+    "choices": [
+      "Iconic memory",
+      "Echoic memory",
+      "Episodic memory",
+      "Semantic memory"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In memory research, which brief store preserves a sound for a moment after it ends?",
+    "choices": [
+      "Iconic memory",
+      "Echoic memory",
+      "Procedural memory",
+      "Semantic memory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In memory research, what type of memory records a personal birthday party at a particular time and place?",
+    "choices": [
+      "Semantic",
+      "Procedural",
+      "Episodic",
+      "Sensory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In memory research, what type of memory holds the fact that Paris is France's capital?",
+    "choices": [
+      "Episodic",
+      "Procedural",
+      "Sensory",
+      "Semantic"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In memory research, what type of memory helps an experienced pianist perform familiar finger movements?",
+    "choices": [
+      "Procedural",
+      "Episodic",
+      "Semantic",
+      "Iconic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In memory research, which category includes consciously recalled facts and events?",
+    "choices": [
+      "Implicit memory",
+      "Explicit memory",
+      "Sensory memory",
+      "Echoic memory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In memory research, which category can guide a learned skill without conscious recollection of a lesson?",
+    "choices": [
+      "Explicit memory",
+      "Episodic memory",
+      "Implicit memory",
+      "Iconic memory"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.63
+  },
+  {
+    "text": "In a memory test, producing an answer without seeing alternatives measures which form of retrieval?",
+    "choices": [
+      "Recognition",
+      "Relearning",
+      "Encoding",
+      "Recall"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "In a memory test, identifying a previously seen face among several photographs measures what?",
+    "choices": [
+      "Recognition",
+      "Recall",
+      "Rehearsal",
+      "Consolidation"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In Baddeley and Hitch's working-memory model, which component briefly handles speech sounds?",
+    "choices": [
+      "Episodic buffer",
+      "Phonological loop",
+      "Central executive",
+      "Visuospatial sketchpad"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.77
+  },
+  {
+    "text": "In Baddeley and Hitch's working-memory model, which component briefly handles spatial layouts and images?",
+    "choices": [
+      "Phonological loop",
+      "Episodic buffer",
+      "Visuospatial sketchpad",
+      "Central executive"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.78
+  },
+  {
+    "text": "In Baddeley and Hitch's working-memory model, which component directs attention among the other parts?",
+    "choices": [
+      "Phonological loop",
+      "Episodic buffer",
+      "Visuospatial sketchpad",
+      "Central executive"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.77
+  },
+  {
+    "text": "When remembering 520-555-0467 as three groups rather than ten separate digits, what strategy is being used?",
+    "choices": [
+      "Chunking",
+      "Relearning",
+      "Priming",
+      "Recognition"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.5
+  },
+  {
+    "text": "When a student links a new biology term to a familiar personal example, which memory strategy is this?",
+    "choices": [
+      "Maintenance rehearsal",
+      "Elaborative rehearsal",
+      "Serial recall",
+      "Sensory adaptation"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In study research, what benefit comes from relating new material to one's own life?",
+    "choices": [
+      "Spacing effect",
+      "Recency effect",
+      "Self-reference effect",
+      "Zeigarnik effect"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In study research, what practice pattern spreads learning across several days instead of cramming?",
+    "choices": [
+      "Massed practice",
+      "Serial rehearsal",
+      "Incidental learning",
+      "Distributed practice"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In memory research, what kind of device is HOMES when used to remember the Great Lakes?",
+    "choices": [
+      "Acronym",
+      "Acrostic",
+      "Jingle",
+      "Rhyme"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.6
+  },
+  {
+    "text": "In memory research, what kind of device is a sentence built from the first letters of items to remember?",
+    "choices": [
+      "Acronym",
+      "Acrostic",
+      "Jingle",
+      "Chunk"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In memory training, what method places imagined items along familiar rooms or a route?",
+    "choices": [
+      "Serial position",
+      "Echoic rehearsal",
+      "Method of loci",
+      "Source monitoring"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In memory research, what effect can make saying a study word aloud improve later recall of it?",
+    "choices": [
+      "Spacing effect",
+      "Recency effect",
+      "Primacy effect",
+      "Production effect"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.78
+  },
+  {
+    "text": "When newly learned Spanish words make older French vocabulary harder to recall, which interference is at work?",
+    "choices": [
+      "Retroactive",
+      "Proactive",
+      "Contextual",
+      "Semantic"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.74
+  },
+  {
+    "text": "When old French vocabulary makes newly learned Spanish words harder to recall, which interference is at work?",
+    "choices": [
+      "Retroactive",
+      "Proactive",
+      "Contextual",
+      "Sensory"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.74
+  },
+  {
+    "text": "After a brain injury, a person cannot form new long-term event memories. Which form of amnesia fits?",
+    "choices": [
+      "Retrograde",
+      "Transient global",
+      "Anterograde",
+      "Dissociative"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.72
+  },
+  {
+    "text": "After a brain injury, a person loses memories from before the injury. Which form of amnesia fits?",
+    "choices": [
+      "Anterograde",
+      "Transient global",
+      "Dissociative",
+      "Retrograde"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.72
+  },
+  {
+    "text": "In Nickerson and Adams's coin study, why did many Americans fail to draw a familiar coin accurately?",
+    "choices": [
+      "Encoding failure",
+      "Memory decay",
+      "Source confusion",
+      "Retroactive interference"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.79
+  },
+  {
+    "text": "In Schacter's seven sins of memory, what is a temporary inability to recall a known word called?",
+    "choices": [
+      "Transience",
+      "Blocking",
+      "Bias",
+      "Persistence"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In Schacter's seven sins of memory, what term covers confusing a dream's source with a waking event?",
+    "choices": [
+      "Suggestibility",
+      "Transience",
+      "Misattribution",
+      "Persistence"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In eyewitness-memory research, what makes a leading question capable of altering later recall?",
+    "choices": [
+      "Habituation",
+      "Recognition",
+      "Acquisition",
+      "Suggestibility"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In Schacter's seven sins of memory, what describes unwanted memories that repeatedly intrude?",
+    "choices": [
+      "Persistence",
+      "Blocking",
+      "Transience",
+      "Absentmindedness"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.73
+  },
+  {
+    "text": "In brain research, which structure is especially important for forming new declarative memories?",
+    "choices": [
+      "Cerebellum",
+      "Hippocampus",
+      "Amygdala",
+      "Brainstem"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.59
+  },
+  {
+    "text": "In brain research, which structure is strongly involved in fear-related memories?",
+    "choices": [
+      "Hippocampus",
+      "Cerebellum",
+      "Amygdala",
+      "Thalamus"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In brain research, which structure contributes to learned motor skills such as playing piano?",
+    "choices": [
+      "Amygdala",
+      "Hippocampus",
+      "Occipital cortex",
+      "Cerebellum"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.68
+  },
+  {
+    "text": "In Lashley's maze experiments, what term named the physical trace of a learned memory?",
+    "choices": [
+      "Engram",
+      "Schema",
+      "Reflex",
+      "Synapse"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.82
+  },
+  {
+    "text": "Which researcher searched for memory traces by making lesions after rats learned a maze?",
+    "choices": [
+      "Ivan Pavlov",
+      "Karl Lashley",
+      "B.F. Skinner",
+      "Albert Bandura"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.84
+  },
+  {
+    "text": "In classical conditioning, what was the unlearned stimulus in Pavlov's dog experiments?",
+    "choices": [
+      "Bell tone",
+      "Salivation",
+      "Food",
+      "Laboratory room"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.55
+  },
+  {
+    "text": "In classical conditioning, what was the dogs' unlearned response to food in Pavlov's studies?",
+    "choices": [
+      "Barking",
+      "Tail wagging",
+      "Running",
+      "Salivation"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.53
+  },
+  {
+    "text": "In Pavlov's dog experiments, what did a formerly neutral tone become after repeated pairing with food?",
+    "choices": [
+      "Conditioned stimulus",
+      "Unconditioned stimulus",
+      "Conditioned response",
+      "Unconditioned response"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In Pavlov's dog experiments, what was salivation to the tone after learning?",
+    "choices": [
+      "Unconditioned response",
+      "Conditioned response",
+      "Conditioned stimulus",
+      "Unconditioned stimulus"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In classical conditioning, what phase describes learning the link between a neutral cue and an unlearned trigger?",
+    "choices": [
+      "Extinction",
+      "Generalization",
+      "Acquisition",
+      "Recovery"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In classical conditioning, what process weakens a learned response when the cue repeatedly appears without food?",
+    "choices": [
+      "Acquisition",
+      "Generalization",
+      "Discrimination",
+      "Extinction"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.65
+  },
+  {
+    "text": "In classical conditioning, what is the return of an extinguished response after a rest period called?",
+    "choices": [
+      "Spontaneous recovery",
+      "Stimulus generalization",
+      "Habituation",
+      "Operant shaping"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.76
+  },
+  {
+    "text": "In classical conditioning, a dog responds to a new tone similar to its training tone. What process is this?",
+    "choices": [
+      "Discrimination",
+      "Generalization",
+      "Extinction",
+      "Acquisition"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In classical conditioning, a dog responds to its training tone but not a different tone. What process is this?",
+    "choices": [
+      "Generalization",
+      "Extinction",
+      "Discrimination",
+      "Acquisition"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.67
+  },
+  {
+    "text": "In learning research, which form of conditioning can link a food's taste to illness even after a long delay?",
+    "choices": [
+      "Stimulus fading",
+      "Operant shaping",
+      "Sensory adaptation",
+      "Taste aversion"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In operant-conditioning research, whose law of effect linked satisfying consequences with repeated behavior?",
+    "choices": [
+      "Edward Thorndike",
+      "Ivan Pavlov",
+      "Albert Bandura",
+      "Hermann Ebbinghaus"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.75
+  },
+  {
+    "text": "In Skinner's operant chamber, what could a rat press to receive a food reward?",
+    "choices": [
+      "Bell",
+      "Lever",
+      "Wheel",
+      "Mirror"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.58
+  },
+  {
+    "text": "In operant conditioning, adding a reward after a behavior to make it likelier is what?",
+    "choices": [
+      "Negative reinforcement",
+      "Positive punishment",
+      "Positive reinforcement",
+      "Negative punishment"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.62
+  },
+  {
+    "text": "In operant conditioning, removing an unpleasant condition after a behavior to make it likelier is what?",
+    "choices": [
+      "Positive reinforcement",
+      "Negative punishment",
+      "Positive punishment",
+      "Negative reinforcement"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In operant conditioning, adding an unpleasant consequence to reduce a behavior is what?",
+    "choices": [
+      "Positive punishment",
+      "Negative punishment",
+      "Positive reinforcement",
+      "Negative reinforcement"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.7
+  },
+  {
+    "text": "In operant conditioning, taking away a pleasant privilege to reduce a behavior is what?",
+    "choices": [
+      "Positive punishment",
+      "Negative punishment",
+      "Negative reinforcement",
+      "Positive reinforcement"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.71
+  },
+  {
+    "text": "In Skinner's learning experiments, rewarding successively closer steps toward a target behavior is called what?",
+    "choices": [
+      "Extinction",
+      "Generalization",
+      "Shaping",
+      "Habituation"
+    ],
+    "correctIndex": 2,
+    "difficulty": 0.69
+  },
+  {
+    "text": "In learning research, what do psychologists call learning a behavior by watching another person perform it?",
+    "choices": [
+      "Classical conditioning",
+      "Operant conditioning",
+      "Latent inhibition",
+      "Observational learning"
+    ],
+    "correctIndex": 3,
+    "difficulty": 0.62
+  },
+  {
+    "text": "Which psychologist is associated with social learning theory and the Bobo doll experiments?",
+    "choices": [
+      "Albert Bandura",
+      "B.F. Skinner",
+      "Ivan Pavlov",
+      "Edward Thorndike"
+    ],
+    "correctIndex": 0,
+    "difficulty": 0.66
+  },
+  {
+    "text": "In social learning theory, what is a person whose behavior is watched and imitated called?",
+    "choices": [
+      "Observer",
+      "Model",
+      "Reinforcer",
+      "Conditioner"
+    ],
+    "correctIndex": 1,
+    "difficulty": 0.56
+  }
+]

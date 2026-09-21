@@ -21,23 +21,38 @@ Last updated: 2026-09-20
 | Lane | Domain | Narrow niche | Batch file | Authored | Status |
 | --- | --- | --- | --- | ---: | --- |
 | Technology | Version control | Git objects, branches, commands, and collaboration | `data/generated/computer-science-git-version-control.json` | 60 | Inserted; 60/60 verified |
+| Technology | Version control | Staging, stashes, merges, history ranges, remote safety, and internals | `data/generated/git-staging-history-remotes-and-internals-deep-dive.json` | 47 | Inserted; 47/47 verified |
 | Technology | Web basics | HTML, CSS, browsers, URLs, and HTTP | `data/generated/technology-web-pages-and-browser-basics.json` | 60 | Inserted; 60/60 verified |
+| Technology | Web basics | HTML semantics, CSS layout, HTTP statuses and headers, and browser scripting | `data/generated/web-html-css-http-and-browser-behavior-deep-dive.json` | 47 | Inserted; 47/47 verified |
 | Psychology | Judgment | Decision-making heuristics and cognitive biases | `data/generated/psychology-decision-making-and-cognitive-biases.json` | 50 | Inserted; 50/50 verified |
+| Psychology | Judgment | Specific framing-study choices, risk patterns, and prospect theory | `data/generated/psychology-framing-and-risk-classic-study-deep-dive.json` | 21 | Inserted; 21/21 verified |
+| Psychology | Judgment | Original theater, shopping, and mental-accounting experiments | `data/generated/psychology-mental-accounting-original-study-deep-dive.json` | 15 | Inserted; 15/15 verified |
+| Psychology | Memory and learning | Memory systems, forgetting, conditioning, and classic experiments | `data/generated/psychology-memory-learning-and-classic-experiments.json` | 58 | Inserted; 58/58 verified |
 | Entertainment | Trolls | Three films, music tribes, family stories, cast, and spin-offs | `data/generated/trolls-films-world-music-and-characters.json` | 60 | Inserted; 60/60 verified |
 | Entertainment | Trolls | Bergen characters, Funk royal history, tribe side characters, BroZone details, and production | `data/generated/trolls-franchise-deeper-characters-tribes-and-production.json` | 45 | Inserted; 45/45 verified |
 | Entertainment | X-Men animation | 1992 series premiere, powers, foes, arcs, and legacy | `data/generated/xmen-animated-series-1992-characters-and-story-arcs.json` | 60 | Inserted; 60/60 verified |
 | Entertainment | X-Men animation | Episode-specific plots across seasons two through five | `data/generated/xmen-animated-series-1992-episode-deep-dive.json` | 50 | Inserted; 50/50 verified |
 | Entertainment | Avatar animation | Three seasons, nations, characters, locations, and episode plots | `data/generated/avatar-last-airbender-animated-world-and-three-books.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Avatar animation | Character backstories, animals, bending techniques, and less-used episodes | `data/generated/avatar-last-airbender-character-history-and-episode-deep-dive.json` | 45 | Inserted; 45/45 verified |
 | Entertainment | Korra animation | Four books, city politics, spirits, new airbenders, and Earth Empire | `data/generated/legend-of-korra-four-books-characters-and-conflicts.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Korra universe | Episode deep cuts, the Republic City prequel, and official continuation comics | `data/generated/legend-of-korra-episode-and-comics-deep-dive.json` | 45 | Inserted; 45/45 verified |
 | Entertainment | Shrek universe | Four Shrek films, two Puss in Boots films, plots, cast, and release history | `data/generated/shrek-universe-films-characters-stories-and-cast.json` | 60 | Inserted; 60/60 verified |
+| Entertainment | Shrek universe | Original-film credits and music, shorts, television, and Last Wish deep cuts | `data/generated/shrek-universe-shorts-puss-series-and-last-wish-deep-cuts.json` | 40 | Inserted; 40/40 verified |
 | Entertainment | Kung Fu Panda | Four films, character relationships, conflicts, cast, and production | `data/generated/kung-fu-panda-four-films-characters-conflicts-and-cast.json` | 52 | Inserted; 52/52 verified |
+| Entertainment | Kung Fu Panda | Film production, Legends episodes, panda pupils, and the globe-spanning TV quest | `data/generated/kung-fu-panda-tv-series-and-production-deep-dive.json` | 53 | Inserted; 53/53 verified |
 | Entertainment | Dragon-rider universe | Animated trilogy, riders, dragon species, and TV spin-offs | `data/generated/how-to-train-your-dragon-trilogy-riders-and-spinoffs.json` | 50 | Inserted; 50/50 verified |
+| Entertainment | Dragon-rider universe | Race to the Edge episodes, the modern era, Rescue Riders, specials, and animation production | `data/generated/dragon-riders-race-nine-realms-and-shorts-deep-dive.json` | 55 | Inserted; 55/55 verified |
 | Entertainment | Madagascar universe | Three films, penguin spin-off, zoo animals, and TV shows | `data/generated/madagascar-films-penguins-and-tv-spinoffs.json` | 40 | Inserted; 40/40 verified |
+| Entertainment | Madagascar universe | Penguin missions, Julien episodes, young zoo friends, holidays, and film production | `data/generated/madagascar-penguins-julien-little-wild-and-holiday-deep-dive.json` | 63 | Inserted; 63/63 verified |
 | Entertainment | Toy Story | Four films, toys, owners, settings, plot turns, and a short film | `data/generated/toy-story-four-films-characters-places-and-stories.json` | 52 | Inserted; 52/52 verified |
+| Entertainment | Toy Story | Fifth film, supporting toys, production details, TV specials, and short films | `data/generated/toy-story-five-shorts-supporting-toys-and-production.json` | 58 | Inserted; 58/58 verified |
 | Entertainment | Monsters universe | Original film, university prequel, workplace series, and short | `data/generated/monsters-inc-university-work-and-shorts.json` | 48 | Inserted; 48/48 verified |
+| Entertainment | Monsters universe | Factory-world details, university houses, workplace episodes, and Party Central | `data/generated/monsters-world-campus-jokesters-and-party-central-deep-dive.json` | 57 | Inserted; 57/57 verified |
 | Entertainment | Finding Nemo and Dory | Two films, reef and institute settings, sea life, characters, and journeys | `data/generated/finding-nemo-dory-reefs-characters-and-journeys.json` | 40 | Inserted; 40/40 verified |
+| Entertainment | Finding Nemo and Dory | Tank residents, sea-life details, institute staff, cast, production, and Piper | `data/generated/finding-nemo-dory-tank-gang-institute-and-production-deep-dive.json` | 62 | Inserted; 62/62 verified |
 | Entertainment | Inside Out | Two films, emotion roles, mind-world mechanics, and Riley's life | `data/generated/inside-out-two-films-emotions-memory-and-riley.json` | 30 | Inserted; 30/30 verified |
 | Entertainment | Inside Out | Film plot, hockey, hidden mind-world characters, short, series, and cast | `data/generated/inside-out-films-shorts-series-deeper-cuts.json` | 53 | Inserted; 53/53 verified |
+| Entertainment | Inside Out | Mind-world design, animated belief effects, and Dream Productions episodes | `data/generated/inside-out-mind-world-dream-episodes-and-animation-deep-dive.json` | 23 | Inserted; 23/23 verified |
 
 ## Deepening wave — 2026-09-06
 

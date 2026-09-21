@@ -3,8 +3,8 @@
   "generatedOn": "2026-09-20",
   "sourceDirectory": "data/generated",
   "totals": {
-    "files": 542,
-    "questions": 38857,
+    "files": 556,
+    "questions": 39531,
     "duplicateQuestionGroups": 299,
     "errors": 0,
     "warnings": 635
@@ -2410,6 +2410,22 @@
       "sha256": "cbd81c556ef162ef453c510bd1b273317669f4d1e6028f178be80b600749bbc6"
     },
     {
+      "file": "data/generated/avatar-last-airbender-character-history-and-episode-deep-dive.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.56,
+        "max": 0.76,
+        "hardAtOrAbove070": 8
+      },
+      "correctIndexDistribution": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "sha256": "53e0bc6900fd6f94c00f70328528845f65d12d0e6c450a72d7e56b85dbcb193a"
+    },
+    {
       "file": "data/generated/aviation-aircraft-flight-navigation-and-history.json",
       "questions": 100,
       "difficulty": {
@@ -3418,6 +3434,22 @@
       "sha256": "7975c16b0984a5ae9b4793615b022fe5fa4007a6112e146802721ee784b31dba"
     },
     {
+      "file": "data/generated/dragon-riders-race-nine-realms-and-shorts-deep-dive.json",
+      "questions": 55,
+      "difficulty": {
+        "min": 0.61,
+        "max": 0.79,
+        "hardAtOrAbove070": 38
+      },
+      "correctIndexDistribution": [
+        55,
+        0,
+        0,
+        0
+      ],
+      "sha256": "5cd05057c2018a8bfcf0aa9f45e73df129eebf3741bd30457eb58541c3cc95dd"
+    },
+    {
       "file": "data/generated/earth-climate-zones-and-biomes.json",
       "questions": 60,
       "difficulty": {
@@ -3976,6 +4008,22 @@
         0
       ],
       "sha256": "1ada840d20e2ceee9c36b497fe43d01146ebc28aa675e4558fea8f24effa1d89"
+    },
+    {
+      "file": "data/generated/finding-nemo-dory-tank-gang-institute-and-production-deep-dive.json",
+      "questions": 62,
+      "difficulty": {
+        "min": 0.44,
+        "max": 0.88,
+        "hardAtOrAbove070": 43
+      },
+      "correctIndexDistribution": [
+        16,
+        16,
+        15,
+        15
+      ],
+      "sha256": "d2869660736b1c4f513b0d8a39a0f9a6dbdbbbb1b94f652a65750d670dd88c43"
     },
     {
       "file": "data/generated/fishing-species-tackle-techniques-and-maritime-culture.json",
@@ -4890,6 +4938,22 @@
       "sha256": "98053680790ac3580fa7cf28026134ca37bc7528e9f46e1dc493d3bd15576378"
     },
     {
+      "file": "data/generated/git-staging-history-remotes-and-internals-deep-dive.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.5,
+        "max": 0.86,
+        "hardAtOrAbove070": 26
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        12,
+        11
+      ],
+      "sha256": "aeaa6a49c8642b73da29b5b92df0cffc3d6d9ef86bebb7bf50149636432bb6e4"
+    },
+    {
       "file": "data/generated/glaciers-ice-sheets-landforms-and-climate-records.json",
       "questions": 100,
       "difficulty": {
@@ -5722,6 +5786,22 @@
       "sha256": "c1e41c4a74260c56dbb5be31d3d2166420d1d019b29d2f2e0f8d7f2d5484731b"
     },
     {
+      "file": "data/generated/inside-out-mind-world-dream-episodes-and-animation-deep-dive.json",
+      "questions": 23,
+      "difficulty": {
+        "min": 0.56,
+        "max": 0.88,
+        "hardAtOrAbove070": 17
+      },
+      "correctIndexDistribution": [
+        6,
+        6,
+        6,
+        5
+      ],
+      "sha256": "1b997a88c484c0a4dae8eaf7b44b35904d2060a4d7413320947c4b1f554bed1d"
+    },
+    {
       "file": "data/generated/inside-out-two-films-emotions-memory-and-riley.json",
       "questions": 30,
       "difficulty": {
@@ -5914,6 +5994,22 @@
       "sha256": "99e30f236431bf26dee3fa5235dbd499356d0024d5bd0b1aaf78b90050018466"
     },
     {
+      "file": "data/generated/kung-fu-panda-tv-series-and-production-deep-dive.json",
+      "questions": 53,
+      "difficulty": {
+        "min": 0.55,
+        "max": 0.78,
+        "hardAtOrAbove070": 35
+      },
+      "correctIndexDistribution": [
+        53,
+        0,
+        0,
+        0
+      ],
+      "sha256": "4abc5497a25c9bc3529dd536402d43fa4ac94f70acaeac5e02381feb02a82bb5"
+    },
+    {
       "file": "data/generated/language-and-linguistics.json",
       "questions": 45,
       "difficulty": {
@@ -6072,6 +6168,22 @@
         25
       ],
       "sha256": "4f183fc9db5c1fa96f769bf52b6a32e894b21035739cf146d02345fceeb29261"
+    },
+    {
+      "file": "data/generated/legend-of-korra-episode-and-comics-deep-dive.json",
+      "questions": 45,
+      "difficulty": {
+        "min": 0.62,
+        "max": 0.77,
+        "hardAtOrAbove070": 25
+      },
+      "correctIndexDistribution": [
+        45,
+        0,
+        0,
+        0
+      ],
+      "sha256": "8902e4f1ea7ea00ae02616cfb00b12adf1024b9893f4eb9cc9a306b3338a180f"
     },
     {
       "file": "data/generated/legend-of-korra-four-books-characters-and-conflicts.json",
@@ -6392,6 +6504,22 @@
         0
       ],
       "sha256": "786462f972d9e22a5af7f2f0f5d1cbef3682d25c953d9c46be81805c2177fbb3"
+    },
+    {
+      "file": "data/generated/madagascar-penguins-julien-little-wild-and-holiday-deep-dive.json",
+      "questions": 63,
+      "difficulty": {
+        "min": 0.61,
+        "max": 0.78,
+        "hardAtOrAbove070": 37
+      },
+      "correctIndexDistribution": [
+        63,
+        0,
+        0,
+        0
+      ],
+      "sha256": "84052300bc19b51dee4d413647e2ef000fae919c765f3198d96ed88bf1e668c6"
     },
     {
       "file": "data/generated/manuscripts-paleography-codicology-and-textual-transmission.json",
@@ -6936,6 +7064,22 @@
         0
       ],
       "sha256": "34301f8469b95212fff482991a831c41d56e103c772a9a64c1adadca33f92fa6"
+    },
+    {
+      "file": "data/generated/monsters-world-campus-jokesters-and-party-central-deep-dive.json",
+      "questions": 57,
+      "difficulty": {
+        "min": 0.46,
+        "max": 0.91,
+        "hardAtOrAbove070": 31
+      },
+      "correctIndexDistribution": [
+        15,
+        14,
+        14,
+        14
+      ],
+      "sha256": "a044747a6c75a7d7066c3efbf6e850f5cf0ffbc28529c0c830d27be496fcb1c2"
     },
     {
       "file": "data/generated/movies-blockbusters-franchises-and-popular-cinema.json",
@@ -8202,6 +8346,22 @@
       "sha256": "559644027a12be64ac61328676e2bb095aba94305dac0ea8c69083cfecf73e11"
     },
     {
+      "file": "data/generated/psychology-framing-and-risk-classic-study-deep-dive.json",
+      "questions": 21,
+      "difficulty": {
+        "min": 0.64,
+        "max": 0.85,
+        "hardAtOrAbove070": 19
+      },
+      "correctIndexDistribution": [
+        6,
+        5,
+        5,
+        5
+      ],
+      "sha256": "35f7e81114eafedab260c896706ea2a4b687d19e05b54844bb12c3133d29114e"
+    },
+    {
       "file": "data/generated/psychology-memory-and-learning-strategies.json",
       "questions": 60,
       "difficulty": {
@@ -8216,6 +8376,22 @@
         0
       ],
       "sha256": "e47a71ec49da874f21cd23ea24a751f0c4f79d7ce01686dd06592bc5d3cf8b77"
+    },
+    {
+      "file": "data/generated/psychology-memory-learning-and-classic-experiments.json",
+      "questions": 58,
+      "difficulty": {
+        "min": 0.43,
+        "max": 0.84,
+        "hardAtOrAbove070": 23
+      },
+      "correctIndexDistribution": [
+        15,
+        15,
+        14,
+        14
+      ],
+      "sha256": "6f363e5a6c9d1907725d3e88b43a22a780ae91e41de7ade51f2b58db9e697e22"
     },
     {
       "file": "data/generated/psychology-memory-learning-perception-and-behavior.json",
@@ -8872,6 +9048,22 @@
         0
       ],
       "sha256": "97677ee7b918c89dc4b6aa333c8a5f423dc242db4435187d14e7dfe58d2c48fa"
+    },
+    {
+      "file": "data/generated/shrek-universe-shorts-puss-series-and-last-wish-deep-cuts.json",
+      "questions": 40,
+      "difficulty": {
+        "min": 0.56,
+        "max": 0.79,
+        "hardAtOrAbove070": 18
+      },
+      "correctIndexDistribution": [
+        40,
+        0,
+        0,
+        0
+      ],
+      "sha256": "c1c7835a2b3b290161532458770c8655bc47299b11a95991adcc96d2700e47cf"
     },
     {
       "file": "data/generated/signal-processing-sampling-filters-spectra-and-noise.json",
@@ -9642,6 +9834,22 @@
       "sha256": "660936177bb2336168e1e2f95a784fc19af2b89dfc0a673696ee88f529dce8ce"
     },
     {
+      "file": "data/generated/toy-story-five-shorts-supporting-toys-and-production.json",
+      "questions": 58,
+      "difficulty": {
+        "min": 0.59,
+        "max": 0.78,
+        "hardAtOrAbove070": 32
+      },
+      "correctIndexDistribution": [
+        58,
+        0,
+        0,
+        0
+      ],
+      "sha256": "aef18ff10197841f39fee1855b9e1c06a985388c6728e1b3c88c58cbedf76e35"
+    },
+    {
       "file": "data/generated/toy-story-four-films-characters-places-and-stories.json",
       "questions": 52,
       "difficulty": {
@@ -10120,6 +10328,22 @@
         9
       ],
       "sha256": "9e6efa519fd4e747431e1bdab91cfd75fb1c6b05f25497ad0eb9da56f2ef4446"
+    },
+    {
+      "file": "data/generated/web-html-css-http-and-browser-behavior-deep-dive.json",
+      "questions": 47,
+      "difficulty": {
+        "min": 0.55,
+        "max": 0.75,
+        "hardAtOrAbove070": 10
+      },
+      "correctIndexDistribution": [
+        12,
+        12,
+        12,
+        11
+      ],
+      "sha256": "be946acc6ea01a398e1bdbbf9a2b15f6d5be2ab4f3393a66ea1608bdcddc6236"
     },
     {
       "file": "data/generated/wine-grapes-regions-viticulture-and-winemaking.json",

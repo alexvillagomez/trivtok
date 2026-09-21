@@ -91,9 +91,13 @@ export function pCorrect(
   return normCdf(s / Math.sqrt(beta * beta + totVar));
 }
 
-/** Difficulty suitability factor in (0,1]: highest when P is exactly at target. */
-export function difficultyFactor(p: number): number {
-  return 1 - Math.abs(p - TARGET_P);
+/**
+ * Difficulty suitability factor in (0,1]: highest when P is exactly at `target`.
+ * `target` is the desired P(correct) — the user's difficulty setting moves it
+ * (higher = easier questions, lower = harder); defaults to TARGET_P.
+ */
+export function difficultyFactor(p: number, target: number = TARGET_P): number {
+  return 1 - Math.abs(p - target);
 }
 
 /**

@@ -50,16 +50,13 @@ export function findAnswerGiveaway(
   const answerPhrases = giveawayPhrases(choices[correctIndex] ?? "");
   if (!answerPhrases.some((phrase) => containsPhrase(stem, phrase))) return null;
 
-  const distractorInStem = choices.some(
-    (choice, i) => i !== correctIndex && giveawayPhrases(choice).some((phrase) => containsPhrase(stem, phrase)),
+  // If EVERY choice is echoed in the stem it's a listing ("which of these: a,
+  // b, c, d?"), not a giveaway. We only flag the asymmetric case: the answer is
+  // in the stem but at least one distractor is not.
+  const allChoicesInStem = choices.every(
+    (choice) => giveawayPhrases(choice).some((phrase) => containsPhrase(stem, phrase)),
   );
-  const allDistractorsInStem = choices.every(
-    (choice, i) => i === correctIndex || giveawayPhrases(choice).some((phrase) => containsPhrase(stem, phrase)),
-  );
-  // If every choice is echoed in the stem it's a listing, not a giveaway.
-  if (allDistractorsInStem) return null;
-  // Asymmetry: answer is in the stem, but at least one distractor is not.
-  void distractorInStem;
+  if (allChoicesInStem) return null;
 
   return `The question text contains the correct answer ("${choices[correctIndex]}").`;
 }

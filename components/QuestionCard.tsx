@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { PublicQuestion } from "@/lib/types";
 
 const LABELS = ["A", "B", "C", "D"];
@@ -24,6 +24,8 @@ type Props = {
   onReport: () => void;
   /** Double-tapping the question always likes (TikTok convention). */
   onDoubleLike: () => void;
+  /** When true, hide the choices behind a blur until the user taps to reveal. */
+  blurAnswers?: boolean;
 };
 
 /**
@@ -42,12 +44,20 @@ export default function QuestionCard({
   onToggleLike,
   onReport,
   onDoubleLike,
+  blurAnswers = false,
 }: Props) {
   const [menuOpen, setMenuOpen] = useState(false);
   const [burstKey, setBurstKey] = useState(0);
+  // With blur on, the choices start hidden and the first tap reveals them (it
+  // does NOT answer). Reset per question so each new card re-blurs.
+  const [revealed, setRevealed] = useState(!blurAnswers);
+  useEffect(() => {
+    setRevealed(!blurAnswers);
+  }, [question.id, blurAnswers]);
 
   const answered = selectedIndex !== null;
   const correct = answered && selectedIndex === question.correctIndex;
+  const hidden = blurAnswers && !revealed;
 
   function fireHeart() {
     setBurstKey((k) => k + 1);
@@ -108,7 +118,18 @@ export default function QuestionCard({
         )}
       </div>
 
-      <div className="answers">
+      <div className={`answers${hidden ? " answers--blurred" : ""}`}>
+        {hidden && (
+          <button
+            className="answer-reveal"
+            onClick={(e) => {
+              e.stopPropagation();
+              setRevealed(true);
+            }}
+          >
+            Tap to reveal answers
+          </button>
+        )}
         {question.choices.map((choice, i) => {
           let cls = "choice";
           if (answered) cls += " choice--answered";

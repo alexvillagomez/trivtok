@@ -1,5 +1,5 @@
 import type { Ability, Embedding, Question } from "../types";
-import { difficultyFactor, pCorrect } from "./difficulty";
+import { difficultyFactor, pCorrect, TARGET_P } from "./difficulty";
 import { sampleIndex, softmax } from "./math";
 import { globalLikeRate, likeRating } from "./rating";
 import { retrieveCandidates } from "./retrieve";
@@ -24,6 +24,7 @@ const EPS = 1e-6; // floor for priority + rating so ln() stays finite when they 
 export type SelectionParams = {
   k: number; // candidates to retrieve
   tau: number; // final softmax temperature (lower = greedier)
+  targetP: number; // target P(correct) — the user's difficulty setting
   wSemantic: number;
   wDifficulty: number;
   wRating: number;
@@ -31,7 +32,9 @@ export type SelectionParams = {
 
 export const DEFAULT_SELECTION: SelectionParams = {
   k: 150,
-  tau: 0.2,
+  tau: 1.5, // high temperature → nearly flat softmax over candidates, so the feed
+            // varies broadly within a topic (was 0.2, which served the top card)
+  targetP: TARGET_P, // 0.70 by default; the difficulty slider moves this per-user
   wSemantic: 1.0,
   wDifficulty: 1.0,
   wRating: 0.3, // rating nudges, doesn't dominate
@@ -72,7 +75,7 @@ export function selectNextQuestion(
   const partial = candidates.map((c) => {
     const p = pCorrect(ability, c.question.embedding, c.question.difficulty);
     const priorityFactor = Math.max(EPS, c.semantic);
-    const dFactor = difficultyFactor(p);
+    const dFactor = difficultyFactor(p, params.targetP);
     const rFactor = likeRating(c.question.likeCount, c.question.dislikeCount, globalMean);
     const score =
       params.wSemantic * Math.log(priorityFactor) +
