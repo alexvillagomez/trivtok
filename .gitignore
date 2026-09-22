@@ -34,3 +34,9 @@ yarn-error.log*
 .DS_Store
 *.pem
 .env*
+
+# question authoring corpus + scratch (large; imported questions live in the DB)
+/data/production/
+/data/authoring-test/
+# local importer bookkeeping
+.import-state.txt

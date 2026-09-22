@@ -41,13 +41,49 @@ type NextRow = {
   interest_count: number;
 };
 
+// Questions are authored + stored with the correct answer at index 0 (positions
+// get shuffled at serve time, not in the DB). We shuffle the four choice
+// "rectangles" here, on the way out, using a permutation derived deterministically
+// from the question id: the browser sees a stable, non-index-0 layout, and the
+// answer a user taps is translated back to the stored index before it reaches
+// next_question() (which still computes correctness against stored correct_index).
+//
+// `perm[displayPos] = originalIndex`, so displayChoices[d] = original[perm[d]].
+function choicePermutation(questionId: string): number[] {
+  // Seed a small PRNG from the id's hex, then Fisher-Yates over [0,1,2,3].
+  let seed = 0;
+  for (const ch of questionId) seed = (seed * 31 + ch.charCodeAt(0)) >>> 0;
+  const rand = () => {
+    // mulberry32
+    seed = (seed + 0x6d2b79f5) >>> 0;
+    let t = seed;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  };
+  const perm = [0, 1, 2, 3];
+  for (let i = perm.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [perm[i], perm[j]] = [perm[j], perm[i]];
+  }
+  return perm;
+}
+
+/** Map a display-space choice index back to the stored (original) index. */
+function toStoredIndex(questionId: string, displayIndex: number | null): number | null {
+  if (displayIndex === null) return null;
+  const perm = choicePermutation(questionId);
+  return perm[displayIndex] ?? displayIndex;
+}
+
 function toCard(row: NextRow): NextCard {
+  const perm = choicePermutation(row.question_id);
   return {
     nextQuestion: {
       id: row.question_id,
       text: row.stem,
-      choices: row.choices,
-      correctIndex: row.correct_index,
+      choices: perm.map((original) => row.choices[original]),
+      correctIndex: perm.indexOf(row.correct_index),
       difficulty: row.difficulty,
     },
     impressionId: row.impression_id,
@@ -77,10 +113,13 @@ export async function recordInteractionAndSelectNext(
   input: FeedInteractionInput,
 ): Promise<FeedInteractionResult> {
   const responseTimeMs = Math.max(0, Math.min(input.responseTimeMs, 3_600_000));
+  // The client's selectedIndex is in display (shuffled) space; translate it back
+  // to the stored index the DB scored the question at before recording correctness.
+  const storedSelectedIndex = toStoredIndex(input.questionId, input.selectedIndex);
   const [row] = await sql<NextRow[]>`
     select * from next_question(
       ${input.userId}::uuid, ${input.sessionId}::uuid, ${input.questionId}::uuid,
-      ${input.impressionId}::bigint, ${input.selectedIndex}::int, ${input.liked}::boolean,
+      ${input.impressionId}::bigint, ${storedSelectedIndex}::int, ${input.liked}::boolean,
       ${responseTimeMs}::int, ${input.excludeIds ?? []}::uuid[])`;
   if (!row) throw new Error("No questions are available");
   return toCard(row);

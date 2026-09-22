@@ -69,6 +69,10 @@ async function main() {
   // 0015 = user settings: redefines rec_explore_prob (level) and rec_difficulty_factor
   // (target), plus rec_score/next_question. Load last so its signatures win.
   await sql.unsafe(await readFile("supabase/migrations/0015_user_settings.sql", "utf8"));
+  // 0016 = serve-only-new switch: creates app_config and re-defines next_question
+  // with the new-only candidate filter. It touches no rec_* helper this test checks,
+  // but reload it last so running the harness doesn't drop the switch from the DB.
+  await sql.unsafe(await readFile("supabase/migrations/0016_new_questions_switch.sql", "utf8"));
 
   const CASES = 50;
   for (let k = 0; k < CASES; k++) {

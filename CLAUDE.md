@@ -217,6 +217,17 @@ supabase/migrations/
                          exploreLevel/exploreProbability, difficulty.ts
                          difficultyFactor(p,target), select.ts targetP). Re-attaches
                          0012's iterative_scan GUC. Saved via lib/db/settings.ts
+  0016_new_questions_switch  global "serve only the newest batch" on/off toggle. A
+                         one-row app_config table (serve_only_new bool + new_since
+                         timestamptz) the recommender reads each swipe; when on, all
+                         four candidate scans in next_question filter to
+                         created_at >= new_since (default 2026-09-21 → the 2026-09-22
+                         authoring batch), so older questions never surface. Flip at
+                         runtime with one UPDATE — no redeploy/migration:
+                         `update app_config set serve_only_new = false` serves the
+                         whole bank again. The answered-card fetch stays unfiltered so
+                         stats/ability still record after a flip. Signature unchanged
+                         (rides on app_config, not a new arg); re-attaches 0012's GUC
 ```
 
 ## Hard boundaries (enforce these)
