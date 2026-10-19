@@ -1,0 +1,99 @@
+// Core domain types for TrivTok.
+// These mirror the planned Supabase tables so the same shapes flow
+// from the database → recommendation engine → UI without translation.
+
+/** Length of every semantic embedding vector. */
+export const EMBEDDING_DIM = 64;
+
+/** A normalized semantic embedding in R^64 (unit length). */
+export type Embedding = number[];
+
+export type Question = {
+  id: string;
+  text: string;
+  choices: string[]; // exactly 4 for the MVP
+  correctIndex: number; // index into `choices`
+  difficulty: number; // stored 0..1; logit-scaled at scoring time (b_i)
+  embedding: Embedding; // e_i in R^64, normalized
+  likeCount: number; // aggregate likes, for the rating factor
+  dislikeCount: number; // aggregate dislikes, for the rating factor
+};
+
+/**
+ * What the browser is allowed to receive: an explicit allow-list of display
+ * fields, nothing else. Embeddings, like/dislike counts, and any future
+ * server-only stats stay on the server. Map with toPublicQuestion() before
+ * sending anything to the client.
+ */
+export type PublicQuestion = Pick<
+  Question,
+  "id" | "text" | "choices" | "correctIndex" | "difficulty"
+>;
+
+export function toPublicQuestion(q: Question): PublicQuestion {
+  return {
+    id: q.id,
+    text: q.text,
+    choices: q.choices,
+    correctIndex: q.correctIndex,
+    difficulty: q.difficulty,
+  };
+}
+
+/**
+ * A broad onboarding interest (Sports, Music, …). Its centroid lives in the same
+ * 64-D space as questions and user interests, so it can seed a starting interest
+ * and be projected against a user's ability. Server-only — never sent whole.
+ */
+export type Topic = {
+  id: string; // slug
+  label: string; // display label
+  emoji: string | null; // optional glyph for the picker
+  centroid: Embedding; // c_topic in R^64, normalized
+  sortOrder: number;
+};
+
+/** What the browser may see of a topic: display fields only, never the centroid. */
+export type PublicTopic = Pick<Topic, "id" | "label" | "emoji" | "sortOrder">;
+
+/**
+ * Bayesian ability: a diagonal Gaussian over the 64-D ability vector.
+ * `mean` is the point estimate (θ); `variance` is our uncertainty per
+ * dimension. Both persist per user (DB: two vector(64) columns).
+ */
+export type Ability = {
+  mean: Embedding;
+  variance: Embedding;
+};
+
+/**
+ * Per-user settings (migration 0015). Plain scalars — safe to cross to the client
+ * (this type carries no embeddings). `exploreLevel` and `targetP` feed the in-DB
+ * recommender; `blurAnswers` is a pure client-render flag.
+ */
+export type UserSettings = {
+  exploreLevel: number; // [0,1] — 0 = only known interests, 1 = explore constantly
+  targetP: number; // target P(correct); higher = easier questions
+  blurAnswers: boolean; // blur the choices until tapped
+};
+
+/** Defaults — must match the users-table column defaults in migration 0015. */
+export const DEFAULT_USER_SETTINGS: UserSettings = {
+  exploreLevel: 0.1,
+  targetP: 0.7,
+  blurAnswers: false,
+};
+
+/** One semantic interest cluster for a user. */
+export type UserInterest = {
+  id: string;
+  userId: string;
+  centroid: Embedding; // c_m in R^64, normalized
+  strength: number; // long-term affinity — accumulates slowly, remembers the past
+  momentum: number; // recent-engagement trace in ~[-1,1] — time-decayed toward 0.
+  // The short-timescale counterpart to strength: goes negative when a once-loved
+  // topic is currently being skipped ("worn out"), decays back to 0 while dormant
+  // so the topic naturally re-surfaces for a re-test. See lib/rec/interest.ts.
+  positiveCount: number; // number of positive interactions seen
+  lastUsedAt: string; // ISO timestamp — freshness bonus AND momentum decay reference
+};

@@ -1,0 +1,44 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+next-env.d.ts
+
+# production
+/build
+
+# testing
+/coverage
+
+# typescript
+*.tsbuildinfo
+
+# env files (keep secrets out of git)
+.env
+.env.local
+.env.*.local
+
+# vercel
+.vercel
+
+# debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# misc
+.DS_Store
+*.pem
+.env*
+
+# authoring data and one-off scripts (imported questions live in the DB)
+/data/
+/scripts/*
+!/scripts/migrate.ts
+!/scripts/loadEnv.ts
+!/scripts/try-sql-parity.ts
+.import-state.txt
